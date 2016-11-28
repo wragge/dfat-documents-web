@@ -11,6 +11,6 @@ layout: volume
 
 {% for document in documents %}
 
-* [{{ document.title }}]({{ document.url }})
+* [{{ document.title }}]({{site.baseurl}}{{ document.url }})
 
 {% endfor %}

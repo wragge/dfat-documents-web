@@ -9,7 +9,7 @@ title: DFAT Historical Documents
 <ul>
 {% for volume in volumes %}
 
-    <li><a href="/volumes/{{ volume.name | slugify }}/"</li>{{ volume.name }}</a></li>
+    <li><a href="{{site.baseurl}}/volumes/{{ volume.name | slugify }}/"</li>{{ volume.name }}</a></li>
 
 {% endfor %}
 </ul>
