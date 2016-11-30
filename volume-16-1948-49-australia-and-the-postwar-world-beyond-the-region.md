@@ -1,7 +1,7 @@
 ---
-title: 'Volume 1: 1937-38'
-vol_id: 1
-permalink: /volumes/volume-1-1937-38/
+title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
+vol_id: 16
+permalink: /volumes/volume-16-1948-49-australia-and-the-postwar-world-beyond-the-region/
 layout: volume
 ---
 

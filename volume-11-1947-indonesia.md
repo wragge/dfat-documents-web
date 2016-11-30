@@ -1,7 +1,7 @@
 ---
-title: 'Volume 1: 1937-38'
-vol_id: 1
-permalink: /volumes/volume-1-1937-38/
+title: 'Volume 11: 1947, Indonesia'
+vol_id: 11
+permalink: /volumes/volume-11-1947-indonesia/
 layout: volume
 ---
 

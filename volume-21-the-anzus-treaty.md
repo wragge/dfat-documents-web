@@ -1,7 +1,7 @@
 ---
-title: 'Volume 1: 1937-38'
-vol_id: 1
-permalink: /volumes/volume-1-1937-38/
+title: 'Volume 21: The ANZUS Treaty'
+vol_id: 21
+permalink: /volumes/volume-21-the-anzus-treaty/
 layout: volume
 ---
 

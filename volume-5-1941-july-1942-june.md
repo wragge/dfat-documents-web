@@ -1,7 +1,7 @@
 ---
-title: 'Volume 1: 1937-38'
-vol_id: 1
-permalink: /volumes/volume-1-1937-38/
+title: 'Volume 5: 1941, July - 1942, June'
+vol_id: 5
+permalink: /volumes/volume-5-1941-july-1942-june/
 layout: volume
 ---
 

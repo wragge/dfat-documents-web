@@ -1,7 +1,7 @@
 ---
-title: 'Volume 1: 1937-38'
-vol_id: 1
-permalink: /volumes/volume-1-1937-38/
+title: 'Volume 18: 1923 - 1929, Letters from S.M. Bruce to McDougall'
+vol_id: 18
+permalink: /volumes/volume-18-1923-1929-letters-from-s-m-bruce-to-mcdougall/
 layout: volume
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 'Volume 1: 1937-38'
-vol_id: 1
-permalink: /volumes/volume-1-1937-38/
+title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
+vol_id: 14
+permalink: /volumes/volume-14-1948-49-the-commonwealth-asia-and-the-pacific/
 layout: volume
 ---
 
