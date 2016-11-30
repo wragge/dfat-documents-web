@@ -1,0 +1,21 @@
+---
+title: Documents by date
+layout: default
+permalink: dates
+---
+
+<h1>Documents by date</h1>
+
+<iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plot.ly/~wragge/471.embed"></iframe>
+
+{% for doc in site.volumes %}
+  {% assign currentdate = doc.date | date: "%B %Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h3 id="y{{doc.date | date: "%B %Y"}}">{{ currentdate }}</h1>
+    <ul>
+    {% assign date = currentdate %}
+  {% endif %}
+    <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a> <span class="text-muted">(volume {{ doc.vol_id }})</span></li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}

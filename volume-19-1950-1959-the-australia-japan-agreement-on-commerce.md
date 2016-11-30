@@ -11,6 +11,7 @@ layout: volume
 
 {% for document in documents %}
 
-* [{{ document.title }}]({{site.baseurl}}{{ document.url }})
+* [{{ document.title }}]({{site.baseurl}}{{ document.url }})  
+  {% if document.date %}<span class="text-muted">{{ document.date | date: '%e %B %Y'}}</span>{% endif %}
 
 {% endfor %}

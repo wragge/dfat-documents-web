@@ -4,7 +4,15 @@
 // add bootstrap variable settings here
 
 @import 'bootstrap';
-
+@import 'bootswatch';
 
 // add more css stuff here
+
+footer {
+    
+    margin-top: 40px;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+
+}
 

@@ -1,0 +1,14 @@
+---
+layout: default
+permalink: references
+---
+
+<h1>NAA references</h1>
+
+{% assign series = site.data.barcodes | group_by: "series" %}
+
+{% for s in series %}
+
+    <h4>{{ s.name }}</h4>
+
+{% endfor %}
