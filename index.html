@@ -5,6 +5,12 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
+{% assign docs = site.volumes | where_exp: "item", "item.doc_date != null" | sort: "doc_date" %}
+{% assign first_doc = docs | first %}
+{% assign last_doc = docs | last %}
+
+<p class="lead">{{ docs | size }} documents from {{ first_doc.doc_date | date: "%e %B %Y" }} to {{ last_doc.doc_date | date: "%e %B %Y" }}</p>
+
 {% assign volumes = site.volumes | sort:"vol_id" | group_by:"volume" %}
 
 <ul>
