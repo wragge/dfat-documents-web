@@ -12,6 +12,6 @@ layout: volume
 {% for document in documents %}
 
 * [{{ document.title }}]({{site.baseurl}}{{ document.url }})  
-  {% if document.date %}<span class="text-muted">{{ document.date | date: '%e %B %Y'}}</span>{% endif %}
+  {% if document.doc_date %}<span class="text-muted">{{ document.doc_date | date: '%e %B %Y'}}</span>{% endif %}
 
 {% endfor %}

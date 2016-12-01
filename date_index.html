@@ -8,14 +8,26 @@ permalink: dates/
 
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plot.ly/~wragge/471.embed"></iframe>
 
-{% for doc in site.volumes %}
-  {% assign currentdate = doc.date | date: "%B %Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h3 id="y{{doc.date | date: "%B %Y"}}">{{ currentdate }}</h1>
-    <ul>
-    {% assign date = currentdate %}
-  {% endif %}
-    <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a> <span class="text-muted">(volume {{ doc.vol_id }})</span></li>
-  {% if forloop.last %}</ul>{% endif %}
+{% assign docs = site.volumes | sort: "doc_date" %}
+{% for doc in docs %}
+    {% if doc.doc_date %}
+        {% assign currentdate = doc.doc_date | date: "%B %Y" %}
+        {% if currentdate != date %}
+            {% unless forloop.first %}</ul>{% endunless %}
+            <h3 id="y{{doc.doc_date | date: "%B %Y"}}">{{ currentdate }}</h1>
+            <ul>
+            {% assign date = currentdate %}
+        {% endif %}
+        <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a> <span class="text-muted">(volume {{ doc.vol_id }})</span></li>
+        {% if forloop.last %}</ul>{% endif %}
+    {% endif %}
 {% endfor %}
+{% assign docs = site.volumes | sort: "doc_id" %}
+<h3>No dates found</h3>
+<ul>
+{% for doc in docs %}
+    {% unless doc.doc_date %}  
+        <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a> <span class="text-muted">(volume {{ doc.vol_id }})</span></li>
+    {% endunless %}
+{% endfor %}
+</ul>

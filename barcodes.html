@@ -5,10 +5,16 @@ permalink: references/
 
 <h1>NAA references</h1>
 
-{% assign series = site.data.barcodes | group_by: "series" %}
+{% assign series = site.data.references | sort: "identifier" %}
 
 {% for s in series %}
 
-    <h4>{{ s.name }}</h4>
+    <h4>NAA: {{ s.identifier }}, {{ s.title }}</h4>
+    <ul>
+        {% for item in s.items %}
+            <li><a href="http://www.naa.gov.au/cgi-bin/Search?O=I&Number={{ item.identifier }}">{{ item.control_symbol }}, {{ item.title }}</a><br>
+            <small class="text-muted">{{ item.contents_dates.date_str }}{% if item.digitised_status %}, {{ item.digitised_pages }} pages{% endif %}, {{ item.access_status }}</small></li>
+        {% endfor %}
+    </ul>
 
 {% endfor %}
