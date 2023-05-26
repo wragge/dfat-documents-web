@@ -1,12 +1,18 @@
 ---
-title: "255 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 254
+doc_date: '1938-09-15'
+doc_num: 255
+doc_order: 254
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 35/554]'
+title: Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley,
+  U.K. Secretary of State for Dominion Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-15
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 255 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley, U.K. Secretary of State for Dominion Affairs
 
 Cablegram unnumbered 15 September 1938,
 
@@ -18,7 +24,7 @@ As our cables supplemented by Bruce [4] and the Acting High Commissioner [5] hav
 
 Above message was drafted in the presence of Page [6] Menzies [7] and myself They regarded the action as inspired and it would be difficult to exaggerate the warmth of the enthusiasm with which they learnt of Mr Chamberlain's proposed action. End of telegram.
 
-_
+ _
 
 1 Document 254.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [PRO : DO 35/554]_
+ _[PRO : DO 35/554]_

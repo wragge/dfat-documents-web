@@ -1,12 +1,17 @@
 ---
-title: "65 Commonwealth Government to Attlee"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2356
+doc_date: '1942-10-24'
+doc_num: 65
+doc_order: 65
+naa_refs:
+- naa_barcode: 173531
+  naa_control_symbol: CHIN 60 PART 2
+  naa_series: A981
+  reference: '[AA:A981, CHINA 60B, ii]'
+title: Commonwealth Government to Attlee
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-10-24
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 65 Commonwealth Government to Attlee
 
 Cablegram 467 [1] CANBERRA, 24 October 1942
 
@@ -22,7 +27,7 @@ nor is it proposed to raise the question of negotiation of a general commercial 
 
 4\. It is proposed that our draft would cover generally the matters dealt with in the first five Articles and Article 7 of the United Kingdom draft. [4]
 
-_
+ _
 
 1 Repeated to the Canadian, N.Z. and South African Prime Ministers as nos 11, 271 and 123 respectively.
 
@@ -36,4 +41,4 @@ It also provided that the right to carry on commerce should be restricted only i
 
 _
 
-_ [AA:A981, CHINA 60B, ii]_
+ _[AA:A981, CHINA 60B, ii]_

@@ -1,12 +1,17 @@
 ---
-title: "69 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1300
+doc_date: '1940-08-12'
+doc_num: 69
+doc_order: 69
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, 1.6578]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 69 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 661 LONDON, 12 August 1940, 9 p.m.
 
@@ -18,10 +23,10 @@ JAPAN Following has been received through Secret and reliable source.
 
 BRUCE
 
-_
+ _
 
 1 Masatoshi Akiyama.
 
 _
 
-_ [AA:A3195, 1940, 1.6578]_
+ _[AA:A3195, 1940, 1.6578]_

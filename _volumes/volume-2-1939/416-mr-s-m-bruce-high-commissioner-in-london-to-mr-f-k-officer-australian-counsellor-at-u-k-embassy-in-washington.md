@@ -1,12 +1,18 @@
 ---
-title: "416 Mr S.M. Bruce, High Commissioner in London, to Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington"
-volume: "Volume 2: 1939"
-doc_id: 753
+doc_date: '1939-12-12'
+doc_num: 416
+doc_order: 416
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL: OFFICER MS 2629/1/875-885]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr F.K. Officer, Australian
+  Counsellor at U.K. Embassy in Washington
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-12-12
+vol_title: 'Volume 2: 1939'
 ---
-
-# 416 Mr S.M. Bruce, High Commissioner in London, to Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington
 
 Letter LONDON, 12 December 1939
 
@@ -88,9 +94,9 @@ I will try and take an opportunity of sending you something on this subject late
 
 S.M. BRUCE
 
-_
+ _
 
-1 Not printed (on file FA: AA1975/223, 1939, Far East Policy (U.S.) Japan &amp; China).
+1 Not printed (on file FA: AA1975/223, 1939, Far East Policy (U.S.) Japan & China).
 
 2 A.T. Stirling, External Affairs Officer in London.
 
@@ -134,4 +140,4 @@ Department of State.
 
 _
 
-_ [ANL: OFFICER MS 2629/1/875-885]_
+ _[ANL: OFFICER MS 2629/1/875-885]_

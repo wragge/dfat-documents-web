@@ -1,12 +1,19 @@
 ---
-title: "374 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8212
+doc_date: '1975-12-12'
+doc_num: 374
+doc_order: 373
+naa_refs:
+- naa_barcode: 4151553
+  naa_control_symbol: 801/13/11/1 PART 17
+  naa_series: A10463
+  reference: '[NAA: A10463, 801113/11/1, xvii]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-12-12
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 374 Cablegram to Canberra
 
 Jakarta, 12 December 1975
 
@@ -24,4 +31,4 @@ Australia's positive vote on the Portuguese Timor resolution in Fourth Committee
 
 
 
-_[NAA: A10463, 801113/11/1, xvii]_
+ _[NAA: A10463, 801113/11/1, xvii]_

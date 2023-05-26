@@ -1,12 +1,17 @@
 ---
-title: "85 Churchill to Curtin"
-volume: "Volume 8: 1945"
-doc_id: 3116
+doc_date: '1945-05-08'
+doc_num: 85
+doc_order: 85
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 577]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-05-08
+vol_title: 'Volume 8: 1945'
 ---
-
-# 85 Churchill to Curtin
 
 Cablegram 154 LONDON, 8 May 1945, 3.40 p.m.
 
@@ -20,10 +25,10 @@ The people of these Islands now, after five years and eight months relieved from
 
 We can look forward with confidence to the day not far distant when once again we can turn all our energies to the arts of peace and to the building of a new prosperity founded on freedom and security.
 
-_
+ _
 
 1 The general instrument of surrender was signed by Colonel General Alfred Jodl at Eisenhower's headquarters at Rheims on 7 May. To mollify the Russians, who had not been present, a second instrument of surrender was signed by the chiefs of the armed services, Field Marshal Wilhelm Keitel, Admiral Hans von Friedeburg and General Hans Jurgen Stumpff, in Berlin the following day.
 
 _
 
-_ [AA : A5954, BOX 577]_
+ _[AA : A5954, BOX 577]_

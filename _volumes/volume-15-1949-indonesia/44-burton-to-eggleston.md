@@ -1,14 +1,20 @@
 ---
-title: "44 Burton to Eggleston"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6213
+doc_date: '1949-01-07'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Burton to Eggleston
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-07
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 44 Burton to Eggleston
-
-## Letter CANBERRA, 7 January 1949
+Letter CANBERRA, 7 January 1949
 
 Thank you for your letter of 5th January [1] enclosing a note addressed to the Minister on Indonesia.
 
@@ -22,10 +28,10 @@ With regard to our relations with the Security Council, I do not think it is a m
 
 The Prime Minister is, of course, in Tasmania and presumably your note was written before the decision was made, but I shall nevertheless see that it is drawn to the Minister's attention.
 
-_
+ _
 
 1 Document 20.
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

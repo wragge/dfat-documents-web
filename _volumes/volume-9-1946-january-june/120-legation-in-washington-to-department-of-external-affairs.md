@@ -1,12 +1,17 @@
 ---
-title: "120 Legation in Washington to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3632
+doc_date: '1946-03-07'
+doc_num: 120
+doc_order: 120
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 TI, SPTS/1/4]'
+title: Legation in Washington to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-07
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 120 Legation in Washington to Department of External Affairs
 
 Cablegram 255 WASHINGTON, 7 March 1946, 7.41 p.m.
 
@@ -32,10 +37,10 @@ United Kingdom representatives here have not yet had any detailed discussions wi
 
 You will presumably be receiving from Wellington a full account of the New Zealand Discussions. Meanwhile please let us know if you would like us to telegraph text of suggested draft agreement and suggested clauses for insertion in Trusteeship agreement.
 
-_
+ _
 
 1 Dispatched 2 March, it conveyed the N.Z. Legation's promise to provide a full account of Fraser's talks with the State Department.
 
 _
 
-_ [AA:A6494 TI, SPTS/1/4]_
+ _[AA:A6494 TI, SPTS/1/4]_

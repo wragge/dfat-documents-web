@@ -1,14 +1,20 @@
 ---
-title: "192 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1423
+doc_date: '1940-11-08'
+doc_num: 192
+doc_order: 192
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.8589]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 192 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 579 8 November 1940,
+Cablegram 579 8 November 1940,
 
 Reference your Circular D. 553 [1] and cable to you from Prime Minister, Canada. [2] I feel too much has been read into the projected resolutions which seem to me to go far enough but not too far. He raises in paragraph 12 a question of great importance to us in Australia. [3] We freely recognise value of consultation through High Commissioners and by cable and are not unconscious of practical difficulties of creating a standing Empire War Cabinet at this time. But nevertheless we feel strongly that some personal consultation between Empire countries in near future essential if Empire military plans to be concerted and our common strategic ideas to be brought up to date. For example, Australia has special interests in the Middle East in relation to the dispositions and use of manpower and equipment and has vital interest in Singapore and Western Pacific problems, including Japan, Netherlands East Indies, Thailand and other Pacific countries.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.8589]_
+ _[AA:A3196, 1940, 0.8589]_

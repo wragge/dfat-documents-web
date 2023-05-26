@@ -1,18 +1,21 @@
 ---
-title: "464 LETTER HARDERS TO BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10331
+doc_date: '1973-05-16'
+doc_num: 464
+doc_order: 464
+naa_refs:
+- naa_barcode: 12076813
+  naa_control_symbol: 1973/3262 PART 1
+  naa_series: A432
+  reference: '[NAA: A432, 1973/3262 PART I]'
+title: LETTER HARDERS TO BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1973-05-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 464 LETTER HARDERS TO BUNTING
-
-NAA: A432, 1973/3262 PART I
 
 Attorney-General’s Department, Canberra, 16 May 1973
 
-**Visit of State Premiers to London—Sea-Bed and Other Matters**
+ **Visit of State Premiers to London—Sea-Bed and Other Matters**
 
 I refer to our discussion on 15 May concerning the steps being taken by the States to petition Her Majesty to refer the question of sea-bed rights to the Privy Council.
 
@@ -25,3 +28,5 @@ I refer to our discussion on 15 May concerning the steps being taken by the Stat
 5\. I shall be glad to assist with the preparation of a telegram or other communication to London.
 
 6\. I would like to get a message to the Attorney-General at The Hague as soon as possible but would prefer to wait until the nature and timing of the next step from Canberra is known.
+
+[NAA: A432, 1973/3262 PART I]

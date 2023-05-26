@@ -1,12 +1,18 @@
 ---
-title: "242 Officer to Department of External Affairs"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6018
+doc_date: '1949-02-04'
+doc_num: 242
+doc_order: 242
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:OUTWARD ORIGTNAL (TS) 1948-50]'
+title: Officer to Department of External Affairs
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-02-04
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 242 Officer to Department of External Affairs
 
 Cablegram 59 NANKING, 4 February 1949, 2.35 p.m.
 
@@ -20,10 +26,10 @@ For these reasons, we must all be anxious for an early end to this civil war. We
 
 Now that both sides have expressed their readiness to commence negotiations, I hope that they will commence negotiations without delay. I trust that both sides will refrain from any unnecessary bitterness or from putting forward harsh demands and make every effort to reach a very early agreement.'
 
-_
+ _
 
 1 Document 241.
 
 _
 
-_ [FA:OUTWARD ORIGTNAL (TS) 1948-50]_
+ _[FA:OUTWARD ORIGTNAL (TS) 1948-50]_

@@ -1,12 +1,18 @@
 ---
-title: "388 Memorandum by Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1619
+doc_date: '1941-04-10'
+doc_num: 388
+doc_order: 388
+naa_refs:
+- naa_barcode: 640860
+  naa_control_symbol: 629/6
+  naa_series: A5954
+  reference: '[DEFENCE: SPECIAL COLLECTION 1, BOX 629, EIRE-FUTURE POLICY. VISIT BY
+    PRIME MINISTER, APRIL 1941]'
+title: Memorandum by Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-10
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 388 Memorandum by Mr R. G. Menzies, Prime Minister
 
 n.d. [between 5 and 10 April 1941]
 
@@ -66,7 +72,7 @@ I found it necessary to explain to him the importance of air bases as a platform
 
 The paragraphs I have written above contain, as I realise, much exasperating information. They may convey the impression that De Valera is an entirely impossible person. This is not altogether the case. He has in my opinion some fine qualities. His fixed ideas, like those of his people, cannot be removed by aloofness or by force. They can be removed only by a genuine attempt to get at their foundations by enquiry and, wherever possible, by understanding. To the outsider, like myself, and particularly to one who travelled seventeen thousand miles to confer with his colleagues of the British Government, it is fantastic to be told that De Valera and Andrews have never met, and that I have had more conversation with De Valera than any British Minister has had since the war began. I therefore suggest very strongly that the whole question of the defence of Eire should be looked at, that the Secretary of State for the Dominions [4] should pay an early visit to Belfast and Dublin, and that if he receives the slightest encouragement he should invite De Valera and a couple of his colleagues to come to London for discussions with the Prime Minister [5] and other members of the British Cabinet. I know that such a meeting would be welcomed by some members of the Irish Cabinet who are beginning to realise that neutrality has its defeats no less renowned than war; and I would be by no means pessimistic about the outcome. But even if such discussions failed, they would give a very different colour to any subsequent policy which it was found necessary to adopt in relation to Ireland and would be of great value in regard to world opinion.[6]
 
-_ BY PRIME MINISTER, APRIL 1941]
+ _
 
 1 Prime Minister of Eire.
 
@@ -84,4 +90,4 @@ _ BY PRIME MINISTER, APRIL 1941]
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION 1, BOX 629, EIRE-FUTURE POLICY. VISIT_
+ _[DEFENCE: SPECIAL COLLECTION 1, BOX 629, EIRE-FUTURE POLICY. VISIT BY PRIME MINISTER, APRIL 1941]_

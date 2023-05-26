@@ -1,14 +1,20 @@
 ---
-title: "169 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1923
+doc_date: '1941-12-06'
+doc_num: 169
+doc_order: 170
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3830, 1941, UNNUMBERED]'
+title: Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister,
+  and to Dr H. V. Evatt, Minister for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-06
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 169 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs
-
-## Cablegram 1096 WASHINGTON, 6 December 1941, [9.30 p.m.] [1]
+Cablegram 1096 WASHINGTON, 6 December 1941, [9.30 p.m.] [1]
 
 MOST IMMEDIATE [BRONX]
 
@@ -26,7 +32,7 @@ British Ambassador tells me that the President does not believe that the Japanes
 
 CASEY
 
-_
+ _
 
 1 Matter in square brackets has been corrected/inserted from the Washington copy on file AA:A3300, 100.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA:A3830, 1941, UNNUMBERED]_
+ _[AA:A3830, 1941, UNNUMBERED]_

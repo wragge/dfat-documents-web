@@ -1,12 +1,17 @@
 ---
-title: "251 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 250
+doc_date: '1938-09-12'
+doc_num: 251
+doc_order: 250
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA : AA1970/556, ITEM 6(2)]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-12
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 251 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered GENEVA, 12 September 1938
 
@@ -20,6 +25,6 @@ At the moment I am in Geneva but I have made arrangements to fly back to London 
 
 BRUCE
 
-_ 1 On 12 September 1938 Malcolm MacDonald, acting for the Dominions Secretary (not Viscount Halifax, Foreign Secretary) met representatives of the Dominions (See PRO : DO 114/94) Australia was represented by J. S. Duncan, Official Secretary to the High Commissioner's Office. Duncan subsequently informed Bruce in Geneva of the substance of the discussion and suggested that Bruce should send a message to Australia (See AA: AA1970/559, item 5)._
+ _1 On 12 September 1938 Malcolm MacDonald, acting for the Dominions Secretary (not Viscount Halifax, Foreign Secretary) met representatives of the Dominions (See PRO : DO 114/94) Australia was represented by J. S. Duncan, Official Secretary to the High Commissioner's Office. Duncan subsequently informed Bruce in Geneva of the substance of the discussion and suggested that Bruce should send a message to Australia (See AA: AA1970/559, item 5)._
 
-_ [AA : AA1970/556, ITEM 6(2)]_
+ _[AA : AA1970/556, ITEM 6(2)]_

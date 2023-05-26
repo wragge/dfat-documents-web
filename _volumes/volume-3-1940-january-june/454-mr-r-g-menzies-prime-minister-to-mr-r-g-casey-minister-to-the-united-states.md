@@ -1,12 +1,18 @@
 ---
-title: "454 Mr R. G. Menzies, Prime Minister, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1220
+doc_date: '1940-06-28'
+doc_num: 454
+doc_order: 454
+naa_refs:
+- naa_barcode: 4212449
+  naa_control_symbol: 1940/15
+  naa_series: A3196
+  reference: '[FA: A3196, [0.4238]'
+title: Mr R. G. Menzies, Prime Minister, to Mr R. G. Casey, Minister to the United
+  States
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-28
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 454 Mr R. G. Menzies, Prime Minister, to Mr R. G. Casey, Minister to the United States
 
 Cablegram unnumbered [28 June 1940, 1.35 a.m.] [1]
 
@@ -22,7 +28,7 @@ We have no delusions as to the immensity of the struggle with which we are faced
 
 R. G. MENZIES
 
-_
+ _
 
 1 The copy of this cablegram circulated in Canberra was dated 27- 28 June. The correct date has been inserted from the Washington file copy on AA: A3300, 67.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [FA: A3196, [0.4238] [3]]_
+ _[FA: A3196, [0.4238] [3]]_

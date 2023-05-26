@@ -1,12 +1,17 @@
 ---
-title: "290 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 627
+doc_date: '1939-10-12'
+doc_num: 290
+doc_order: 290
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-12
+vol_title: 'Volume 2: 1939'
 ---
-
-# 290 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 130 LONDON, 12 October 1939
 
@@ -32,7 +37,7 @@ As we believe [it] may be the fact that the German Government have not yet close
 
 May I conclude by again expressing our deep appreciation of the thought which you have given to our draft at necessarily very short notice and our gratitude for the help which your views have afforded me.
 
-_
+ _
 
 1 Document 283.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

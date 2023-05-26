@@ -1,18 +1,23 @@
 ---
-title: "201 Minute, Besley To Galvin"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9709
+doc_date: '1968-06-24'
+doc_num: 201
+doc_order: 201
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A452
+  reference: '[NAA: A452, 1968/1573]'
+title: Minute, Besley To Galvin
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-06-24
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 201 Minute, Besley To Galvin
 
 Canberra, 24 June 1968
 
-**U.N.D.P. Special Fund projects**
+ **U.N.D.P. Special Fund projects**
 
-The substance of your minute (folio 78)1 was discussed briefly at the Senior Officers’ meeting this morning.
+The substance of your minute (folio 78)[1](#f1) was discussed briefly at the Senior Officers’ meeting this morning.
 
 2\. The question of the international aid as such was considered and two broad bases emerged. Namely:—
 
@@ -20,7 +25,7 @@ The substance of your minute (folio 78)1 was discussed briefly at the Senior Off
 
 \- there is no point in seeking international aid for the sake of having it. Every project must be justifiable in its own right and in keeping with the Government’s present policy emphasis needs to be placed on economic type international aid e.g. the road survey or the provision of capital equipment
 
-_[matter omitted]_
+ _[matter omitted]_
 
 [NAA: A452, 1968/1573]
 

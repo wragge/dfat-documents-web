@@ -1,12 +1,17 @@
 ---
-title: "16 Bruce to Curtin"
-volume: "Volume 8: 1945"
-doc_id: 3047
+doc_date: '1945-01-26'
+doc_num: 16
+doc_order: 16
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA: A5954, BOX 577]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-01-26
+vol_title: 'Volume 8: 1945'
 ---
-
-# 16 Bruce to Curtin
 
 Cablegram 13[A] LONDON, 26 January 1945, 7.37 p.m.
 
@@ -38,7 +43,7 @@ While the need for maintaining the utmost secrecy is, I recognise, imperative, i
 
 I suggest for your consideration, if, indeed, you have not already done so, that a telegram from yourself to the Prime Minister reminding him of Australia's vital concern in the questions to be discussed at the meeting would be most valuable. [2]
 
-_
+ _
 
 1 In cablegram D176, dispatched 30 January, Cranborne listed some probable agenda items. On file AA:A1066, H45/1016/4.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA: A5954, BOX 577]_
+ _[AA: A5954, BOX 577]_

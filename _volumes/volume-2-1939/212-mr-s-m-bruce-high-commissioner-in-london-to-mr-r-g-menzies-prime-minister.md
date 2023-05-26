@@ -1,12 +1,17 @@
 ---
-title: "212 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 549
+doc_date: '1939-09-07'
+doc_num: 212
+doc_order: 212
+naa_refs:
+- naa_barcode: 214768
+  naa_control_symbol: '108'
+  naa_series: AA1972/341
+  reference: '[AA:AA1972/341, Box 6, TELEGRAMS ... SEPTEMBER 1939]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-07
+vol_title: 'Volume 2: 1939'
 ---
-
-# 212 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 429 LONDON, 7 September 1939, 8.55 p.m.
 
@@ -38,7 +43,7 @@ Paragraphs (9) to (12) of questionnaire (a) and parts of questionnaire (b) would
 
 BRUCE
 
-_
+ _
 
 1 4 September 1939. Bruce's notes of this conversation are on file AA:M100, September 1939.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:AA1972/341, Box 6, TELEGRAMS ... SEPTEMBER 1939]_
+ _[AA:AA1972/341, Box 6, TELEGRAMS ... SEPTEMBER 1939]_

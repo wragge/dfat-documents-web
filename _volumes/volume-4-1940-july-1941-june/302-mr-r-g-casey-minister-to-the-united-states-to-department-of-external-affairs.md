@@ -1,12 +1,17 @@
 ---
-title: "302 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1533
+doc_date: '1941-02-15'
+doc_num: 302
+doc_order: 302
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 185B, i]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-15
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 302 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 126 WASHINGTON, 15 February 1941, 9.52 p.m.
 
@@ -32,7 +37,7 @@ By chance the Netherlands Minister [7] saw the Secretary of State immediately af
 
 CASEY
 
-_
+ _
 
 1 Adviser on political Relations, U.S. State Department.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 185B, i]_
+ _[AA:A981, JAPAN 185B, i]_

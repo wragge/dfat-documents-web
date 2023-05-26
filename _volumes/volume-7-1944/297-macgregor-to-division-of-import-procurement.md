@@ -1,14 +1,19 @@
 ---
-title: "297 Macgregor to Division of Import Procurement"
-volume: "Volume 7: 1944"
-doc_id: 2944
+doc_date: '1944-09-22'
+doc_num: 297
+doc_order: 297
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, V]'
+title: Macgregor to Division of Import Procurement
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-22
+vol_title: 'Volume 7: 1944'
 ---
 
-# 297 Macgregor to Division of Import Procurement
-
-## Memorandum DG787 (extracts) WASHINGTON, 22 September 1944
+Memorandum DG787 (extracts) WASHINGTON, 22 September 1944
 
 THE FUTURE OF U.S. LEND LEASE AND CANADIAN MUTUAL AID
 
@@ -44,7 +49,7 @@ The over-all degree of reduction in output of war materials in both countries ha
 
 L. R. MACGREGOR
 
-_
+ _
 
 1 See Macgregor's cablegram W8888, dispatched 10 September, on file AA:A5954, box 707.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:A571, L41/915A, V]_
+ _[AA:A571, L41/915A, V]_

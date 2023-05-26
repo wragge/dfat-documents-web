@@ -1,12 +1,19 @@
 ---
-title: "67 Draft Tasman Declaration"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8937
+doc_date: '1980-02-26'
+doc_num: 67
+doc_order: 67
+naa_refs:
+- naa_barcode: 1389687
+  naa_control_symbol: 370/1/19/18 PART 15
+  naa_series: A1838
+  reference: '[NAA: Al838, 370/1119118, xv]'
+title: Draft Tasman Declaration
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-02-26
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 67 Draft Tasman Declaration
 
 Canberra, 26 February 1980
 
@@ -32,4 +39,4 @@ The two Prime Ministers DECLARED
 
 
 
-_[NAA: Al838, 370/1119118, xv]_
+ _[NAA: Al838, 370/1119118, xv]_

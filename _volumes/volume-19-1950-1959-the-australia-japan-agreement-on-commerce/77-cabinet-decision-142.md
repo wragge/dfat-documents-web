@@ -1,15 +1,19 @@
 ---
-title: "77 Cabinet Decision 142"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7682
+doc_date: '1954-10-13'
+doc_num: 77
+doc_order: 77
+naa_refs:
+- naa_barcode: 4714248
+  naa_control_symbol: '135'
+  naa_series: A4906
+  reference: '[AA : A4906, VOLUME 5]'
+title: Cabinet Decision 142
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-10-13
-barcode: 209115
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 77 Cabinet Decision 142
-
-## 13th October, 1954
+13th October, 1954
 
 CANBERRA
 
@@ -21,10 +25,10 @@ It noted that the Acting Minister for Trade and Customs proposed to discuss the 
 
 It noted further that consideration would be given the matter on receipt of their views.
 
-_
+ _
 
 1 Document 73.
 
 _
 
-_ [ [AA : A4906, VOLUME 5](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=209115) ]_
+ _[AA : A4906, VOLUME 5]_

@@ -1,17 +1,29 @@
 ---
-title: "127 Letter from Woolcott to Willesee"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7966
+doc_date: '1975-04-17'
+doc_num: 127
+doc_order: 127
+naa_refs:
+- naa_barcode: 4151647
+  naa_control_symbol: '10'
+  naa_series: A11443
+  reference: '[On file NAA: All443 [10]'
+- naa_barcode: 1505914
+  naa_control_symbol: 3038/10/1/2 PART 2
+  naa_series: A1838
+  reference: '[NAA: Al838, 3038/10/1/2, ii]'
+title: Letter from Woolcott to Willesee
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
 
-# 127 Letter from Woolcott to Willesee
-
-Jakarta, 17 April l975
+Jakarta, 17 April 1975
 
 SECRET PERSONAL
 
-I am attaching for your information a paper which I prepared for the Prime Minister personally on the eve of his recent meeting in Townsville with President Soeharto.1 I had hoped to see you in Canberra to discuss the talks with you on my way to Townsville but you were out of the country at the time.
+I am attaching for your information a paper which I prepared for the Prime Minister personally on the eve of his recent meeting in Townsville with President Soeharto.[1](#f1) I had hoped to see you in Canberra to discuss the talks with you on my way to Townsville but you were out of the country at the time.
 
 I hope that there is nothing in the paper with which you would disagree.
 
@@ -25,11 +37,9 @@ I feel that Australia has become too directly involved in this question; too muc
 
 I must say that although I miss being at the centre, I am finding this posting challenging, active and absorbing.
 
-I am looking forward to seeing you at the end of May if the ASEAN Heads of Missions meeting comes off as planned. There should be plenty to discuss in the context of recent developments in the region!2
+I am looking forward to seeing you at the end of May if the ASEAN Heads of Missions meeting comes off as planned. There should be plenty to discuss in the context of recent developments in the region![2](#f2)
 
-_[NAA: Al838, 3038/10/1/2, ii]_
+ _[NAA: Al838, 3038/10/1/2, ii]_
 
   * 1 Document 121.
   * 2 Woolcott sent this letter with another, dated 19 April, in which he summarised its contents for Renouf. He left it to Renouf's judgement whether the question of 'the continuing difference of emphasis on Timor' between Whitlam and Willesee was too sensitive a matter to raise, although he himself believed it 'could usefully be flagged with the Minister and discussed between him and the Prime Minister'. Renouf, about to depart overseas with Whitlam, minuted to Rowland, 'Ileave this chestnut to you!'. [On file NAA: All443 [10].] In the event Willesee did receive it: see Documents 138 and 152.
-
-

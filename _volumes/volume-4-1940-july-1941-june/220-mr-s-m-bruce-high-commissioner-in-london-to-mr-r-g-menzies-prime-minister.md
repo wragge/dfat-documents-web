@@ -1,12 +1,17 @@
 ---
-title: "220 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1451
+doc_date: '1940-12-10'
+doc_num: 220
+doc_order: 220
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, 1. 11710]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-12-10
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 220 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 1073 LONDON, 10 December 1940, 6 p.m.
 
@@ -18,10 +23,10 @@ As London Service Departments always most diffident about disclosing operational
 
 BRUCE
 
-_ 1 See Commonwealth Parliamentary Debates, vol. 165, pp. 676-7.
+ _1 See Commonwealth Parliamentary Debates, vol. 165, pp. 676-7.
 
 2 Winston S. Churchill.
 
 _
 
-_ [AA:A3195, 1940, 1. 11710]_
+ _[AA:A3195, 1940, 1. 11710]_

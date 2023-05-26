@@ -1,14 +1,19 @@
 ---
-title: "474 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1705
+doc_date: '1941-05-29'
+doc_num: 474
+doc_order: 474
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.7141]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-29
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 474 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram 2648 29 May 1941,
+Cablegram 2648 29 May 1941,
 
 Reference your cable 363 [1], I am sending a message through you to Churchill. [2]
 
@@ -20,7 +25,7 @@ Nothing in our knowledge of the tank position in the Middle East suggests that m
 
 MENZIES
 
-_
+ _
 
 1 Document 470.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA: A3196, 1941, 0.7141]_
+ _[AA: A3196, 1941, 0.7141]_

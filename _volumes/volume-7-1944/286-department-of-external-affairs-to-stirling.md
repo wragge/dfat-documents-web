@@ -1,12 +1,17 @@
 ---
-title: "286 Department of External Affairs to Stirling"
-volume: "Volume 7: 1944"
-doc_id: 2933
+doc_date: '1944-09-18'
+doc_num: 286
+doc_order: 286
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43-44/735/1009]'
+title: Department of External Affairs to Stirling
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 286 Department of External Affairs to Stirling
 
 Cablegram 182 CANBERRA, 18 September 1944
 
@@ -14,7 +19,7 @@ SECRET
 
 We are concerned at the setting up of Armistice Control machinery in various centres of Europe without any apparent provision for a central body for coordinating policy and without any representation for the Dominions or the smaller European Allies at any level. We would appreciate detailed information regarding the present situation regarding the United Nations Commission for Europe proposed by Mr. Eden in July, 1943 [1], or of any similar proposals, and particularly of opportunities for representation of smaller nations on them. [2]
 
-_
+ _
 
 1 See Documents on Australian Foreign Polity 1937-49, vol. VI, Documents 227 and 242.
 
@@ -22,4 +27,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/735/1009]_
+ _[AA:A989, 43-44/735/1009]_

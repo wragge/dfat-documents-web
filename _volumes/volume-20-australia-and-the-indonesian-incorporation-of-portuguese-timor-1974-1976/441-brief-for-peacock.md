@@ -1,11 +1,19 @@
 ---
-title: "441 Brief for Peacock"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8279
+doc_date: 1976-04
+doc_num: 441
+doc_order: 440
+naa_refs:
+- naa_barcode: 11416330
+  naa_control_symbol: B1976/70
+  naa_series: A2539
+  reference: '[NAA: A2539, B76/70]'
+title: Brief for Peacock
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 441 Brief for Peacock
 
 Canberra, April 1976
 
@@ -41,19 +49,17 @@ In recent years, Australia has had very good relations with Indonesia. President
 
 
 
-[matter omitted]1
+[matter omitted][1](#f1)
 
 ### Conclusion
 
   26. Contrary to much of our rhetoric, the Australian perception of the nature of Indonesian society is by no means a sympathetic one. It is rather characterised by an abiding uncertainty, even uneasiness, about our large and restless neighbour. And this breaks through to the surface at recurrent intervals—most recently over Timor—and extends across the range of the domestic political spectrum. There is thus a continuing possibility of adverse political reaction in Australia to particular events in Indonesia. This can have the effect of impelling us in directions in relations with Indonesia which are not necessarily in the best long term national interest and which ignore the fact that the price of a hostile or unstable Indonesia for Australia could be very high indeed.
-  27. To be fair to ourselves it should be said that in the last ten years Australian friendship has been of value to the Indonesian regime. For example, our efforts to secure liberal terms for the re-scheduling of Indonesia's past debts and to increase IGGI2 understanding of Indonesia's needs; Indonesia's position as the largest recipient of Australian aid after PNG; and the program of defence cooperation. Australia has also developed a pattern of close political consultation with Indonesia.
+  27. To be fair to ourselves it should be said that in the last ten years Australian friendship has been of value to the Indonesian regime. For example, our efforts to secure liberal terms for the re-scheduling of Indonesia's past debts and to increase IGGI[2](#f2) understanding of Indonesia's needs; Indonesia's position as the largest recipient of Australian aid after PNG; and the program of defence cooperation. Australia has also developed a pattern of close political consultation with Indonesia.
   28. In the process Australia has been seen, domestically and internationally, to be a good and close friend of Indonesia. This indeed is the impression that governments have sought to convey. Domestic opponents of the relationship have seen successive governments' policies as being policies of uncritical support. The Indonesian Government, for its part, is quite aware of the nuances both of Australian public opinion and of Australian policies towards Indonesia. Its sensitiveness, feigned and real, in relation to unfavourable Australian critical comment has inhibited frank discussion. At the same time the Indonesians have avoided hostile over-reactions. They have thus played their part in keeping the relationship on the rails and in keeping us alert to the pitfalls that could easily loom.
 
 
 
-_[NAA: A2539, B76/70]_
+ _[NAA: A2539, B76/70]_
 
   * 1 Omitted paragraphs refer to Papua New Guinea.
   * 2 Intergovernmental Group on Indonesia.
-
-

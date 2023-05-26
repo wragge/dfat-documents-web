@@ -1,36 +1,92 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
-
-    <!-- Bootstrap -->
-    <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <title>Documents on Australian Foreign Policy :: {{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <script defer src="{{ site.baseurl }}/assets/js/fa-all.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery-3.4.1.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/nav.js"></script>
   </head>
   <body>
-    {% include _nav.html %}
+  {% include _nav.html %}
+  <section class="section">
     <div class="container">
-    <ol class="breadcrumb">
-      <li><a href="{{site.baseurl}}/">Home</a></li>
-      <li class="active">{{ page.title }}</li>
-    </ol>
-      {{ content }}
-      {% include _footer.html %}
-    </div>
+        <h1 class="title is-2">Documents on Australian Foreign Policy</h1>
+        <h1 class="subtitle is-3">{{ page.title }}</h1>
+        <div class="columns is-8 is-variable">
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="{{site.baseurl}}/assets/js/bootstrap.min.js"></script>
+            <div class="column is-three-fifths">
+            {% assign documents = site.volumes | where: 'vol_id', page.vol_id | sort: 'doc_order' %}
+                <div class="content">
+                <dl class="doc-list">
+                {% for document in documents %}
+                        <dt class="title is-5">{% if document.doc_num != 0 %}{{document.doc_num}}. {% endif %}<a href="{{site.baseurl}}{{ document.url }}">{{ document.title | upcase }}</a></dt>
+                        <dd class="is-size-6">
+                            {% if document.doc_date.size == 10 %}
+                                {{ document.doc_date | date: '%e %B %Y'}}
+                            {% elsif document.doc_date.size == 7 %}
+                                {{ document.doc_date | append: "-01" | date: '%B %Y'}}
+                            {% elsif document.doc_date.size == 4 %}
+                                {{ document.doc_date | append: "-01-01" | date: '%Y'}}
+                            {% endif %}
+                        </dd>
+                        <dd class="is-size-6 excerpt">
+                            &lsquo;<em>{{ document.content |  strip_html | truncatewords:50 }}</em>&rsquo;
+                        </dd>
+                {% endfor %}
+                </dl>
+                </div>
+            </div>
+            <div class="column sidebar">
+                <h6 class="title is-6">Total</h6>
+                <div class="content">
+                    <p>
+                        {{ documents | size }} documents
+                    </p>
+                </div>
+
+                <h6 class="title is-6">Earliest date</h6>
+                {% assign first = documents | sort: 'doc_date' | first %}
+                <div class="content">
+                    <p>
+                        {% if first.doc_date.size == 10 %}
+                            {{ first.doc_date | date: '%e %B %Y'}}
+                        {% elsif first.doc_date.size == 7 %}
+                            {{ first.doc_date | append: "-01" | date: '%B %Y'}}
+                        {% elsif first.doc_date.size == 4 %}
+                            {{ first.doc_date | append: "-01-01" | date: '%Y'}}
+                        {% endif %}
+                    </p>
+                </div>
+
+                <h6 class="title is-6">Latest date</h6>
+                {% assign last = documents | sort: 'doc_date' | last %}
+                <div class="content">
+                    <p>
+                        {% if last.doc_date.size == 10 %}
+                            {{ last.doc_date | date: '%e %B %Y'}}
+                        {% elsif last.doc_date.size == 7 %}
+                            {{ last.doc_date | append: "-01" | date: '%B %Y'}}
+                        {% elsif last.doc_date.size == 4 %}
+                            {{ last.doc_date | append: "-01-01" | date: '%Y'}}
+                        {% endif %}
+                    </p>
+                </div>
+
+                <h6 class="title is-6">Explore</h6>
+                <div class="content">
+                    <ul>
+                      <li>
+                          <a href="{{ site.baseurl }}/search/?query=&query_type=and&fields=title&volume={{ page.vol_id }}&start_date=&end_date=&series=&barcodes=&start=0">Search in this volume</a>
+                      </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+  </section>
+  {% include _footer.html %}
   </body>
 </html>

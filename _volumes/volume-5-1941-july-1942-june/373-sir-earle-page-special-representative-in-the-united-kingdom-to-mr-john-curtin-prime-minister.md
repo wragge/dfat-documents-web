@@ -1,12 +1,18 @@
 ---
-title: "373 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2127
+doc_date: '1942-02-24'
+doc_num: 373
+doc_order: 374
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.8164]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-24
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 373 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram P52 LONDON, 24 February 1942, 9.55 p.m.
 
@@ -30,7 +36,7 @@ Discretion as to the mode and priority of evacuation has been left to the comman
 
 PAGE
 
-_
+ _
 
 1 Document 370.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.8164]_
+ _[AA:A3195, 1942, 1.8164]_

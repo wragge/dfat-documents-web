@@ -1,12 +1,17 @@
 ---
-title: "151 Curtin to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2442
+doc_date: '1943-04-01'
+doc_num: 151
+doc_order: 151
+naa_refs:
+- naa_barcode: 640641
+  naa_control_symbol: 474/10
+  naa_series: A5954
+  reference: '[AA:MP1217, BOX 474, VISIT ABROAD OF DR H. V. EVATT . . . 1943]'
+title: Curtin to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-04-01
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 151 Curtin to Evatt
 
 Letter CANBERRA, 1 April 1943
 
@@ -28,7 +33,7 @@ This, as you are aware, was cut down to the provision of 45 squadrons by the end
 
 JOHN CURTIN
 
-_
+ _
 
 1 On file AA:MP1217, box 474, visit abroad of Dr H. V. Evatt . . .
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:MP1217, BOX 474, VISIT ABROAD OF DR H. V. EVATT . . . 1943]_
+ _[AA:MP1217, BOX 474, VISIT ABROAD OF DR H. V. EVATT . . . 1943]_

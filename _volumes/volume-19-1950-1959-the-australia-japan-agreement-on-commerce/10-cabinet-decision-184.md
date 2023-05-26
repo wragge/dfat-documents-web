@@ -1,15 +1,19 @@
 ---
-title: "10 Cabinet Decision 184"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7615
+doc_date: '1951-10-02'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 238642
+  naa_control_symbol: '1'
+  naa_series: A4907
+  reference: '[AA : A4907, VOLUME 1]'
+title: Cabinet Decision 184
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1951-10-02
-barcode: 238642
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 10 Cabinet Decision 184
-
-## 2nd October, 1951
+2nd October, 1951
 
 CANBERRA
 
@@ -45,7 +49,7 @@ Cabinet decided that the Australian delegation be instructed as follows:-
 
 (b) not to oppose the main motion, but if it is pressed to a formal vote, to abstain from voting.
 
-_
+ _
 
 1 J. Phillips.
 
@@ -55,4 +59,4 @@ shall not apply as between any contracting party and any other contracting party
 
 _
 
-_ [ [AA : A4907, VOLUME 1](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=238642) ]_
+ _[AA : A4907, VOLUME 1]_

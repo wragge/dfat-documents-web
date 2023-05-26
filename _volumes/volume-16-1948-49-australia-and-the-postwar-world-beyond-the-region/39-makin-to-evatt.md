@@ -1,12 +1,17 @@
 ---
-title: "39 Makin to Evatt"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6754
+doc_date: '1948-05-14'
+doc_num: 39
+doc_order: 39
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1948, I.8114]'
+title: Makin to Evatt
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-05-14
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 39 Makin to Evatt
 
 Cablegram 606, WASHINGTON, 14 May 1948, 7 p.m.
 
@@ -26,10 +31,10 @@ We do not believe, however, that in the present circumstances a meeting of the H
 
 Faithfully yours, G.C. MARSHALL (Signed) 
 
-_ [1] The omitted material refers to meetings of the great powers since 1943 and US willingness to advance constructive proposals whenever the opportunity arose.
+_[1] The omitted material refers to meetings of the great powers since 1943 and US willingness to advance constructive proposals whenever the opportunity arose.
 
 [2] See Document 285, note 4.
 
 _
 
-_ [AA : A3195, 1948, I.8114]_
+ _[AA : A3195, 1948, I.8114]_

@@ -1,13 +1,17 @@
 ---
-title: "99 Record Of Conversation Between Australian And Ibrd Officials"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9607
+doc_date: '1967-03-28'
+doc_num: 99
+doc_order: 99
+naa_refs:
+- naa_barcode: 1370831
+  naa_control_symbol: 936/28/1/1
+  naa_series: A1838
+  reference: '[NAA: A 1838, 936/28/1/1]'
+title: Record Of Conversation Between Australian And Ibrd Officials
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-03-28
-barcode: 1370831
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 99 Record Of Conversation Between Australian And Ibrd Officials
 
 Sydney, 28 March 1967
 
@@ -15,7 +19,7 @@ Mr. Goodman began by saying that the Mission had not yet had time to digest all 
 
 Mr. Goodman said the Mission was impressed by the rapid rate of growth of the Territory economy as measured by figures of GNP, i.e. about 13% in recent years. The Mission had, however, a confused impression of the rate of development in the various sectors. Some key sectors, especially agriculture, appeared to be lagging and in a number of directions plans were far from developed. Part of the rapid rate of overall growth could explained by activities not foreseen by the previous Mission, e.g. tea.
 
-_Development programme_
+ _Development programme_
 
 Mr. Goodman described the ‘economic set up’ in the Territory as ‘extremely weak’. His team had an impression of a lack of enthusiasm and experience in economic fields within the Administration but there were some good people in some of the economic areas. There seemed to be little central thinking on relationships between the various sectors and the impact of particular sectors on other sectors. The 1964 Report had been regarded wrongly as a development plan. The previous Mission only suggested the broad lines of a detailed development programme that should be drawn up. If the present rate of overall growth continued without an integrated development programme misinvestments could result.
 
@@ -61,43 +65,43 @@ Mr. Goodman thought that the overall development plan might in the first instanc
 
 Mr. Reif expressed the view that the overall programme should include an export promotion programme covering agricultural and forestry and other productive sectors and also an import substitution programme. He also mentioned that departments to suit their own purposes had adopted quite different regional groupings and boundaries. There seemed to be a need to frame the programme in such a way as to avoid overlapping regions.
 
-[_matter omitted_]2
+[ _matter omitted_ ][2](#f2)
 
-[ [NAA: A 1838, 936/28/1/1](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1370831) ]
+[NAA: A 1838, 936/28/1/1]
 
-**The World Bank mission report, 1967**
+ **The World Bank mission report, 1967**
 
-_The 1967 World Bank mission to PNG1 completed its report in August. Excerpts from its ‘summary and conclusions’ read:_
+ _The 1967 World Bank mission to PNG[1](#f_302_1) completed its report in August. Excerpts from its ‘summary and conclusions’ read:_
 
-_The economy of the Territory still includes a large subsistence sector which supplies the majority of the indigenous population with all the basic necessities of life. The small but fast growing monetized economy is based predominantly on government operations, export oriented agriculture and services. It is virtually run by expatriates and heavily dependent on Australia._
+ _The economy of the Territory still includes a large subsistence sector which supplies the majority of the indigenous population with all the basic necessities of life. The small but fast growing monetized economy is based predominantly on government operations, export oriented agriculture and services. It is virtually run by expatriates and heavily dependent on Australia._
 
-_... The average per capita income of the indigenes is estimated at roughly US$100, including the income derived from the subsistence economy. The average income of the 35,000 expatriates is about US$4,000, as high salaries, extensive fringe benefits and low taxes are offered to attract skilled manpower from Australia and elsewhere._
+ _... The average per capita income of the indigenes is estimated at roughly US$100, including the income derived from the subsistence economy. The average income of the 35,000 expatriates is about US$4,000, as high salaries, extensive fringe benefits and low taxes are offered to attract skilled manpower from Australia and elsewhere._
 
-_.. GNP in the monetized sec/or has been increasing by almost 13% annually since FY 1960/61_
+ _.. GNP in the monetized sec/or has been increasing by almost 13% annually since FY 1960/61_
 
-_... as a result of expanded government expenditures and a significant rise in exports. But the base is small and some of the growth reflects the steady incursion of the monetized sector into the subsistence economy. Prices have in general been stable._
+ _... as a result of expanded government expenditures and a significant rise in exports. But the base is small and some of the growth reflects the steady incursion of the monetized sector into the subsistence economy. Prices have in general been stable._
 
-_... Government operations have long played a very important part in the economy of the Territory. Public Sector investment has been the major element in domestic capital formation._
+ _... Government operations have long played a very important part in the economy of the Territory. Public Sector investment has been the major element in domestic capital formation._
 
-_... Nearly all economic development in the Territory depends on large scale Australian assistance. Since World War II Australia has made commendable efforts in promoting the economic advancement of the country and achieved remarkable progress. This year Australian non-military assistance to the Territory, having increased by 15% a year during the past decade, will amount to $A82 million or US$43 per head of the indigenous population; this is among the highest rates of assistance received by developing countries._
+ _... Nearly all economic development in the Territory depends on large scale Australian assistance. Since World War II Australia has made commendable efforts in promoting the economic advancement of the country and achieved remarkable progress. This year Australian non-military assistance to the Territory, having increased by 15% a year during the past decade, will amount to $A82 million or US$43 per head of the indigenous population; this is among the highest rates of assistance received by developing countries._
 
-_... Public saving is negative, and the Territory’s current revenues covered only 50% of current expenditures in FY 1966/67. Tax revenues amount to 11% of GNP in the monetized sector and only 6% of total GNP At present, 60% of the Territory’s total budget has to be financed by Australia ._
+ _... Public saving is negative, and the Territory’s current revenues covered only 50% of current expenditures in FY 1966/67. Tax revenues amount to 11% of GNP in the monetized sector and only 6% of total GNP At present, 60% of the Territory’s total budget has to be financed by Australia ._
 
-_... Despite significant improvements in export performance, the Territory’s import gap is considerable, with export earnings covering only 46% of imports in FY 1965/66, the gap being financed by Australia. The deficit presents a difficult long-term problem for the Territory as any sizeable reduction of imports would necessarily result in slowing down economic development. Administration policy—having given priority to export promotion for primary produce in the past—will now have to put greater emphasis on import substitution._
+ _... Despite significant improvements in export performance, the Territory’s import gap is considerable, with export earnings covering only 46% of imports in FY 1965/66, the gap being financed by Australia. The deficit presents a difficult long-term problem for the Territory as any sizeable reduction of imports would necessarily result in slowing down economic development. Administration policy—having given priority to export promotion for primary produce in the past—will now have to put greater emphasis on import substitution._
 
-_... The balance of payments data, although incomplete as a result of the close monetary integration of the Territory with Australia, indicate some net capital outflow during FY’s. 1961/62–1964/65, due to the crisis of confidence caused by the Indonesian take-over of West Irian. Since then there is believed to have been a net inflow. The Territory House of Assembly, which has a majority of indigenous elected members, formally recognized the dependence of the Territory on the inflow of private capital by passing a Development Capital Guarantee Declaration in September 1966. So far the Territory has no public external debt; all Australian assistance has been in grant form._
+ _... The balance of payments data, although incomplete as a result of the close monetary integration of the Territory with Australia, indicate some net capital outflow during FY’s. 1961/62–1964/65, due to the crisis of confidence caused by the Indonesian take-over of West Irian. Since then there is believed to have been a net inflow. The Territory House of Assembly, which has a majority of indigenous elected members, formally recognized the dependence of the Territory on the inflow of private capital by passing a Development Capital Guarantee Declaration in September 1966. So far the Territory has no public external debt; all Australian assistance has been in grant form._
 
-_... The [1964 World Bank} report was in general accepted by the Australian Government as a policy guideline, although in some instances the Mission’s recommendations have not been followed. Accomplishments include the establishment of the Papua and New Guinea Development Bank, a shift in emphasis in Government spending from social services to expenditures related to infrastructure and education, and measures to improve the manpower situation._
+ _... The [1964 World Bank} report was in general accepted by the Australian Government as a policy guideline, although in some instances the Mission’s recommendations have not been followed. Accomplishments include the establishment of the Papua and New Guinea Development Bank, a shift in emphasis in Government spending from social services to expenditures related to infrastructure and education, and measures to improve the manpower situation._
 
-_... However, little has been done to coordinate the various sector programs and to integrate them in an overall development program. The present mission recommended that the Administration seek the advice of a consultant for formulating a development program, and this has now been done._
+ _... However, little has been done to coordinate the various sector programs and to integrate them in an overall development program. The present mission recommended that the Administration seek the advice of a consultant for formulating a development program, and this has now been done._
 
-_... The mission feels that the policy for the agricultural sector needs particular attention, including a reorganization of the Department, better personnel policy, less emphasis on costly land settlement schemes, and stimulation of expatriate investment in certain fields..._
+ _... The mission feels that the policy for the agricultural sector needs particular attention, including a reorganization of the Department, better personnel policy, less emphasis on costly land settlement schemes, and stimulation of expatriate investment in certain fields..._
 
-_... Transport conditions are extremely difficult and facilities most inadequate in the Territory. Substantial improvement is indispensable for any further economic development. Following the recommendation of the Bank Survey Mission, a transport coordinator has been appointed. In order to ascertain the present and future transport needs and to prepare a longer term transport development program, the Administration has now approached the U.N.D.P. for a grant to finance an overall transport survey ..._
+ _... Transport conditions are extremely difficult and facilities most inadequate in the Territory. Substantial improvement is indispensable for any further economic development. Following the recommendation of the Bank Survey Mission, a transport coordinator has been appointed. In order to ascertain the present and future transport needs and to prepare a longer term transport development program, the Administration has now approached the U.N.D.P. for a grant to finance an overall transport survey ..._
 
-_... The present telecommunications system is not able to provide the services required by the rapidly growing market economy. The Administration has, therefore, prepared an ambitious five-year program for the expansion of local and long-distance telecommunication facilities. The Bank is assisting the Administration in preparing a project limited to essential services for possible financing._
+ _... The present telecommunications system is not able to provide the services required by the rapidly growing market economy. The Administration has, therefore, prepared an ambitious five-year program for the expansion of local and long-distance telecommunication facilities. The Bank is assisting the Administration in preparing a project limited to essential services for possible financing._
 
-_... Creditworthiness–The Territory of Papua and New Guinea as a separate political entity moving towards political independence qualifies for IDA assistance on grounds of low per capita income and its unfavorable balance of payments situation and prospects. The performance of the Administration has in general been satisfactory despite some deficiencies and is improving along the lines recommended by both Bank missions. Although Australia will continue to bear the main burden of financial and technical assistance to the Territory, IDA credits, even in small amounts, would be of great value for the Territory’s development. In addition, the Bank Group could also play a modest role as a source of advice for Australia and the local Administration in their development efforts2._
+ _... Creditworthiness–The Territory of Papua and New Guinea as a separate political entity moving towards political independence qualifies for IDA assistance on grounds of low per capita income and its unfavorable balance of payments situation and prospects. The performance of the Administration has in general been satisfactory despite some deficiencies and is improving along the lines recommended by both Bank missions. Although Australia will continue to bear the main burden of financial and technical assistance to the Territory, IDA credits, even in small amounts, would be of great value for the Territory’s development. In addition, the Bank Group could also play a modest role as a source of advice for Australia and the local Administration in their development efforts[2](#f_303_2)._
 
 1  In 1966, the Government asked the World Bank to consider a program of lending for the Territory after which the Bank visited PNG in March 1967 with the task of ‘updating the Bank’s information on the economy and identifying possible projects for Bank or [International Development Agency (IDA)] financing’. The IBRD officials were R.J. Goodman (chief of mission), G.H. Reif and E. Lamers (economists) (IBRD report, ‘Current economic position and prospects of the Territory of Papua and New Guinea’, vol. I, 9 August 1967, NAA: A1838, 846/2 part 3). 
 
@@ -105,4 +109,4 @@ _... Creditworthiness–The Territory of Papua and New Guinea as a separate poli
 
 1  See Document 99. 
 
-2  IBRD report, ‘Current economic position and prospects of the Territory of Papua and New Guinea’, vol. I, 9 August 1967, NAA: A1838, 846/2 part 3. 
+2  IBRD report, ‘Current economic position and prospects of the Territory of Papua and New Guinea’, vol. I, 9 August 1967, NAA: A1838, 846/2 part 3.

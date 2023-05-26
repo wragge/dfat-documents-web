@@ -1,12 +1,17 @@
 ---
-title: "31 Letter From Casey To Mcleay"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7636
+doc_date: '1953-06-12'
+doc_num: 31
+doc_order: 31
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP553/1
+  reference: '[AA : CP553/1/1, 194/B/10/35]'
+title: Letter From Casey To Mcleay
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-06-12
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
-
-# 31 Letter From Casey To Mcleay
 
 12th June, 1953
 
@@ -16,10 +21,10 @@ The negotiations with the Japanese on the pearl fisheries to the north of Austra
 
 I am sending copy of this letter to Artie Fadden and to John McEwen.
 
-_
+ _
 
 1 Presumably Document 30.
 
 _
 
-_ [AA : CP553/1/1, 194/B/10/35]_
+ _[AA : CP553/1/1, 194/B/10/35]_

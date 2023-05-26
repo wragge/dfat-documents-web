@@ -1,12 +1,17 @@
 ---
-title: "264 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 263
+doc_date: '1938-09-17'
+doc_num: 264
+doc_order: 263
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-17
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 264 Note of Meeting of U.K. and Dominions Representatives
 
 Extract LONDON, 17 September 1938, 6.15 p.m.
 
@@ -20,6 +25,6 @@ MR BRUCE asked whether the question of future guarantees for Czechoslovakia had 
 
 MR MACDONALD said that it had not been raised in the discussion between the Prime Minister [1] and Herr Hitler. It had been raised in the Cabinet but not discussed at length.
 
-_ 1 Neville Chamberlain._
+ _1 Neville Chamberlain._
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

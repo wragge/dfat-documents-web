@@ -1,14 +1,17 @@
 ---
-title: "410 BULLETIN AUSTRALIAN HIGH COMMISSION STAFF ASSOCIATION"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10276
+doc_date: '1972-11-01'
+doc_num: 410
+doc_order: 410
+naa_refs:
+- naa_barcode: 7016114
+  naa_control_symbol: 1971/2388
+  naa_series: A3211
+  reference: '[NAA: A3211, 1971/2388]'
+title: BULLETIN AUSTRALIAN HIGH COMMISSION STAFF ASSOCIATION
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-01
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 410 BULLETIN AUSTRALIAN HIGH COMMISSION STAFF ASSOCIATION
-
-NAA: A3211, 1971/2388
 
 Australian High Commission, London, November 1972
 
@@ -26,4 +29,6 @@ With reference to the purported decline in Anglo-Australian relations, these are
 
 It is expected therefore that any changes which are considered desirable will take place only after thorough investigation and in an orderly manner. Members of staff should disregard information which comes from unofficial and unreliable sources, in particular from the popular press. Staff will be informed of any changes through official channels as they occur.
 
-[_matter omitted_]
+[ _matter omitted_ ]
+
+[NAA: A3211, 1971/2388]

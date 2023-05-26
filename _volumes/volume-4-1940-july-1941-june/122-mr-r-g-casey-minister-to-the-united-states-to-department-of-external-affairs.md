@@ -1,12 +1,17 @@
 ---
-title: "122 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1353
+doc_date: '1940-09-16'
+doc_num: 122
+doc_order: 122
+naa_refs:
+- naa_barcode: 176221
+  naa_control_symbol: FAR 21
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 21A]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-16
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 122 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 260 WASHINGTON, 16 September 1940, 11.47 p.m.
 
@@ -46,7 +51,7 @@ Australian press representatives here most anxious to learn what is going on. I 
 
 CASEY
 
-_
+ _
 
 1 Document 60.
 
@@ -66,4 +71,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 21A]_
+ _[AA:A981, FAR EAST 21A]_

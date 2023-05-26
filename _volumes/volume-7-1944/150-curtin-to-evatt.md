@@ -1,12 +1,17 @@
 ---
-title: "150 Curtin to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2797
+doc_date: '1944-05-16'
+doc_num: 150
+doc_order: 150
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 659]'
+title: Curtin to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-16
+vol_title: 'Volume 7: 1944'
 ---
-
-# 150 Curtin to Evatt
 
 Cablegram 20 LONDON, 16 May 1944
 
@@ -22,7 +27,7 @@ There has been no sacrifice by me of Australia's interests by endorsing a proced
 
 CURTIN
 
-_
+ _
 
 1 Document 143.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 659]_
+ _[AA:A5954, BOX 659]_

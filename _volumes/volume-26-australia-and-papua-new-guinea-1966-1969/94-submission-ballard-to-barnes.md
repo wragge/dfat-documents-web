@@ -1,22 +1,27 @@
 ---
-title: "94 Submission, Ballard To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9602
+doc_date: '1967-03-10'
+doc_num: 94
+doc_order: 94
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A452
+  reference: '[N AA: A452, 196611959]'
+title: Submission, Ballard To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-03-10
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 94 Submission, Ballard To Barnes
 
 Canberra, 10 March 1967
 
-**Papua and New Guinea—recommendations of the Police Advisory Committee**
+ **Papua and New Guinea—recommendations of the Police Advisory Committee**
 
-The Police Advisory Committee was appointed in December 1965 and presented its report to the Administrator in March 1966. All but a few of the recommendations have been accepted and in June 1966 you directed that they should be implemented without delay.1 This submission is to inform you of progress so far.
+The Police Advisory Committee was appointed in December 1965 and presented its report to the Administrator in March 1966. All but a few of the recommendations have been accepted and in June 1966 you directed that they should be implemented without delay.[1](#f1) This submission is to inform you of progress so far.
 
-_Pay and conditions_
+ _Pay and conditions_
 
-2\. A total fortnightly cash wage replaced the old system of monthly wages and rations on 1st July 1966. The new wage scale is the same as that for Pacific Islands Regiment members except that some P.I.R. members still receive a small ration issue. This anomaly is being reviewed at present.2
+2\. A total fortnightly cash wage replaced the old system of monthly wages and rations on 1st July 1966. The new wage scale is the same as that for Pacific Islands Regiment members except that some P.I.R. members still receive a small ration issue. This anomaly is being reviewed at present.[2](#f2)
 
 3\. New salary ranges for overseas officers holding commissioned rank have been approved but there is a dispute over the date of effect and the method of adjustment from the old incremental structure to the new. The dispute has been referred to the Administrator who must appoint an arbitrator under the Industrial Relations Ordinance.
 
@@ -28,7 +33,7 @@ _Pay and conditions_
 
 7\. Members of the Constabulary are included in the provisions of the Compensation Bill which will be introduced into the House of Assembly during the February sittings.
 
-_Recruitment and organisation_
+ _Recruitment and organisation_
 
 8\. Many of the recommendations require more police and civilian staff. (Establishment of Central Traffic and Firearms registries, creation of new police districts and rural stations, creation of new specialist sections, improved training). You have approved the creation of 81 commissioned rank positions and 134 civilian positions, and the reclassification of 11 civilian positions.
 
@@ -38,11 +43,11 @@ _Recruitment and organisation_
 
 11\. It is proposed to put the Police Administration Branch under the administrative control of the Department of Law. The relationship of senior civilians to the Commissioner is still being considered.
 
-_Funds_
+ _Funds_
 
-12\. The Budget Sub-Committee has estimated the cost of the various recommendations and has drawn up a schedule for the funding of approved recommendations over three years. In general funds are being provided as laid down in the schedule (copy attached).3 Provision will be made in the 1967/68 budget for the implementation of the recommendations to continue as planned.
+12\. The Budget Sub-Committee has estimated the cost of the various recommendations and has drawn up a schedule for the funding of approved recommendations over three years. In general funds are being provided as laid down in the schedule (copy attached).[3](#f3) Provision will be made in the 1967/68 budget for the implementation of the recommendations to continue as planned.
 
-_Accommodation and buildings_
+ _Accommodation and buildings_
 
 13\. You directed that great efforts should be made to improve living accommodation. 140 of the estimated 336 new units needed for married local members have been included in the Works Programme for 1966/67 and 1967/68. Specific alterations to existing local members’ accommodation recommended by the Committee have also been included on the Works Programme for the same period. The full amount thought necessary by the Budget Sub-Committee for general improvements to local members’ accommodation ($270,000) has been included on the Works Programme and it [is] expected that $235,000 of this will be spent this financial year.
 
@@ -50,11 +55,11 @@ _Accommodation and buildings_
 
 15\. Five new rural police stations and two suburban stations in Port Moresby have been included on the Works Programme for 1966/67 and 1967/68. One station (Kundiawa) has been listed for improvement at a cost of $20,000.
 
-[_matter omitted_]4
+[ _matter omitted_ ][4](#f4)
 
 24\. The implementation of the major approved recommendations appears to be proceeding satisfactorily. Some action depends on the provision of more staff and funds. The position is being kept under review and. you will be further informed on progress later in the year.
 
-25\. _Submitted for information.5_
+25\. _Submitted for information.[5](#f5)_
 
 [N AA: A452, 196611959]
 

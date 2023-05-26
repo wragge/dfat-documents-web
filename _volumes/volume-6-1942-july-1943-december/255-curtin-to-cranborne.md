@@ -1,12 +1,17 @@
 ---
-title: "255 Curtin to Cranborne"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2546
+doc_date: '1943-08-13'
+doc_num: 255
+doc_order: 255
+naa_refs:
+- naa_barcode: 4224104
+  naa_control_symbol: 1943/45
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.22096]'
+title: Curtin to Cranborne
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-08-13
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 255 Curtin to Cranborne
 
 Cablegram 208 CANBERRA, 13 August 1943
 
@@ -24,7 +29,7 @@ Fadden went on to say that, if I denied the recommendation about the militia, he
 
 4\. I propose, unless you prefer that no statement be made, to issue the following to the press but will not release it until I have heard from you. The statement which I propose to make is contained in my immediately following telegram. [6]
 
-_ 1 Then attending the Quebec Conference.
+ _1 Then attending the Quebec Conference.
 
 2 In cablegram 190 (in FA:A3196, 1943, folder, outwards Most Secret master sheets, 0.20161) Curtin had advised Churchill that he had 'addressed a letter to all non-Government members of the Advisory War Council, requesting their personal co-operation in ensuring that actual cablegrams should not be publicly quoted or referred to in any way, in view of the important security aspect involved'. Churchill acknowledged this in cablegram 188 of 25 July (in FA:A3195, 1943, box, Most Secret inwards master sheets from Secdo, 1.31056).
 
@@ -38,4 +43,4 @@ _ 1 Then attending the Quebec Conference.
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.22096]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.22096]_

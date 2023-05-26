@@ -1,14 +1,20 @@
 ---
-title: "82 Mr R. G. Menzies, Prime Minister, to Dr C. J. Pao, Chinese Consul-General in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 848
+doc_date: '1940-02-28'
+doc_num: 82
+doc_order: 82
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/2
+  reference: '[AA: CP290/2,9]'
+title: Mr R. G. Menzies, Prime Minister, to Dr C. J. Pao, Chinese Consul-General in
+  Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-28
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 82 Mr R. G. Menzies, Prime Minister, to Dr C. J. Pao, Chinese Consul-General in Australia
-
-## Letter MELBOURNE, 28 February 1940
+Letter MELBOURNE, 28 February 1940
 
 I have your letter of 22nd February [1] and sincerely appreciate the cordial relations between our Governments and your readiness to collaborate with Australia in Pacific problems.
 
@@ -18,6 +24,6 @@ The various aspects to which you refer will not be overlooked, and as soon as I 
 
 [R. G. MENZIES]
 
-_ 1 Document 72._
+ _1 Document 72._
 
-_ [AA: CP290/2,9]_
+ _[AA: CP290/2,9]_

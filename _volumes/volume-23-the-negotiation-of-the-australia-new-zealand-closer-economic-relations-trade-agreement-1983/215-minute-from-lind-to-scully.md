@@ -1,14 +1,21 @@
 ---
-title: "215 Minute from Lind to Scully"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9084
+doc_date: '1982-10-22'
+doc_num: 215
+doc_order: 215
+naa_refs:
+- naa_barcode: 11558958
+  naa_control_symbol: 1982/2593 PART 8
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 82/2593, viii]'
+title: Minute from Lind to Scully
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-10-22
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 215 Minute from Lind to Scully
-
-## Canberra, 22 October 1982
+Canberra, 22 October 1982
 
 **CER Ministerial Meeting: Travel to Wellington**
 
@@ -20,10 +27,8 @@ The Minister has received approval to use an RAAF special purpose aircraft and w
 
 As there may be residual paper work arising from the Ministerial discussions and in view of the other matters which may need to be tidied up at the officials level, I believe we should also plan on Mr Hawes and myself remaining for discussions on Friday morning with return ticketing by commercial flight on Friday afternoon.
 
-Your approval is sought for travel arrangements to be made on the above basis.1
+Your approval is sought for travel arrangements to be made on the above basis.[1](#f1)
 
-_[NAA: A1313/113, 82/2593, viii]_
+ _[NAA: A1313/113, 82/2593, viii]_
 
   * 1 Scully endorsed the document: 'Agreed. P. Scully 25110'.
-
-

@@ -1,12 +1,19 @@
 ---
-title: "33 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7872
+doc_date: '1974-09-19'
+doc_num: 33
+doc_order: 33
+naa_refs:
+- naa_barcode: 4151378
+  naa_control_symbol: 202/1/1 ANNEX 1A
+  naa_series: A10005
+  reference: '[NAA: Al0005, TS202/l/l, ANNEX lA]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-09-19
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 33 Cablegram to Canberra
 
 Jakarta, 19 September 1974
 
@@ -14,7 +21,7 @@ O.JA4892 TOP SECRET PRIORITY
 
 Portuguese Timor
 
-_ For the Minister from Furlonger (Personal for Mcintyre)_
+ _For the Minister from Furlonger (Personal for Mcintyre)_
 
 Tjan (the Adviser to Ali Murtopo, to whom President Soeharto has given the main running on Portuguese Timor) passed the following information to us in strict confidence on 18 September. He asked that it be passed to you as background for your visit to New York and meeting there with Adam Malik:
 
@@ -25,7 +32,7 @@ Tjan (the Adviser to Ali Murtopo, to whom President Soeharto has given the main 
     1. relations should be established as soon as possible after this meeting;
     2. Portugal and Indonesia should work to promote the economic development of Portuguese Timor, both internationally and bilaterally;
     3. they should work towards forming a joint Portuguese/Indonesian administration of Portuguese Timor;
-    4. action in the UN should be avoided. Campinos took an anti-communist line and said that Portugal believed China had interests in Portuguese Timor as well as in Macao, whilst Seda had been told by Luns1 that NATO considers China wishes the matter to be handled at the UN where it could if necessary exercise its veto power in the Security Council.
+    4. action in the UN should be avoided. Campinos took an anti-communist line and said that Portugal believed China had interests in Portuguese Timor as well as in Macao, whilst Seda had been told by Luns[1](#f1) that NATO considers China wishes the matter to be handled at the UN where it could if necessary exercise its veto power in the Security Council.
     5. Colonel Mohammed has done a briefing paper which has been submitted to the President, who agrees with the points in sub-paragraph (iv). (These points are in line with earlier recommendations by Tjan to Ali Murtopo.)
     6. The President has told Cabinet in the last few days that Indonesia, Portugal and Australia should work towards promoting the economic development of Portuguese Timor.
 
@@ -35,8 +42,6 @@ Tjan (the Adviser to Ali Murtopo, to whom President Soeharto has given the main 
 
 
 
-_ [NAA: Al0005, TS202/l/l, ANNEX lA]_
+ _[NAA: Al0005, TS202/l/l, ANNEX lA]_
 
   * 1 J. M.A.H. Luns, Secretary-General of NATO.
-
-

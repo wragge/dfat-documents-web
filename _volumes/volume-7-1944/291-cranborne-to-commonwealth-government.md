@@ -1,12 +1,17 @@
 ---
-title: "291 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2938
+doc_date: '1944-09-19'
+doc_num: 291
+doc_order: 291
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, iv]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 291 Cranborne to Commonwealth Government
 
 Cablegram 250 [1] LONDON, 19 September 1944, 2.08 p.m.
 
@@ -34,7 +39,7 @@ Although this meeting will, no doubt, be concerned mainly with questions of proc
 
 6\. It is specially desired that these arrangements should be kept very secret at this stage.
 
-_
+ _
 
 1 Addressed to the N.Z. Govt as no. 202.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A571, L41/915A, iv]_
+ _[AA:A571, L41/915A, iv]_

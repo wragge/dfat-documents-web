@@ -1,12 +1,18 @@
 ---
-title: "263 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 600
+doc_date: '1939-10-04'
+doc_num: 263
+doc_order: 263
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 4]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-04
+vol_title: 'Volume 2: 1939'
 ---
-
-# 263 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 4 October 1939, 2. 50 p.m.
 
@@ -18,7 +24,7 @@ As regards the second point in your telegram, the position is that no proposals 
 
 I am sending you by separate telegram extract from statement made by the Foreign Secretary [4] in the House of Lords today.
 
-_
+ _
 
 1 Document 258.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 4]_
+ _[AA: CP 290/6, ITEM 4]_

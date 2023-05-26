@@ -1,12 +1,17 @@
 ---
-title: "412 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2166
+doc_date: '1942-03-13'
+doc_num: 412
+doc_order: 413
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:DO 35/1009, i]'
+title: Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-13
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 412 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
 
 Cablegram Winch 12 [1] LONDON, 13 March 1942, 11.55 p.m.
 
@@ -18,7 +23,7 @@ I will cable you to-morrow on the President's [5] proposals for the two areas. [
 
 CHURCHILL
 
-_
+ _
 
 1 Sent through the U.K. Dominions Office.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [PRO:DO 35/1009, i]_
+ _[PRO:DO 35/1009, i]_

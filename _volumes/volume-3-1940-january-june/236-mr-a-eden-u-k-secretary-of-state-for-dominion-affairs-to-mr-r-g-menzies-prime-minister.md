@@ -1,12 +1,18 @@
 ---
-title: "236 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1002
+doc_date: '1940-05-13'
+doc_num: 236
+doc_order: 236
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3185]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-13
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 236 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram D176 LONDON, 13 May 1940, 12.45 a.m.
 
@@ -26,7 +32,7 @@ MOST SECRET FOLLOWING FOR PRIME MINISTER
 
 Netherlands West Indies (7) The United States Secretary of State has expressed concern lest the despatch of Allied troops to Curacao and Aruba invites Japan to intervene in the Netherlands East Indies thus precipitating a United States-Japanese crisis, which would be attributed to our action and arouse resentment against us in U.S.A. He recommends the Allied withdrawal as soon as internal position is secure.
 
-_
+ _
 
 1 Dr A. W. L. Tjarda van Starkenborgh Stachouwer.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3185]_
+ _[FA: A3195, 1.3185]_

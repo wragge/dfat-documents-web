@@ -1,12 +1,17 @@
 ---
-title: "439 Notes of a Meeting of the Australian Delegation, Committee of Good Offices"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4623
+doc_date: '1947-11-27'
+doc_num: 439
+doc_order: 439
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:AA1979/294/1, BOX 5]'
+title: Notes of a Meeting of the Australian Delegation, Committee of Good Offices
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-11-27
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 439 Notes of a Meeting of the Australian Delegation, Committee of Good Offices
 
 Extract BATAVIA, 27 November 1947, 9.30 a.m.
 
@@ -16,10 +21,10 @@ Mr. Critchley considered that before anything is placed in detail in writing, th
 
 adopted themselves, of having informal talks in which they do not commit themselves, and on the basis of that we put forward suggestions and then get their reasons as to why they cannot agree to them. The only big stick we hold is public opinion. We have got to get on the official record why they cannot agree to our suggestions.
 
-_
+ _
 
 1 i.e. substantive negotiations aboard USS Renville.
 
 _
 
-_ [AA:AA1979/294/1, BOX 5]_
+ _[AA:AA1979/294/1, BOX 5]_

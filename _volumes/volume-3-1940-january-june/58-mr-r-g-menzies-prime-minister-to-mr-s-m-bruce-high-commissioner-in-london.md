@@ -1,12 +1,17 @@
 ---
-title: "58 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 824
+doc_date: '1940-02-15'
+doc_num: 58
+doc_order: 58
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, 0.903]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 58 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered, 15 February 1940
 
@@ -30,7 +35,7 @@ Appreciate your strongest representations these points, which live issue here an
 
 MENZIES 
 
-_ 1 Bruce's cablegram 108 of 8 February 1940 (on file AA: A1608, A41/1/1, vii) informed Menzies that the U.K. Dominions Secretary, Anthony Eden, was to visit Egypt ostensibly to welcome Australian and New Zealand troops, but in fact to hold conversation with the Egyptian Government.
+_1 Bruce's cablegram 108 of 8 February 1940 (on file AA: A1608, A41/1/1, vii) informed Menzies that the U.K. Dominions Secretary, Anthony Eden, was to visit Egypt ostensibly to welcome Australian and New Zealand troops, but in fact to hold conversation with the Egyptian Government.
 
 2 Bruce's cablegram 112 on file AA: M100, February 1940.
 
@@ -40,4 +45,4 @@ A3195, 1.1087.)
 
 _
 
-_ [FA: A3196, 0.903]_
+ _[FA: A3196, 0.903]_

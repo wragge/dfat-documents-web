@@ -1,22 +1,25 @@
 ---
-title: "71 MINUTE, BAILEY TO HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9936
+doc_date: '1967-06-09'
+doc_num: 71
+doc_order: 71
+naa_refs:
+- naa_barcode: 3053929
+  naa_control_symbol: 1966/7335 PART 4A
+  naa_series: A1209
+  reference: '[NAA:A1209, 1966/7335 PART4A]'
+title: MINUTE, BAILEY TO HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-06-09
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 71 MINUTE, BAILEY TO HOLT
-
-NAA:A1209, 1966/7335 PART4A
 
 Canberra, 9 June 1967
 
-****
+ ****
 
 New Papers
 
-In this folder are the most recent cables, and a note prepared by Mr Pritchett that Sir Laurence1 has asked me to let you see.
+In this folder are the most recent cables, and a note prepared by Mr Pritchett that Sir Laurence[1](#f1) has asked me to let you see.
 
 2\. The note really takes the form of some jottings on the theme that Asia is a land of promise and will reward expenditure of resources and effort. It is seen as giving you some points to expound, particularly to British ears, that do not rely too much on the argument that outlays now are likely to be rewarded by dividends in the future.
 
@@ -35,3 +38,5 @@ I am not suggesting that the picture for either of these countries is unduly bri
 5\. What it all seems to mean is that in the countries of the South West Pacific there are real signs of progress, but that in the countries of the Indian Ocean that progress has hardly started. But this is not the reason for pulling out so much as for keeping up the effort, for acting responsibly. For American and Canadian audiences the message really is ’;Go West, young man!’—that Asia is the new frontier of today, and that to look back is to deny the trust imposed on us by the past. Even for British consumption, there is something in the point.
 
 1 W.B. Pritchett, Head, Defence Liaison Branch, DEA; Sir Laurence Mcintyre, Deputy Secretary, Department of External Affairs. 
+
+[NAA:A1209, 1966/7335 PART4A]

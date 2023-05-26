@@ -1,14 +1,19 @@
 ---
-title: "72 Australian Supply Council in the United States to Department of Trade and Customs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1826
+doc_date: '1941-09-27'
+doc_num: 72
+doc_order: 73
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.19317]'
+title: Australian Supply Council in the United States to Department of Trade and Customs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-27
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 72 Australian Supply Council in the United States to Department of Trade and Customs
-
-## Cablegram AUSCO 28 WASHINGTON, 27 September 1941, 8.45 p.m.
+Cablegram AUSCO 28 WASHINGTON, 27 September 1941, 8.45 p.m.
 
 The application of Lease Lend principles to the procurement of supplies is still the subject of much discussion and consideration both in United States and United Kingdom circles. Much conflict of opinion is apparent even among American administrative people regarding application of Lease Lend principles to articles not directly connected with defence. Enunciation of principles which would enable various administrations at the Australian end to determine what line of action to adopt with regard to various categories of supplies, especially civilian necessities which Australia finds it necessary to obtain from the United States, is still a long way off. Only one point can be considered as definitely established at the moment, viz. that 'supplies clearly essential to maintenance of the war effort' can be procured under Lease Lend without question, providing that there are sufficient funds available by appropriation, but with the exception that in some cases requisitions pertaining to supplies which are definitely required for use in the armed forces or in defence organisations may be rejected for various political reasons.
 
@@ -28,7 +33,7 @@ In the matter of priorities in supply, the United States Government may sometime
 
 7\. Returning to those categories upon which we suggest you should concentrate, we urge that every effort should be made at the Australian end to utilize the Lease Lend principle to obtain the largest proportion possible of those supplies identifiable as directly necessary for defence or as directly associated with production of articles for the purposes of defence (including goods ordered by or destined for private concerns for use in Australian production of articles directly connected with defence), these being supplies which are obviously procurable on a Lease Lend basis. We fear that difficulties will arise through recrudescence of obvious defence purchases which would be made through private sources for cash, which we understand is now the case. They tend to reach a material sum in aggregate and it is advisable to guard against the suggestion that we are applying for Lease Lend admission of doubtful cases and paying cash for those not doubtful. In other words we propose that, in lieu of the present policy of paying cash for many articles directly required in connection with defence which would be admitted without question under Lease Lend and trying to obtain under Lease Lend articles of doubtful eligibility, you should permit necessary requirements of the latter to be obtained in the ordinary way of business and arrange that all Government instrumentalities concerned, which for reasons of expediency now issue instructions to pay cash for particular requirements in defence supplies or authorize a private importer to import in the ordinary way, should in future arrange to obtain under Lease Lend more and more of Australia's requirements of articles directly connected with defence which it is necessary to import from the United States, including only those transactions which are too small in value as not to warrant action under cumbersome Lease Lend procedure.
 
-_
+ _
 
 1 Words in square brackets have been inserted from the Washington copy on file AA:A3300,103.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A3195, 1941, 1.19317]_
+ _[AA:A3195, 1941, 1.19317]_

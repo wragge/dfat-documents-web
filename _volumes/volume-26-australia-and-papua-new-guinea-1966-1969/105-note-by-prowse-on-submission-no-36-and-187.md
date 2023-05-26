@@ -1,19 +1,23 @@
 ---
-title: "105 Note By Prowse On Submission No. 36 And 187"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9613
+doc_date: '1967-04-17'
+doc_num: 105
+doc_order: 105
+naa_refs:
+- naa_barcode: 1346178
+  naa_control_symbol: C4491
+  naa_series: A4940
+  reference: '[NAA: A4940, C4491]'
+title: Note By Prowse On Submission No. 36 And 187
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-04-17
-barcode: 1346178
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 105 Note By Prowse On Submission No. 36 And 187
 
 Canberra, 17 April 1967
 
 Confidential
 
-**Proposed agreement on mining of Copper on Bougainville Island**
+ **Proposed agreement on mining of Copper on Bougainville Island**
 
 The Submissions follow on lengthy negotiations between the Department of Territories, the Territory Administration and C.R.A. Limited, and in the later stages Treasury.
 
@@ -33,7 +37,7 @@ As we see the proposition, there will be a $45 million equity investment in a de
 
 As a quid pro quo for the benefits sought, the Company has offered to pay higher than existing tax rates, and offers to pay tax at a rate, rising, in stages over four years from the time the Company commences to pay tax, to a ceiling of 50 per cent of adjusted taxable income. However, it is also proposed by the company that the rate of 50 per cent would not be exceeded during the first 25 years of operation, irrespective of movements in general Territory tax rates. After that period it is proposed the rate would rise by ½ per cent for each 1 per cent by which the general company rate exceeded 40 per cent. The Company’s figuring indicates that once the full 50 per cent rate becomes applicable the total contribution to revenue will be about $10 million per year.
 
-At present, a five-year tax holiday is available to manufacturing industries in the Territory which have been accorded _pioneer status_, but this has not been extended to mining companies because it has been felt that the existing taxation legislation is already sufficiently generous to them. There is, of course, no similar provision available in Australia. Moreover, the proposed allowance of write-off of all capital expenditure is a much more generous provision than is enjoyed by mining companies at present, either in the Territory or in Australia. This subject is, however, presently being examined by an inter-departmental committee in relation to companies in Australia.
+At present, a five-year tax holiday is available to manufacturing industries in the Territory which have been accorded _pioneer status_ , but this has not been extended to mining companies because it has been felt that the existing taxation legislation is already sufficiently generous to them. There is, of course, no similar provision available in Australia. Moreover, the proposed allowance of write-off of all capital expenditure is a much more generous provision than is enjoyed by mining companies at present, either in the Territory or in Australia. This subject is, however, presently being examined by an inter-departmental committee in relation to companies in Australia.
 
 Treasury suggest that the concessions sought are too liberal and that should they be granted to the Company in this case, it would be difficult to resist pressure for similar concessions in Australia, and even more difficult to resist their extension to other companies in the Territory. The Department of Territories thinks that the Territory is sufficiently isolated from Australia to overcome this particular aspect of the problem and we are inclined to accept their view on this aspect. Furthermore, argument for the introduction of similar concessions in Australia could be countered by reference to the total tax situation here, which is already quite favourable to mining companies.
 
@@ -53,7 +57,7 @@ We suggest that approval should be given to continuing negotiations with C.R.A.,
 
 4\. That the agreement provide firmer proposals for training and employment of indigenous people.
 
-[ [NAA: A4940, C4491](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1346178) ]
+[NAA: A4940, C4491]
 
 1 Initials and position unidentified, PMD. The note was endorsed by Munro.
 

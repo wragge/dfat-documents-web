@@ -1,14 +1,17 @@
 ---
-title: "307 LETTER, HARRISON TO BROOKE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10173
+doc_date: '1962-10-19'
+doc_num: 307
+doc_order: 307
+naa_refs:
+- naa_barcode: 577105
+  naa_control_symbol: 1531/171 PART 1
+  naa_series: A1838
+  reference: '[NAA:Al838, 1531/171 PART 1]'
+title: LETTER, HARRISON TO BROOKE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-10-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 307 LETTER, HARRISON TO BROOKE
-
-NAA:Al838, 1531/171 PART 1 
 
 Australian High Commission, London, 19 October 1962
 
@@ -29,3 +32,5 @@ The matter was then put to the Ministry of Labour which, on the other hand, was 
 You will no doubt appreciate that a considerable amount of time was taken up by my officers in dealing with these three cases. Furthermore, it must be admitted that the Home Office and the Ministry of Labour were caused some inconvenience. I had been given to understand that, in general, there would be no great difficulties facing Australians desiring to enter Britain following the introduction of the new Act. But, from experience, it appears that there may be further and continued embarrassment caused to Australians and to this High Commission.
 
 I feel that, as representative of the Australian Government in Britain, I must ask for your assurance that the provisions of the Act will be applied against Australian citizens with some discretion in the future, particularly in cases in which Australians arriving here are unaware of the fact that, although they are British nationals, they are not regarded as such for the purposes of the Act.
+
+[NAA:Al838, 1531/171 PART 1]

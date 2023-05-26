@@ -1,12 +1,17 @@
 ---
-title: "70 Curtin to Bruce"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2361
+doc_date: '1942-11-04'
+doc_num: 70
+doc_order: 70
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Curtin to Bruce
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-11-04
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 70 Curtin to Bruce
 
 Cablegram 10111 CANBERRA, 4 November 1942
 
@@ -16,7 +21,7 @@ Reference your No. 179 [1] I agree with your interpretation of our attitude, in 
 
 [3] As stated in Johcu No. 43 [4], we are relying on the Division being returned in good shape and strength otherwise it will soon cease to be a fully effective fighting unit. 2. For your strictly personal information I find it very difficult to reconcile the statements by the Commander-in-Chief, Middle East, to Major General Morshead regarding the important role allotted to the 9th Division in the offensive with the observance of the steps necessary to give effect to our repeated requests for the return of the Division. For example, in planning the operation, it is presumed that the Commander-in-Chief, Middle East, would have noted that the use of the 9th Division had an important tag to it which might require clarification. On the other hand, if he fully realised the limitations on the use of the Division, there can be no doubt that the position is fully understood by him. However, his remarks to Morshead do not indicate that he was aware of it. I would also like to know whether the impending operation was discussed in War Cabinet with you and whether similar questions arose there. [5]
 
-_
+ _
 
 1 Document 69.
 
@@ -32,4 +37,4 @@ IV, Document 465) or to the cablegram published as Document 64.
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

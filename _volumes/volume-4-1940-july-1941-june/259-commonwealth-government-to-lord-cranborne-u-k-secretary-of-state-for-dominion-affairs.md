@@ -1,12 +1,18 @@
 ---
-title: "259 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1490
+doc_date: '1941-01-29'
+doc_num: 259
+doc_order: 259
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941, 0.1147]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-29
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 259 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 57 29 January 1941,
 
@@ -18,7 +24,7 @@ Commonwealth Government have accepted invitation, and will be represented at con
 
 Representatives will leave for the Netherlands in about ten days time. [7]
 
-_
+ _
 
 1 On file AA:A1608, AA27/1/1.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA:A3196, 1941, 0.1147]_
+ _[AA:A3196, 1941, 0.1147]_

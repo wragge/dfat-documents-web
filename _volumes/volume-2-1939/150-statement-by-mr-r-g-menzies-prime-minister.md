@@ -1,12 +1,17 @@
 ---
-title: "150 Statement by Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 487
+doc_date: '1939-08-25'
+doc_num: 150
+doc_order: 150
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Statement by Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-25
+vol_title: 'Volume 2: 1939'
 ---
-
-# 150 Statement by Mr R.G. Menzies, Prime Minister
 
 Extract CANBERRA, 25 August 1939, evening
 
@@ -18,8 +23,8 @@ We in Australia are involved, because the destruction or defeat of Great Britain
 
 At this moment, therefore, Europe and the world are at the point of crisis.
 
-_
+ _
 
 _
 
-_ [REPORTED IN 'SYDNEY MORNING HERALD', 26 AUGUST 1939, P. 17]_
+ _[REPORTED IN 'SYDNEY MORNING HERALD', 26 AUGUST 1939, P. 17]_

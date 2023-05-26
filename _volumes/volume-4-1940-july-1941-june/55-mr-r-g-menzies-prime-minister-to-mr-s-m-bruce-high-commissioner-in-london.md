@@ -1,12 +1,17 @@
 ---
-title: "55 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1286
+doc_date: '1940-08-08'
+doc_num: 55
+doc_order: 55
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20B, i]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 55 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 8 August 1940,
 
@@ -30,7 +35,7 @@ For this reason we are entirely in accord with your insistence, and in fact have
 
 MENZIES
 
-_
+ _
 
 1 Comment 52.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 20B, i]_
+ _[AA:A981, FAR EAST 20B, i]_

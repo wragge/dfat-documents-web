@@ -1,12 +1,17 @@
 ---
-title: "296 Curtin to Churchill"
-volume: "Volume 7: 1944"
-doc_id: 2943
+doc_date: '1944-09-21'
+doc_num: 296
+doc_order: 296
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 560]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-21
+vol_title: 'Volume 7: 1944'
 ---
-
-# 296 Curtin to Churchill
 
 Cablegram Johcu 85 CANBERRA, 21 September 1944
 
@@ -26,7 +31,7 @@ Heartiest congratulations and warmest regards.
 
 JOHN CURTIN
 
-_
+ _
 
 1 Document 288.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 560]_
+ _[AA:A5954, BOX 560]_

@@ -1,12 +1,17 @@
 ---
-title: "220 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2867
+doc_date: '1944-07-12'
+doc_num: 220
+doc_order: 220
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, E43-44/970/54]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 220 Cranborne to Commonwealth Government
 
 Cablegram D1006 LONDON, 12 July 1944, 12.05 a.m.
 
@@ -22,7 +27,7 @@ The war was going none too well in China and these people might soon be surround
 
 Reports did not, however, encourage him to think that he would succeed in attempt to reach agreement with the Japanese. In any event preparation of plans and training of the Portuguese force would take time and it would be desirable to prepare for every contingency. He would therefore, at once, appoint a small delegation to take part in conversations and would let us know when this had been done.
 
-_
+ _
 
 1 Corrected from the copy in AA:A3195, 1944, Folder, Inwards Most Secret Master Sheets, from Secdomin, nos 33 to 29795, 1.25086/083.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A989, E43-44/970/54]_
+ _[AA:A989, E43-44/970/54]_

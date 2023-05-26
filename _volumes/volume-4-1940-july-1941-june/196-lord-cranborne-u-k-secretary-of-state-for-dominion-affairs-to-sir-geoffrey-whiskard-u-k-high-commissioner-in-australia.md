@@ -1,13 +1,18 @@
 ---
-title: "196 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1427
+doc_date: '1940-11-09'
+doc_num: 196
+doc_order: 196
+naa_refs:
+- naa_barcode: 206161
+  naa_control_symbol: E41/1/3
+  naa_series: A1608
+  reference: '[AA:A1608, E41/1/3, i]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-09
-barcode: 206161
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 196 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 379 LONDON, 9 November 1940, 11.30 p.m.
 
@@ -25,7 +30,7 @@ Government in the Commonwealth in this question.
 
 4\. A similar message is being sent to Prime Minister of New Zealand [4] and text is being repeated by War Office to Commander- in-Chief, Middle East.
 
-_
+ _
 
 1 Document 194.
 
@@ -37,4 +42,4 @@ _
 
 _
 
-_ [ [AA:A1608, E41/1/3, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=206161) ]_
+ _[AA:A1608, E41/1/3, i]_

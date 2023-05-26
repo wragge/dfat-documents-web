@@ -1,14 +1,21 @@
 ---
-title: "57 Summary of Australian Studies"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8927
+doc_date: '1980-01-23'
+doc_num: 57
+doc_order: 57
+naa_refs:
+- naa_barcode: 1389684
+  naa_control_symbol: 370/1/19/18 PART 13
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, xiii]'
+title: Summary of Australian Studies
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-01-23
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 57 Summary of Australian Studies
-
-## 57 Summary of Australian Studies1
+## 57 Summary of Australian Studies[1](#f1)
 
 Canberra, 23 January 1980
 
@@ -16,7 +23,7 @@ CONFIDENTIAL
 
 Australia- New Zealand Closer Economic Co-operation
 
-The following summarises the main points covered by Working Groups 1, 2 and 3 in the reports which will be the basis of discussions between Australia and New Zealand officials in Wellington.2
+The following summarises the main points covered by Working Groups 1, 2 and 3 in the reports which will be the basis of discussions between Australia and New Zealand officials in Wellington.[2](#f2)
 
 ## Working Group 1: Dynamic Implications for Australia and New Zealand of Various Forms of Closer Economic Association
 
@@ -48,7 +55,7 @@ The following summarises the main points covered by Working Groups 1, 2 and 3 in
   15. The Working Group examined forms of assistance other than tariffs and quantitative restrictions currently provided to industries in Australia and New Zealand with a view to assessing the likely effects of: 
     1. their elimination in respect of trade between the two countries; and,
     2. their harmonisation in such a way as to provide equal treatment of the industries in each country.
-  16. The Working Group was guided in its approach by the Permanent Heads' Statement of Understanding3 which noted that specific arrangements for closer economic co-operation would need to provide, inter alia, for conditions of fair competition covering, to the extent practicable, the harmonisation or elimination of quantitative controls, industry assistance measures, export incentives, customs procedures, trade practices, standards and other relevant matters impinging on the cost of trade between the two countries. This is understood as the 'fair go' principle which recognises that trade across the Tasman could be impeded or distorted due to differences in the domestic supports and other assistance measures applied by each country.
+  16. The Working Group was guided in its approach by the Permanent Heads' Statement of Understanding[3](#f3) which noted that specific arrangements for closer economic co-operation would need to provide, inter alia, for conditions of fair competition covering, to the extent practicable, the harmonisation or elimination of quantitative controls, industry assistance measures, export incentives, customs procedures, trade practices, standards and other relevant matters impinging on the cost of trade between the two countries. This is understood as the 'fair go' principle which recognises that trade across the Tasman could be impeded or distorted due to differences in the domestic supports and other assistance measures applied by each country.
   17. The report looked at measures ranging broadly from a number of financial supports and incentives for industry to various policies and practices which can, deliberately or otherwise, impede or distort conditions of competition between industries on either side of the Tasman. The Working Group found that the impact of these measures on trans-Tasman trade varied widely and was in most cases extremely difficult to determine. The Working Group was, therefore, of the opinion that no generalised conclusion could be reached regarding other forms of assistance. Rather, each measure must be considered on a case by case basis.
   18. It also proved difficult to assess the implications of harmonising or eliminating assistance. However, the report concluded that the likely effects of the elimination or harmonisation of such measures, where considered appropriate, would differ little between the two basic options of either a full free trade area and a customs union. While steps towards harmonisation or elimination appear to be called for in the cases of export incentives, agricultural support arrangements, production subsides and government purchasing as part of any move to closer economic co-operation, beyond these three forms of assistance the Working Group did not identify any other measures which impacted on trans-Tasman trade to an extent that harmonisation or elimination seemed called for.
   19. The report noted that, as a general principle, measures which applied across-the-board were neutral in terms of their impact on resource allocation.
@@ -56,10 +63,8 @@ The following summarises the main points covered by Working Groups 1, 2 and 3 in
 
 
 
-_[NAA: A1838, 37011/19/18, xiii]_
+ _[NAA: A1838, 37011/19/18, xiii]_
 
   * 1 As reported in minute from Andrews to Gate. 
   * 2 A meeting of the Joint Working Parties was scheduled for 30 January to 1 February 1980 in Wellington.
   * 3 Document 52.
-
-

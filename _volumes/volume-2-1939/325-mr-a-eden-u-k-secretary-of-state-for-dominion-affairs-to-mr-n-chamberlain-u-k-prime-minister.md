@@ -1,14 +1,20 @@
 ---
-title: "325 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr N. Chamberlain, U.K Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 662
+doc_date: '1939-11-03'
+doc_num: 325
+doc_order: 325
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: FO 371/23572]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr N. Chamberlain,
+  U.K Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-03
+vol_title: 'Volume 2: 1939'
 ---
 
-# 325 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr N. Chamberlain, U.K Prime Minister
-
-## Letter LONDON, 3 November 1939
+Letter LONDON, 3 November 1939
 
 Casey [1] and Bruce [2] lunched with me to-day when Hore-Belisha [3] and Maurice Hankey [4] were also present. We had some discussion about an Australian expeditionary force. Casey made it quite plain that the only element which was holding back an Australian decision was a doubt of the attitude of Japan. Any appreciation of the international situation such as the Foreign Secretary [5] has now taken steps to collect would greatly help them in coming to a decision. In the meanwhile Casey would agree to telegraph to his Government giving them his personal impressions as a result of the conversations we have had here.
 
@@ -26,7 +32,7 @@ I am sending copies of this letter to the Foreign Secretary and the First Lord o
 
 ANTHONY EDEN
 
-_
+ _
 
 1 R.G. Casey, Minister for Supply and Development.
 
@@ -44,4 +50,4 @@ DO 35/1007).
 
 _
 
-_ [PRO: FO 371/23572]_
+ _[PRO: FO 371/23572]_

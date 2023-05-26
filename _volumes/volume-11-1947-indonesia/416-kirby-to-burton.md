@@ -1,12 +1,17 @@
 ---
-title: "416 Kirby to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4600
+doc_date: '1947-11-12'
+doc_num: 416
+doc_order: 416
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1947, 1.22185/252/174/75/256/48/57]'
+title: Kirby to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-11-12
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 416 Kirby to Burton
 
 Cablegram unnumbered BATAVIA, 12 November 1947, 6.10 p.m.
 
@@ -66,7 +71,7 @@ Rest assured that Graham and self will act immediately on such contingency by re
 
 Please telegraph reply on this aspect. Have had to communicate contents of this telegram but have fears on the security angle and have much more to discuss.
 
-_
+ _
 
 1 Documents 396 and 410.
 
@@ -94,4 +99,4 @@ _
 
 _
 
-_ [AA:A3195, 1947, 1.22185/252/174/75/256/48/57]_
+ _[AA:A3195, 1947, 1.22185/252/174/75/256/48/57]_

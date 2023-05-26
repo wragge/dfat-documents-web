@@ -1,12 +1,17 @@
 ---
-title: "440 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2194
+doc_date: '1942-03-25'
+doc_num: 440
+doc_order: 441
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.12048]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-25
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 440 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram PM[S]5 WASHINGTON, 25 March 1942, 12.48 a.m.
 
@@ -36,7 +41,7 @@ Following for the Prime Minister.
 
 EVATT
 
-_
+ _
 
 1 Commander-in-Chief, U.S. Navy.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.12048]_
+ _[AA:A3195, 1942, 1.12048]_

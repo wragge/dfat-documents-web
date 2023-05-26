@@ -1,12 +1,17 @@
 ---
-title: "372 Forde to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 3019
+doc_date: '1944-12-12'
+doc_num: 372
+doc_order: 372
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 6]'
+title: Forde to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 372 Forde to Cranborne
 
 Cablegram 331 [1] CANBERRA, 12 December 1944
 
@@ -18,7 +23,7 @@ Your D.1195. [2] The Australian Accredited Representative has already informed y
 
 FORDE
 
-_
+ _
 
 1 Repeated to the Canadian, South African and N.Z. Prime Ministers as nos 27, 253 and 121, respectively.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 6]_
+ _[AA:A5954, BOX 6]_

@@ -1,13 +1,17 @@
 ---
-title: "264 Minutes of Meeting of Prime Ministers"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3776
+doc_date: '1946-05-22'
+doc_num: 264
+doc_order: 264
+naa_refs:
+- naa_barcode: 694890
+  naa_control_symbol: '3'
+  naa_series: A6712
+  reference: '[AA:A6712, [3]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-22
-barcode: 694890
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 264 Minutes of Meeting of Prime Ministers
 
 PMM(46) 17th Meeting (extract) LONDON, 22 May 1946, 11 a.m.
 
@@ -49,8 +53,8 @@ DR. EVATT suggested, however, that the circumstances might be somewhat different
 
 [matter omitted]
 
-_
+ _
 
 _
 
-_ [ [AA:A6712, [3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=694890) ]_
+ _[AA:A6712, [3]]_

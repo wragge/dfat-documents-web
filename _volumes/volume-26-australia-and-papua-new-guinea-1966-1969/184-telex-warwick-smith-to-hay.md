@@ -1,12 +1,17 @@
 ---
-title: "184 Telex, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9692
+doc_date: '1968-05-20'
+doc_num: 184
+doc_order: 184
+naa_refs:
+- naa_barcode: 4027857
+  naa_control_symbol: 1968/932
+  naa_series: A452
+  reference: '[NAA: A452, 19681932]'
+title: Telex, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-05-20
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 184 Telex, Warwick Smith To Hay
 
 Canberra, 20 May 1968
 
@@ -24,7 +29,7 @@ Canberra, 20 May 1968
 
 3\. Assuming no immediate action, and it would be difficult to envisage the Select Committee making another comprehensive tour of the Territory so soon before the new system has had a reasonable period of operation, and looking further ahead the first steps might be to look at some aspects of the legislature e.g.
 
-(a) The size of the electorates (there is really a great discrepancy according to the debate in the House of Representatives)1
+(a) The size of the electorates (there is really a great discrepancy according to the debate in the House of Representatives)[1](#f1)
 
 (b) Whether first-past-the-post optional preferences or compulsory preference is the best system of voting for the Territory circumstances
 
@@ -32,4 +37,4 @@ Perhaps we ought also to consider whether we would like to see examined—withou
 
 [NAA: A452, 19681932]
 
-1 During debate on the Papua and New Guinea Bill 1968, Beazley argued that Australia must ‘move towards equal electorates’ in PNG. He was supported by F.E. Stewart (Labor Member for Lang), who listed discrepancies in numbers of voters in electorates, both regional (Bougainville, 21,844; Western Highlands, 110,878; Madang, 45,570) and open (Moresby, 4,451; South Bougainville, 11,864 and Rabaul, 7,633). Barnes replied, inter alia, that the current system was a product of a special recommendation of the Select Committee. ‘We did not fix the numbers’, he said, ‘the people selected this scheme’—and any subsequent Select Committee had the right to make ‘other suggestions’ (_Commonwealth parliamentary debates_ (Reps), vol. 59, 9 May 1968, pp. 1313, 1325, 1340.
+1 During debate on the Papua and New Guinea Bill 1968, Beazley argued that Australia must ‘move towards equal electorates’ in PNG. He was supported by F.E. Stewart (Labor Member for Lang), who listed discrepancies in numbers of voters in electorates, both regional (Bougainville, 21,844; Western Highlands, 110,878; Madang, 45,570) and open (Moresby, 4,451; South Bougainville, 11,864 and Rabaul, 7,633). Barnes replied, inter alia, that the current system was a product of a special recommendation of the Select Committee. ‘We did not fix the numbers’, he said, ‘the people selected this scheme’—and any subsequent Select Committee had the right to make ‘other suggestions’ ( _Commonwealth parliamentary debates_ (Reps), vol. 59, 9 May 1968, pp. 1313, 1325, 1340.

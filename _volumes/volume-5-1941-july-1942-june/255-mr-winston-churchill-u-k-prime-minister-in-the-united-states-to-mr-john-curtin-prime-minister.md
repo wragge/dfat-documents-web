@@ -1,12 +1,18 @@
 ---
-title: "255 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2009
+doc_date: '1942-01-03'
+doc_num: 255
+doc_order: 256
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-03
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 255 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister
 
 Cablegram Winch 3 [WASHINGTON, 3 January 1942, 4.45 a.m.] [1]
 
@@ -30,7 +36,7 @@ Unless, therefore, the American Naval strategy is such [as] to ensure either a f
 
 We are endeavouring to concert with the Americans the best arrangements not only for the time when ships become available to make either a large combined fleet or two smaller fleets but also during the interim period.
 
-_
+ _
 
 1 Material in square brackets has been inserted from the Washington copy on file AA:A3300, 219. This cablegram was dispatched to London and retransmitted to Canberra at 3.32 a.m. on 4 January (see the copy on file AA:A981, War 33, attachment B).
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

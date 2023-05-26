@@ -1,14 +1,35 @@
 ---
-title: "144 Tange to Burton"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5920
+doc_date: '1949-02-10'
+doc_num: 144
+doc_order: 144
+naa_refs:
+- naa_barcode: 424882
+  naa_control_symbol: 383/1/2/1 PART 4
+  naa_series: A1838
+  reference: '[AA:A1838/278, 383/1/2/1, iv]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[8. The conception I have is of an understanding which creates little
+    formal machinery: but which provides a mechanism (analogous to British Commonwealth
+    consultations) for periodical and ad hoc consultations on major political issues
+    and engender the habit of prior consultations on technical issues as they arise
+    in specific agencies. Such an arrangement would permit further New Delhi Conferences
+    without the excitement and misgivings which the press in Australia worked up over
+    the recent one, and would avoid unnecessary machinery.]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[it seems to me that the proposed Australian reply involves duplication
+    with:]'
+title: Tange to Burton
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-02-10
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
 
-# 144 Tange to Burton
-
-## Minute CANBERRA, 10 February 1949
+Minute CANBERRA, 10 February 1949
 
 ASIAN CONSULTATIVE MACHINERY
 
@@ -44,7 +65,7 @@ ASIAN CONSULTATIVE MACHINERY
 
 [8. The conception I have is of an understanding which creates little formal machinery: but which provides a mechanism (analogous to British Commonwealth consultations) for periodical and ad hoc consultations on major political issues and engender the habit of prior consultations on technical issues as they arise in specific agencies. Such an arrangement would permit further New Delhi Conferences without the excitement and misgivings which the press in Australia worked up over the recent one, and would avoid unnecessary machinery.]
 
-_
+ _
 
 1 Document 142 2 Presumably a draft reply. See Document 149 for the Australian Government's reply.
 
@@ -64,4 +85,4 @@ _
 
 _
 
-_ [AA:A1838/278, 383/1/2/1, iv]_
+ _[AA:A1838/278, 383/1/2/1, iv]_

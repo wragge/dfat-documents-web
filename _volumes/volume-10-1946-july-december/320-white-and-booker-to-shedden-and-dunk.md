@@ -1,12 +1,17 @@
 ---
-title: "320 White and Booker to Shedden and Dunk"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4168
+doc_date: '1946-12-13'
+doc_num: 320
+doc_order: 320
+naa_refs:
+- naa_barcode: 209949
+  naa_control_symbol: 1946/BERLIN
+  naa_series: A4231
+  reference: '[AA:A4231/2 AUSTRALIAN MILITARY MISSION DISPATCHES BERLIN 1946 1-11]'
+title: White and Booker to Shedden and Dunk
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-13
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 320 White and Booker to Shedden and Dunk
 
 Dispatch 10/46 (extracts) BERLIN, 13 December 1946
 
@@ -38,8 +43,8 @@ T. W. WHITE Brigadier Chief, Australian Military Mission
 
 MALCOLM BOOKER for Political Adviser Australian Military Mission
 
-_ 11]
+ _
 
 _
 
-_ [AA:A4231/2 AUSTRALIAN MILITARY MISSION DISPATCHES BERLIN 1946 1-_
+ _[AA:A4231/2 AUSTRALIAN MILITARY MISSION DISPATCHES BERLIN 1946 1-11]_

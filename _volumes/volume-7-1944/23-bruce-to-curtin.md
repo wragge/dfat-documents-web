@@ -1,12 +1,17 @@
 ---
-title: "23 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2670
+doc_date: '1944-01-19'
+doc_num: 23
+doc_order: 23
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, E43-44/1000/4/1]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 23 Bruce to Curtin
 
 Cablegram 10A LONDON, 19 January 1944, 5 p.m.
 
@@ -32,7 +37,7 @@ Yugoslavia appears to be the only one of these countries where an outstanding ma
 
 BRUCE
 
-_
+ _
 
 1 Document 10.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A989, E43-44/1000/4/1]_
+ _[AA:A989, E43-44/1000/4/1]_

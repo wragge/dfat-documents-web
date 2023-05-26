@@ -1,12 +1,17 @@
 ---
-title: "62 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2353
+doc_date: '1942-10-17'
+doc_num: 62
+doc_order: 62
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-10-17
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 62 Curtin to Churchill
 
 Cablegram 461 [1] CANBERRA, 17 October 1942
 
@@ -56,7 +61,7 @@ There is no further commitment for manning Royal Navy ships.
 
 CURTIN
 
-_
+ _
 
 1 Sent through the U.K. Dominions Office.
 
@@ -82,4 +87,4 @@ Special Collection II, bundle 5, strategical Policy-S.W.P.A., file no. 3, 48/194
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

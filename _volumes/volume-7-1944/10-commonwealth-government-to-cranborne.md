@@ -1,12 +1,17 @@
 ---
-title: "10 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2657
+doc_date: '1944-01-11'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, E43-44/1000/4/1]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-11
+vol_title: 'Volume 7: 1944'
 ---
-
-# 10 Commonwealth Government to Cranborne
 
 Cablegram 12 CANBERRA, 11 January 1944
 
@@ -120,7 +125,7 @@ the democratic groups in Italy, with a view to formation of a
 
 widely based and representative Government as early as possible.
 
-_
+ _
 
 1 King Peter II.
 
@@ -156,7 +161,7 @@ to appeal to Italians for an appreciable time'.
 
 _
 
-_
+ _
 
 [AA:A989, E43-44/1000/4/1]
 

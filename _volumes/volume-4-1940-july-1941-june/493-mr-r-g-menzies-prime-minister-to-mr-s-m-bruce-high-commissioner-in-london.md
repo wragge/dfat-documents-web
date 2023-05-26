@@ -1,12 +1,18 @@
 ---
-title: "493 Mr R. G. Menzies, Prime Minister, to Mr. S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1724
+doc_date: '1941-06-08'
+doc_num: 493
+doc_order: 493
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.7642]'
+title: Mr R. G. Menzies, Prime Minister, to Mr. S. M. Bruce, High Commissioner in
+  London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 493 Mr R. G. Menzies, Prime Minister, to Mr. S. M. Bruce, High Commissioner in London
 
 Cablegram 2855 8 June 1941,
 
@@ -22,7 +28,7 @@ Another forced evacuation, particularly if accompanied with great losses, will h
 
 MENZIES
 
-_
+ _
 
 1 General Officer Commanding and A.I.F. in the Middle East.
 
@@ -32,4 +38,4 @@ See PRO: DO 35/1009, ii.
 
 _
 
-_ [AA: A3196, 1941, 0.7642]_
+ _[AA: A3196, 1941, 0.7642]_

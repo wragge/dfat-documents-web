@@ -1,18 +1,23 @@
 ---
-title: "88 Telex, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9596
+doc_date: '1967-02-02'
+doc_num: 88
+doc_order: 88
+naa_refs:
+- naa_barcode: 12041353
+  naa_control_symbol: 1967/1333
+  naa_series: A452
+  reference: '[NAA: A452, 1967/1333]'
+title: Telex, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-02-02
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 88 Telex, Warwick Smith To Hay
 
 Canberra, 2 February 1967
 
 284/232. 
 
-Your 184 on Bougainville situation1 refers. Following is comprehensive statement setting out steps which Minister has asked be taken in handling situation following C.R.A. operations. As you will see action to be followed is based very closely on recommendations set out in your 184.
+Your 184 on Bougainville situation[1](#f1) refers. Following is comprehensive statement setting out steps which Minister has asked be taken in handling situation following C.R.A. operations. As you will see action to be followed is based very closely on recommendations set out in your 184.
 
 Action to be taken in relation to the actual mining area is as follows—
 
@@ -36,33 +41,33 @@ Action to be taken in relation to the actual mining area is as follows—
 
 (j) In areas where work is proceeding the process of consultation should be continued so that people are as fully informed as possible of proposed developments.
 
-_Other action in the Territory_
+ _Other action in the Territory_
 
 (a) Publicity campaign over some weeks designed to explain the Administration’s position, the need to maintain the law and the importance to the Territory at large of a successful large scale mining project in Bougainville.
 
 (b) Exchange of letters with C.R.A. in particular (and associated public statements) regarding action by them to respect traditional beliefs and customs in regard to land as far as possible. (Conditions to this effect to be written into prospecting authorities and leases if practicable.)
 
-(c) Maintain pressure privately on the Missions through conversations with Lemay and local priests and with Hoehne,2 Copas and others as opportunity offers. Consideration would be given to publicity if required.
+(c) Maintain pressure privately on the Missions through conversations with Lemay and local priests and with Hoehne,[2](#f2) Copas and others as opportunity offers. Consideration would be given to publicity if required.
 
 (d) Public emphasis on steps taken on the ground to explain and consult with the people.
 
-(e) Contact with Administrator’s Council and individual influential members leading after the House debate and if then appropriate to visit by small group to the area with the purpose of bringing whatever influence or weight the House of Assembly might carry to bear upon the local people’s attitude.3
+(e) Contact with Administrator’s Council and individual influential members leading after the House debate and if then appropriate to visit by small group to the area with the purpose of bringing whatever influence or weight the House of Assembly might carry to bear upon the local people’s attitude.[3](#f3)
 
 (f) Foregoing steps lead up to statement in the House of Assembly early in the session designed to reinforce support of the House.
 
-(g) Psychological and legal aspects to be covered by continuous consultation with Chief psychologist4 and Secretary for Law respectively.
+(g) Psychological and legal aspects to be covered by continuous consultation with Chief psychologist[4](#f4) and Secretary for Law respectively.
 
 (h) Situation report to be radioed weekly for the Minister. The Administrator is invited to comment from time to time on policy aspects.
 
 (i) Administration officials to keep in close touch and to act throughout in concert with the Company.
 
-_Action to be taken in Canberra_
+ _Action to be taken in Canberra_
 
 (a) Cabinet has been informed of the situation.
 
 (b) Maintain pressure on the Missions through the Apostolic Delegate.
 
-(c) Minister to issue press release 5th or 6th February on acceptance of Lapun amendment, accompanied by background press conference by departmental officer with further Ministerial press release on general situation if Minister considers this desirable.5
+(c) Minister to issue press release 5th or 6th February on acceptance of Lapun amendment, accompanied by background press conference by departmental officer with further Ministerial press release on general situation if Minister considers this desirable.[5](#f5)
 
 d. Department to keep Company in Australia informed.
 
@@ -76,4 +81,4 @@ d. Department to keep Company in Australia informed.
 
 4  Unidentified. 
 
-5  On 6 February, Barnes released a press statement which recorded, inter alia, that ‘Official members of the House of Assembly had opposed the amending ordinances when they were before the House. The official position was supported by a significant number of elected members. The Minister said that the Government still believed that it would be in the best interests of the Territory, both now and in the longer term, for all royalties payable under the Mining Ordinances to be paid into the central Territory Treasury. Nevertheless the Government accepted that the substance of the amending Ordinances was strongly influenced by the traditions and customs of the indigenous people in relation to land. The amendments did not place in doubt the general principle that mineral resources belong to the people as a whole. The Government in the light of the views expressed in the course of the debate would accept the substance of the amendments on the basis that the proportion of royalty payable to landowners would not be subsequently increased beyond the 5% now proposed and looked to the House to give its full backing to the Administration in ensuring that the Bougainville copper project and any other major mining projects in the Territory could go ahead. Two further amendments, not affecting the principle, would be proposed to the House of Assembly at its next meeting. The first of these would provide that payments under the Ordinance would be made to owners of land under customary tenure or to owners who had converted their land from customary tenure to registered title; it would not provide for payment to people holding Administration leases (the terms of which expressly reserved mineral rights to the Administration) or owners of freehold land granted before Australian administration of New Guinea or Papua. The other amendment related only to the method of determining the payments to be made to eligible landowners’. In relation to the situation in Bougainville, Barnes said that there had been ‘some opposition’, but that Hay was ‘taking every opportunity to ensure that the people were effectively consulted and that the benefits which the mining project would bring were explained’—and he ‘stressed that if the project went ahead it would be of great importance to the Territory as a whole’ (NAA: A452, 1967/1347). Reporting to Swift on the Australian press reaction, an official of the Information Section (unidentified) noted that ‘Most papers generally take the view that this was the first significant victory for the House of Assembly’ (minute, February 1967 (exact date unknown), NAA: A452, 196711392). 
+5  On 6 February, Barnes released a press statement which recorded, inter alia, that ‘Official members of the House of Assembly had opposed the amending ordinances when they were before the House. The official position was supported by a significant number of elected members. The Minister said that the Government still believed that it would be in the best interests of the Territory, both now and in the longer term, for all royalties payable under the Mining Ordinances to be paid into the central Territory Treasury. Nevertheless the Government accepted that the substance of the amending Ordinances was strongly influenced by the traditions and customs of the indigenous people in relation to land. The amendments did not place in doubt the general principle that mineral resources belong to the people as a whole. The Government in the light of the views expressed in the course of the debate would accept the substance of the amendments on the basis that the proportion of royalty payable to landowners would not be subsequently increased beyond the 5% now proposed and looked to the House to give its full backing to the Administration in ensuring that the Bougainville copper project and any other major mining projects in the Territory could go ahead. Two further amendments, not affecting the principle, would be proposed to the House of Assembly at its next meeting. The first of these would provide that payments under the Ordinance would be made to owners of land under customary tenure or to owners who had converted their land from customary tenure to registered title; it would not provide for payment to people holding Administration leases (the terms of which expressly reserved mineral rights to the Administration) or owners of freehold land granted before Australian administration of New Guinea or Papua. The other amendment related only to the method of determining the payments to be made to eligible landowners’. In relation to the situation in Bougainville, Barnes said that there had been ‘some opposition’, but that Hay was ‘taking every opportunity to ensure that the people were effectively consulted and that the benefits which the mining project would bring were explained’—and he ‘stressed that if the project went ahead it would be of great importance to the Territory as a whole’ (NAA: A452, 1967/1347). Reporting to Swift on the Australian press reaction, an official of the Information Section (unidentified) noted that ‘Most papers generally take the view that this was the first significant victory for the House of Assembly’ (minute, February 1967 (exact date unknown), NAA: A452, 196711392).

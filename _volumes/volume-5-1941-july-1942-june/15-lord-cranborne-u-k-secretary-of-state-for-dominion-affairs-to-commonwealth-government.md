@@ -1,12 +1,18 @@
 ---
-title: "15 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1769
+doc_date: '1941-07-25'
+doc_num: 15
+doc_order: 16
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA : A981, FAR EAST 20B, i]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-25
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 15 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular cablegram M179 LONDON, 25 July 1941, 12.10 a.m.
 
@@ -24,8 +30,8 @@ JAPAN We have considered our conclusions further in the light of the views expre
 
 6\. We earnestly trust that His Majesty's Governments in the Dominions will feel able to agree to our taking this line with the United States Government. We feel it essential to make known to the United States Government, forthwith, our willingness to take parallel action with them and should be grateful therefore for a reply by Most Immediate Telegram.
 
-_
+ _
 
 _
 
-_ [AA : A981, FAR EAST 20B, i]_
+ _[AA : A981, FAR EAST 20B, i]_

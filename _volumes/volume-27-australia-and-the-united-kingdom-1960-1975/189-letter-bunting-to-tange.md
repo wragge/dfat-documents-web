@@ -1,20 +1,23 @@
 ---
-title: "189 LETTER, BUNTING TO TANGE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10054
+doc_date: '1962-07-02'
+doc_num: 189
+doc_order: 189
+naa_refs:
+- naa_barcode: 1050919
+  naa_control_symbol: C3616
+  naa_series: A4940
+  reference: '[NAA: A4940, C3616]'
+title: LETTER, BUNTING TO TANGE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-07-02
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 189 LETTER, BUNTING TO TANGE
-
-NAA: A4940, C3616
 
 Canberra, 2 July 1962
 
 Personal
 
-I am attaching with this letter a copy of the Cabinet minute which records the Prime Minister’s observations to his colleagues about his Common Market discussions during the recent visit to London and Washington.1
+I am attaching with this letter a copy of the Cabinet minute which records the Prime Minister’s observations to his colleagues about his Common Market discussions during the recent visit to London and Washington.[1](#f1)
 
 One matter which arose in the course of the Cabinet meeting requires action.
 
@@ -25,3 +28,5 @@ The Cabinet indicated that a development of this kind was not only not being sou
 It was decided that a close watch should be kept for any unacceptable developments. In particular, it was agreed that our diplomatic and trade representatives in the Commonwealth countries should be asked to report upon any relevant developments, either official or public, and in due course to supply an appreciation of the reaction of the government of the country to which they are attached to the package of proposals being developed between the United Kingdom and the Six by September, and the extent, if any, to which that country may look to Australia to be the spearhead of opposition to the proposals.
 
 1 Document 188.
+
+[NAA: A4940, C3616]

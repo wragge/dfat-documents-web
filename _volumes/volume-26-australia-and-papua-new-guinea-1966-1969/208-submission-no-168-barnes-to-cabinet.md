@@ -1,13 +1,17 @@
 ---
-title: "208 Submission No. 168, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9716
+doc_date: '1968-07-09'
+doc_num: 208
+doc_order: 208
+naa_refs:
+- naa_barcode: 3068325
+  naa_control_symbol: '168'
+  naa_series: A5868
+  reference: '[NAA: A5868, 168]'
+title: Submission No. 168, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-07-09
-barcode: 3068325
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 208 Submission No. 168, Barnes To Cabinet
 
 Canberra, 9 July 1968
 
@@ -33,7 +37,7 @@ CONFIDENTIAL
 
 • because direct expenditure by Commonwealth Departments and non-commercial instrumentalities is expected to fall by $8.3 million in 1968/69, the net increase in Commonwealth expenditure in the Territory in 1968/69 will be $1.1 million compared with $3.34 million in 1967/68 and $6.26 million in 1966/67, and the proportion that total Commonwealth expenditure represents of total Government expenditure will continue to decline from 67.8% in 1966/67 to 65.2% in 1967/68, to 62.6% in 1968/69.
 
-_Receipts_
+ _Receipts_
 
 4\. In 1967/68 internal revenue fell short of the budget estimate of $55.0 million by about $5 million. This short fall is attributed largely to the decline of $4.4 million in direct Commonwealth Departmental expenditure in the Territory in 1967/68 following increases of $12.4 million and $8.5 million in 1965/66 and 1966/67, respectively. Although the estimated decline of $8.3 million in such expenditure in 1968/69 is almost twice as great as the amount of the decrease in 1967/68, the effect of this on internal revenue collections is expected to be offset to a large degree by the spill over in{to} 1968/69 of greatly increased export income in 1967/68. Having regard to the likely movement in the principal revenue generators, it is estimated that internal revenue will rise in 1968/69 by about 12%, allowing for the collection of $1 million from new revenue measures (these do not provide for any variation in the higher uniform rate of income tax for companies imposed in 1967/68). However, because of the sharp decrease in direct expenditure by Commonwealth Departments the rate of growth in internal revenue which averaged nearly 22% in the past three years and which resulted in an 80% increase in internal revenue over that period cannot be expected to continue. The long term rate of growth is expected to be nearer 12%—the estimated growth in 1968/69. For some years to come, internal revenue will not reflect much of the increasing expenditure of recent years on expanding the productive potential of the Territory.
 
@@ -41,17 +45,17 @@ _Receipts_
 
 6\. The remaining item of receipts is Commonwealth Grant which has been included in the draft Territory budget at $87.0 million.
 
-_Expenditure_
+ _Expenditure_
 
-7\. In the formulation of the draft Territory budget priority has again been given to those expenditures which should directly expand the productive potential of the Territory. The functional classification of the proposed budget, given in Attachment ‘A’,1 shows an increase in the proportion of the budget devoted to the Commodity Producing Sector and a substantial increase for the whole of the Economic Sector. In 1968/69, 33.2% of the budget is for economic development,2 compared with 30.7% in 1967/68.
+7\. In the formulation of the draft Territory budget priority has again been given to those expenditures which should directly expand the productive potential of the Territory. The functional classification of the proposed budget, given in Attachment ‘A’,[1](#f1) shows an increase in the proportion of the budget devoted to the Commodity Producing Sector and a substantial increase for the whole of the Economic Sector. In 1968/69, 33.2% of the budget is for economic development,[2](#f2) compared with 30.7% in 1967/68.
 
-8\. The principal elements in the proposed budget increase of $18.6 million are shown at Attachment ‘B’.3 This increase is required to give effect to the Government’s enunciated policy of economic, political and social advancement of the people of the Territory.
+8\. The principal elements in the proposed budget increase of $18.6 million are shown at Attachment ‘B’.[3](#f3) This increase is required to give effect to the Government’s enunciated policy of economic, political and social advancement of the people of the Territory.
 
 9\. An estimated increase of $4.6 million for salaries reflects the growth in the Territory Public Service. The net gain in overseas staff achieved in 1967/68 is estimated at around 300, compared with slightly under 200 in 1966/67, and funds have been provided in the draft budget for a net gain of 340 in 1968/69. For some time yet both the expatriate and indigenous components of the Public Service must grow to enable substantial progress towards policy objectives and for effective administration. From 1st July, 1968, there will be no further recruitment of expatriate officers to fill positions of base grade clerk and below.
 
 10\. Associated with the growth in the Public Service is an increase of almost $1 million in administrative expenses (duty travel, leave travel, motor transport, post and electricity charges, printing and incidentals). This increase is unavoidable if the Service is to be used effectively.
 
-11\. Expenditure on Capital Works and Services, including the capital works and services of the Harbours Board and Housing Commission financed from the budget, is expected to rise by $2.4 million or about 10%. The main increases are for development of roads and wharves.4
+11\. Expenditure on Capital Works and Services, including the capital works and services of the Harbours Board and Housing Commission financed from the budget, is expected to rise by $2.4 million or about 10%. The main increases are for development of roads and wharves.[4](#f4)
 
 12\. An additional $0.6 million required for the Electricity Commission is largely in respect of generators for the Rouna Hydro Electric Power Station which were to have been delivered in 1967/68 but which will now be delivered in 1968/69.
 
@@ -73,13 +77,13 @@ _Expenditure_
 
 21\. The framework of the draft Territory budget has yet to be discussed with the new Administrator’s Executive Council of which the newly appointed Ministerial Members provide a majority. Final allocations within the overall amount of the budget will need to take account of the views of that Council.
 
-22\. As decided by Cabinet on 19th July, 1967, (Decision No. 417(M)),5 the Commonwealth grant would be on the basis that in the event that the House of Assembly (on whose decision adoption of the Territory budget depends) should attempt to vary the budget in a way unacceptable to the Government the intention would be that the amount of the grant and the arrangements for Australian aid should be open to review.
+22\. As decided by Cabinet on 19th July, 1967, (Decision No. 417(M)),[5](#f5) the Commonwealth grant would be on the basis that in the event that the House of Assembly (on whose decision adoption of the Territory budget depends) should attempt to vary the budget in a way unacceptable to the Government the intention would be that the amount of the grant and the arrangements for Australian aid should be open to review.
 
 RECOMMENDATION
 
-23\. I recommend a grant of $87 million to the Papua and New Guinea Administration in 1968/69, the policy basis being as decided by Cabinet in July 1967 (paragraph 22 above), and the arrangement for the Papua and New Guinea Development Bank set out at paragraph 18 above.6
+23\. I recommend a grant of $87 million to the Papua and New Guinea Administration in 1968/69, the policy basis being as decided by Cabinet in July 1967 (paragraph 22 above), and the arrangement for the Papua and New Guinea Development Bank set out at paragraph 18 above.[6](#f6)
 
-[ [NAA: A5868, 168](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3068325) ]
+[NAA: A5868, 168]
 
 1 Not printed.
 

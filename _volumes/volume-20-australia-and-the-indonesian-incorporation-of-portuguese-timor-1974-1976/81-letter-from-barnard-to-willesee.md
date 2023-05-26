@@ -1,22 +1,29 @@
 ---
-title: "81 Letter from Barnard to Willesee"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7920
+doc_date: '1975-02-11'
+doc_num: 81
+doc_order: 81
+naa_refs:
+- naa_barcode: 4151599
+  naa_control_symbol: 801/13/11/1 PART 7
+  naa_series: A10463
+  reference: '[NAA: A10463, 801113/11/1, vii]'
+title: Letter from Barnard to Willesee
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-02-11
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 81 Letter from Barnard to Willesee
 
 Canberra, 11 February 1975
 
 SECRET AUSTEO
 
-Thank you for sending me a copy of your letter of 13th January to the Prime Minister about Portuguese Timor.1 This subject bears very directly on our defence and strategic interests. I think it has serious implications not only for our policy but for the Government's domestic political position in these respects. Rather than commenting directly on the conclusions that you have put to the Prime Minister, may I therefore invite your attention to considerations that are giving me anxiety. I much appreciate your thought that a co-ordinated approach should be developed between our two Departments and to this end I suggest in this letter a line of policy to protect the interests with which I am more directly concerned. I believe developments now require that a clear statement of Australian views again be put to the Indonesian Government.
+Thank you for sending me a copy of your letter of 13th January to the Prime Minister about Portuguese Timor.[1](#f1) This subject bears very directly on our defence and strategic interests. I think it has serious implications not only for our policy but for the Government's domestic political position in these respects. Rather than commenting directly on the conclusions that you have put to the Prime Minister, may I therefore invite your attention to considerations that are giving me anxiety. I much appreciate your thought that a co-ordinated approach should be developed between our two Departments and to this end I suggest in this letter a line of policy to protect the interests with which I am more directly concerned. I believe developments now require that a clear statement of Australian views again be put to the Indonesian Government.
 
 I do not consider that military-strategic considerations of themselves require us to express a preference whether Portuguese Timor should be independent or be part of the Indonesian state. Moreover, even were there a clear military preference, this would have to be weighed, on the one hand, against our national interest in the preservation of a co-operative relationship with Indonesia and, on the other, against political policy supporting the rights of the Portuguese Timorese to self-determination. Future military potentialities-such as strategic tension in Australian relations with Indonesia, or with some third power-are not such as to override our present policies as described above. While on balance there are possible stronger arguments for Indonesian control of the territory, if this were acceptably and securely achieved, the establishment there of an independent state would also be acceptable to Australia from the military-strategic point of view. In either case what will be important to Australia from the strategic point of view will be that the final settlement not develop into a 'running sore' in our neighbourhood that could complicate our relations with Indonesia and that could attract unwelcome attention from other powers.
 
-What is of central concern to the defence interests, and I believe to our political interests as a Government, is, therefore, the manner in which Portuguese Timor moves either to independence or to Indonesian control. I attach for your information the latest JIO assessment of Indonesian attitudes. There are indications of significant development since you wrote to the Prime Minister. I am deeply disturbed by the present indications that the Indonesian Government is considering military action to seize Portuguese Timor, that influential elements in Jakarta favour this course and that, while a decision has not yet been reached, there are military preparations that would allow action at short notice.2
+What is of central concern to the defence interests, and I believe to our political interests as a Government, is, therefore, the manner in which Portuguese Timor moves either to independence or to Indonesian control. I attach for your information the latest JIO assessment of Indonesian attitudes. There are indications of significant development since you wrote to the Prime Minister. I am deeply disturbed by the present indications that the Indonesian Government is considering military action to seize Portuguese Timor, that influential elements in Jakarta favour this course and that, while a decision has not yet been reached, there are military preparations that would allow action at short notice.[2](#f2)
 
 May I put to you some of the consequences as I see them for our Government position and policies if the Indonesians take immoderate action.
 
@@ -30,7 +37,7 @@ A further aspect concerns Papua New Guinea. At present there seems little awaren
 
 These are some of the immediate matters that appear to me to arise directly from any Indonesian policy towards Portuguese Timor involving military action. As I say, they impact forcibly on the defence interest, both domestically and internationally. I do not believe that we could easily contain reactions such as I have indicated and that they would blow over after a time.
 
-There is, moreover, a more fundamental consideration, affecting our perception of our strategic circumstances and our status as a regional power. Since our intervention on behalf of the Indonesians against the Dutch effort to regain control of the former Netherlands East Indies by military force,3 Australia has asserted an interest and status in the affairs of the neighbouring region. The abiding strategic importance for us of the archipelago to the north, extending from Aceh in Sumatra to the islands of the South West Pacific, requires this. We cannot be, or be perceived to be, indifferent to developments affecting the nature and distribution of political power there and, in my view, we cannot accept that any other nation has the right unilaterally to change things by military force.
+There is, moreover, a more fundamental consideration, affecting our perception of our strategic circumstances and our status as a regional power. Since our intervention on behalf of the Indonesians against the Dutch effort to regain control of the former Netherlands East Indies by military force,[3](#f3) Australia has asserted an interest and status in the affairs of the neighbouring region. The abiding strategic importance for us of the archipelago to the north, extending from Aceh in Sumatra to the islands of the South West Pacific, requires this. We cannot be, or be perceived to be, indifferent to developments affecting the nature and distribution of political power there and, in my view, we cannot accept that any other nation has the right unilaterally to change things by military force.
 
 This, however, is a prospect with which we are now faced in respect of Indonesia and Portuguese Timor. This territory lies only some 300 miles from our coast, and half that from our potential maritime resources zone, and commands important lines of our sea communications. However, it is not the strategic significance of these facts that I am arguing but the significance of unilateral action there by Indonesia for our future relations with Indonesia, and for the maintenance of our interests in the security of Papua New Guinea and the easterly territories of our northern archipelago from military pressure, attack or occupation by an external power. If Indonesia moved militarily against Portuguese Timor despite Australian representations against this, we would have to assess very closely whether we had to deal with a neighbouring state in which dominant elements were disposed to deal with neighbourhood problems by use of military force. The implications of such an assessment for our strategic outlook and for our defence posture and expenditures are obvious. In addition, we have to consider our credibility in the neighbourhood and the region at large as a power concerned with stability and security and able and ready to exercise worthwhile influence in these respects.
 
@@ -52,10 +59,8 @@ As to our response should the Indonesians nevertheless move against Portuguese T
 
 I am passing a copy of this letter also to our colleague the Prime Minister.
 
-_[NAA: A10463, 801113/11/1, vii]_
+ _[NAA: A10463, 801113/11/1, vii]_
 
   * 1 Document 71.
   * 2 The assessment, dated 11 February, referred to Embassy reports that the Indonesians were increasingly leaning towards direct intervention.
-  * 3 See _Documents on Australian Foreign Policy 1937-1949_, Volumes XI, XIII and XV, _Australia and Indonesia's Independence_, for an extensive selection of documents on this issue.
-
-
+  * 3 See _Documents on Australian Foreign Policy 1937-1949_ , Volumes XI, XIII and XV, _Australia and Indonesia's Independence_ , for an extensive selection of documents on this issue.

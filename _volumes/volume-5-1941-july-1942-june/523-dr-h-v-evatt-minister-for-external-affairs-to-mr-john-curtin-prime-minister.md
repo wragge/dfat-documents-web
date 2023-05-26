@@ -1,12 +1,17 @@
 ---
-title: "523 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2277
+doc_date: '1942-06-10'
+doc_num: 523
+doc_order: 524
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT C]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-10
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 523 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram ES65 WASHINGTON, 10 June 1942, 2.19 p.m.
 
@@ -44,7 +49,7 @@ His attitude is reflected in that of his Chiefs of Staff.
 
 (14) Dixon has seen this telegram and he agrees with it.
 
-_
+ _
 
 1 Dispatched 9 June. On file AA:A981, Defence 171 It requested Evatt to remain in Washington to await the receipt of a revised appreciation of the strategic situation in the Pacific.
 
@@ -70,4 +75,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT C]_
+ _[AA:A981, WAR 33, ATTACHMENT C]_

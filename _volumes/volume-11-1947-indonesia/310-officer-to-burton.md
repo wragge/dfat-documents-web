@@ -1,12 +1,17 @@
 ---
-title: "310 Officer to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4494
+doc_date: '1947-09-02'
+doc_num: 310
+doc_order: 310
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1947, 1.17621]'
+title: Officer to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-09-02
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 310 Officer to Burton
 
 Cablegram Hague 152 THE HAGUE, 2 September 1947, 12.20 p.m.
 
@@ -22,7 +27,7 @@ Please convey my good wishes for a successful trip to the Minister.
 
 4\. Meanwhile every little trivial incident such as that regarding Eaton (my telegram 151 [4], your telegram 116 [5]) tends to delay progress.
 
-_
+ _
 
 1 Document 307.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A3195, 1947, 1.17621]_
+ _[AA:A3195, 1947, 1.17621]_

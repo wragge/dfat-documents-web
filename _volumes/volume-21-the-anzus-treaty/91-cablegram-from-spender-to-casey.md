@@ -1,13 +1,17 @@
 ---
-title: "91 Cablegram From Spender to Casey"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8442
+doc_date: '1951-06-06'
+doc_num: 91
+doc_order: 91
+naa_refs:
+- naa_barcode: 4185374
+  naa_control_symbol: '3'
+  naa_series: A11536
+  reference: '[NAA : A11536, [3]'
+title: Cablegram From Spender to Casey
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1951-06-06
-barcode: 4185374
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 91 Cablegram From Spender to Casey
 
 Cablegram, Washington, 6 June 1951
 
@@ -29,10 +33,10 @@ There are some aspects of the question of the provision of additional Australian
 
 3\. I hope it may prove feasible to provide some increase in our ground troops or failing that to our air force in Korea in the very near future.
 
-_ 1 See Document 89 and note 2 thereto.
+ _1 See Document 89 and note 2 thereto.
 
 2 The 25th Canadian Infantry Brigade arrived in South Korea on 5 May.
 
 _
 
-_ [ [NAA : A11536, [3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4185374) ]_
+ _[NAA : A11536, [3]]_

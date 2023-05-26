@@ -1,12 +1,17 @@
 ---
-title: "211 Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office"
-volume: "Volume 1: 1937-38"
-doc_id: 210
+doc_date: '1938-05-26'
+doc_num: 211
+doc_order: 210
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 901]'
+title: Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-26
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 211 Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office
 
 Repeated to U.K. High Commissioner to Australia and to J. A.
 
@@ -22,10 +27,10 @@ Information Bureau of Ministry of Foreign Affairs issued communique May 24th reg
 
 CRAIGIE
 
-_
+ _
 
 1 Not printed.
 
 _
 
-_ [AA : A981, AUSTRALIA 901_
+ _[AA : A981, AUSTRALIA 901]_

@@ -1,12 +1,17 @@
 ---
-title: "294 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2048
+doc_date: '1942-01-23'
+doc_num: 294
+doc_order: 295
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 294 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
 
 Cablegram Johcu 21 CANBERRA, 23 January 1942
 
@@ -48,7 +53,7 @@ area [9], for whose area the aircraft are intended, but we ask that the authorit
 
 PART IV-GENERAL 14. The trend of the situation in Malaya and the attack on Rabaul are giving rise to a public feeling of grave uneasiness at Allied impotence to do anything to stem the Japanese advance. The Government, in realising its responsibility to prepare the public for the possibility of resisting an aggressor, also has a duty and obligation to explain why it may not have been possible to prevent the enemy reaching our shores. It is therefore in duty bound to exhaust all the possibilities of the situation, the more so since the Australian people, having volunteered for service overseas in large numbers, find it difficult to understand why they must wait so long for an improvement in the situation when irreparable damage may have been done to their power to resist, the prestige of the Empire and the solidarity of the Allied cause. [10]
 
-_
+ _
 
 1 See War Cabinet minutes 1741 and 1742 of 23 January in AA:A2673, vol. 10.
 
@@ -74,4 +79,4 @@ Roosevelt and to ask for his help in preventing the evacuation of Singapore.
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

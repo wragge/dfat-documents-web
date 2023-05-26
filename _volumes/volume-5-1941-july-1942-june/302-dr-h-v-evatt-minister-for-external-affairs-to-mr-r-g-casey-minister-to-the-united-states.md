@@ -1,12 +1,18 @@
 ---
-title: "302 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2056
+doc_date: '1942-01-26'
+doc_num: 302
+doc_order: 303
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister
+  to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-26
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 302 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States
 
 Cablegram 111 CANBERRA, 26 January 1942
 
@@ -20,7 +26,7 @@ IMMEDIATE MOST SECRET AND PERSONAL
 
 EVATT
 
-_
+ _
 
 1 See Document 294, note 10.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

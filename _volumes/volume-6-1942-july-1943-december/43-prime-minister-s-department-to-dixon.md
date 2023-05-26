@@ -1,12 +1,18 @@
 ---
-title: "43 Prime Minister's Department to Dixon"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2334
+doc_date: '1942-09-11'
+doc_num: 43
+doc_order: 43
+naa_refs:
+- naa_barcode: 853952
+  naa_control_symbol: '139'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,
+    FILE No. 3, 48/1942]'
+title: Prime Minister's Department to Dixon
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-11
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 43 Prime Minister's Department to Dixon
 
 Cablegram 138 [1] CANBERRA, 11 September 1942
 
@@ -62,7 +68,7 @@ Yours very sincerely,
 
 JOHN CURTIN
 
-_ 1 This message was repeated to Churchill the same day. See cablegram Johcu 42 on file Defence: Special Collection II, bundle 5, Strategical Policy-S.W.P.A., file no. 3, 48/1942.
+ _1 This message was repeated to Churchill the same day. See cablegram Johcu 42 on file Defence: Special Collection II, bundle 5, Strategical Policy-S.W.P.A., file no. 3, 48/1942.
 
 2 See Document 31.
 
@@ -70,4 +76,4 @@ _ 1 This message was repeated to Churchill the same day. See cablegram Johcu 42 
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_

@@ -1,12 +1,17 @@
 ---
-title: "423 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2177
+doc_date: '1942-03-19'
+doc_num: 423
+doc_order: 424
+naa_refs:
+- naa_barcode: 176565
+  naa_control_symbol: GREA 13
+  naa_series: A981
+  reference: '[AA:A981, GREAT BRITAIN 13B]'
+title: Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-19
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 423 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister
 
 Cablegram S16 WASHINGTON, 19 March 1942, 4.19 a.m.
 
@@ -30,7 +35,7 @@ The work to which I will go will be far from easy.
 
 I am most grateful to you for your consideration to me under all circumstances in which we have been associated.
 
-_
+ _
 
 1 Document 416.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A981, GREAT BRITAIN 13B]_
+ _[AA:A981, GREAT BRITAIN 13B]_

@@ -1,12 +1,17 @@
 ---
-title: "197 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 963
+doc_date: '1940-05-01'
+doc_num: 197
+doc_order: 197
+naa_refs:
+- naa_barcode: 177376
+  naa_control_symbol: ITA 60 PART 4
+  naa_series: A981
+  reference: '[AA: A981, ITALY 60B]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-01
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 197 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 297 LONDON, 1 May 1940, 10 p.m.
 
@@ -40,7 +45,7 @@ I am sending some comments on the above in separate cable Number 298.
 
 BRUCE
 
-_
+ _
 
 1 There is no record of a direct request for the Commonwealth Govt's views, although the subject was discussed at a meeting between the Dominion High commissioners and the U.K. Prime Minister, Neville Chamberlain on 2 May 1940 (see Document 208).
 
@@ -48,4 +53,4 @@ See also Document 186, note 2.
 
 _
 
-_ [AA: A981, ITALY 60B]_
+ _[AA: A981, ITALY 60B]_

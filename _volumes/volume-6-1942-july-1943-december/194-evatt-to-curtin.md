@@ -1,12 +1,17 @@
 ---
-title: "194 Evatt to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2485
+doc_date: '1943-05-14'
+doc_num: 194
+doc_order: 194
+naa_refs:
+- naa_barcode: 185057
+  naa_control_symbol: 1944/715/5/2/2
+  naa_series: A989
+  reference: '[AA:A989, 43-44/715/5/2/2]'
+title: Evatt to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-14
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 194 Evatt to Curtin
 
 Cablegram E86 WASHINGTON, 14 May 1943, 6.19 p.m.
 
@@ -20,7 +25,7 @@ Of course there will be no publicity until arrangements are completed. I have al
 
 Subject to the consent of the Soviet Government the Australian Government would be happy to take over representation of Polish interests in the Soviet. With this proposal Mr. Churchill and President Roosevelt are in full accord. The proposal of Australia is made solely with a desire to promote the common interests of the United Nations and is animated by a warm admiration for the peoples of Soviet Russia and Poland alike. Ends.
 
-_
+ _
 
 1 See Churchill's letter to Evatt of 13 May in Franklin D.
 
@@ -36,4 +41,4 @@ Australia diplomatic.
 
 _
 
-_ [AA:A989, 43-44/715/5/2/2]_
+ _[AA:A989, 43-44/715/5/2/2]_

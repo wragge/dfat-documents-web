@@ -1,12 +1,18 @@
 ---
-title: "142 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 479
+doc_date: '1939-08-23'
+doc_num: 142
+doc_order: 142
+naa_refs:
+- naa_barcode: 176558
+  naa_control_symbol: GREA 8 PART 5
+  naa_series: A981
+  reference: '[AA: A981, GREAT BRITAIN 8B, v]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G.
+  Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-23
+vol_title: 'Volume 2: 1939'
 ---
-
-# 142 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram C9 LONDON, 23 August 1939, 12.02 a.m.
 
@@ -20,7 +26,7 @@ Statement (which is being telegraphed in clear) is being issued tonight giving a
 
 Position with regard to the reported Soviet-German agreement is being dealt with in telegram Circular B. 281 paragraphs 5, 6 and 7. [5]
 
-_
+ _
 
 1 Circular cablegram C10, sent 23 August 1939, 7.22 p.m., not printed (on file AA: A981, Great Britain 8B, v).
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA: A981, GREAT BRITAIN 8B, v]_
+ _[AA: A981, GREAT BRITAIN 8B, v]_

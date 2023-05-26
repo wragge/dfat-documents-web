@@ -1,12 +1,17 @@
 ---
-title: "1 Hasluck to Dunk"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3513
+doc_date: '1945-12-31'
+doc_num: 1
+doc_order: 1
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.00013/39789]'
+title: Hasluck to Dunk
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1945-12-31
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 1 Hasluck to Dunk
 
 Cablegram 12720 LONDON, 31 December 945, 3.25 p.m.
 
@@ -26,7 +31,7 @@ Delegations. I venture to repeat views expressed before you left Canada re need 
 
 Permanent Representation at Headquarters. Results of enquiries re nature of possible Australian representation at United Nations Headquarters have been forwarded in two memos [6] to Department.
 
-_
+ _
 
 1 Evatt was en route to Sydney from Vancouver after attending meetings of the Far Eastern Advisory Commission in Washington.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.00013/39789]_
+ _[AA:A3195, 1946, 1.00013/39789]_

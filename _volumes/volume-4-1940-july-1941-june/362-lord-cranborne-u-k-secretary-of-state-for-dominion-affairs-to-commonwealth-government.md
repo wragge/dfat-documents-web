@@ -1,12 +1,18 @@
 ---
-title: "362 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1593
+doc_date: '1941-03-25'
+doc_num: 362
+doc_order: 362
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:DO 114/112]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-25
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 362 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 185 LONDON, 25 March 1941, 4.30 a.m.
 
@@ -24,7 +30,7 @@ Commonwealth Government's telegram No. 93 of 14th February [1], and New Zealand 
 
 6\. As regards the Commonwealth and New Zealand Governments' comments on paragraphs 12 and 13 of my telegram of 18th January, we are ready to examine promptly and sympathetically specific proposals for development of production as and when they are elaborated. It would hardly be possible for us to give any detailed information as to the possible assistance which we might be able to furnish except in relation to such proposals.
 
-_
+ _
 
 1 Document 295.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [PRO:DO 114/112]_
+ _[PRO:DO 114/112]_

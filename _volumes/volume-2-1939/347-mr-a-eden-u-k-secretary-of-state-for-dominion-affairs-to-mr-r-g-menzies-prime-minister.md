@@ -1,12 +1,18 @@
 ---
-title: "347 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 684
+doc_date: '1939-11-10'
+doc_num: 347
+doc_order: 347
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 347 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram D76 LONDON, 10 November 1939, 4.25 p.m.
 
@@ -32,7 +38,7 @@ The documents which have been published since the beginning of the war clearly s
 
 (7) The elements which in the opinion of my Government form [14] part of any settlement emerge clearly and distinctly from these declarations of the policy. Should Your Majesty be able to communicate to me any proposals from Germany of such a character as to afford real prospect of achieving purpose I have described above, I can say at once that my Governments would give them their most earnest consideration.
 
-_
+ _
 
 1 Document 346.
 
@@ -66,4 +72,4 @@ DO 114/113) varied in several respects from the Canberra decipher printed here a
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

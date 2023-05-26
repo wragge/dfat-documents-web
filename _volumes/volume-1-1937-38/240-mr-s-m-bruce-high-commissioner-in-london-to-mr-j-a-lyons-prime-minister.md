@@ -1,12 +1,17 @@
 ---
-title: "240 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 239
+doc_date: '1938-08-18'
+doc_num: 240
+doc_order: 239
+naa_refs:
+- naa_barcode: 232304
+  naa_control_symbol: '146'
+  naa_series: A2937
+  reference: '[FA : A2937, L. OF N. CONSTITUTION-REFORM OF, ii]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-08-18
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 240 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram 121 LONDON, 18 August 1938
 
@@ -20,7 +25,7 @@ I would suggest therefore that we should support United Kingdom declaration but 
 
 BRUCE
 
-_
+ _
 
 1 See Document 239.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA : A2937, L. OF N. CONSTITUTION-REFORM OF, ii]_
+ _[FA : A2937, L. OF N. CONSTITUTION-REFORM OF, ii]_

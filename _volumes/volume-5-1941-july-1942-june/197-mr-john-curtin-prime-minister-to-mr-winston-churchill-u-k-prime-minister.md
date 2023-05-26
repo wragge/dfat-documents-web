@@ -1,12 +1,19 @@
 ---
-title: "197 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1951
+doc_date: '1941-12-16'
+doc_num: 197
+doc_order: 198
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AUSTRALIAN WAR MEMORIAL: PAGE COLLECTION, BOX 118A, FILE 2, FAR EASTERN
+    SITUATION. ACTION SINCE OUTBREAK OF WAR WITH JAPAN 7 12.41 UP TO FALL OF SINGAPORE
+    15.2.42]'
+title: Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-16
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 197 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
 
 Cablegram [?Johcu 9] [1] CANBERRA, [? 16 December 1941]
 
@@ -38,7 +45,7 @@ It is presumed that these aspects will be discussed at forthcoming Singapore Con
 
 7\. Finally in view of good performance Fleet Air Arm in cooperation with ships Royal Navy and fact that air coastal command in the U.K. has been brought under Admiralty control, it is suggested that, in view of geographical position Malaya and adjacent islands, an essential corollary to operation of a capital ship fleet (in) those waters, with or without aircraft carriers, is naval control of all land based aircraft except those allotted for army co-operation.
 
-_ EASTERN SITUATION. ACTION SINCE OUTBREAK OF WAR WITH JAPAN 7 12.41 UP TO FALL OF SINGAPORE 15.2.42]
+ _
 
 1 This cablegram was dispatched after consideration of the naval position in the Far East by the Advisory War Council (not War Cabinet) on 16 December (See AA:A2682, vol. 4, minute 597). It was entered in the Prime Minister's Dept outward cablegram register (AA:A3643, 3, Lai 860) late on 16 December as 'Personal [i.e.
 
@@ -56,4 +63,4 @@ The cablegram was probably not ciphered and dispatched until early on 17 Decembe
 
 _
 
-_ [AUSTRALIAN WAR MEMORIAL: PAGE COLLECTION, BOX 118A, FILE 2, FAR_
+ _[AUSTRALIAN WAR MEMORIAL: PAGE COLLECTION, BOX 118A, FILE 2, FAR EASTERN SITUATION. ACTION SINCE OUTBREAK OF WAR WITH JAPAN 7 12.41 UP TO FALL OF SINGAPORE 15.2.42]_

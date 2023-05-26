@@ -1,12 +1,17 @@
 ---
-title: "236 Chifley to Bruce"
-volume: "Volume 8: 1945"
-doc_id: 3267
+doc_date: '1945-09-06'
+doc_num: 236
+doc_order: 236
+naa_refs:
+- naa_barcode: 4224459
+  naa_control_symbol: 1945/44
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, O.23315]'
+title: Chifley to Bruce
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-06
+vol_title: 'Volume 8: 1945'
 ---
-
-# 236 Chifley to Bruce
 
 Cablegram 213 CANBERRA, 6 September 1945
 
@@ -22,10 +27,10 @@ In view the importance of this matter to British Commonwealth my Government woul
 
 If the United Kingdom Government is willing to release information to us at this stage, request you endeavour to ascertain if Professor H. S. W. Massey [1] or Professor M. L. Oliphant [2] would be permitted to come to Australia to communicate this information.
 
-_ 1 Technical Officer, U.K. Scientific and Industrial Research Department mission to the University of California at Berkeley.
+ _1 Technical Officer, U.K. Scientific and Industrial Research Department mission to the University of California at Berkeley.
 
 2 Professor of Physics, University of Birmingham, seconded to the Manhattan Project.
 
 _
 
-_ [AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, O.23315]_
+ _[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, O.23315]_

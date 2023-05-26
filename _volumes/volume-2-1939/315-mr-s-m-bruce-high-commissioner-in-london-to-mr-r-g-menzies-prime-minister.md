@@ -1,12 +1,17 @@
 ---
-title: "315 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 652
+doc_date: '1939-10-30'
+doc_num: 315
+doc_order: 315
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM I]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-30
+vol_title: 'Volume 2: 1939'
 ---
-
-# 315 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 30 October 1939
 
@@ -18,6 +23,6 @@ In any event the above reinforces decision against my being appointed.
 
 BRUCE
 
-_ 1 Joseph P. Kennedy. For Bruce's record of this conversation see AA: M100, October 1939._
+ _1 Joseph P. Kennedy. For Bruce's record of this conversation see AA: M100, October 1939._
 
-_ [AA: CP 290/6, ITEM I]_
+ _[AA: CP 290/6, ITEM I]_

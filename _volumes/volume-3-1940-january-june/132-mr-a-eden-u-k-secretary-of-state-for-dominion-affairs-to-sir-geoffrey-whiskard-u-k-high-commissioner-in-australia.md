@@ -1,12 +1,18 @@
 ---
-title: "132 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 898
+doc_date: '1940-04-09'
+doc_num: 132
+doc_order: 132
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2299]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard,
+  U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-09
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 132 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Circular cablegram Z51 LONDON, 9 April 1940, 2.50 p.m.
 
@@ -18,10 +24,10 @@ Norwegian Government are being informed that we shall take all possible action t
 
 We are in close touch with the French Government and all action is being coordinated with them.
 
-_
+ _
 
 1 R. G. Menzies.
 
 _
 
-_ [FA: A3195, 1.2299]_
+ _[FA: A3195, 1.2299]_

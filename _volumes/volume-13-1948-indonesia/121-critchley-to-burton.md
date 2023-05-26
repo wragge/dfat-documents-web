@@ -1,12 +1,17 @@
 ---
-title: "121 Critchley to Burton"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5388
+doc_date: '1948-04-28'
+doc_num: 121
+doc_order: 121
+naa_refs:
+- naa_barcode: 550482
+  naa_control_symbol: 403/3/1/1 PART 16
+  naa_series: A1838
+  reference: '[AA:A1838, 403/3/1, xvi]'
+title: Critchley to Burton
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-04-28
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 121 Critchley to Burton
 
 Letter (extract) KALIURANG, 28 April 1948
 
@@ -66,7 +71,7 @@ Narayanan will probably return to New York in approximately two months leaving T
 
 The American Delegation has also been strengthened. Dubois now has four advisers, including an economist.
 
-_
+ _
 
 1 Document 119.
 
@@ -82,4 +87,4 @@ _
 
 _
 
-_ [AA:A1838, 403/3/1, xvi]_
+ _[AA:A1838, 403/3/1, xvi]_

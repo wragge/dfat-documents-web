@@ -1,12 +1,17 @@
 ---
-title: "200 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1431
+doc_date: '1940-11-15'
+doc_num: 200
+doc_order: 200
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 26A]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-15
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 200 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 379 WASHINGTON, 15 November 1940, 11.49 p.m.
 
@@ -28,7 +33,7 @@ Berle received all this with understanding and said that he found little in what
 
 CASEY
 
-_
+ _
 
 1 U.S. Assistant Secretary of State.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 26A]_
+ _[AA:A981, FAR EAST 26A]_

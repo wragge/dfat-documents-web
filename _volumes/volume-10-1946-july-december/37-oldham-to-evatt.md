@@ -1,14 +1,19 @@
 ---
-title: "37 Oldham to Evatt"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3885
+doc_date: '1946-07-26'
+doc_num: 37
+doc_order: 37
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]'
+title: Oldham to Evatt
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-07-26
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 37 Oldham to Evatt
-
-## Cablegram 123 (extract) WASHINGTON, 26 July 1946
+Cablegram 123 (extract) WASHINGTON, 26 July 1946
 
 MOST IMMEDIATE
 
@@ -22,10 +27,10 @@ It is the understanding of this Government that the proposed Commission should h
 
 [matter omitted]
 
-_
+ _
 
 1 This cable was directed to Evatt through the Australian Legation in Paris. Evatt arrived in Paris from Washington via London on 28 July.
 
 _
 
-_ [SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]_
+ _[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]_

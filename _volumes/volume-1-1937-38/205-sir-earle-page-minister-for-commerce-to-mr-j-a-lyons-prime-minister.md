@@ -1,14 +1,19 @@
 ---
-title: "205 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 204
+doc_date: '1938-05-18'
+doc_num: 205
+doc_order: 204
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-18
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 205 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
-
-## Cablegram unnumbered LONDON, 18 May 1938, 6.59 p.m.
+Cablegram unnumbered LONDON, 18 May 1938, 6.59 p.m.
 
 MOST URGENT
 
@@ -18,7 +23,7 @@ Amendment proposed in my telegram 17th May [2] was directed to the specific excl
 
 We regret very much that you have not accepted our suggestion that any claim arising out of this should be regarded as a private claim by a private company and not be made the subject of inter- Governmental negotiations. Your draft letter [3] to the Japanese Consul-General [4] appears entirely to depart from our idea. We would again urge that any correspondence with the Japanese Consul- General should be placed on the basis of conveying information only. We fear that if correspondence is not placed on this basis the Yampi question may involve both shipping question and current trade treaty negotiations. [5]
 
-_
+ _
 
 1 Not printed. It contained the text of Lyons's letter to T.
 
@@ -34,4 +39,4 @@ Wakamatsu, which is printed as Document 203.
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

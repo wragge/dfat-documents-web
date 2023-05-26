@@ -1,12 +1,19 @@
 ---
-title: "35 Extract from Paper by Department of Industry and Commerce"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8905
+doc_date: 1979-10
+doc_num: 35
+doc_order: 35
+naa_refs:
+- naa_barcode: 1509857
+  naa_control_symbol: 370/1/19/18 ANNEX 5
+  naa_series: A1838
+  reference: '[NAA: 1838, 37011/19/18, ANNEX 5]'
+title: Extract from Paper by Department of Industry and Commerce
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-04-11
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 35 Extract from Paper by Department of Industry and Commerce
 
 Canberra, [October 1979]1
 
@@ -16,7 +23,7 @@ Australia - New Zealand Economic Co-operation Implications for Australian Manufa
 
 ## INTRODUCTION-AUSTRALIAN AND NZ MANUFACTURING INDUSTRY POLICY
 
-### [matter omitted]2
+### [matter omitted][2](#f2)
 
 In August 1979 the Government announced that it accepted that the general policy direction advocated by the Crawford Report was in line with the Government's policy objectives relating to future development of manufacturing industry. Significant progress has already been made in implementing a number of the Report's proposals and the Government is responding positively to other recommendations.
 
@@ -44,7 +51,7 @@ The remainder of this paper examines the implications for Australian manufacturi
 
 ## THE OPTIONS
 
-_(i) Expanded NAFTA_
+ _(i) Expanded NAFTA_
 
 The first option of an expanded NAFTA reflects the existing situation which was described by the Minister for Trade and Resources following the NAFTA meeting of 11 April 1979 in terms of 'Australia and New Zealand have reached a plateau in our relations under NAFTA and we have got to try to find ways and means of opening up our trade'.
 
@@ -54,7 +61,7 @@ A further constraint, as far as Australian industry is concerned, is the exclusi
 
 There are also the broader constraints on expansion of NAFTA trade resulting from implementation of industry specific development policies in each country, (including State Governments) for example whitegoods, automotive products, carpets and forest products. On the other hand it should be noted that the development of Australia's sectoral policy for the apparel industry has in fact allowed for the controlled development of trans-Tasman trade in apparel. Imports from New Zealand increase rapidly while New Zealand was exempt from the global quota system. Recently, following negotiation of special apparel arrangements, Australian exports to New Zealand have in turn increased rapidly over previous low levels.
 
-In the case of whitegoods, Australia's sectoral policy calls for an increase in throughput of Australian production plant through rationalisation and reduced imports, thus increasing the local industry's ability to compete with imports in the local market. An increase in concessional imports from NZ could mean loss of market share and net reduction in production output for Australian manufacturers. There would have to be visible reciprocal gain for Australian manufacturers in the NZ market for expansion of whitegoods trade under NAFTA to be more compatible with the sectoral policy. Even so, expansion of white goods trade under 3:73 arrangements could still be in conflict with the trade policy insofar as the imports from NZ would tend to benefit certain manufacturers at the expense of others. 3:7 arrangements in whitegoods could be seen as an additional concession that could distort normal market forces and production decisions and as such would be inconsistent with the policy.
+In the case of whitegoods, Australia's sectoral policy calls for an increase in throughput of Australian production plant through rationalisation and reduced imports, thus increasing the local industry's ability to compete with imports in the local market. An increase in concessional imports from NZ could mean loss of market share and net reduction in production output for Australian manufacturers. There would have to be visible reciprocal gain for Australian manufacturers in the NZ market for expansion of whitegoods trade under NAFTA to be more compatible with the sectoral policy. Even so, expansion of white goods trade under 3:7[3](#f3) arrangements could still be in conflict with the trade policy insofar as the imports from NZ would tend to benefit certain manufacturers at the expense of others. 3:7 arrangements in whitegoods could be seen as an additional concession that could distort normal market forces and production decisions and as such would be inconsistent with the policy.
 
 There are fundamental differences between the automotive industries of Australia and New Zealand which derive essentially from the different sizes of the two domestic markets, the different stages and emphasis of technological and general engineering development in the two countries and different government policy environments. Australia is and intends to remain a vehicle builder while New Zealand has concentrated on a motor vehicle assembly and component manufacture. New Zealand is therefore unlikely ever to build other than speciality cars but has potential to further expand its component manufacture, including exports to Australia which are carried out already under various 3:7 arrangements.
 
@@ -64,13 +71,13 @@ Most forest products are already traded duty free under NAFTA although NZ limits
 
 It could be observed fairly that NAFTA has tended to 'drift' and that both sides have tended to lose sight of the objectives of some of the facilities within NAFTA. This is especially the case with 3:7s which manufacturers do not see as a transitional measure towards eventual product rationalisation and free trade. Invariably the central motive for proposing a 3:7 is to overcome the NZ licensing barrier. Probably very few 3:7 proposals would be initiated if they had to meet the requirement of the goods being eventually included in Schedule A.
 
-There are perhaps opportunities, especially as economic recovery continues and is sustained, for limited initiatives within the existing NAFTA framework. One general approach could be a conscious policy of greater use of Schedule B4 arrangements with area content requirements modified according to specific industry needs. Schedule B was designed to encourage industries to work together to develop arrangements which facilitated the move towards free trade by giving them experience of partial free trade, with safeguards against disruption. It is indicative of the slow progress of NAFTA that there have been only two agreements under Schedule B since its inception in 1973, one of which has subsequently lapsed.
+There are perhaps opportunities, especially as economic recovery continues and is sustained, for limited initiatives within the existing NAFTA framework. One general approach could be a conscious policy of greater use of Schedule B[4](#f4) arrangements with area content requirements modified according to specific industry needs. Schedule B was designed to encourage industries to work together to develop arrangements which facilitated the move towards free trade by giving them experience of partial free trade, with safeguards against disruption. It is indicative of the slow progress of NAFTA that there have been only two agreements under Schedule B since its inception in 1973, one of which has subsequently lapsed.
 
 However, this type of arrangement could be a means of phasing into a broader free trade relationship on a sector by sector basis. Within each sector specific industry problems could be identified and resolved (e.g. removal of export incentives) to the degree and pace acceptable to both industries. The significance of 'Area Content' or 'Rules of Origin' in providing a means of equalising competitive opportunity in the respective markets, suggests that the introduction of special (higher) 'content rules' to OPTION (i) and particularly to OPTION (ii) could enhance the potential of these options for expanding trade and the regional industrial structure on an equitable and efficient basis. This could be so particularly where both countries already have in place significant manufacturing resources. However, there remains still the serious obstacles posed by the existence of divergent sectoral policies in key areas of manufacturing.
 
 There could also be opportunities for specific limited initiatives through existings Article 3:7 arrangements in the apparel and footwear industry sectors. In the case of apparel a viable option in the short-term (to mid 1981) could be the continuation of an arrangement similar to that currently existing. Adoption of any longer term or more radical proposal before decisions by the Australian Government on the IAC's long term report or by the New Zealand Government on the NZ Industries Development Commission's report would seem premature. Over the longer term consideration could be given to arrangements under Article 3:7 which preserve mutually beneficial two-way trade without making long-term commitments to remove duties. Such arrangements would be basically a development of current arrangements. Where footwear is concerned, the existing 3:7 arrangement offers scope for extension. This form of arrangement provides for mutual gains from trade (which can be escalated in the light of appropriate circumstances) while retaining adequate options for control over import levels.
 
-_(ii) Full Free Trade_
+ _(ii) Full Free Trade_
 
 The option of Full Free Trade, in theory at least, should have substantial beneficial implications for trans-Tasman trade. It would offer Australian industry unrestricted access to the NZ market and disallow the existing generous NZ export incentives (and vice versa) where the Australian market is concerned. However, there would remain the problem of fair competition, because of the continued advantage for NZ industry of free access to imported inputs, which would almost certainly cause major difficulties for areas of Australian industry, especially for Australia's sectoral policies. It is therefore unlikely that an extension of NAFTA to a Full Free Trade Area would be an acceptable alternative to the present position reached under NAFTA for Australian industry as a whole. On the other hand this is the option most likely to be supported by New Zealand. If preliminary assessments suggest that Australia in the primary sector could stand to benefit more than New Zealand, the latter could in fact propose a partial free trade area, along EFTA lines, for manufactured goods.
 
@@ -92,14 +99,12 @@ Given the labour intensive nature of footwear manufacture and the current sensit
 
 As regards carpets, it is considered that New Zealand would make significant gains in the Australian market if total free trade in wool carpet was decided upon, whilst Australian producers would stand to make only small gains in the NZ market. However in a full free trade situation it could be expected that trade coverage in carpet would include man-made fibre carpet (presently excluded from Schedule A), and in this respect Australia could be expected to benefit substantially. On the other side of the coin it should be remarked that the New Zealand industry has installed a number of sophisticated carpet printers with capacity well in excess of local market requirements with possible significant implications for future trade in man-made fibre carpets.
 
-_[matter omitted]_
+ _[matter omitted]_
 
-_[NAA: 1838, 37011/19/18, ANNEX 5]_
+ _[NAA: 1838, 37011/19/18, ANNEX 5]_
 
   * 1 The document is undated. 
   * 2 Omitted material reviews the White Paper on Manufacturing Industry and the Crawford Report.
   * 3 On Article 3:7 see note 2 to Document 22.
   * 4 On Schedule B see note to Document 30.
   * 5 Text reads 'however'.
-
-

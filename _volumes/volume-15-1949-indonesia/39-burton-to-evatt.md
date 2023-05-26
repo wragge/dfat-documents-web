@@ -1,12 +1,18 @@
 ---
-title: "39 Burton to Evatt"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6208
+doc_date: '1949-01-07'
+doc_num: 39
+doc_order: 39
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A9420
+  reference: '[AA : A9420, 7]'
+title: Burton to Evatt
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-07
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 39 Burton to Evatt
 
 Cablegram E5 CANBERRA, 7 January 1949, 12.20 p.m.
 
@@ -20,7 +26,7 @@ Have spoken to Prime Minister who sends message he was aware of difficulties and
 
 4\. Will send telegram later today on Perth, Melbourne, Sydney arrangements.
 
-_
+ _
 
 1 See Document 18.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA : A9420, 7]_
+ _[AA : A9420, 7]_

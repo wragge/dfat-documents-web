@@ -1,12 +1,19 @@
 ---
-title: "145 Views of New Zealand Manufacturers' Federation"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9015
+doc_date: '1981-02-26'
+doc_num: 145
+doc_order: 145
+naa_refs:
+- naa_barcode: 1509882
+  naa_control_symbol: 370/1/19/18 PART 21
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, xxi]'
+title: Views of New Zealand Manufacturers' Federation
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-02-26
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 145 Views of New Zealand Manufacturers' Federation
 
 Wellington, 26 February 1981
 
@@ -14,7 +21,7 @@ O.WL76561
 
 ## CER: NZ Manufacturers' Federation stance on relationship
 
-As reported earlier today, latest issue of 'The Manufacturer' carries part of a MANFED2 resolution on CER. We have now managed to obtain a copy of resolution which reads as follows:
+As reported earlier today, latest issue of 'The Manufacturer' carries part of a MANFED[2](#f2) resolution on CER. We have now managed to obtain a copy of resolution which reads as follows:
 
 'The New Zealand Manufacturers' Federation favours a controlled and progressive expansion of trans-Tasman trade.
 
@@ -59,14 +66,12 @@ Reservations can only be dispelled when the nature of final agreement is known a
 
 Whilst CER should ensure mutual benefit to Australia and New Zealand we are concerned to see that the agreement promotes the continuing development of New Zealand industry. We believe that CER can lead towards these objectives provided manufacturers' concerns outlined in this document are fully taken into account.'
 
-  2. There is no doubt this resolution would have been one of several reports which caused Muldoon to issue his statement on 24 February, reported in WL7633.3
+  2. There is no doubt this resolution would have been one of several reports which caused Muldoon to issue his statement on 24 February, reported in WL7633.[3](#f3)
 
 
 
-_[NAA: A1838, 370/1119/18, xxi]_
+ _[NAA: A1838, 370/1119/18, xxi]_
 
   * 1 From Gates for Trade and Resources.
   * 2 i.e. the New Zealand Manufacturers' Federation.
   * 3 See Document 162.
-
-

@@ -1,12 +1,17 @@
 ---
-title: "223 New Zealand Government to Commonwealth"
-volume: "Volume 7: 1944"
-doc_id: 2870
+doc_date: '1944-07-16'
+doc_num: 223
+doc_order: 223
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/832/1, ii]'
+title: New Zealand Government to Commonwealth
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-16
+vol_title: 'Volume 7: 1944'
 ---
-
-# 223 New Zealand Government to Commonwealth
 
 Government
 
@@ -20,7 +25,7 @@ Your telegram No. 141. [1] Civil Aviation. We too have been concerned at the dev
 
 2\. The position will be discussed with the Prime Minister immediately following his return and we expect to communicate with you further at that juncture.
 
-_
+ _
 
 1 Document 219.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/832/1, ii]_
+ _[AA:A989, 43/735/832/1, ii]_

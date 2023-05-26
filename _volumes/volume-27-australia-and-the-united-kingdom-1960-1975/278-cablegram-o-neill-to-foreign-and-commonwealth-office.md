@@ -1,14 +1,17 @@
 ---
-title: "278 CABLEGRAM; O'NEILL TO FOREIGN AND COMMONWEALTH OFFICE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10143
+doc_date: '1971-05-13'
+doc_num: 278
+doc_order: 278
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 30/1133]'
+title: CABLEGRAM; O'NEILL TO FOREIGN AND COMMONWEALTH OFFICE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-05-13
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 278 CABLEGRAM; O'NEILL TO FOREIGN AND COMMONWEALTH OFFICE
-
-UKNA: FCO 30/1133 
 
 Brussels, 13 May 1971
 
@@ -22,7 +25,7 @@ I briefed Commonwealth representatives on Mr Rippon’s behalf as he had to leav
 
 [...]
 
-_Transitional Measures for Agriculture_
+ _Transitional Measures for Agriculture_
 
 7\. We had reached a comprehensive and satisfactory agreement with the Community in this field. The Community had recently laid increasing importance on the principle of acceptance by the candidate countries of Community preference from the time of accession. We have now agreed to this, subject to conditions in four areas, and these have been obtained:
 
@@ -33,3 +36,5 @@ _Transitional Measures for Agriculture_
 > (c) There should be 5 full years for transition to the Community’s agricultural prices and the changeover would take place in 6 movements. We had agreed that the final move should take place on 31 December 1977.
 
 [...]
+
+[UKNA: FCO 30/1133]

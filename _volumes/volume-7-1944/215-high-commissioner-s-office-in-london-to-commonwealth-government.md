@@ -1,12 +1,17 @@
 ---
-title: "215 High Commissioner's Office in London to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2862
+doc_date: '1944-07-05'
+doc_num: 215
+doc_order: 215
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 672]'
+title: High Commissioner's Office in London to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-05
+vol_title: 'Volume 7: 1944'
 ---
-
-# 215 High Commissioner's Office in London to Commonwealth Government
 
 Cablegram 7908 LONDON, 5 July 1944, 4.25 p.m.
 
@@ -26,8 +31,8 @@ Fourth. It is specially desired that no publicity of any kind be given to propos
 
 Fifth. You will be advised of any later developments.
 
-_
+ _
 
 _
 
-_ [AA:A5954, BOX 672]_
+ _[AA:A5954, BOX 672]_

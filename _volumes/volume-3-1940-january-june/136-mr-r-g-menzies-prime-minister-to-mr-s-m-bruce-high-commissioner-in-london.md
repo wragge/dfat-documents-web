@@ -1,12 +1,17 @@
 ---
-title: "136 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 902
+doc_date: '1940-04-11'
+doc_num: 136
+doc_order: 136
+naa_refs:
+- naa_barcode: 4212443
+  naa_control_symbol: 1940/9
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2156]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-11
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 136 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 11 April 1940,
 
@@ -18,7 +23,7 @@ If not would prefer that question of Officer's [3] transfer be deferred. If prop
 
 MENZIES
 
-_
+ _
 
 1 Document 131.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA: A3196, 0.2156]_
+ _[FA: A3196, 0.2156]_

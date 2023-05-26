@@ -1,12 +1,18 @@
 ---
-title: "410 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2164
+doc_date: '1942-03-13'
+doc_num: 410
+doc_order: 411
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.10485]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-13
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 410 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram P66 LONDON, 13 March 1942, 1.23 a.m.
 
@@ -32,7 +38,7 @@ The Pacific area includes Australia and New Zealand. Its western boundary, thoug
 
 6\. The initial offensive through China must be through territory under British responsibility and China also feels that there should be a live representative body in London. Both countries would welcome as well the suggested advisory representation in Washington.
 
-_ that the operational simplification will be a great advantage if it can be obtained without undue disadvantage in regard to lessened control by constituent Governments and if the best use can be made immediately of the experienced staffs available. If Australia became an American responsibility and garrisoned by large forces of American troops, it [undoubtedly would get high priority in supplies from U.S.A. Unfortunately the most critical period for Australia is during the next two or three months while the British and American naval strengths are being restored.
+ _that the operational simplification will be a great advantage if it can be obtained without undue disadvantage in regard to lessened control by constituent Governments and if the best use can be made immediately of the experienced staffs available. If Australia became an American responsibility and garrisoned by large forces of American troops, it [undoubtedly would get high priority in supplies from U.S.A. Unfortunately the most critical period for Australia is during the next two or three months while the British and American naval strengths are being restored.
 
 During that period it might be a grave disadvantage to be changing actual operational control in such a radical way, and efforts should be made to ensure that the British Chiefs of Staff, who have the problem of Australia's direct defence immediately under their consideration as well as the Combined Chiefs of Staff, should continue to exercise control till the new organisation, if agreed to, is actually functioning satisfactorily.]
 
@@ -64,4 +70,4 @@ PAGE
 
 _
 
-_ [7.] My own immediate reactions to the President's proposals are_
+ _[7.] My own immediate reactions to the President's proposals are_

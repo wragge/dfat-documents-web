@@ -1,12 +1,17 @@
 ---
-title: "193 Stirling to Department of External Affairs"
-volume: "Volume 8: 1945"
-doc_id: 3224
+doc_date: '1945-08-16'
+doc_num: 193
+doc_order: 193
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 708]'
+title: Stirling to Department of External Affairs
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-16
+vol_title: 'Volume 8: 1945'
 ---
-
-# 193 Stirling to Department of External Affairs
 
 Cablegram 291 OTTAWA, 16 August 1945, 4.47 p.m.
 
@@ -32,7 +37,7 @@ Canadian Mutual Aid My 280. [1]
 
 (4) The immediate problem is to decide what goods we still require and how we propose to pay for them. I understand that the Division of Import Procurement and Australian War Supplies Procurement are urgently reviewing all requisitions and I assume action will be taken to segregate accounts for goods arriving in Australia after the cut-off-date. Meanwhile, I should be grateful for your views on the financial aspects.
 
-_
+ _
 
 1 Dispatched 11 August. On file AA : A1066, A45/1/1/2.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 708]_
+ _[AA : A5954, BOX 708]_

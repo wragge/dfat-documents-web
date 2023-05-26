@@ -1,19 +1,23 @@
 ---
-title: "267 Minute, Kelloway To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9775
+doc_date: '1969-05-07'
+doc_num: 267
+doc_order: 267
+naa_refs:
+- naa_barcode: 3121863
+  naa_control_symbol: 1970/460
+  naa_series: A452
+  reference: '[NAA: A452, 1970/460]'
+title: Minute, Kelloway To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-05-07
-barcode: 3121863
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 267 Minute, Kelloway To Warwick Smith
 
 Canberra, 7 May 1969
 
-**Bougainville copper project**
+ **Bougainville copper project**
 
-Detailed projections of Administration receipts, prepared by Economic Policy Branch, are attached.2
+Detailed projections of Administration receipts, prepared by Economic Policy Branch, are attached.[2](#f2)
 
 2\. On these assumptions the Commonwealth grant would drop below 50% of total budget receipts (or expenditure) by 1973/4 and below 33⅓% by 1980/1. Put another way, local revenue (including Bougainville) plus loans would equal [the] Commonwealth grant by 1973/4 and would be twice the grant by 1980/81.
 
@@ -51,7 +55,7 @@ TAS.| 44| 53
 
 8\. The position, of course, differs significantly from the Territory in that the Commonwealth raises significant revenue from the inhabitants of the States. It does suggest, however, that some limited forms of self-government are not inconsistent with substantial economic dependence.
 
-[ [NAA: A452, 1970/460](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3121863) ]
+[NAA: A452, 1970/460]
 
 1 Paul Kelloway, Assistant Secretary, Special Projects Branch, DOET.
 

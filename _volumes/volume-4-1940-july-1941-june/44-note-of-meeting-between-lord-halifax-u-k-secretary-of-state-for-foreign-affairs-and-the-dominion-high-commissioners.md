@@ -1,12 +1,18 @@
 ---
-title: "44 Note of Meeting between Lord Halifax, U.K. Secretary of State for Foreign Affairs, and the Dominion High Commissioners"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1275
+doc_date: '1940-07-31'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:D035/1000]'
+title: Note of Meeting between Lord Halifax, U.K. Secretary of State for Foreign Affairs,
+  and the Dominion High Commissioners
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-31
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 44 Note of Meeting between Lord Halifax, U.K. Secretary of State for Foreign Affairs, and the Dominion High Commissioners
 
 Extract [LONDON], 31 July 1940
 
@@ -26,7 +32,7 @@ Mr. Bruce agreed that while the Commonwealth Government had previously largely b
 
 Lord Halifax also intimated that in his view it would be desirable that the British garrisons at present in China should now be withdrawn; this would involve some loss of prestige to us, but would be preferable to their being forced to surrender in the event of hostilities with Japan. [1]
 
-_
+ _
 
 1 This note was prepared by the U.K. Dominions Office. The Dominion High Commissioners were S. M. Bruce (Australia), W. J.
 
@@ -34,4 +40,4 @@ Jordan (New Zealand), S. F. Waterson (South Africa) and Vincent Massey (Canada).
 
 _
 
-_ [PRO:D035/1000]_
+ _[PRO:D035/1000]_

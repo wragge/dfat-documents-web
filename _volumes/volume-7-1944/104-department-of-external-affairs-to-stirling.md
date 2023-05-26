@@ -1,12 +1,17 @@
 ---
-title: "104 Department of External Affairs to Stirling"
-volume: "Volume 7: 1944"
-doc_id: 2751
+doc_date: '1944-03-30'
+doc_num: 104
+doc_order: 104
+naa_refs:
+- naa_barcode: 185057
+  naa_control_symbol: 1944/715/5/2/2
+  naa_series: A989
+  reference: '[AA:A989, 43-44/715/5/2/2]'
+title: Department of External Affairs to Stirling
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-30
+vol_title: 'Volume 7: 1944'
 ---
-
-# 104 Department of External Affairs to Stirling
 
 Cablegram 62 [1] CANBERRA, 30 March 1944
 
@@ -22,7 +27,7 @@ Australian Government, become impossible and it is imperative that the new proce
 
 3\. Please inform the United Kingdom Government of the contents of telegram 70 and of our views as set out above.
 
-_
+ _
 
 1 Repeated to the Legation in Moscow as no. 67.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/715/5/2/2]_
+ _[AA:A989, 43-44/715/5/2/2]_

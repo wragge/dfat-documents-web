@@ -1,20 +1,26 @@
 ---
-title: "303 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 2: 1939"
-doc_id: 640
+doc_date: '1939-10-21'
+doc_num: 303
+doc_order: 303
+naa_refs:
+- naa_barcode: 177779
+  naa_control_symbol: LEAGUE 20TH ASS 3
+  naa_series: A981
+  reference: '[AA: A981, L OF N, 20TH ASSEMBLY 3]'
+title: Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-21
+vol_title: 'Volume 2: 1939'
 ---
 
-# 303 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 148 21 October 1939,
+Cablegram 148 21 October 1939,
 
 Reference your telegram B.340 of 19th September. [1] League of Nations.
 
 His Majesty's Government in the Commonwealth of Australia is in general agreement with the views of the United Kingdom Government concerning procedure to be adopted at postponed meetings of Council and Assembly. In addition the Commonwealth Government is now considering the general question of League activities especially on political side and reduction in the League budget. A further communication in this connection setting out the considered views of the Commonwealth Government will be made at an early date. [2]
 
-_
+ _
 
 1 See Document 248, note 5.
 
@@ -22,4 +28,4 @@ _
 
 _
 
-_ [AA: A981, L OF N, 20TH ASSEMBLY 3]_
+ _[AA: A981, L OF N, 20TH ASSEMBLY 3]_

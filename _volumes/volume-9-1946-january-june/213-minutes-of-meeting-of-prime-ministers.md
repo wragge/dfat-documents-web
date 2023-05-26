@@ -1,13 +1,17 @@
 ---
-title: "213 Minutes of Meeting of Prime Ministers"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3725
+doc_date: '1946-04-26'
+doc_num: 213
+doc_order: 213
+naa_refs:
+- naa_barcode: 694890
+  naa_control_symbol: '3'
+  naa_series: A6712
+  reference: '[AA: A6712, [3]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-26
-barcode: 694890
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 213 Minutes of Meeting of Prime Ministers
 
 PMM(46) 5th Meeting LONDON, 26 April 1946, 11 a.m.
 
@@ -75,7 +79,7 @@ The Governments of the United Kingdom, Australia and New Zealand accept the prin
 
 As a first step it would be advantageous if the United States Secretary of State could join in the consultations now being held in London, with a view to a subsequent conference between the United States Government and the British Commonwealth Governments concerned which the Australian Government would be glad to convene at Canberra.
 
-_
+ _
 
 1 See Document 208.
 
@@ -95,4 +99,4 @@ _
 
 _
 
-_ [ [AA: A6712, [3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=694890) ]_
+ _[AA: A6712, [3]]_

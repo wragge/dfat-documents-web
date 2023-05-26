@@ -1,12 +1,17 @@
 ---
-title: "111 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1865
+doc_date: '1941-11-14'
+doc_num: 111
+doc_order: 112
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-14
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 111 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 969 WASHINGTON, 14 November 1941, 11.40 p.m.
 
@@ -22,7 +27,7 @@ If the Kurusu discussions came to nothing, he believes that the Japanese will pr
 
 I asked if it were not possible for Japan to attempt to cut Burma Road in China without treading directly on American or British toes. Without saying so directly, I inferred from his reply that United States would not sit idly by and watch China's life-lines being cut 'any more than the United States would be indifferent if the Japanese sought to deny us access to Vladivostok'.
 
-_
+ _
 
 1 U.S. Under-Secretary of State.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

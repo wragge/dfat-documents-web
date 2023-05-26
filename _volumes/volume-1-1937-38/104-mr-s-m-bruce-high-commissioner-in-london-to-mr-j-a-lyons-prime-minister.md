@@ -1,14 +1,19 @@
 ---
-title: "104 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 103
+doc_date: '1937-11-13'
+doc_num: 104
+doc_order: 103
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL : PAGE 677]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-11-13
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 104 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
-
-## Cablegram unnumbered LONDON [1], 13 November 1937, 9.15 p.m.
+Cablegram unnumbered LONDON [1], 13 November 1937, 9.15 p.m.
 
 Today's meeting generally followed the lines indicated in yesterday's cablegram. [2] The draft press communique prepared and presented jointly by the United Kingdom, United States and France down the lines indicated, and concluding as follows:-
 
@@ -18,7 +23,7 @@ met with general approval, including all the Dominions. Italy raised objections 
 
 Adjournment to allow reference to the Governments till Monday [3] when decision will be taken. After the Monday meeting probable adjournment for a week for consideration and consultation between the Governments. Future attitude will be mainly governed by the United States position, and particularly by the President's message to Congress on reassembling Monday next.
 
-_
+ _
 
 1 See Document 95, note 1.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [ANL : PAGE 677]_
+ _[ANL : PAGE 677]_

@@ -1,12 +1,17 @@
 ---
-title: "294 Commonwealth Government to Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1060
+doc_date: '1940-05-28'
+doc_num: 294
+doc_order: 294
+naa_refs:
+- naa_barcode: 4212445
+  naa_control_symbol: 1940/11
+  naa_series: A3196
+  reference: '[FA: A3196, [0.3270]'
+title: Commonwealth Government to Mr W. S. Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-28
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 294 Commonwealth Government to Mr W. S. Churchill, U.K. Prime Minister
 
 Cablegram 242 28 May 1940,
 
@@ -28,7 +33,7 @@ The main theme of German propaganda has been that England has let down in turn C
 
 You will appreciate the object of this cable is to ensure we shall be in position to send our views if and when the crisis under contemplation arises, with promptitude, and to enable us to form opinion as to manner and theatre our own efforts can best be directed.
 
-_
+ _
 
 1 This cablegram was sent through the U.K. Dominions Secretary.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [FA: A3196, [0.3270] [3]]_
+ _[FA: A3196, [0.3270] [3]]_

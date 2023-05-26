@@ -1,14 +1,19 @@
 ---
-title: "54 Cabinet Submission by Scully and Makin"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3902
+doc_date: '1946-08-06'
+doc_num: 54
+doc_order: 54
+naa_refs:
+- naa_barcode: 227880
+  naa_control_symbol: VOLUME 12
+  naa_series: A2700
+  reference: '[AA:A2700, VOL. 12, i]'
+title: Cabinet Submission by Scully and Makin
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-08-06
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 54 Cabinet Submission by Scully and Makin
-
-## Agendum 728B [CANBERRA, 6 August 1946]
+Agendum 728B [CANBERRA, 6 August 1946]
 
 FOOD AND AGRICULTURE ORGANISATION
 
@@ -58,18 +63,18 @@ Mr. E. W. Bulcock (Director-General of Agriculture).
 
 Mr. C. J. Rodger, Director-General of the Forestry and Timber Bureau.
 
-Dr. B. T. Dickson, President of the Australian Institute of Agricultural Science and Director of Division of Plant Industry, or a substitute nomination by C.S. &amp; I.R.
+Dr. B. T. Dickson, President of the Australian Institute of Agricultural Science and Director of Division of Plant Industry, or a substitute nomination by C.S. & I.R.
 
 Dr. F. W. Clements, Director of the Institute of Anatomy (Senior Medical Officer, Canberra), Department of Health. [1]
 
-W. J. SCULLY, Minister for Commerce &amp; Agriculture
+W. J. SCULLY, Minister for Commerce & Agriculture
 
 N. J. 0. MAKIN, Acting Minister for External Affairs
 
+ _
+
+1 Cabinet approved the recommendation on 7 August, subject to deletion of the words 'or a substitute nomination by C.S. & I.R.' from recommendation (b).
+
 _
 
-1 Cabinet approved the recommendation on 7 August, subject to deletion of the words 'or a substitute nomination by C.S. &amp; I.R.' from recommendation (b).
-
-_
-
-_ [AA:A2700, VOL. 12, i]_
+ _[AA:A2700, VOL. 12, i]_

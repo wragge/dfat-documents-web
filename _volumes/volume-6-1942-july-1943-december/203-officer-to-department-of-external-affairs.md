@@ -1,12 +1,17 @@
 ---
-title: "203 Officer to Department of External Affairs"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2494
+doc_date: '1943-05-27'
+doc_num: 203
+doc_order: 203
+naa_refs:
+- naa_barcode: 185057
+  naa_control_symbol: 1944/715/5/2/2
+  naa_series: A989
+  reference: '[AA:A989, 43-44/715/5/2/2]'
+title: Officer to Department of External Affairs
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-27
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 203 Officer to Department of External Affairs
 
 Cablegram 94 [1] KUYBYSHEV, 27 May 1943, 6.15 p.m.
 
@@ -22,7 +27,7 @@ But even then part only were recognised by the Soviet Authorities as Polish citi
 
 OFFICER
 
-_
+ _
 
 1 Repeated to Evatt in Washington as no. 20.
 
@@ -44,4 +49,4 @@ the agreement with the Soviet Govt] means Soviet recognition of full representat
 
 _
 
-_ [AA:A989, 43-44/715/5/2/2]_
+ _[AA:A989, 43-44/715/5/2/2]_

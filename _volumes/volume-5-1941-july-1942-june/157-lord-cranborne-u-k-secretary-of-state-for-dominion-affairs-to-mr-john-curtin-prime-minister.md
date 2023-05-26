@@ -1,12 +1,18 @@
 ---
-title: "157 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1911
+doc_date: '1941-12-03'
+doc_num: 157
+doc_order: 158
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-03
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 157 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Circular cablegram M418 LONDON, 3 December 1941, 9.57 p.m.
 
@@ -28,7 +34,7 @@ JAPAN After consideration of Lord Halifax's account of his discussion with the P
 
 5\. We would propose to make it clear in any such communication or in any announcement which might accompany our operation that we should restore in full to Thailand any territory which we might occupy and that our aim is to ensure full independence, sovereignty and territorial integrity of Thailand. Text ends. [7]
 
-_
+ _
 
 1 Dispatched 2 December. On file AA : A981, Japan 185B, iii. It repeated the text of a cablegram received from Lord Halifax (U.K.
 
@@ -48,4 +54,4 @@ Ambassador to the United States). Halifax's cablegram had already been conveyed 
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

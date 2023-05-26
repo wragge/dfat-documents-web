@@ -1,14 +1,19 @@
 ---
-title: "267 Proud to Dunk"
-volume: "Volume 8: 1945"
-doc_id: 3298
+doc_date: '1945-09-25'
+doc_num: 267
+doc_order: 267
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA : A1838/2, 383/2/1/2, i]'
+title: Proud to Dunk
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-25
+vol_title: 'Volume 8: 1945'
 ---
 
-# 267 Proud to Dunk
-
-## Memorandum ALLIED LAND FORCES HEADQUARTERS,
+Memorandum ALLIED LAND FORCES HEADQUARTERS,
 
 FAR EASTERN LIAISON OFFICE, MELBOURNE, 25 September 1945
 
@@ -76,7 +81,7 @@ The rest of the conversation was limited to general expressions of good will and
 
 J. C. R. PROUD
 
-_
+ _
 
 1 Appointed in June.
 
@@ -84,4 +89,4 @@ _
 
 _
 
-_ [AA : A1838/2, 383/2/1/2, i]_
+ _[AA : A1838/2, 383/2/1/2, i]_

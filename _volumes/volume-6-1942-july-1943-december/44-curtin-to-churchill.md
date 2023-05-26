@@ -1,12 +1,18 @@
 ---
-title: "44 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2335
+doc_date: '1942-09-11'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 853952
+  naa_control_symbol: '139'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,
+    FILE No. 3, 48/1942]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-11
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 44 Curtin to Churchill
 
 Cablegram 420 [1] CANBERRA, 11 September 1942
 
@@ -36,7 +42,7 @@ Whilst the security of the line of communication to the United States is of vita
 
 CURTIN
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 2 Document 41.
 
@@ -56,4 +62,4 @@ See Cablegram 139 of 11 September on file AA:A3300, 232.
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_

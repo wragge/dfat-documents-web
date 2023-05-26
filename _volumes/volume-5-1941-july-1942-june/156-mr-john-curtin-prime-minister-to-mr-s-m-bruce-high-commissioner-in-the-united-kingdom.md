@@ -1,12 +1,18 @@
 ---
-title: "156 Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1910
+doc_date: '1941-12-03'
+doc_num: 156
+doc_order: 157
+naa_refs:
+- naa_barcode: 206151
+  naa_control_symbol: O41/1/2
+  naa_series: A1608
+  reference: '[AA : A1608, 0.41/1/2]'
+title: Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the
+  United Kingdom
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-03
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 156 Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom
 
 Cablegram 7614 [A] [1] CANBERRA, 3 December 1941
 
@@ -28,7 +34,7 @@ In order that further consideration may be given to the question of adoption of 
 
 The form of authority proposed is as follows:-
 
-GEORGE VI, by the Grace of God, of Great Britain, Ireland, an&amp; the British Dominions beyond the Seas, King. Defender of the Faith, Emperor of India, etc.
+GEORGE VI, by the Grace of God, of Great Britain, Ireland, an& the British Dominions beyond the Seas, King. Defender of the Faith, Emperor of India, etc.
 
 To all and singular to whom these Presents shall come, Greeting! WHEREAS it is provided by section two of the Commonwealth of Australia Constitution that a Governor-General appointed by the Queen shall be Her Majesty's Representative in the Commonwealth, and shall have and may exercise in the Commonwealth during the Queen's pleasure, but subject to that Constitution, such powers and functions of the Queen as Her Majesty may be pleased to assign to him:
 
@@ -46,7 +52,7 @@ By His Majesty's Command, A Member of His Majesty's Privy Council, acting for an
 
 [CURTIN]
 
-_
+ _
 
 1 Material in square brackets has been inserted from Bruce's copy on file AA : M100, December 1941.
 
@@ -56,4 +62,4 @@ _
 
 _
 
-_ [AA : A1608, 0.41/1/2]_
+ _[AA : A1608, 0.41/1/2]_

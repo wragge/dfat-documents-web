@@ -1,12 +1,18 @@
 ---
-title: "83 Heydon to Burton"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5859
+doc_date: '1948-01-29'
+doc_num: 83
+doc_order: 83
+naa_refs:
+- naa_barcode: 571689
+  naa_control_symbol: 899/1 PART 1
+  naa_series: A1838
+  reference: '[AA: A1838, 899/1, 1]'
+title: Heydon to Burton
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-01-29
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 83 Heydon to Burton
 
 Letter (extract) LONDON, 29 January 1948
 
@@ -30,8 +36,8 @@ particularly for facilitating actions. I have frequently gone to (a) and never h
 
 The distinction between our relations with the C.R.O. and F.O. is important and significant. Generally when we are taking an active part (e.g. Antarctic, C.F.M., Trusteeship, Italian Colonies), though taking care to know the F.O. men and keeping in touch with them informally, I take my main action through the C.R.O. But if I want straight information then the F.O. is much more useful. In a contentious or doubtful matter I never believe in reporting anything as fact unless I have it confirmed by two sources.
 
-_
+ _
 
 _
 
-_ [AA: A1838, 899/1, 1]_
+ _[AA: A1838, 899/1, 1]_

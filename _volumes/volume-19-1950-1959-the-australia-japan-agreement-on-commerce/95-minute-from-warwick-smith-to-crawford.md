@@ -1,14 +1,19 @@
 ---
-title: "95 Minute From Warwick Smith To Crawford"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7700
+doc_date: '1955-01-17'
+doc_num: 95
+doc_order: 95
+naa_refs:
+- naa_barcode: 554931
+  naa_control_symbol: 759/1/7 PART 2
+  naa_series: A1838
+  reference: '[AA : A1838/283, 759/117, ii]'
+title: Minute From Warwick Smith To Crawford
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1955-01-17
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 95 Minute From Warwick Smith To Crawford
-
-## 17th January, 1955
+17th January, 1955
 
 CANBERRA
 
@@ -26,8 +31,8 @@ In relation to the establishment of a branch Japanese Bank in Australia, he aske
 
 [matter omitted]
 
-_
+ _
 
 _
 
-_ [AA : A1838/283, 759/117, ii]_
+ _[AA : A1838/283, 759/117, ii]_

@@ -1,12 +1,17 @@
 ---
-title: "186 Forde to Bruce"
-volume: "Volume 7: 1944"
-doc_id: 2833
+doc_date: '1944-06-08'
+doc_num: 186
+doc_order: 186
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 436]'
+title: Forde to Bruce
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-08
+vol_title: 'Volume 7: 1944'
 ---
-
-# 186 Forde to Bruce
 
 Cablegram 78 CANBERRA, 8 June 1944
 
@@ -24,7 +29,7 @@ Before he left London, the Prime Minister advised that he had asked you to follo
 
 FORDE
 
-_ 1 Document 156. On 23 May Curtin advised Forde that the views of the Advisory War Council were being put before the U.K. Govt, and would be followed up by Bruce. See cablegram 34, on file AA:A5954, box 436.
+ _1 Document 156. On 23 May Curtin advised Forde that the views of the Advisory War Council were being put before the U.K. Govt, and would be followed up by Bruce. See cablegram 34, on file AA:A5954, box 436.
 
 2 No. S26.
 
@@ -32,4 +37,4 @@ _ 1 Document 156. On 23 May Curtin advised Forde that the views of the Advisory 
 
 _
 
-_ [AA:A5954, BOX 436]_
+ _[AA:A5954, BOX 436]_

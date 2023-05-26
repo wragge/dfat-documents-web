@@ -1,0 +1,121 @@
+---
+doc_date: '1951-02-20'
+doc_num: 152
+doc_order: 152
+naa_refs:
+- naa_barcode: 1346473
+  naa_control_symbol: 2202/E1 PART 3
+  naa_series: A9879
+  reference: '[NAA: A9879, 2202/E1 part 3]'
+title: REPORT OF CONSULTATIVE COMMITTEE
+vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
+vol_id: 24
+vol_title: 'Volume 24: Australia and the Colombo Plan, 1949-1957'
+---
+
+Colombo, 20 February 1951
+
+CONFIDENTIAL
+
+**Report of Meeting of Consultative Committee on Economic Development in South and South-East Asia held in Colombo from February 13 to 20, 1951**
+
+1. The Consultative Committee on Economic Development in South and South-East Asia met in Colombo at official level on February 13, 1951. The following countries were represented as Members: Australia, Cambodia, Canada, Ceylon, India, New Zealand.
+Pakistan, United Kingdom, United States and Viet Nam; and the following as Observers: Burma, Indonesia, Philippines and Thailand. A list of Delegates is attached as Appendix I.[^1] At the invitation of the Committee, the International Bank was represented at the meeting. The Interim Administrator of the Bureau for Technical Co-operation also attended. The Government of Laos, although a member of the Committee, was unable to send a delegation to the meeting.
+
+2. The meeting had been convened by the Government of Ceylon, after consultation among the Member Governments, in order to review the situation generally following the publication of the Report on the Colombo Plan, and to make recommendations to Governments regarding future procedure for continuing consultation amongst the Governments participating in the Plan. The Leader of the Ceylon Delegation, Mr. A.G. Ranasinha,[^2] C.M.G, C.B.E., was unanimously elected Chairman for the Meeting.
+
+_Agenda_
+
+3. The subjects for discussion were:—
+
+(a) Statements of action taken in the various participating countries since the last meeting of the Committee.
+
+(b) Review of progress in the Technical Co-operation Scheme.
+
+(c) Future organisation for continuing consultation.
+
+(d) Procedure for obtaining financial aid.
+
+(e) Role of the International Bank.
+
+(f) Use of scientific. and technological resources in executing the Plan.
+
+(g) Participation of non-Commonwealth Governments in the area.
+
+_Statements of action taken_
+
+4. The representatives of all Member Governments present re-emphasized their Government’s support for the co-operative effort to promote economic development in South and South-East Asia which is the general objective of the Colombo Plan.
+
+5. The representatives of Ceylon, India and Pakistan stated that their Governments are proceeding with the execution of their development programmes to the full extent of the resources currently available. These programmes are being kept under constant review and are being adapted to conform to changing conditions. Shortages of capital and technical skill, however, are serious limiting factors in development. Their importance varies in different countries, and in Ceylon the most urgent need is for technical skill. The United Kingdom representative stated that the British territories in the area are also proceeding urgently with the execution of their plans, and no difficulties are foreseen as regards the external finance necessary for their implementation.
+
+6. The representatives of Member Governments outside the area, while stressing the heavy strains that are being put upon their economies by the deterioration in the international situation said that their Governments fully recognised the need of Governments in the area for help in the solution of their economic problems. The Australian representative stated that his Government has decided to contribute at least £. sterling 25 million over the six-year period, of which £. sterling 7 million would be available in the first year; the contribution will be available to assist both Commonwealth and non-Commonwealth countries in the region. The United Kingdom representative said that his Government has announced that, taking into account the needs of British territories in the area and their readiness to consider sympathetically the needs of nonCommonwealth countries in the area which decide to participate in the Plan, the United Kingdom's contribution is likely to amount to well over £.300 million during 1951-57. This figure includes some £.250 million in the form of releases of sterling balances.
+
+7. During the course of the meeting the representative of Canada informed the Committee that the Canadian Government has now decided that it is willing to contribute 25 million dollars to the first year of the Colombo Plan, provided that it is clear that other contributing countries will be making appropriate contributions so that the broad objectives of the Colombo Plan may be realised. The Government of New Zealand is urgently considering the extent of their financial support and hopes to make an early announcement on this point.
+
+8. The United States representative said that his Government, in accepting the invitation to attend the present meeting, had announced that it welcomed the initiative of the countries participating in the Colombo Plan in working out their programme for coOperative development; that the Plan appeared to offer a basis for genuine economic progress; and that it intended to co-ordinate to the extent possible the programmes it had undertaken or might undertake in the area with those under the Plan. The Budget presently before the Congress includes a provision for foreign assistance programmes for nonEuropean areas of the free world. T he United States representative was unable to indicate what action the Congress might take. He called attention to the fact that the United States is already providing technical assistance and some grant aid to certain countries in the area.
+
+_Review of progress in the Technical Co-operation Scheme_
+
+9. The President of the Council for Technical Co-operation laid before the Committee a review of progress in the Technical Co-operation Scheme, (Document CC/4), a copy of which is attached as Appendix II.[^3] Although the Bureau was only established at the end of December 1950, it is already functioning satisfactorily under an Interim Administrator: a large number of firm offers of assistance have already been made, some of which have been accepted. At the invitation of the Council, the United States Government has appointed a liaison officer to the Council for Technical Co-operation in Colombo and the United Nations Technical Assistance Board has also agreed to make a similar appointment. Representatives of all Member Governments indlcated that they would continue to provide the maximum amount of technical assistance possible. Several Governments were working on plans for new facilities specially organised for the purposes of the Scheme.
+
+_Future organisation for continuing consultation_
+
+10. A number of proposals for continuing organisation were placed before the Committee, but it was considered premature to determine precise arrangements until the size and scope of the external finance available to the countries in the area were better known.
+
+11. It is, however, recommended—
+
+(1) that a further meeting of the Committee should be convened as soon as practicable:
+
+(2) that the Consultative Committee should meet by mutual agreement, whenever necessary, and at least once a year; and
+
+(3) that the Committee should publish an annual report and such other reports as may be necessary.
+
+12. It is considered that a small secretariat will be required, both to serve the Consultative Committee and to facilitate the exchange and co-ordination of ideas and information on the problems that would come before it. Should the need for any secretarial assistance arise before the next meeting of the Committee, special arrangements could be made by mutual agreement by the Governments concerned.
+
+_Procedure for obtaining financial aid_
+
+13. At this Stage of the Plan, the views expressed by representatives were necessarily of a preliminary and provisional nature. All representatives accepted the basis that negotiation would be bilateral, although this would not exclude the possibility of joint action by a number of Governments in a particular case.
+
+_Role of International Bank for Reconstruction and Development_
+
+14. The United Kingdom Delegation circulated an exchange of correspondence between the President of the International Bank and the Chancellor of the Exchequer.[^4] In his letter of November 13, 1950, the President of the Bank, Mr. Black. stated that the Bank welcomes the opportunity to co-operate with the Governments (and with the Committee) in the preparation of their development programmes and in financing as large a part of those programmes as each country’s creditworthiness will allow.
+
+Referring to the above-mentioned letter of Mr. Black, the Bank’s representative pointed out that as it appears that a part of the external finance required for the Colombo Plan could not be handled on a normal loan basis, special assistance would have to be obtained for the implementation of | the Plan which in turn would increase the country’s creditworthiness. Therefore the total amount of loans which the countries could service would be affected by the amount of special assistance which they received and by the use it was put to.
+
+The Bank has already negotiated loans with India and Thailand and various Pakistan projects are under consideration at present.
+
+The representative of the International Bank for Reconstruction and Development made it clear that, in discussing loans with a Member Country, the Bank operates directly with the member concerned. He explained the Bank’s methods of operation, particularly with regard to assessing the creditworthiness and examining the development programme of a Member Country.
+
+15. The Committee welcomed the opportunity to establish close liaison with the Bank and recommended that the Bank should be invited to maintain close and continuous liaison with the Committee. It was agreed that the Chancellor of the Exchequer of the United Kingdom, in his capacity as Chairman of the last meeting of the Consultative Committee at Ministerial level, be requested to extend, after consultation with Member Governments, an invitation in appropriate terms to the President of the International Bank.
+
+_Use of scientific and technological resources in executing the Plan_
+
+16. The Committee considered proposals by the United Kingdom that a scientific liaison Officer should be appointed to the Bureau for Technical Co-operation; and that an ad hoc conference of leading scientific authorities from the participating countries should be held at an early date to consider the broad scientific and technological implications of the Plan.
+
+17. Other representatives associated with the Council for Technical Co-operation, while appreciation of the general objectives of the proposals, considered that it would be premature to make recommendations at this meeting. At the request of the United Kingdom representative, a copy of his Government’s proposals (Document CC/13) is attached to this report as Appendix III[^5] to enable consideration by other Member Governments.
+
+_Participation of non-Commonwealth Governments in the area in the Plan_
+
+18. Representatives of the non-Commonwealth Governments in the area who were not already members of the Committee were invited to state the attitude of their Governments towards participation in the Plan. None of the representatives was in a position to announce any decision of his Government at this stage, but they all indicated the interest of their Governments in the Plan as evidenced by their representation, by observers, at meetings of the Committee.
+
+19. Several questions were raised in order to clarify the extent to which membership of the Committee was dependent on the submission of comprehensive plans and on an agreement to contribute to working expenses. It was explained that while such plans, for six years or a shorter period, would greatly facilitate an assessment of the economic needs of Individual countries concerned and of the area as a whole, it was not in any way obligatory for membership of the Committee that they should be submitted. If it was possible to state a country’s requirements for aid, then other Member Governments could consider what help could be offered. As regards contributions to working expenses, it was a matter for each Government to decide what, if anything, it could offer. Similar considerations applied to any technical assistance which countries in the area might be able to offer to each other. If any country had any resources of skill which it could spare or share, it was hoped that it would offer them.
+
+_A ‘Colombo Plan’ Exhibition_
+
+20. The Government of Ceylon stated that they would be glad to act as convenors and Organisers of an exhibition to be held in Colombo during February 1952 where, all the countries in South and South-East Asia and countries outside this area participating in the Colombo Plan might demonstrate to each other their respective resources, products and culture. Apart from the publicity value to the Plan itself, the Government of Ceylon considered that such an exhibition would enable a greater and more realistic appreciation of the needs of, and availabilities in, the countries concerned, the matching of which was the basis for the successful implementation of the objectives underlying the Plan. The Government of Ceylon would be glad if their proposal ‘was given favourable consideration. They would communicate further on the subject through the usual diplomatic channels.
+
+_Conclusion_
+
+21. It would be clear from this Report that the Colombo Plan has made considerable headway, and that Governments are already proceeding to put into effect the plans of last year. It is the confident expectation of the Committee that this progress will gather momentum in the period immediately ahead. The Committee completed its business on Tuesday, February 20, 1951.
+
+[NAA: A9879, 2202/E1 part 3]
+
+[^1]: Not published.
+
+[^2]: Permanent Secretary, Ceylon Ministry of Finance, and Secretary to the Ceylonese Cabinet.
+
+[^3]: Not published.
+
+[^4]: See appendix A and B, Document 156.
+
+[^5]: Not published.

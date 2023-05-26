@@ -1,12 +1,17 @@
 ---
-title: "305 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1071
+doc_date: '1940-05-29'
+doc_num: 305
+doc_order: 305
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3689]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-29
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 305 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 362 LONDON, 29 May 1940, 7.37 p.m.
 
@@ -16,7 +21,7 @@ Your telegram 242 [1] admirable and most useful. Evidence on which [were based] 
 
 BRUCE
 
-_
+ _
 
 1 Document 294.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3689]_
+ _[FA: A3195, 1.3689]_

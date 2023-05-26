@@ -1,12 +1,17 @@
 ---
-title: "173 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 510
+doc_date: '1939-08-31'
+doc_num: 173
+doc_order: 173
+naa_refs:
+- naa_barcode: 176558
+  naa_control_symbol: GREA 8 PART 5
+  naa_series: A981
+  reference: '[AA: A981, GREAT BRITAIN 8B, V]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-31
+vol_title: 'Volume 2: 1939'
 ---
-
-# 173 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 31 August 1939, 1 p.m.
 
@@ -24,7 +29,7 @@ We are most grateful for assurance in the concluding paragraph of your message a
 
 NEVILLE CHAMBERLAIN
 
-_
+ _
 
 1 Document 156.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A981, GREAT BRITAIN 8B, V]_
+ _[AA: A981, GREAT BRITAIN 8B, V]_

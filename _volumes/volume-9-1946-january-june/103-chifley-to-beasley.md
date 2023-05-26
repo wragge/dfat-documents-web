@@ -1,12 +1,17 @@
 ---
-title: "103 Chifley to Beasley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3615
+doc_date: '1946-02-21'
+doc_num: 103
+doc_order: 103
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 TI, SPTS/1/4]'
+title: Chifley to Beasley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-21
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 103 Chifley to Beasley
 
 Cablegram 30 CANBERRA, 21 February 1946
 
@@ -26,7 +31,7 @@ Your No. 1144. [1]
 
 CHIFLEY
 
-_
+ _
 
 1 Dispatched 19 February, it reported exchange of Documents 83 and 85, and Beasley's intention to reiterate Australian views as given in Document 96.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A6494 TI, SPTS/1/4]_
+ _[AA:A6494 TI, SPTS/1/4]_

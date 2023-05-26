@@ -1,18 +1,21 @@
 ---
-title: "476 DRAFT CABINET MINUTE BY BOWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10343
+doc_date: 1974-03
+doc_num: 476
+doc_order: 476
+naa_refs:
+- naa_barcode: 9042754
+  naa_control_symbol: SR1974/3013
+  naa_series: A5034
+  reference: '[NAA: A5034, SRI974/3013]'
+title: DRAFT CABINET MINUTE BY BOWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-01-02
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 476 DRAFT CABINET MINUTE BY BOWEN
-
-NAA: A5034, SRI974/3013
 
 Canberra, March 1974
 
-**An Australian System of Awards**
+ **An Australian System of Awards**
 
 In December 1971 the ALP Federal Executive resolved that:
 
@@ -23,7 +26,7 @@ In December 1971 the ALP Federal Executive resolved that:
 * 4\. Indications, including from Labor Premiers, are that action to establish an Australian system of Awards would find favour.
 * 5\. With the exception of Ireland, Switzerland and Sri Lanka, all countries throughout the world maintain their own system of awards to recognise gallantry and achievement in various spheres of community life, although Sweden has recently abolished its system of Royal honours, and is considering a system of state awards. The Canadian example has special relevance for us.
 
-_Canadian Case_
+ _Canadian Case_
 
 6\. Canada began to move away from the British honours system as far back as 1919 when it ceased making recommendations for British awards except for military service and acts of bravery. This situation continued (apart from a short break between 1930–35) until 1967 when provision was made, under the patronage of The Queen,
 
@@ -33,13 +36,13 @@ _Canadian Case_
 
 8\. Canada’s system comprises:
 
-> (i) _The Order of Canada_, having three levels: Companion, Officer and Member;
+> (i) _The Order of Canada_ , having three levels: Companion, Officer and Member;
 > 
-> (ii) _The Order of Military Merit_, having three levels: Commander, Officer and Member;
+> (ii) _The Order of Military Merit_ , having three levels: Commander, Officer and Member;
 > 
 > (iii) _Three bravery decorations:_ Cross of Valour, Star of Courage and Medal of Bravery.
 
-_An Australian System_
+ _An Australian System_
 
 9\. There are various possible approaches to establishing an Australian system. I think we would agree, as a general principle, that it should provide for recognition on the basis of personal attributes and merit rather than office or position. The system itself should be simple and easily comprehended and the number of awards made under it should be limited so as to be rare and thus carry great value in the eyes of the Australian community.
 
@@ -61,8 +64,10 @@ These awards would be under the auspices of the Australian Government.
 
 The advice of the Attorney-General needs to be obtained on the important constitutional issues which arise in respect of the role of State Governments in relation to the new system and indeed, to Honours generally.
 
-_Next Steps_
+ _Next Steps_
 
 If the foregoing approach commends itself generally to Cabinet I would proceed to develop a more detailed proposal incorporating any features which our discussion suggests. At this point I am merely seeking a decision in principle and if practicable, some announcement of our position.
 
 1 Lionel Frost Bowen, Special Minister of State, 1973–75.
+
+[NAA: A5034, SRI974/3013]

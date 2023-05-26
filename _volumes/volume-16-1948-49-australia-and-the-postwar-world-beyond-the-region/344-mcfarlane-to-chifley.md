@@ -1,13 +1,17 @@
 ---
-title: "344 McFarlane to Chifley"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7059
+doc_date: '1948-08-07'
+doc_num: 344
+doc_order: 344
+naa_refs:
+- naa_barcode: 570210
+  naa_control_symbol: 703/5/5
+  naa_series: A1838
+  reference: '[AA : A1838, 703/5/5]'
+title: McFarlane to Chifley
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-08-07
-barcode: 570210
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 344 McFarlane to Chifley
 
 Cablegram 2664, LONDON, 7 August 1948, 3.40 p.m.
 
@@ -37,9 +41,9 @@ Your 2915.[1]
 
 4\. I discussed with Treasury Officials the question of whether Australian gesture to European countries other than United Kingdom as suggested your paragraph 15 would make reasonable contribution to the problem.
 
-5\. This issue is linked with the question of the European clearing arrangement the answer to which depends upon agreement on details of respective surpluses or deficits with each other which has still be reached. It is expected that United Kingdom will in aggregate be in surplus but United Kingdom is not committed to make a contribution in the form of grant equal to its estimated net surplus with them. For instance if the net surplus is say �75,000,000 sterling United Kingdom might make grants to other countries of say �40,000,000 and those countries still in deficit on their estimated figures would have to reduce their imports accordingly to meet the uncovered deficits. Now if Australia desires to assist the European recovery the best method to my way of thinking would be to make a contribution through the United Kingdom towards her obligation on behalf of the sterling area as a whole. In this way a contribution of say �5,000,000 as mentioned in paragraph 15 of your cable would be useful and Treasury Officials agree.
+5\. This issue is linked with the question of the European clearing arrangement the answer to which depends upon agreement on details of respective surpluses or deficits with each other which has still be reached. It is expected that United Kingdom will in aggregate be in surplus but United Kingdom is not committed to make a contribution in the form of grant equal to its estimated net surplus with them. For instance if the net surplus is say £75,000,000 sterling United Kingdom might make grants to other countries of say £40,000,000 and those countries still in deficit on their estimated figures would have to reduce their imports accordingly to meet the uncovered deficits. Now if Australia desires to assist the European recovery the best method to my way of thinking would be to make a contribution through the United Kingdom towards her obligation on behalf of the sterling area as a whole. In this way a contribution of say £5,000,000 as mentioned in paragraph 15 of your cable would be useful and Treasury Officials agree.
 
-6\. On the other hand a straight out credit of �5,000,000 for say five years after United Kingdom had indicated to Europe the amount of her grant would not assist United Kingdom except perhaps to relieve some pressure for an increased grant. Therefore although this would involve a grant by Australia instead of a credit to my way of thinking it would be better to adopt this method of assisting European recovery through United Kingdom rather than by way of direct credit to another European country the repayment of which may be doubtful. I rather favour this method and even 5,000,000 might be respectable if United Kingdom's liability for grant in respect of sterling area as a whole limited to say about �30,000,000.
+6\. On the other hand a straight out credit of £5,000,000 for say five years after United Kingdom had indicated to Europe the amount of her grant would not assist United Kingdom except perhaps to relieve some pressure for an increased grant. Therefore although this would involve a grant by Australia instead of a credit to my way of thinking it would be better to adopt this method of assisting European recovery through United Kingdom rather than by way of direct credit to another European country the repayment of which may be doubtful. I rather favour this method and even 5,000,000 might be respectable if United Kingdom's liability for grant in respect of sterling area as a whole limited to say about £30,000,000.
 
 7\. If however you preferred direct credits to European countries, France would, in the view of the Treasury Officials, be more in need of aid than Italy who is not very short of sterling. The real problem is France rather than Italy but United Kingdom will know which countries should receive most aid after figures are agreed but we can forget Belgium who is the most selfish country.
 
@@ -51,7 +55,7 @@ Your 2915.[1]
 
 11\. I have advised Wilson by telephone in broad outline of my views and am sending him copy of this telegram. I understand he has sent you further cablegram re unofficial United States proposal for loan from Export-Import Bank in conjunction with like amount of off-shore purchases and that a reply is still awaited from Canberra which may affect decision in paragraph 16 of your cable. I presume you will await E.C.A. decision on possibilities referred to in paragraph 1 above before reconsidering this alternative proposal.
 
-_ [1] Document 343 was repeated to McFarlane in London as cablegram 2915.
+ _[1] Document 343 was repeated to McFarlane in London as cablegram 2915.
 
 [2] Document 341.
 
@@ -67,4 +71,4 @@ _ [1] Document 343 was repeated to McFarlane in London as cablegram 2915.
 
 _
 
-_ [ [AA : A1838, 703/5/5](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=570210) ]_
+ _[AA : A1838, 703/5/5]_

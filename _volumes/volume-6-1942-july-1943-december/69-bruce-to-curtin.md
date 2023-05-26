@@ -1,12 +1,17 @@
 ---
-title: "69 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2360
+doc_date: '1942-11-01'
+doc_num: 69
+doc_order: 69
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-11-01
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 69 Bruce to Curtin
 
 Cablegram 179[A] LONDON, 1 November 1942, 8.36 p.m.
 
@@ -40,7 +45,7 @@ Please advise urgently whether my interpretation of your attitude is correct.
 
 BRUCE
 
-_
+ _
 
 1 See Document 67, note 5.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

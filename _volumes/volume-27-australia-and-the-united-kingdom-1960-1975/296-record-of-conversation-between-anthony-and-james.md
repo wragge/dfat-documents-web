@@ -1,14 +1,17 @@
 ---
-title: "296 RECORD OF CONVERSATION BETWEEN ANTHONY AND JAMES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10161
+doc_date: '1971-07-08'
+doc_num: 296
+doc_order: 296
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1055]'
+title: RECORD OF CONVERSATION BETWEEN ANTHONY AND JAMES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-07-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 296 RECORD OF CONVERSATION BETWEEN ANTHONY AND JAMES
-
-UKNA: FCO 24/1055 
 
 Canberra, 8 July 1971
 
@@ -31,3 +34,5 @@ After initial courtesies, Mr Anthony remarked that ‘in agricultural politics, 
 8\. Mr Anthony then referred to Mr Rippon’s recent statement in the House of Commons that the Australian Government had always understood and supported Britain’s application to join the EEC. This was not the case, Mr Anthony said, and he felt strongly tempted to issue a statement denying it. However to do so might create the equally unjustified opposing impression that Australia was root and branch against British membership of the EEC. In reply to a question, Mr Anthony acknowledged that, if he were British, he would vote for our entry .into the Common Market; but said he would do this on political not economic grounds, since to his mind, the economic case for our entry had not been made out.
 
 9\. At the end of our talk, Mr Anthony, who had been personally very friendly throughout, said that he realised I had my job to do, just as he had his, and that he would co-operate with me to the maximum extent that he could. He hoped we could work closely together despite differences of approach. I said I hoped so too.
+
+[UKNA: FCO 24/1055]

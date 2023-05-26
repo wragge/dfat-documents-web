@@ -1,20 +1,23 @@
 ---
-title: "199 LETTER, MENZIES TO BURY"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10064
+doc_date: '1962-07-27'
+doc_num: 199
+doc_order: 199
+naa_refs:
+- naa_barcode: 584013
+  naa_control_symbol: 727/4/2 PART 2
+  naa_series: A1838
+  reference: '[NAA: A 1838, 727/4/2 PART 2]'
+title: LETTER, MENZIES TO BURY
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-07-27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 199 LETTER, MENZIES TO BURY
-
-NAA: A 1838, 727/4/2 PART 2
 
 Canberra, 27 July 1962
 
 I refer to our conversation this afternoon about your stated and published views on the Common Market negotiations.
 
-You confirmed to me that you had stated your views, not only in Canberra on Wednesday night but in Melbourne on Thursday, and that when asked last evening by the representative of the ABC1 you had indicated that you stood by your statements.
+You confirmed to me that you had stated your views, not only in Canberra on Wednesday night but in Melbourne on Thursday, and that when asked last evening by the representative of the ABC[1](#f1) you had indicated that you stood by your statements.
 
 You made it quite clear to me that you were on these occasions speaking solely for yourself and were not prompted by any other Minister or, for that matter, by any official.
 
@@ -31,3 +34,5 @@ I am sad about all this as you know. I have done my best to try to devise some m
 Under all the circumstances, I must, with unfeigned regret, ask you for your resignation.
 
 1 Australian Broadcasting Commission (renamed Australian Broadcasting Corporation in 1983).
+
+[NAA: A 1838, 727/4/2 PART 2]

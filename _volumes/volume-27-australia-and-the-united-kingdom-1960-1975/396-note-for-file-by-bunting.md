@@ -1,20 +1,23 @@
 ---
-title: "396 NOTE FOR FILE BY BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10262
+doc_date: '1972-08-17'
+doc_num: 396
+doc_order: 396
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA: A1209, 1971/9449 PART 2]'
+title: NOTE FOR FILE BY BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-08-17
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 396 NOTE FOR FILE BY BUNTING
-
-NAA: A1209, 1971/9449 PART 2
 
 Canberra, 17 August 1972
 
 Confidential
 
-**Australia House**
+ **Australia House**
 
 At the Prime Minister’s suggestion, I called on the Minister for Foreign Affairs.
 
@@ -77,3 +80,5 @@ He believed it should now become a Foreign Affairs office, but if necessary, he 
 I said I had a different view about the past, but I respected his views.
 
 My purpose was to find a co-operative basis. The Minister said he would write or speak to the Prime Minister.
+
+[NAA: A1209, 1971/9449 PART 2]

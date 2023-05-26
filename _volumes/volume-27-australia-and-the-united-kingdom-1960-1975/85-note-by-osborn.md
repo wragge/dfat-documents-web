@@ -1,14 +1,17 @@
 ---
-title: "85 NOTE BY OSBORN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9950
+doc_date: '1967-08-22'
+doc_num: 85
+doc_order: 85
+naa_refs:
+- naa_barcode: 1728297
+  naa_control_symbol: TS691/1 PART 13
+  naa_series: A1838
+  reference: '[NAA: Al838, TS691/1 PART 13]'
+title: NOTE BY OSBORN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-08-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 85 NOTE BY OSBORN
-
-NAA: Al838, TS691/1 PART 13
 
 Canberra, 22 August 1967
 
@@ -78,17 +81,17 @@ There has long been an ambivalence in British foreign policy. There have always 
 
 5\. In the light of the foregoing, the following statements may be made about what were Australian assumptions in the past in regard to British foreign policies, and what these assumptions should now be. It is noteworthy (and this is borne out particularly by the quotation in (a) I below), that Australian assumptions about future British policy have been realistic enough in the abstract but have not shown sufficient sense of urgency.
 
-_(a) British Policy East of Suez in General_
+ _(a) British Policy East of Suez in General_
 
-_I. Pre 1967 Assumptions_
+ _I. Pre 1967 Assumptions_
 
-The 1964 Report by the Defence Committee on the Strategic Basis of Australian Defence Policy included the following:1
+The 1964 Report by the Defence Committee on the Strategic Basis of Australian Defence Policy included the following:[1](#f1)
 
 > ‘In the past few years there have been indications that the U.K.’s policy was to reduce her military commitments in Asia. This has not occurred on a wide scale and the trend has been reversed by the need to provide assistance to Malaysia against Indonesian confrontation. The U.K. is likely to remain in Malaysia and South East Asia during the period but it is possible that circumstances might force her to withdraw from her Malaysian bases before the end of the period (ten years). This would almost inevitably lead to a very substantial reduction of U.K. military forces permanently deployed in the area unless she were to establish bases in Australia’.
 
 Subsequent consideration of U.K. policy by the Defence Committee in 1965, 1966 and early 1967, led to amendment of the above to take into account British Defence White Papers and the ending of confrontation, but the amendments did not substantially alter the above forecast.
 
-_II. Post July 1967 Assumptions_
+ _II. Post July 1967 Assumptions_
 
 In its Report on the same subject agreed on 6th July, 1967, the Defence Committee in a much longer passage endorsed the following main points:
 
@@ -98,21 +101,21 @@ In its Report on the same subject agreed on 6th July, 1967, the Defence Committe
 > 
 > (iii) Although the U.K. asserts its intention to defend its territories in the Pacific, if withdrawal in Asia should mean inability to continue these responsibilities, this would involve Australia and New Zealand (possibly in conjunction with the U.S. and France) in greater defence commitments in the Pacific.
 
-_(b) Britain and SEATO_
+ _(b) Britain and SEATO_
 
-_I. Pre 1967 Assumptions_
+ _I. Pre 1967 Assumptions_
 
 Australia has long been aware that Britain did not regard its membership of SEATO as of major importance. Vital British interests have not been concerned in SEATO. SEATO as an organisation is generally regarded with disfavour or scant respect by the British public, and consequently the British Government has not been anxious to become involved in military action under SEATO (e.g. Laos 1961/2 and Viet Nam). The British have, however, maintained an active commitment, centred on the 28 Commonwealth Brigade, to SEATO Military Plans. Australia has always assumed that Britain would honour its SEATO commitments and Australian planning for SEATO has been based on a joint British, Australian, New Zealand force worked out under ANZAM arrangements.
 
-_II. Post July 1967 Assumptions_
+ _II. Post July 1967 Assumptions_
 
 With the withdrawal of ground forces from South East Asia, Britain’s commitment to SEATO Plans is to be revised, present indications being that it will eventually consist of mobile forces capable of deployment to South East Asia from outside the region. The Defence White Paper stated that Britain would ‘continue to honour our obligations under SEATO’.
 
 Apart from the specific problem of the Commonwealth Brigade, Australia’s assumptions regarding Britain’s commitment to SEATO have been changed by the British withdrawal. Britain will be even more reluctant to become involved in military operations in South East Asia in future. Indeed, it is arguable that the British are seeking to shed their commitments not by negotiation, but simply by making themselves unable to carry them out. For reasons of solidarity with the Anglo-American alliance, Britain would probably feel obliged to make a token contribution to a SEATO Plan 4 situation (defence of the treaty area against attack by Communist China and North Viet Nam). But it is increasingly improbable that Britain would in future become significantly involved in any such conflict.
 
-_(c) Britain and Indonesia_
+ _(c) Britain and Indonesia_
 
-_I. Pre 1967 Assumptions_
+ _I. Pre 1967 Assumptions_
 
 Assumptions about British policy towards Indonesian aggression are implicit in the passage quoted at (a) above. The following additional specific comments could be made:
 
@@ -124,7 +127,7 @@ Assumptions about British policy towards Indonesian aggression are implicit in t
 
 
 
-_II. Post July 1967 Assumptions_
+ _II. Post July 1967 Assumptions_
 
   1. We may assume that in the event of overt Indonesian aggression against either Malaysia or Australia, Britain will intervene;
   2. We should assume that in the event of covert aggression against Malaysia, particularly in a situation where the attitude of the Malaysian people toward Indonesia and this aggression is uncertain, Britain will endeavour by diplomatic means to avoid physical involvement;
@@ -135,7 +138,7 @@ _II. Post July 1967 Assumptions_
 
 
 
-_(d) Britain and Malaysia_
+ _(d) Britain and Malaysia_
 
 This has been covered in (a) and (c) above. Britain has given assurances of its continuing acceptance of its treaty responsibilities for Malaysia’s (and in effect for Singapore’s) defence. In making assumptions about the future we need perhaps to distinguish the following cases:
 
@@ -159,21 +162,21 @@ This has been covered in (a) and (c) above. Britain has given assurances of its 
 
 Though temporarily sympathetic to Singapore, Britain would probably confine itself to activities of a diplomatic nature.
 
-_(e) British Unwillingness to put Land Forces into Asia_
+ _(e) British Unwillingness to put Land Forces into Asia_
 
-_I. Pre 1967 Assumptions_
+ _I. Pre 1967 Assumptions_
 
 We have for long been aware of Britain’s reluctance to become involved in any major conflict in South East Asia. Britain would in particular avoid any kind of physical entanglement in Indo-China, in the Kashmir conflict, and would not seek to defend Hong Kong (other than in a temporary holding sense) against attack from China. We have, however, seen Britain intervene forcefully in Korea, Malaysia and the Persian Gulf and she has had until now a significant ground and other military capability deployed in Singapore/Malaysia.
 
-_II. Post July 1967 Assumptions_
+ _II. Post July 1967 Assumptions_
 
 Bearing in mind the reservations set out above, we should assume that Britain will seek to avoid involvement in any form of conflict in South East Asia except in the event of overt Indonesian aggression against a united Malaysia, and except for a token contribution to a Plan 4 situation. In these exceptional cases, Britain would, at least initially, seek to confine her involvement to air and naval forces. She will, as far as possible, seek to ensure that the bulk of the land forces engaged in any defensive action, with which she might be associated, will be Asian.
 
-_(f) Britain and the Indian Ocean_
+ _(f) Britain and the Indian Ocean_
 
-_I. Pre 1967 Assumptions_
+ _I. Pre 1967 Assumptions_
 
-The British, in developing the concept of the B.I.O.T.,2 saw it (and Gan3 and Masira)4 as part of a potential ‘all red route’ to East Africa, the Arabian area and Asia, and in the case of Aldabra as a jumping off point for peace-keeping operations in Africa, Mauritius and the Middle East.
+The British, in developing the concept of the B.I.O.T.,[2](#f2) saw it (and Gan[3](#f3) and Masira)[4](#f4) as part of a potential ‘all red route’ to East Africa, the Arabian area and Asia, and in the case of Aldabra as a jumping off point for peace-keeping operations in Africa, Mauritius and the Middle East.
 
 The Defence Committee considered and endorsed a paper on Australian Strategic interests in Africa and the Indian Ocean in April, 1965. The principal passages relating to the B.I.O.T. were as follows:
 
@@ -186,25 +189,25 @@ The Defence Committee considered and endorsed a paper on Australian Strategic in
 
 > Britain will have a vital interest in these Indian Ocean facilities as long as she retains a presence east of Suez.’
 
-_II. Post July 1967 Assumptions_
+ _II. Post July 1967 Assumptions_
 
 British Indian Ocean territories (or quasi-territories) are at present Mauritius, the Seychelles, Socotra, Masira, the B.I.O.T. and Gan. It is unlikely that there will be any requirement in the foreseeable future to defend them against external attack. What is more likely is the development of a serious internal security situation through racial troubles (Mauritius), political differences (Socotra) or anti-British agitation (Gan). We cannot assume that Britain will wish to become seriously involved in any such situations. Masira may be an exception in that, after Britain leaves Aden, this will be an important staging point for the Persian Gulf. Masira is likely to retain its importance until the mid-seventies. Likewise Gan, which is of some significance for Singapore. Maldivian pressure on Britain to leave Gan before this time is unlikely but if it were to develop, might not meet with much resistance. The situation in the B.I.O.T. islands could be different, as their populations are very small and largely transient. In theory they are important for British mobile strategy, but in practice the West about route (via the U.S.A.) would probably be of greater importance in the event of major conflict in South East Asia, and in any case, if and when construction on Aldabra will commence, remains uncertain [sic].
 
-_(g) British Attitude to Co-operation in the Region_
+ _(g) British Attitude to Co-operation in the Region_
 
-_I. Pre 1967 Assumptions_
+ _I. Pre 1967 Assumptions_
 
 Australia assumed that Britain accepted there was a division of primary responsibility for Western assistance in the defence of South East Asia between the U.S.A. (which would cover the Pacific area, including any seaborne threat to Commonwealth territories in the Pacific, Indo-China and Thailand) and the ANZAM countries (which would cover the Malaysian area). We also assumed that, while Britain favoured the development of regional co-operation between the countries of the area and the progressive expansion of their capacity to defend themselves, she also accepted that for some considerable time to come, in view of the threat from China and instability within the region, there would be a need for extensive external assistance in defence. We assumed that Britain believed a significant Western military presence in the area was necessary to ensure stability and to act as a guarantee that assistance would be forthcoming in time of need.
 
-_II. Post July 1967 Assumptions_
+ _II. Post July 1967 Assumptions_
 
 Britain is in effect now saying that primary responsibility for the defence of the area must rest with the countries in it. British assistance should be regarded as something supplementary. In particular, Britain should concentrate on the provision of sea and air support. The assumptions that follow from this are those outlined under the heading above.
 
-_(h) British Choice of Europe as Being More important Than Asia_
+ _(h) British Choice of Europe as Being More important Than Asia_
 
 Some general factors relating to this theme were outlined in the introduction of this paper.
 
-_I. Pre 1967 Assumptions_
+ _I. Pre 1967 Assumptions_
 
 The 1966 British Defence Review included the following passages:
 
@@ -212,7 +215,7 @@ The 1966 British Defence Review included the following passages:
 
 We have always assumed that the major defence role played by Britain in Arabia, the Persian Gulf and South East Asia would in time diminish. We have assumed, however, in effect that significant forces would be maintained in at least the latter two areas until a satisfactory balance of indigenous forces had been obtained.
 
-_11\. Post July 1967 Assumptions_
+ _11\. Post July 1967 Assumptions_
 
 Britain maintains in its latest Defence Statement that it will continue to play a role outside Europe and have forces to match its remaining commitments. We may assume that this will be so, and that Britain will honour these commitments. However, given the nature of present day aggression, there is wide scope for differences of interpreting the meaning of a particular commitment. Britain’s developing ties with Europe and her strong concern with unproductive overseas expenditure suggest that where the commitment concerns a friend or ally, rather than a dependent territory, and the kind of threat to which it is exposed is obscure, then Britain will be reluctant to accept any prompt commitment of physical support.
 
@@ -231,3 +234,5 @@ The economic aspects of this question require a separate study. In terms of defe
 3  See Document 1, note 3.
 
 4  Masira (now Masirah), an island off the east coast of Oman facing the Indian Ocean.
+
+[NAA: Al838, TS691/1 PART 13]

@@ -1,12 +1,17 @@
 ---
-title: "169 Mr N. Chamberlain, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 935
+doc_date: '1940-04-22'
+doc_num: 169
+doc_order: 169
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2661]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-22
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 169 Mr N. Chamberlain, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram D145 LONDON, 22 April 1940, 5.15 p.m.
 
@@ -22,10 +27,10 @@ Following from Prime Minister for Prime Minister- We have been considering furth
 
 5\. If it is decided to hold such a conference, it would, I think, be desirable that every precaution should be taken on security grounds to keep the intention secret as long as possible.
 
-_
+ _
 
 1 See Documents on Australian Foreign Policy 1937-49, vol. II, Document 240.
 
 _
 
-_ [FA: A3195, 1.2661]_
+ _[FA: A3195, 1.2661]_

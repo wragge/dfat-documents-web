@@ -1,12 +1,17 @@
 ---
-title: "279 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 278
+doc_date: '1938-09-26'
+doc_num: 279
+doc_order: 278
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-26
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 279 Note of Meeting of U.K. and Dominions Representatives
 
 Extracts LONDON, 26 September 1938, 10.15 a.m.
 
@@ -44,7 +49,7 @@ It was accordingly agreed to defer the question of taking this action.
 
 The High Commissioners all indicated that if it did come to war, the Dominions would, however reluctantly, be in sooner or later on the side of the United Kingdom.
 
-_
+ _
 
 1 Not printed; see Document 274, note 2.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

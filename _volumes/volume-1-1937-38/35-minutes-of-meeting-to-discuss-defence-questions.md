@@ -1,12 +1,17 @@
 ---
-title: "35 Minutes of Meeting to discuss Defence Questions"
-volume: "Volume 1: 1937-38"
-doc_id: 35
+doc_date: '1937-06-01'
+doc_num: 35
+doc_order: 35
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 197]'
+title: Minutes of Meeting to discuss Defence Questions
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-01
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 35 Minutes of Meeting to discuss Defence Questions
 
 2 WHITEHALL GARDENS, LONDON, 1 June 1937, 9.30 a.m.
 
@@ -266,7 +271,7 @@ It was agreed:-
 
 (b) That a further meeting should be held at 3.00 p.m. on Monday 7th June, at which the discussion would be resumed. [7]
 
-_
+ _
 
 1 Document 20.
 
@@ -284,4 +289,4 @@ _
 
 _
 
-_ [DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 197]_
+ _[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 197]_

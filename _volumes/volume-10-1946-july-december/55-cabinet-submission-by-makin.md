@@ -1,12 +1,17 @@
 ---
-title: "55 Cabinet Submission by Makin"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3903
+doc_date: '1946-08-06'
+doc_num: 55
+doc_order: 55
+naa_refs:
+- naa_barcode: 11161622
+  naa_control_symbol: VOLUME 29
+  naa_series: A2700
+  reference: '[AA:A2700, VOL. 29]'
+title: Cabinet Submission by Makin
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-08-06
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 55 Cabinet Submission by Makin
 
 Agendum 1228 [CANBERRA, 6 August 1946]
 
@@ -58,7 +63,7 @@ ARTICLE 6 The Administering Authority further undertakes to apply in the Territo
 
 ARTICLE 7 The Administering Authority may take all measures in the Territory which it considers desirable to provide for the defence of the Territory and for the maintenance of international peace and security.
 
-_
+ _
 
 1 Not published here.
 
@@ -70,4 +75,4 @@ _
 
 _
 
-_ [AA:A2700, VOL. 29]_
+ _[AA:A2700, VOL. 29]_

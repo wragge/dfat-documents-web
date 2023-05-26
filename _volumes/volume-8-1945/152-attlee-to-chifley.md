@@ -1,16 +1,22 @@
 ---
-title: "152 Attlee to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3183
+doc_date: '1945-08-01'
+doc_num: 152
+doc_order: 152
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE,
+    D1157-3/7/45 to D2033-2/11/45, I.24796/95]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-01
+vol_title: 'Volume 8: 1945'
 ---
-
-# 152 Attlee to Chifley
 
 Cablegram D1342 LONDON, 1 August 1945, 7.46 p.m.
 
-MOST IMMEDIATE TOP SECRET &amp; PERSONAL
+MOST IMMEDIATE TOP SECRET & PERSONAL
 
 As the Berlin Conference draws to its close I am sending you this personal message from myself to supplement the final report which will be telegraphed to you as soon as it is settled.
 
@@ -40,7 +46,7 @@ You will, I know, give the documents we have produced your most earnest consider
 
 Moreover, if you wish, the Foreign Secretary will be ready to discuss each item with the High Commissioners in London.
 
-_ STATE, D1157-3/7/45 to D2033-2/11/45, I.24796/95]
+ _
 
 1 See part X of the Report on the Tripartite Conference of Berlin, 2 August 1945, on file AA : A1066, H45/1016/5. The Report is published in U.S. Department of State, Foreign Relations of the United States, The Conference of Berlin (Potsdam) 1945, 1960, vol.
 
@@ -50,4 +56,4 @@ II, PP. 14991512.
 
 _
 
-_ [AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF_
+ _[AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE, D1157-3/7/45 to D2033-2/11/45, I.24796/95]_

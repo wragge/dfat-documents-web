@@ -1,12 +1,17 @@
 ---
-title: "416 Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2170
+doc_date: '1942-03-17'
+doc_num: 416
+doc_order: 417
+naa_refs:
+- naa_barcode: 176565
+  naa_control_symbol: GREA 13
+  naa_series: A981
+  reference: '[AA:A981, GREAT BRITAIN 13B]'
+title: Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-17
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 416 Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States
 
 Cablegram SW16 CANBERRA, 17 March 1942
 
@@ -20,10 +25,10 @@ Having regard to all the circumstances the wishes of the Commonwealth Government
 
 CURTIN
 
-_
+ _
 
 1 Document 414.
 
 _
 
-_ [AA:A981, GREAT BRITAIN 13B]_
+ _[AA:A981, GREAT BRITAIN 13B]_

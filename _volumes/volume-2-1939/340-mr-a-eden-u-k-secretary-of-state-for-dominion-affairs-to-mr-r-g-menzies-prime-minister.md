@@ -1,12 +1,18 @@
 ---
-title: "340 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 677
+doc_date: '1939-11-09'
+doc_num: 340
+doc_order: 340
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 340 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram D68 LONDON, 9 November 1939, 10.15 p.m.
 
@@ -36,7 +42,7 @@ Accordingly it may be necessary to contemplate some form of closer association, 
 
 8\. These are the preliminary comments of His Majesty's Government on the approach made by the French Government. His Majesty's Government will welcome a further exchange of views with the French Government and will be glad to consider any proposals which the French Government have to make both in regard to the terms on which peace should be concluded With Germany and the wider European settlement which might follow the termination of hostilities.
 
-_
+ _
 
 1 Document 339.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

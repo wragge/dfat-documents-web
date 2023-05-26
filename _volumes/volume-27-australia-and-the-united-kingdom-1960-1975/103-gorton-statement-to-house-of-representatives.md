@@ -1,14 +1,17 @@
 ---
-title: "103 GORTON, STATEMENT TO HOUSE OF REPRESENTATIVES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9968
+doc_date: '1969-02-25'
+doc_num: 103
+doc_order: 103
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 13/2494]'
+title: GORTON, STATEMENT TO HOUSE OF REPRESENTATIVES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1969-02-25
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 103 GORTON, STATEMENT TO HOUSE OF REPRESENTATIVES
-
-UKNA: PREM 13/2494
 
 Canberra, 25 February 1969
 
@@ -33,7 +36,7 @@ Therefore these are the goals which Australia, through diplomatic effort, throug
 
 For this is fundamental to the Australian Government’s approach—a positive, co-operative effort to encourage and assist peaceful change and progress.
 
-Yet just as _ultimate_2 stability depends on progress and rising standards of living—so does the possibility of progress depend on maintaining _immediate_ stability. And provision for defence is necessary to help provide that immediate stability.
+Yet just as _ultimate_[2](#f2) stability depends on progress and rising standards of living—so does the possibility of progress depend on maintaining _immediate_ stability. And provision for defence is necessary to help provide that immediate stability.
 
 Indeed helping, in conditions of stability to accelerate progress, and helping by military means to preserve conditions of stability are two sides of the one coin.
 
@@ -166,12 +169,14 @@ This study is still proceeding.
 
 But I commend to the House the decisions here announced that we are prepared to provide to the region in which we live military assistance for which they have asked—military assistance visible to them—and an assurance that both we and they share a common purpose in being prepared to combat that Communist inspired military subversion which our advisors consider to pose the major threat to the region.
 
-****
+ ****
 
 Lord Carrington’s visit to Australia
 
-_Lord Carrington was Defence Secretary in the Conservative Government elected in Britain in June 1970. In opposition the Conservatives had pledged themselves to reverse some of the Labour Government’s decisions on military withdrawal from the Persian Gulf and Southeast Asia. This did not mean a halt to the process of withdrawal. Instead, in office, the Conservatives presided over arrangements for a residual UK presence to remain in both regions. Carrington visited Singapore, Malaysia, Australia and New Zealand in July and August 1970. As a result the UK agreed to provide, East of Suez including Hong Kong, five frigates/destroyers, one of which might be a guided missile destroyer; a UK battalion with an air platoon; an artillery battery; an engineer troop; one flight of six Whirlwind helicopters; and up to four Nimrod long-range maritime reconnaissance aircraft. With the exception of the forces based at the Commonwealth Jungle Warfare Centre in Malaysia (a joint scheme in which the UK had agreed to participate as it provided training experience), UK forces (numbering 4,500) would be based at Singapore. Additionally, at the request of its allies, the UK agreed to provide the additional commitments of a submarine (contingent on the provision by the Australians of a submarine presence in the area), the occasional detachment of medium-range transport aircraft, and a small number of personnel for the proposed Integrated Air Defence System. The budgetary cost, estimated to fall within the lower range, was £5 million–£10 million per year during the first three years, and could be contained within agreed defence ceilings. A new Five-Power arrangement for the defence of Malaysia and Singapore was agreed in London in April 1971 by Britain, Australia, New Zealand and the two countries concerned. A Joint Air Defence Council was set up, together with a Joint Consultative Council to provide a regular forum for discussion at senior officer level. The automatic commitment to act in the event of an emergency under the Anglo-Malaysian Defence Agreement was superseded in November 1971 by an obligation only to consult._
+ _Lord Carrington was Defence Secretary in the Conservative Government elected in Britain in June 1970. In opposition the Conservatives had pledged themselves to reverse some of the Labour Government’s decisions on military withdrawal from the Persian Gulf and Southeast Asia. This did not mean a halt to the process of withdrawal. Instead, in office, the Conservatives presided over arrangements for a residual UK presence to remain in both regions. Carrington visited Singapore, Malaysia, Australia and New Zealand in July and August 1970. As a result the UK agreed to provide, East of Suez including Hong Kong, five frigates/destroyers, one of which might be a guided missile destroyer; a UK battalion with an air platoon; an artillery battery; an engineer troop; one flight of six Whirlwind helicopters; and up to four Nimrod long-range maritime reconnaissance aircraft. With the exception of the forces based at the Commonwealth Jungle Warfare Centre in Malaysia (a joint scheme in which the UK had agreed to participate as it provided training experience), UK forces (numbering 4,500) would be based at Singapore. Additionally, at the request of its allies, the UK agreed to provide the additional commitments of a submarine (contingent on the provision by the Australians of a submarine presence in the area), the occasional detachment of medium-range transport aircraft, and a small number of personnel for the proposed Integrated Air Defence System. The budgetary cost, estimated to fall within the lower range, was £5 million–£10 million per year during the first three years, and could be contained within agreed defence ceilings. A new Five-Power arrangement for the defence of Malaysia and Singapore was agreed in London in April 1971 by Britain, Australia, New Zealand and the two countries concerned. A Joint Air Defence Council was set up, together with a Joint Consultative Council to provide a regular forum for discussion at senior officer level. The automatic commitment to act in the event of an emergency under the Anglo-Malaysian Defence Agreement was superseded in November 1971 by an obligation only to consult._
 
 1 Downer conveyed this statement to Wilson on the same day.
 
 2 Emphasis throughout in original.
+
+[UKNA: PREM 13/2494]

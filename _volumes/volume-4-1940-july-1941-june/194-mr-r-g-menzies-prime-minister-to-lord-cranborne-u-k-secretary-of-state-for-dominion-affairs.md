@@ -1,12 +1,18 @@
 ---
-title: "194 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1425
+doc_date: '1940-11-08'
+doc_num: 194
+doc_order: 194
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.8590]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 194 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 580 8 November 1940,
 
@@ -20,7 +26,7 @@ I therefore concur in the selection for Crete of Australian troops now retained 
 
 As you are aware from earlier advices of the importance which we attach to the units of the A.I.F. serving in an Australian Corps under their own Commanders, it is assumed that, when the Forces at the disposal of the Commander-in-Chief, Middle East, become adequate for the purpose, the replacement of our units will be arranged.
 
-_
+ _
 
 1 Peter Fraser.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.8590]_
+ _[AA:A3196, 1940, 0.8590]_

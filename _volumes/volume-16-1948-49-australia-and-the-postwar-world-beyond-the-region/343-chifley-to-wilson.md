@@ -1,13 +1,17 @@
 ---
-title: "343 Chifley to Wilson"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7058
+doc_date: '1948-08-04'
+doc_num: 343
+doc_order: 343
+naa_refs:
+- naa_barcode: 570210
+  naa_control_symbol: 703/5/5
+  naa_series: A1838
+  reference: '[AA : A1838, 703/5/5]'
+title: Chifley to Wilson
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-08-04
-barcode: 570210
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 343 Chifley to Wilson
 
 Cablegram 709, CANBERRA, 4 August 1948, 6.20 p.m.
 
@@ -65,13 +69,13 @@ C. Request E.R.P. recipients other than United Kingdom to pay in E.C.A. dollars 
 
 14\. On question of further aid from Australia to United Kingdom and Europe generally raised by Bissell (see telegram No. 707) and in publicity statement by E.C.A. spokesman (this has not been featured in Australian press and I do not intend to make any public reply) I feel there is a lack of understanding in American circles of Australian position and also of what Australia has in fact done and is doing. My following telegram[7] sets out points which you might use (together with any additional points of your own) in an attempt to remove these misunderstandings. It also covers paragraph 2 of your 876.[8] It might also be useful if you were to brief local United Kingdom representatives along these lines.
 
-15\. This still leaves question of whether Australia should make any specific gestures to E.R.P. recipients other than United Kingdom. For your confidential information and not for use in discussions, my present feeling is that, if necessary, and in appropriate circumstances, we could consider small short or medium term wool credits to European countries such as France, Italy and Czechoslovakia up to an aggregate of �5 millions. Any proposal for grants (as distinct from credits) would be difficult here and even giving of credits should appear as measures of help to United Kingdom (and perhaps on request from them) and not as result of American pressure. I would be glad to have your comments on this aspect. I am also asking McFarlane to discuss this question in London with views to ascertaining whether United Kingdom authorities consider it would make any contribution to the problem.
+15\. This still leaves question of whether Australia should make any specific gestures to E.R.P. recipients other than United Kingdom. For your confidential information and not for use in discussions, my present feeling is that, if necessary, and in appropriate circumstances, we could consider small short or medium term wool credits to European countries such as France, Italy and Czechoslovakia up to an aggregate of £5 millions. Any proposal for grants (as distinct from credits) would be difficult here and even giving of credits should appear as measures of help to United Kingdom (and perhaps on request from them) and not as result of American pressure. I would be glad to have your comments on this aspect. I am also asking McFarlane to discuss this question in London with views to ascertaining whether United Kingdom authorities consider it would make any contribution to the problem.
 
 16\. With regard to American suggestion that we should borrow from Export-Import Bank reported in your 876, I confirm that Government policy is strongly opposed to borrowing of any sort, particularly dollar borrowing.
 
 17\. I am repeating these messages to McFarlane.
 
-_ [1] Document 340.
+ _[1] Document 340.
 
 [2] An error in paragraph numbering is apparent here.
 
@@ -89,4 +93,4 @@ _ [1] Document 340.
 
 _
 
-_ [ [AA : A1838, 703/5/5](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=570210) ]_
+ _[AA : A1838, 703/5/5]_

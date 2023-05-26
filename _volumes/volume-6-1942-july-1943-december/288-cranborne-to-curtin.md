@@ -1,12 +1,17 @@
 ---
-title: "288 Cranborne to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2579
+doc_date: '1943-09-29'
+doc_num: 288
+doc_order: 288
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/85/2/1]'
+title: Cranborne to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-09-29
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 288 Cranborne to Curtin
 
 Cablegram 281 LONDON, 29 September 1943, 10.55 a.m.
 
@@ -20,7 +25,7 @@ We hope that you will read our telegram D. No. 664 in the light of this explanat
 
 Position now is that as you will see from my telegram D. No. 709 [4] we expect that question of Austria will come up for discussion at the forthcoming meeting of Foreign Ministers at Moscow. You will since have received my despatch of 8th August D. No. 67, containing a memorandum which sets out in full our reasons for our proposed line in regard to Austria [5] and we hope that we may now feel the Commonwealth Government are in general agreement with our taking this line in preliminary discussions at Moscow. [6]
 
-_
+ _
 
 1 See Document 286, note 1.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A989, 44/85/2/1]_
+ _[AA:A989, 44/85/2/1]_

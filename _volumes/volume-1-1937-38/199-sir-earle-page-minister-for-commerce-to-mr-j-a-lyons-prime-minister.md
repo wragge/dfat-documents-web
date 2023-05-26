@@ -1,12 +1,17 @@
 ---
-title: "199 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 198
+doc_date: '1938-05-17'
+doc_num: 199
+doc_order: 198
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-17
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 199 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 17 May 1938, 5.40 p.m.
 
@@ -18,7 +23,7 @@ If communication to Japanese Consul-General [2] mentioned in your telegram has b
 
 PAGE
 
-_
+ _
 
 1 Document 198.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

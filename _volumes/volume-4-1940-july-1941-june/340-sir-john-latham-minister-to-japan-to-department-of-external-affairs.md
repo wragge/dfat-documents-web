@@ -1,14 +1,19 @@
 ---
-title: "340 Sir John Latham, Minister to Japan, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1571
+doc_date: '1941-03-07'
+doc_num: 340
+doc_order: 340
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3830, 1941, 608]'
+title: Sir John Latham, Minister to Japan, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 340 Sir John Latham, Minister to Japan, to Department of External Affairs
-
-## Cablegram 122 TOKYO, 7 March 1941, 6.25 p.m.
+Cablegram 122 TOKYO, 7 March 1941, 6.25 p.m.
 
 I have seen your telegrams 62 [1] and 109 [2] to Dominions Office and Dominions Office telegram No. 110 [3] to you and gathered from your telegram 109 that you are satisfied with the position.
 
@@ -20,7 +25,7 @@ With regard to Consul-General's protest, I would be glad to be informed whether 
 
 LATHAM
 
-_
+ _
 
 1 Dispatched 30 January. See file AA:A981, Trade 68, iv.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A3830, 1941, 608]_
+ _[AA:A3830, 1941, 608]_

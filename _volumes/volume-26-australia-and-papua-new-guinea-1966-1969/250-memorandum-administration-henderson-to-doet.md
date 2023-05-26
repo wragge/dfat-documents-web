@@ -1,19 +1,23 @@
 ---
-title: "250 Memorandum, Administration (Henderson) To Doet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9758
+doc_date: '1969-01-04'
+doc_num: 250
+doc_order: 250
+naa_refs:
+- naa_barcode: 11340886
+  naa_control_symbol: 1971/2197
+  naa_series: A452
+  reference: '[NAA: A452, 1971/2197]'
+title: Memorandum, Administration (Henderson) To Doet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-01-04
-barcode: 11340886
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 250 Memorandum, Administration (Henderson) To Doet
 
 Port Moresby, 4 January 1969
 
-**National unity and secessionist movements**
+ **National unity and secessionist movements**
 
-Reference your memorandum ‘National Unity’ ofNovember 19th 1968, with attachments,1 and your telex 8440 of 21st November 1968.2
+Reference your memorandum ‘National Unity’ ofNovember 19th 1968, with attachments,[1](#f1) and your telex 8440 of 21st November 1968.[2](#f2)
 
 2\. The official attitude being developed here is in line with the Minister’s view that overt Administration condemnation of secessionist movements is to be avoided, but indigenous attention needs to be consistently and objectively directed to some of the salient practical problems that would result from political fragmentation.
 
@@ -29,9 +33,9 @@ Reference your memorandum ‘National Unity’ ofNovember 19th 1968, with attach
 
 (c) Emotional appeals for national unity by the Administration are not desirable. In this connection the observation in paragraph 2 of your memorandum under reference, that the adoption of too strong a position in support of national unity could be counter productive, is considered to be valid.
 
-6\. It is considered that the current movements on New Britain and New Ireland are not at present matters for major concern, but that care will need to be taken to avoid them developing an emotional content. The situation on Bougainville, which has its seeds in local factors going back many years, already exhibits some emotionalism and will be more difficult to handle. As you are aware, it is intended to pay some special attention to the Bougainville district within the next few weeks.3
+6\. It is considered that the current movements on New Britain and New Ireland are not at present matters for major concern, but that care will need to be taken to avoid them developing an emotional content. The situation on Bougainville, which has its seeds in local factors going back many years, already exhibits some emotionalism and will be more difficult to handle. As you are aware, it is intended to pay some special attention to the Bougainville district within the next few weeks.[3](#f3)
 
-[ [NAA: A452, 1971/2197](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=11340886) ]
+[NAA: A452, 1971/2197]
 
 1 Document 242.
 

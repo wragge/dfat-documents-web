@@ -1,12 +1,17 @@
 ---
-title: "334 McFarlane to Dunk"
-volume: "Volume 7: 1944"
-doc_id: 2981
+doc_date: '1944-11-03'
+doc_num: 334
+doc_order: 334
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, V]'
+title: McFarlane to Dunk
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-03
+vol_title: 'Volume 7: 1944'
 ---
-
-# 334 McFarlane to Dunk
 
 Cablegram 1730 [1] CANBERRA, 3 November 1944
 
@@ -38,7 +43,7 @@ possible to make provision on the prescribed standard for the essential needs of
 
 9\. My present feeling is that if discussions in Washington were purely on question of extension of area there would be no advantage and some disadvantages in our taking the initiative. It might be best for Australia to retain the present formal limitation and continue to determine the scope of our Reciprocal Aid on lines agreed between the Prime Minister and General MacArthur from time to time.
 
-_
+ _
 
 1 Sent through the Legation in Washington.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA:A571, L41/915A, V]_
+ _[AA:A571, L41/915A, V]_

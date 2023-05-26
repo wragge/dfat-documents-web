@@ -1,12 +1,18 @@
 ---
-title: "191 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 528
+doc_date: '1939-09-03'
+doc_num: 191
+doc_order: 191
+naa_refs:
+- naa_barcode: 178458
+  naa_control_symbol: LEAGUE PCIJ 21
+  naa_series: A981
+  reference: '[AA: A981, L OF N, PCIJ 21]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-03
+vol_title: 'Volume 2: 1939'
 ---
-
-# 191 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular Cablegram B328 LONDON, 3 September 1939, 8 p.m. [1]
 
@@ -40,7 +46,7 @@ This situation, so fundamentally changed from that which existed at the time of 
 
 SECDO
 
-_
+ _
 
 1 The Dominions Office copy gave the time of dispatch as 5.30 p.m.
 
@@ -64,4 +70,4 @@ The Dominions Office copy read 'demonstrated that the means of ensuring peace'.
 
 _
 
-_ [AA: A981, L OF N, PCIJ 21]_
+ _[AA: A981, L OF N, PCIJ 21]_

@@ -1,12 +1,17 @@
 ---
-title: "163 Rivett to Smith"
-volume: "Volume 7: 1944"
-doc_id: 2810
+doc_date: '1944-05-23'
+doc_num: 163
+doc_order: 163
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 3]'
+title: Rivett to Smith
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-23
+vol_title: 'Volume 7: 1944'
 ---
-
-# 163 Rivett to Smith
 
 Letter [MELBOURNE], 23 May 1944
 
@@ -24,7 +29,7 @@ Anything I can personally do to facilitate this work will be undertaken at once.
 
 I should much appreciate it if you would keep me fully informed of the progress of events. [8]
 
-_
+ _
 
 1 Smith asked for advice as to what plant, equipment and finance would be required for research into concentrating uranium ore at Mount Painter and chemically processing ore at Radium Hill. See Smith's letter to Rivett of 22 May on file CSIRO: Series 380, item 3.
 
@@ -46,4 +51,4 @@ Oliphant and later Dr Eric Burhop, who were connected with the Manhattan Project
 
 _
 
-_ [CSIRO ARCHIVES:SERIES 380, ITEM 3]_
+ _[CSIRO ARCHIVES:SERIES 380, ITEM 3]_

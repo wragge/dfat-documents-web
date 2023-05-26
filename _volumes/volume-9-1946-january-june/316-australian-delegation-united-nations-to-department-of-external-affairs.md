@@ -1,12 +1,17 @@
 ---
-title: "316 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3828
+doc_date: '1946-06-18'
+doc_num: 316
+doc_order: 316
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1015763/52]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-18
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 316 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram United Nations 210 NEW YORK, 18 June 1946, 9.32 p.m.
 
@@ -38,7 +43,7 @@ Reference of the matters to the Assembly would be avoidance of duty and would de
 
 9\. Finally, the Polish representative endeavoured to have a vote taken on his original resolution of 17th April calling for a breach of diplomatic relations. Australia opposed any snap decision on this resolution and the Council then adjourned until Monday. If the Polish resolution is put to a vote it is certain it will be defeated.
 
-_
+ _
 
 1 See Document 288, paragraph 5.
 
@@ -54,4 +59,4 @@ Mission copy on file SFU : Evatt Collection, External Affairs- Original File (a)
 
 _
 
-_ [AA:A3195, 1946, 1015763/52]_
+ _[AA:A3195, 1946, 1015763/52]_

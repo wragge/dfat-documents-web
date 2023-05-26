@@ -1,23 +1,27 @@
 ---
-title: "110 Submission, Ballard To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9618
+doc_date: '1967-05-19'
+doc_num: 110
+doc_order: 110
+naa_refs:
+- naa_barcode: 3111643
+  naa_control_symbol: 1967/1700
+  naa_series: A452
+  reference: '[NAA: A452, 1967/1700]'
+title: Submission, Ballard To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-05-19
-barcode: 3111643
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 110 Submission, Ballard To Barnes
 
 Canberra, 19 May 1967
 
 Secret
 
-**Visit to Papua and New Guinea by Indonesian Ambassador**
+ **Visit to Papua and New Guinea by Indonesian Ambassador**
 
-The Administrator has reported on the visit to Papua and New Guinea by the Ambassador for Indonesia, Major-General Kosasih, 1 accompanied by his Military Attache, Colonel Sudiono,2 and Third Secretary, Mr. Mozes Weror. The main points in the Administrator’s report are—
+The Administrator has reported on the visit to Papua and New Guinea by the Ambassador for Indonesia, Major-General Kosasih, [1](#f1) accompanied by his Military Attache, Colonel Sudiono,[2](#f2) and Third Secretary, Mr. Mozes Weror. The main points in the Administrator’s report are—
 
-(i) There was an orderly demonstration at the airport on April 13th by approximately 50 West Irianese, numbers of whom carried banners protesting about the Indonesian depredations and mal-administration in West Irian;3
+(i) There was an orderly demonstration at the airport on April 13th by approximately 50 West Irianese, numbers of whom carried banners protesting about the Indonesian depredations and mal-administration in West Irian;[3](#f3)
 
 (ii) The interest expressed in economic development in Papua and New Guinea;
 
@@ -55,7 +59,7 @@ The Administrator has reported on the visit to Papua and New Guinea by the Ambas
 
 5\. Submitted for your information.
 
-[ [NAA: A452, 1967/1700](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3111643) ]
+[NAA: A452, 1967/1700]
 
 1 R.A. Kosasih.
 

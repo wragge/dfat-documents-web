@@ -1,12 +1,17 @@
 ---
-title: "463 The MacArthur-Northcott Agreement"
-volume: "Volume 8: 1945"
-doc_id: 3494
+doc_date: '1945-12-18'
+doc_num: 463
+doc_order: 463
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, Box 1699]'
+title: The MacArthur-Northcott Agreement
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-12-18
+vol_title: 'Volume 8: 1945'
 ---
-
-# 463 The MacArthur-Northcott Agreement
 
 Extracts TOKYO, 18 December 1945
 
@@ -50,10 +55,10 @@ J. NORTHCOTT, R.J. MARSHALL, Lieutenant General, A.I.F., Major General, G.S.C., 
 
 Commonwealth Force Supreme Commander for the Allied Powers.
 
-_
+ _
 
 1 This agreement was acceptable to the Commonwealth Govt. See Chifley's cablegram 462 to Addison, dispatched 19 December, on file AA : A816, 52/301/223.
 
 _
 
-_ [AA : A5954, Box 1699]_
+ _[AA : A5954, Box 1699]_

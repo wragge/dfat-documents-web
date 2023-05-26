@@ -1,12 +1,17 @@
 ---
-title: "219 Commonwealth Government to Fraser"
-volume: "Volume 7: 1944"
-doc_id: 2866
+doc_date: '1944-07-12'
+doc_num: 219
+doc_order: 219
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/832/1, ii]'
+title: Commonwealth Government to Fraser
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 219 Commonwealth Government to Fraser
 
 Cablegram 141 CANBERRA, 12 July 1944
 
@@ -24,7 +29,7 @@ Negotiations since the October talks [2] in London appear to have developed in a
 
 2\. We think you should speak frankly to the United Kingdom Government along the lines of our telegram 72 of 28th May [3] (telegram 102 to New Zealand) stating plainly that we could not be expected to regard an International Agreement along the lines of the Berle memorandum [4] as satisfactory; and that we think the United States aims as disclosed in the Agenda for the Indian talks in D.951 [5] and by the account of the Chinese talks in D.973 depart even further than the Berle memorandum from the spirit of the United Kingdom draft convention. [6] We never regarded the United Kingdom draft convention as more than the bare minimum of international collaboration, nor have we accepted it, but even this draft appears in danger of being discarded. 3. It is our view that unless we achieve a large degree of international collaboration now, vested operating interests will be set up to endanger future consideration of the subject. Failure to collaborate in this field or to apply the general principle of the United Nations Declaration [7] to civil aviation will lessen the prospects of applying those principles in other fields. Failure to achieve a measure of internationalisation will mean either commercial rivalries or acquiescence in American supremacy. In the case of Australia the present lack of transport aircraft for overseas service limits our capacity to participate in competitive services but we cannot allow ourselves to fall into a state of dependence in civil aviation. 4. Accordingly we wish to raise the question whether it is possible to make a stand for a higher measure of internationalisation than appears likely to result from American initiative. We would suggest that a further exchange of views with other British countries should precede any international conference and that we should endeavour to associate the international discussion of civil aviation more directly with the consideration of the world organisation of security. Ends.
 
-_
+ _
 
 1 Dispatched 12 June and 4 July, respectively. On file AA:A989, 43/735/832/1, ii.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/832/1, ii]_
+ _[AA:A989, 43/735/832/1, ii]_

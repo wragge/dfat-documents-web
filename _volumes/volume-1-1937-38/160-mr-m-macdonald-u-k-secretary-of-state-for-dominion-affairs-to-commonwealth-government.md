@@ -1,14 +1,20 @@
 ---
-title: "160 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 1: 1937-38"
-doc_id: 159
+doc_date: '1938-03-24'
+doc_num: 160
+doc_order: 159
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-24
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 160 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
-
-## Cablegram unnumbered LONDON, 24 March 1938
+Cablegram unnumbered LONDON, 24 March 1938
 
 Following are the more important amendments proposed in Prime Minister's statement [1]:-
 
@@ -20,10 +26,10 @@ Following are the more important amendments proposed in Prime Minister's stateme
 
 10th paragraph. Amend the fourth sentence so as to read 'The inexorable pressure of facts might well prove more powerful than formal pronouncements and in that event it would be well within the bounds of probability that other countries, besides those which were parties to the original dispute would almost immediately be involved.' 13th paragraph. Amend the first sentence so as to read 'Great Britain has repeatedly asserted the principle on which she considers the peace of the world depends. We do not believe that any stable order can be established unless by one means or other recognition can be secured for certain general principles.'
 
-_
+ _
 
 1 Document 154.
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

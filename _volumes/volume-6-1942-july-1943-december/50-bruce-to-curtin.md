@@ -1,12 +1,18 @@
 ---
-title: "50 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2341
+doc_date: '1942-09-18'
+doc_num: 50
+doc_order: 50
+naa_refs:
+- naa_barcode: 853952
+  naa_control_symbol: '139'
+  naa_series: AWM123
+  reference: '[DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE
+    No. 3, 48/1942]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-18
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 50 Bruce to Curtin
 
 Cablegram 154[A] LONDON, 18 September 1942, 12.15 a.m.
 
@@ -52,7 +58,7 @@ I regret that my efforts have been of so little avail but the difficulty of achi
 
 BRUCE
 
-_ 1 Documents 27-8.
+ _1 Documents 27-8.
 
 2 Curtin had in fact sent three messages to Roosevelt. See Documents 31 and 43 and Document 44, note 8.
 
@@ -70,6 +76,6 @@ _ 1 Documents 27-8.
 
 _
 
-_ [DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]
+ _[DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]
 
 _

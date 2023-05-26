@@ -1,14 +1,17 @@
 ---
-title: "61 TELEGRAM, COMMONWEALTH OFFICE TO BRITISH HIGH COMMISSION, CANBERRA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9926
+doc_date: '1967-04-20'
+doc_num: 61
+doc_order: 61
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 46/54]'
+title: TELEGRAM, COMMONWEALTH OFFICE TO BRITISH HIGH COMMISSION, CANBERRA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-04-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 61 TELEGRAM, COMMONWEALTH OFFICE TO BRITISH HIGH COMMISSION, CANBERRA
-
-UKNA: FCO 46/54
 
 London, 20 April 1967
 
@@ -34,8 +37,10 @@ I arranged with George Brown that he would take the opportunity of his visit to 
 
 8\. In short we need to make substantial budgetary and foreign exchange savings and to make progressive changes in our forces in the Far East within the kind of framework I have outlined. I would welcome any proposals and suggestions from you. In particular we shall wish to exchange views with you as to how best progressive reductions in our forces can be made, taking into account the future role of your own forces: the precise form of our reductions is still to be worked out. For reasons of our overall planning of public expenditure we shall need to come to a view on our future defence arrangements in the Far East, at any rate so far as the broad issues are concerned, in July. I am therefore very much looking forward to your visit in June, when we shall be able to discuss matters personally before we arrive at the point of decision. In the meantime we shall wish to consult closely with you, and, of course, with the Americans and the New Zealanders.
 
-9\. None of this as you will understand affects our firm intention to stand by Australia as Australia has stood by us in two World Wars. When Michael Stewart said this in Canberra he spoke for all of us. 1 By the mid-70s we shall be able to back this up effectively and economically—as was made clear in the 1966 Defence White Paper—through the development of transport capacity for the rapid movement of defence forces rather than through relying on large overseas establishments on the ground. You will have seen that George Brown made perfectly clear in Washington our continuing interest in the Far East. As he put it, in his speech at the opening session of the SEATO Council meeting, ‘Our association with East Asia goes back over a very long period of time. We intend to continue that association and we believe that is what the people of the area wish us to do.’
+9\. None of this as you will understand affects our firm intention to stand by Australia as Australia has stood by us in two World Wars. When Michael Stewart said this in Canberra he spoke for all of us. [1](#f1) By the mid-70s we shall be able to back this up effectively and economically—as was made clear in the 1966 Defence White Paper—through the development of transport capacity for the rapid movement of defence forces rather than through relying on large overseas establishments on the ground. You will have seen that George Brown made perfectly clear in Washington our continuing interest in the Far East. As he put it, in his speech at the opening session of the SEATO Council meeting, ‘Our association with East Asia goes back over a very long period of time. We intend to continue that association and we believe that is what the people of the area wish us to do.’
 
 Ends.
 
 1 See Document 59. 
+
+[UKNA: FCO 46/54]

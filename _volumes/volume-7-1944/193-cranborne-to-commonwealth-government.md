@@ -1,12 +1,17 @@
 ---
-title: "193 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2840
+doc_date: '1944-06-12'
+doc_num: 193
+doc_order: 193
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: no part 3
+  naa_series: A989
+  reference: '[AA:A989, 43/460/10/2, iii]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 193 Cranborne to Commonwealth Government
 
 Cablegram 135 LONDON, 12 June 1944, 2.20 p.m.
 
@@ -34,7 +39,7 @@ This can be understood since at Conference in Washington last year between Briti
 
 4\. The United Kingdom Government therefore feel justified in asking the Commonwealth Government whether on all these grounds and particularly in view of the greatly improved military situation in the South-West Pacific Area they would now be prepared to waive their objection to the repatriation of the 331 Japanese Seamen.
 
-_
+ _
 
 1 On file AA:A989, 43/460/10/2, iii. The British proposal was to exchange 1269 internees instead of the original 1600 with the Japanese Govt relinquishing their claim to the 331 Japnese merchant seamen in Australia. This proposal was first put to the Commonwealth Govt in Cranborne's cablegram 67 of 11 March (on the file cited above in this note).
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A989, 43/460/10/2, iii]_
+ _[AA:A989, 43/460/10/2, iii]_

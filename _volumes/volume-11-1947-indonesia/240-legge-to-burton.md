@@ -1,14 +1,19 @@
 ---
-title: "240 Legge to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4424
+doc_date: '1947-08-05'
+doc_num: 240
+doc_order: 240
+naa_refs:
+- naa_barcode: 197340
+  naa_control_symbol: PI47/1/1/7 PART 1
+  naa_series: A1068
+  reference: '[AA:A1068/1, P147/1/1/7, i]'
+title: Legge to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-08-05
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
 
-# 240 Legge to Burton
-
-## Minute CANBERRA, 5 August 1947
+Minute CANBERRA, 5 August 1947
 
 INDONESIAN SITUATION
 
@@ -18,10 +23,10 @@ The Indonesian Radio, Djocjakarta, announced a statement by the Indonesian Prime
 
 The actual 'Cease-Fire' order was then issued by President Soekarno. [1] According to the Dutch Radio, should Dutch soldiers still be attacked after the hour of the 'Cease-Fire', Republican fire will be answered, but no counter-measures will be taken.
 
-_
+ _
 
 1 The cease-fire order broadcast by Sukarno on Radio Djokjakarta read as follows: 'I order to all Armed Forces of the Indonesian Republic and Indonesian people in general who are fighting side by side with the Armed Forces, from this moment on to Stand Fast at your respective places and to Cease Hostilities.'
 
 _
 
-_ [AA:A1068/1, P147/1/1/7, i]_
+ _[AA:A1068/1, P147/1/1/7, i]_

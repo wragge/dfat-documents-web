@@ -1,0 +1,72 @@
+---
+doc_date: 1951-12
+doc_num: 209
+doc_order: 209
+naa_refs:
+- naa_barcode: 448653
+  naa_control_symbol: 2020/1/12 PART 1
+  naa_series: A1838
+  reference: '[NAA: 1838, 2020/1/12 part 1]'
+title: Note from Tange to Casey
+vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
+vol_id: 24
+vol_title: 'Volume 24: Australia and the Colombo Plan, 1949-1957'
+---
+
+Canberra, December 1951
+
+ **Colombo Plan**
+
+From the Australian point of view, the Plan has yet to succeed. We conceived it as a means of stimulating tangible aid (particularly from U.S.) in those countries of Asia most vulnerable to economic collapse and to Communism. We also conceived it as a means of cultivating greater mutual confidence between the Asians, who are so sensitive about their new independence and nationalism, and the 'West'.
+
+2\. Thus, the Plan was intended to cover not merely India, Pakistan, Ceylon, Malaya, Singapore, North Borneo, Sarawak and Brunei (i.e. the Commonwealth) but especially Indonesia, Burma, Thailand, Indo-China. The Philippines we also included for political reasons, feeling, however, that the U.S. would, in any event, look after them economically.
+
+3\. So far the only active participants are India, Pakistan, Ceylon and Malaya. The attitudes of Indonesia, Thailand, the Philippines and the Indo-Chinese States are described in the attachment.[1](#f1)
+
+4\. Australia and some sections of the United Kingdom, such as Malcolm MacDonald, are more enthusiastic than others about including non-Commonwealth countries. U.K. attitudes are dominated by their Treasury, whose concern quite clearly is: 
+
+(a) to get U.S. aid to Commonwealth countries to relieve the strain on sterling drawings and to provide free dollars for U.K. exports to earn;
+
+(b) to avoid fresh U.K. commitments in non-Commonwealth countries.
+
+Nevertheless, U.K. acquiescence in attempts to persuade Indonesia, Thailand and Burma to join was forthcoming.
+
+5\. In your discussions in these capitals you would have the full backing of all the Commonwealth members of the Consultative Committee in pointing out that it is not necessary for the Governments to prepare detailed six-year programmes of the kind which India, Pakistan and Ceylon were able to submit. All that is required is enough information about individual planned projects and their implications in regard to the budgets and balance of payments positions of the countries concerned to enable those countries to sit down with the other members of the Consultative Committee (Commonwealth and U.S.) to elucidate and publish the Plan and needs of the countries. Points can be made that there is in this process no interference at all in the right of each country to decide what its policy is going to be. All that the others give is friendly advice and technical help, and India, Pakistan and Ceylon welcomed this process in last year's London Meeting.
+
+6\. There can be no prior undertakings by Commonwealth countries as to the aid they might be able to give: that can only be done when the needs are demonstrated. It might be pointed out in Indonesia that the Government has withheld £2.25 million of the approved Australian contribution of £8.75 million for the first year of operation of the Plan, which it will allocate in December, 1951, when it knows what countries are interested in joining the enterprise. It might be wise to be more reticent in Bangkok, since their position is thought to be sounder and Australia may not be able to help them this year except in a very small way. We have never contemplated making any substantial contribution to the Philippines, but it is possible that we might be able to make a gesture with a small amount of money spent on some suitable technical assistance project.
+
+7\. The Governments may indicate that they are puzzled as to why they should formally join this scheme when they are already getting aid direct from the Americans and have the prospect of more aid. In certain cases this appears to extend to a fear that membership of the Consultative Committee and receipt of aid from Commonwealth contributing countries would affect the amount of aid made available by the U.S.A. under bilateral arrangements. This is not easy to deal with, but it might be said:
+
+(a) that the Americans themselves have decided to join the Consultative Committee as full members;
+
+(b) it would seem to follow that other Governments receiving American aid should join;
+
+(c) Commonwealth countries do not expect to be able to meet the total indicated needs of the South and South-East Asian countries for external assistance, and the Plan envisages co-ordination with assistance provided by other countries;
+
+(d) the Consultative Committee is a valuable way of having the principles and objectives of aid programmes discussed and of giving Asian recipient countries the opportunity to state their views. (This is a point of view which might not please the Americans, although it seems intrinsically sound.)
+
+(e) collective discussion and issue of an annual report is a most valuable way of keeping the world's attention focussed on the real needs of these countries. It could be stated that the issue of the Colombo Plan itself was instrumental in directing world interest to the area, and there is no doubt that it has had its effect on U.S. opinion, even though, at this stage, it is not positively guaranteed that Congress will, in the light of defence commitments, make substantial allocations to the area.
+
+(f) it should be stressed throughout that it is not intended that the Consultative Committee is 'screening' the programmes in the sense of making Asian countries pass some test before they receive aid; nor is there any intention of probing into domestic policy.
+
+8\. Other objections which may be met with are:
+
+(i) conditions tied to the extension of aid. The U.S.A. normally requires specific guarantees regarding the use of goods and other forms of aid, and the establishment of counterpart funds in local currencies (equivalent to the value of external aid provided) over the use of which the U.S. requires to be consulted. Recipients are inclined to regard these procedures as opening the way to interference in their domestic policies.
+
+In making its offers to India, Pakistan and Ceylon, Australia endeavoured to avoid laying down conditions to which objections might be raised by recipient countries. They were asked to confirm that the assistance given, and any local currency proceeds from ales, would be used to carry out the objectives of the Colombo Plan, namely, economic development through investment and other programmes designed to improve the welfare of the peoples of the recipient countries. They were also asked to furnish information before 30th June, 1952, on the use made of Australian aid and of any local currency proceeds from internal aid.
+
+(ii) the probability that recipient countries will be involved in local expenditure. This is likely, but the point might be made that such expenditure could be related to the selected priority projects of the countries themselves. (See paragraph 5 above.) Assistance in the financing of local expenditure is possible under the Plan, although no commitment, in this respect, can be given in advance. The effect on the budget and the extent to which projects may be unable to go forward without external assistance in this way are important considerations.
+
+It will be recalled, in particular, that the Cabinet decision on the Australian contribution limits assistance, for the present, to Australian supplies. A review is to be made at the end of the year to determine whether other forms of assistance should also be given.
+
+(iii) possible membership of the Consultative Committee by the Netherlands and France.
+
+India and Indonesia have indicated their objections. At the February meeting of the Consultative Committee it was decided privately not to issue invitations. The Netherlands has said that it would not press for membership against Indonesian objections.
+
+(iv) in regard to the Technical Co-operation Programme, a number of countries stated that a financial contribution presented a difficulty.
+
+There does not appear to be unanimity in the Technical Co-operation Council on this point, but the general feeling was that recipient countries would contribute towards the working expenses of the Bureau. Critchley considered that there was no obligation. The amount involved is not large.
+
+[NAA: 1838, 2020/1/12 part 1]
+
+1 The attachment outlined the status of each country with respect to the Colombo Plan. Indonesia, Thailand and the Philippines were not members of the Consultative Committee or the Council for Technical Cooperation. Vietnam was a member of both, Cambodia of the Council for Technical Co-operation and Laos a ember of the Consultative Committee.

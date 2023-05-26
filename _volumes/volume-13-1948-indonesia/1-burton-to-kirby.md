@@ -1,12 +1,17 @@
 ---
-title: "1 Burton to Kirby"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5268
+doc_date: '1948-01-02'
+doc_num: 1
+doc_order: 1
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1948, 0.68]'
+title: Burton to Kirby
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-01-02
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 1 Burton to Kirby
 
 Cablegram 112 CANBERRA, 2 January 1948
 
@@ -18,7 +23,7 @@ Netherlands Minister has raised with Minister again question of shipping ban [1]
 
 3\. It is very important that we should have detailed facts regarding use of economic power to control populations. We know you are convinced that economic power is being so used [3], but there is no direct evidence yet. If possible, it would be preferable if the Committee itself could examine the matter. You will appreciate the political importance of having available these facts if attempts to re-establish trade are not successful.
 
-_
+ _
 
 1 The reference is to the Waterside Workers' Federation ban on the loading and unloading of Dutch shipping in Australian ports.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A3196, 1948, 0.68]_
+ _[AA:A3196, 1948, 0.68]_

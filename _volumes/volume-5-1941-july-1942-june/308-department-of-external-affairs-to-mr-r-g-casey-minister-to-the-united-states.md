@@ -1,12 +1,17 @@
 ---
-title: "308 Department of External Affairs to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2062
+doc_date: '1942-01-27'
+doc_num: 308
+doc_order: 309
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Department of External Affairs to Mr R. G. Casey, Minister to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-27
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 308 Department of External Affairs to Mr R. G. Casey, Minister to the United States
 
 Cablegram 116 CANBERRA, 27 January 1942
 
@@ -24,7 +29,7 @@ Your 149. [1] You will have appreciated from earlier cablegrams that our anxiety
 
 6\. With reference to No. 151 [5], the JOHCU cablegrams are a series of personal messages between Prime Ministers. Your statement that representatives of British Chiefs of Staff would get copies is surprising. Advise if this has occurred.
 
-_
+ _
 
 1 Document 305 2 Chief of Staff, U.S. Army.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

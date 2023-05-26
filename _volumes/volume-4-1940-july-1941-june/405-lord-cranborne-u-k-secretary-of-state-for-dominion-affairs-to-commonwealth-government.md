@@ -1,12 +1,18 @@
 ---
-title: "405 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1636
+doc_date: '1941-04-15'
+doc_num: 405
+doc_order: 405
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP290/6, 70]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-15
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 405 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 263 LONDON, 15 April 1941, 11.55 p.m.
 
@@ -42,10 +48,10 @@ They agree with the Commonwealth Government's views as regards the Philippines.
 
 (8) Progress of naval reinforcement east of Suez in the event of serious threat to Australia (question raised in Commonwealth of Australia telegram 187, paragraph 5). Our advisers' view is that no useful purpose would be served by attempting to draw up plans at Singapore for such an eventuality at this stage. To attempt to forecast the forces which might be available is quite impracticable and will therefore be misleading.
 
-_
+ _
 
 1 Cablegram 262 of 15 April, on file AA: CP290/6, 70. Paragraph 4 indicated that cablegram 263 had been dispatched' after considering the views of the Commonwealth Government as set out in their telegram 187 [Document 366] and those of the New Zealand Government as set out in their telegrams 83 and 109. It should be noted that full report of the February Conference has not yet been received in the United Kingdom.' 2 Document 360.
 
 _
 
-_ [AA: CP290/6, 70]_
+ _[AA: CP290/6, 70]_

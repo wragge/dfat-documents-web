@@ -1,12 +1,17 @@
 ---
-title: "97 Chifley to Forde and Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3128
+doc_date: '1945-06-01'
+doc_num: 97
+doc_order: 97
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 570]'
+title: Chifley to Forde and Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-06-01
+vol_title: 'Volume 8: 1945'
 ---
-
-# 97 Chifley to Forde and Evatt
 
 Cablegram 85 CANBERRA, 1 June 1945
 
@@ -118,10 +123,10 @@ With the American progress towards Japan, the operations against Borneo, the Net
 
 22\. General MacArthur reports that the matter is under consideration in Washington and London, and this cablegram is being repeated to Bruce. It is also being repeated to the New Zealand Government and you might acquaint Fraser with our views.
 
-_
+ _
 
 1 War Cabinet minute 4220, 31 May. It was based on Advisory War Council minute 1546, of the same date.
 
 _
 
-_ [AA : A5954, BOX 570]_
+ _[AA : A5954, BOX 570]_

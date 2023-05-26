@@ -1,14 +1,19 @@
 ---
-title: "46 Makin to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3558
+doc_date: '1946-01-23'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.1975]'
+title: Makin to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-23
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 46 Makin to Evatt
-
-## Cablegram 492 LONDON, 23 January 1946, 1.25 a.m.
+Cablegram 492 LONDON, 23 January 1946, 1.25 a.m.
 
 MOST IMMEDIATE
 
@@ -38,7 +43,7 @@ Hodgson then said other names had been mentioned especially Lie of Norway who wa
 
 10\. I might add my impression is that Pearson will eventually get eight votes not counting Australia and that the Soviet will refuse to agree.
 
-_
+ _
 
 1 See Document 33.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.1975]_
+ _[AA:A3195, 1946, 1.1975]_

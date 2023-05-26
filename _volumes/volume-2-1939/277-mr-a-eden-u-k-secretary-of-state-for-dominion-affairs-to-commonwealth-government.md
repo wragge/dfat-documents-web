@@ -1,12 +1,17 @@
 ---
-title: "277 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 614
+doc_date: '1939-10-10'
+doc_num: 277
+doc_order: 277
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 277 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular Cablegram D32 LONDON, 10 October 1939, 1.18 a.m.
 
@@ -16,7 +21,7 @@ My immediately following telegram 33 [1] contains draft of text of statement whi
 
 Should be grateful if any comments on this draft could be telegraphed at the earliest possible moment. We are in consultation with the French Government also.
 
-_
+ _
 
 1 Document 278.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

@@ -1,22 +1,27 @@
 ---
-title: DFAT Historical Documents
+title: Documents on Australian Foreign Policy
 layout: default
 ---
-
-<h1>{{ page.title }}</h1>
 
 {% assign docs = site.volumes | where_exp: "item", "item.doc_date != null" | sort: "doc_date" %}
 {% assign first_doc = docs | first %}
 {% assign last_doc = docs | last %}
 
-<p class="lead">{{ docs | size }} documents from {{ first_doc.doc_date | date: "%e %B %Y" }} to {{ last_doc.doc_date | date: "%e %B %Y" }}</p>
+<h2 class="subtitle">{{ docs | size | intcomma }} documents from {{ first_doc.doc_date | date: "%e %B %Y" }} to {{ last_doc.doc_date | date: "%e %B %Y" }}</h2>
 
-{% assign volumes = site.volumes | sort:"vol_id" | group_by:"volume" %}
+{% assign volumes = site.volumes | sort:"vol_id" | group_by:"vol_full_title" %}
 
-<ul>
+<div class="content">
+
+
+<dl class="toc">
 {% for volume in volumes %}
+    {% assign doc = volume.items | first %}
 
-    <li><h4><a href="{{site.baseurl}}/volumes/{{ volume.name | slugify }}/"</li>{{ volume.name }}</a><br><small class="text-muted">{{ volume.items | size }} documents</small></h4></li>
+    <dt class="title is-5"><a href="{{site.baseurl}}/volumes/{{ doc.vol_title | slugify }}/">{{ volume.name }}</a></dt>
+        <dd class="subtitle is-6">{{ volume.items | size }} documents</dd>
 
 {% endfor %}
-</ul>
+</dl>
+
+</div>

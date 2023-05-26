@@ -1,14 +1,20 @@
 ---
-title: "453 Mr M. Akiyama, Japanese Consul-General in Australia, to Mr J. McEwen, Minister for External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1219
+doc_date: '1940-06-27'
+doc_num: 453
+doc_order: 453
+naa_refs:
+- naa_barcode: 174151
+  naa_control_symbol: CONS 1 PART 2
+  naa_series: A981
+  reference: '[AA: A981, CONSULS 1A, ii]'
+title: Mr M. Akiyama, Japanese Consul-General in Australia, to Mr J. McEwen, Minister
+  for External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-27
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 453 Mr M. Akiyama, Japanese Consul-General in Australia, to Mr J. McEwen, Minister for External Affairs
-
-## Letter SYDNEY, 27 June 1940
+Letter SYDNEY, 27 June 1940
 
 URGENT
 
@@ -20,10 +26,10 @@ I shall be much obliged if you will let me know the opinion of the Australian Go
 
 M. AKIYAMA
 
-_
+ _
 
 1 See Document 430.
 
 _
 
-_ [AA: A981, CONSULS 1A, ii]_
+ _[AA: A981, CONSULS 1A, ii]_

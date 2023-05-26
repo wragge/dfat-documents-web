@@ -1,12 +1,17 @@
 ---
-title: "4 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2295
+doc_date: '1942-07-11'
+doc_num: 4
+doc_order: 4
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-07-11
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 4 Churchill to Curtin
 
 Cablegram Winch 25 LONDON, [11 July 1942] [1]
 
@@ -196,7 +201,7 @@ ours. But the struggle will be long and we must not relax for an
 
 instant. [3]
 
-_
+ _
 
 1 Inserted from the London copy in PRO:PREM 4/43B/2.
 
@@ -212,7 +217,7 @@ AA:M100, July 1942.
 
 _
 
-_
+ _
 
 [AA:A4763]
 

@@ -1,14 +1,20 @@
 ---
-title: "449 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1680
+doc_date: '1941-05-11'
+doc_num: 449
+doc_order: 449
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.7457]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-11
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 449 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
-
-## Cablegram 334 LONDON, 11 May 1941, 2.35 a.m.
+Cablegram 334 LONDON, 11 May 1941, 2.35 a.m.
 
 My telegram 167 of 15th March. [1]
 
@@ -66,7 +72,7 @@ Their representatives in the United States may wish to discuss the matter with t
 
 10\. We hope that the foregoing statement of the position will be of assistance to the Commonwealth Government. If there are any points on which further information is available we will endeavour to supply it though the situation is of course not yet entirely clear.
 
-_
+ _
 
 1 On file AA: A1608, A59/2/1, i.
 
@@ -82,4 +88,4 @@ _
 
 _
 
-_ [AA: A3195, 1941, 1.7457]_
+ _[AA: A3195, 1941, 1.7457]_

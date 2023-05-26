@@ -1,12 +1,18 @@
 ---
-title: "187 Beasley to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2834
+doc_date: '1944-06-08'
+doc_num: 187
+doc_order: 187
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET MASTER SHEETS, EXCEPT FROM
+    SECDOMIN AND BRUCE, 1.21592]'
+title: Beasley to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-08
+vol_title: 'Volume 7: 1944'
 ---
-
-# 187 Beasley to Evatt
 
 Cablegram 127 (extracts) [1] [TORONTO] [2], 8 June 1944, 4.46 p.m.
 
@@ -34,7 +40,7 @@ These two issues I understand have been discussed in London [5] but no finality 
 
 3\. Will be in Ottawa tomorrow. Best wishes, all well.
 
-_ FROM SECDOMIN AND BRUCE, 1.21592]
+ _
 
 1 Sent through the High Commissioner in Ottawa.
 
@@ -52,4 +58,4 @@ _ FROM SECDOMIN AND BRUCE, 1.21592]
 
 _
 
-_ [AA:A3195, 1944, FOLDER, INWARDS MOST SECRET MASTER SHEETS, EXCEPT_
+ _[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET MASTER SHEETS, EXCEPT FROM SECDOMIN AND BRUCE, 1.21592]_

@@ -1,16 +1,21 @@
 ---
-title: "323 Curtin to Cranborne"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2614
+doc_date: '1943-10-30'
+doc_num: 323
+doc_order: 323
+naa_refs:
+- naa_barcode: 4224119
+  naa_control_symbol: 1943/60
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.29969/29970]'
+title: Curtin to Cranborne
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-10-30
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 323 Curtin to Cranborne
 
 Cablegram 283 [1] CANBERRA, 30 October 1943
 
-MOST SECRET &amp; PERSONAL
+MOST SECRET & PERSONAL
 
 I have carefully considered your No. 316 [2], but, after fully weighing the reasons you advance, I am quite convinced that the accomplishment of the programme that I have mapped out for myself in Australia in the next few months is the best contribution I can make to the future welfare of Australia and the Empire. The mandate recently received by me from the Australian people leaves no doubt in my mind as to the course I should follow in the immediate obligations that devolve upon me. On the other hand, I realize that the position of other Prime Ministers may be different. 2. Australia is the only Dominion with a war front on its territory. The forces engaged in the South-West Pacific Area have been preponderantly Australian. Having carried the responsibility of Government through the grave period of the Japanese threat to the mainland of the Commonwealth, I want to see the Japanese pushed back still further before I am prepared to leave Australia.
 
@@ -22,7 +27,7 @@ I have carefully considered your No. 316 [2], but, after fully weighing the reas
 
 CURTIN
 
-_ 1 Repeated to the Canadian and N.Z. Prime Ministers.
+ _1 Repeated to the Canadian and N.Z. Prime Ministers.
 
 2 Document 314.
 
@@ -34,4 +39,4 @@ _ 1 Repeated to the Canadian and N.Z. Prime Ministers.
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.29969/29970]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.29969/29970]_

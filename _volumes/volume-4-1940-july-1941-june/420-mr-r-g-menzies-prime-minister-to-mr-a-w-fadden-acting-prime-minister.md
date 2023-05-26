@@ -1,12 +1,17 @@
 ---
-title: "420 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1651
+doc_date: '1941-04-22'
+doc_num: 420
+doc_order: 420
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.6155]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 420 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram M75 LONDON, 22 April 1941, 6.13 p.m.
 
@@ -18,7 +23,7 @@ Please telegraph concurrence of yourself and Spender. [4] If you concur as I am 
 
 MENZIES
 
-_
+ _
 
 1 See Document 413.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A3195, 1941, 1.6155]_
+ _[AA: A3195, 1941, 1.6155]_

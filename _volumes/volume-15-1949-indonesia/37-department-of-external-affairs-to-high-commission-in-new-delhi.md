@@ -1,14 +1,20 @@
 ---
-title: "37 Department of External Affairs to High Commission in New Delhi"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6206
+doc_date: '1949-01-07'
+doc_num: 37
+doc_order: 37
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Department of External Affairs to High Commission in New Delhi
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-07
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 37 Department of External Affairs to High Commission in New Delhi
-
-## Cablegram 8 CANBERRA, 7 January 1949, 10.30 a.m.
+Cablegram 8 CANBERRA, 7 January 1949, 10.30 a.m.
 
 IMMEDIATE
 
@@ -22,7 +28,7 @@ It would seem to us that, in these circumstances, the Conference would be in dif
 
 3\. For your own information, our position is that we would much prefer the Conference to be postponed, meanwhile exerting what pressure we can with members of the Security Council, at least until the Security Council has had the opportunity of retrieving the position or finally failing to take effective action. If, however, the Indian Government was committed to the extent of having to convene the Conference, we would still attend, regardless of what decisions were taken at New York. In these circumstances, however, we would probably urge an expression of views from each country represented but with no decisions until the position became clearer.
 
-_
+ _
 
 1 Document 499 in Volume XIII.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

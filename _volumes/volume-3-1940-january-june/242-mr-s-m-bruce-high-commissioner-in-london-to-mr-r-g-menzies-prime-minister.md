@@ -1,14 +1,19 @@
 ---
-title: "242 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1008
+doc_date: '1940-05-14'
+doc_num: 242
+doc_order: 242
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3250]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-14
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 242 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram unnumbered LONDON, 14 May 1940, 11.03 p.m.
+Cablegram unnumbered LONDON, 14 May 1940, 11.03 p.m.
 
 Addressed to the Prime Minister, Mr. Menzies.
 
@@ -32,7 +37,7 @@ Attitude of Ministry of Food towards any canned fruit arriving being further dis
 
 BRUCE
 
-_
+ _
 
 1 10 May 1940.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3250]_
+ _[FA: A3195, 1.3250]_

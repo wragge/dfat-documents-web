@@ -1,12 +1,17 @@
 ---
-title: "24 Evatt to King"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2315
+doc_date: '1942-08-14'
+doc_num: 24
+doc_order: 24
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT C]'
+title: Evatt to King
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-14
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 24 Evatt to King
 
 Cablegram SW80 CANBERRA, 14 August 1942
 
@@ -30,7 +35,7 @@ Evatt.
 
 7\. This message is a sincere friendly greeting to you. Any reply may be addressed to myself through the same person. [2]
 
-_
+ _
 
 1 U.S. forces had landed on Guadalcanal and Tulagi on 7 August, but in a naval action off Savo Island on the night of 8-9 August the Allies had lost four heavy cruisers including H.M.A.S.
 
@@ -40,4 +45,4 @@ Canberra.
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT C]_
+ _[AA:A981, WAR 33, ATTACHMENT C]_

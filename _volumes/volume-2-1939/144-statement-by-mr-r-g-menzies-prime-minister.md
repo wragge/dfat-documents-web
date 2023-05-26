@@ -1,12 +1,17 @@
 ---
-title: "144 Statement by Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 481
+doc_date: '1939-08-23'
+doc_num: 144
+doc_order: 144
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Statement by Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-23
+vol_title: 'Volume 2: 1939'
 ---
-
-# 144 Statement by Mr R.G. Menzies, Prime Minister
 
 CANBERRA, 23 August 1939, 12 noon
 
@@ -24,7 +29,7 @@ If her great efforts fail, we will stand with her. It would be a cardinal error 
 
 Australia stands where it stood 25 years ago. [1]
 
-_
+ _
 
 1 This statement was made after a Cabinet meeting in the morning.
 
@@ -32,4 +37,4 @@ The Minute of the meeting records only that 'Cables with regard to the European 
 
 _
 
-_ [REPORTED IN 'SYDNEY MORNING HERALD', 24 AUGUST 1939, P. 9]_
+ _[REPORTED IN 'SYDNEY MORNING HERALD', 24 AUGUST 1939, P. 9]_

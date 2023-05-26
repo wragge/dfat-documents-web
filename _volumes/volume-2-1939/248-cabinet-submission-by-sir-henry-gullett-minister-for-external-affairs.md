@@ -1,12 +1,17 @@
 ---
-title: "248 Cabinet Submission by Sir Henry Gullett, Minister for External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 585
+doc_date: '1939-09-28'
+doc_num: 248
+doc_order: 248
+naa_refs:
+- naa_barcode: 177779
+  naa_control_symbol: LEAGUE 20TH ASS 3
+  naa_series: A981
+  reference: '[AA:A981, L OF N, 20TH ASSEMBLY 3]'
+title: Cabinet Submission by Sir Henry Gullett, Minister for External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-28
+vol_title: 'Volume 2: 1939'
 ---
-
-# 248 Cabinet Submission by Sir Henry Gullett, Minister for External Affairs
 
 28 September 1939
 
@@ -40,7 +45,7 @@ Since, however, it is desirable to investigate possible reactions of other membe
 
 Two draft telegrams, therefore, are submitted herewith for consideration, viz.- (a) Reply to the Secretary of State for Dominion Affairs [7] stating that the Commonwealth Government is in general agreement with the views expressed in his telegram and intimating that the Commonwealth Government is giving further consideration to the question of the future functions and activities of the League of Nations, and (b) A telegram to Mr Bruce [8] setting out the above-mentioned views of the Commonwealth Government on the future political activities of the League and inviting his comments. [9]
 
-_
+ _
 
 1 Joseph L.A. Avenel.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [AA:A981, L OF N, 20TH ASSEMBLY 3]_
+ _[AA:A981, L OF N, 20TH ASSEMBLY 3]_

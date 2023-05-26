@@ -1,12 +1,17 @@
 ---
-title: "225 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3256
+doc_date: '1945-08-30'
+doc_num: 225
+doc_order: 225
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA : A1838/2, 377/3/3/2, i]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-30
+vol_title: 'Volume 8: 1945'
 ---
-
-# 225 Addison to Commonwealth Government
 
 Cablegram 344 LONDON, 30 August 1945, 9.15 p.m.
 
@@ -36,7 +41,7 @@ The Portuguese Government have made it clear both here and in Lisbon that they a
 
 7\. We trust that no action to despatch Australian troops to Portuguese Timor will be taken in the meantime since any such action would seriously prejudice the chances of success of the Ambassador's representations.
 
-_
+ _
 
 1 Document 222.
 
@@ -54,4 +59,4 @@ A1608, J41/1/9, ii. See also Document 222, note 2.
 
 _
 
-_ [AA : A1838/2, 377/3/3/2, i]_
+ _[AA : A1838/2, 377/3/3/2, i]_

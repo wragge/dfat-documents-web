@@ -1,12 +1,17 @@
 ---
-title: "219 Chifley to Attlee"
-volume: "Volume 8: 1945"
-doc_id: 3250
+doc_date: '1945-08-27'
+doc_num: 219
+doc_order: 219
+naa_refs:
+- naa_barcode: 4224457
+  naa_control_symbol: 1945/42
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.22288/89]'
+title: Chifley to Attlee
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-27
+vol_title: 'Volume 8: 1945'
 ---
-
-# 219 Chifley to Attlee
 
 Cablegram 253 CANBERRA, 27 August 1945
 
@@ -32,7 +37,7 @@ I desire to add that we reciprocate the spirit of your message.
 
 Our own desire is the maximum of friendship and comradeship.
 
-_
+ _
 
 1 Document 217.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.22288/89]_
+ _[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.22288/89]_

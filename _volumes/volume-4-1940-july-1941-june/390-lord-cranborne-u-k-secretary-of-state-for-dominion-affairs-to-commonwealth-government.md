@@ -1,12 +1,18 @@
 ---
-title: "390 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1621
+doc_date: '1941-04-07'
+doc_num: 390
+doc_order: 390
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA: A981, FAR EAST 26A]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 390 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 230 LONDON, 7 April 1941, 10.10 p.m.
 
@@ -32,7 +38,7 @@ The United States Government has already agreed to this date which we hope is al
 
 8\. The above arrangements should meet the request in paragraph 5 of the Commonwealth Government's telegram 187 of 27th March [5] repeated to Prime Minister of New Zealand 98. Suggestions of the Commonwealth Government with regard to points for discussion as given in Commonwealth Government's telegram 206 2nd April [6] repeated to Prime Minister of New Zealand III will receive full consideration in drawing up the terms of reference for the talks proposed in paragraph 6 above. [7]
 
-_
+ _
 
 1 Air Chief Marshal Sir Robert Brooke-Popham.
 
@@ -52,4 +58,4 @@ Foley; Commander R. F. Nichols; Colonel H. G. Rourke; and Group Captain F. M. Bl
 
 _
 
-_ [AA: A981, FAR EAST 26A]_
+ _[AA: A981, FAR EAST 26A]_

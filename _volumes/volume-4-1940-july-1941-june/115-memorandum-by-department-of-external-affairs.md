@@ -1,11 +1,17 @@
 ---
-title: "115 Memorandum by Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1346
+doc_date: 1940-09
+doc_num: 115
+doc_order: 115
+naa_refs:
+- naa_barcode: 176219
+  naa_control_symbol: FAR 20 PART 3
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20A, iii]'
+title: Memorandum by Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 115 Memorandum by Department of External Affairs
 
 n.d. [1]
 
@@ -91,7 +97,7 @@ Considerations in favour of extension of agreement for closure of road for furth
 
 The prospect of general settlement with Japan would appear even less than in July, but we consider that investigation of possible terms of settlement should none the less be proceeded with. If it was decided to intimate to Japan that United Kingdom Government was ready to extend Burma Road agreement for limited period for reasons indicated above the possibility of settlement could still be given as reason. It seems to us much preferable that any proposition for continuance of agreement should come some time in advance of mid October from United Kingdom Government rather than that it should appear to be forced at the last moment by renewal of anti-British agitation in Japan. If Japanese Government could be engaged in cursory discussion of terms of settlement extension of date for re-opening of Burma Road could without great difficulty be represented as not unreasonable.
 
-_
+ _
 
 1 This memorandum was probably prepared for a War Cabinet meeting on 10 September, at which reference was made to a draft cablegram on the Burma Road question which had been prepared by John McEwen, Minister for External Affairs. The Prime Minister, R. G. Menzies, rejected the draft (see undated teleprinter message on file AA:A1608, A41/1/6, iii), and at the War Cabinet meeting on 16 September it was decided that Menzies should draft a new cablegram which is printed as Document 121. See War Cabinet Minutes 505 and 509 in AA:A2673, vol. 3.
 
@@ -109,4 +115,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 20A, iii]_
+ _[AA:A981, FAR EAST 20A, iii]_

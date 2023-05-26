@@ -1,12 +1,17 @@
 ---
-title: "67 Curtin to Bruce"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2358
+doc_date: '1942-10-31'
+doc_num: 67
+doc_order: 67
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Curtin to Bruce
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-10-31
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 67 Curtin to Bruce
 
 Cablegram 10002 CANBERRA, 31 October 1942
 
@@ -24,7 +29,7 @@ You will be aware that as far back as 30th July, in cablegram Johcu 38 to the Pr
 
 It is desired you take up matter with United Kingdom authorities at once and advise. [5]
 
-_
+ _
 
 1 See Document 66, note 1.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

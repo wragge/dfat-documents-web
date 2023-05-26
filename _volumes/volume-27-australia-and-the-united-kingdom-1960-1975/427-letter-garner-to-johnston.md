@@ -1,20 +1,23 @@
 ---
-title: "427 LETTER GARNER TO JOHNSTON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10293
+doc_date: '1968-02-28'
+doc_num: 427
+doc_order: 427
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 49/134]'
+title: LETTER GARNER TO JOHNSTON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-02-28
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 427 LETTER GARNER TO JOHNSTON
-
-UKNA: FCO 49/134
 
 London, 28 February 1968
 
 Confidential
 
-I have been thinking about the interesting problem you raise in your letter of 7 February1 about the channel of communication for the announcement of appointments of Australian State Governors.
+I have been thinking about the interesting problem you raise in your letter of 7 February[1](#f1) about the channel of communication for the announcement of appointments of Australian State Governors.
 
 I am afraid that I must differ from your understanding that State Governors are appointed by the Queen as Sovereign of Australia. This is in fact not the case. They are appointed on the advice of the Secretary of State (who in practice, of course, always consults the State Premier), and therefore it can only be that the Queen acts in this matter as Queen of the United Kingdom. Moreover it is the Queen’s United Kingdom Style and Titles that are used in the Governors’ Commissions of Appointment. This is no doubt a relic of colonialism and is but one of the many anachronisms surrounding the whole concept of State Governors.
 
@@ -25,3 +28,5 @@ Incidentally, this correspondence has thrown up one further oddity—the practic
 I wrote a minute recently about the question of Commonwealth Ministers becoming Privy Councillors, which ended ‘Let sleeping anomalies lie’. Should the same doctrine perhaps apply to Australian State Governors?
 
 1 See Document 426.
+
+[UKNA: FCO 49/134]

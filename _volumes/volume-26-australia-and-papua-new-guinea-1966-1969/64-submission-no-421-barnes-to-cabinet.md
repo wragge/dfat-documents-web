@@ -1,22 +1,27 @@
 ---
-title: "64 Submission No. 421, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9572
+doc_date: '1966-08-29'
+doc_num: 64
+doc_order: 64
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NAA: AS84 I, 419]'
+title: Submission No. 421, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-08-29
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 64 Submission No. 421, Barnes To Cabinet
 
 Canberra, 29 August 1966
 
 Confidential
 
-**Submission No. 419 (Minister for the Army) Rates of pay and conditions of service—Pacific Island Members of the A.R.A.1**
+ **Submission No. 419 (Minister for the Army) Rates of pay and conditions of service—Pacific Island Members of the A.R.A.[1](#f1)**
 
 Attached is a note commenting on the recommendations in Submission No. 419 from the standpoint of their effect on conditions of service of local members of the Royal Papua and New Guinea Constabulary and the Territory Public Service.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 A. _The operation of non-reduction allowances_
 
@@ -24,7 +29,7 @@ Non-reduction allowances are being paid to those members of the P.I.R. and Const
 
 2\. The new ‘all cash’ pay system prescribes common rates of pay for each man performing the same job. Under the old system a man’s ‘in kind’ entitlements were directly determined by the size of his family. Hence in the conversion to a full cash wage those members who received substantial non-reduction allowances are those who have large families.
 
-3\. The pay scale implemented from 1st July 1966 is about to be changed following the announcement of new pay rates for the Public Service. Both Pacific Islanders and Police will be given proportionately greater increases in pay than public servants will receive. The pay increases to be effective retrospective to 1st July will result in increases from $40–120 p.a. for a Private with over 3 years’ service to $400 p.a. for a WO II.2
+3\. The pay scale implemented from 1st July 1966 is about to be changed following the announcement of new pay rates for the Public Service. Both Pacific Islanders and Police will be given proportionately greater increases in pay than public servants will receive. The pay increases to be effective retrospective to 1st July will result in increases from $40–120 p.a. for a Private with over 3 years’ service to $400 p.a. for a WO II.[2](#f2)
 
 4\. Implementation of the revised pay scale will result in the immediate elimination of the non-reduction allowance paid to over 100 of the 500 P.l. married members receiving it. The non-reduction allowances being paid to the remainder will be substantially reduced. About one third of the Police and under a quarter of the P.I.R. will still be on non-reduction allowances. If future pay rises are fully offset against the non-reduction allowances the great majority will be off non-reduction allowances within 3 to 4 years.
 
@@ -38,7 +43,7 @@ Non-reduction allowances are being paid to those members of the P.I.R. and Const
 
 (iv) If a soldier is unable to comprehend the mechanics of the non-reduction arrangements and the reasons why he does not receive a net pay rise when he is granted a promotion or increment, it is unlikely he would understand the reasons why he would receive only up to half of the increase which a soldier not in receipt of non-reduction allowances would receive in similar circumstances.
 
-B._The handling of the current differential in conditions between the PI.R. and the Constabulary_
+B. _The handling of the current differential in conditions between the PI.R. and the Constabulary_
 
 6\. Prior to 1st July, 1966, P.I. soldiers and Police were rationed at a cost of $256 p.a. and $104 p.a. respectively. Wives and children of members of both forces living in married quarters were also supplied with food based on the respective scales. Since 1st July the following changes have been made—
 
@@ -50,7 +55,7 @@ IN BARRACKS—
 
 IN MARRIED QUARTERS—
 
-\- _Constabulary_—all rationing has been discontinued.
+\- _Constabulary_ —all rationing has been discontinued.
 
 \- P.I. supplementary ration pack, cost $56 p.a., being supplied for the soldier, wife and children (half issue under 10 years).
 
@@ -84,7 +89,7 @@ Territories propose further immediate steps to contain the differentials between
 
 The present source deduction for rations from the P.I.’s pay is $130.87 p.a. This figure was the component for food in the base public servant’s pay. It has no relation to the cost of supplying the P.I. ration (currently $243 p.a.). Territories view is that the pay rise about to be implemented presents an opportunity—which may not recur for some years—to adjust the deduction for rations to bring it somewhat closer to the actual cost. Territories propose an increase from $130.87 p.a. to $151.77 p.a., which the P.l. soldier would be able to sustain from the pay rises proposed. This approximates the amount of $156 p.a. the Police are voluntarily paying to mess committees for what is a less expensive ration. It is not suggested that every time the Police voluntarily review their scale of mess fees a similar compulsory review should be made for the P.I.R.
 
-C._ Conclusions_
+C. _Conclusions_
 
 11\. Decisions on the outstanding issues should be:
 
@@ -104,4 +109,4 @@ C._ Conclusions_
 
 1  Document 63. 
 
-2  Warrant Officer Class II. 
+2  Warrant Officer Class II.

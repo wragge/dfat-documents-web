@@ -1,12 +1,18 @@
 ---
-title: "42 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1796
+doc_date: '1941-08-13'
+doc_num: 42
+doc_order: 43
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA : A3196, 1941, 0.11734]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-13
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 42 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 527 CANBERRA, 13 August 1941
 
@@ -24,7 +30,7 @@ Assuming that these proposals are concurred in by the United Kingdom Government 
 
 MENZIES
 
-_
+ _
 
 1 For consideration of this question by the Economic and Industrial Committee of Cabinet see agendum E14 of 9 July and minute E14 of 14 July in AA : A2708, vol. 3.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA : A3196, 1941, 0.11734]_
+ _[AA : A3196, 1941, 0.11734]_

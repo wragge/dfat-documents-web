@@ -1,25 +1,29 @@
 ---
-title: "127 Letter, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9635
+doc_date: 1967-06
+doc_num: 127
+doc_order: 127
+naa_refs:
+- naa_barcode: 3125687
+  naa_control_symbol: 1966/4989
+  naa_series: A452
+  reference: '[NAA: A452, 1966/4989]'
+title: Letter, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-04-12
-barcode: 3125687
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
 
-# 127 Letter, Hay To Warwick Smith
+Port Moresby, undated[1](#f1)
 
-Port Moresby, undated1
-
-I regret that I have not until now been in a position to respond to your letter of 12th April, 1967 about the Pacific Islands Regiment.2
+I regret that I have not until now been in a position to respond to your letter of 12th April, 1967 about the Pacific Islands Regiment.[2](#f2)
 
 I now enclose (Attachment ‘A’) some comments on the headings in your letter and the notes, based on these headings, attached to your letter.
 
-In this letter I address myself mainly to the policy aspects—some of which were included in the Minister’s letter to Mr. Fairhall written in March of this year.3
+In this letter I address myself mainly to the policy aspects—some of which were included in the Minister’s letter to Mr. Fairhall written in March of this year.[3](#f3)
 
 My first concern, affecting both the size and the conditions of service of the Army, is whether they are within the likely capacity of a future self-governing country to sustain. I very much doubt this. I doubt, too, whether it will be acceptable to the future Territory authorities for the Australian Government to continue to command, train and equip the Army, _as part of the Australian defence forces._ Assistance with diminishing strings attached would be all right. But would this be acceptable to the Commonwealth? In sum, in the absence of a direct threat to the security of the Territory of a kind which requires forces of the size now planned, I consider that the long-term capacity of the Territory to pay should be taken into account in determining the size of the force.
 
-My second concern is the role of the Army in the Territory. This appears to me directed in the main towards meeting an external threat. Its internal security capacity is indirect and potential, though nevertheless, important.4 There is a growing, but minor, community aid emphasis as a by-product of training and image building. If the security situation should permit (as on the face of it, it now does) there would be an advantage in a much greater emphasis on technical and engineering capacity, even at the expense of numbers. There are now some technical units and there is a limited civil aid capacity. Consideration might be given to a much greater emphasis on these aspects. It is realised that this would involve changes in organisation, concept and role.
+My second concern is the role of the Army in the Territory. This appears to me directed in the main towards meeting an external threat. Its internal security capacity is indirect and potential, though nevertheless, important.[4](#f4) There is a growing, but minor, community aid emphasis as a by-product of training and image building. If the security situation should permit (as on the face of it, it now does) there would be an advantage in a much greater emphasis on technical and engineering capacity, even at the expense of numbers. There are now some technical units and there is a limited civil aid capacity. Consideration might be given to a much greater emphasis on these aspects. It is realised that this would involve changes in organisation, concept and role.
 
 A further role which the Army could usefully take on (and thus relieve the Administration of a sizeable manpower commitment) is that of civil defence. The Army would be very well placed to assume such a role, and I recommend that this be seriously considered.
 
@@ -31,7 +35,7 @@ I am not myself unduly concerned by the risks which having an Army of any size e
 
 I am bound to say, too, that I consider the Army well led and well trained. With the kind of modifications I have suggested in this letter and with its size related gradually to economic capacity I feel that its contribution to the future stability of the Territory would be enhanced.
 
-**Attachment ‘A’**
+ **Attachment ‘A’**
 
 Law and Order
 
@@ -51,7 +55,7 @@ It is in my view unfortunate that so much of the Army is concentrated in Port Mo
 
 Economic Effects
 
-_Manpower. _In general the Army training effort may be regarded as a supplement to that of the Administration. It is true that the Army tries to attract leaders from the higher forms in secondary school. To that extent it competes with the Administration and private enterprise. On the other hand the Army recruits from areas in the Territory which are not so well covered by the Administration. The Army has brought a very substantial accretion to the educational effort of the Administration.
+ _Manpower._ In general the Army training effort may be regarded as a supplement to that of the Administration. It is true that the Army tries to attract leaders from the higher forms in secondary school. To that extent it competes with the Administration and private enterprise. On the other hand the Army recruits from areas in the Territory which are not so well covered by the Administration. The Army has brought a very substantial accretion to the educational effort of the Administration.
 
 Defence Expenditures
 
@@ -65,7 +69,7 @@ Social Effects
 
 It is early to offer a firm judgement. Within the Army itself there is evidence that the policy of breaking down tribal barriers, of building a national spirit based on education, discipline and an unusual emphasis in religion is proving successful. There is little doubt that this policy will produce an elite, but this is very much what the Territory needs.
 
-[ [NAA: A452, 1966/4989](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3125687) ]
+[NAA: A452, 1966/4989]
 
 1 The letter was received in Canberra on 24 June.
 

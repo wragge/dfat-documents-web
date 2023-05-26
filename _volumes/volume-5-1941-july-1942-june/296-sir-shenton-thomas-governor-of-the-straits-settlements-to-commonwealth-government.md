@@ -1,14 +1,19 @@
 ---
-title: "296 Sir Shenton Thomas, Governor of the Straits Settlements, to Commonwealth Government"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2050
+doc_date: '1942-01-23'
+doc_num: 296
+doc_order: 297
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.2898]'
+title: Sir Shenton Thomas, Governor of the Straits Settlements, to Commonwealth Government
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 296 Sir Shenton Thomas, Governor of the Straits Settlements, to Commonwealth Government
-
-## Cablegram unnumbered SINGAPORE, 23 January 1942, 5.43 p.m.
+Cablegram unnumbered SINGAPORE, 23 January 1942, 5.43 p.m.
 
 My telegram 18th January. [1]
 
@@ -24,7 +29,7 @@ I emphasise the following points:-
 
 I ask most earnestly for early and favourable reply to my request to be allowed to send you up to 5,000 people of Chinese or Eurasian extraction at my discretion. [3]
 
-_
+ _
 
 1 AA: A3 195, 1942,1.2295. It asked the Commonwealth Govt to reconsider the decision set out in Document 275.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.2898]_
+ _[AA:A3195, 1942, 1.2898]_

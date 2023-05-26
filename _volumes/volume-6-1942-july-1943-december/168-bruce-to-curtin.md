@@ -1,12 +1,33 @@
 ---
-title: "168 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2459
+doc_date: '1943-04-28'
+doc_num: 168
+doc_order: 168
+naa_refs:
+- naa_barcode: 185053
+  naa_control_symbol: 1943/715/5/2 PART 1
+  naa_series: A989
+  reference: '[AA:A989, 43/715/5/2, i]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[The Soviet Union severed diplomatic relations with Poland on 25 April.
+    The dispute had its origin in the question of Poland''s eastern frontier: Poland
+    insisted on the border established in 1921 by the Treaty of Riga after the Polish-Soviet
+    war of 1919-20, which had remained the boundary until 1939, while the Soviet Union
+    claimed the border of 1939, which approximated the Curzon Line drawn twenty years
+    earlier and which was closer to the ethnographic divide. This disagreement was
+    still unresolved in April 1943 when the Germans released details of the discovery
+    in Katyn Forest, near Smolensk, of the remains of 4600 Polish officers who the
+    Germans alleged had been murdered by Soviet authorities at some stage after the
+    Soviet occupation of eastern Poland in 1939. The Polish Govt immediately asked
+    the International Red Cross to investigate the matter, whereupon the Soviet Govt
+    severed relations on the grounds that the Polish action gave credence to the German
+    allegations and was an action unbecoming an ally.]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-04-28
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 168 Bruce to Curtin
 
 Cablegram S76 LONDON, 28 April 1943, 5.30 p.m.
 
@@ -26,7 +47,7 @@ Even if we can re-establish a facade, however, there remains a much greater fund
 
 BRUCE
 
-_
+ _
 
 1 On file AA:A989, 43/715/5/2, i.
 
@@ -34,4 +55,4 @@ _
 
 _
 
-_ [AA:A989, 43/715/5/2, i]_
+ _[AA:A989, 43/715/5/2, i]_

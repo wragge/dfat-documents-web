@@ -1,12 +1,17 @@
 ---
-title: "138 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1892
+doc_date: '1941-11-29'
+doc_num: 138
+doc_order: 139
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-29
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 138 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 1049 WASHINGTON, 29 November 1941, 12.13 a.m.
 
@@ -34,7 +39,7 @@ Conservative estimate is at least 7,000 Japanese troops now in Southern Indo-Chi
 
 (10) United States Military Intelligence concludes 'from foregoing it appears evident that Japanese have completed plans for further aggressive moves in South-Eastern Asia. These plans will probably be put into effect soon after armed services feel that the Kurusu [4] mission is a definite failure. A task force of about 5 divisions, supported by appropriate air and naval units, has been assembled for execution of these plans. This force is now en route southward to an, as yet, undetermined rendezvous. This division (United States Army Intelligence) is of opinion that initial move will be made against Thailand from sea and overland through Southern China. It is further believed that the Japanese are uncertain of the reaction of the A.B.D. [5] Powers to this move and therefore have organised in sufficient strength to cope with any opposition they might initially encounter from those Powers in the South China Sea.' (11) United States Navy has sent precautionary war warning telegrams to the Commanders of the United States Pacific and Asiatic fleets. War Department has sent out similar warnings.
 
-_
+ _
 
 1 Document 133.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

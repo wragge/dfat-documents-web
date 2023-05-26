@@ -1,14 +1,17 @@
 ---
-title: "48 CABLEGRAM, MENZIES TO DOWNER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9913
+doc_date: '1966-01-19'
+doc_num: 48
+doc_order: 48
+naa_refs:
+- naa_barcode: 1160343
+  naa_control_symbol: 1965/6595 PART 4
+  naa_series: A1209
+  reference: '[NAA:A1209, 1965/6595 PART4]'
+title: CABLEGRAM, MENZIES TO DOWNER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-01-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 48 CABLEGRAM, MENZIES TO DOWNER
-
-NAA:A1209, 1965/6595 PART4
 
 Canberra, 19 January 1966
 
@@ -16,9 +19,9 @@ Canberra, 19 January 1966
 
 Would you please transmit the following personal message from me to Mr. Harold Wilson on the subject of the British defence review and Mr. Healey’s coming visit.
 
-_‘Message to Mr. Harold Wilson from Sir Robert Menzies dated 19th January_
+ _‘Message to Mr. Harold Wilson from Sir Robert Menzies dated 19th January_
 
-Thank you for your long message on 31st December giving me a full account of your talks in Washington. 1 We are looking forward to our meeting with Denis Healey at the end of the month.
+Thank you for your long message on 31st December giving me a full account of your talks in Washington. [1](#f1) We are looking forward to our meeting with Denis Healey at the end of the month.
 
 I will not attempt to write at length now about particular issues, but we have been giving further and urgent attention to the matter of your defence review and the issues which it raises, and there are one or two observations of general principle which I might make, so that you will know the trend of thinking on our part.
 
@@ -33,3 +36,5 @@ It is basic to the position which we have taken that the security problems of th
 This leads me to express the view that the vital issues affecting the security of South-East Asia and our respective contributions cannot be satisfactorily resolved through a series of separate talks between Britain and the United States and between Britain, Australia and New Zealand, valuable as these are in opening up the issues and giving each of us the opportunity to study the implications. What we believe to be needed is high level quadripartite consultations and we therefore see the coming discussions in Canberra not as a means of arriving at finality on the matters in question, but as a prelude to quadripartite talks at which our common strategic interests can be identified and translated into agreed and concerted effort.’
 
 1 See Document 46.
+
+[NAA:A1209, 1965/6595 PART4]

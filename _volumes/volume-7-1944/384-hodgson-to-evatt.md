@@ -1,14 +1,19 @@
 ---
-title: "384 Hodgson to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 3031
+doc_date: '1944-12-24'
+doc_num: 384
+doc_order: 384
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, 1.45648/646/645/644]'
+title: Hodgson to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-24
+vol_title: 'Volume 7: 1944'
 ---
 
-# 384 Hodgson to Evatt
-
-## Cablegram 1256 [1] WASHINGTON, 24 December 1944
+Cablegram 1256 [1] WASHINGTON, 24 December 1944
 
 For Dr. Evatt from Colonel Hodgson.
 
@@ -42,7 +47,7 @@ Keynes may say the United States Government did not go far enough but where woul
 
 I mention these as indicative of the various viewpoints one has to controvert and as a guide to the people who are preparing our briefs for the proposed Conference.
 
-_
+ _
 
 1 Sent through the Legation in Washington.
 
@@ -58,4 +63,4 @@ Holmes, Archibald MacLeish and Nelson A. Rockefeller.
 
 _
 
-_ [AA:A3195, 1944, 1.45648/646/645/644]_
+ _[AA:A3195, 1944, 1.45648/646/645/644]_

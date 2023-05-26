@@ -1,13 +1,19 @@
 ---
-title: "38 Makin to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3550
+doc_date: '1946-01-19'
+doc_num: 38
+doc_order: 38
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/4]'
+title: Makin to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 38 Makin to Evatt
-
-Cablegram 52 LONDON, 19 January 946, 2.30 p.m.
+Cablegram 52 LONDON, 19 January 1946, 2.30 p.m.
 
 SECRET
 
@@ -27,8 +33,8 @@ There was general agreement on this and Bevin indicated he would endeavour to ar
 
 6\. Would be glad of any views or comments you may have. In the meantime another Commonwealth meeting on the same subject has been called for on Tuesday morning next.
 
-_
+ _
 
 _
 
-_ [AA:A6494 T1, SPTS/1/4]_
+ _[AA:A6494 T1, SPTS/1/4]_

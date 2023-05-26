@@ -1,12 +1,18 @@
 ---
-title: "518 Mr John Curtin, Prime Minister, to Mr A. T. Stirling, External Affairs Officer in London"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2272
+doc_date: '1942-06-05'
+doc_num: 518
+doc_order: 519
+naa_refs:
+- naa_barcode: 185351
+  naa_control_symbol: 1943/735/201 PART 1
+  naa_series: A989
+  reference: '[AA:A989, 43/735/201]'
+title: Mr John Curtin, Prime Minister, to Mr A. T. Stirling, External Affairs Officer
+  in London
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-05
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 518 Mr John Curtin, Prime Minister, to Mr A. T. Stirling, External Affairs Officer in London
 
 Cablegram SL27 CANBERRA, 5 June 1942
 
@@ -30,7 +36,7 @@ Your S.23. [2]
 
 3\. As this project will involve the purchase and distribution of large stocks of foodstuffs, materials and other articles in the period immediately after the war and may be widened to embrace general questions of postwar reconstruction, we are vitally interested in a successful outcome.
 
-_
+ _
 
 1 High Commissioner in the United Kingdom.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/201]_
+ _[AA:A989, 43/735/201]_

@@ -1,12 +1,18 @@
 ---
-title: "188 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 525
+doc_date: '1939-09-03'
+doc_num: 188
+doc_order: 188
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-03
+vol_title: 'Volume 2: 1939'
 ---
-
-# 188 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular Cablegram B322 LONDON, 3 September 1939, 2.10 a.m.
 
@@ -20,7 +26,7 @@ Cabinet meeting after midnight have decided that British Ambassador in Berlin [3
 
 Prime Minister proposes to make a statement in the House of Commons at noon today Sunday.
 
-_
+ _
 
 1 Sent 2 September 1939, 9.50 a.m., not printed (on file AA: A981, Germany 83B, iii) 2 Neville Chamberlain.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

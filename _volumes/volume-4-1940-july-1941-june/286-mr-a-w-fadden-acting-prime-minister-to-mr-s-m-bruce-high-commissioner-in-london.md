@@ -1,12 +1,18 @@
 ---
-title: "286 Mr A. W. Fadden, Acting Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1517
+doc_date: '1941-02-12'
+doc_num: 286
+doc_order: 286
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941, 0.1828]'
+title: Mr A. W. Fadden, Acting Prime Minister, to Mr S. M. Bruce, High Commissioner
+  in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 286 Mr A. W. Fadden, Acting Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 681 12 February 1941,
 
@@ -18,10 +24,10 @@ If situation should deteriorate calling for further reinforcement by us of exist
 
 During the discussion of Far Eastern situation, question arose as to extent that Canadian Forces might possibly be utilised, and, without making any formal approach to United Kingdom authorities, it would be appreciated if you will make soundings in this regard and advise me personally.
 
-_
+ _
 
 1 See War Cabinet Minutes 790 and 796 of 12 February in AA:A2673, vol. 5.
 
 _
 
-_ [AA:A3196, 1941, 0.1828]_
+ _[AA:A3196, 1941, 0.1828]_

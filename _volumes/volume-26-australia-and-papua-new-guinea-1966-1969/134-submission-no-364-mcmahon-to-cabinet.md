@@ -1,19 +1,27 @@
 ---
-title: "134 Submission No. 364, McMahon To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9642
+doc_date: '1967-07-17'
+doc_num: 134
+doc_order: 134
+naa_refs:
+- naa_barcode: 1862635
+  naa_control_symbol: '364'
+  naa_series: A5842
+  reference: '[NAA: A5842, 364]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[:]'
+title: Submission No. 364, McMahon To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-07-17
-barcode: 1862635
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 134 Submission No. 364, McMahon To Cabinet
 
 Canberra, 17 July 1967
 
 Confidential
 
-**Analysis of submission no. 401:1 Grant for Papua and New Guinea Administration**
+ **Analysis of submission no. 401:[1](#f1) Grant for Papua and New Guinea Administration**
 
 The Minister for Territories is seeking a Commonwealth grant of $81 million for the Administration of the Territory ofPapua and New Guinea in 1967–68. This is $11 million or 15.7 per cent greater than the $70 million grant we approved in 1966–67. Our grant, however, was underspent by some $200,000 so the increase the Minister is seeking represents about 16 per cent.
 
@@ -42,11 +50,11 @@ The Minister for Territories is seeking a Commonwealth grant of $81 million for 
 
 7\. I turn now from these general observations to several specific components of the proposed $145.05 million outlay.
 
-_Expatriate recruitment_
+ _Expatriate recruitment_
 
 8\. Twelve months ago the Minister hoped to recruit 571 expatriate officers to the Territory in 1966–67. In the light of our grant and local revenues, this target was reduced to 400. In the event, the Administration achieved a net recruitment of only 180. As the Minister explains, the budget figures now before us include $1.7 million for salaries for the net recruitment of 600 expatriate officers—that is last year’s shortfall of 220 plus a fresh target of 380. I have noted that there was a net gain of 614 overseas staff in 1965–66 but of course a year earlier only about 170 new recruits were obtained against a target of 400. Even allowing for the fact that the House of Assembly did cause some upset last year (because the House was critical of the high proportion of the budget being spent on expatriate staff) and the fact that there is now to be a provident scheme for contract officers, a net figure of 600 (which I understand will require a gross intake of 1100 recruits) does seem optimistic and I suggest that there could be room for some savings in this area.
 
-_Papua and New Guinea Development Bank_
+ _Papua and New Guinea Development Bank_
 
 9\. Last year $1 million was provided in the Territory budget for the initial capital of the Development Bank. The Bank, however, did not open its doors for business until this month (6th July) so that apart from payment of administrative expenses the initial capital is virtually intact. The Minister now proposes that a further $6 million should be included in the Administration’s budget for payment to the Development Bank to give it capital of about $7 million.
 
@@ -81,6 +89,6 @@ Possible Budget 1967–68| | 139.2
 
 14\. I agree with the Minister that should the House of Assembly attempt to vary the budget in a way unacceptable to the Government the amount of the grant and arrangements for Australian assistance should be reviewed by Cabinet.
 
-[ [NAA: A5842, 364](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1862635) ]
+[NAA: A5842, 364]
 
 1 Document 132.

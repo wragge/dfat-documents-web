@@ -1,14 +1,19 @@
 ---
-title: "73 Broadcast Speech by Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 410
+doc_date: '1939-04-26'
+doc_num: 73
+doc_order: 73
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Broadcast Speech by Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-04-26
+vol_title: 'Volume 2: 1939'
 ---
 
-# 73 Broadcast Speech by Mr R.G. Menzies, Prime Minister
-
-## Extract 26 April 1939,
+Extract 26 April 1939,
 
 The cause of our troubles is a disturbed world. My Government will exercise whatever influence it possesses in the direction of peace. I am not yet among those who regard war as inevitable. Patience and understanding, and quiet firmness, may yet avert it, although I believe noisy partisanship never will. The peace of Great Britain is precious to us, because her peace is ours. If she is at war, we are at war, even though that war finds us not in European battlefields, but defending our own shores.
 
@@ -20,8 +25,8 @@ In the Pacific we have primary responsibilities and primary risks. Close as our 
 
 It is true that we are not a numerous people, but we have vigour, intelligence, and resource, and I see no reason why we should not play not only an adult, but an effective, part in the affairs of the Pacific.
 
-_ 1 As originally printed there was a full stop at this point, but the comma appears to convey more accurately the sense intended.
+ _1 As originally printed there was a full stop at this point, but the comma appears to convey more accurately the sense intended.
 
 _
 
-_ [REPORTED IN 'SYDNEY MORNING HERALD', 27 APRIL 1939, P. 9]_
+ _[REPORTED IN 'SYDNEY MORNING HERALD', 27 APRIL 1939, P. 9]_

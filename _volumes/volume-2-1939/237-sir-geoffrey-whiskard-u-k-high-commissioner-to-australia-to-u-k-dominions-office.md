@@ -1,12 +1,18 @@
 ---
-title: "237 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 574
+doc_date: '1939-09-20'
+doc_num: 237
+doc_order: 237
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: CAB 21/874]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
+  Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-20
+vol_title: 'Volume 2: 1939'
 ---
-
-# 237 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office
 
 Cablegram 207 CANBERRA, 20 September 1939
 
@@ -20,7 +26,7 @@ The Bruce difficulty could of course be got over but I refrained from suggesting
 
 Menzies was obviously thinking aloud and is likely to return to the subject within the next few days. I should therefore be grateful for your observation as soon as possible.
 
-_
+ _
 
 1 R.G. Menzies.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [PRO: CAB 21/874]_
+ _[PRO: CAB 21/874]_

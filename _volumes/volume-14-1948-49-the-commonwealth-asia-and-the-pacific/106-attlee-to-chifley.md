@@ -1,12 +1,18 @@
 ---
-title: "106 Attlee to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5882
+doc_date: '1948-12-29'
+doc_num: 106
+doc_order: 106
+naa_refs:
+- naa_barcode: 692190
+  naa_control_symbol: 14/301/353
+  naa_series: A816
+  reference: '[AA: A816/52, 14/301/1353]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-12-29
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 106 Attlee to Chifley
 
 Letter LONDON, 29 December 1948
 
@@ -22,7 +28,7 @@ You sent me with your letter of the 24th May about defence co- operation [1], co
 
 5\. In view of New Zealand's close interest in this question, may I suggest that you send a copy of your letter to me of the 24th May and of this reply to Mr. Fraser? 6. I had this letter before me ready to sign when I received your letter of the 10th December. [4] The further points which you raise will require careful consideration here. I will, however, try to let you have a full reply as soon as possible.
 
-_
+ _
 
 1 Document,98.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA: A816/52, 14/301/1353]_
+ _[AA: A816/52, 14/301/1353]_

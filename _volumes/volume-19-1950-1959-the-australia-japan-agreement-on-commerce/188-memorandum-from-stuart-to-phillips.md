@@ -1,14 +1,19 @@
 ---
-title: "188 Memorandum From Stuart To Phillips"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7793
+doc_date: '1957-01-31'
+doc_num: 188
+doc_order: 188
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A2051
+  reference: '[AA : A2051/4, S0013, i]'
+title: Memorandum From Stuart To Phillips
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-01-31
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 188 Memorandum From Stuart To Phillips
-
-## 31st January, 1957
+31st January, 1957
 
 TOKYO
 
@@ -18,11 +23,11 @@ Trade Talks As I mentioned in my memorandum of 29th January, Mr Yoshino had aske
 
 surplus commodities and the Australian talks was confined to a decision not to enter into a third agreement (in respect of the period up to June, 1958) on wheat or any other commodities.
 
-Despite the views of many Ministries it was not a decision not to enter into any future deals with the U.S. except in the case of some financial or agricultural crises. This arose from the attitude of the Ministry of Agriculture &amp; Forestry which has 'kept the door open' for future years.
+Despite the views of many Ministries it was not a decision not to enter into any future deals with the U.S. except in the case of some financial or agricultural crises. This arose from the attitude of the Ministry of Agriculture & Forestry which has 'kept the door open' for future years.
 
 (2) Despite the departure of Mr Kono, there are still elements within the Ministry of Agriculture (notably Mr Watanabe, the Chief of the Economic Bureau-competent, influential and a 'Kono' man) which wish to resume surplus deals at a later date. In addition, the Ministry and the Food Agency are under fairly strong pressure from the U.S. Embassy to keep the door open. In particular, there is very strong pressure to avoid giving Australia any kind of quality [1] for wheat. The Foreign Office does not believe that this pressure strictly represents the views of the U.S. Government but that it arises primarily from the enthusiasm of the local representatives. The Foreign Office has put this view strongly to the Ministry and has pointed out that it is responsible for interpreting U.S. policy and maintaining good relations with the U.S. The Ministry officials remain unconvinced.
 
-(3) There was a meeting yesterday of senior representatives of the Foreign Office, Economic Planning Board, MITI, the Ministry of Finance and the Ministry of Agriculture &amp; Forestry to discuss the resumption of the Australian talks. The conclusions reached at this meeting represent 'some progress' but were not completely satisfactory because the Ministry of Agriculture maintains its stand that there should be no attempt to seek a variation of the Government's formal decision that the surplus deals should be suspended for one year only. Some points arising out of this meeting are- (a) Mr Ushiba was temporarily out of Tokyo and was therefore not present.
+(3) There was a meeting yesterday of senior representatives of the Foreign Office, Economic Planning Board, MITI, the Ministry of Finance and the Ministry of Agriculture & Forestry to discuss the resumption of the Australian talks. The conclusions reached at this meeting represent 'some progress' but were not completely satisfactory because the Ministry of Agriculture maintains its stand that there should be no attempt to seek a variation of the Government's formal decision that the surplus deals should be suspended for one year only. Some points arising out of this meeting are- (a) Mr Ushiba was temporarily out of Tokyo and was therefore not present.
 
 (b) It was agreed that two, and possibly three, representatives of the Food Agency should return to Australia with Ambassador Suzuki next week in order to have detailed discussions with the Wheat Board and satisfy themselves about 'a number of technicalities'.
 
@@ -42,7 +47,7 @@ For this reason, Yoshino would prefer that the Japanese Embassy in Canberra shou
 
 (7) He concluded by saying that the main purpose of the discussion was to let Australia know in an unofficial and informal way the reasons for Japan's delay in resuming the negotiations. [2]
 
-_
+ _
 
 1 A handwritten correction changes 'quality' to 'a quota'.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA : A2051/4, S0013, i]_
+ _[AA : A2051/4, S0013, i]_

@@ -1,14 +1,19 @@
 ---
-title: "12 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1766
+doc_date: '1941-07-21'
+doc_num: 12
+doc_order: 13
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA : A981, FAR EAST 20B, i]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-21
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 12 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
-
-## Cablegram 543 WASHINGTON, 21 July 1941, 7.50 p.m.
+Cablegram 543 WASHINGTON, 21 July 1941, 7.50 p.m.
 
 I saw Sumner Welles [1] today.
 
@@ -68,7 +73,7 @@ public outburst regarding British-American policy of
 
 'encirclement' and strong protests but nothing more.
 
-_
+ _
 
 1 U.S. Acting Secretary of State.
 
@@ -84,7 +89,7 @@ on 22 July. See cablegram 550 on file AA : A981, Far East 20B, i.
 
 _
 
-_
+ _
 
 [AA : A981, FAR EAST 20B, i]
 

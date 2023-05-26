@@ -1,13 +1,20 @@
 ---
-title: "383 Evatt to Eggleston"
-volume: "Volume 7: 1944"
-doc_id: 3030
+doc_date: '1944-12-25'
+doc_num: 383
+doc_order: 383
+naa_refs:
+- naa_barcode: 4139833
+  naa_control_symbol: 1944/8
+  naa_series: A3196
+  reference: '[AA:A3196, 1944, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.3535
+    [6]'
+title: Evatt to Eggleston
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
+vol_title: 'Volume 7: 1944'
 ---
 
-# 383 Evatt to Eggleston
-
-Cablegram 2101 [1] CANBERRA, 25 December 944
+Cablegram 2101 [1] CANBERRA, 25 December 1944
 
 PERSONAL FOR EGGLESTON FROM EVATT
 
@@ -23,7 +30,7 @@ The matter needs handling carefully and if there is any hitch I am sure that Hop
 
 EVATT
 
-_ 0.3535 [6]]
+ _
 
 1 Incorrectly circulated in Washington as no. 2102.
 
@@ -33,4 +40,4 @@ _ 0.3535 [6]]
 
 _
 
-_ [AA:A3196, 1944, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS,_
+ _[AA:A3196, 1944, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.3535 [6]]_

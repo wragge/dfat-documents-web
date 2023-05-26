@@ -1,12 +1,17 @@
 ---
-title: "350 Legation in Washington to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2997
+doc_date: '1944-11-16'
+doc_num: 350
+doc_order: 350
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41-42/1303, vi]'
+title: Legation in Washington to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-16
+vol_title: 'Volume 7: 1944'
 ---
-
-# 350 Legation in Washington to Commonwealth Government
 
 Cablegram 1118 WASHINGTON, 16 November 1944, 5.35 p.m.
 
@@ -64,7 +69,7 @@ He has indicated that the furthest that we might be able to agree, would be to i
 
 We appreciate the difficulty which we make for you in asking for this with such short notice. We knew nothing of Morgenthau's dead- line until last evening.
 
-_
+ _
 
 1 A. W. Snelling, Keynes' assistant.
 
@@ -76,4 +81,4 @@ _
 
 _
 
-_ [AA:A571, L41-42/1303, vi]_
+ _[AA:A571, L41-42/1303, vi]_

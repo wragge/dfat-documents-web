@@ -1,14 +1,20 @@
 ---
-title: "12 Burton to Bedi"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6181
+doc_date: '1949-01-04'
+doc_num: 12
+doc_order: 12
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Burton to Bedi
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-04
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 12 Burton to Bedi
-
-## Letter CANBERRA, 4 January 1949
+Letter CANBERRA, 4 January 1949
 
 I wish, on behalf of the Government, and in the absence of the Prime Minister [1], to thank you for your message of 3rd January, conveying an invitation by your Government to attend a conference in New Delhi to discuss the problem of Indonesia.
 
@@ -28,7 +34,7 @@ There is one other aspect we should like to mention. Regional action is in accor
 
 In short, the Australian Government would be pleased to send a representative to whatever conference the Indian Government might consider should be called. The status of that representative will have to be determined, having in mind the situation as it then appears. We assume that, in the meantime, the Indian Government will watch developments in order to decide whether a conference is necessary and what form it should take. If possible we should like to be kept informed of the views of the Indian Government so that we can co-operate in every way possible in securing a speedy, just and stable solution to the problem of Indonesia.
 
-_
+ _
 
 1 Chifley was on holiday in Tasmania.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

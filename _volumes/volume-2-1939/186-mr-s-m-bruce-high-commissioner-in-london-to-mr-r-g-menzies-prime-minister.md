@@ -1,12 +1,17 @@
 ---
-title: "186 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 523
+doc_date: '1939-09-02'
+doc_num: 186
+doc_order: 186
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-02
+vol_title: 'Volume 2: 1939'
 ---
-
-# 186 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 387 LONDON, 2 September 1939, 3.29 p.m.
 
@@ -24,7 +29,7 @@ The Prime Minister [4] is making statement at 2.45 and indicating will probably 
 
 BRUCE
 
-_
+ _
 
 1 Cablegram 383, sent 1 September 1939, 10.50 p.m., not printed (on file AA: A981, Germany 83B, iii).
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

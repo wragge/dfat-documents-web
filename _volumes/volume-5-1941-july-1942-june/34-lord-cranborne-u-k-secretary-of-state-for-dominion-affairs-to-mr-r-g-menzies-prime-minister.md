@@ -1,12 +1,18 @@
 ---
-title: "34 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1788
+doc_date: '1941-08-06'
+doc_num: 34
+doc_order: 35
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 185B, ii]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-06
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 34 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram M215 LONDON, 6 August 1941, 12.55 a.m.
 
@@ -22,7 +28,7 @@ The question of giving an assurance to the Netherlands Government has been under
 
 3\. The Netherlands Minister expressed satisfaction that Mr. Eden had been able to speak in this sense, since our delay in giving any reply to the Netherlands Government's approach had begun to cause anxiety particularly to the Governor-General of the Netherlands East Indies [5], who perhaps did not understand as well as the Netherlands Government in London the difficulties of our position. [6]
 
-_
+ _
 
 1\. On file AA : A981, Japan 174, ii.
 
@@ -42,4 +48,4 @@ A981, Japan 185B, ii.
 
 _
 
-_ [AA : A981, JAPAN 185B, ii]_
+ _[AA : A981, JAPAN 185B, ii]_

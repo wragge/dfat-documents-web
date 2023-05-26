@@ -1,13 +1,19 @@
 ---
-title: "319 MacArthur to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2966
+doc_date: 1944-10
+doc_num: 319
+doc_order: 319
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, Box 603]'
+title: MacArthur to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
+vol_title: 'Volume 7: 1944'
 ---
 
-# 319 MacArthur to Curtin
-
-## Letter GENERAL HEADQUARTERS, SOUTHWEST PACIFIC AREA,
+Letter GENERAL HEADQUARTERS, SOUTHWEST PACIFIC AREA,
 
 I have just concluded a conference with General Blamey with reference to the question of restoring civil administration in Papua and the Australian Mandated Territories. We are both naturally most anxious to accomplish this at the earliest possible time but are convinced that under present conditions it would tend to jeopardise the military situation. Papua is so closely linked to the Mandated Territories that the whole area should be regarded as a single unit. Large forces of the Japanese are mobilised therein and their neutralisation will continue for an indefinite time. Bases, communications, and actual field operations by not only ground forces but by both naval and air components will continue indefinitely. Confusion and friction would certainly result if civil control should be prematurely attempted during a time when the demands of military operations still remain paramount.
 
@@ -17,10 +23,10 @@ I do not know whether this question will ever arise for consideration but felt t
 
 DOUGLAS MACARTHUR
 
-_
+ _
 
 1 Australian New Guinea Administrative Unit.
 
 _
 
-_ [AA:A5954, Box 603]_
+ _[AA:A5954, Box 603]_

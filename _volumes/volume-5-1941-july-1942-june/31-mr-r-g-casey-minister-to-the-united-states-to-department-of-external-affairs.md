@@ -1,12 +1,17 @@
 ---
-title: "31 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1785
+doc_date: '1941-08-04'
+doc_num: 31
+doc_order: 32
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 185B, ii]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-04
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 31 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 596 [1] WASHINGTON, 4 August 1941, 11.50 p.m.
 
@@ -26,7 +31,7 @@ Sumner Welles then went on to speak of authority given in June to American Ambas
 
 CASEY
 
-_
+ _
 
 1 Repeated to the Legation in Tokyo as no 39.
 
@@ -58,4 +63,4 @@ Dominions Office on file AA : A1608, G59/1/3, ii.
 
 _
 
-_ [AA : A981, JAPAN 185B, ii]_
+ _[AA : A981, JAPAN 185B, ii]_

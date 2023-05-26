@@ -1,12 +1,17 @@
 ---
-title: "144 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 143
+doc_date: '1938-03-18'
+doc_num: 144
+doc_order: 143
+naa_refs:
+- naa_barcode: 206813
+  naa_control_symbol: O51/1/1
+  naa_series: A1608
+  reference: '[AA : A1608, 051/1/1]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-18
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 144 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 18 March 1938
 
@@ -18,7 +23,7 @@ Many thanks for your telegram of 16th March. [1] I am glad that the information 
 
 NEVILLE CHAMBERLAIN
 
-_
+ _
 
 1 Document 137.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA : A1608, 051/1/1]_
+ _[AA : A1608, 051/1/1]_

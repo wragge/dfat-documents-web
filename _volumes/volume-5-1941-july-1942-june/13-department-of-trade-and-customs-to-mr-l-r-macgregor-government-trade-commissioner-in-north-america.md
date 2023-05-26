@@ -1,14 +1,20 @@
 ---
-title: "13 Department of Trade and Customs to Mr L. R. Macgregor, Government Trade Commissioner in North America"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1767
+doc_date: '1941-07-23'
+doc_num: 13
+doc_order: 14
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA : A3196, 1941, 0.10346]'
+title: Department of Trade and Customs to Mr L. R. Macgregor, Government Trade Commissioner
+  in North America
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 13 Department of Trade and Customs to Mr L. R. Macgregor, Government Trade Commissioner in North America
-
-## Cablegram 2196 CANBERRA, 23 July 1941
+Cablegram 2196 CANBERRA, 23 July 1941
 
 Clapp's [1] telegram 2597 of 19th July.
 
@@ -168,9 +174,9 @@ Would appreciate earliest possible replies to this and my telegram
 
 of 22nd as plans for Clearing House are vitally affected. [6]
 
-_
+ _
 
-1 Australian representative on the British Purchasing Commission 
+1 Australian representative on the British Purchasing Commission
 
 in the United States. The cablegram is on file AA : A59/2/1, i.
 
@@ -190,7 +196,7 @@ Document 449.
 
 _
 
-_
+ _
 
 [AA : A3196, 1941, 0.10346]
 

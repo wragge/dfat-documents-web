@@ -1,12 +1,17 @@
 ---
-title: "16 Noel-Baker to Department of External Affairs"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6731
+doc_date: '1948-01-24'
+doc_num: 16
+doc_order: 16
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA : A1838, 852/20/2, III]'
+title: Noel-Baker to Department of External Affairs
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-01-24
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 16 Noel-Baker to Department of External Affairs
 
 Cablegram 24, LONDON, 24 January 1948, 7.40 p.m.
 
@@ -20,8 +25,8 @@ MIDDLE EAST We are grateful for the view of the Australian Government on our pol
 
 3\. It will have been seen from my telegram 16th January, D. No. 32, that this latter point was stressed in our communication to King Abdullah.[1] Opportunity of recent negotiations for revision of Treaty with Iraq was taken to speak in similar terms to Iraqi Prime Minister and it is also intended to make the point in conversations which we hope to have with Amir Faisal of Saudi Arabia (my telegram 14th January, D. No. 27).
 
-_ [1] Of Transjordan.
+ _[1] Of Transjordan.
 
 _
 
-_ [AA : A1838, 852/20/2, III]_
+ _[AA : A1838, 852/20/2, III]_

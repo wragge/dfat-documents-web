@@ -1,12 +1,17 @@
 ---
-title: "61 Mr A. W. Fadden, Prime Minister, to Sir John Latham, Minister to Japan"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1815
+doc_date: '1941-09-05'
+doc_num: 61
+doc_order: 62
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 1858, ii]'
+title: Mr A. W. Fadden, Prime Minister, to Sir John Latham, Minister to Japan
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-05
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 61 Mr A. W. Fadden, Prime Minister, to Sir John Latham, Minister to Japan
 
 Cablegram 11 CANBERRA, 5 September 1941
 
@@ -28,7 +33,7 @@ You will of course in no sense make any suggestion which could be construed as a
 
 FADDEN
 
-_
+ _
 
 1 Document 55.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 1858, ii]_
+ _[AA:A981, JAPAN 1858, ii]_

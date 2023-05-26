@@ -1,14 +1,19 @@
 ---
-title: "109 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department"
-volume: "Volume 1: 1937-38"
-doc_id: 108
+doc_date: '1937-11-22'
+doc_num: 109
+doc_order: 108
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL : PAGE 677]'
+title: Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-11-22
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 109 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
-
-## Cablegram unnumbered BRUSSELS, 22 November 1937
+Cablegram unnumbered BRUSSELS, 22 November 1937
 
 Conference on resumption today considered two documents submitted jointly by the United Kingdom, United States and France after discussion with the other delegations including the Dominions.
 
@@ -46,8 +51,8 @@ The Conference will be called together again whenever its Chairman or any two of
 
 BRUCE
 
-_
+ _
 
 _
 
-_ [ANL : PAGE 677]_
+ _[ANL : PAGE 677]_

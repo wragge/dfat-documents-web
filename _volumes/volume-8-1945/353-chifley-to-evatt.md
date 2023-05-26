@@ -1,12 +1,18 @@
 ---
-title: "353 Chifley to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3384
+doc_date: '1945-10-31'
+doc_num: 353
+doc_order: 353
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN
+    MINISTERS'' CONFERENCE, 0.27792]'
+title: Chifley to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-31
+vol_title: 'Volume 8: 1945'
 ---
-
-# 353 Chifley to Evatt
 
 Cablegram 1608 CANBERRA, 31 October 1945
 
@@ -26,6 +32,6 @@ He suggested the inclusion in his staff of a mission in order to ensure co-ordin
 
 Ends.
 
-_ 1 Dispatched 28 October. On file AA : A816, 52/301/222._
+ _1 Dispatched 28 October. On file AA : A816, 52/301/222._
 
-_ [AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN MINISTERS' CONFERENCE, 0.27792]_
+ _[AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN MINISTERS' CONFERENCE, 0.27792]_

@@ -1,12 +1,17 @@
 ---
-title: "362 Bruce to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 3009
+doc_date: '1944-11-27'
+doc_num: 362
+doc_order: 362
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 294]'
+title: Bruce to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-27
+vol_title: 'Volume 7: 1944'
 ---
-
-# 362 Bruce to Evatt
 
 Cablegram 161A LONDON, 27 November 1944, 5.30 p.m.
 
@@ -70,7 +75,7 @@ I shall do everything possible to expedite the United Kingdom promised proposals
 
 BRUCE
 
-_
+ _
 
 1 Document 354.
 
@@ -86,4 +91,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 294]_
+ _[AA:A5954, BOX 294]_

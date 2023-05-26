@@ -1,24 +1,27 @@
 ---
-title: "212 DESPATCH, OLIVER TO SANDYS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10077
+doc_date: '1962-11-28'
+doc_num: 212
+doc_order: 212
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 159/62]'
+title: DESPATCH, OLIVER TO SANDYS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-11-28
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 212 DESPATCH, OLIVER TO SANDYS
-
-UKNA: DO 159/62 
 
 UK High Commission, Canberra, 28 November 1962
 
 Confidential
 
-**Australia: House of Representatives Debate on the Common Market**
+ **Australia: House of Representatives Debate on the Common Market**
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-I have the honour to report that the debate on the Common Market which followed Mr Menzies’ report to the House of Representatives on the Prime Ministers’ Conference revealed a marked change in the Australian Government’s public attitude. The gap between the views now put forward, and those for airing which, only a few months ago, Mr Bury suffered dismissal as a Minister, has been substantially narrowed. 1
+I have the honour to report that the debate on the Common Market which followed Mr Menzies’ report to the House of Representatives on the Prime Ministers’ Conference revealed a marked change in the Australian Government’s public attitude. The gap between the views now put forward, and those for airing which, only a few months ago, Mr Bury suffered dismissal as a Minister, has been substantially narrowed. [1](#f1)
 
 2\. The main public image to suffer from this readjustment, that is if the Australians are not so generally bored with the subject as to be unmoved by the change, is that of Mr McEwen. Everyone expected Mr Menzies to pick a nice path between the need to convince his electorate that Australia was doing her best on the one hand, and his desire to maintain his reputation as a world statesman on the other. But Mr McEwen’s uncompromising utterances in the past have left him with little room for a change of directions, and ‘Black Jack’ on this occasion was never more than pale grey.
 
@@ -32,7 +35,7 @@ I have the honour to report that the debate on the Common Market which followed 
 
 7\. These views undoubtedly appeal to a great majority of Australians and in expressing them Mr Calwell has done his party better service than those of its members who would prefer to harp on the alleged danger of an intensification of the cold war following British entry into Europe, and on the alleged domination of the British Government by the United States.
 
-8\. Outside Parliament, Mr McEwen has not abandoned his usual more gloomy tone. He told an audience on 23rd October that Australia faced the prospect of a ‘cataclysmic’ alteration in her relations with Britain. He continues to tell his listeners that over the past 10 years Britain has sold Australia ਺.1,500 million more of items under preferences than she has bought under preference without, apparently, thinking that if his implications are accepted they reflect rather adversely upon the Minister who negotiated the 1957 Trade Agreement. Dame Patricia Hornsby-Smith2 during her recent visit found him aggressive, blaming Britain for everything, claiming, so she says, that we had no right to put up tariffs against Australia at any time in the future, and threatening that if we did we could expect no concessions in Australia. He expressed annoyance that Britain had bought wheat from India when she could have bought it from Australia,3 and he resented Dame Patricia’s reminder that India, too, was in the Commonwealth and needed help. Incidentally, in the course of her meetings with both Country Party and Liberal Party members, Dame Patricia found widespread disbelief that Britain could compete with Germany, and a false impression about the relative levels of social security levies in Britain and in the Six, an impression which she, as an expert on the subject, did her best to correct.
+8\. Outside Parliament, Mr McEwen has not abandoned his usual more gloomy tone. He told an audience on 23rd October that Australia faced the prospect of a ‘cataclysmic’ alteration in her relations with Britain. He continues to tell his listeners that over the past 10 years Britain has sold Australia ਺.1,500 million more of items under preferences than she has bought under preference without, apparently, thinking that if his implications are accepted they reflect rather adversely upon the Minister who negotiated the 1957 Trade Agreement. Dame Patricia Hornsby-Smith[2](#f2) during her recent visit found him aggressive, blaming Britain for everything, claiming, so she says, that we had no right to put up tariffs against Australia at any time in the future, and threatening that if we did we could expect no concessions in Australia. He expressed annoyance that Britain had bought wheat from India when she could have bought it from Australia,[3](#f3) and he resented Dame Patricia’s reminder that India, too, was in the Commonwealth and needed help. Incidentally, in the course of her meetings with both Country Party and Liberal Party members, Dame Patricia found widespread disbelief that Britain could compete with Germany, and a false impression about the relative levels of social security levies in Britain and in the Six, an impression which she, as an expert on the subject, did her best to correct.
 
 9\. As I have already reported, business men and others in the cities have for some time now been reconciled to the prospect of Britain’s entry and not unduly worried about the consequences. Amongst primary producers also there are signs of change. While it may be true to say that many of the smaller men on the smaller family units, together with their leaders, are still looking over their shoulders ‘at arrangements that have been rapidly losing their significance anyhow’ (President of the Graziers’ Association of New South Wales), the bigger men, and especially the economists of their organisations, in wool, meat, cereals and sugar, having passed through the valley of resignation, are saying that now is the time to prove the potentials of their industries, and one can readily detect a new optimism in the face of challenge.
 
@@ -44,14 +47,16 @@ I have the honour to report that the debate on the Common Market which followed 
 
 13\. I am sending a copy of this despatch to the British High Commissioners in Ottawa and Wellington.
 
-**The French veto: January 1963**
+ **The French veto: January 1963**
 
-_On 14 January 1961, with only a relatively small amount of negotiating ground left to cover, Macmillan’s EEC membership application was brought to an abrupt halt by French President Charles de Gaulle. Without any formal warning and without consulting his EEC partners, de Gaulle announced in a press conference that Great Britain was ‘not yet ready’ to assume the obligations of full EEC membership. He warned that to introduce into the EEC ‘new and massive elements, into the midst of those that have been fit together with such difficulty, would obviously be to jeopardize the whole’. He observed that the Six were ‘a group of continental countries, immediate neighbours to each other, doubtless offering differences of size, but complementary in their economic structure. Moreover, the Six form through their territory a compact geographic and strategic unit. It must be added that despite, perhaps because of their great battles of the past—I am naturally speaking of France and Germany—they now find themselves inclined to support one another mutually rather than to oppose one another’. Britain’s motivations for joining seemed at variance with those of the Six, and he expressed his understanding as to why ‘Britain—who is not continental, who remains, because of the Commonwealth and because she is an island, committed far beyond the seas, who is tied to the United States by all kinds of special agreements—did not merge into a Community with set dimensions and strict rules’. Given the prior history of Britain’s attitude to the Six, De Gaulle felt entitled to wonder at Britain’s new found enthusiasm: ‘Yet, apparently now’, he marvelled, ‘adopting a new state of mind, Britain declares she is ready to subscribe to the Rome Treaty, even though she is asking exceptional and prolonged delays and, as regards her, that basic changes be made in the Treaty’s implementation. At the same time, she acknowledges that in order to arrive there, it will be necessary to surmount obstacles that the great perceptiveness and profound experience of her Prime Minister have qualified as formidable’._
+ _On 14 January 1961, with only a relatively small amount of negotiating ground left to cover, Macmillan’s EEC membership application was brought to an abrupt halt by French President Charles de Gaulle. Without any formal warning and without consulting his EEC partners, de Gaulle announced in a press conference that Great Britain was ‘not yet ready’ to assume the obligations of full EEC membership. He warned that to introduce into the EEC ‘new and massive elements, into the midst of those that have been fit together with such difficulty, would obviously be to jeopardize the whole’. He observed that the Six were ‘a group of continental countries, immediate neighbours to each other, doubtless offering differences of size, but complementary in their economic structure. Moreover, the Six form through their territory a compact geographic and strategic unit. It must be added that despite, perhaps because of their great battles of the past—I am naturally speaking of France and Germany—they now find themselves inclined to support one another mutually rather than to oppose one another’. Britain’s motivations for joining seemed at variance with those of the Six, and he expressed his understanding as to why ‘Britain—who is not continental, who remains, because of the Commonwealth and because she is an island, committed far beyond the seas, who is tied to the United States by all kinds of special agreements—did not merge into a Community with set dimensions and strict rules’. Given the prior history of Britain’s attitude to the Six, De Gaulle felt entitled to wonder at Britain’s new found enthusiasm: ‘Yet, apparently now’, he marvelled, ‘adopting a new state of mind, Britain declares she is ready to subscribe to the Rome Treaty, even though she is asking exceptional and prolonged delays and, as regards her, that basic changes be made in the Treaty’s implementation. At the same time, she acknowledges that in order to arrive there, it will be necessary to surmount obstacles that the great perceptiveness and profound experience of her Prime Minister have qualified as formidable’._
 
-_Although the precise effect of his pronouncement was somewhat vague initially, it soon became clear that de Gaulle had cast a formal ‘veto’ over Britain’s membership application. After a brief and ineffectual protest on the part of France’s EEC partners, the Brussels negotiations were brought to a close on 29 January 1963._
+ _Although the precise effect of his pronouncement was somewhat vague initially, it soon became clear that de Gaulle had cast a formal ‘veto’ over Britain’s membership application. After a brief and ineffectual protest on the part of France’s EEC partners, the Brussels negotiations were brought to a close on 29 January 1963._
 
 1  Document 199. 
 
 2  Margaret Patricia Hornsby-Smith, Conservative MP for Chislehurst. 
 
 3  Note by CRO: ‘Britain has purchased no wheat from India at least since the beginning of 1957’. 
+
+[UKNA: DO 159/62]

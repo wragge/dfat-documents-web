@@ -1,12 +1,18 @@
 ---
-title: "143 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1897
+doc_date: '1941-12-01'
+doc_num: 143
+doc_order: 144
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-01
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 143 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 763 [1] CANBERRA, 1 December 1941
 
@@ -24,7 +30,7 @@ In reply to your M.406 [2] decision War Cabinet [3] is as follows:(I) It is plai
 
 (7) We again repeat our opinion that even at this late stage a further endeavour should be made to encourage United States to establish a modus vivendi with Japan, which can be made satisfactory to China as well as to other powers concerned.
 
-_
+ _
 
 1 Repeated to the Minister to the United States as no. 134 and to the N.Z. Prime Minister as no. 506. The Prime Minister also instructed the High Commissioner in the United Kingdom to see the Dominions Office copy of this cablegram (see cablegram 7540 of 1 December, AA : A3196, 1941, 0.20357). The High Commissioner later advised that cablegram 763 had arrived after the meeting with Churchill described in Document 147. See cablegram 115 of 2 December on file AA : M100, December 1941.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

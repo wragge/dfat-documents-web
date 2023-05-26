@@ -1,12 +1,17 @@
 ---
-title: "409 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1175
+doc_date: '1940-06-19'
+doc_num: 409
+doc_order: 409
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4474]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-19
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 409 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 129 WASHINGTON, 19 June 1940, 7.39 p.m.
 
@@ -18,7 +23,7 @@ State Department has had cable from American Ambassador at Tokyo [3] saying he h
 
 CASEY
 
-_
+ _
 
 1 See Document 408.
 
@@ -34,4 +39,4 @@ A3300, 13.
 
 _
 
-_ [FA: A3195, 1.4474]_
+ _[FA: A3195, 1.4474]_

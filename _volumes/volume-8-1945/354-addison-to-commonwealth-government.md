@@ -1,12 +1,17 @@
 ---
-title: "354 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3385
+doc_date: '1945-10-30'
+doc_num: 354
+doc_order: 354
+naa_refs:
+- naa_barcode: 248179
+  naa_control_symbol: 3123/4/13
+  naa_series: A1838
+  reference: '[AA : A1838 T184(SV), 3123/4/13]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-30
+vol_title: 'Volume 8: 1945'
 ---
-
-# 354 Addison to Commonwealth Government
 
 Cablegram D2016 LONDON, 30 October 1945, 6.25 p.m.
 
@@ -18,10 +23,10 @@ Korea 1. The United States State Department recently told the United Kingdom Emb
 
 3\. We should be grateful for an early expression of the views of other British Commonwealth Governments. His Majesty's United Kingdom Ambassador at Washington is being instructed that if the subject of trusteeship for Korea is raised at the present meeting of the Far Eastern Commission he should express sympathy with the United States idea of a collective trusteeship but should not commit His Majesty's Government in the United Kingdom for the present.
 
-_
+ _
 
 1 On file AA : A1066, P45/10/33.
 
 _
 
-_ [AA : A1838 T184(SV), 3123/4/13]_
+ _[AA : A1838 T184(SV), 3123/4/13]_

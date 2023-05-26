@@ -1,12 +1,17 @@
 ---
-title: "19 Conference of Australian and New Zealand Ministers"
-volume: "Volume 7: 1944"
-doc_id: 2666
+doc_date: '1944-01-18'
+doc_num: 19
+doc_order: 19
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/737/168]'
+title: Conference of Australian and New Zealand Ministers
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 19 Conference of Australian and New Zealand Ministers
 
 Proceedings of the Conference CANBERRA, 18 January 1944
 
@@ -64,7 +69,7 @@ Paragraphs 32 to 34 were agreed to.
 
 On paragraph 35 the New Zealand delegation supported the general principle but felt that they did not have enough experienced officers available to enable them to participate in the proposed course of action. The Committee accordingly recommends that the paragraph read as follows:-
 
-'It is submitted further that the two Governments inform the United Kingdom Government that Australia is prepared to make available a number of experienced officers and is prepared to institute immediately &amp;c., &amp;c., &amp;c.' Paragraph 36 was agreed to.
+'It is submitted further that the two Governments inform the United Kingdom Government that Australia is prepared to make available a number of experienced officers and is prepared to institute immediately &c., &c., &c.' Paragraph 36 was agreed to.
 
 It was agreed to refer paragraph 37, sub-paragraphs (i) and (ii) to the conference. It was agreed that sub-paragraph (iii) be omitted. The New Zealand delegation made a strong point of their desire to retain all present British interests and sovereignty in the Pacific and on subparagraph (i) they expressed the view that if Australia wished to take over the administration of the Solomon Islands that would become a matter for mutual arrangement between the Australian and the United Kingdom Governments.
 
@@ -96,10 +101,10 @@ Paragraph 52 was agreed to.
 
 H. V. EVATT
 
-_
+ _
 
 1 A procedural resolution of 17 January that: 'Each delegation shall nominate representatives to a committee to examine the Agenda and Notes on the Agenda and, at the next meeting, Dr. Evatt will report to the conference regarding those points in the Agenda upon which agreement has been reached'. See 'Proceedings of the Conference' on file AA: A989, 43/735/168. 2 See Document 18.
 
 _
 
-_ [AA:A989, 43/737/168]_
+ _[AA:A989, 43/737/168]_

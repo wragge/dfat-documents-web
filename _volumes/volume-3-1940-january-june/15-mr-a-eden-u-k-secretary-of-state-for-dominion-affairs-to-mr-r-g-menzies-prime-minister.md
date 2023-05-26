@@ -1,12 +1,18 @@
 ---
-title: "15 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 781
+doc_date: '1940-01-12'
+doc_num: 15
+doc_order: 15
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.294]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-12
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 15 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram D18 LONDON, 12 January 1940, 10.55 p.m.
 
@@ -76,15 +82,15 @@ Governments.
 
 would wish to be included.
 
-_
+ _
 
-1 This word has been inserted from the Dominions Office copy in 
+1 This word has been inserted from the Dominions Office copy in
 
 PRO: DO 114/113.
 
 _
 
-_
+ _
 
 [FA: A3195, 1.294]
 

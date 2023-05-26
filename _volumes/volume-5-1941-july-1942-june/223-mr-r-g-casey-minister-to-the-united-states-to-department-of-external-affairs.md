@@ -1,12 +1,17 @@
 ---
-title: "223 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1977
+doc_date: '1941-12-24'
+doc_num: 223
+doc_order: 224
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-24
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 223 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 1211 WASHINGTON, 24 December 1941, 3.08 p.m.
 
@@ -42,7 +47,7 @@ Churchill agreed and the President [4] concurred that United States transport 'M
 
 12\. I raised as tactfully as possible with the President question of destination of American aircraft reinforcements now destined for the Philippines via Australia in the event that it was not appropriate for them to be sent to Philippines by time they reach Darwin. He said that they would then be sent to wherever they were most wanted, Singapore or elsewhere.
 
-_
+ _
 
 1 Inserted from the Washington copy on file AA:A3300, 101.
 
@@ -66,4 +71,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

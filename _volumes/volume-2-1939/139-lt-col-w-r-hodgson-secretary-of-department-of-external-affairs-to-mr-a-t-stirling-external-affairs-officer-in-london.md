@@ -1,20 +1,26 @@
 ---
-title: "139 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to Mr A.T. Stirling, External Affairs Officer in London"
-volume: "Volume 2: 1939"
-doc_id: 476
+doc_date: '1939-08-22'
+doc_num: 139
+doc_order: 139
+naa_refs:
+- naa_barcode: 176522
+  naa_control_symbol: GER 72 PART 1
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 72B, i]'
+title: Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to Mr A.T.
+  Stirling, External Affairs Officer in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-22
+vol_title: 'Volume 2: 1939'
 ---
 
-# 139 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to Mr A.T. Stirling, External Affairs Officer in London
-
-## Cablegram unnumbered 22 August 1939 [9.53 a.m.],
+Cablegram unnumbered 22 August 1939 [9.53 a.m.],
 
 Press reports here that German official report announced to effect that Germany has agreed to sign non-aggression pact with Russia and that Ribbentrop [2] is flying to Moscow immediately. Ascertain position immediately and reply urgently shortest possible time.
 
 HODGSON
 
-_
+ _
 
 1 For evidence of times of dispatch and receipt of this cablegram see cablegram 52 from External Affairs Department to Stirling, sent 23 August 1939, not printed, on file AA: A981, Germany 72B, i, and Document 141. When an early reply was not received from Stirling, Hodgson sent a second cablegram on behalf of the Government asking urgently for information. When still no reply was received, a third cablegram was dispatched (printed As Document 140). The Prime Minister, R.G. Menzies, at 3 p.m.
 
@@ -22,4 +28,4 @@ Australian time rang the High Commissioner in London, S. M. Bruce, who returned 
 
 _
 
-_ [AA: A981, GERMANY 72B, i]_
+ _[AA: A981, GERMANY 72B, i]_

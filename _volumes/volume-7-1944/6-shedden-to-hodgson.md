@@ -1,12 +1,17 @@
 ---
-title: "6 Shedden to Hodgson"
-volume: "Volume 7: 1944"
-doc_id: 2653
+doc_date: '1944-01-07'
+doc_num: 6
+doc_order: 6
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 294]'
+title: Shedden to Hodgson
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-07
+vol_title: 'Volume 7: 1944'
 ---
-
-# 6 Shedden to Hodgson
 
 Memorandum [CANBERRA], 7 January 1944
 
@@ -754,14 +759,14 @@ _
 
 _
 
-_ 2 At the Federal Conference of the Australian Labor Party._
+ _2 At the Federal Conference of the Australian Labor Party._
 
-_ 3 On the file cited in note 1._
+ _3 On the file cited in note 1._
 
-_ 4 This was discussed at Defence Committee meetings of 28 and 31 December 1943 and 5 January 1944._
+ _4 This was discussed at Defence Committee meetings of 28 and 31 December 1943 and 5 January 1944._
+
+ _
 
 _
 
-_
-
-_ [AA:A5954, BOX 294]_
+ _[AA:A5954, BOX 294]_

@@ -1,14 +1,20 @@
 ---
-title: "53 Evatt to Burton"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6222
+doc_date: '1949-01-08'
+doc_num: 53
+doc_order: 53
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A9420
+  reference: '[AA : A9420, 6]'
+title: Evatt to Burton
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-08
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 53 Evatt to Burton
-
-## Cablegram unnumbered SS DOMINION MONARCH, 8 January 1949, 6.20
+Cablegram unnumbered SS DOMINION MONARCH, 8 January 1949, 6.20
 
 p.m.
 
@@ -38,7 +44,7 @@ MOST IMMEDIATE
 
 11\. Please reply immediately.
 
-_
+ _
 
 1 Document 505 in Volume XIII.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA : A9420, 6]_
+ _[AA : A9420, 6]_

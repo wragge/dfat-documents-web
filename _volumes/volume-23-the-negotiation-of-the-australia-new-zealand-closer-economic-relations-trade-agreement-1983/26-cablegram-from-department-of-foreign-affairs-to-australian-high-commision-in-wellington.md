@@ -1,12 +1,20 @@
 ---
-title: "26 Cablegram from Department of Foreign Affairs to Australian High Commision in Wellington"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8896
+doc_date: '1979-09-13'
+doc_num: 26
+doc_order: 26
+naa_refs:
+- naa_barcode: 1509865
+  naa_control_symbol: 370/1/19/18 PART 5
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, v]'
+title: Cablegram from Department of Foreign Affairs to Australian High Commision in
+  Wellington
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-09-13
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 26 Cablegram from Department of Foreign Affairs to Australian High Commision in Wellington
 
 Canberra, 13 September 1979
 
@@ -32,4 +40,4 @@ Mr Garland stated that Australia was approaching the exercise with an open mind 
 
 Mr Garland said that while NAFTA had been a valuable instrument in promoting significantly trade across the Tasman-currently in excess of dollars 1 billion-there was reason to doubt whether the agreement was capable of providing sufficient impetus for greater expansion of trade. If both countries were unable to obtain greater overall benefits from further liberalisation of trade or other forms of economic co-operation, it would not be because the Governments had neglected to consider the opportunities.
 
-_[NAA: A1838, 37011/19/18, v]_
+ _[NAA: A1838, 37011/19/18, v]_

@@ -1,12 +1,17 @@
 ---
-title: "81 Beasley and Makin to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3593
+doc_date: '1946-02-09'
+doc_num: 81
+doc_order: 81
+naa_refs:
+- naa_barcode: 235856
+  naa_control_symbol: '386'
+  naa_series: A3300
+  reference: '[AA:A3300, 46/386]'
+title: Beasley and Makin to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-09
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 81 Beasley and Makin to Evatt
 
 Cablegram 946 LONDON, 9 February 1946, 11.52 p.m.
 
@@ -42,7 +47,7 @@ There was no objection to this as islands were British or New Zealand.
 
 (vii) Fraser emphasised his idea was that the Washington talks were merely informal and private to clear the ground and that if it were desirable in the light of developments anyone could then raise wider proposals and the question of further Conference elsewhere.
 
-_
+ _
 
 1 Dispatched 6 February and responding to Document 55, it sought information on the progress of negotiations.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA:A3300, 46/386]_
+ _[AA:A3300, 46/386]_

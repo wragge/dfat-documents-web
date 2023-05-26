@@ -1,12 +1,17 @@
 ---
-title: "214 Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1968
+doc_date: '1941-12-23'
+doc_num: 214
+doc_order: 215
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 214 Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States
 
 Cablegram 1103 CANBERRA, 23 December 1941
 
@@ -38,7 +43,7 @@ interests as to our own.
 
 CURTIN
 
-_
+ _
 
 1 See cablegram 1102 of 23 December (on file AA:A981, War 33, attachment B) which advised Casey that the message was addressed jointly to Franklin D. Roosevelt and Winston Churchill and instructed him to ensure that it was delivered to them immediately and if possible simultaneously.
 
@@ -52,4 +57,4 @@ R. Hodgson, Secretary of the External Affairs Dept, to Johnson on file AA:A981, 
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

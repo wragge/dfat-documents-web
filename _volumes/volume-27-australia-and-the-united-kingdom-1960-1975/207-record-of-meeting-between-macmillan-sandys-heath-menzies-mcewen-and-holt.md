@@ -1,22 +1,25 @@
 ---
-title: "207 RECORD OF MEETING BETWEEN MACMILLAN, SANDYS, HEATH, MENZIES, MCEWEN AND HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10072
+doc_date: '1962-09-07'
+doc_num: 207
+doc_order: 207
+naa_refs:
+- naa_barcode: 1669701
+  naa_control_symbol: VOLUME 8
+  naa_series: A3917
+  reference: '[NAA: A3917 VOLUME 8]'
+title: RECORD OF MEETING BETWEEN MACMILLAN, SANDYS, HEATH, MENZIES, MCEWEN AND HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-09-07
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 207 RECORD OF MEETING BETWEEN MACMILLAN, SANDYS, HEATH, MENZIES, MCEWEN AND HOLT
-
-NAA: A3917 VOLUME 8 
 
 London, 7 September 1962
 
-**Common Market Negotiations**
+ **Common Market Negotiations**
 
 Welcoming the Australian Ministers, MR MACMILLAN said that he hoped they could review generally the position that had so far emerged in the Brussels negotiations and discuss frankly the situation as seen by Australian and British Ministers.
 
-_Temperate Agricultural Products_
+ _Temperate Agricultural Products_
 
 MR HEATH summarised the position reached on temperate agricultural products. He said that in his opening statement to the Six he had asked for comparable outlets for the Commonwealth and had not defined this further until after the Six had agreed on their common agricultural policy. We had then said that what we wanted was access for Commonwealth producers up to traditional quantities without hindrance and as far as possible on the same conditions as they now enjoyed. We had asked for this access to be to the Community as a whole, partly because of the advantages this might give to Commonwealth producers and partly to show that we were already thinking in Community terms. There had been a long debate but the Six had maintained their opposition to any quantitative solution. When the common agricultural policy had been under negotiation the Germans had wished to retain quantitative arrangements. The French had opposed them, fearing that such arrangements would enable importing countries to obtain advantages for their industrial exports, and their view had prevailed. They were not willing to have this question reopened and it was clear that this was a breaking point as far as they and probably others of the Six were concerned.
 
@@ -46,4 +49,6 @@ MR HEATH said that the rise in standards of living in the Community, which shoul
 
 MR MACMILLAN said that it seemed that it might be advisable for the enlarged Community to aim at keeping prices at about the present general level—i.e. to harmonise prices at approximately the average level. This seemed likely to change the pattern of production inside the Community to some extent without adding greatly to its total.
 
-[_matter omitted_]
+[ _matter omitted_ ]
+
+[NAA: A3917 VOLUME 8]

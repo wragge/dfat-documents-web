@@ -1,20 +1,26 @@
 ---
-title: "401 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1167
+doc_date: '1940-06-18'
+doc_num: 401
+doc_order: 401
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, UNNUMBERED]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-18
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 401 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
-
-## Circular cablegram Z124 LONDON, 18 June 1940, 12.05 a.m.
+Circular cablegram Z124 LONDON, 18 June 1940, 12.05 a.m.
 
 Prime Minister will be making statement in Parliament on Tuesday afternoon. [1] On the assumption that this statement would be broadcast we had hoped to suggest that the Dominion Prime Ministers should be invited to follow with personal and oral statements in the same broadcast. We are, however, advised that for technical reasons this procedure would have been unpracticable since anything approaching satisfactory reception in certain cases could not be guaranteed and moreover it is now doubtful whether the Prime Minister's statement will in fact be broadcast. [2] In these circumstances the best course would appear to be that, if, as we hope, the Dominion Prime Ministers feel able to, they should, as soon as possible after the receipt of Mr. Churchill's speech, issue locally public statements of their own. These would of course be received through press channels for publication here.
 
 Full press reports of the Prime Minister's statement will no doubt be received. Please telegram if the Dominion Governments wish text to be sent officially en clair after delivery. [3]
 
-_
+ _
 
 1 For the text of Churchill's statement on 18 June 1940 see House of Commons, Parliamentary Debates, fifth series, vol. 362, cols 51-61.
 
@@ -24,4 +30,4 @@ _
 
 _
 
-_ [FA: A3195, UNNUMBERED]_
+ _[FA: A3195, UNNUMBERED]_

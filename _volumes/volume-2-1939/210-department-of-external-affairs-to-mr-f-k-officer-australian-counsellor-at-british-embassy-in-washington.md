@@ -1,14 +1,20 @@
 ---
-title: "210 Department of External Affairs to Mr F.K. Officer, Australian Counsellor at British Embassy in Washington"
-volume: "Volume 2: 1939"
-doc_id: 547
+doc_date: '1939-09-07'
+doc_num: 210
+doc_order: 210
+naa_refs:
+- naa_barcode: 214768
+  naa_control_symbol: '108'
+  naa_series: AA1972/341
+  reference: '[AA:AA1972/341, BOX 6, TELEGRAMS ... SEPTEMBER 1939]'
+title: Department of External Affairs to Mr F.K. Officer, Australian Counsellor at
+  British Embassy in Washington
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-07
+vol_title: 'Volume 2: 1939'
 ---
 
-# 210 Department of External Affairs to Mr F.K. Officer, Australian Counsellor at British Embassy in Washington
-
-## Cablegram 28, 7 September 1939, 11.30 p.m.
+Cablegram 28, 7 September 1939, 11.30 p.m.
 
 Prime Minister would appreciate if Ambassador [1] would communicate earliest practicable moment following personal message from Prime Minister to the President. [2]
 
@@ -22,7 +28,7 @@ Your friendship towards Australia and your great courtesy to me when I had the h
 
 R.G. MENZIES Prime Minister of Australia Ends.
 
-_
+ _
 
 1 Lord Lothian, U.K. Ambassador to the United States.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA:AA1972/341, BOX 6, TELEGRAMS ... SEPTEMBER 1939]_
+ _[AA:AA1972/341, BOX 6, TELEGRAMS ... SEPTEMBER 1939]_

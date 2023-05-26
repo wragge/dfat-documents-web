@@ -1,12 +1,17 @@
 ---
-title: "408 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1639
+doc_date: '1941-04-16'
+doc_num: 408
+doc_order: 408
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA: A981, FAR EAST 26A]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-16
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 408 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 287 [1] WASHINGTON, 16 April 1941, 10.13 p.m.
 
@@ -24,7 +29,7 @@ Sumner Welles said all that they really know is that Japanese are ready with arm
 
 United States Government have no proposals for any further immediate statements or gestures arising out of Japanese-Russian Pact or Far East situation generally.
 
-_
+ _
 
 1 The Washington copy, on file AA: A3300, 98, was numbered 288.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA: A981, FAR EAST 26A]_
+ _[AA: A981, FAR EAST 26A]_

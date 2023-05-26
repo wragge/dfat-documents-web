@@ -1,14 +1,17 @@
 ---
-title: "143 MINUTE, BUNTING TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10008
+doc_date: '1961-07-07'
+doc_num: 143
+doc_order: 143
+naa_refs:
+- naa_barcode: 1051622
+  naa_control_symbol: C3368 PART 2
+  naa_series: A4940
+  reference: '[NAA: A4940, C3368 PART 2]'
+title: MINUTE, BUNTING TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-07
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 143 MINUTE, BUNTING TO MENZIES
-
-NAA: A4940, C3368 PART 2
 
 Canberra, 7 July 1961
 
@@ -28,7 +31,7 @@ The history of this matter is:–
 
 
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
   1. Next, they felt that they might be able to start negotiations with the Six, but only with the knowledge that they could carry it through to a successful result from their point of view—they were not willing to risk a second failure. They have now moved away from this.
   2. They are now considering (and may have decided) to enter negotiations with the idea of joining the Treaty of Rome, _but with derogations._
@@ -38,7 +41,7 @@ The history of this matter is:–
 
 2.
 
-> (a) The United Kingdom said to New Zealand,1 and will no doubt say to us, that if in negotiations with the Six they cannot reach accommodation which protects the interests of the Commonwealth they will break off negotiations. But all the information we get from our Ambassadors2 [...] suggests that the Europeans have no intention of agreeing to derogations. What we know, the United Kingdom must know.
+> (a) The United Kingdom said to New Zealand,[1](#f1) and will no doubt say to us, that if in negotiations with the Six they cannot reach accommodation which protects the interests of the Commonwealth they will break off negotiations. But all the information we get from our Ambassadors[2](#f2) [...] suggests that the Europeans have no intention of agreeing to derogations. What we know, the United Kingdom must know.
 > 
 > (b) This suggests that there is a great deal of pretence on the part of the United Kingdom—pretence that there are prospects for substantial derogations; pretence that it is reasonable for us to indicate (as New Zealand did) that it is safe for us to acquiesce in the United Kingdom entering negotiations; pretence that the United Kingdom can easily withdraw; and pretence that once having allowed (even if only by default) the United Kingdom to begin negotiations we can, at a later date, start protesting.
 
@@ -60,3 +63,5 @@ The history of this matter is:–
 1 During Sandys’ visit to Wellington immediately prior to his arrival in Canberra in July 1961.
 
 2 For example, Document 142.
+
+[NAA: A4940, C3368 PART 2]

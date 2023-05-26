@@ -1,12 +1,17 @@
 ---
-title: "263 Full Cabinet Submission by Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3294
+doc_date: '1945-09-24'
+doc_num: 263
+doc_order: 263
+naa_refs:
+- naa_barcode: 227879
+  naa_control_symbol: VOLUME 11
+  naa_series: A2700
+  reference: '[AA : A2700, VOL. II]'
+title: Full Cabinet Submission by Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-24
+vol_title: 'Volume 8: 1945'
 ---
-
-# 263 Full Cabinet Submission by Chifley
 
 Agendum 669B CANBERRA, 24 September 1945
 
@@ -50,7 +55,7 @@ J. B. CHIFLEY
 
 Treasurer
 
-_
+ _
 
 1 For extracts from the report of the Australian delegation, see Documents on Australian Foreign Policy 1937-49, vol. VII, Document 260E.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA : A2700, VOL. II]_
+ _[AA : A2700, VOL. II]_

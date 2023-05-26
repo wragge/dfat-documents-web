@@ -1,12 +1,17 @@
 ---
-title: "215 Note For File By Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9723
+doc_date: '1968-08-06'
+doc_num: 215
+doc_order: 215
+naa_refs:
+- naa_barcode: 3125736
+  naa_control_symbol: 1968/2441 PART 2
+  naa_series: A452
+  reference: '[NAA: A452, 1968/2441 part 2]'
+title: Note For File By Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-08-06
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 215 Note For File By Warwick Smith
 
 Canberra, 6 August 1968
 
@@ -18,10 +23,10 @@ Sir Henry Bland subsequently rang Mr. Barnes and said that Mr. Fairhall had spok
 
 The Minister explained to Sir Henry that he was primarily concerned about the reliability of the force and secondarily about the economic aspect. Sir Henry Bland professed surprise to learn that the question of the reliability of the force was the major issue. He said that had this been known he was sure the Army people would have had a good deal to say. I said this was clear from the papers and I had told the Defence Committee clearly that this was the Minister’s view.
 
-The Minister mentioned that since it might take a little time to get a Cabinet Decision he had mentioned to Mr. Fairhall who had agreed that there should be no recruiting pending that decision. Sir Henry said that the next intake was for December and there was therefore no present question of deferring future recruiting. 1
+The Minister mentioned that since it might take a little time to get a Cabinet Decision he had mentioned to Mr. Fairhall who had agreed that there should be no recruiting pending that decision. Sir Henry said that the next intake was for December and there was therefore no present question of deferring future recruiting. [1](#f1)
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-[NAA: A452, 1968/2441 part 2)
+[NAA: A452, 1968/2441 part 2]
 
-1  Warwick Smith and Bland later confirmed this understanding by an exchange of letters (see Warwick Smith to Bland, 7 August 1968, and Bland to Warwick Smith, 12 August 1968, in A452, 1968/2441 part 2). 
+1  Warwick Smith and Bland later confirmed this understanding by an exchange of letters (see Warwick Smith to Bland, 7 August 1968, and Bland to Warwick Smith, 12 August 1968, in A452, 1968/2441 part 2).

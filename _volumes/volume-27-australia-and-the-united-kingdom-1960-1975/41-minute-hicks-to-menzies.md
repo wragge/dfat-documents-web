@@ -1,24 +1,27 @@
 ---
-title: "41 MINUTE, HICKS TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9907
+doc_date: '1965-10-19'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 1565721
+  naa_control_symbol: 248/10/19
+  naa_series: A1945
+  reference: '[NAA: Al945, 248/10/19]'
+title: MINUTE, HICKS TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-10-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 41 MINUTE, HICKS TO MENZIES
-
-NAA: Al945, 248/10/19
 
 Canberra, 19 October 1965
 
 Top Secret
 
-****
+ ****
 
 British Presence in South East Asia
 
-I now attach the retyped version of the Defence Committee report and your covering submission on the ‘British Presence in South East Asia’.1
+I now attach the retyped version of the Defence Committee report and your covering submission on the ‘British Presence in South East Asia’.[1](#f1)
 
 2\. You asked on Saturday morning that I give you a brief note to remind you of the additional points which we then discussed and which were:–
 
@@ -26,7 +29,7 @@ I now attach the retyped version of the Defence Committee report and your coveri
 
 (b) Not only do we have to be ‘forthcoming’ in our attitude to the problems which the British are currently facing in their Defence Review but we have also to show understanding of their overall economic problems and be willing to direct our national efforts in all spheres of relationships in a more positive manner in an effort to assist. This in tum will help them to view with more favour our representations on the defence problem.
 
-(c) One area in which the British have been unusually sensitive is the indication that British manufactured aircraft may ultimately disappear from Australian skies.2 In this regard there could be merit in exploring:–
+(c) One area in which the British have been unusually sensitive is the indication that British manufactured aircraft may ultimately disappear from Australian skies.[2](#f2) In this regard there could be merit in exploring:–
 
 > (i) deferring the introduction of DC9 aircraft for use on our internal Airlines for an indefinite period.
 > 
@@ -53,3 +56,5 @@ I now attach the retyped version of the Defence Committee report and your coveri
 1 See Document 40.
 
 2 When, in 1963, the Australian Government opted to buy the US TFX or F–111 A in preference to the UK TSR2 as a replacement for Australia’s Canberra bombers, Menzies wrote to Douglas-Home, then Prime Minister in the UK, to explain the decision. Having discussed the merits of the new bomber aircraft, Menzies concluded: ‘One more thing, and for your private information. We can’t ignore the significance of this with the United States. Although I have no doubt that the excellence of the delivery and price terms owe a great deal to the talents of my colleague [Townley, the Defence Secretary], there is more than an element of United States initiative in the transaction. By accepting it we do two things. We strengthen materially our own defensive power and we add a good deal to the total free world capacity in this area. Further, we do it in a way which undoubtedly satisfies the United States and sustains their interest in this corner of the world. This a most important by-product of the decision and one which I hope may contain some merit from your point of view’ (UKNA: DO 164/27, message, Menzies to Douglas-Home, submitted through Australia House in London, 24 October 1963).
+
+[NAA: Al945, 248/10/19]

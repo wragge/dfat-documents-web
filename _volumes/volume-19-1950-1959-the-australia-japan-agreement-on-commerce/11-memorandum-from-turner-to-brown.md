@@ -1,14 +1,19 @@
 ---
-title: "11 Memorandum From Turner To Brown"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7616
+doc_date: '1951-10-11'
+doc_num: 11
+doc_order: 11
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP553/1
+  reference: '[AA : CP553/1/1, 194/B/10/109]'
+title: Memorandum From Turner To Brown
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1951-10-11
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 11 Memorandum From Turner To Brown
-
-## 11th October, 1951
+11th October, 1951
 
 Parliamentary Question-Trade with Japan
 
@@ -70,7 +75,7 @@ That constitutes a major reason for the conclusion of the sterling area trade ar
 
 In regard to the last portion of the honorable member's question, the Department of Trade and Customs is fully aware of the possibility that Hong Kong may be used as a port for the illegal transhipment of goods. However, it is a normal function of the Department to ensure that duties are collected in accordance with the tariff applicable to the country in which the goods are manufactured. In addition the Department is responsible for ensuring that imported goods are correctly marked in accordance with Commonwealth legislation.
 
-_
+ _
 
 1 On 16 October L.C. Haylen, ALP MHR for Parkes, NSW, had asked whether Japanese trade representatives were now permitted to attend trade talks at Geneva, whether Japan would soon become a member of GATT and thus receive full benefit of tariff concessions granted under GATT by Australia, and what action was proposed to prevent Australia being flooded with Japanese goods. Menzies had replied that a Japanese observer would be present at Geneva and that in the event of Japan being admitted to membership of GATT it would not automatically become entitled to advantages of concern to Australia. He offered to ask the Minister for Trade and Customs to prepare a statement setting out the exact position for the information of members.
 
@@ -78,4 +83,4 @@ _
 
 _
 
-_ [AA : CP553/1/1, 194/B/10/109]_
+ _[AA : CP553/1/1, 194/B/10/109]_

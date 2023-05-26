@@ -1,14 +1,17 @@
 ---
-title: "275 CABLEGRAM, DEPARTMENT OF TRADE TO RENOUF"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10140
+doc_date: '1971-01-26'
+doc_num: 275
+doc_order: 275
+naa_refs:
+- naa_barcode: 551422
+  naa_control_symbol: 727/4/2 PART 11
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 11]'
+title: CABLEGRAM, DEPARTMENT OF TRADE TO RENOUF
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-01-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 275 CABLEGRAM, DEPARTMENT OF TRADE TO RENOUF
-
-NAA: A1838, 727/4/2 PART 11 
 
 Canberra, 26 January 1971
 
@@ -28,7 +31,7 @@ On the question of damage to Australian exports by British entry Mr Lipkowski st
 
 In reply we pointed out that although the total effect may be relatively small on Australia’s trade, the effects on particular rural communities would be extremely severe. On the question of the transitional period we emphasised that according to the latest British proposals, there could well be a sudden cut-off in our access to the British market. This was because the British had made the proposal of granting preferences to Community products immediately upon entry by imposing higher threshold prices against third country supplies. Lipkowski commented if that is so we had better prepare for immediate difficulties.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 Mr Lipkowski felt that although the Six are anxious for the UK to join, negotiations will continue for some time, particularly over the level of participation of the UK in Community financing and the Sterling question.
 
@@ -42,6 +45,8 @@ Mr Sinclair concluded that, as a multilateral trader, Australia is anxious not t
 
 In summary Mr Lipkowski felt that ‘Australia’s doubts and concerns in relation to the EEC were not justified in the long term’. The EEC was concerned about the problem of its agricultural surpluses, it favoured world commodity agreements, the CET was generally low and the EEC was trade expansive in outlook.
 
-Comment: Mr Lipkowski’s approach during the discussions was in keeping with most of his press and other comments while in Australia. He put out strongly the line that there was nothing for Australia to be worried about. The EEC was a very outward looking body which had made a significant contribution to the expansions of world trade. In fact one could be forgiven for believing that the EEC were the greatest free traders in existence today.1
+Comment: Mr Lipkowski’s approach during the discussions was in keeping with most of his press and other comments while in Australia. He put out strongly the line that there was nothing for Australia to be worried about. The EEC was a very outward looking body which had made a significant contribution to the expansions of world trade. In fact one could be forgiven for believing that the EEC were the greatest free traders in existence today.[1](#f1)
 
 1  An unidentified source in Foreign Affairs has minuted at the foot of this document: ‘Cynical, sarcastic, and reflecting Trade’s aggressive attitude to the Community. No wonder there is little sympathy for us and no wonder Lipkowski was rigid. It’s time we looked at results of McEwen approach.’ 
+
+[NAA: A1838, 727/4/2 PART 11]

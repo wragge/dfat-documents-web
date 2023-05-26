@@ -1,12 +1,17 @@
 ---
-title: "68 Mr A. W. Fadden, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1822
+doc_date: '1941-09-15'
+doc_num: 68
+doc_order: 69
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:DO 114/114]'
+title: Mr A. W. Fadden, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-15
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 68 Mr A. W. Fadden, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
 
 Cablegram 590 CANBERRA, 15 September 1941
 
@@ -48,7 +53,7 @@ The proposal to reinforce the garrison with one battalion of heavy tanks appears
 
 FADDEN
 
-_
+ _
 
 1 Document 64.
 
@@ -78,4 +83,4 @@ _
 
 _
 
-_ [PRO:DO 114/114]_
+ _[PRO:DO 114/114]_

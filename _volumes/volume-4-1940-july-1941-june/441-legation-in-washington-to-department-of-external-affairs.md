@@ -1,12 +1,17 @@
 ---
-title: "441 Legation in Washington to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1672
+doc_date: '1941-05-01'
+doc_num: 441
+doc_order: 441
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA: A3830, 1941, 1063]'
+title: Legation in Washington to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-01
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 441 Legation in Washington to Department of External Affairs
 
 Cablegram 324 WASHINGTON, 1 May 1941, 6.53 p.m.
 
@@ -20,7 +25,7 @@ TROPIC No. 7 Navy Department have received with great satisfaction details regar
 
 (3) They are definitely of the opinion that Rabaul is the best base from which to operate in the Caroline area and would appreciate anything that can be done to assist the defences on a small scale, e.g. the establishment of a small force of auxiliary A/S [4] vessels if these could be spared without detriment to more important services.
 
-_
+ _
 
 1 Admiral Sir Ragnar Colvin, but see Document 355, note 2.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A3830, 1941, 1063]_
+ _[AA: A3830, 1941, 1063]_

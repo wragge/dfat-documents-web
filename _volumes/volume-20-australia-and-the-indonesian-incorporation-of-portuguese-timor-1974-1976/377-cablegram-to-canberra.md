@@ -1,12 +1,19 @@
 ---
-title: "377 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8215
+doc_date: '1975-12-15'
+doc_num: 377
+doc_order: 376
+naa_refs:
+- naa_barcode: 4151386
+  naa_control_symbol: TS202/1/1 ANNEX 2
+  naa_series: A10005
+  reference: '[NAA: Al0005, TS202/1/1, ANNEX 2]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-12-15
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 377 Cablegram to Canberra
 
 Jakarta, 15 December 1975
 
@@ -14,12 +21,12 @@ O.JA3698 SECRET AUSTEO PRIORITY
 
 ## Portuguese Timor
 
-Since my return from brief visit to Singapore I have seen the weekend cables from Jakarta and New York's O.UN4735.1
+Since my return from brief visit to Singapore I have seen the weekend cables from Jakarta and New York's O.UN4735.[1](#f1)
 
-  2. As foreshadowed in our JA36692 we intend to test the reaction of several key Ministers and officials, including Malik, and possibly indirectly that of the President (although he is in hospital at present), to Australia's vote in the United Nations on Resoiution L1131 and the situation here after that vote.
-  3. I hope I am wrong but I believe the Indonesian reaction at all levels will not differ much from Tjan's (our O.JA3669 and JA36733 ) except that it may be outwardly more polite. Tjan's bluntness stems from the close relationship between him and the Embassy developed over several years.
-  4. I expect it will be one of surprise and disappointment which is going to take some time to repair.We may also have opened up something of a credibility gap in our dealings with Indonesia which we should act to bridge if we can. Those Indonesians who know of Mr Peacock's private discussions in Bali in September4 and Mr Fraser's message to the President which I delivered personally on 28 November5 will, I believe, find our action inconsistent, even accepting that they would expect Australia to exclude the use of force as a means to a solution 'appropriate' to Indonesia.
-  5. It is true that the Indonesians originally thought our attitude in New York was helpful (paragraph 2 of UN4732) and Malik told me so when I saw him on 10 December. It is also true that they are aware we acted to blunt criticism of Indonesia in New York which otherwise could have been stronger. The fact is that however we started off, Australia, in supporting Lll31, placed itself when it came to the vote with the non-regional opposition in the United Nations to Indonesia.
+  2. As foreshadowed in our JA3669[2](#f2) we intend to test the reaction of several key Ministers and officials, including Malik, and possibly indirectly that of the President (although he is in hospital at present), to Australia's vote in the United Nations on Resoiution L1131 and the situation here after that vote.
+  3. I hope I am wrong but I believe the Indonesian reaction at all levels will not differ much from Tjan's (our O.JA3669 and JA3673[3](#f3) ) except that it may be outwardly more polite. Tjan's bluntness stems from the close relationship between him and the Embassy developed over several years.
+  4. I expect it will be one of surprise and disappointment which is going to take some time to repair.We may also have opened up something of a credibility gap in our dealings with Indonesia which we should act to bridge if we can. Those Indonesians who know of Mr Peacock's private discussions in Bali in September[4](#f4) and Mr Fraser's message to the President which I delivered personally on 28 November5 will, I believe, find our action inconsistent, even accepting that they would expect Australia to exclude the use of force as a means to a solution 'appropriate' to Indonesia.
+  5. It is true that the Indonesians originally thought our attitude in New York was helpful (paragraph 2 of UN473[2](#f2)) and Malik told me so when I saw him on 10 December. It is also true that they are aware we acted to blunt criticism of Indonesia in New York which otherwise could have been stronger. The fact is that however we started off, Australia, in supporting Lll31, placed itself when it came to the vote with the non-regional opposition in the United Nations to Indonesia.
   6. We have done our best to explain our attitude to Indonesians at various levels but on an issue which they see as being of great national and regional importance to them, we cannot reasonably expect to vote against Indonesia and out of company with other countries in the region (even Sri Lanka moved to an abstention in Plenary) and have them accept this without reaction.
   7. We have done our best to explain our attitude to Indonesians at various levels but on an issue which they see as being of great national and regional importance to them, we cannot reasonably expect to vote against Indonesia and out of company with other countries in the region (even Sri Lanka moved to an abstention in Plenary) and have them accept this without reaction.
   8. I telephoned Minister for Information Mashuri and asked him about the significance of this part of the statement (which was issued in his name, not Malik's) and asked him which 'countries' plural the Government had in mind. He said that although the plural was used as far as the region was concerned it was directed at Australia. He added that he was 'sorry to say so' but Indonesia felt 'let down by a friend'. He added that it was not really directed at Sri Lanka which was not closely enough involved in the South East Asian region to understand the issue fully. Anyway, it had changed its vote. Indonesia would have preferred Singapore to have voted against the Resolution but at least it had abstained and the Government statement was not directed at Singapore.
@@ -34,12 +41,10 @@ Since my return from brief visit to Singapore I have seen the weekend cables fro
 
 WOOLCOTT
 
-_[NAA: Al0005, TS202/1/1, ANNEX 2]_
+ _[NAA: Al0005, TS202/1/1, ANNEX 2]_
 
   * 1 See note 1 to Document 375.
   * 2 Document 374.
   * 3 Document 375.
   * 4 Peacock had been briefed by Tjan during a private visit to Bali in September 1975. See note 1 to Document 357.
   * 5 Presumably Document 343, which was in fact delivered on 25 November (see Document 344).
-
-

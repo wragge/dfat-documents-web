@@ -1,14 +1,19 @@
 ---
-title: "16 Submission Ot/1 To Cabinet Committee [1] By Brown"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7621
+doc_date: '1952-09-03'
+doc_num: 16
+doc_order: 16
+naa_refs:
+- naa_barcode: 210034
+  naa_control_symbol: VOLUME 27
+  naa_series: A4933
+  reference: '[AA : A4933/XMI, VOLUME 27]'
+title: Submission Ot/1 To Cabinet Committee [1] By Brown
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1952-09-03
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 16 Submission Ot/1 To Cabinet Committee [1] By Brown
-
-## 3rd September, 1952
+3rd September, 1952
 
 General Agreement on Tariffs and Trade The Seventh Session of the Contracting Parties to the General Agreement on Tariffs and Trade will commence in Geneva on 2nd October, 1952. An Advance Agenda for this Session has been circulated by the Executive Secretary and will be considered by the Ad Hoc Committee on Agenda and Intersessional Business (on which Australia is represented) at a meeting commencing on 4th September, 1952.
 
@@ -110,7 +115,7 @@ It is, therefore, suggested that this matter might be further considered when th
 
 (c) The question of Australia entering into negotiations with Japan should be considered later in the light of developments. [2]
 
-_
+ _
 
 1\. The Cabinet Committee on Overseas Commercial Relations.
 
@@ -118,4 +123,4 @@ _
 
 _
 
-_ [AA : A4933/XMI, VOLUME 27)_
+ _[AA : A4933/XMI, VOLUME 27]_

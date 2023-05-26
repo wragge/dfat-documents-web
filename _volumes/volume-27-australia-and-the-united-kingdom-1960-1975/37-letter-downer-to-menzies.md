@@ -1,14 +1,17 @@
 ---
-title: "37 LETTER, DOWNER TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9903
+doc_date: '1965-09-20'
+doc_num: 37
+doc_order: 37
+naa_refs:
+- naa_barcode: 1728285
+  naa_control_symbol: TS691/1 PART 4
+  naa_series: A1838
+  reference: '[NAA: A1838, TS691/1 PART 4]'
+title: LETTER, DOWNER TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-09-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 37 LETTER, DOWNER TO MENZIES
-
-NAA: A1838, TS691/1 PART 4
 
 Australian High Commission, London, 20 September 1965
 
@@ -26,6 +29,8 @@ It is quite clear that Healey is not thinking of an immediate reorientation of B
 
 He told me that he felt that we and the Americans were doing Britain a great disservice by virtually compelling her to remain in that region unless we were prepared to find a means of bringing confrontation fairly speedily to an end. ‘What do you think the answer to confrontation is’ he kept on asking. He does not believe that Soekarno is likely to die or be displaced soon, nor does he feel that there is necessarily likely to be any change in policy by whoever might succeed Soekarno. Healey added that the only effective people in Asia we were able to deal with seemed to be dictators.
 
-I don’t want to give you a wrong impression of Healey’s demeanour. It was a friendly conversation, but it was the first time I have heard a British Minister being critical, to me, of our policy or of your own personal attitude. He seemed to imply that you yourself were adamant and rigid, and I think he somewhat resented the message you sent to Harold Wilson about the Quadripartite Paper. 1 But he admitted, in passing, that there was not a united view in Cabinet on these problems.
+I don’t want to give you a wrong impression of Healey’s demeanour. It was a friendly conversation, but it was the first time I have heard a British Minister being critical, to me, of our policy or of your own personal attitude. He seemed to imply that you yourself were adamant and rigid, and I think he somewhat resented the message you sent to Harold Wilson about the Quadripartite Paper. [1](#f1) But he admitted, in passing, that there was not a united view in Cabinet on these problems.
 
 1  See Document 34. 
+
+[NAA: A1838, TS691/1 PART 4]

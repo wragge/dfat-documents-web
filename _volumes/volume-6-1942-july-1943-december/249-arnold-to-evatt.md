@@ -1,12 +1,17 @@
 ---
-title: "249 Arnold to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2540
+doc_date: '1943-07-22'
+doc_num: 249
+doc_order: 249
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400.3295 AUSTRALIA]'
+title: Arnold to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-07-22
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 249 Arnold to Evatt
 
 Letter WASHINGTON, 22 July 1943
 
@@ -26,6 +31,6 @@ The matter of providing equipment for the Royal Australian Air Force has always 
 
 H. H. ARNOLD
 
-__
+ __
 
-_ [FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400.3295 AUSTRALIA]_
+ _[FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400.3295 AUSTRALIA]_

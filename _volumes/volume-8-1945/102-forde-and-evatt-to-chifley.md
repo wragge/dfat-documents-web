@@ -1,12 +1,17 @@
 ---
-title: "102 Forde and Evatt to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3133
+doc_date: '1945-06-05'
+doc_num: 102
+doc_order: 102
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 311]'
+title: Forde and Evatt to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-06-05
+vol_title: 'Volume 8: 1945'
 ---
-
-# 102 Forde and Evatt to Chifley
 
 Cablegram SFC38 SAN FRANCISCO, 5 June 1945, 2.55 a.m.
 
@@ -26,7 +31,7 @@ IMMEDIATE TOP SECRET PERSONAL
 
 FORDE EVATT
 
-_
+ _
 
 1 Document 97.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 311]_
+ _[AA : A5954, BOX 311]_

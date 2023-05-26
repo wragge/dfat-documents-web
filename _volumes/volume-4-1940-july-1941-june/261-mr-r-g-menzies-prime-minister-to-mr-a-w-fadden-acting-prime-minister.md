@@ -1,12 +1,17 @@
 ---
-title: "261 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1492
+doc_date: '1941-01-29'
+doc_num: 261
+doc_order: 261
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA:CP290/6, 70]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-29
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 261 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram GR228 (extract) SINGAPORE, 29 January 1941, 5.20 p.m.
 
@@ -20,7 +25,7 @@ To enable me to follow up certain questions of higher policy on these it is impo
 
 C.-I.-C. [4] has raised the possibility of keeping an Australian Brigade Group turned over at Singapore. This might be reported on by the Chiefs of Staff for consideration by the War Cabinet.
 
-_
+ _
 
 1 Respectively W. M. Hughes, P. C. Spender, John McEwen, Lt Gen V.
 
@@ -36,4 +41,4 @@ Staff Conversations with United States of America and Netherlands East Indies.
 
 _
 
-_ [AA:CP290/6, 70]_
+ _[AA:CP290/6, 70]_

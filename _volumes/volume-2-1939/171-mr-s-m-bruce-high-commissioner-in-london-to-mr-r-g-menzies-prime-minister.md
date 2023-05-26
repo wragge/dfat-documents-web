@@ -1,12 +1,17 @@
 ---
-title: "171 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 508
+doc_date: '1939-08-30'
+doc_num: 171
+doc_order: 171
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP290/6, ITEM 27]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-30
+vol_title: 'Volume 2: 1939'
 ---
-
-# 171 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 369 LONDON, 30 August 1939
 
@@ -22,7 +27,7 @@ As considerations arise in the above, if you have any views, suggest that you se
 
 BRUCE
 
-_
+ _
 
 1 Documents 167 and 170 2 Adolf Hitler, German Chancellor.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA: CP290/6, ITEM 27]_
+ _[AA: CP290/6, ITEM 27]_

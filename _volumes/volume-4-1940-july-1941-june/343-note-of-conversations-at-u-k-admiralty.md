@@ -1,12 +1,18 @@
 ---
-title: "343 Note of Conversations at U.K. Admiralty"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1574
+doc_date: '1941-03-08'
+doc_num: 343
+doc_order: 343
+naa_refs:
+- naa_barcode: 650737
+  naa_control_symbol: 624/2
+  naa_series: A5954
+  reference: '[DEFENCE: SPECIAL COLLECTION I, BOX 624, PRIME MINISTER''S VISIT TO
+    UNITED KINGDOM, 1941. REVIEW OF UNITED KINGDOM GOVERNMENT''S WAR POLICY. ADMIRALTY]'
+title: Note of Conversations at U.K. Admiralty
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 343 Note of Conversations at U.K. Admiralty
 
 Extract LONDON, 8 March 1941
 
@@ -38,7 +44,7 @@ Australian local defence on land and in the air had been based on an hypothesis 
 
 In reply to an enquiry the Vice Chief of the Naval Staff stated that the United States Navy was considered to be better than the Japanese Navy, and he would have no hesitation in engaging the Japanese Fleet with 60% of their number of British ships. [5]
 
-_ UNITED KINGDOM, 1941. REVIEW OF UNITED KINGDOM GOVERNMENT'S WAR POLICY. ADMIRALTY]
+ _
 
 1 Vice Admiral T. S. V. Phillips.
 
@@ -56,4 +62,4 @@ Admiralty. The Admiralty's paper V.A.P. (41) 1 of 20 March, which was the basis 
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION I, BOX 624, PRIME MINISTER'S VISIT TO_
+ _[DEFENCE: SPECIAL COLLECTION I, BOX 624, PRIME MINISTER'S VISIT TO UNITED KINGDOM, 1941. REVIEW OF UNITED KINGDOM GOVERNMENT'S WAR POLICY. ADMIRALTY]_

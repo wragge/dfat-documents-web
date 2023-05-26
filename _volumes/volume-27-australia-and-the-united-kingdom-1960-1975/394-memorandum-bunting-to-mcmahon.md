@@ -1,20 +1,23 @@
 ---
-title: "394 MEMORANDUM, BUNTING TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10260
+doc_date: '1972-08-14'
+doc_num: 394
+doc_order: 394
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA:A1209, 1971/9449 PART 2]'
+title: MEMORANDUM, BUNTING TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-08-14
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 394 MEMORANDUM, BUNTING TO MCMAHON
-
-NAA:A1209, 1971/9449 PART 2
 
 Canberra, 14 August 1972
 
 Confidential
 
-This is the Australia House letter I have drafted. 1 I have made three changes from the draft you approved.
+This is the Australia House letter I have drafted. [1](#f1) I have made three changes from the draft you approved.
 
 The first is to be found in the first paragraph on page 3.
 
@@ -39,3 +42,5 @@ I am ringing Australia House tonight to see if there is any impediment to such a
 I would still prefer to leave the date flexible but for political reasons, I accept that a date is desirable.
 
 1  Letter was sent as drafted, see Document 395. 
+
+[NAA:A1209, 1971/9449 PART 2]

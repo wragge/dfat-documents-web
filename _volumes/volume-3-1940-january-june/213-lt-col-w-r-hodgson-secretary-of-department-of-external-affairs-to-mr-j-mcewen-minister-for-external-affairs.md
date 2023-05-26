@@ -1,14 +1,20 @@
 ---
-title: "213 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. McEwen, Minister for External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 979
+doc_date: '1940-05-07'
+doc_num: 213
+doc_order: 213
+naa_refs:
+- naa_barcode: 177376
+  naa_control_symbol: ITA 60 PART 4
+  naa_series: A981
+  reference: '[AA: A981, ITALY 60B]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J.
+  McEwen, Minister for External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-07
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 213 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. McEwen, Minister for External Affairs
-
-## Memorandum 7 May 1940,
+Memorandum 7 May 1940,
 
 ITALIAN ENTRY INTO THE WAR
 
@@ -78,10 +84,10 @@ For this reason, it seems desirable that the forces already decided on to be sen
 
 (ii) offensive role against Italian East Africa should Italy intervene.
 
-_
+ _
 
 1 See Document 210.
 
 _
 
-_ [AA: A981, ITALY 60B]_
+ _[AA: A981, ITALY 60B]_

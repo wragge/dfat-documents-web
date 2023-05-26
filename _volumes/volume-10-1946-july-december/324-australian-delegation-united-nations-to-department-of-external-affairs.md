@@ -1,12 +1,17 @@
 ---
-title: "324 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4172
+doc_date: '1946-12-15'
+doc_num: 324
+doc_order: 324
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A4311
+  reference: '[AA:A4311, BOX 481]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-15
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 324 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram UN1025 (extract) NEW YORK, 15 December 1946, 1.54 p.m.
 
@@ -28,8 +33,8 @@ The Secretary General to circulate provisional agenda.
 
 [matter omitted]
 
-_
+ _
 
 _
 
-_ [AA:A4311, BOX 481]_
+ _[AA:A4311, BOX 481]_

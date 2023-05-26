@@ -1,14 +1,19 @@
 ---
-title: "92 Press Statement By Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7697
+doc_date: '1954-11-17'
+doc_num: 92
+doc_order: 92
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A609
+  reference: '[AA : A609/1, 555/120/14]'
+title: Press Statement By Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-11-17
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 92 Press Statement By Menzies
-
-## 17th November, 1954
+17th November, 1954
 
 CANBERRA
 
@@ -24,8 +29,8 @@ Australia had been invited to enter into tariff negotiations with Japan under th
 
 There is still much uncertainty as to the outcome of the review of G.A.T.T. now taking place at Geneva, and as said in the House of Representatives on September 28 last the results of that review will be one of the factors in determining our attitude to Japanese accession to the G.A.T.T.'
 
-_
+ _
 
 _
 
-_ [AA : A609/1, 555/120/14]_
+ _[AA : A609/1, 555/120/14]_

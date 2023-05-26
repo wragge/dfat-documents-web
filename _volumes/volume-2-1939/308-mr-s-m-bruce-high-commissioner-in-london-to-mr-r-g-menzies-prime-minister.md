@@ -1,12 +1,17 @@
 ---
-title: "308 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 645
+doc_date: '1939-10-26'
+doc_num: 308
+doc_order: 308
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-26
+vol_title: 'Volume 2: 1939'
 ---
-
-# 308 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 586 LONDON, 26 October 1939, 4.46 p.m.
 
@@ -52,7 +57,7 @@ I suggest that you might take steps to initiate such inter- Dominion consultatio
 
 BRUCE
 
-_
+ _
 
 1 Document 307.
 
@@ -62,4 +67,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

@@ -1,12 +1,17 @@
 ---
-title: "13 Dixon to Department of External Affairs"
-volume: "Volume 7: 1944"
-doc_id: 2660
+doc_date: '1944-01-13'
+doc_num: 13
+doc_order: 13
+naa_refs:
+- naa_barcode: 273922
+  naa_control_symbol: SPTS 1/2
+  naa_series: A6494
+  reference: '[AA:A6494, SPTS/1/2]'
+title: Dixon to Department of External Affairs
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-13
+vol_title: 'Volume 7: 1944'
 ---
-
-# 13 Dixon to Department of External Affairs
 
 Cablegram 32 WASHINGTON, 13 January 1944, 1.32 a.m.
 
@@ -290,7 +295,7 @@ After all, it was not the French who were winning the War, and
 
 decisions had to be made on what was best for the future.
 
-_
+ _
 
 1 President Roosevelt.
 
@@ -320,7 +325,7 @@ September, War Minister.
 
 _
 
-_
+ _
 
 [AA:A6494, SPTS/1/2]
 

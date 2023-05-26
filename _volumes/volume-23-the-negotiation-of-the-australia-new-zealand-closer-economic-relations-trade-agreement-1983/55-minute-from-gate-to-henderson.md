@@ -1,12 +1,19 @@
 ---
-title: "55 Minute from Gate to Henderson"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8925
+doc_date: '1979-12-13'
+doc_num: 55
+doc_order: 55
+naa_refs:
+- naa_barcode: 1389681
+  naa_control_symbol: 370/1/19/18 PART 12
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011119118, xii]'
+title: Minute from Gate to Henderson
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-12-13
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 55 Minute from Gate to Henderson
 
 Canberra, 13 December 1979
 
@@ -26,7 +33,7 @@ I attended the first day (12 December) of the talks between Australian and New Z
 ## Substantive Discussions
 
   4. Discussions lasted all day and were very detailed. STR will issue a summary record next week. However, it does seem that there are serious impediments to a Customs Union or a Free Trade Area.
-  5. The Permanent Heads' Terms of Reference for the officials talks referred to 'a common external regime based on the adoption, in respect of each industry, of the lower of the two external regimes currently in force'. The New Zealand side was astonished to learn that the Australian interpretation of this was that, in those cases in which as industry existed in Australia but did not exist in New Zealand, we would expect New Zealand to adopt the Australian tariff, even though there was no New Zealand industry for the tariff to protect there. This was unacceptable to New Zealand. Mr Neilson (I&amp;C) argued that any other policy would mean the demise of Australian industry. New Zealand said that the Australian interpretation of the Permanent Heads Terms of Reference meant that these was no point in discussing the Customs Union option. Neilson argued that it could just as well be said that the Free Trade option was equally unacceptable to Australia because it would allow New Zealand to continue to import its raw materials duty free. (New Zealand would also have problems with a Free Trade Area.) Discussion will continue on this point on 13 December.
+  5. The Permanent Heads' Terms of Reference for the officials talks referred to 'a common external regime based on the adoption, in respect of each industry, of the lower of the two external regimes currently in force'. The New Zealand side was astonished to learn that the Australian interpretation of this was that, in those cases in which as industry existed in Australia but did not exist in New Zealand, we would expect New Zealand to adopt the Australian tariff, even though there was no New Zealand industry for the tariff to protect there. This was unacceptable to New Zealand. Mr Neilson (I&C) argued that any other policy would mean the demise of Australian industry. New Zealand said that the Australian interpretation of the Permanent Heads Terms of Reference meant that these was no point in discussing the Customs Union option. Neilson argued that it could just as well be said that the Free Trade option was equally unacceptable to Australia because it would allow New Zealand to continue to import its raw materials duty free. (New Zealand would also have problems with a Free Trade Area.) Discussion will continue on this point on 13 December.
   6. Generally, the New Zealanders seemed, as was to be expected, much more apprehensive than Australia about the effect of closer association on their industries. They were conducting a survey of some fifty manufacturing firms, some of whom were the leaders in their field in New Zealand, and were surprised by the degree of hostility to the idea. They did not seem to think their Government could withstand the pressures for assistance that industry would exert in the event of closer association.
   7. The Australian side also noted various difficulties that closer association would bring, but, in general, we were more positive than the New Zealanders. Our only real difficulty seemed to be in the dairy industry. Mr Flood warned the New Zealanders that the dairy interests were very active in questioning Ministers on the implications of closer association.
   8. Many other matters were also discussed during the seven hour talks-minerals, agriculture other than dairying, export incentives, health and quarantine requirements, consumer safeguards standards, various forms of industry assistance, but they are beyond the scope of this interim report. Four matters are worth mentioning: 
@@ -37,4 +44,4 @@ I attended the first day (12 December) of the talks between Australian and New Z
 
 
 
-_[NAA: A1838, 37011119118, xii]_
+ _[NAA: A1838, 37011119118, xii]_

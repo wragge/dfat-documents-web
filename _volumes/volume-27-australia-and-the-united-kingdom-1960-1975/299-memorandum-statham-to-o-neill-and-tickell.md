@@ -1,14 +1,17 @@
 ---
-title: "299 MEMORANDUM, STATHAM TO O'NEILL AND TICKELL"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10164
+doc_date: '1971-07-30'
+doc_num: 299
+doc_order: 299
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1055]'
+title: MEMORANDUM, STATHAM TO O'NEILL AND TICKELL
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-07-30
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 299 MEMORANDUM, STATHAM TO O'NEILL AND TICKELL
-
-UKNA: FCO 24/1055 
 
 London, 30 July 1971
 
@@ -16,13 +19,13 @@ Confidential
 
 **Australia and the EEC**
 
-Sir Morrice James’ letter of 9 July described his discussion with Mr Anthony. 1 Mr Rippon has seen Sir C O’Neill’s minute upon this letter, dated 16 July,2 (which has reached me only today) and has commented that he does not think that lengthy post-mortems and preparation of documents can do much good.
+Sir Morrice James’ letter of 9 July described his discussion with Mr Anthony. [1](#f1) Mr Rippon has seen Sir C O’Neill’s minute upon this letter, dated 16 July,[2](#f2) (which has reached me only today) and has commented that he does not think that lengthy post-mortems and preparation of documents can do much good.
 
 2\. However South West Pacific Department have suggested that Sir Morrice James may be in a dangerously exposed position with Mr Anthony if he does not understand that we are vulnerable on some of the Australian criticisms and have suggested that, if a reply to Sir M. James is likely to take some time to prepare—as would be the case given the fact that it would need clearance with MAFF—we should telegraph to him to explain that there is a problem here.
 
-3\. I am not sure that Sir M. James should be under a misapprehension about this given the fact that he received codel Brussels telegram No 267 of 22 April setting out what the Australians were told on that day.3 Nevertheless I _submit_ a draft telegram, based partly on Sir C O’Neill’s minute of 16 July and partly on my own submission of 19 July. Mr Rippon has asked to see any reply to Sir M. James and would presumably wish to see this telegram in draft.
+3\. I am not sure that Sir M. James should be under a misapprehension about this given the fact that he received codel Brussels telegram No 267 of 22 April setting out what the Australians were told on that day.[3](#f3) Nevertheless I _submit_ a draft telegram, based partly on Sir C O’Neill’s minute of 16 July and partly on my own submission of 19 July. Mr Rippon has asked to see any reply to Sir M. James and would presumably wish to see this telegram in draft.
 
-_DRAFT TELEGRAM:_
+ _DRAFT TELEGRAM:_
 
 Thank you for your letter of 9 July in which you set out so fully your talk with Anthony. It has been read here with great interest. I hope to let you have a fuller reply before very long.
 
@@ -39,3 +42,5 @@ Thank you for your letter of 9 July in which you set out so fully your talk with
 2  Document 298. 
 
 3  Document 277. 
+
+[UKNA: FCO 24/1055]

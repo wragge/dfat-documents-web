@@ -1,12 +1,17 @@
 ---
-title: "39 Curtin to Roosevelt"
-volume: "Volume 7: 1944"
-doc_id: 2686
+doc_date: '1944-02-02'
+doc_num: 39
+doc_order: 39
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, Box 646]'
+title: Curtin to Roosevelt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-02
+vol_title: 'Volume 7: 1944'
 ---
-
-# 39 Curtin to Roosevelt
 
 Letter CANBERRA, 2 February 1944
 
@@ -26,10 +31,10 @@ With kindest regards to Mrs. Roosevelt and yourself.
 
 JOHN CURTIN
 
-_
+ _
 
 1 Document 3.
 
 _
 
-_ [AA:A5954, Box 646]_
+ _[AA:A5954, Box 646]_

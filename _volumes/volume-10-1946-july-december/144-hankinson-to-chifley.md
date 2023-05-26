@@ -1,12 +1,17 @@
 ---
-title: "144 Hankinson to Chifley"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3992
+doc_date: '1946-09-30'
+doc_num: 144
+doc_order: 144
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838/2, 382/8/2/1, i]'
+title: Hankinson to Chifley
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-09-30
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 144 Hankinson to Chifley
 
 Letter CANBERRA, 30 September 1946
 
@@ -32,7 +37,7 @@ Malcolm MacDonald and Lord Killearn mentioned in my letter of 28th September tak
 
 (Sgd) W. C. HANKINSON
 
-_
+ _
 
 1 Malcolm MacDonald.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:A1838/2, 382/8/2/1, i]_
+ _[AA:A1838/2, 382/8/2/1, i]_

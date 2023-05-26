@@ -1,16 +1,23 @@
 ---
-title: "178 Letter from Australian Dairy Farmers' Federation to Anthony"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9047
+doc_date: '1982-02-03'
+doc_num: 178
+doc_order: 178
+naa_refs:
+- naa_barcode: 11557133
+  naa_control_symbol: 1982/1381 PART 3
+  naa_series: A1313
+  reference: '[NAA: Al313/113, 8211381, iii]'
+title: Letter from Australian Dairy Farmers' Federation to Anthony
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-02-03
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 178 Letter from Australian Dairy Farmers' Federation to Anthony
+Melbourne, 3 February 1982
 
-## Melbourne, 3 February 1982
-
-On behalf of the Executive Committee of the Australian Dairy Farmers' Federation, I would like to thank you for the opportunity to discuss the proposed closer economic relationship with New Zealand last Wednesday (27th January).1 Following our meeting, we held further discussions with officials from the Department of Trade and Resources and the Department of Primary Industry.
+On behalf of the Executive Committee of the Australian Dairy Farmers' Federation, I would like to thank you for the opportunity to discuss the proposed closer economic relationship with New Zealand last Wednesday (27th January).[1](#f1) Following our meeting, we held further discussions with officials from the Department of Trade and Resources and the Department of Primary Industry.
 
 While the dairy industry will be pursuing the course of action agreed to in your office, i.e. attempting to reach agreement directly with the New Zealand dairy industry, it was clear from our meeting with officials that there will be considerable difficulty achieving agreement along the lines discussed with you.
 
@@ -28,8 +35,6 @@ If the Government is to honour its commitment to the industry, there is no room 
 
 C. R. MANNERS - Executive Director
 
-_[NAA: Al313/113, 8211381, iii]_
+ _[NAA: Al313/113, 8211381, iii]_
 
   * 1 See Document 177.
-
-

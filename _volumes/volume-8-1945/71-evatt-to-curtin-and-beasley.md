@@ -1,12 +1,17 @@
 ---
-title: "71 Evatt to Curtin and Beasley"
-volume: "Volume 8: 1945"
-doc_id: 3102
+doc_date: '1945-04-13'
+doc_num: 71
+doc_order: 71
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU : EVATT COLLECTION, EVATT-OVERSEAS TRIPS-1945-CABLES-LONDON]'
+title: Evatt to Curtin and Beasley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-04-13
+vol_title: 'Volume 8: 1945'
 ---
-
-# 71 Evatt to Curtin and Beasley
 
 Cablegram E3 LONDON, 13 April 1945,12.45 p.m.
 
@@ -26,7 +31,7 @@ Commissions and committees will be appointed to deal with each chapter of the lo
 
 Best wishes, EVATT
 
-_
+ _
 
 1 Presumably Document 69.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [SFU : EVATT COLLECTION, EVATT-OVERSEAS TRIPS-1945-CABLES-LONDON]_
+ _[SFU : EVATT COLLECTION, EVATT-OVERSEAS TRIPS-1945-CABLES-LONDON]_

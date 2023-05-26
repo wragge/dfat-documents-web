@@ -1,14 +1,19 @@
 ---
-title: "435 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2189
+doc_date: '1942-03-22'
+doc_num: 435
+doc_order: 436
+naa_refs:
+- naa_barcode: 640633
+  naa_control_symbol: 474/6
+  naa_series: A5954
+  reference: '[AA:MP1217, BOX 474, CABLEGRAMS TO AND FROM DR EVATT]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-22
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 435 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
-
-## Cablegram PM[S]2 WASHINGTON, 22 March 1942
+Cablegram PM[S]2 WASHINGTON, 22 March 1942
 
 FOLLOWING FOR MR CURTIN ALONE
 
@@ -34,7 +39,7 @@ In the meantime, I should advise against definite reply regarding proposal [to r
 
 10\. If the question of finding expenses should arise neither my wife nor Robinson [10] is looking to the Government for any reimbursement. I mention this only because it is matter which might possibly be raised in the House.
 
-_
+ _
 
 1 Adviser to President Franklin D. Roosevelt.
 
@@ -60,4 +65,4 @@ Curtin replied On 24 March that he would await Evatt's report of his discussion 
 
 _
 
-_ [AA:MP1217, BOX 474, CABLEGRAMS TO AND FROM DR EVATT]_
+ _[AA:MP1217, BOX 474, CABLEGRAMS TO AND FROM DR EVATT]_

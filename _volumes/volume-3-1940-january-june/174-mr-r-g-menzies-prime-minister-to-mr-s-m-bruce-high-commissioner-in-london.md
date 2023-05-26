@@ -1,12 +1,17 @@
 ---
-title: "174 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 940
+doc_date: '1940-04-24'
+doc_num: 174
+doc_order: 174
+naa_refs:
+- naa_barcode: 4212443
+  naa_control_symbol: 1940/9
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2463]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-24
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 174 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 24 April 1940,
 
@@ -18,7 +23,7 @@ We were concerned at statement in D. 123 'orders have been sent to Commander Chi
 
 MENZIES
 
-_
+ _
 
 1 Document 141.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA: A3196, 0.2463]_
+ _[FA: A3196, 0.2463]_

@@ -1,12 +1,19 @@
 ---
-title: "154 Submission to Fraser by Shann"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9023
+doc_date: '1981-05-08'
+doc_num: 154
+doc_order: 154
+naa_refs:
+- naa_barcode: 3015523
+  naa_control_symbol: 1981/508 PART 2
+  naa_series: A1209
+  reference: '[NAA: A1209, 19811508, ii]'
+title: Submission to Fraser by Shann
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-05-08
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 154 Submission to Fraser by Shann
 
 Canberra, 8 May 1981
 
@@ -22,15 +29,13 @@ New Zealand, however, is seeking more than that. It is seeking (again, on a reci
 
 Commonwealth officials have raised the matter with the States. However, it has been made clear to the New Zealand side that under the Australian Constitution it is ultimately a matter for the States to make their own decisions in this area.
 
-[matter omitted]1
+[matter omitted][1](#f1)
 
 ### Reccomendation
 
-The attached telex to the Premiers and the Chief Minister gives general background to the present position on ANZCER, refers to the request from New Zealand for discussions on State Government purchasing policies, outlines the nature of what New Zealand is wanting, and seeks their reaction to this request. We seek your approval to despatch the telexes.2
+The attached telex to the Premiers and the Chief Minister gives general background to the present position on ANZCER, refers to the request from New Zealand for discussions on State Government purchasing policies, outlines the nature of what New Zealand is wanting, and seeks their reaction to this request. We seek your approval to despatch the telexes.[2](#f2)
 
-_[NAA: A1209, 19811508, ii]_
+ _[NAA: A1209, 19811508, ii]_
 
   * 1 A paragraph concerning Cabinet matters omitted on advice of the Department of the Prime Minister and Cabinet.
   * 2 Fraser marked the submission 'Approved'. The telex was sent to all State Premiers and the Chief Minister of the Northern Territory on 12 May 1981 under Fraser's signature.
-
-

@@ -1,12 +1,18 @@
 ---
-title: "81 Beasley to Chifley and Evatt"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6250
+doc_date: '1949-01-14'
+doc_num: 81
+doc_order: 81
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Beasley to Chifley and Evatt
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-14
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 81 Beasley to Chifley and Evatt
 
 Cablegram 11 LONDON, 14 January 1949, 1.40 p.m.
 
@@ -20,10 +26,10 @@ I think I should report for what it is worth present attitude of Ceylon High Com
 
 4\. I think we had some effect though not enough on United Kingdom attitude last week at any rate insofar as Cadogan was instructed to condemn Dutch openly.
 
-_
+ _
 
 1 Sir Oliver Ernest Goonetilleke 2 Habib Ibrahim Rahimtoola.
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

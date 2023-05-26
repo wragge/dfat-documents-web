@@ -1,14 +1,17 @@
 ---
-title: "232 CABLEGRAM, MCEWEN TO HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10097
+doc_date: '1967-06-08'
+doc_num: 232
+doc_order: 232
+naa_refs:
+- naa_barcode: 584041
+  naa_control_symbol: 727/4/2 PART 7
+  naa_series: A1838
+  reference: '[NAA: A 1838, 727/4/2 PART 7]'
+title: CABLEGRAM, MCEWEN TO HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-06-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 232 CABLEGRAM, MCEWEN TO HOLT
-
-NAA: A 1838, 727/4/2 PART 7 
 
 Canberra, 8 June 1967
 
@@ -55,4 +58,6 @@ I understand the material provided by Departments to Bunting gives a pretty comp
 
 13\. I shall send further comment if, in the light of Fleming’s progressive reports, this would appear to be useful. Fleming will of course bring Bunting up to date on his arrival in London.
 
-[_matter omitted_]
+[ _matter omitted_ ]
+
+[NAA: A 1838, 727/4/2 PART 7]

@@ -1,14 +1,17 @@
 ---
-title: "391 NOTE FOR FILE BY BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10257
+doc_date: '1972-08-08'
+doc_num: 391
+doc_order: 391
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA: Al209, 1971/9449 PART 2]'
+title: NOTE FOR FILE BY BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-08-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 391 NOTE FOR FILE BY BUNTING
-
-NAA: Al209, 1971/9449 PART 2
 
 Canberra, 8 August 1972
 
@@ -16,9 +19,9 @@ Confidential
 
 Sir Keith Waller called to see me by arrangement to discuss the Australia house transfer, including date.
 
-2\. He brought with him Mr L.H. Border. 1
+2\. He brought with him Mr L.H. Border. [1](#f1)
 
-3\. Sir Keith referred to the Minister’s letter of 2 August to the Prime Minister.2 He then referred to what he saw to be next steps. These included:—
+3\. Sir Keith referred to the Minister’s letter of 2 August to the Prime Minister.[2](#f2) He then referred to what he saw to be next steps. These included:—
 
   1. a further letter from the Minister to the Prime Minister;
   2. a message from the Prime Minister to the High Commissioner;
@@ -27,7 +30,7 @@ Sir Keith Waller called to see me by arrangement to discuss the Australia house 
 
 
 
-4\. He left me a full list of steps, now marked ‘A’, and a set of drafts, now marked ‘B’.3
+4\. He left me a full list of steps, now marked ‘A’, and a set of drafts, now marked ‘B’.[3](#f3)
 
 5\. I read the drafts. I said there may be one or two points to raise, though basically I understood the steps.
 
@@ -37,7 +40,7 @@ Sir Keith Waller called to see me by arrangement to discuss the Australia house 
 
 8\. I quoted them to Sir Keith. They were to the effect that the High Commissioner would need to be advised; that the Prime Minister still had some reservations; and that some subjects, which were written down as The Palace and the Commonwealth Secretariat, etc, would need to be ‘reserved’.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 11\. As to date, I noted that the Prime Minister and Foreign Minister would need to be ready to announce one when Parliament met. Further I believed it should be a date before the High Commissioner goes. Any date was arbitrary, but two possibilities were 1 September and 1 October.
 
@@ -87,7 +90,7 @@ Sir Keith Waller called to see me by arrangement to discuss the Australia house 
 
 34\. Sir Keith then withdrew—Mr Border joining him.
 
-**Note for discussion with Sir Keith Waller—Australia House special relationships**
+ **Note for discussion with Sir Keith Waller—Australia House special relationships**
 
 1\. The Queen—honours, royal visits, constitutional links embodied in the monarchy.
 
@@ -101,7 +104,7 @@ Sir Keith Waller called to see me by arrangement to discuss the Australia house 
 
 The above matters to remain under the Prime Minister.
 
-**Other matters**
+ **Other matters**
 
 6\. British migrants—special role of Australia House.
 
@@ -112,3 +115,5 @@ The above matters to remain under the Prime Minister.
 2  Document 389. 
 
 3  See NAA: A1209, 1971/9449 part 2. 
+
+[NAA: Al209, 1971/9449 PART 2]

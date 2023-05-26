@@ -1,20 +1,25 @@
 ---
-title: "431 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2185
+doc_date: '1942-03-20'
+doc_num: 431
+doc_order: 432
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.11693]'
+title: Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-20
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 431 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
-
-## Cablegram [Winch 14] [1] LONDON, 20 March 1942
+Cablegram [Winch 14] [1] LONDON, 20 March 1942
 
 Your telegram of 20th. [2] Course you propose of laying telegrams you mention will be quite satisfactory to me provided that you include also mine of the 14th. [3] I note from press report of your summary of White Paper that you are also including mine of the 19th [4] and yours of the 20th. I agree to this. I am much obliged to you for your last paragraph in your telegram of March 20th. As soon as decision was taken to make the statement Dominions Secretary sent you his telegram marked most immediate containing the text. [5] B.B.C. announcement was not made Until 12.13 pm British Summer time in the Pacific Empire Service after my announcement had been made to Parliament at noon. Regards. [6]
 
 CHURCHILL
 
-_
+ _
 
 1 Inserted from the Prime Minister's Dept inward cablegram register (AA:A3642, 5).
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.11693]_
+ _[AA:A3195, 1942, 1.11693]_

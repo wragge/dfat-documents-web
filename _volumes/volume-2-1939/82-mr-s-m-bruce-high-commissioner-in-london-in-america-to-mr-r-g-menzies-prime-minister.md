@@ -1,12 +1,30 @@
 ---
-title: "82 Mr S.M. Bruce, High Commissioner in London (in America), to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 419
+doc_date: '1939-05-08'
+doc_num: 82
+doc_order: 82
+naa_refs:
+- naa_barcode: 242506
+  naa_control_symbol: 7/4
+  naa_series: M104
+  reference: '[AA: M 104, ITEM 7(4)]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: M104
+  reference: '[AA: M104, ITEM 7(4)]'
+- naa_barcode: 206180
+  naa_control_symbol: A41/1/5 PART 1
+  naa_series: A1608
+  reference: '[AA:A1608, A41/1/5, i]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: M104
+  reference: '[AA:M104, ITEM 7(4)]'
+title: Mr S.M. Bruce, High Commissioner in London (in America), to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-08
+vol_title: 'Volume 2: 1939'
 ---
-
-# 82 Mr S.M. Bruce, High Commissioner in London (in America), to Mr R.G. Menzies, Prime Minister
 
 Cablegram 20 WASHINGTON, 8 May 1939
 
@@ -20,7 +38,7 @@ Nothing said to me constituted any binding undertaking as to what United States 
 
 My conversations were of the most personal character and it is imperative that the above information should be kept most secret and not referred to in any case. [2]
 
-_
+ _
 
 1 There are records in the Bruce papers of Bruce's conversations with Cordell Hull (U.S. Secretary of State) on 2 May 1939, Norman Davis (Head of the American Red Cross and an adviser to the President) on 3 May, President Franklin D. Roosevelt on 4 May, and Sumner Welles (U.S. Under-Secretary of State) on 6 May. The last three are printed as editorial attachments to this Document. There is no evidence that Bruce sent any of these records of conversation to Canberra.
 
@@ -140,4 +158,4 @@ S.M. B[RUCE]
 
 _
 
-_ [AA:A1608, A41/1/5, i]_
+ _[AA:A1608, A41/1/5, i]_

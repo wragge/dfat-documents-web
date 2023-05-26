@@ -1,14 +1,20 @@
 ---
-title: "244 Evatt to Roosevelt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2535
+doc_date: '1943-07-13'
+doc_num: 244
+doc_order: 244
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FRANKLIN D. ROOSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT''S SECRETARY''S
+    FILE, BOX 19, CONFIDENTIAL FILE LEND LEASE]'
+title: Evatt to Roosevelt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-07-13
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 244 Evatt to Roosevelt
-
-## Letter WASHINGTON, 13 July 1943
+Letter WASHINGTON, 13 July 1943
 
 Following our discussion of this morning I desire to send you this personal and unofficial note.
 
@@ -20,10 +26,10 @@ I desire to thank you most sincerely, not only for your attitude in this matter,
 
 H. V. EVATT
 
-_ 1 See Document 210, note 3.
+ _1 See Document 210, note 3.
 
 2 For Curtin's message see Document 222, note 6. Roosevelt's reply of 22 June is in Franklin D. Roosevelt Library: Roosevelt Papers, President's personal file 8459, Mr Curtin.
 
 _
 
-_ [FRANKLIN D. ROOSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT'S SECRETARY'S FILE, BOX 19, CONFIDENTIAL FILE LEND LEASE]_
+ _[FRANKLIN D. ROOSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT'S SECRETARY'S FILE, BOX 19, CONFIDENTIAL FILE LEND LEASE]_

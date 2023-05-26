@@ -1,12 +1,18 @@
 ---
-title: "46 Speech by Mr J. A. Lyons, Prime Minister, to Second Plenary Session of Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 46
+doc_date: '1937-06-15'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF 1937, MEETINGS]'
+title: Speech by Mr J. A. Lyons, Prime Minister, to Second Plenary Session of Imperial
+  Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-15
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 46 Speech by Mr J. A. Lyons, Prime Minister, to Second Plenary Session of Imperial Conference
 
 E 2nd meeting (1937) LONDON, 15 June 1937
 
@@ -58,8 +64,8 @@ There is no need for me at this stage to refer in detail to the other matters di
 
 I should like also to thank the Secretary-General of the Conference, his associates of the Secretariat, and other officers of the Conference, for the courteous and able manner in which they have performed their heavy duties. We owe a debt of gratitude to them for all they have done. Finally, I would like to express the sincere thanks of the Australian Delegation to the British Government and the people of Great Britain for the cordiality and kindliness of their welcome and for the hospitality so warmly extended to us everywhere during our visit to the Mother Country.
 
-_
+ _
 
 _
 
-_ [FA : IMP. CONF 1937, MEETINGS]_
+ _[FA : IMP. CONF 1937, MEETINGS]_

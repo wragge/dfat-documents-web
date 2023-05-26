@@ -1,12 +1,18 @@
 ---
-title: "140 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to Mr A.T. Stirling, External Affairs Officer in London"
-volume: "Volume 2: 1939"
-doc_id: 477
+doc_date: '1939-08-22'
+doc_num: 140
+doc_order: 140
+naa_refs:
+- naa_barcode: 176522
+  naa_control_symbol: GER 72 PART 1
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 72B, i]'
+title: Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to Mr A.T.
+  Stirling, External Affairs Officer in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-22
+vol_title: 'Volume 2: 1939'
 ---
-
-# 140 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to Mr A.T. Stirling, External Affairs Officer in London
 
 Cablegram 51 22 August 1939,
 
@@ -18,7 +24,7 @@ Apparently there was some gap in the circuit of communication to you. Minister d
 
 HODGSON
 
-_
+ _
 
 1 Sir Henry Gullett.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 72B, i]_
+ _[AA: A981, GERMANY 72B, i]_

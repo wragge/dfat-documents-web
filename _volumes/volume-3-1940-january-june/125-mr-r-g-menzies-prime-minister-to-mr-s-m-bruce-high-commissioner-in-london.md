@@ -1,12 +1,17 @@
 ---
-title: "125 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 891
+doc_date: '1940-04-04'
+doc_num: 125
+doc_order: 125
+naa_refs:
+- naa_barcode: 4212443
+  naa_control_symbol: 1940/9
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2000]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-04
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 125 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 4 April 1940,
 
@@ -30,7 +35,7 @@ Perhaps you have some fuller information on these points than has been communica
 
 MENZIES
 
-_
+ _
 
 1 Anthony Eden.
 
@@ -44,4 +49,4 @@ The draft was subsequently approved by the meeting (see AA: A2673, vol. 2, Minut
 
 _
 
-_ [FA: A3196, 0.2000]_
+ _[FA: A3196, 0.2000]_

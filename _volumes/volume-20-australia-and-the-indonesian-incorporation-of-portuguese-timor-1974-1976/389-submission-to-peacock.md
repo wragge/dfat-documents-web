@@ -1,12 +1,19 @@
 ---
-title: "389 Submission to Peacock"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8227
+doc_date: '1975-12-22'
+doc_num: 389
+doc_order: 388
+naa_refs:
+- naa_barcode: 1505915
+  naa_control_symbol: 3038/10/1/2 PART 3
+  naa_series: A1838
+  reference: '[NAA: A1838. 3038/10/1/2, iii]'
+title: Submission to Peacock
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-12-22
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 389 Submission to Peacock
 
 Canberra, 22 December 1975
 
@@ -71,14 +78,12 @@ With the formation of the new government, and in the light of recent development
     2. We should continue to remain as detached as we can from the Portuguese Timor problem and avoid becoming a party principal. In practice, such a policy would need to be tempered by the strength of domestic pressure for a more active Australian role. But as a general principle the less involved we are, the easier it will be to adjust to the realities of Indonesian control in Timor. If regional and international opinion pressure grows, Australia may not be able to escape some involvement on the ground in Timor, but we should limit that involvement as much as we can. Certainly, any involvement of Australian military forces is to be excluded.
     3. We should continue to support publicly the need for a process of self-determination in Timor. Even if we believe that a genuine act of self-determination is not possible, we should encourage the Indonesians towards one.
     4. We should continue to explain to the Indonesians the domestic difficulties which the Australian Government faces. We should continue to warn them that, while we understand and do not oppose their basic objectives of integration, we may still need to criticize publicly their methods of achieving it.
-    5. In the United Nations we should not play the role of an apologist for Indonesia but, equally, we should show understanding of its special position and not be in the forefront of its critics.1
+    5. In the United Nations we should not play the role of an apologist for Indonesia but, equally, we should show understanding of its special position and not be in the forefront of its critics.[1](#f1)
 
 
 
 ALANRENOUF - Secretary
 
-_[NAA: A1838. 3038/10/1/2, iii]_
+ _[NAA: A1838. 3038/10/1/2, iii]_
 
   * 1 Peacock annotated the submission as follows: 'Secretary: I ought not act unilaterally on this particular matter Cabinet, or its Foreign Aff and Defence C'tee-should conclude determinations. I am not averse to decision making but the above is unquestionably one for Cabinet'.
-
-

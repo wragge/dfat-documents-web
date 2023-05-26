@@ -1,12 +1,17 @@
 ---
-title: "22 Department of External Affairs to Evatt"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4206
+doc_date: '1947-03-31'
+doc_num: 22
+doc_order: 22
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838/2, 401/3/2, i]'
+title: Department of External Affairs to Evatt
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-03-31
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 22 Department of External Affairs to Evatt
 
 Submission CANBERRA, 31 March 1947
 
@@ -38,10 +43,10 @@ It is suggested that the following steps be taken:-
 
 It is recommended that arrangements be made to send immediately a delegation led by a representative of the Minister for External Affairs, and including representatives from the Departments of External Affairs, Treasury, Commerce, and Supply. [1]
 
-_
+ _
 
 1 An annotation on the submission reads in part: 'Discussed by Sec[retary] with Min[ister] 31/3. Principle approved.'
 
 _
 
-_ [AA:A1838/2, 401/3/2, i]_
+ _[AA:A1838/2, 401/3/2, i]_

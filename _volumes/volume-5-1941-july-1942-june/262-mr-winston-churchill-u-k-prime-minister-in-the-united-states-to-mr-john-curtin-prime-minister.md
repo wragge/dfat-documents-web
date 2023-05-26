@@ -1,13 +1,20 @@
 ---
-title: "262 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2016
+doc_date: '1942-01-08'
+doc_num: 262
+doc_order: 263
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195,1942, 1.1112]'
+title: Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 262 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister
-
-Cablegram Winch 6 [WASHINGTON, 8 January I 942, 2.30 P.m.] [1]
+Cablegram Winch 6 [WASHINGTON, 8 January 1942, 2.30 p.m.] [1]
 
 MOST SECRET AND PERSONAL
 
@@ -49,7 +56,7 @@ Believe me, I am thinking of your interest at every moment. Within a week I hope
 
 CHURCHILL
 
-_
+ _
 
 1 Material in square brackets has been corrected/inserted from the Washington copy on file AA:A3300, 219. This cablegram was dispatched to London and retransmitted to Canberra at 9 p.m. on 9 January (see the copy on file AA:A2937, Far East position 1942).
 
@@ -61,4 +68,4 @@ _
 
 _
 
-_ [AA:A3195,1942, 1.1112]_
+ _[AA:A3195,1942, 1.1112]_

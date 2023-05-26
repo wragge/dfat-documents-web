@@ -1,18 +1,25 @@
 ---
-title: "199 Minute from Lind to Scully and Senior Executive Officers"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9068
+doc_date: '1982-08-06'
+doc_num: 199
+doc_order: 199
+naa_refs:
+- naa_barcode: 11558959
+  naa_control_symbol: 1982/2594 PART 6
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 82/2594, vi]'
+title: Minute from Lind to Scully and Senior Executive Officers
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-08-06
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 199 Minute from Lind to Scully and Senior Executive Officers
-
-## Canberra, 6 August 1982
+Canberra, 6 August 1982
 
 ## Australia- New Zealand Closer Economic Relations- Countervailing Duties
 
-The release for public comment of the proposal for closer economic relations with New Zealand1 has generated very strong reaction from Australian State Government and industry interests on the need for prompt and effective action against imports from New Zealand of dumped or subsidised products.
+The release for public comment of the proposal for closer economic relations with New Zealand[1](#f1) has generated very strong reaction from Australian State Government and industry interests on the need for prompt and effective action against imports from New Zealand of dumped or subsidised products.
 
 We have advised these interests that the agreement would ensure that the normal anti-dumping and countervailing remedies were available, as does NAFTA.
 
@@ -22,8 +29,6 @@ There could be a considerable flow of requests for countervailing action against
 
 Such developments could have implications for Australia's trade with other countries and accordingly are being brought to attention.
 
-_[NAA: A1313/113, 82/2594, vi]_
+ _[NAA: A1313/113, 82/2594, vi]_
 
   * 1 The report, entitled Proposed Arrangements for a Closer Economic Relationship between Australia and New Zealand, was released simultaneously in both countries on 4 June 1982.
-
-

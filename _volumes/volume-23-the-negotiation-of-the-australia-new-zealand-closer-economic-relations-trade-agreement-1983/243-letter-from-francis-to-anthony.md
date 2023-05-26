@@ -1,14 +1,21 @@
 ---
-title: "243 Letter from Francis to Anthony"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9112
+doc_date: '1982-05-20'
+doc_num: 243
+doc_order: 243
+naa_refs:
+- naa_barcode: 11557132
+  naa_control_symbol: 1982/1226 PART 5
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 82/1226, v]'
+title: Letter from Francis to Anthony
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-05-20
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 243 Letter from Francis to Anthony
-
-## Canberra, 20 May 1982
+Canberra, 20 May 1982
 
 **CER: Export Incentives/Quantitative Restrictions**
 
@@ -23,10 +30,8 @@ The New Zealand Cabinet Economic Committee has agreed to a package containing th
 
 I am also directed to inform you that it was only with great difficulty that New Zealand Manufacturers were persuaded that we should not directly link progress on the issues in (II) to confirmation at the review of the 1995 terminal date.
 
-I trust that you will agree that the above represents confirmation of New Zealand's attitude in regard to two of the most difficult issues in the CER negotiations and would appreciate your comments.1
+I trust that you will agree that the above represents confirmation of New Zealand's attitude in regard to two of the most difficult issues in the CER negotiations and would appreciate your comments.[1](#f1)
 
-_[NAA: A1313/113, 82/1226, v]_
+ _[NAA: A1313/113, 82/1226, v]_
 
   * 1 Francis sent copies of the letter to Nixon, Scully and Duthie.
-
-

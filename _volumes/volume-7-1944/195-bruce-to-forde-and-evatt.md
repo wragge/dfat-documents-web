@@ -1,12 +1,17 @@
 ---
-title: "195 Bruce to Forde and Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2842
+doc_date: '1944-06-13'
+doc_num: 195
+doc_order: 195
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS, FROM BRUCE, 1.22186/253]'
+title: Bruce to Forde and Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-13
+vol_title: 'Volume 7: 1944'
 ---
-
-# 195 Bruce to Forde and Evatt
 
 Cablegram 87A LONDON, 13 June 1944, 5.30 p.m.
 
@@ -56,7 +61,7 @@ Zinchenko, translated everything very fully and it was quite clear from his mann
 
 BRUCE
 
-_ 1.22186/253]
+ _
 
 1 F. T. Gusev.
 
@@ -64,4 +69,4 @@ _ 1.22186/253]
 
 _
 
-_ [AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS, FROM BRUCE,_
+ _[AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS, FROM BRUCE, 1.22186/253]_

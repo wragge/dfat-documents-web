@@ -1,12 +1,17 @@
 ---
-title: "178 Commonwealth Government to Addison"
-volume: "Volume 8: 1945"
-doc_id: 3209
+doc_date: '1945-08-12'
+doc_num: 178
+doc_order: 178
+naa_refs:
+- naa_barcode: 190054
+  naa_control_symbol: P45/10/1/3 PART 2
+  naa_series: A1066
+  reference: '[AA : A1066, P45/10/3, ii]'
+title: Commonwealth Government to Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-12
+vol_title: 'Volume 8: 1945'
 ---
-
-# 178 Commonwealth Government to Addison
 
 Cablegram 230 CANBERRA, 12 August 1945
 
@@ -30,7 +35,7 @@ However, we are left with the feeling that our views previously stated have not 
 
 7\. If a final agreement is reached as to the proposed answer and our views as stated herein are accepted we would ask that Australia be expressly associated and by name with the reply.
 
-_
+ _
 
 1 Document 177.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA : A1066, P45/10/3, ii]_
+ _[AA : A1066, P45/10/3, ii]_

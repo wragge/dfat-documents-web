@@ -1,12 +1,18 @@
 ---
-title: "484 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2238
+doc_date: '1942-05-06'
+doc_num: 484
+doc_order: 485
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, CABLES TO AND FROM DR EVATT,
+    MARCH-MAY 1942]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-05-06
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 484 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram E3 [1] LONDON, 6 May 1942
 
@@ -36,7 +42,7 @@ The result is that there was no report even in relation to the threatened Japane
 
 EVATT
 
-_ EVATT, MARCH-MAY 1942]
+ _
 
 1 Repeated to A. S. V. Smith, Secretary of the Supply and Development Dept (then in Washington), as no. 20.
 
@@ -54,4 +60,4 @@ Evatt Papers, Cables to and from Dr Evatt, March-May 1942. It conveyed MacArthur
 
 _
 
-_ [FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, CABLES TO AND FROM DR_
+ _[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, CABLES TO AND FROM DR EVATT, MARCH-MAY 1942]_

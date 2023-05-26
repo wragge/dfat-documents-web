@@ -1,12 +1,17 @@
 ---
-title: "131 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 897
+doc_date: '1940-04-09'
+doc_num: 131
+doc_order: 131
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP290/6, 39]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-09
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 131 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 9 April 1940, 5.57 p.m.
 
@@ -20,7 +25,7 @@ This arrangement could be made whether Stirling [4] remains in London or not but
 
 BRUCE
 
-_
+ _
 
 1 U.K. Ambassador to the United States.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA: CP290/6, 39]_
+ _[AA: CP290/6, 39]_

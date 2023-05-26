@@ -1,26 +1,31 @@
 ---
-title: "221 Note By Hooton On Cabinet Submission No. 274"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9729
+doc_date: '1968-09-10'
+doc_num: 221
+doc_order: 221
+naa_refs:
+- naa_barcode: 3189715
+  naa_control_symbol: C174
+  naa_series: A5619
+  reference: '[NAA: A5619, Cl74]'
+title: Note By Hooton On Cabinet Submission No. 274
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-09-10
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 221 Note By Hooton On Cabinet Submission No. 274
 
 Canberra, 10 September 1968
 
 Top Secret
 
-**Papua and New Guinea—strength of the Pacific Islands Regiment**
+ **Papua and New Guinea—strength of the Pacific Islands Regiment**
 
-[_matter omitted_] 2
+[ _matter omitted_ ] [2](#f2)
 
 4\. It is fundamental to all plans for Papua/New Guinea defence that the indigenous force should be both stable and reliable and capable of carrying out the role assigned to it. Instability in the force is likely to be the result of many factors and will not simply be cured by stopping or reducing recruitment. If the matter is as serious as the Submission suggests it will be very necessary for the review to cover the various social and economic problems which will affect the efficiency of the force. The review, in any case, needs to cover defence in the widest sense and to take into account the possibility of the use of forces in civil disturbances and the strengths of other forces such as the police.
 
 5\. Over the last three years the average rate of expansion of the indigenous force has been 327 per annum. The Defence Committee proposes that it go up by a further 389 by June 1969.
 
-6\. Our view is that expansion of the force should not completely stop, possibly losing all recruiting momentum; nor should there be any furious recruiting activity to achieve a figure based on a battalion structure which may not be all that relevant and involving, as it would, a higher rate of recruiting to June 1969 than has applied in the past. External Territories and Army should look to see what is a reasonable compromise, taking recruits as they come and certainly keeping recruitment at a higher level than wastage from the force. Recruitment could be kept at a reduced level such as this until it is clear in what direction future recruitment is to go.3
+6\. Our view is that expansion of the force should not completely stop, possibly losing all recruiting momentum; nor should there be any furious recruiting activity to achieve a figure based on a battalion structure which may not be all that relevant and involving, as it would, a higher rate of recruiting to June 1969 than has applied in the past. External Territories and Army should look to see what is a reasonable compromise, taking recruits as they come and certainly keeping recruitment at a higher level than wastage from the force. Recruitment could be kept at a reduced level such as this until it is clear in what direction future recruitment is to go.[3](#f3)
 
 [NAA: A5619, Cl74]
 

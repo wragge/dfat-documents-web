@@ -1,16 +1,21 @@
 ---
-title: "160 Memorandum, Dot (Warwick Smith) To Administration"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9668
+doc_date: '1968-02-17'
+doc_num: 160
+doc_order: 160
+naa_refs:
+- naa_barcode: 32394756
+  naa_control_symbol: 1967/4226
+  naa_series: A452
+  reference: '[NAA: A452, 1967/4226]'
+title: Memorandum, Dot (Warwick Smith) To Administration
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-02-17
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 160 Memorandum, Dot (Warwick Smith) To Administration
 
 Canberra, 17 February 1968
 
-**United Nations Visiting Mission 19681**
+ **United Nations Visiting Mission 1968[1](#f1)**
 
 This Department and the Department of External Affairs have examined the proposed arrangements for the 1968 United Nations Visiting Mission against the background of:
 
@@ -30,9 +35,9 @@ This Department and the Department of External Affairs have examined the propose
 
 (d) The Mission will not be bringing dinner jackets and no social function should be arranged which would require this dress. No social function should be arranged which does not include indigenous representation.
 
-(e) Because of the difficulty with the Liberian member of the last Mission in regard to a function conducted by the Rotary Club in one District and the basically European make up of this organisation,2 we would not wish the Mission to be invited to a function to be conducted by Rotary in any district. Representatives of Rotary and other service organisations in the Territory as well as other voluntary organisations should not, of course, be overlooked in arranging social functions but unless such organisations are clearly multi-racial they should be discouraged from seeking to entertain the Mission. Functions at premises of clubs or organisations whose membership or activities could be distorted to be discriminatory should likewise be avoided.
+(e) Because of the difficulty with the Liberian member of the last Mission in regard to a function conducted by the Rotary Club in one District and the basically European make up of this organisation,[2](#f2) we would not wish the Mission to be invited to a function to be conducted by Rotary in any district. Representatives of Rotary and other service organisations in the Territory as well as other voluntary organisations should not, of course, be overlooked in arranging social functions but unless such organisations are clearly multi-racial they should be discouraged from seeking to entertain the Mission. Functions at premises of clubs or organisations whose membership or activities could be distorted to be discriminatory should likewise be avoided.
 
-(f) Throughout briefings and inspection visits the emphasis should not be placed so much on what ‘we are doing for’ the people of the Territory. This will be clear and, of course, must be stated. The emphasis, wherever possible, should be directed to what the indigenous people are doing for themselves and how the Administration is encouraging them to ‘develop themselves to the position where they can determine their own future’. The activities of Local Government Councils, Co-operative Organisations, and indigenous entrepreneurs should help make this point. Under Secretaries, indigenous patrol officers, malaria eradication team instructors and other health workers with a degree of authority and responsibility, teachers (inspectors, headmasters?) etc., should not be overlooked.3
+(f) Throughout briefings and inspection visits the emphasis should not be placed so much on what ‘we are doing for’ the people of the Territory. This will be clear and, of course, must be stated. The emphasis, wherever possible, should be directed to what the indigenous people are doing for themselves and how the Administration is encouraging them to ‘develop themselves to the position where they can determine their own future’. The activities of Local Government Councils, Co-operative Organisations, and indigenous entrepreneurs should help make this point. Under Secretaries, indigenous patrol officers, malaria eradication team instructors and other health workers with a degree of authority and responsibility, teachers (inspectors, headmasters?) etc., should not be overlooked.[3](#f3)
 
 [matter omitted]
 
@@ -42,4 +47,4 @@ This Department and the Department of External Affairs have examined the propose
 
 2 Details not found. For general background, see footnote I, Document 129.
 
-3 In a marginal note of 19 February to Ballard, Galvin wrote: ‘I spoke to [the] Admin[istration] ... and mentioned this was coming so Fenbury etc wouldn’t blow a fuse at our telling them how to suck eggs. I made the point that these points must be clear in all Districts &amp; that they could treat this as a jumping off paper for one of their own to DC’s [District Commissioners]. I intend to run through the arrangements in Moresby ... to see how well their detailed programme arrangements fit this picture’.
+3 In a marginal note of 19 February to Ballard, Galvin wrote: ‘I spoke to [the] Admin[istration] ... and mentioned this was coming so Fenbury etc wouldn’t blow a fuse at our telling them how to suck eggs. I made the point that these points must be clear in all Districts & that they could treat this as a jumping off paper for one of their own to DC’s [District Commissioners]. I intend to run through the arrangements in Moresby ... to see how well their detailed programme arrangements fit this picture’.

@@ -1,20 +1,27 @@
 ---
-title: "246 Cabinet Economic Committee Minute"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9115
+doc_date: '1982-06-01'
+doc_num: 246
+doc_order: 246
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Cabinet Economic Committee Minute
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-06-01
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 246 Cabinet Economic Committee Minute
 
 Wellington, 1 June 1982
 
 E (82) M 21 PART IV. CONFIDENTIAL
 
-**ANZCER: Release of Exposure Draft**
+ **ANZCER: Release of Exposure Draft**
 
-The Chairman1 recapitulated on the proposals put forward in the memorandum E (82) 96,2 pointing out the programme of visits to major sectional groups by teams of officials. Ministers were asked to volunteer their help in the task. It was suggested that if the 'second fifteen' of officials were defeated in their initial endeavours the 'first fifteen' of Ministers and others would secure the necessary understanding and cooperation. Officials said that some major organisations would receive the exposure draft and a letter on Thursday before the Friday, 4 June, news media seminar.
+The Chairman[1](#f1) recapitulated on the proposals put forward in the memorandum E (82) 96,[2](#f2) pointing out the programme of visits to major sectional groups by teams of officials. Ministers were asked to volunteer their help in the task. It was suggested that if the 'second fifteen' of officials were defeated in their initial endeavours the 'first fifteen' of Ministers and others would secure the necessary understanding and cooperation. Officials said that some major organisations would receive the exposure draft and a letter on Thursday before the Friday, 4 June, news media seminar.
 
 On the matter of preparing and tabling a Parliamentary White Paper, the Committee had differing views. The Chairman advanced the view that a White Paper should be circulated to the members of the Parliamentary Select Committee on Foreign Affairs as soon as possible. It was commented that the Parliamentary Opposition had been briefed on CER three times already and that one more such session with the Select Committee would be desirable. It was highly likely that Opposition members would request this action once the exposure draft was released anyway.
 
@@ -36,9 +43,7 @@ In concluding, the Committee:
 
 
 
-_ [AALR 873, W4446/Boxes 312-313, 61/Aus/2/211 Part 3 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[AALR 873, W4446/Boxes 312-313, 61/Aus/2/211 Part 3 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Hugh Templeton.
   * 2 Document 245.
-
-

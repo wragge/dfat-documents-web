@@ -1,12 +1,18 @@
 ---
-title: "151 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 917
+doc_date: '1940-04-17'
+doc_num: 151
+doc_order: 151
+naa_refs:
+- naa_barcode: 4212443
+  naa_control_symbol: 1940/9
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2260]'
+title: Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 151 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 155 17 April 1940,
 
@@ -16,8 +22,8 @@ In view of possibility of Allied Governments having to consider proposals involv
 
 You will appreciate our anxiety to maintain stability in this region, and we would like to be consulted beforehand on any such proposal, in order to be given an opportunity of submitting our views before a final decision is reached.
 
-_
+ _
 
 _
 
-_ [FA: A3196, 0.2260]_
+ _[FA: A3196, 0.2260]_

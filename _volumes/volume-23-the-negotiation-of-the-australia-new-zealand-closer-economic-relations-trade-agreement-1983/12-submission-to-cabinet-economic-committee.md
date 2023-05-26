@@ -1,11 +1,19 @@
 ---
-title: "12 Submission to Cabinet Economic Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8882
+doc_date: '1978-04-01'
+doc_num: 12
+doc_order: 12
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission to Cabinet Economic Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 12 Submission to Cabinet Economic Committee
 
 Wellington, April 1978
 
@@ -17,9 +25,9 @@ New Zealand/Australia Trading Relationship Proposed Initiative by New Zealand De
 
 On 3 April1978 Cabinet considered the report by the Deputy Prime Minister and Minister of Overseas Trade on his visit to Australia and discussed preparations for the 1978 NAFTA Ministerial meeting which he and the Minister of Trade and Industry will attend on 17 and 18 April. (This will be preceded by officials' discussions on 13 and 14 April.) As a consequence Cabinet:
 
-  1. _declined _to accept the recommendation from the Officials Economic Committee in E (78) 58 that the Government should propose at this month's NAFTA consultations an inter-governmental agreement whereby there should be a substantial shift of all products into Schedule A of the NAFTA over a ten year period, and that there should be prior advice to the New Zealand Manufacturers' Federation of the Government's intention in this regard;
-  2. _directed _that E (78) 58 be withdrawn from the agenda of the Cabinet Economic Committee on 4 April; and
-  3. _invited _the Minister of Trade and Industry to instruct officials to prepare a revised paper in time for the meeting of the Cabinet Economic Committee on 11 April.' (CM78111/28 refers).
+  1.  _declined_ to accept the recommendation from the Officials Economic Committee in E (78) 58 that the Government should propose at this month's NAFTA consultations an inter-governmental agreement whereby there should be a substantial shift of all products into Schedule A of the NAFTA over a ten year period, and that there should be prior advice to the New Zealand Manufacturers' Federation of the Government's intention in this regard;
+  2.  _directed_ that E (78) 58 be withdrawn from the agenda of the Cabinet Economic Committee on 4 April; and
+  3.  _invited_ the Minister of Trade and Industry to instruct officials to prepare a revised paper in time for the meeting of the Cabinet Economic Committee on 11 April.' (CM78111/28 refers).
 
 
 
@@ -50,9 +58,9 @@ It is proposed that after the NAFTA discussions this month a further report shou
 ## Recommendations
 
   10. It is recommended that the Cabinet Economic Committee: 
-    1. _authorise _the delegation to the 1978 NAFTA Ministerial meeting to seek a positive expression of the intention of the two governments to substantially expand the free trade coverage of the NAFTA within a period of 10 to 15 years in order to advance the trading interests of each country and to ensure that the development of industries on both sides of the Tasman takes place in the knowledge that the markets of both countries will eventually be available to industry in each country;
-    2. _note _that after the NAFTA discussions a further report will be made to the Committee on the outcome, after which officials could begin to formulate more detailed recommendations, in consultation with their Australian counterparts.
+    1. _authorise_ the delegation to the 1978 NAFTA Ministerial meeting to seek a positive expression of the intention of the two governments to substantially expand the free trade coverage of the NAFTA within a period of 10 to 15 years in order to advance the trading interests of each country and to ensure that the development of industries on both sides of the Tasman takes place in the knowledge that the markets of both countries will eventually be available to industry in each country;
+    2.  _note_ that after the NAFTA discussions a further report will be made to the Committee on the outcome, after which officials could begin to formulate more detailed recommendations, in consultation with their Australian counterparts.
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 14 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 14 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

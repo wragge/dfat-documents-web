@@ -1,14 +1,32 @@
 ---
-title: "137 Submission from Norrish to Talboys"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9007
+doc_date: '1980-12-15'
+doc_num: 137
+doc_order: 137
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[Footnote to original text reads: ''The CAl surveyed its members who
+    had subsidiaries operating in New Zealand. It discovered that, on average, the
+    cost to these companies of employing labour in comparable activities in New Zealand
+    was less than half (47%) the cost in Australia. This huge discrepancy was accounted
+    for by lower wage costs in New Zealand and much higher "on-costs" in Australia
+    (eg the generous holiday loadings).'']'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[Footnote to original text reads: These issues were discussed in some
+    detail in the 1979 NZIER study ''Administrative Options for Closer Economic Relations
+    between Australia and New Zealand''.]'
+title: Submission from Norrish to Talboys
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-12-15
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 137 Submission from Norrish to Talboys
-
-## Wellington, 15 December 1980
+Wellington, 15 December 1980
 
 ## The Benefits to New Zealand from a Closer Economic Relationship with Australia
 
@@ -67,7 +85,7 @@ The first three are examined in tum below. We have not attempted to sum up the f
   26. Specifically, while it is considered goods on Schedule A would remain duty free, the likelihood is: 
     * there would be no new Schedule A additions unless New Zealand offered equivalent access opportunities.
     * existing article 3:7 arrangements would be allowed to run their course and then lapse. These cover important New Zealand exports such as whiteware.
-    * the Preferences Agreement1 which is up for renewal in 1981 would not be renewed, or would be substantially revised. Of all the possible deleterious changes, this could be the most serious for New Zealand manufactured exports.
+    * the Preferences Agreement[1](#f1) which is up for renewal in 1981 would not be renewed, or would be substantially revised. Of all the possible deleterious changes, this could be the most serious for New Zealand manufactured exports.
     * special quota arrangements negotiated under the NAFTA umbrella would come under severe pressure from Australia, as has occurred with the case of apparel.
 
 
@@ -78,8 +96,6 @@ The first three are examined in tum below. We have not attempted to sum up the f
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 32 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 32 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 The 1977 Agreement on Tariffs and Tariff Preferences.
-
-

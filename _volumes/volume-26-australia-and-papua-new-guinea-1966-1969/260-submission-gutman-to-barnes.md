@@ -1,21 +1,25 @@
 ---
-title: "260 Submission, Gutman To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9768
+doc_date: '1969-03-10'
+doc_num: 260
+doc_order: 260
+naa_refs:
+- naa_barcode: 4025448
+  naa_control_symbol: 1969/2158
+  naa_series: A452
+  reference: '[NAA: A452, 1969/2158]'
+title: Submission, Gutman To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-03-10
-barcode: 32756626
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 260 Submission, Gutman To Barnes
 
 Canberra, 10 March 1969
 
-**Bougainville copper project**
+ **Bougainville copper project**
 
 There have recently been significant developments in proposals by Bougainville Copper Ltd to develop the copper deposits on Bougainville Island.
 
-2\. The company has made no announcement on the future of the project but the Chairman of CRA, Sir Maurice Mawby, wrote to you recently stating that the company had now proved to its satisfaction that the project will be economically attractive.1 Exploration is in its final stage with only some detailed investigatory work for design and estimating to be completed.
+2\. The company has made no announcement on the future of the project but the Chairman of CRA, Sir Maurice Mawby, wrote to you recently stating that the company had now proved to its satisfaction that the project will be economically attractive.[1](#f1) Exploration is in its final stage with only some detailed investigatory work for design and estimating to be completed.
 
 3\. A decision by the company to spend a further $40m. or $50m. (which would virtually amount to a decision to proceed) appears very likely in the near future if legal problems relating to the mineral rights do not interfere.
 
@@ -23,25 +27,25 @@ There have recently been significant developments in proposals by Bougainville C
 
 5\. The company recently announced the signing of a letter of intent with seven Japanese copper smelters to supply 950,000 tons of copper in concentrate form. The arrangement which is subject to further feasibility studies will be for a period of 15 years, commencing in 1972. The gross value of the Agreement at current copper prices is in the vicinity of $1,000m. The proposed sales to Japan represent some 50% of the estimated total production over the 15 year period. The company is also actively pursuing long term marketing arrangements in Europe, Taiwan and Australia.
 
-6\. At the bi-monthly meeting between CRA and the Administration on 11th and 12th February 1969 the company submitted firm details of land requirements on Bougainville for port and main townsite, mining lease, tailings area, water lease, leases for construction materials and limestone and leases for roads, flumes, power and pipelines.2 The total area involved is in excess of 57,000 acres.
+6\. At the bi-monthly meeting between CRA and the Administration on 11th and 12th February 1969 the company submitted firm details of land requirements on Bougainville for port and main townsite, mining lease, tailings area, water lease, leases for construction materials and limestone and leases for roads, flumes, power and pipelines.[2](#f2) The total area involved is in excess of 57,000 acres.
 
-7\. Under the terms of the Bougainville Copper Agreement the Administration is obliged to provide a special mining lease or leases over any areas applied for by the company which form part of Prospecting Authorities Nos. 1 to 7 under the Mining Ordinance 1928–1966 of the Territory of New Guinea. This will include the area required for the open cut mine and mining townsite. Other areas required will not be located on the Prospecting Authorities specified in the Agreement but, under the Agreement, the Administration is still required to provide land reasonably required by the company for these purposes. Details of the company proposals and the Administration comments are given in the attached copy of a memorandum from the Administration.3
+7\. Under the terms of the Bougainville Copper Agreement the Administration is obliged to provide a special mining lease or leases over any areas applied for by the company which form part of Prospecting Authorities Nos. 1 to 7 under the Mining Ordinance 1928–1966 of the Territory of New Guinea. This will include the area required for the open cut mine and mining townsite. Other areas required will not be located on the Prospecting Authorities specified in the Agreement but, under the Agreement, the Administration is still required to provide land reasonably required by the company for these purposes. Details of the company proposals and the Administration comments are given in the attached copy of a memorandum from the Administration.[3](#f3)
 
-8\. The Administration saw unacceptable political difficulties in agreeing to the acquisition of the areas suggested by the company for the port, main townsite and construction materials (some 5,000 acres). The basic objection was that the proposal involved large areas of land belonging to and occupied by people of the Kieta Local Government Council who had generally, in the past, been well disposed to the Administration while it left intact a large adjacent European plantation (Arawa Plantation of 998 acres). The Administrator suggested a counter proposal, involving a smaller total area, less native land and the acquisition of Arawa Plantation.4
+8\. The Administration saw unacceptable political difficulties in agreeing to the acquisition of the areas suggested by the company for the port, main townsite and construction materials (some 5,000 acres). The basic objection was that the proposal involved large areas of land belonging to and occupied by people of the Kieta Local Government Council who had generally, in the past, been well disposed to the Administration while it left intact a large adjacent European plantation (Arawa Plantation of 998 acres). The Administrator suggested a counter proposal, involving a smaller total area, less native land and the acquisition of Arawa Plantation.[4](#f4)
 
-9\. In discussions in Canberra on 24th and 25th February between the Administration, Department and the company it was agreed that the Administration proposals should be adopted, subject to further detailed planning demonstrating that the area of approximately 1,500 acres (Arawa Plantation and area ‘A’ on attached map) suggested by the Administration for the townsite was adequate for reasonable future requirements for a joint Administration/company town. The matter was discussed with you on 25th February and on 26th February you approved of the Administration opening negotiations to acquire Arawa Plantation at an estimated cost of $750,0005. The Administration believes acquisition of Arawa as a first step may enable a negotiated settlement to be reached on native land required for the coastal townsite and the success of these negotiations will greatly influence the course of events in obtaining the other land required by the company. No firm conclusions were reached in relation to other land requirements by the company.
+9\. In discussions in Canberra on 24th and 25th February between the Administration, Department and the company it was agreed that the Administration proposals should be adopted, subject to further detailed planning demonstrating that the area of approximately 1,500 acres (Arawa Plantation and area ‘A’ on attached map) suggested by the Administration for the townsite was adequate for reasonable future requirements for a joint Administration/company town. The matter was discussed with you on 25th February and on 26th February you approved of the Administration opening negotiations to acquire Arawa Plantation at an estimated cost of $750,000[5](#f5). The Administration believes acquisition of Arawa as a first step may enable a negotiated settlement to be reached on native land required for the coastal townsite and the success of these negotiations will greatly influence the course of events in obtaining the other land required by the company. No firm conclusions were reached in relation to other land requirements by the company.
 
 10\. In relation to land requirements by the company the present position—as agreed between the Administration, Department and the company—is as follows:—
 
 (a) that immediate action be taken to acquire Arawa Plantation;
 
-(b) that action be taken (with timing at the discretion of the Administrator) to acquire areas ‘A’ (670 acres) and ‘B’ (1,210 acres) on attached map;6
+(b) that action be taken (with timing at the discretion of the Administrator) to acquire areas ‘A’ (670 acres) and ‘B’ (1,210 acres) on attached map;[6](#f6)
 
-(c) that no action be taken at this stage to acquire areas ‘C’ (850 acres )7 and ‘N’ (1,525 acres)8 on attached map;
+(c) that no action be taken at this stage to acquire areas ‘C’ (850 acres )[7](#f7) and ‘N’ (1,525 acres)[8](#f8) on attached map;
 
 (d) that further study and town planning be put in hand immediately to determine whether the area of Arawa Plantation and ‘A’ is sufficient for the reasonable requirements of a joint Administration/company town. If this study shows Arawa Plantation and ‘A’ to be inadequate in area then the question of additional land to be re-examined;
 
-(e) that the company be provided with a special lease for construction materials from area ‘D’9 on attached map;
+(e) that the company be provided with a special lease for construction materials from area ‘D’[9](#f9) on attached map;
 
 (f) that the question of land required by the company for purposes other than the port and main townsite be the subject of further consultation between the Administration, the company and the Department following a report from the Administrator on the reaction of the native people to the initial approaches by the Administration concerning land acquisition for the port and main townsite.
 
@@ -51,17 +55,17 @@ Note: The acquisition of Arawa Plantation, area ‘A’, and area ‘B’ will n
 
 12\. The company is seeking approval for the use of Asian personnel during the construction period on the grounds that there would be substantial benefits to both the Territory and the company. The company claims (and the Administration agrees) that the supply of skilled manpower in the Territory would be totally inadequate while use of large numbers of Australian personnel for construction operations could involve severe management and public relations problems and would involve the company in greatly increased costs. The total number of Asians involved could be as many as 2,000. Mr Espie of CRA, Mr Henderson of the Administration, and Departmental officers discussed the matter with the Minister on 25th February.
 
-13\. Mr Espie explained to the Minister the severe obstacles to the training of indigenes for the short term requirements of construction. He also said the company had no wish to place undue pressure on the supply of skilled personnel in the Territory. Mr Espie assured the Minister that the company would be prepared to mount a major effort in workforce training. They already had a small training operation and would be prepared to undertake a major expansion almost immediately. The Minister said he was impressed with the arguments put forward by the company and was prepared to look closely at the request on the grounds that it was purely for the construction phase. He said the company’s offer regarding training operations was an important factor influencing his thinking.10
+13\. Mr Espie explained to the Minister the severe obstacles to the training of indigenes for the short term requirements of construction. He also said the company had no wish to place undue pressure on the supply of skilled personnel in the Territory. Mr Espie assured the Minister that the company would be prepared to mount a major effort in workforce training. They already had a small training operation and would be prepared to undertake a major expansion almost immediately. The Minister said he was impressed with the arguments put forward by the company and was prepared to look closely at the request on the grounds that it was purely for the construction phase. He said the company’s offer regarding training operations was an important factor influencing his thinking.[10](#f10)
 
 14\. The Minister agreed he would consider the company’s proposals again and if possible discuss them with his colleagues with a view to discussion in the Administrator’s Executive Council before the House of Assembly rises from the March sittings. A submission on the matter is being prepared in the Department for the Minister’s consideration.
 
-15\. There is a possibility that the public solicitor in Port Moresby (Mr Lalor) may initiate a legal challenge on certain aspects of the Administration’s claim to ownership of minerals. The matter has been closely examined in discussions between Attorney General’s Department, Department of External Territories, the Administration and the company’s legal adviser. Discussions have been aimed at reaching agreement on a course of action which is acceptable to all parties and which will not result in any delay to the project by such legal action or threat thereof. The Secretary’s note (attached) sets out the present position.11
+15\. There is a possibility that the public solicitor in Port Moresby (Mr Lalor) may initiate a legal challenge on certain aspects of the Administration’s claim to ownership of minerals. The matter has been closely examined in discussions between Attorney General’s Department, Department of External Territories, the Administration and the company’s legal adviser. Discussions have been aimed at reaching agreement on a course of action which is acceptable to all parties and which will not result in any delay to the project by such legal action or threat thereof. The Secretary’s note (attached) sets out the present position.[11](#f11)
 
-16\. The company now expects that the total capital investment in the Bougainville project, if it proceeds, will exceed $300m., approximately one-third of which will be equity capital. If the Administration takes up its entitlement of 20% of the equity the cash requirements would therefore be $20m. and present indications are that $10m. would be required in 1969/70 and $10m. in 1970/71. In his recent letter to you Sir Maurice Mawby has given formal advice along these lines and a letter from you to the Commonwealth Treasurer is being prepared to bring the facts to his notice so that a contingency provision may be included in the 1969/70 budget estimates.12
+16\. The company now expects that the total capital investment in the Bougainville project, if it proceeds, will exceed $300m., approximately one-third of which will be equity capital. If the Administration takes up its entitlement of 20% of the equity the cash requirements would therefore be $20m. and present indications are that $10m. would be required in 1969/70 and $10m. in 1970/71. In his recent letter to you Sir Maurice Mawby has given formal advice along these lines and a letter from you to the Commonwealth Treasurer is being prepared to bring the facts to his notice so that a contingency provision may be included in the 1969/70 budget estimates.[12](#f12)
 
-17\. The project is reaching a critical stage and a special committee has been established in the Administration to co-ordinate arid expedite action by all departments concerned, particularly in relation to detailed planning and implementation of plans for the coastal townsite. Action is also underway to strengthen liaison and co-ordination between the Administration, the Department and the company.13
+17\. The project is reaching a critical stage and a special committee has been established in the Administration to co-ordinate arid expedite action by all departments concerned, particularly in relation to detailed planning and implementation of plans for the coastal townsite. Action is also underway to strengthen liaison and co-ordination between the Administration, the Department and the company.[13](#f13)
 
-[ [NAA: A452, 1969/2158](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=32756626) ]
+[NAA: A452, 1969/2158]
 
 1 27 February (see NAA: A452, 1968/6220). Barnes replied on 18 March that ‘This is good news indeed’(NAA: A452, 1969/2158).
 

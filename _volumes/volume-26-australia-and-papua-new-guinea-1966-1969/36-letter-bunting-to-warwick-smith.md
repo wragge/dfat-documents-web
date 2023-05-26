@@ -1,17 +1,23 @@
 ---
-title: "36 Letter, Bunting To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9544
+doc_date: '1966-04-15'
+doc_num: 36
+doc_order: 36
+naa_refs:
+- naa_barcode: 1340593
+  naa_control_symbol: C1724 PART 2
+  naa_series: A4940
+  reference: '[NAA: A4940, C 1724 part 2]'
+title: Letter, Bunting To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
 
-# 36 Letter, Bunting To Warwick Smith
-
-Canberra, 15 April l966
+Canberra, 15 April 1966
 
 Secret
 
-I feel that I should send to you, and through you to the Minister for Territories, what I might call a supplementary note in relation to Cabinet Decision No. 138, which refers to Papua and New Guinea—Ultimate Status.1 This was the subject of Cabinet Submission No. 71.2
+I feel that I should send to you, and through you to the Minister for Territories, what I might call a supplementary note in relation to Cabinet Decision No. 138, which refers to Papua and New Guinea—Ultimate Status.[1](#f1) This was the subject of Cabinet Submission No. 71.[2](#f2)
 
 The point is the possibility of eventual integration of the Territory with Australia as a State on equal terms with the present States. It may well be that the decision is not sufficiently specific on this point.
 

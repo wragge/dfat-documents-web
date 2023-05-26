@@ -1,12 +1,18 @@
 ---
-title: "413 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1179
+doc_date: '1940-06-20'
+doc_num: 413
+doc_order: 413
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4571]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-20
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 413 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Circular cablegram Z134 LONDON, 20 June 1940, 8.25 p.m.
 
@@ -40,7 +46,7 @@ Failing this co-operation we shall rely on our naval forces to intercept enemy r
 
 (h) INDO-CHINA AND OCEANIA. Japanese occupation would entail their control of Thailand and bring a new Japanese base at Saigon within 640 miles of Singapore. It would also provide air bases for operations against Malaya. Certain French islands in the Western Pacific if occupied by the Japanese would constitute a serious threat to Imperial communications. Any attempt on our part to occupy French possessions would probably lead to immediate difficulties with Japan and our aim must therefore be to ensure that the United States should make a public declaration as to their intention to see the status quo in the Pacific and the Far East preserved. (See paragraph 6 of my telegram under reference).'
 
-_
+ _
 
 1 R. G. Menzies.
 
@@ -54,4 +60,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4571]_
+ _[FA: A3195, 1.4571]_

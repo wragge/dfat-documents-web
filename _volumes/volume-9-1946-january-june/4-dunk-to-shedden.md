@@ -1,12 +1,17 @@
 ---
-title: "4 Dunk to Shedden"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3516
+doc_date: '1946-01-02'
+doc_num: 4
+doc_order: 4
+naa_refs:
+- naa_barcode: 546810
+  naa_control_symbol: 936/3/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838/2, 936/3/1]'
+title: Dunk to Shedden
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-02
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 4 Dunk to Shedden
 
 Teleprinter message [CANBBRRA], 2 January 1946
 
@@ -22,7 +27,7 @@ Reference Dominions Office telegram D.2290 of 22nd December [1] and 12627 (U.N.0
 
 3\. Since question of making declaration as to mandates will arise during first part of General Assembly meeting commencing January 10 early advice on para.1 above is requested.
 
-_
+ _
 
 1 This cablegram sought Dominion views on a proposal before U.K.
 
@@ -38,4 +43,4 @@ Trusteeship System.
 
 _
 
-_ [AA:A1838/2, 936/3/1]_
+ _[AA:A1838/2, 936/3/1]_

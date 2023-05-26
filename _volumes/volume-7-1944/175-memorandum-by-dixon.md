@@ -1,12 +1,17 @@
 ---
-title: "175 Memorandum by Dixon"
-volume: "Volume 7: 1944"
-doc_id: 2822
+doc_date: '1944-05-30'
+doc_num: 175
+doc_order: 175
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 655]'
+title: Memorandum by Dixon
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-30
+vol_title: 'Volume 7: 1944'
 ---
-
-# 175 Memorandum by Dixon
 
 WASHINGTON, 30 May 1944
 
@@ -64,7 +69,7 @@ Subject however to considerations of expense which perhaps should not be left al
 
 In respect of procurement or indeed any other matter, except possibly shipping, I do not think that functions performed in Canada should be carried out by an Australian agency formed or having its headquarters in U.S.A. They are two different countries, the problems are different and the controls should be separated. There is no difficulty in maintaining co-ordination through the Minister at Washington and the High Commissioner at Ottawa and indeed through subordinate channels.
 
-_
+ _
 
 1 Dr G. H. Munro.
 
@@ -82,4 +87,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 655]_
+ _[AA:A5954, BOX 655]_

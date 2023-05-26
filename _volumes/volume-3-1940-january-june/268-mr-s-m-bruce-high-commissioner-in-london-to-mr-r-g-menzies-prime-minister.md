@@ -1,12 +1,17 @@
 ---
-title: "268 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1034
+doc_date: '1940-05-23'
+doc_num: 268
+doc_order: 268
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3537]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-23
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 268 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 348 LONDON, 23 May 1940, 7.10 p.m.
 
@@ -24,10 +29,10 @@ Please advise me as soon as possible as to your attitude with regard to Hudsons 
 
 BRUCE
 
-_
+ _
 
 1 Document 260.
 
 _
 
-_ [FA: A3195, 1.3537]_
+ _[FA: A3195, 1.3537]_

@@ -1,12 +1,20 @@
 ---
-title: "126 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8996
+doc_date: '1980-07-30'
+doc_num: 126
+doc_order: 126
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-07-30
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 126 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 30 July 1980
 
@@ -33,13 +41,11 @@ On a more routine level, they have also worked out some position papers on:
     * by-law rules of origin
     * extension of preferences agreement
     * government purchasing.
-  6. The Australians are not looking on this round as 'make-or-break' discussions, nor even as entering the hard negotiation phase. At the same time the indications they have been reviewing of NZ attitudes have raised doubts about our commitment to a continuation of the discussions. Both in Wellington and Canberra we have been at pains to dispel the misapprehensions of Australian officials on this score, but they will want to be able to report to Ministers that progress has been achieved, and, if possible, that officials can now get down to the business of elaborating the framework for solutions to the more difficult problems. They are flexible because of the diversity of interests that have been brought to bear on their side: they are positive because they appreciate the extent of the adjustment likely to be necessary on NZ side. Consequently the Australians will be most receptive to any initiatives from us which will help to advance the discussions: on timing they will defer to us provided we accept that no final discussions1 can be taken before the general election (which was earlier assumed would take place in December but may now be brought forward to October).
+  6. The Australians are not looking on this round as 'make-or-break' discussions, nor even as entering the hard negotiation phase. At the same time the indications they have been reviewing of NZ attitudes have raised doubts about our commitment to a continuation of the discussions. Both in Wellington and Canberra we have been at pains to dispel the misapprehensions of Australian officials on this score, but they will want to be able to report to Ministers that progress has been achieved, and, if possible, that officials can now get down to the business of elaborating the framework for solutions to the more difficult problems. They are flexible because of the diversity of interests that have been brought to bear on their side: they are positive because they appreciate the extent of the adjustment likely to be necessary on NZ side. Consequently the Australians will be most receptive to any initiatives from us which will help to advance the discussions: on timing they will defer to us provided we accept that no final discussions[1](#f1) can be taken before the general election (which was earlier assumed would take place in December but may now be brought forward to October).
   7. There is something of a contrast between the generally positive approach of officials, and the apparently less constructive tone of one or two public statements emanating from some Cabinet ministers. This is largely a reflection of the difficulty Australian politicians have had in taking a public stance on an issue whose outlines have yet to be fully defined in terms of all its pluses and minuses but at the same time in being expected to protect essential Australian interests. Since the Prime Ministers' meeting, both Mr Fraser and Mr Nixon have assured dairy farmers they will not allow 'unfair' competition from New Zealand to affect adversely the Australian dairy industry's viability. While we may regret the need for such statements it is important to recognise that the dairy industry is the only lobby which has sought to make ANZCER a political issue: politicians have responded to it as an issue because the dairy industry's lobbying efforts have persuaded them that it is one. It has been in order to contain the issue and prevent it from becoming part-political that Australian ministers have been so anxious to reach an accommodation on cheese which can be presented to dairy farmers as evidence of NZ's reasonableness and willingness to accept the principle of restraint in developing its market in sensitive areas. Similar considerations apply, of course, to our own political situation and the uncertainty as to what has been happening during a period of seeming inactivity has required public reassurance that the NZ Government is above all fully aware of the implications of the exercise for the future of the NZ economy. The difference between the two perhaps lies in the differing emphasis placed on CER by the two countries. For New Zealand CER would be a major development having consequences right across the community. Hence any public statement in NZ must be of a general nature, the result being that any reservations we may express tend to be interpreted by the Australians as reflecting our attitude toward the concept itself. In Australia, on the other hand, CER is regarded as having much less significance in the total scheme of things so that public statements have focussed on the one issue and the note of criticism implicit in those statements does not go beyond that.
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 28 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 28 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 This word should presumably be 'decisions'.
-
-

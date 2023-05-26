@@ -1,14 +1,20 @@
 ---
-title: "46 High Commission in New Delhi to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6215
+doc_date: '1949-01-07'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: High Commission in New Delhi to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-07
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 46 High Commission in New Delhi to Department of External Affairs
-
-## Cablegram 15 NEW DELHI, 7 January 1949, 7.15 p.m.
+Cablegram 15 NEW DELHI, 7 January 1949, 7.15 p.m.
 
 IMMEDIATE
 
@@ -18,8 +24,8 @@ Asian Conference. Following is list of countries invited. Burma, Australia, Afgh
 
 3\. He told me in confidence that Transjordan had not been invited saying that the Arab League were annoyed with them over Palestine.
 
-_
+ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

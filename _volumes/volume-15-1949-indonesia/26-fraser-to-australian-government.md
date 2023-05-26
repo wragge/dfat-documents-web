@@ -1,11 +1,18 @@
 ---
-title: "26 Fraser to Australian Government"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6195
+doc_date: '1949-01-05'
+doc_num: 26
+doc_order: 26
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Fraser to Australian Government
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 26 Fraser to Australian Government
 
 Cablegram 2 WELLINGTON, 5 January 194[9], 9.20 p.m.
 
@@ -21,7 +28,7 @@ The hope was expressed that the Conference would be on a Ministerial level. It w
 
 We are still considering the position presented by this invitation and hope shortly to be able to inform you of our final views.
 
-_
+ _
 
 1 Document 5.
 
@@ -31,4 +38,4 @@ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

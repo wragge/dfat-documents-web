@@ -1,14 +1,19 @@
 ---
-title: "137 Oldham to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3649
+doc_date: '1946-03-20'
+doc_num: 137
+doc_order: 137
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.7156]'
+title: Oldham to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-20
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 137 Oldham to Evatt
-
-## Cablegram 326 (extract) WASHINGTON, 20 March 1946, 9.46 p.m.
+Cablegram 326 (extract) WASHINGTON, 20 March 1946, 9.46 p.m.
 
 MOST IMMEDIATE
 
@@ -22,7 +27,7 @@ I then raised the question of appointments to the position of Assistant Secretar
 
 [matter omitted]
 
-_
+ _
 
 1 Document 133.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.7156]_
+ _[AA:A3195, 1946, 1.7156]_

@@ -1,14 +1,19 @@
 ---
-title: "51 Commonwealth Government to Mr M. J. Savage, N.Z. Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 817
+doc_date: '1940-02-10'
+doc_num: 51
+doc_order: 51
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, 0.810]'
+title: Commonwealth Government to Mr M. J. Savage, N.Z. Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-10
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 51 Commonwealth Government to Mr M. J. Savage, N.Z. Prime Minister
-
-## Cablegram unnumbered 10 February 1940,
+Cablegram unnumbered 10 February 1940,
 
 Your telegram 8th February [1], greatly regret infringement of censorship by Smith's Weekly of 3rd February. Article was not submitted for censorship and Editor has been rebuked by Australian Censor.
 
@@ -18,7 +23,7 @@ Doubtless you will have suggestions making for uniform action.
 
 Will forward reply to last sentence your cablegram separately. [2]
 
-_
+ _
 
 1 In series FA: A3195, 1.892. The New Zealand Govt had complained that the article made open reference to the arrival of New Zealand troops in Fremantle.
 
@@ -28,4 +33,4 @@ The Commonwealth Govt replied on 22 February 1940 that very little exception cou
 
 _
 
-_ [FA: A3196, 0.810]_
+ _[FA: A3196, 0.810]_

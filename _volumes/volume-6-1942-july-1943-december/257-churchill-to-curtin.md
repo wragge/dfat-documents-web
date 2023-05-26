@@ -1,12 +1,18 @@
 ---
-title: "257 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2548
+doc_date: '1943-08-16'
+doc_num: 257
+doc_order: 257
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO,
+    1.34170]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-08-16
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 257 Churchill to Curtin
 
 Cablegram 219 [1] LONDON, 16 August 1943, 11.02 a.m.
 
@@ -22,7 +28,7 @@ Fadden's bad example. You would surely gain respect and sympathy by declaring yo
 
 3\. This action is all the more necessary because once publication starts the full correspondence may be dragged out. The first paragraph of my 608 of 31st August, 1941 [4], affects the United States and might give grave offence there. The President would also consider that a breach of confidence had been committed. My relations with him might be prejudicially affected and serious injury done to the common cause.
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 2 Documents 255-6.
 
@@ -32,4 +38,4 @@ _ 1 Sent through the U.K. Dominions Office.
 
 _
 
-_ [FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.34170]_
+ _[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.34170]_

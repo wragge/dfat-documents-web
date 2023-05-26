@@ -1,12 +1,17 @@
 ---
-title: "184 Report by Joint Chiefs of Staff in Australia"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3696
+doc_date: '1946-04-10'
+doc_num: 184
+doc_order: 184
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1850]'
+title: Report by Joint Chiefs of Staff in Australia
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-10
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 184 Report by Joint Chiefs of Staff in Australia
 
 Extracts [MELBOURNE], 10 April 1946
 
@@ -188,7 +193,7 @@ MOVEMENT OF B.C.O.F. (UP TO 4TH APRIL):
 
 D. S. CLUES Joint Secretary
 
-_
+ _
 
 1 See Volume VIII, Document 321.
 
@@ -206,4 +211,4 @@ Entry to homes and participation in family life was forbidden. The instruction w
 
 _
 
-_ [AA:A5954, BOX 1850]_
+ _[AA:A5954, BOX 1850]_

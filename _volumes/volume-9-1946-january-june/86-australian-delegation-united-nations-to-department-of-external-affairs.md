@@ -1,12 +1,17 @@
 ---
-title: "86 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3598
+doc_date: '1946-02-14'
+doc_num: 86
+doc_order: 86
+naa_refs:
+- naa_barcode: 587482
+  naa_control_symbol: 852/9/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838 T189, 852/9/1]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-14
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 86 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram 1044 LONDON, 14 February 1946, 11.33 a.m.
 
@@ -20,10 +25,10 @@ Assembly 83. HEADQUARTERS.
 
 3\. The Committee then discussed the appointment of a Planning Commission on Headquarters to report to the Second Part of the First Session in September. Australia is one of eight members to be recommended to the Plenary for appointment to this Committee, the character of which has been changed somewhat from purely Expert Body proposed in Chapter X of the Preparatory Commission's report. Australia has also been appointed to the Headquarters negotiating Committee on the recommendations of Sixth Committee which prepared the final draft of the proposed convention between United Nations and United States.
 
-_
+ _
 
 1 In fact, there were three abstentions: Belgium, Inn and the United States.
 
 _
 
-_ [AA:A1838 T189, 852/9/1]_
+ _[AA:A1838 T189, 852/9/1]_

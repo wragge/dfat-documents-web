@@ -1,12 +1,17 @@
 ---
-title: "271 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 608
+doc_date: '1939-10-09'
+doc_num: 271
+doc_order: 271
+naa_refs:
+- naa_barcode: 278813
+  naa_control_symbol: '110'
+  naa_series: A2937
+  reference: '[FA: A2937, JAPAN-LAKE GEORGE COMPANY]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 271 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 539? [1] LONDON, 9 October 1939
 
@@ -20,7 +25,7 @@ Foreign Office suggest that in this particular case and any other transactions t
 
 BRUCE
 
-_
+ _
 
 1 The draft carried the hand-written minute 'Final telegram was sent by High Commissioner. See C.I.D. box', but no other copy has been found. The draft was numbered 539, but this appears to have been incorrect as the same number was given to another cablegram sent by Bruce on the same day (see Document 272).
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA: A2937, JAPAN-LAKE GEORGE COMPANY]_
+ _[FA: A2937, JAPAN-LAKE GEORGE COMPANY]_

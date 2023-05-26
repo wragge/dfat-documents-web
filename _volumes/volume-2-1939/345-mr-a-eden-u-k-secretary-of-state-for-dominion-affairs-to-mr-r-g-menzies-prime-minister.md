@@ -1,12 +1,18 @@
 ---
-title: "345 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 682
+doc_date: '1939-11-10'
+doc_num: 345
+doc_order: 345
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 345 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram D73 LONDON, 10 November 1939, 1.48 p.m.
 
@@ -20,7 +26,7 @@ In view of the threatening situation on the German-Dutch frontier the question o
 
 It would facilitate consultation if you would repeat your reply to this telegram to the other three overseas Prime Ministers.
 
-_
+ _
 
 1 Not printed. This cablegram reported information received from Hubert Pierlot, Belgian Minister for Foreign Affairs, that the mediation offer was an attempt to save the situation by increasing odium on Germany who might hesitate to attack two countries which had offered their good offices. It also reported the intention of the U.K. Prime Minister, Neville Chamberlain, to refer to the offer in a speech on 9 November in the course of which he would state that the Dominions would be consulted before any reply could be given. See AA: A1608, A41/1/1, v.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

@@ -1,14 +1,19 @@
 ---
-title: "70 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1301
+doc_date: '1940-08-13'
+doc_num: 70
+doc_order: 70
+naa_refs:
+- naa_barcode: 181151
+  naa_control_symbol: TRAD 87 PART 1
+  naa_series: A981
+  reference: '[AA:A981, TRADE 87B, i]'
+title: Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-13
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 70 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 13 August 1940,
+Cablegram unnumbered 13 August 1940,
 
 Your telegrams, 659 [1], 626 [2], 564. [3] New Caledonian nickel.
 
@@ -22,7 +27,7 @@ Letter dated 3rd August just received from Oughton [6], who is in Noumea, states
 
 Exact position in New Caledonia, particularly attitude of Governor, is somewhat confused and uncertain. Commonwealth official representative, B. C. Ballard, is leaving for Noumea aboard s.s. 'CAGOU' on 16th instant, and you will be kept advised of his reports on exact situation in colony.
 
-_
+ _
 
 1 Dispatched 10 August. See file AA:A981, Trade 87B, i.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A981, TRADE 87B, i]_
+ _[AA:A981, TRADE 87B, i]_

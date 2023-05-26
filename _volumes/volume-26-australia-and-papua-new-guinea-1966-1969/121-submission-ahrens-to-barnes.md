@@ -1,16 +1,21 @@
 ---
-title: "121 Submission, Ahrens To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9629
+doc_date: '1967-06-14'
+doc_num: 121
+doc_order: 121
+naa_refs:
+- naa_barcode: 12042309
+  naa_control_symbol: 1967/3211
+  naa_series: A452
+  reference: '[NAA: A452, 1967/3211]'
+title: Submission, Ahrens To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-06-14
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 121 Submission, Ahrens To Barnes
 
 Canberra 14 June 1967
 
-**Papua and New Guinea—Bougainville Copper Agreement between Administration and Bougainville Copper Pty Ltd**
+ **Papua and New Guinea—Bougainville Copper Agreement between Administration and Bougainville Copper Pty Ltd**
 
 The Agreement between the Administration and C.R.A.’s subsidiary, Bougainville Copper Pty. Ltd., has been signed and {was} introduced into the House of Assembly on 8th June. As part of the arrangements it was agreed that the Commonwealth provide the Company with a letter
 
@@ -20,18 +25,18 @@ The Agreement between the Administration and C.R.A.’s subsidiary, Bougainville
 
 4\. The attached letter has been cleared with Treasury, the First Assistant Crown Solicitor and C.R.A. It is considered to meet Cabinet’s decisions and also the point sought by C.R.A. The following are the agreed words proposed to be used in the Company’s reply—  
 ‘My dear Minister,  
-I have your letter of ...,1 and confirm that it contains a correct record of all the assurances agreed to be given by the Commonwealth to the Company. We confirm our understanding that the Commonwealth as distinct from the Administration has no legal responsibility under the Agreement.  
+I have your letter of ...,[1](#f1) and confirm that it contains a correct record of all the assurances agreed to be given by the Commonwealth to the Company. We confirm our understanding that the Commonwealth as distinct from the Administration has no legal responsibility under the Agreement.  
 Yours faithfully, F. F. Espie’.
 
 5\. 
 
 The attached letter is dated 6th June, 1967 to accord with the date of signing of the Agreement.
 
-_Recommendation_
+ _Recommendation_
 
-6\. It is recommended that you sign the attached letter to Bougainville Copper Pty. Ltd.2
+6\. It is recommended that you sign the attached letter to Bougainville Copper Pty. Ltd.[2](#f2)
 
-**Attachment**
+ **Attachment**
 
 In connection with the contemplated agreement between your Company and the Administration of the Territory of Papua and New Guinea relating to the mining of copper ore in areas covered by Prospecting Authorities Nos. I to 7 inclusive, certain understandings with the Commonwealth have been sought.
 

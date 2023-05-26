@@ -1,12 +1,19 @@
 ---
-title: "139 Joint Report by Permanent Heads to Prime Ministers"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9009
+doc_date: 1980-12
+doc_num: 139
+doc_order: 139
+naa_refs:
+- naa_barcode: 1509880
+  naa_control_symbol: 370/1/19/18 PART 20
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, xx]'
+title: Joint Report by Permanent Heads to Prime Ministers
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-03-21
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 139 Joint Report by Permanent Heads to Prime Ministers
 
 [Wellington, December 1980]1
 
@@ -16,11 +23,11 @@ CONFIDENTIAL
 
 ### Introduction
 
-  1. The communique2 issued at the conclusion of your meeting in Wellington on 21 March 1980 declared that it was timely to take the special relationship between Australia and New Zealand a step further. The communique and annex (attached) set out an agreed framework for further detailed exploration and examination of possible arrangements for a closer relationship between Australia and New Zealand. Officials were directed to set appropriate studies in train immediately and to consult closely with interested parties.
+  1. The communique[2](#f2) issued at the conclusion of your meeting in Wellington on 21 March 1980 declared that it was timely to take the special relationship between Australia and New Zealand a step further. The communique and annex (attached) set out an agreed framework for further detailed exploration and examination of possible arrangements for a closer relationship between Australia and New Zealand. Officials were directed to set appropriate studies in train immediately and to consult closely with interested parties.
   2. Australian and New Zealand Permanent Heads met in Wellington on 10 and 11 December to review the outcome of these studies. Permanent Heads have concluded that the studies and consultations have been completed in sufficient detail to enable a draft Heads of Agreement to be drawn up outlining the possible shape of a new Agreement that could govern the closer economic and trading relationship between Australia and New Zealand consistent with the approach set out in the March communique.
   3. This report is in tow parts: a covering paper indicating the background to the studies, the objectives, principles and concepts on which the new proposals are based, and some comment on the main features of the new arrangement. The second part is a draft Heads of Agreement which could form the basis of a new Agreement to govern the economic and trading relationship. The Heads of Agreement contains an outline of the procedures and policies that Permanent Heads consider would be required to implement the new relationship.
   4. This joint report is a confidential document addressed from Permanent Heads to the Prime Ministers of Australia and New Zealand. Whether or not it should be made public at any time is a matter for joint decision by the two Governments.
-  5. It should be noted that some issues remain to be resolved. These are covered in the report and are covered in paragraphs [6-8, 10] and relate to3
+  5. It should be noted that some issues remain to be resolved. These are covered in the report and are covered in paragraphs [6-8, 10] and relate to[3](#f3)
 
 
 
@@ -216,7 +223,7 @@ CONFIDENTIAL
 ### Tariffs
 
   1. Items already traded free of duty will remain free. This applies to items free of duty under either the preferential or the general tariff.
-  2. All goods produced in either country will be placed in categories for tariff phasing purposes. There will be no exclusions either at the outset or subsequently from the scope of the Agreement. A common tariff phasing formula (as set out below will be applied at the outset of the Agreement to all goods placed in Categories A/B.4 The objective for these goods is full duty free trade within a clearly defined and predictable timetable set out before the commencement of the agreement.
+  2. All goods produced in either country will be placed in categories for tariff phasing purposes. There will be no exclusions either at the outset or subsequently from the scope of the Agreement. A common tariff phasing formula (as set out below will be applied at the outset of the Agreement to all goods placed in Categories A/B.[4](#f4) The objective for these goods is full duty free trade within a clearly defined and predictable timetable set out before the commencement of the agreement.
   3. Goods for which the application of the common tariff phasing formula will be temporarily deferred will be placed in Category C. During the period of inclusion in Category C, on their removal, these goods may be subject to the common phasing formula or some suitably adjusted formula compatible with the general objectives of the Agreement, under terms and conditions agreed between the two Governments.
   4. A one year grace period mentioned in the Prime Ministers Communique will be provided before tariff phasing commences. The grace period will begin on 1 July 1981.
   5. All goods in Categories AlB will have all tariffs applying to them reduced to zero and bound to duty free no later than five years after the date of commencement of the tariff phaising.
@@ -244,7 +251,7 @@ CONFIDENTIAL
     8. The list will be finalised before the new Agreement comes into effect and shall not be added to thereafter.
     9. When all goods have been removed from Category C the Category will be abolished.
   14. It is noted that a need exists to define what customs charges will constitute a tariff for the purposes of this agreement.
-  15. The Agreement on Tariffs and Tariff Preferences (This section will be drafted to record the outcome of the examination to be carried out in terms of paragraph 2.385.)
+  15. The Agreement on Tariffs and Tariff Preferences (This section will be drafted to record the outcome of the examination to be carried out in terms of paragraph 2.38[5](#f5).)
 
 
 
@@ -264,7 +271,7 @@ CONFIDENTIAL
   12. Progressive liberalisation of import restrictions will be achieved by increasing access opportunities by 10 percent per annum in real terms. This will result in a doubling of access opportunities about every seven years.
   13. In order to establish the annual increase in access a base access level will be calculated for each product grouping by taking an average of imports from the other country over the 3 year period 1978/79-1980/81.
   14. The exclusive licenses under this Agreement to be made available in the first year of the arrangement shall represent 10 percent of the base access level defined in 13 as adjusted by a deflator (defined in 19) (covering the 1980/81 trade year).
-  15. A minimum base level of NZ$200,000 cif (or the equivalent in Australian currency at the date of signature) or 5 percent of the domestic market, whichever is the lower, in respect of item codes, quota categories or other agreed quota groupings, will apply to all products, irrespective of current trade.6
+  15. A minimum base level of NZ$200,000 cif (or the equivalent in Australian currency at the date of signature) or 5 percent of the domestic market, whichever is the lower, in respect of item codes, quota categories or other agreed quota groupings, will apply to all products, irrespective of current trade.[6](#f6)
   16. Exclusive licences will be made available at the beginning of the first year of the Agreement to the extent that the calculated base access derived under 13 and 14 is less than the minimum base level.
   17. It is agreed that where significant anomalies are created by the access provisions set out above the two Governments will seek to resolve these within the consultative framework of the Agreement.
   18. Where licence or quota allocations are expressed in value, an increase in 'real terms' will require adjustment to be made for inflation in the importing country. An appropriate deflator will be agreed for each direction of trade.
@@ -278,7 +285,7 @@ CONFIDENTIAL
   22. In respect of tariff quotas, base access figures, minimum base levels and a 10 percent annual increment will apply to the quota element as for import licensing. Tariff rates applying to imports within the tariff quotas will be treated as for tariffs generally under the Agreement.
   23. In respect of special Schedule A access the objective will be for allocations to be determined eventually by the importing country rather than the exporting country as is the current general practice. Products where special Schedule A access is not presently fully utilised or where only one exporter is interested in the market will be handled in this manner immediately. Where exporters have competing claims for the available access these exporters will retain the right to nominate the importers for their present value of allocation for a period of 2 years.
   24. The value of Schedule A licences will not be increased above present values. All increases will be within the new liberalisation arrangements.
-  25. It is envisaged that the level of trade under existing inter-firm Article 3:7 arrangements7 would not normally be increased above present levels. However, there may be some situations where because of rationalisation proposals and/or a significant move towards accelerating the liberalisation process, increases could warrant consideration.
+  25. It is envisaged that the level of trade under existing inter-firm Article 3:7 arrangements[7](#f7) would not normally be increased above present levels. However, there may be some situations where because of rationalisation proposals and/or a significant move towards accelerating the liberalisation process, increases could warrant consideration.
   26. No new Schedule B, or other Article 3:7 arrangements will be entered into. However, existing Article 3:7 arrangements should be allowed to continue subject to meeting normal criteria until such time as duties are eliminated on the goods concerned in the Australian Tariff or duties and effective licence barriers are eliminated on the goods concerned in New Zealand. Any arrangement currently in existence with 'promise to source' provisions where the goods are already duty free should lapse at the end of its current term.
   27. Special provisions in respect of NAFTA footwear and textiles arrangements and the Schedule B furniture arrangement will be agreed before the agreement enters into force where these are necessary on an interim basis to avoid the transitional introduction of more restrictive conditions.
   28. Where appropriate, the process of liberalisation set out above may in some circumstances be accelerated in a manner designed to further the objectives of the new Agreement.
@@ -307,7 +314,7 @@ CONFIDENTIAL
 
 
 
-### [6] Agricultural support/Stabilisation measures8
+### [6] Agricultural support/Stabilisation measures[8](#f8)
 
 ### [7] Export incentives
 
@@ -331,11 +338,11 @@ CONFIDENTIAL
   4. To correct unfair advantage, safeguard clauses will be included in the new Agreement to cover, for example, instances of dumping, subsidisation, or significant trade deflection that may arise. The latter will be drafted to take account of the approach on intermediate goods set out elsewhere in the Heads of Agreement.
   5. Beyond the above, general safeguard provisions will be available to meet circumstances where the rate of industry adjustment flowing from further trade liberalisation results in severed material injury and is in need of moderation. Such provisions will only be available in the transitional period.
   6. In the longer term, it is considered that even limited recourse to general safeguard provisions could seriously undermine the objectives of a closer economic relationship. The consultative provisions of the Agreement are seen as providing sufficient opportunity for serious problems for example, relating to industrial development, to be addressed and solutions found.
-  7. 07 Any safeguard clauses considered necessary will be drafted to ensure they are consistent with the objectives and underlying philosophy of the new Agreement. Any suspension of obligations will be temporary in nature. During their operation the greatest possible opportunity will be provided for trade to continue to flow consistent with amelioration of the problem.9
+  7. 07 Any safeguard clauses considered necessary will be drafted to ensure they are consistent with the objectives and underlying philosophy of the new Agreement. Any suspension of obligations will be temporary in nature. During their operation the greatest possible opportunity will be provided for trade to continue to flow consistent with amelioration of the problem.[9](#f9)
 
 
 
-_[NAA: A1838, 37011/19/18, xx]_
+ _[NAA: A1838, 37011/19/18, xx]_
 
   * 1 As explained by Bentley in Document 114, the document is 'as it stood by the end of 12 December'.
   * 2 Document 93.
@@ -347,5 +354,3 @@ _[NAA: A1838, 37011/19/18, xx]_
 
   * 8 For drafts of sections [6] and [7] see Attachments A and B to Document 114.
   * 9 In the following months, as participants resolved some of the issues left undecided in the report, it was amended as necessary. It was submitted to Cabinet in February 1981 with slight variations to the version published here. On 23 April 1982 Australian Permanent Heads, meeting in Canberra, agreed to cease work on part I of the report and to continue work on the Heads of Agreement. The final version of part I of the report appears to be that dated 15 April 1982 (on file NAA: Al313/111, 81/1223).
-
-

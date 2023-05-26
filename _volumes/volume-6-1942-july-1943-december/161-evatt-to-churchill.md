@@ -1,12 +1,17 @@
 ---
-title: "161 Evatt to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2452
+doc_date: '1943-04-22'
+doc_num: 161
+doc_order: 161
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:PREM 4/50/8]'
+title: Evatt to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-04-22
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 161 Evatt to Churchill
 
 Cablegram unnumbered [1] WASHINGTON, 22 April 1943
 
@@ -18,7 +23,7 @@ I asked our mutual friend [4] to give you a message recently.
 
 EVATT
 
-_
+ _
 
 1 Sent through the External Affairs Office in London.
 
@@ -32,4 +37,4 @@ Robinson.
 
 _
 
-_ [PRO:PREM 4/50/8]_
+ _[PRO:PREM 4/50/8]_

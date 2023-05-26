@@ -1,12 +1,17 @@
 ---
-title: "344 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2991
+doc_date: '1944-11-10'
+doc_num: 344
+doc_order: 344
+naa_refs:
+- naa_barcode: 184720
+  naa_control_symbol: 1944/630/5/1/11/22
+  naa_series: A989
+  reference: '[AA:A989, 44/630/5/l/11/22]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-10
+vol_title: 'Volume 7: 1944'
 ---
-
-# 344 Bruce to Curtin
 
 Cablegram 157A LONDON, 10 November 1944, 9.08 a.m.
 
@@ -42,7 +47,7 @@ If, however, you still hold the views you expressed when in England, would it be
 
 BRUCE
 
-_
+ _
 
 1 The full text of Fraser's statement is given in D'Alton's cablegram 159, dispatched 6 November. On file AA:A989, 44/630/5/1/11/17. A published version exists in Robin Kay (ed.), Documents on New Zealand External Relations, vol. 1, The Australian - New Zealand Agreement 1944, Department of Internal Affairs, Wellington, 1972, pp. 235-9.
 
@@ -56,4 +61,4 @@ Curtin favoured this suggestion., In AA:A6712, 1944, Top Secret, PMM(44) 10th Me
 
 _
 
-_ [AA:A989, 44/630/5/l/11/22]_
+ _[AA:A989, 44/630/5/l/11/22]_

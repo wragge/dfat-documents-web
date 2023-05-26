@@ -1,14 +1,17 @@
 ---
-title: "317 MINUTE, GARNER TO PRITCHARD"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10183
+doc_date: '1966-11-16'
+doc_num: 317
+doc_order: 317
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 175/163]'
+title: MINUTE, GARNER TO PRITCHARD
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-11-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 317 MINUTE, GARNER TO PRITCHARD
-
-UKNA: DO 175/163
 
 London, 16 November 1966
 
@@ -39,12 +42,14 @@ Neither proposition is true of most citizens from non-British countries. There i
 
 In other words, is it not time for us to be honest and to state frankly that there will be discrimination? There would no doubt be an outburst at first—but I venture to doubt whether anyone would really be very surprised or shocked—and there would surely be every political justification for it. After all, it is not very difficult to divide Commonwealth countries into categories of those who give us general support and those who take every opportunity of calumniating us.
 
-There is a serious point here for the future of our country. By all means let us seek to preserve the present Commonwealth association for the reasons which we have examined in a separate paper. 1 But we all know that the links with the majority of the new Commonwealth countries are pretty tenuous and are liable to snap. In the old Commonwealth, however, there is an immense reservoir of goodwill—and surely it is idiotically against our own interests to undermine this, as we risk doing.
+There is a serious point here for the future of our country. By all means let us seek to preserve the present Commonwealth association for the reasons which we have examined in a separate paper. [1](#f1) But we all know that the links with the majority of the new Commonwealth countries are pretty tenuous and are liable to snap. In the old Commonwealth, however, there is an immense reservoir of goodwill—and surely it is idiotically against our own interests to undermine this, as we risk doing.
 
 And I suspect that a bold statement by the British Government would be thunderingly popular in this country.
 
-Maybe the present is not the time, at least until we have got over some of the awkwardnesses of the Rhodesian problem2—but let us examine the matter calmly and dispassionately.
+Maybe the present is not the time, at least until we have got over some of the awkwardnesses of the Rhodesian problem[2](#f2)—but let us examine the matter calmly and dispassionately.
 
 1  In the aftermath of the Commonwealth Prime Ministers’ Conference in London in September 1966, when the UK came under a lot of pressure (and encountered a good deal of hostility) over Rhodesia, the Commonwealth Office launched an inquiry into the value of the Commonwealth to Britain. High commissions were asked for their views. The Commonwealth Office then put up a draft memo, intended to go to Cabinet, and sent it for comment to the Foreign Office. The Foreign Office took a sceptical view. Unlike the Commonwealth Office it did not, at this point, set much store by the Commonwealth. Not to be deterred, the Commonwealth Office prepared a Cabinet memo, ‘The value of the Commonwealth to Britain’. It was dated 24 April 1967. But it was never actually discussed in Cabinet. The final document appears in _ESAC,_ Part II, Document 268. 
 
 2  Garner was writing almost a year to the day after the Unilateral Declaration of Independence by the regime of Ian Smith in Rhodesia. This had been the subject of a discordant Commonwealth Prime Ministers’ Conference in January 1966, where the Wilson Government had been roundly attacked by Asian and African prime ministers for its failure to take sufficiently harsh measures against Smith. The implication was that the British Government was more favourably disposed towards white Commonwealth members—hence Garner’s reference to the untimely nature of his proposed measures to favour white Commonwealth immigration. 
+
+[UKNA: DO 175/163]

@@ -1,14 +1,19 @@
 ---
-title: "40 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1271
+doc_date: '1940-07-29'
+doc_num: 40
+doc_order: 40
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, 1.6054]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-29
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 40 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
-
-## Cablegram [176] [1] WASHINGTON, 29 July 1940, 11.28 p.m.
+Cablegram [176] [1] WASHINGTON, 29 July 1940, 11.28 p.m.
 
 Repeated London No. 64.
 
@@ -26,7 +31,7 @@ The State Department is now trying to make the best of a situation which has unp
 
 CASEY 
 
-_ 1 The number has been inserted from the Washington copy on file AA:A3300, 43.
+_1 The number has been inserted from the Washington copy on file AA:A3300, 43.
 
 2 Dispatched 26 July. See file AA:A3300, 43.
 
@@ -36,4 +41,4 @@ _ 1 The number has been inserted from the Washington copy on file AA:A3300, 43.
 
 _
 
-_ [AA:A3195, 1940, 1.6054]_
+ _[AA:A3195, 1940, 1.6054]_

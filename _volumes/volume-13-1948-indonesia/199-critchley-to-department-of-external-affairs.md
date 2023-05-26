@@ -1,12 +1,17 @@
 ---
-title: "199 Critchley to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5466
+doc_date: '1948-06-30'
+doc_num: 199
+doc_order: 199
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION, CABLES-BATAVIA-1946-49]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-06-30
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 199 Critchley to Department of External Affairs
 
 Cablegram K143 BATAVIA, 30 June 1948, 7.10 p.m.
 
@@ -26,7 +31,7 @@ Hatta has reaffirmed that in recent informal talks Van Mook went no further than
 
 7\. Following impasse in meeting of the Steering Committee on Tuesday, June 29th, I tried to persuade the Committee of Good Offices to report fully to the Security Council and to ask for further instructions. Other members of the Committee were however extremely reluctant and only agreed to report amendment of my immediately preceding telegram.
 
-_
+ _
 
 1 See Document 183.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [SFU:EVATT COLLECTION, CABLES-BATAVIA-1946-49]_
+ _[SFU:EVATT COLLECTION, CABLES-BATAVIA-1946-49]_

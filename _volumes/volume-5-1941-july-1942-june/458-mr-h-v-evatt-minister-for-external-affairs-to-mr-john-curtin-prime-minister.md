@@ -1,12 +1,17 @@
 ---
-title: "458 Mr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2212
+doc_date: '1942-04-07'
+doc_num: 458
+doc_order: 459
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT C]'
+title: Mr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-04-07
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 458 Mr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram S31 WASHINGTON, 7 April 1942, 1.45 a.m.
 
@@ -30,7 +35,7 @@ IMMEDIATE MOST SECRET FOR CURTIN
 
 6\. I have carefully considered question of a permanent successor to Casey' 9 and think you should seriously consider Gorman. [20] He is a good advocate with practical experience of war. He has also a thorough Australian outlook which is absolutely essential here. You know his qualities. We made a contract with him for the Netherlands East Indies and I believe his appointment here would be very popular with Americans. The matter need not be settled finally for a little time.
 
-_
+ _
 
 1 Evatt had previously cabled Curtin on 31 March to warn him that over-optimistic statements on the war situation made it more difficult to obtain supplies in the United States. Evatt added:
 
@@ -74,4 +79,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT C]_
+ _[AA:A981, WAR 33, ATTACHMENT C]_

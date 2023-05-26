@@ -1,12 +1,17 @@
 ---
-title: "288 Churchill to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2935
+doc_date: '1944-09-18'
+doc_num: 288
+doc_order: 288
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 560]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 288 Churchill to Curtin
 
 Cablegram Winch 7 [QUEBEC], 18 September 1944, 2.15 p.m.
 
@@ -24,7 +29,7 @@ The military operations are of a much more complicated character and I will have
 
 4\. This Conference has been a blaze of friendship and unity and can you wonder at it in view of the unparalleled victories being gained by our armies in every quarter of the globe? The above is most secret and for your own personal information. Heartiest good wishes.
 
-_
+ _
 
 1 See Document 279.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 560]_
+ _[AA:A5954, BOX 560]_

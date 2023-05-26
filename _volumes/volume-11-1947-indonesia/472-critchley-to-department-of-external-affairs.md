@@ -1,14 +1,19 @@
 ---
-title: "472 Critchley to Department of External Affairs"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4656
+doc_date: '1947-12-16'
+doc_num: 472
+doc_order: 472
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1947, 1.24447]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-12-16
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
 
-# 472 Critchley to Department of External Affairs
-
-## Cablegram K18 BATAVIA, 16 December 1947, 3.30 p.m.
+Cablegram K18 BATAVIA, 16 December 1947, 3.30 p.m.
 
 (a) Cease Fire Interpretation (1) The G.O.C. agreed unanimously today [1] that 'Territory which was not occupied or controlled on August 4th' is territory which on August 4th was not 'actually under authority of the hostile army'. Occupation or control on August 4th, within the meaning of the resolution of November 1st, did not 'extend' to territory where such authority 'had not been established' and could not 'be exercised' effectively without 'movement of armed forces of one party in any direction, which movement might reasonably be expected to provoke retaliatory action by other party'.
 
@@ -32,7 +37,7 @@ Netherlands position is that the text of the Agreement is entirely subject to la
 
 (d) Miscellaneous Van Vredenburch told us today it was not yet decided whether Jonkman would come to Indonesia.
 
-_
+ _
 
 1 The meeting in question took place on 15 December, This cablegram was presumably drafted on that day, but not dispatched until 16 December.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A3195, 1947, 1.24447]_
+ _[AA:A3195, 1947, 1.24447]_

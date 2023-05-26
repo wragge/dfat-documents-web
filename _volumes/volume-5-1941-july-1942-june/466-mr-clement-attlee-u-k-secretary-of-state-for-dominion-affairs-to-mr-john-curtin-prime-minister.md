@@ -1,16 +1,22 @@
 ---
-title: "466 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2220
+doc_date: '1942-04-15'
+doc_num: 466
+doc_order: 467
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-04-15
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 466 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram 367 LONDON, 15 April 1942, 11.55 p.m.
 
-SECRET &amp; PERSONAL
+SECRET & PERSONAL
 
 Following for Prime Minister [from Prime Minister] [1]:
 
@@ -24,7 +30,7 @@ All the contents of your telegram are being studied by the Chiefs of Staff. It i
 
 VALIANT should join Admiral Somerville [3] in June, ILLUSTRIOUS in May, and we are planning still larger reinforcements of which I will inform you soon. Meanwhile, of course, we are anxious both about Ceylon and Calcutta.
 
-_
+ _
 
 1 Winston Churchill. Inserted from the London Copy Oil file PRO:DO 35/1010, iii.
 
@@ -36,4 +42,4 @@ See note in PRO:DO 35/1010, iii.
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

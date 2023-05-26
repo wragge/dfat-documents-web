@@ -1,12 +1,18 @@
 ---
-title: "384 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1615
+doc_date: '1941-04-04'
+doc_num: 384
+doc_order: 384
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196,1941, 0.4210]'
+title: Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of
+  State for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 384 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 210 4 April 1941,
 
@@ -22,7 +28,7 @@ We therefore suggest this matter might be discussed with de Gaulle to ascertain 
 
 FADDEN
 
-_
+ _
 
 1 See file AA: A981, New Caledonia 1, vi. It conveyed a recommendation from General Charles de Gaulle (leader of the Free French movement) to Henri Sautot (Free French Governor of New Caledonia) to extend his control over Wallis and Futuna Islands, between Fiji and Samoa.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA: A3196,1941, 0.4210]_
+ _[AA: A3196,1941, 0.4210]_

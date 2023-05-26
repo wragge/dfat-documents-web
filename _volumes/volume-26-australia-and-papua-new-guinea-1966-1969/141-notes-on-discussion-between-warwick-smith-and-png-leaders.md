@@ -1,18 +1,23 @@
 ---
-title: "141 Notes On Discussion Between Warwick Smith And PNG Leaders"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9649
+doc_date: '1967-08-25'
+doc_num: 141
+doc_order: 141
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A452
+  reference: '[NAA: A452, 1966/4576]'
+title: Notes On Discussion Between Warwick Smith And PNG Leaders
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-08-25
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 141 Notes On Discussion Between Warwick Smith And PNG Leaders
 
 Canberra, 25 August 1967
 
-Dr. Taureka explained that they had been invited to Australia by Mr. Beazley, M.P.,2 on behalf of Moral Re–Armament. While they were in Canberra they were taking the opportunity for informal discussions with various people. They did not come here to lobby on behalf of the Pangu Pati.
+Dr. Taureka explained that they had been invited to Australia by Mr. Beazley, M.P.,[2](#f2) on behalf of Moral Re–Armament. While they were in Canberra they were taking the opportunity for informal discussions with various people. They did not come here to lobby on behalf of the Pangu Pati.
 
-_Visitors to Territory_
+ _Visitors to Territory_
 
 • Mr. Goava said that when the Minister and Senior Officers visited the Territory provision should be made for discussions with people who could put Territory views. The Administration arranged itineraries for the Minister etc and it was impossible to see visitors.
 
@@ -22,9 +27,9 @@ _Visitors to Territory_
 
 • The Secretary appreciates these points. The difficulty appeared to be when visitors were in Port Moresby. It was not easy to make arrangements to take into account all the people who might want to have discussions. Outside the Port Moresby area the same problem did not apply. On his recent visit to the Territory he had met a lot of people informally. One of the reasons for visiting the Territory was to hear other views and criticisms of what was being done.
 
-_Local officers’ salaries_
+ _Local officers’ salaries_
 
-• Mr. Goava referred to great discontent among local officers with present salaries.3 The Government had gone back on promises given by Mr. Hasluck that local officers who qualified for higher positions would receive the same basic salaries as overseas officers.
+• Mr. Goava referred to great discontent among local officers with present salaries.[3](#f3) The Government had gone back on promises given by Mr. Hasluck that local officers who qualified for higher positions would receive the same basic salaries as overseas officers.
 
 • They wanted an appeal to three judges from the Arbitrator’s decision. Would the Government agree?
 
@@ -46,19 +51,19 @@ _Local officers’ salaries_
 
 • The Secretary—a line had to be drawn somewhere. Realised that this raised difficulties and could be unfair in some circumstances. The test was whether a person could be allowed to enter Australia and work here. If this was so he was paid at overseas rates. (This led to discussions on Australia’s immigration policy. Australian policy was explained. In P.N.G. the Government’s policy was to avoid the problem of mixed racial communities met in Fiji, Ceylon. All the Government was interested in doing was holding the position in P.N.G.—when self-government came P.N.G. would determine its own policy in this regard.)
 
-_Political development_
+ _Political development_
 
 • Mr. Goava questioned the Government’s policy that the move to self-government must be supported by a majority of the people. The Government had established a Legislative Council for the Territory without seeking the people’s views on this.
 
 • The Secretary—the watershed of political development in the Territory was, in his view, the establishment of the House of Assembly. The stages of political development should be counted from when the Territory legislature was given a majority of elected members.
 
-_1968 Elections_
+ _1968 Elections_
 
 • Mr. Kiki said that some Administration field officers were opposed to the Pangu Pati and were influencing people against the party. They knew the officers concerned but it was up to the Administration to find out the names of these people. There had been influence by Administration officers in the 1964 elections. It was important to the Pangu Pati, which was at this stage expressing a minority view, that it should have a fair deal in the elections.
 
-• The Secretary—did not accept that field officers had acted improperly during the 1964 elections. He had no reason to believe other than that the Administration attitude to political parties was one of {impartiality}. He agreed that the Pangu Pati was entitled to a fair deal at the elections in accordance with democratic principles.4
+• The Secretary—did not accept that field officers had acted improperly during the 1964 elections. He had no reason to believe other than that the Administration attitude to political parties was one of {impartiality}. He agreed that the Pangu Pati was entitled to a fair deal at the elections in accordance with democratic principles.[4](#f4)
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 [NAA: A452, 1966/4576]
 

@@ -1,13 +1,17 @@
 ---
-title: "49 Letter, Warwick Smith To Cleland"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9557
+doc_date: '1966-07-09'
+doc_num: 49
+doc_order: 49
+naa_refs:
+- naa_barcode: 11345517
+  naa_control_symbol: 1966/2960
+  naa_series: A452
+  reference: '[NAA: A452, 1966/2960]'
+title: Letter, Warwick Smith To Cleland
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-07-09
-barcode: 11345517
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 49 Letter, Warwick Smith To Cleland
 
 Canberra, 9 July 1966
 
@@ -33,6 +37,6 @@ In asking the people this question on local responsibility for local revenues th
 
 The Government obviously should avoid being placed in the situation where there is a strong local support for a split budget but for reasons, however legitimate, the Government has to make a decision against such action at this stage. It seems desirable that members of the Committee should be made as fully aware as possible of the difficulties seen in the proposal and I would appreciate your views on how this might be done. If the Select Committee were to come up with a recommendation which merely requested the Government to continue to examine how the budget might be split this would not appear to cause any difficulty.
 
-[ [NAA: A452, 1966/2960](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=11345517) ]
+[NAA: A452, 1966/2960]
 
 1  A marginal note indicates that Warwick Smith delivered the letter during a visit to PNG.

@@ -1,12 +1,17 @@
 ---
-title: "10 Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1241
+doc_date: '1940-07-04'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 176233
+  naa_control_symbol: FAR 31 PART 2
+  naa_series: A981
+  reference: '[AA: A981, FAR FAST 31, ii]'
+title: Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 10 Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Government
 
 Cablegram unnumbered TOKYO, 4 July 1940, 8 p.m.
 
@@ -48,7 +53,7 @@ interests is there any likelihood of America rendering assistance
 
 to Australia.
 
-_
+ _
 
 1 Assistant Australian Government Commissioner in Japan.
 
@@ -56,7 +61,7 @@ _
 
 _
 
-_
+ _
 
 [AA: A981, FAR FAST 31, ii]
 

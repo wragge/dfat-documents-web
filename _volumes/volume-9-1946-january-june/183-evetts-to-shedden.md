@@ -1,14 +1,19 @@
 ---
-title: "183 Evetts to Shedden"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3695
+doc_date: '1946-04-10'
+doc_num: 183
+doc_order: 183
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1910]'
+title: Evetts to Shedden
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-10
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 183 Evetts to Shedden
-
-## Letter CANBERRA, 10 April 1946
+Letter CANBERRA, 10 April 1946
 
 As I understand you are leaving for England with the Prime Minister on the 14th instant, I think it advisable to set out in writing my recollection of our conversation this morning. I do this as I am anxious to obtain authority to proceed in the achievement of the object of my mission during your absence.
 
@@ -48,8 +53,8 @@ I shall be most grateful if you will confirm this letter as a record of our conv
 
 J. F. EVETTS
 
-_
+ _
 
 _
 
-_ [AA:A5954, BOX 1910]_
+ _[AA:A5954, BOX 1910]_

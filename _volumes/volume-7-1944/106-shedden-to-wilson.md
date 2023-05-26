@@ -1,12 +1,17 @@
 ---
-title: "106 Shedden to Wilson"
-volume: "Volume 7: 1944"
-doc_id: 2753
+doc_date: '1944-04-01'
+doc_num: 106
+doc_order: 106
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 657]'
+title: Shedden to Wilson
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-04-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 106 Shedden to Wilson
 
 Letter MELBOURNE, 1 April 1944
 
@@ -18,9 +23,7 @@ The Admiral [1] saw the Prime Minister this morning regarding the variation of t
 
 3\. When the Prime Minister and I discussed the matter, we both attached great importance to cablegram 267 of 8th October [4] to the United Kingdom Government, relative to the re-balancing of the war effort, to which we have not received any reply. The Prime Minister went so far as to say that if Mr. Churchill did not choose to reply to his representations about the concentration of the Australian war effort in the Southwest Pacific by the return of naval crews and R.A.A.F. squadrons, he certainly was not going to adopt such a humble attitude as to offer him gifts by manning additional ships. As you know from my minute of 23rd March [5], an R.N. squadron is in the Indian Ocean awaiting transfer to the Pacific, but this has not apparently been agreed to so far by the Americans.
 
-4\. Furthermore, the Prime Minister says that he must discuss the war effort from all angles and ascertain whether food will be the most effective contribution after a military effort of a certain size, in which event we must get a solution of the problem of manpower for the primary industries. This, of course, is wrapped up with the consideration of the further report of the War Commitments Committee [6] and the review of the Defence Committee.
-
-_ weighed and this will take a lot of time and consideration.
+4\. Furthermore, the Prime Minister says that he must discuss the war effort from all angles and ascertain whether food will be the most effective contribution after a military effort of a certain size, in which event we must get a solution of the problem of manpower for the primary industries. This, of course, is wrapped up with the consideration of the further report of the War Commitments Committee [6] and the review of the Defence Committee.[7] I should say off-hand that there are many factors to be weighed and this will take a lot of time and consideration.
 
 5\. In my opinion, therefore, it is quite wrong to take a hasty decision about the acceptance of additional liabilities for any of the Services, until we can see the whole picture clearly. You will observe from my note of 31st March that, though the monthly allotment for the Services is 5,000 men and women, this figure has not been reached during any of the four months ending February.
 
@@ -28,7 +31,7 @@ _ weighed and this will take a lot of time and consideration.
 
 7\. I hope the foregoing will assist you to keep the matter on the right lines.
 
-[AA:A5954, BOX 657}
+[AA:A5954, BOX 657]
 
 1 Admiral Sir Guy Royle.
 
@@ -47,5 +50,3 @@ _ weighed and this will take a lot of time and consideration.
 8 Dated 25 March. On the file cited in note 5. It appears Shedden's reference to the Commander-in-Chief should have read the Chief of the Air Staff.
 
 _
-
-_ [7] I should say off-hand that there are many factors to be_

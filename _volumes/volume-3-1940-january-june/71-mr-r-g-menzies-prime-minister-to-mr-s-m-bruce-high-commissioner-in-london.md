@@ -1,14 +1,19 @@
 ---
-title: "71 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 837
+doc_date: '1940-02-22'
+doc_num: 71
+doc_order: 71
+naa_refs:
+- naa_barcode: 242490
+  naa_control_symbol: 1940 JAN-JUN
+  naa_series: M103
+  reference: '[AA: M103, JANUARY-JUNE 1940]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-22
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 71 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Letter MELBOURNE, 22 February 1940
+Letter MELBOURNE, 22 February 1940
 
 I am most grateful to you for your long letter of 2nd January regarding peace aims. [1]
 
@@ -50,7 +55,7 @@ I cannot tell you how much I have appreciated your letters and how relieved I am
 
 [R. G. MENZIES]
 
-_ 1 Document 16.
+ _1 Document 16.
 
 2 The only relevant cablegram found in the previous three months is Document 37. For earlier cablegrams on the subject see Documents on Australian Foreign Policy 1937-49, vol. II, under index entry War aims (Allied).
 
@@ -68,4 +73,4 @@ _ 1 Document 16.
 
 _
 
-_ [AA: M103, JANUARY-JUNE 1940]_
+ _[AA: M103, JANUARY-JUNE 1940]_

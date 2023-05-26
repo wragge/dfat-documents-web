@@ -1,12 +1,17 @@
 ---
-title: "304 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 303
+doc_date: '1938-10-07'
+doc_num: 304
+doc_order: 303
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA : AA 1970/556, ITEM 6(1)]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-10-07
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 304 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Letter LONDON, 7 October 1938
 
@@ -174,7 +179,7 @@ I hope it did not knock you about too much.
 
 S. M. BRUCE
 
-_
+ _
 
 1 Dr Eduard Benes, President of Czechoslovakia.
 
@@ -256,4 +261,4 @@ Yours ever, Malcolm MacDonald' (PRO : PREM 1/242).
 
 _
 
-_ [AA : AA 1970/556, ITEM 6(1)]_
+ _[AA : AA 1970/556, ITEM 6(1)]_

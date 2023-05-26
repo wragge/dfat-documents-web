@@ -1,12 +1,17 @@
 ---
-title: "355 High Commissioner's Office in London to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 3002
+doc_date: '1944-11-20'
+doc_num: 355
+doc_order: 355
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 672]'
+title: High Commissioner's Office in London to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-20
+vol_title: 'Volume 7: 1944'
 ---
-
-# 355 High Commissioner's Office in London to Commonwealth Government
 
 Cablegram 13133 LONDON, 20 November 1944, 6.35 p.m.
 
@@ -30,7 +35,7 @@ Third. With a view to meeting the wishes of the Empire governments, the Chiefs o
 
 Fourth. After consideration by War Cabinet, United Kingdom Government advised America they were grateful for having amended original plan on lines proposed and that they were consulting the governments of the Dominions and India and would furnish a reply as soon as their answers had been received. Your early views would be appreciated. [4]
 
-_
+ _
 
 1 Document 218.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 672]_
+ _[AA:A5954, BOX 672]_

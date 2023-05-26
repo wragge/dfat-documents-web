@@ -1,12 +1,17 @@
 ---
-title: "142 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 908
+doc_date: '1940-04-14'
+doc_num: 142
+doc_order: 142
+naa_refs:
+- naa_barcode: 4212443
+  naa_control_symbol: 1940/9
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2213]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-14
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 142 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 14 April 1940,
 
@@ -34,10 +39,10 @@ I send this cable with great diffidence, but I am encouraged to do so because I 
 
 MENZIES
 
-_
+ _
 
 1 This cablegram was not in fact delivered to Chamberlain. See Document 147.
 
 _
 
-_ [FA: A3196, 0.2213]_
+ _[FA: A3196, 0.2213]_

@@ -1,12 +1,17 @@
 ---
-title: "204 Appreciation by Chiefs of Staff for War Cabinet"
-volume: "Volume 3: 1940, January-June"
-doc_id: 970
+doc_date: '1940-05-02'
+doc_num: 204
+doc_order: 204
+naa_refs:
+- naa_barcode: 8876000
+  naa_control_symbol: 96/1940 AND 97/1940
+  naa_series: A2671
+  reference: '[AA: A2671, 96 AND 97/1940]'
+title: Appreciation by Chiefs of Staff for War Cabinet
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-02
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 204 Appreciation by Chiefs of Staff for War Cabinet
 
 Agendum 97/1940 2 May 1940
 
@@ -34,8 +39,8 @@ The Chiefs of Staff are not in a position to lay before the War Cabinet an appre
 
 11\. Finally, we consider that if the intervention of Italy occurs, the need is emphasized of Australian assistance in the main theatre as fully and promptly as possible.
 
-_
+ _
 
 _
 
-_ [AA: A2671, 96 AND 97/1940]_
+ _[AA: A2671, 96 AND 97/1940]_

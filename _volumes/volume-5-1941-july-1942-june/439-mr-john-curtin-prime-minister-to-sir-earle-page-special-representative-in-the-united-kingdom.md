@@ -1,12 +1,18 @@
 ---
-title: "439 Mr John Curtin, Prime Minister, to Sir Earle Page, Special Representative in the United Kingdom"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2193
+doc_date: '1942-03-24'
+doc_num: 439
+doc_order: 440
+naa_refs:
+- naa_barcode: 232273
+  naa_control_symbol: '47'
+  naa_series: A2937
+  reference: '[AA:A2937, FAR EAST POSITION 1942]'
+title: Mr John Curtin, Prime Minister, to Sir Earle Page, Special Representative in
+  the United Kingdom
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-24
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 439 Mr John Curtin, Prime Minister, to Sir Earle Page, Special Representative in the United Kingdom
 
 Cablegram 48 CANBERRA, 24 March 1942, 9.25 p.m.
 
@@ -26,7 +32,7 @@ This is an illustration of our viewpoint on a Pacific Council in Washington wher
 
 CURTIN
 
-_
+ _
 
 1 Document 436.
 
@@ -48,4 +54,4 @@ After recovering from a long illness Page left London on 25 June and returned to
 
 _
 
-_ [AA:A2937, FAR EAST POSITION 1942]_
+ _[AA:A2937, FAR EAST POSITION 1942]_

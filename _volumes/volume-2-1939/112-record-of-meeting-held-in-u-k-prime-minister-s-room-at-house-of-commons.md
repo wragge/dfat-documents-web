@@ -1,12 +1,17 @@
 ---
-title: "112 Record of Meeting held in U.K. Prime Minister's Room at House of Commons"
-volume: "Volume 2: 1939"
-doc_id: 449
+doc_date: '1939-06-28'
+doc_num: 112
+doc_order: 112
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: CAB 21/893]'
+title: Record of Meeting held in U.K. Prime Minister's Room at House of Commons
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-06-28
+vol_title: 'Volume 2: 1939'
 ---
-
-# 112 Record of Meeting held in U.K. Prime Minister's Room at House of Commons
 
 LONDON, 28 June 1939
 
@@ -60,7 +65,7 @@ He had therefore been surprised when he saw the Prime Minister's telegram of the
 
 'You need not worry'. [16]
 
-_
+ _
 
 1 Rear Admiral T.S.V. Phillips.
 
@@ -96,4 +101,4 @@ _
 
 _
 
-_ [PRO: CAB 21/893]_
+ _[PRO: CAB 21/893]_

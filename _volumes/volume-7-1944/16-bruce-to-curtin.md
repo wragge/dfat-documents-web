@@ -1,12 +1,17 @@
 ---
-title: "16 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2663
+doc_date: '1944-01-14'
+doc_num: 16
+doc_order: 16
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/715/52, ii]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-14
+vol_title: 'Volume 7: 1944'
 ---
-
-# 16 Bruce to Curtin
 
 Cablegram 5[A] LONDON, 14 January 1944, 7.47 p.m.
 
@@ -32,7 +37,7 @@ I assume telegram 366 of January 13th [6] was despatched before receipt of Domin
 
 BRUCE
 
-_ 1 In cablegram 3[A] Bruce conveyed the substance of his conversation with Eden on 10 January, during which he had urged Eden to put 'the strongest pressure' on the Poles to respond to the Soviet Govt's overtures. These overtures were reported by Maloney, in cablegram 9 of 11 January, as involving the transfer of German-held territory to the west to a 'strong and independent Poland' and Soviet willingness to discuss Poland's eastern border.
+ _1 In cablegram 3[A] Bruce conveyed the substance of his conversation with Eden on 10 January, during which he had urged Eden to put 'the strongest pressure' on the Poles to respond to the Soviet Govt's overtures. These overtures were reported by Maloney, in cablegram 9 of 11 January, as involving the transfer of German-held territory to the west to a 'strong and independent Poland' and Soviet willingness to discuss Poland's eastern border.
 
 Both cablegrams are on file AA:A989, 44/715/5/2, ii.
 
@@ -50,4 +55,4 @@ Both cablegrams are on file AA:A989, 44/715/5/2, ii.
 
 _
 
-_ [AA:A989, 44/715/52, ii]_
+ _[AA:A989, 44/715/52, ii]_

@@ -1,15 +1,19 @@
 ---
-title: "79 Minute From Brown To Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7684
+doc_date: '1954-10-14'
+doc_num: 79
+doc_order: 79
+naa_refs:
+- naa_barcode: 209115
+  naa_control_symbol: VOLUME 5
+  naa_series: A4906
+  reference: '[AA : A4906, VOLUME 5]'
+title: Minute From Brown To Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-10-14
-barcode: 209115
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 79 Minute From Brown To Menzies
-
-## 14th October, 1954
+14th October, 1954
 
 CANBERRA
 
@@ -31,10 +35,10 @@ The question is does the submission give sufficient information so that Minister
 
 This question could best be answered if the general discussion by Cabinet tomorrow is followed by a more detailed examination by the Prime Minister's Committee next week when departmental officers could be questioned on the points of difficulty.
 
-_
+ _
 
 1 Document 78.
 
 _
 
-_ [ [AA : A4906, VOLUME 5](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=209115) ]_
+ _[AA : A4906, VOLUME 5]_

@@ -1,12 +1,18 @@
 ---
-title: "275 Attlee to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2566
+doc_date: '1943-09-08'
+doc_num: 275
+doc_order: 275
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO,
+    1.37505]'
+title: Attlee to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-09-08
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 275 Attlee to Curtin
 
 Circular cablegram D633 LONDON, 8 September 1943, 11.05 a.m.
 
@@ -16,6 +22,6 @@ The Prime Minister has asked me to recall to you his message in telegram D. No. 
 
 The importance of adequate preparation was stressed in replies to the Prime Minister's earlier message. We are fully alive to the importance of this and if the date proposed is generally acceptable we would send as soon as possible, for your consideration, suggestions as to the agenda for the meetings and as to the best method of arranging for the necessary preparatory work. As time is short for this, Prime Minister would be grateful for the earliest possible reply.
 
-_ 1 Document 157._
+ _1 Document 157._
 
-_ [FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.37505]_
+ _[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.37505]_

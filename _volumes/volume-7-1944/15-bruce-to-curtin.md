@@ -1,12 +1,17 @@
 ---
-title: "15 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2662
+doc_date: '1944-01-13'
+doc_num: 15
+doc_order: 15
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: no part 3
+  naa_series: A989
+  reference: '[AA:A989, 43/460/10/2, iii]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-13
+vol_title: 'Volume 7: 1944'
 ---
-
-# 15 Bruce to Curtin
 
 Cablegram [4] [1] LONDON, 13 January 1944, 2.45 p.m.
 
@@ -90,9 +95,9 @@ of negative character.
 
 BRUCE
 
-_
+ _
 
-1 This cablegram was incorrectly circulated in Canberra as no. 
+1 This cablegram was incorrectly circulated in Canberra as no.
 
 485\. See Bruce's version and the correcting cablegram of 13 
 
@@ -110,7 +115,7 @@ Document 319.
 
 _
 
-_
+ _
 
 [AA:A989, 43/460/10/2, iii]
 

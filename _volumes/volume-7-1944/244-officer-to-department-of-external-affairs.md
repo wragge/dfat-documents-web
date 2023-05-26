@@ -1,14 +1,19 @@
 ---
-title: "244 Officer to Department of External Affairs"
-volume: "Volume 7: 1944"
-doc_id: 2891
+doc_date: '1944-08-01'
+doc_num: 244
+doc_order: 244
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, 1.28223]'
+title: Officer to Department of External Affairs
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-01
+vol_title: 'Volume 7: 1944'
 ---
 
-# 244 Officer to Department of External Affairs
-
-## Cablegram 98 CHUNGKING, 1 August 1944
+Cablegram 98 CHUNGKING, 1 August 1944
 
 On 25th July the Ministry of Foreign Affairs announced that the Chinese and Czecho-Slovak Governments were elevating their respective Missions from Legations to Embassies.
 
@@ -22,7 +27,7 @@ As the matter may be raised with me in the near future, would be glad of guidanc
 
 OFFICER
 
-_
+ _
 
 1 Dr T. V. Soong.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A3195, 1944, 1.28223]_
+ _[AA:A3195, 1944, 1.28223]_

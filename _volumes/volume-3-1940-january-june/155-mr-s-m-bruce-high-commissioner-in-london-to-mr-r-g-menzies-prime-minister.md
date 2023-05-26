@@ -1,14 +1,19 @@
 ---
-title: "155 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 921
+doc_date: '1940-04-17'
+doc_num: 155
+doc_order: 155
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2532]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 155 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram unnumbered LONDON, 17 April 1940, 5.45 p.m.
+Cablegram unnumbered LONDON, 17 April 1940, 5.45 p.m.
 
 Your telegram of 11th April. [1] Lothian's proposal [2] considered most urgent and of great importance. From enquiries I have made, Officer [3] regarded as only person with qualifications necessary to fill satisfactorily London position. [4]
 
@@ -28,4 +33,4 @@ EA have rec'd cables from Mr. Casey on this subject.' No further information on 
 
 _
 
-_ [FA: A3195, 1.2532]_
+ _[FA: A3195, 1.2532]_

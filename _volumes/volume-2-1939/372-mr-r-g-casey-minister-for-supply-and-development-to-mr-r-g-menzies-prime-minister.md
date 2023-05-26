@@ -1,12 +1,18 @@
 ---
-title: "372 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 709
+doc_date: '1939-11-17'
+doc_num: 372
+doc_order: 372
+naa_refs:
+- naa_barcode: 206080
+  naa_control_symbol: A41/1/1 PART 6
+  naa_series: A1608
+  reference: '[AA: A1608, A41/1/1 vi]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-17
+vol_title: 'Volume 2: 1939'
 ---
-
-# 372 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
 
 Cablegram C26 LONDON, 17 November 1939
 
@@ -42,8 +48,8 @@ Am having a conference on the Far East statement and on above statement on Monda
 
 CASEY
 
-_
+ _
 
 _
 
-_ [AA: A1608, A41/1/1 vi]_
+ _[AA: A1608, A41/1/1 vi]_

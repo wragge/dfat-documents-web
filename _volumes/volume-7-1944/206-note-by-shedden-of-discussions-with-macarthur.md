@@ -1,12 +1,17 @@
 ---
-title: "206 Note by Shedden of Discussions with MacArthur"
-volume: "Volume 7: 1944"
-doc_id: 2853
+doc_date: '1944-06-27'
+doc_num: 206
+doc_order: 206
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 3]'
+title: Note by Shedden of Discussions with MacArthur
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-27
+vol_title: 'Volume 7: 1944'
 ---
-
-# 206 Note by Shedden of Discussions with MacArthur
 
 BRISBANE, 27 June 1944
 
@@ -52,7 +57,7 @@ The reference to readiness lends colour to General MacArthur's complaint that th
 
 (Note: This is an intrusion into General MacArthur's line of advance, as Halmahera is his next objective. It would disrupt his plans and postpone his programme.)
 
-_
+ _
 
 1 Document 170.
 
@@ -72,4 +77,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 3]_
+ _[AA:A5954, BOX 3]_

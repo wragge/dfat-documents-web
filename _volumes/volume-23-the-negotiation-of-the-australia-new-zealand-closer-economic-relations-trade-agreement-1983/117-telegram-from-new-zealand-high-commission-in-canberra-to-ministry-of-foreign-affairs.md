@@ -1,13 +1,22 @@
 ---
-title: "117 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8987
+doc_date: '1980-04-21'
+doc_num: 117
+doc_order: 117
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 117 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
-
-Canberra, 21 April1980
+Canberra, 21 April 1980
 
 No 1162. CONFIDENTIAL
 
@@ -23,4 +32,4 @@ We talked to Anderson (STR) last week about the briefing session officials had h
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/411 27 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 27 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

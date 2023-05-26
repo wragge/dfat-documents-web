@@ -1,22 +1,25 @@
 ---
-title: "469 MEMORANDUM DOUGLAS-HOME FOR CABINET DEFENCE AND OVERSEA POLICY COMMlTTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10336
+doc_date: '1973-07-16'
+doc_num: 469
+doc_order: 469
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB/1/148/131]'
+title: MEMORANDUM DOUGLAS-HOME FOR CABINET DEFENCE AND OVERSEA POLICY COMMlTTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1973-07-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 469 MEMORANDUM DOUGLAS-HOME FOR CABINET DEFENCE AND OVERSEA POLICY COMMlTTEE
-
-UKNA: CAB/1/148/131
 
 London, 16 July 1973
 
 Confidential
 
-**Australia: States’ Petitions on Offshore Rights**
+ **Australia: States’ Petitions on Offshore Rights**
 
-_Background_
+ _Background_
 
 1\. The division of sea-bed mining rights between the Australian Commonwealth and the Australian States has been a controversial issue in Australia for some years. A Sea and Submerged Lands Bill 1973, which would vest in the Commonwealth Government control over the sea-bed and over mineral deposits contained therein, was approved by the House of Representatives in May and will be considered by the Senate after Parliament reassembles in August. On 31 May, the States of Tasmania and Queensland delivered petitions to the Clerk to the Privy Council seeking a reference by The Queen to the Privy Council under Section 4 of the Judicial Committee Act 1833 of certain questions concerning the extent of those States’ jurisdiction over the sea-bed adjacent to their coast. This was supported by other States. The petitions have been referred to me for advice at the request of Buckingham Palace.
 
@@ -34,7 +37,7 @@ On (a), the Commonwealth Government maintains that since the petitions raise mat
 
 5\. The States have suggested that the questions whether or not the advice of the Commonwealth Government should be sought, and indeed whether the petitions should be referred to the Privy Council at all, might themselves be the subject of a _prior reference_ to a Mixed Committee of the Privy Council (i.e. of judges and laymen). This would not necessarily resolve the conflict of view between the States and the Commonwealth. The Commonwealth Government would be bound to oppose the involvement of a Mixed Committee; the Committee’s conclusion might not be one which we or the Commonwealth would welcome; and whatever the result the British Government would still have to decide whether or not to accept it.
 
-_Recommendation_
+ _Recommendation_
 
 6\. I _recommend_ that I should advise The Queen against a reference of the two petitions to the Privy Council unless the further material to be presented by the States contains compelling reasons to the contrary. I _also recommend_ that before this is done, the Commonwealth Government should be told that in our opinion the British Government is entitled to advise The Queen on the petitions, and what that advice will be. If the Commonwealth Government objects in principle to any advice at all being tendered to The Queen by the British Government it could then be suggested that both Governments might concurrently tender similar advice to Her Majesty. The timing of this communication to the Commonwealth Government will need further consideration. Following the submission of advice to Her Majesty in due course I will send messages to the States’ Governors informing them of the result.
 
@@ -44,7 +47,7 @@ ANNEX A
 
 ARGUMENTATION OF THE STATES’ AND COMMONWEALTH GOVERNMENTS
 
-_States Governments_
+ _States Governments_
 
 1\. The territorial limits of a State are not a matter governed by any Commonwealth laws and are not, therefore, proper for Commonwealth legislation.
 
@@ -54,7 +57,7 @@ _States Governments_
 
 4\. There is a wider question at issue: the whole constitutional relationship of the Commonwealth and the States.
 
-_Commonwealth Government_
+ _Commonwealth Government_
 
 1\. It is the right of each self-governing Dominion to advise the Crown in all matters relating to its own affairs; appeals and references from Australia to the Privy Council are archaic and objectionable.
 
@@ -81,19 +84,19 @@ We have been asked to advise on the legal considerations affecting the advice wh
 
 5\. In our opinion there are substantial arguments of a constitutional and legal character against advising the Crown to refer these petitions to the Privy Council.
 
-> _(a) Embarrassment to the Sovereign_
+>  _(a) Embarrassment to the Sovereign_
 > 
 > The Commonwealth Ministers will advise Her Majesty against the reference of the petition. We doubt whether the claim by the Commonwealth Ministers to give advice on the matter to the exclusion of United Kingdom Ministers is correct. However, the Commonwealth interest in the subject matter of the petitions is so substantial that the Sovereign would be gravely embarrassed if conflicting advice was given to her by Ministers of the two Governments.
 > 
-> _(b) The existence of a forum in Australia_
+>  _(b) The existence of a forum in Australia_
 > 
 > A decision of the High Court of Australia on issues in dispute between the Commonwealth and the States on the sea-bed would be binding and conclusive. There would be no appeal to the Judicial Committee from such a decision, because the High Court of Australia does not, in practice, grant leave to appeal to the Judicial Committee on inter se questions. There exists therefore in Australia a forum in which the sea-bed issues can be definitively resolved, and it is in this forum that Commonwealth/State disputes have hitherto been resolved in Australia. Such questions have never hitherto been the subject of a special reference under Section 4 of the Act of 1833.
 > 
-> _(c) The ineffectiveness of the Privy Council’s Opinion_
+>  _(c) The ineffectiveness of the Privy Council’s Opinion_
 > 
 > Although it may be expected that the Australian courts would show considerable respect to the opinion of the Privy Council, the advice would not be binding upon the Australian High Court. Moreover, in view of its attitude, it can be assumed that the Commonwealth Government would not participate in the proceedings or agreement on any reference before the Privy Council. Accordingly the advice would be of much diminished value as guidance to Governments and Parliaments in Australia.
 > 
-> _(d) Delay_
+>  _(d) Delay_
 > 
 > Since an Opinion is advisory only, the resolution of the issues would not be expedited by a reference. The immediate advantage to the Australian States of a favourable Opinion by the Judicial Committee would primarily be political.
 
@@ -106,3 +109,5 @@ We have been asked to advise further on this issue in the light of the developme
 8\. The State Law Officers have informed us, in the discussions referred to, that they can and will challenge the part of the Bill providing for the first method. The extent to which the High Court of Australia will assume jurisdiction to determine the validity of the request and consent provisions of the Bill and express an opinion on the constitutional relationship between the United Kingdom and Australia is a matter of Australian law on which we have received conflicting advice from the Commonwealth Solicitor-General and the State Law Officers. The position can only be resolved when the Commonwealth legislation is passed and is challenged in the High Court of Australia.
 
 9\. In these circumstances it is not, in our opinion, necessary and indeed it would be undesirable, so far as the legal considerations are concerned, to anticipate events by declaring at the present time the response which the United Kingdom would now make to any request received in the future from the Commonwealth.
+
+[UKNA: CAB/1/148/131]

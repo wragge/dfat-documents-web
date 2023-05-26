@@ -1,14 +1,19 @@
 ---
-title: "133 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 899
+doc_date: '1940-04-10'
+doc_num: 133
+doc_order: 133
+naa_refs:
+- naa_barcode: 4212443
+  naa_control_symbol: 1940/9
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2118]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-10
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 133 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 10 April 1940,
+Cablegram unnumbered 10 April 1940,
 
 IMMEDIATE URGENT
 
@@ -22,10 +27,10 @@ Application now being received from all parts of Australia to announce arrival o
 
 I should be obliged if you would have immediate consideration given to the question of permitting newspapers to announce and to publish photographs of ships in Australian waters.
 
-_
+ _
 
 1 On 7 April 1940 the Commonwealth Govt asked Bruce to clarify U.K. press censorship policy on news of the Mauretania's visit to Honolulu. On 8 April the High Commissioner's Office reported that news of shipping movements at British ports was suppressed, but that the B.B.C. had reported the Mauretania's visit to Honolulu because it was obvious that the information would be otherwise available to the enemy. See unnumbered cablegrams to and from Bruce (series EA: A3196, 0.2061 and FA: A3195, 1.2252 respectively).
 
 _
 
-_ [FA: A3196, 0.2118]_
+ _[FA: A3196, 0.2118]_

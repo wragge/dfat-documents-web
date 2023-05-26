@@ -1,14 +1,17 @@
 ---
-title: "373 LETTER, HOLT TO TURNER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10239
+doc_date: '1967-10-04'
+doc_num: 373
+doc_order: 373
+naa_refs:
+- naa_barcode: 8301723
+  naa_control_symbol: 1971/9449 PART 1
+  naa_series: A1209
+  reference: '[NAA:A1209, 1971/9449PART 1]'
+title: LETTER, HOLT TO TURNER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-10-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 373 LETTER, HOLT TO TURNER
-
-NAA:A1209, 1971/9449PART 1 
 
 Canberra, 4 October 1967
 
@@ -21,3 +24,5 @@ In this context, diplomatic exchange is to be seen as one area—a very importan
 Perhaps I should, by way of conclusion, comment to you on the basic reason for the organisational arrangements that we have. The post of High Commissioner is held by a former member of the Ministry. The basic concept here is to ensure that there is a full contact and exchange at the political level between Australia and Britain. The post of Deputy High Commissioner is always a very high senior civil servant and he has combined with his functions the general task of administration together with major representational functions which will devolve upon him. Next in rank, and charged especially with matters of external policy, comes the External Affairs representative who is given unfettered access to the diplomatic community and to the Commonwealth and Foreign Office. He reports directly to the Minister and Department of External Affairs as necessary. The administration of Australia House is under the Official Secretary and an officer is chosen for this job for his experience in co-ordinating the administrative processes. I might mention that the post of Deputy High Commissioner has always been filled by distinguished officers of the Australian Public Service, and the government has considered it an advantage that our Deputy High Commissioners have the status of permanent head because of the status which accrues to the Mission from an appointment of such standing. The first Deputy High Commissioner, Sir Edwin McCarthy and his successor Sir Allen Brown, on the completion of their terms, have taken other diplomatic posts abroad. The present Deputy High Commissioner, Mr John Knott, is a former permanent head of the Department of Supply.
 
 As to the future, as I have indicated, I keep an open mind to developments. I consider that the present arrangements adequately take into account both the broad range of interests Australia has in Britain and the special interests of Australia’s external policy. In selecting Australia’s representatives a balance will continue to be struck in the selection of people for senior posts with representational and administrative skill and you may be assured that I shall continue to give the administration of Australia House my personal attention.
+
+[NAA:A1209, 1971/9449PART 1]

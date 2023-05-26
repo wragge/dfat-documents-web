@@ -1,12 +1,17 @@
 ---
-title: "314 Dunk to McFarlane"
-volume: "Volume 7: 1944"
-doc_id: 2961
+doc_date: '1944-10-09'
+doc_num: 314
+doc_order: 314
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, iv]'
+title: Dunk to McFarlane
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-09
+vol_title: 'Volume 7: 1944'
 ---
-
-# 314 Dunk to McFarlane
 
 Cablegram 965 [1] WASHINGTON, 9 October 1944, 7.48 p.m.
 
@@ -20,7 +25,7 @@ After separate discussions with Keynes and Ben Smith, my personal point of view 
 
 Keynes is interested in the trend of dollar credits accruing from United States forces expenditure in Australia. I told [?him] that on the present disposition of troops, we did not look to this to give us any substantial amount of dollars in the future. Please telegraph me latest estimates on these as soon as possible.
 
-_
+ _
 
 1 Sent through the Legation in Washington.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A571, L41/915A, iv]_
+ _[AA:A571, L41/915A, iv]_

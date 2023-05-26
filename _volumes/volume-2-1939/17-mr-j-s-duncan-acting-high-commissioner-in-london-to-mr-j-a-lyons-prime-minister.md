@@ -1,12 +1,18 @@
 ---
-title: "17 Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 354
+doc_date: '1939-02-09'
+doc_num: 17
+doc_order: 17
+naa_refs:
+- naa_barcode: 232338
+  naa_control_symbol: '163'
+  naa_series: A2937
+  reference: '[FA: A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]'
+title: Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-02-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 17 Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons, Prime Minister
 
 Cablegram 35 LONDON, 9 February 1939
 
@@ -24,7 +30,7 @@ Similar communication to that being sent to you is going forward tonight by tele
 
 DUNCAN
 
-_
+ _
 
 1 Document 18.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [FA: A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]_
+ _[FA: A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]_

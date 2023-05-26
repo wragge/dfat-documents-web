@@ -1,14 +1,20 @@
 ---
-title: "295 General J.C. Smuts, South African Prime Minister, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 632
+doc_date: '1939-10-14'
+doc_num: 295
+doc_order: 295
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 9]'
+title: General J.C. Smuts, South African Prime Minister, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-14
+vol_title: 'Volume 2: 1939'
 ---
 
-# 295 General J.C. Smuts, South African Prime Minister, to Mr R.G. Menzies, Prime Minister
-
-## Cablegram 11 PRETORIA, 14 October 1939, 9.05 p.m
+Cablegram 11 PRETORIA, 14 October 1939, 9.05 p.m
 
 Your telegram 133, to Secretary of State for Dominion Affairs [1]
 
@@ -16,7 +22,7 @@ I congratulate you on your pertinent and statesmanlike observations, part of whi
 
 All good wishes to you in your great task.
 
-_
+ _
 
 1 Document 283.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 9]_
+ _[AA: CP 290/6, ITEM 9]_

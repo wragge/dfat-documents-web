@@ -1,12 +1,18 @@
 ---
-title: "376 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6545
+doc_date: '1949-05-05'
+doc_num: 376
+doc_order: 376
+naa_refs:
+- naa_barcode: 550443
+  naa_control_symbol: 403/2/3/2 PART 4
+  naa_series: A1838
+  reference: '[AA : A1838, 404/2/3/2 iv]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-05-05
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 376 Critchley to Department of External Affairs
 
 Cablegram K306 BATAVIA, [5 May 1949], 6.15 p.m.
 
@@ -46,7 +52,7 @@ President Soekarno and Vice-President Hatta undertake that they will urge the ad
 
 2\. Agreement between the governments probably now [depends] on the Netherlands consenting to the Republican Government receiving the Residency of Djokjakarta. The main problem for the Dutch is the return of Maguwo airfield five miles out ofDjokjakarta. Van Royen has made no commitments, but has promised to recommend that his Government be as generous as possible. I have pointed out to Roem that paragraph (3) of the draft statement by the Netherlands would permit the formation of new states based on the claim that this was in accordance with the will of the people. Roem says that this section was drafted by Cochran and that in discussions, the Netherlands Delegation has assured him that there [will] be no new states.
 
-_
+ _
 
 1 The full text of Roem's statement is given in United Nations, Security Council Official Records, Fourth Year, Special Supplement No. 5, p.11.
 
@@ -62,4 +68,4 @@ _
 
 _
 
-_ [AA : A1838, 404/2/3/2 iv]_
+ _[AA : A1838, 404/2/3/2 iv]_

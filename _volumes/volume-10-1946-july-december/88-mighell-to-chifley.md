@@ -1,12 +1,17 @@
 ---
-title: "88 Mighell to Chifley"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3936
+doc_date: '1946-08-26'
+doc_num: 88
+doc_order: 88
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838/2, 401/3/7/1, i]'
+title: Mighell to Chifley
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-08-26
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 88 Mighell to Chifley
 
 Cablegram 267 LONDON, 26 August 1946, 9.44 p.m.
 
@@ -30,7 +35,7 @@ He stated that the Admiralty was under pressure to remove stores and munitions f
 
 A further message will follow when the memorandum is received.
 
-_
+ _
 
 1 Dispatched 22 August, it repeated the concerns reported to Evatt in Document 64, and requested Mighell to convey them, together with Cabinet's decisions, to Addison.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A1838/2, 401/3/7/1, i]_
+ _[AA:A1838/2, 401/3/7/1, i]_

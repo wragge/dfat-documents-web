@@ -1,19 +1,23 @@
 ---
-title: "295 Letter, Hay To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9803
+doc_date: '1969-07-20'
+doc_num: 295
+doc_order: 295
+naa_refs:
+- naa_barcode: 3118271
+  naa_control_symbol: 1969/3605
+  naa_series: A452
+  reference: '[NAA: A452, 1969/3605]'
+title: Letter, Hay To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-07-20
-barcode: 3118271
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 295 Letter, Hay To Barnes
 
 Port Moresby, 20 July 1969
 
 Confidential 
 
-Discussions on constitutional matters between officials of the Administration and the Department are to take place shortly.1 The fact that these matters will shortly come before you prompts me to write direct to you and urge that the decisions on them be taken against the background of the need for a strong central government in order to develop the Territory economically and maintain its unity after self-government.
+Discussions on constitutional matters between officials of the Administration and the Department are to take place shortly.[1](#f1) The fact that these matters will shortly come before you prompts me to write direct to you and urge that the decisions on them be taken against the background of the need for a strong central government in order to develop the Territory economically and maintain its unity after self-government.
 
 Measures already taken (for example on local officer salaries and on land matters) and others which need to be taken (for example on internal revenue) are bound to arouse strong and outspoken, if not widespread, opposition. They will tend to strengthen the centrifugal forces already at work. They will provide causes for the local demagogue of a kind already emerging in Bougainville (Lapun) and the Gazelle (Tammur and others). They could lead to organized resistance which will require firmness (including the use of the police in certain cases) on the part of the government.
 
@@ -41,10 +45,10 @@ There are many things which can be done to forestall criticism of this kind, thr
 
 But perhaps the most effective action that can be taken is to bring about, through the Official Members, a situation in which the main principles are associated with the Committee rather than with the government or the Official Members. The authority and acceptability of the Committee’s recommendations will much depend upon the degree to which the Elected Members personally espouse them.
 
-I am sending a copy of this letter to the Secretary of the Department.2
+I am sending a copy of this letter to the Secretary of the Department.[2](#f2)
 
-[ [NAA: A452, 1969/3605](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3118271) ]
+[NAA: A452, 1969/3605]
 
 1  See Document 284. 
 
-2  In marginalia of 31 July, Warwick Smith wrote to Ballard: ‘Brief action only for Minister—to say he’ll take into account?’. 
+2  In marginalia of 31 July, Warwick Smith wrote to Ballard: ‘Brief action only for Minister—to say he’ll take into account?’.

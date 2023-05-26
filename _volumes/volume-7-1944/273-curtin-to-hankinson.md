@@ -1,13 +1,17 @@
 ---
-title: "273 Curtin to Hankinson"
-volume: "Volume 7: 1944"
-doc_id: 2920
+doc_date: '1944-09-07'
+doc_num: 273
+doc_order: 273
+naa_refs:
+- naa_barcode: 206252
+  naa_control_symbol: S41/1/9
+  naa_series: A1608
+  reference: '[AA:A1608, S41/1/9, i]'
+title: Curtin to Hankinson
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-07
-barcode: 206252
+vol_title: 'Volume 7: 1944'
 ---
-
-# 273 Curtin to Hankinson
 
 Letter CANBERRA, 7 September 1944
 
@@ -23,7 +27,7 @@ Having regard to the considerations referred to in the previous paragraph it is 
 
 JOHN CURTIN
 
-_
+ _
 
 1 Dated 14 July. On file AA:A1608, S41/1/9, i.
 
@@ -31,4 +35,4 @@ _
 
 _
 
-_ [ [AA:A1608, S41/1/9, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=206252) ]_
+ _[AA:A1608, S41/1/9, i]_

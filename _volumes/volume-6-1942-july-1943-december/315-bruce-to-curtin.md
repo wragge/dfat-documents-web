@@ -1,12 +1,18 @@
 ---
-title: "315 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2606
+doc_date: '1943-10-26'
+doc_num: 315
+doc_order: 315
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, FOLDER, MOST SECRET INWARDS MASTER SHEETS EXCLUDING
+    SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.44018]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-10-26
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 315 Bruce to Curtin
 
 Cablegram 207[A] LONDON, 26 October 1943, 9.15 p.m.
 
@@ -24,6 +30,6 @@ Weighing what I am convinced you could do here against the great value of your p
 
 BRUCE
 
-_ 1 See Document 310._
+ _1 See Document 310._
 
-_ [FA:A3195, 1943, FOLDER, MOST SECRET INWARDS MASTER SHEETS EXCLUDING SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.44018]_
+ _[FA:A3195, 1943, FOLDER, MOST SECRET INWARDS MASTER SHEETS EXCLUDING SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.44018]_

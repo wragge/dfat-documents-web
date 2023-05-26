@@ -1,13 +1,19 @@
 ---
-title: "102 Evatt to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2749
+doc_date: '1944-03-29'
+doc_num: 102
+doc_order: 102
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 646]'
+title: Evatt to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
+vol_title: 'Volume 7: 1944'
 ---
 
-# 102 Evatt to Curtin
-
-## Letter CANBERRA, 29 March [1944] [1]
+Letter CANBERRA, 29 March [1944] [1]
 
 I am obliged to you for your letter of even date. [2] Except in a necessarily limited way Australian representatives abroad and Defence Department officials attached to your Mission neither have nor can be expected to have that intimate and detailed knowledge of the external and foreign policy of this country for which my department and I are responsible. I know you are regarding the London Conference as one concerned primarily with war and defence.
 
@@ -21,7 +27,7 @@ My wife and I are delighted that Mrs. Curtin is able to accompany you: and we wi
 
 H. V. EVATT
 
-_
+ _
 
 1 Incorrectly dated 1943.
 
@@ -29,4 +35,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 646]_
+ _[AA:A5954, BOX 646]_

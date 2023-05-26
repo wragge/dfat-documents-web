@@ -1,14 +1,19 @@
 ---
-title: "355 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1121
+doc_date: '1940-06-10'
+doc_num: 355
+doc_order: 355
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4081]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-10
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 355 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram 397 LONDON, 10 June 1940, 7.04 p.m.
+Cablegram 397 LONDON, 10 June 1940, 7.04 p.m.
 
 MOST IMMEDIATE FOR THE PRIME MINISTER
 
@@ -16,7 +21,7 @@ Press report Mussolini in speech this afternoon stated declarations of war again
 
 BRUCE
 
-_
+ _
 
 1 Sir Percy Loraine and Andre Francois-Poncet.
 
@@ -26,4 +31,4 @@ A1608, M41/1/1). The Commonwealth Government had previously been warned that war
 
 _
 
-_ [FA: A3195, 1.4081]_
+ _[FA: A3195, 1.4081]_

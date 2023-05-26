@@ -1,12 +1,18 @@
 ---
-title: "337 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 1: 1937-38"
-doc_id: 336
+doc_date: '1938-12-24'
+doc_num: 337
+doc_order: 336
+naa_refs:
+- naa_barcode: 232338
+  naa_control_symbol: '163'
+  naa_series: A2937
+  reference: '[FA : A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]'
+title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-12-24
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 337 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 126 LONDON, 24 December 1938, 3.00 p.m.
 
@@ -40,10 +46,10 @@ Acceptance of the Optional Clause by His Majesty's Government in the United King
 
 (9) It will be seen from the above that the question raises important issues, and it will be remembered that accession to the General Act in 1931 was effected after considerable discussion between the Governments of the British Commonwealth (see my telegram Circular B. No. 7 of the 8th January, 1930, and subsequent correspondence). In all the circumstances we feel that the consideration mentioned in paragraph (8) above is very important and before examining the matter further we should be grateful if we could receive any observations which the other British Commonwealth Governments who are parties to the General Act may feel able to make both on the subject generally, and in particular on the Sub-committee's suggestions mentioned in paragraphs (5) (6) and (7) above as to possible future action. We are also taking steps to sound the French Government. In view of the position as described in paragraph (4) we should appreciate a reply at an early opportunity.
 
-_
+ _
 
 1 Not printed.
 
 _
 
-_ [FA : A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]_
+ _[FA : A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]_

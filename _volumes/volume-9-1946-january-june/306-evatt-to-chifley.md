@@ -1,12 +1,17 @@
 ---
-title: "306 Evatt to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3818
+doc_date: '1946-06-12'
+doc_num: 306
+doc_order: 306
+naa_refs:
+- naa_barcode: 273925
+  naa_control_symbol: SPTS 1/5
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/5]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-12
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 306 Evatt to Chifley
 
 Cablegram 758 NEW YORK, 12 June 1946, 5.28 p.m.
 
@@ -18,10 +23,10 @@ By way of example I referred to the existing mutual defence board machinery as b
 
 Upshot was Byrnes' suggestion that Chiefs of Staff and an Officer of State Department should explore the position with me and he should have a further discussion with me. This will probably take place next week after which I will report to you. I hear Nash will be coming over shortly in same connection.
 
-_
+ _
 
 1 Document 301.
 
 _
 
-_ [AA:A6494 T1, SPTS/1/5]_
+ _[AA:A6494 T1, SPTS/1/5]_

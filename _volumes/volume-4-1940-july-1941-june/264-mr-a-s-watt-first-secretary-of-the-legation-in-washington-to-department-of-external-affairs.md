@@ -1,12 +1,18 @@
 ---
-title: "264 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1495
+doc_date: '1941-01-31'
+doc_num: 264
+doc_order: 264
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 26A]'
+title: Mr A. S. Watt, First Secretary of the Legation in Washington, to Department
+  of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-31
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 264 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs
 
 Cablegram 76 WASHINGTON, 31 January 1941, 12.15 p.m.
 
@@ -24,7 +30,7 @@ Rear-Admiral Bellairs Head of United Kingdom delegation requests urgent informat
 
 WATT
 
-_
+ _
 
 1 Document 213.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 26A]_
+ _[AA:A981, FAR EAST 26A]_

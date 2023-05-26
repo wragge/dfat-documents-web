@@ -1,12 +1,18 @@
 ---
-title: "136 Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 473
+doc_date: '1939-08-19'
+doc_num: 136
+doc_order: 136
+naa_refs:
+- naa_barcode: 235479
+  naa_control_symbol: '7'
+  naa_series: A3300
+  reference: '[FA: AA1975/5, 1939, PUBLIC OPINION (U.S.) WARTIME]'
+title: Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Lt
+  Col W.R. Hodgson, Secretary of Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-19
+vol_title: 'Volume 2: 1939'
 ---
-
-# 136 Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs
 
 Cablegram 33 WASHINGTON, 19 August 1939
 
@@ -16,10 +22,10 @@ Your telegram No. 23. [1] Generally prevailing view and attitude is quite differ
 
 Administration attitude is based on the above and is friendly and sympathetic and in case of hostilities will probably go as far as Neutrality Act permits but it will be cautious not to give strength to isolationists. Will try and augment this paragraph later.
 
-_
+ _
 
 1 On 18 August 1939, Hodgson cabled to Officer: 'In view of the present situation would appreciate by telegram indications available of views obtaining in official quarters on European and Far East developments as they occur including possible courses of action' (cablegram 23, on file AA: A981, Germany 67, i).
 
 _
 
-_ [FA: AA1975/5, 1939, PUBLIC OPINION (U.S.) WARTIME]_
+ _[FA: AA1975/5, 1939, PUBLIC OPINION (U.S.) WARTIME]_

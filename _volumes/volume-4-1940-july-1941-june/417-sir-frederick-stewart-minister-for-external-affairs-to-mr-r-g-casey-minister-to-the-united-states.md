@@ -1,12 +1,18 @@
 ---
-title: "417 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1648
+doc_date: '1941-04-22'
+doc_num: 417
+doc_order: 417
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, i]'
+title: Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister
+  to the United States
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 417 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States
 
 Cablegram 473 22 April 1941,
 
@@ -18,7 +24,7 @@ It is now understood that United Kingdom Government through Halifax and Winant [
 
 STEWART
 
-_
+ _
 
 1 Sir John Latham, Minister to Japan, sent cablegram 184 of 13 April to Canberra and repeated it to Casey as no. 26. It is on file AA: A1608, A41/1/1, xx, together with Casey's cablegram 283 of 14 April. Both cablegrams concerned a report that Japan would attack Singapore by sea within the next few days with twelve to fifteen divisions.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, i]_
+ _[AA: A981, JAPAN 185B, i]_

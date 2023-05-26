@@ -1,12 +1,17 @@
 ---
-title: "361 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2115
+doc_date: '1942-02-22'
+doc_num: 361
+doc_order: 362
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-22
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 361 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister
 
 Cablegram.342 WASHINGTON, 22 February 1942, 1.54 p.m.
 
@@ -26,7 +31,7 @@ He mentioned contribution towards the security of the coastal areas on cast of A
 
 CASEY
 
-_
+ _
 
 1 Document 358.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

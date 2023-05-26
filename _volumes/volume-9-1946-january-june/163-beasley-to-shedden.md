@@ -1,12 +1,17 @@
 ---
-title: "163 Beasley to Shedden"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3675
+doc_date: '1946-04-02'
+doc_num: 163
+doc_order: 163
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1910]'
+title: Beasley to Shedden
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-02
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 163 Beasley to Shedden
 
 Letter LONDON, 2 April 1946
 
@@ -32,10 +37,10 @@ I have said enough to convince you of my own views on the importance of this mat
 
 I am looking forward to seeing you here in London in a very short time from now and sincerely hope that you have a pleasant trip and happy landings.
 
-_
+ _
 
 1 N. K. S. Brodribb, Controller-General of Munitions Supply.
 
 _
 
-_ [AA:A5954, BOX 1910]_
+ _[AA:A5954, BOX 1910]_

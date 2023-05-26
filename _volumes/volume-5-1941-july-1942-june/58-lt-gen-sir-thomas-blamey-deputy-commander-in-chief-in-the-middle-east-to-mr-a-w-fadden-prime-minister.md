@@ -1,13 +1,18 @@
 ---
-title: "58 Lt Gen Sir Thomas Blamey, Deputy Commander-in-Chief in the Middle East, to Mr A. W. Fadden, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1812
+doc_date: '1941-09-04'
+doc_num: 58
+doc_order: 59
+naa_refs:
+- naa_barcode: 206516
+  naa_control_symbol: E45/2/1
+  naa_series: A1608
+  reference: '[AA:A1608, E45/2/1, v]'
+title: Lt Gen Sir Thomas Blamey, Deputy Commander-in-Chief in the Middle East, to
+  Mr A. W. Fadden, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-04
-barcode: 206516
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 58 Lt Gen Sir Thomas Blamey, Deputy Commander-in-Chief in the Middle East, to Mr A. W. Fadden, Prime Minister
 
 Cablegram GOC 179 CAIRO, 4 September 1941, 7.10 p.m.
 
@@ -37,7 +42,7 @@ In view of the lull in active operations, suggest you should now insist- (a) on 
 
 Unless you take the firmest stand, feel convinced that the 9th Division will be left in Tobruk indefinitely, in spite of my efforts. The position causes me grave concern.
 
-_
+ _
 
 1 Both documents are in Australian War Memorial: Blamey Papers, 33/1.
 
@@ -47,4 +52,4 @@ _
 
 _
 
-_ [ [AA:A1608, E45/2/1, v](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=206516) ]_
+ _[AA:A1608, E45/2/1, v]_

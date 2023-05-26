@@ -1,12 +1,17 @@
 ---
-title: "287 Evatt to Bruce"
-volume: "Volume 7: 1944"
-doc_id: 2934
+doc_date: '1944-09-19'
+doc_num: 287
+doc_order: 287
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1821]'
+title: Evatt to Bruce
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 287 Evatt to Bruce
 
 Cablegrams 138 and 139 [1] CANBERRA, 19 September 1944
 
@@ -26,7 +31,7 @@ It follows, firstly, that it is basic to the success of any world Organisation t
 
 (To London only-This is a personal view, but I would like you to discuss it with Eden. Best wishes.) (To Washington only-This is a personal view, but I would like you to put it to Cadogan or Halifax or both and also talk it over with Berendsen.)
 
-_
+ _
 
 1 Repeated to Dixon as nos 1435 and 1436.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 1821]_
+ _[AA:A5954, BOX 1821]_

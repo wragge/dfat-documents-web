@@ -1,12 +1,17 @@
 ---
-title: "148 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 147
+doc_date: '1938-03-21'
+doc_num: 148
+doc_order: 147
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-21
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 148 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 
 Cablegram unnumbered 21 March 1938,
 
@@ -16,7 +21,7 @@ I need hardly tell you that we have been following the course of events with the
 
 LYONS
 
-_
+ _
 
 1 No record of these Cabinet meetings has been found.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

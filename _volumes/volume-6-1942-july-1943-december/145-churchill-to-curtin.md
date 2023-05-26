@@ -1,12 +1,17 @@
 ---
-title: "145 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2436
+doc_date: '1943-03-27'
+doc_num: 145
+doc_order: 145
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, 1.13737/11]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-03-27
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 145 Churchill to Curtin
 
 Cablegram Winch 6 LONDON, 27 March 1943, 9.25 p.m.
 
@@ -36,7 +41,7 @@ All the above are in addition to the R.A.A.F. whose strength is now considerable
 
 man who can be carried and every suitable ship and aircraft will be concentrated on Japan.
 
-_
+ _
 
 1 Document 139.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [FA:A3195, 1943, 1.13737/11] [3]_
+ _[FA:A3195, 1943, 1.13737/11] [3]_

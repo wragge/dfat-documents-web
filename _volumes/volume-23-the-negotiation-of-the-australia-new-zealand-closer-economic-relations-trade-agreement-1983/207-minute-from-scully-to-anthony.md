@@ -1,12 +1,19 @@
 ---
-title: "207 Minute from Scully to Anthony"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9076
+doc_date: '1982-09-17'
+doc_num: 207
+doc_order: 207
+naa_refs:
+- naa_barcode: 11558958
+  naa_control_symbol: 1982/2593 PART 8
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 82/2593, viii]'
+title: Minute from Scully to Anthony
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-09-17
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 207 Minute from Scully to Anthony
 
 Canberra, 17 September 1982
 
@@ -29,4 +36,4 @@ Officials pointed to the safeguards provisions in these areas, agreed to strongl
 
 It is suggested that when the Ministers reach a decision as to the future path of negotiation that arrangements be made which will enable the negotiating changes to be transmitted promptly to the MTIA Executive in Canberra for advice. It was agreed that this would be a confidential arrangement not referred to publicly and that we would seek to give the maximum time for responses, bearing in mind that the course of negotiations could well be unpredictable.
 
-_[NAA: A1313/113, 82/2593, viii]_
+ _[NAA: A1313/113, 82/2593, viii]_

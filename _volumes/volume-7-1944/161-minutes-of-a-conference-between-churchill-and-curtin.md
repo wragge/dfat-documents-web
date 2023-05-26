@@ -1,12 +1,17 @@
 ---
-title: "161 Minutes of a Conference between Churchill and Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2808
+doc_date: '1944-05-21'
+doc_num: 161
+doc_order: 161
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 5]'
+title: Minutes of a Conference between Churchill and Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-21
+vol_title: 'Volume 7: 1944'
 ---
-
-# 161 Minutes of a Conference between Churchill and Curtin
 
 CHEQUERS, 21 May 1944, 3 p.m.
 
@@ -20,7 +25,7 @@ THE PRIME MINISTER said he was quite agreeable to this arrangement.
 
 2\. THE AUSTRALIAN WAR EFFORT AND BRITISH COMMONWEALTH FORCES FOR THE FAR EAST MR. CURTIN said that before returning to Australia he wished to obtain a general assessment of what will be the strength of the Australian forces which he should advise his Government to maintain at the end of this year and, say, in August 1945. He referred to a letter which he had addressed to the Prime Minister on the 17th May [1], arising from C.O.S.(44)408(0) of 10th May.
 
-_ armed forces below which no reduction could be entertained and the production of more food in Australia.
+ _armed forces below which no reduction could be entertained and the production of more food in Australia.
 
 After some discussion the PRIME MINISTER suggested, and Mr. Curtin agreed, that Australia's war effort might be apportioned as follows:-
 
@@ -72,4 +77,4 @@ THE PRIME MINISTER felt certain that this matter could be arranged satisfactoril
 
 _
 
-_ [2] A balance had to be struck between maintaining a limit of_
+ _[2] A balance had to be struck between maintaining a limit of_

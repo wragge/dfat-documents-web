@@ -1,12 +1,17 @@
 ---
-title: "280 Sir John Latham, Minister to Japan, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1511
+doc_date: '1941-02-08'
+doc_num: 280
+doc_order: 280
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 185B, i]'
+title: Sir John Latham, Minister to Japan, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 280 Sir John Latham, Minister to Japan, to Department of External Affairs
 
 Cablegram 73 TOKYO, 8 February 1941, 7.30 p.m.
 
@@ -42,7 +47,7 @@ In the circumstances I can only watch and report developments and be ready for e
 
 LATHAM
 
-_
+ _
 
 1 Dispatched 30 January. See copies on files AA:A3300, 97, and AA:A981, Far East 21A.
 
@@ -70,4 +75,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 185B, i]_
+ _[AA:A981, JAPAN 185B, i]_

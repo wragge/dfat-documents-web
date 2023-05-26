@@ -1,12 +1,18 @@
 ---
-title: "256 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1487
+doc_date: '1941-01-22'
+doc_num: 256
+doc_order: 256
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.1092]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 256 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 35 LONDON, 22 January 1941, 10.20 p.m.
 
@@ -18,7 +24,7 @@ This has been the governing factor ever since in regulating our policy in Palest
 
 I am sorry if my words were not sufficiently explicit. It was never intended to suggest that we are under obligations to the Zionists other than those that we have publicly avowed.
 
-_
+ _
 
 1 On 24 December 1940 Cranborne dispatched cablegram 511 to the Commonwealth Govt setting out U.K. policy on Jewish immigration to Palestine. On 2 January 1941 S. M. Bruce, High Commissioner in London, suggested in cablegram 4 that the Commonwealth Geer should ask for a specific statement of 'promises made to the Zionists', and this was done in cablegram 11. All documents are on file AA:A1608, 1.41/1/3, i.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA:A3195, 1941, 1.1092]_
+ _[AA:A3195, 1941, 1.1092]_

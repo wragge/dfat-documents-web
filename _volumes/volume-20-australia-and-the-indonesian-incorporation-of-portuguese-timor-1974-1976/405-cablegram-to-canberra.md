@@ -1,12 +1,19 @@
 ---
-title: "405 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8243
+doc_date: '1976-01-23'
+doc_num: 405
+doc_order: 404
+naa_refs:
+- naa_barcode: 4151546
+  naa_control_symbol: 801/13/11/1 PART 20
+  naa_series: A10463
+  reference: '[NAA: Al0463, 801/13/1111, xx]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-01-23
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 405 Cablegram to Canberra
 
 New York, 23 January 1976
 
@@ -24,4 +31,4 @@ Although there has been a temporary lull in the United Nations consideration of 
 
 HARRY
 
-_[NAA: Al0463, 801/13/1111, xx]_
+ _[NAA: Al0463, 801/13/1111, xx]_

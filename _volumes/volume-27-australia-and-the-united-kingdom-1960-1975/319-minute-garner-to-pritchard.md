@@ -1,22 +1,25 @@
 ---
-title: "319 MINUTE, GARNER TO PRITCHARD"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10185
+doc_date: '1966-11-21'
+doc_num: 319
+doc_order: 319
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 1751163]'
+title: MINUTE, GARNER TO PRITCHARD
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-11-21
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 319 MINUTE, GARNER TO PRITCHARD
-
-UKNA: DO 1751163
 
 London, 21 November 1966
 
 Confidential
 
-**Entry into Britain**
+ **Entry into Britain**
 
-Sir A. Downer called to see me this afternoon as he put it, to have an informal talk following his reference to Australian difficulties in entering this country with the Secretary of State1 on Armistice Sunday.
+Sir A. Downer called to see me this afternoon as he put it, to have an informal talk following his reference to Australian difficulties in entering this country with the Secretary of State[1](#f1) on Armistice Sunday.
 
 I listened to a very involved, emotional, repetitive harangue. The general gist was that we were running a grave danger of alienating Australia, that there were already a number of influences affecting the warm relations between our two countries—the Common Market, exchange control, President Johnson’s visit, etc., etc.—that many Australians still regarded Britain as home and expected to receive a friendly welcome and that, if present causes for complaint continued, we should reach ‘the open sea’ and even the position of the Queen would be gravely affected.
 
@@ -30,7 +33,7 @@ Coming down from these lofty heights the High Commissioner instanced a number of
 > 
 > (iv) He asked that the Commonwealth Secretary and the Home Secretary should consider whether instructions could be given to immigration officers to behave with greater courtesy.
 
-I was not given very long to reply to this tirade, but I told the High Commissioner that in principle I had a very great sympathy with his request. Indeed, I mentioned that I had already raised the general question inside this Office. 2 I accepted that if the present complaints were not met we should increase our difficulties with Australia which, of course, none of us wanted to do. I suggested that the problem was largely a psychological one. I went on to explain the reasons for the Commonwealth Immigrants’ Act and to refer to the clear statements by both parties that it should be exercised without discrimination. I admitted that this put us in a false position and said that, as he knew, we had of course been as lenient as possible to migrants from Australia.
+I was not given very long to reply to this tirade, but I told the High Commissioner that in principle I had a very great sympathy with his request. Indeed, I mentioned that I had already raised the general question inside this Office. [2](#f2) I accepted that if the present complaints were not met we should increase our difficulties with Australia which, of course, none of us wanted to do. I suggested that the problem was largely a psychological one. I went on to explain the reasons for the Commonwealth Immigrants’ Act and to refer to the clear statements by both parties that it should be exercised without discrimination. I admitted that this put us in a false position and said that, as he knew, we had of course been as lenient as possible to migrants from Australia.
 
 I nevertheless went on to make the following points:–
 
@@ -55,3 +58,5 @@ In conclusion the High Commissioner handed the attached example of an Australian
 1  Herbert Bowden, Secretary of State for Commonwealth Affairs, 1966–67.
 
 2  Document 317.
+
+[UKNA: DO 1751163]

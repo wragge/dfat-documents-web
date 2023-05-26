@@ -1,12 +1,18 @@
 ---
-title: "22 Mr R. G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 788
+doc_date: '1940-01-17'
+doc_num: 22
+doc_order: 22
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of State for
+  Dominion Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 22 Mr R. G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 17 17 January 1940,
 
@@ -16,7 +22,7 @@ Your telegram D.18. [1] Anglo-French declaration. His Majesty's Government in th
 
 MENZIES
 
-_
+ _
 
 1 Document 15.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

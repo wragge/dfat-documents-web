@@ -1,12 +1,18 @@
 ---
-title: "148 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1902
+doc_date: '1941-12-01'
+doc_num: 148
+doc_order: 149
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-01
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 148 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 113 LONDON, 1 December 1941, 9.39 p.m.
 
@@ -20,7 +26,7 @@ His line was that to anticipate the Japanese on the Peninsula, if the Japanese h
 
 BRUCE
 
-_
+ _
 
 1 Document 143.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

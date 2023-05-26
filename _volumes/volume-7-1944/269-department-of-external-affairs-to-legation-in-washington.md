@@ -1,12 +1,17 @@
 ---
-title: "269 Department of External Affairs to Legation in Washington"
-volume: "Volume 7: 1944"
-doc_id: 2916
+doc_date: '1944-09-05'
+doc_num: 269
+doc_order: 269
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1821]'
+title: Department of External Affairs to Legation in Washington
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-05
+vol_title: 'Volume 7: 1944'
 ---
-
-# 269 Department of External Affairs to Legation in Washington
 
 Cablegram 1349 CANBERRA, 5 September 1944
 
@@ -22,7 +27,7 @@ While this will not leave much time for separate consultation between the United
 
 3\. My immediately succeeding telegram [2] sets out our provisional comments on the discussions to date. You are asked to take appropriate steps to impress these views on all concerned. In all such steps it is desired that there should be specially close consultation between you and Berendsen.
 
-_
+ _
 
 1 Dispatched 3 September. On file AA:A5954, box 1821.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 1821]_
+ _[AA:A5954, BOX 1821]_

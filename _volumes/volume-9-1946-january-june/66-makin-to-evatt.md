@@ -1,12 +1,17 @@
 ---
-title: "66 Makin to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3578
+doc_date: '1946-02-03'
+doc_num: 66
+doc_order: 66
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.3135/6/7]'
+title: Makin to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-03
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 66 Makin to Evatt
 
 Cablegram 792 LONDON, 3 February 1946, 10.45 a.m.
 
@@ -46,7 +51,7 @@ There are strong practical objections to the second. The case for Rule S rests o
 
 14\. The crux of the present situation is that the debate cannot be kept on a purely juridical plane. Politically, everything turns on the fact that all members including Australia accepted Rule S before the elections. Consequently, whether freely or not the Egyptian move is regarded as merely an attempt to win by an unmerited technicality an extra four months of office for themselves. The Delegation thinks it essential to avoid any course which would break down Australia's position and your own as a disinterested and independent representative of the secondary states. We have made effective use of all constitutional arguments but think it necessary at this stage to be granted some discretion as the situation develops in accepting the best possible practical solution.
 
-_
+ _
 
 1 Document 62.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.3135/6/7]_
+ _[AA:A3195, 1946, 1.3135/6/7]_

@@ -1,12 +1,17 @@
 ---
-title: "211 Evatt to Eggleston"
-volume: "Volume 8: 1945"
-doc_id: 3242
+doc_date: '1945-08-25'
+doc_num: 211
+doc_order: 211
+naa_refs:
+- naa_barcode: 235789
+  naa_control_symbol: '316'
+  naa_series: A3300
+  reference: '[AA : A3300/2, 45/316]'
+title: Evatt to Eggleston
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-25
+vol_title: 'Volume 8: 1945'
 ---
-
-# 211 Evatt to Eggleston
 
 Cablegram 1208 CANBERRA, 25 August 1945
 
@@ -22,7 +27,7 @@ Every effort should be made in the initial post-surrender period to apprehend an
 
 3\. Please convey above to Secretary of State and request that it be brought to the attention of appropriate representative of Supreme Commander and of Judge Advocate General G.H.Q. General Blamey will be carrying out objective so far as Australian forces are concerned.
 
-_
+ _
 
 1 In fact dispatched 20 August. On file AA : A1066, H45/580/6/2.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA : A3300/2, 45/316]_
+ _[AA : A3300/2, 45/316]_

@@ -1,12 +1,17 @@
 ---
-title: "278 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 277
+doc_date: '1938-09-26'
+doc_num: 278
+doc_order: 277
+naa_refs:
+- naa_barcode: 174711
+  naa_control_symbol: CZE 13 PART 1
+  naa_series: A981
+  reference: '[AA : A981, CZECHOSLOVAKIA 13]'
+title: Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-26
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 278 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 
 Cablegram 96 26 September 1938,
 
@@ -24,10 +29,10 @@ Third, we think public opinion will require adequate assurances as to future of 
 
 LYONS
 
-_
+ _
 
 1 This cablegram was sent through the U.K. Dominions Secretary.
 
 _
 
-_ [AA : A981, CZECHOSLOVAKIA 13]_
+ _[AA : A981, CZECHOSLOVAKIA 13]_

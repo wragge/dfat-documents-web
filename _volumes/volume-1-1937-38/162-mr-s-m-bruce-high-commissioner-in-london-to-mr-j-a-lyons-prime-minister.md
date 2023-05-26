@@ -1,12 +1,17 @@
 ---
-title: "162 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 161
+doc_date: '1938-03-24'
+doc_num: 162
+doc_order: 161
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-24
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 162 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 24 March 1938, 4.35 p.m.
 
@@ -28,7 +33,7 @@ Spain. I am by no means happy as to the position but probably at the moment and 
 
 Suggest your considering whether it would be desirable for you to make a statement indicating acceptance and approval of Prime Minister's statement, welcoming determination to accelerate rearmament and pointing to your statement as evidence of Australia's preparedness to co-operate with the United Kingdom Government in their defence efforts.
 
-_
+ _
 
 1 Documents 154, 160.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

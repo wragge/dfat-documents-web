@@ -1,12 +1,20 @@
 ---
-title: "131 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9001
+doc_date: '1980-11-13'
+doc_num: 131
+doc_order: 131
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-11-13
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 131 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 13 November 1980
 
@@ -14,7 +22,7 @@ No 3526. CONFIDENTIAL PRIORITY
 
 ## ANZCER: Agriculture
 
-Now that the Prime Minister's consent to lifting the embargo on discussion of the BAE dairy paper1 has been obtained, officials here have been giving some thought to the way in which agriculture should be addressed. Anderson has asked DPI to work up some options as the basis for consulting industry and for engaging in a substantive discussion on agriculture at the next JWP. He is conscious time is running on, and that on the NZ side, the importance accorded agriculture in striking an appropriate balance of advantage will make it essential for Permanent Heads to be in a position to report substantial progress.
+Now that the Prime Minister's consent to lifting the embargo on discussion of the BAE dairy paper[1](#f1) has been obtained, officials here have been giving some thought to the way in which agriculture should be addressed. Anderson has asked DPI to work up some options as the basis for consulting industry and for engaging in a substantive discussion on agriculture at the next JWP. He is conscious time is running on, and that on the NZ side, the importance accorded agriculture in striking an appropriate balance of advantage will make it essential for Permanent Heads to be in a position to report substantial progress.
 
   2. In the Australian IDC discussions Anderson has started from the premise that agriculture-including dairy products-should be treated in the same way as industrial products and manufactures. He maintains there is nothing peculiar about agriculture that requires different phasing formulae for tariff treatment or for QRs, but articulating the principle in this way should strengthen resistance to any notion on the Australian side that 'sensitive' areas of agriculture warrant exclusion from the deal.
   3. Anderson said it would help if we could be in a position to spell out in greater detail our concerns on agriculture at the next Joint Working Party meeting. On tropical agriculture it will be necessary to take on board the way in which NZ's commitments to South Pacific countries are likely to affect our freedom of movement. He seems to be thinking along the lines of having Australia designated as a preferred 'secondary' source of supply for tropical agricultural products. This would enable NZ to preserve access for South Pacific countries but at the same time make some commitment to seek supplies from Australia should the need arise. (It is not clear what mechanism Anderson has in mind for this but perhaps some form of undertaking from FDL to source on Australia when the need arises, possibly reinforced with a substantial margin of preference over third country suppliers, could satisfy Anderson's criteria.) In addition, it would help to have a better picture of NZ's other concerns in agriculture.
@@ -25,8 +33,6 @@ Now that the Prime Minister's consent to lifting the embargo on discussion of th
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 31 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 31 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 The Bureau of Agricultural Economics had produced a paper on dairying that aroused some concern in New Zealand, which considered the paper to include erroneous views on some points that could damage its dairy business elsewhere.
-
-

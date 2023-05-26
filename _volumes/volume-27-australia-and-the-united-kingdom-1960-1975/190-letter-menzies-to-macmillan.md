@@ -1,14 +1,17 @@
 ---
-title: "190 LETTER, MENZIES TO MACMILLAN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10055
+doc_date: '1962-07-11'
+doc_num: 190
+doc_order: 190
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 11/4017]'
+title: LETTER, MENZIES TO MACMILLAN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-07-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 190 LETTER, MENZIES TO MACMILLAN
-
-UKNA: PREM 11/4017
 
 Canberra, 11 July 1962
 
@@ -16,11 +19,11 @@ Personal
 
 After I got back home I was so quickly and completely immersed in the domestic political tasks that I have not until now got around to writing you about my American visit. It was on the whole satisfactory from both your viewpoint and mine. The President was generous with his time. He gave me two long interviews and a luncheon. I had not seen him for about 14 months. During that time, of course, he has experienced some vicissitudes. I found him as personally attractive as ever but more mature.[...]
 
-In addition to Kennedy, I had adequate discussions with Rusk, Harriman and Ball, to say nothing of some more general talks with people who included Dean Acheson.1
+In addition to Kennedy, I had adequate discussions with Rusk, Harriman and Ball, to say nothing of some more general talks with people who included Dean Acheson.[1](#f1)
 
 I went to some pains from the very beginning to make it clear that I was not in Washington to argue about words. I told them that I thought the long distance arguments about ‘preferences’ was not likely to achieve any result and that what was really wanted was to put dogma on one side and consider everything in a pragmatic fashion. This view was accepted and thereafter our discussions proceeded in a friendly and constructive way. As I indicated to you at your house, my central theme was this: ‘If you exercise your influence with The Six to resist everything that resembles a Commonwealth preference or even a substitute for it, and, if as a consequence, The Six carry the principle of the disappearance of preferences by 1970 right down the board, you will impale the Government of the United Kingdom on the horns of a dilemma. It will then be said, and with great force, that Great Britain will be choosing between Europe and the Commonwealth. I believe that you are keen, for political reasons, on Great Britain going into the European Community. Harold Macmillan himself is much influenced by the overall political considerations. Surely this is not a time at which your common conception of an extended and powerful Europe should be put at risk by the presentation to Great Britain of a set of conditions which she might well find impossible of acceptance by her as the centre of the British Commonwealth.’
 
-The reactions to this were very interesting and, I hope you will agree, valuable. The President took the opportunity of speaking very warmly about the importance of the Commonwealth and the necessity to build up its strength. You will see a reference to this in the communique which was issued and a copy of which, in case you have not seen it, I enclose.2 It should be emphasised that Kennedy was not employing just a form of words. He has clearly given considerable thought to the nature and structure of the Commonwealth. He clearly attaches a genuine degree of importance to good relations between the United States and Australia. Ball, a man of obvious knowledge and intelligence but whom I had expected to find as my chief opponent, was disposed to be helpful. He said quite plainly that a phasing out of the existing Commonwealth trade arrangements by 1970 would be most unreasonable. At one stage the President took up my cliche about the ‘horns of dilemma’ and said—‘We must avoid any such result. Our practical business seems to be to find a way between the horns.’ I asked whether this meant that instead of dwelling on fixed ideas or contentious principles we, Australia, should discuss with the United States, commodity by commodity, ways and means of achieving some practical result which would help us all. This was promptly agreed to. I was told that if our chief official negotiator (Dr Westerman) went over to Washington, detailed discussions could be engaged in. I should add at this point that I at once arranged for this with John McEwen in Australia and the talks are now in hand. Clearly there are some commodities, of which wheat is an obvious example, about which the Americans feel that arrangements on a world basis are essential.
+The reactions to this were very interesting and, I hope you will agree, valuable. The President took the opportunity of speaking very warmly about the importance of the Commonwealth and the necessity to build up its strength. You will see a reference to this in the communique which was issued and a copy of which, in case you have not seen it, I enclose.[2](#f2) It should be emphasised that Kennedy was not employing just a form of words. He has clearly given considerable thought to the nature and structure of the Commonwealth. He clearly attaches a genuine degree of importance to good relations between the United States and Australia. Ball, a man of obvious knowledge and intelligence but whom I had expected to find as my chief opponent, was disposed to be helpful. He said quite plainly that a phasing out of the existing Commonwealth trade arrangements by 1970 would be most unreasonable. At one stage the President took up my cliche about the ‘horns of dilemma’ and said—‘We must avoid any such result. Our practical business seems to be to find a way between the horns.’ I asked whether this meant that instead of dwelling on fixed ideas or contentious principles we, Australia, should discuss with the United States, commodity by commodity, ways and means of achieving some practical result which would help us all. This was promptly agreed to. I was told that if our chief official negotiator (Dr Westerman) went over to Washington, detailed discussions could be engaged in. I should add at this point that I at once arranged for this with John McEwen in Australia and the talks are now in hand. Clearly there are some commodities, of which wheat is an obvious example, about which the Americans feel that arrangements on a world basis are essential.
 
 Two other matters emerged which will be of interest to you.
 
@@ -39,3 +42,5 @@ I found my discussions in London both interesting and valuable. It is indeed a g
 1 Former Secretary of State in the Truman administration.
 
 2 Document 187.
+
+[UKNA: PREM 11/4017]

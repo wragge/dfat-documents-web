@@ -1,12 +1,17 @@
 ---
-title: "455 War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defence Co-ordination"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1686
+doc_date: '1941-05-14'
+doc_num: 455
+doc_order: 455
+naa_refs:
+- naa_barcode: 11337393
+  naa_control_symbol: 135/1941 PART 1
+  naa_series: A2671
+  reference: '[AA: A2671, 135/1941]'
+title: War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defence Co-ordination
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-14
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 455 War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defence Co-ordination
 
 Supplement 1 to Agendum 135/1941 14 May 1941
 
@@ -66,7 +71,7 @@ Submission to War Cabinet 11. The reports of the American-Dutch-British Conversa
 
 A. W. FADDEN
 
-_
+ _
 
 1 In AA: A2673, vol. 6, 22 March 1941.
 
@@ -88,4 +93,4 @@ The conversations reported in Annexes C, D and E were known as A.B.C.i, A.D.B. a
 
 _
 
-_ [AA: A2671, 135/1941]_
+ _[AA: A2671, 135/1941]_

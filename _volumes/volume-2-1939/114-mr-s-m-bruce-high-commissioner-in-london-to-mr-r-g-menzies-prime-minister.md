@@ -1,12 +1,17 @@
 ---
-title: "114 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 451
+doc_date: '1939-06-29'
+doc_num: 114
+doc_order: 114
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 8]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-06-29
+vol_title: 'Volume 2: 1939'
 ---
-
-# 114 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 262 LONDON, 29 June 1939
 
@@ -44,7 +49,7 @@ Please advise me of your views on the above points so that I can inform the Prim
 
 BRUCE
 
-_
+ _
 
 1 Neville Chamberlain.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 8]_
+ _[AA: CP 290/6, ITEM 8]_

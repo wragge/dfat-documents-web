@@ -1,12 +1,17 @@
 ---
-title: "162 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 928
+doc_date: '1940-04-19'
+doc_num: 162
+doc_order: 162
+naa_refs:
+- naa_barcode: 4212443
+  naa_control_symbol: 1940/9
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2361]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-19
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 162 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 19 April 1940,
 
@@ -20,7 +25,7 @@ persists in this policy it will become practically impossible to impose censorsh
 
 MENZIES
 
-_
+ _
 
 1 Bruce replied in an unnumbered cablegram dispatched on 20 April 1940 that the B.B.C. denied having made any reference during the present week to the arrival of the Queen Mary in Sydney. (See FA:
 
@@ -28,4 +33,4 @@ A3195, 1.2629.)
 
 _
 
-_ [FA: A3196, 0.2361]_
+ _[FA: A3196, 0.2361]_

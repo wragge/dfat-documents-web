@@ -1,12 +1,18 @@
 ---
-title: "170 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1924
+doc_date: '1941-12-07'
+doc_num: 170
+doc_order: 171
+naa_refs:
+- naa_barcode: 177621
+  naa_control_symbol: JAP 185 PART 3
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 18511, iii]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-07
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 170 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Circular cablegram M438 LONDON, 7 December 1941, 5.06 a.m.
 
@@ -34,7 +40,7 @@ The draft note thus brushes aside the Japanese explanation about north Indo-Chin
 
 This has the merit of being in accordance with immediate realities and the fact that the Philippines are also omitted (in accordance paragraph (3) my telegram M.433) should, we feel, make the absence of mention of the Burma Road less noticeable.
 
-_
+ _
 
 1 Dispatched 7 December. On file AA:A981, Japan 185B, iii. It reported the sighting of two Japanese convoys off Cambodia.
 
@@ -54,4 +60,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 18511, iii]_
+ _[AA: A981, JAPAN 18511, iii]_

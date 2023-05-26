@@ -1,14 +1,19 @@
 ---
-title: "120 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 886
+doc_date: '1940-03-30'
+doc_num: 120
+doc_order: 120
+naa_refs:
+- naa_barcode: 4212442
+  naa_control_symbol: 1940/8
+  naa_series: A3196
+  reference: '[FA: A3196, 0.1876]'
+title: Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-30
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 120 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 30 March 1940,
+Cablegram unnumbered 30 March 1940,
 
 I shall be glad if you will kindly convey the following message to the Secretary of State for Dominion Affairs [1]-begins.
 
@@ -24,7 +29,7 @@ These instances strengthen our feeling that we should have some direct represent
 
 Therefore the Commonwealth Government would be glad if facilities could be afforded for the appointment of an Australian Liaison Officer of high standing to the staff of the Ministry of Economic Warfare. [2]
 
-_
+ _
 
 1 Anthony Eden.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [FA: A3196, 0.1876]_
+ _[FA: A3196, 0.1876]_

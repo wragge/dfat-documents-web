@@ -1,14 +1,19 @@
 ---
-title: "40 Minute From Meere To O'sullivan"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7645
+doc_date: '1953-08-12'
+doc_num: 40
+doc_order: 40
+naa_refs:
+- naa_barcode: 260527
+  naa_control_symbol: '31'
+  naa_series: CP514/1
+  reference: '[AA : CP514/1/1, JAPAN C31]'
+title: Minute From Meere To O'sullivan
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-08-12
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 40 Minute From Meere To O'sullivan
-
-## 12th August, 1953
+12th August, 1953
 
 Japan's Application to Accede to GATT The Cabinet minute of the Interdepartmental Committee discusses at length the issues arising from Japan's application to accede to the GATT.
 
@@ -36,8 +41,8 @@ treatment to Japan can therefore be expected to have very serious repercussions 
 
 (3) Defer consideration of possible alternative methods of expanding trade between Australia and Japan until the GATT organisation has reached a majority agreement on conditions of accession. If the conditions remain unacceptable, consideration could then be given to the possibilities of concluding a bilateral arrangement with Japan outside the framework of GATT.
 
-_
+ _
 
 _
 
-_ [AA : CP514/1/1, JAPAN C31]_
+ _[AA : CP514/1/1, JAPAN C31]_

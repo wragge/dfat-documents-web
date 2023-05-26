@@ -1,12 +1,17 @@
 ---
-title: "97 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1328
+doc_date: '1940-09-03'
+doc_num: 97
+doc_order: 97
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/7
+  reference: '[AA: CP290/7, BUNDLE 2,6]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-03
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 97 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 761 LONDON, 3 September 1940, 9.23 p.m.
 
@@ -28,7 +33,7 @@ Notwithstanding this hope, I feel further stimulus desirable and suggest that yo
 
 BRUCE
 
-_
+ _
 
 1 U.K. Ambassador to Japan.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA: CP290/7, BUNDLE 2,6]_
+ _[AA: CP290/7, BUNDLE 2,6]_

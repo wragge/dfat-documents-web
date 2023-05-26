@@ -1,14 +1,19 @@
 ---
-title: "185 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 522
+doc_date: '1939-09-02'
+doc_num: 185
+doc_order: 185
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP290/6, ITEM 271]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-02
+vol_title: 'Volume 2: 1939'
 ---
 
-# 185 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 2 September 1939,
+Cablegram unnumbered 2 September 1939,
 
 CLEAR THE LINE
 
@@ -18,8 +23,8 @@ Can appreciate difficulties but very grateful if you would endeavour expedite as
 
 R.G. MENZIES
 
-_
+ _
 
 _
 
-_ [AA: CP290/6, ITEM 271_
+ _[AA: CP290/6, ITEM 271]_

@@ -1,12 +1,17 @@
 ---
-title: "248 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1014
+doc_date: '1940-05-15'
+doc_num: 248
+doc_order: 248
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3300]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 248 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 85 WASHINGTON, 15 May 1940, 11.50 p.m.
 
@@ -18,7 +23,7 @@ The United States Consul-General [3] reports as untrue Japanese allegations of a
 
 I understand the President will appear personally before Congress on 16th May and request large defence appropriations. [5]
 
-_
+ _
 
 1 U.S. Under-Secretary of State.
 
@@ -34,4 +39,4 @@ A3300, 13.
 
 _
 
-_ [FA: A3195, 1.3300]_
+ _[FA: A3195, 1.3300]_

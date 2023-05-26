@@ -1,12 +1,17 @@
 ---
-title: "356 Burton to Evatt"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5623
+doc_date: '1948-12-08'
+doc_num: 356
+doc_order: 356
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A9420
+  reference: '[AA:A9420, 7]'
+title: Burton to Evatt
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-12-08
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 356 Burton to Evatt
 
 Draft Cablegram E104 [1] CANBERRA, 8 December 1948
 
@@ -22,10 +27,10 @@ Troops are being increased in Batavia and there are no signs of any real intenti
 
 I think it would be most helpful if at this critical stage you could once again impress upon United Kingdom and U.S.A. the way Indonesian situation is drifting. Moreover, it is most irritating to find that Australia's vital interests in a rapidly changing South East Asia do not appear to be receiving the same active consideration which we ourselves at all times have given the particular problems which the United Kingdom Government faces in Europe. The Lapstone instruction which places good relations with the Dutch above good relations with four British Dominions who are unanimous amongst themselves and who are vitally concerned in the matter is hardly conducive to British Commonwealth co-operation.
 
-_
+ _
 
 1 Final versions of this and the following cablegram (E105 Document 357) have not been found but there is evidence to suggest they were dispatched on 8 December.
 
 _
 
-_ [AA:A9420, 7]_
+ _[AA:A9420, 7]_

@@ -1,12 +1,17 @@
 ---
-title: "255 Press Statement"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4439
+doc_date: '1947-08-07'
+doc_num: 255
+doc_order: 255
+naa_refs:
+- naa_barcode: 197480
+  naa_control_symbol: PI47/5/2/2
+  naa_series: A1068
+  reference: '[AA:A1068/1, P147/5/2/2]'
+title: Press Statement
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-08-07
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 255 Press Statement
 
 CANBERRA, 7 August 1947
 
@@ -24,8 +29,8 @@ If both parties consider it would help to terminate this interim period and to c
 
 This offer is made in the spirit in which the Australian Government raised the matter in the Security Council, that is in a spirit of impartiality and with one desire only, to see, as soon as possible, a peaceful settlement of the prolonged dispute in the Netherlands East Indies.
 
-_
+ _
 
 _
 
-_ [AA:A1068/1, P147/5/2/2]_
+ _[AA:A1068/1, P147/5/2/2]_

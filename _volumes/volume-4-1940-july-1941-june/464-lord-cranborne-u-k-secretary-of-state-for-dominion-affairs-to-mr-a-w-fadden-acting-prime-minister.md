@@ -1,13 +1,20 @@
 ---
-title: "464 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1695
+doc_date: '1941-05-22'
+doc_num: 464
+doc_order: 464
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA: A981, FAR EAST 26A]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden,
+  Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 464 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden, Acting Prime Minister
-
-Circular cablegram M93 LONDON, 22, May 1941, [2.55 a.m.] [1]
+Circular cablegram M93 LONDON, 22 May 1941, [2.55 a.m.] [1]
 
 MOST SECRET
 
@@ -45,7 +52,7 @@ VIII It seems clear that the statement should be made very shortly, so that it m
 
 IX If the Dominion Governments agree, it would be valuable if, when the statement is made, they would be prepared to give it some kind of public endorsement.
 
-_
+ _
 
 1 Inserted from the London copy on file AA: A2937, No. 1. The Pacific. 11th February up to Outbreak of War with Japan. The Canberra copy gave the time of dispatch as 4.40 p. m. on 22 May, but this appears to be incorrect, as the Prime Minister's Dept inward cablegram register (AA: A3642,2) confirms that it was received in Canberra on 22 May.
 
@@ -67,4 +74,4 @@ Michiels van Verduynen, doubted that the United States would join in a public de
 
 _
 
-_ [AA: A981, FAR EAST 26A]_
+ _[AA: A981, FAR EAST 26A]_

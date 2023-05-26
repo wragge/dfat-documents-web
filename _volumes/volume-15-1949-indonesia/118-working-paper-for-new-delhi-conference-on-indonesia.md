@@ -1,12 +1,18 @@
 ---
-title: "118 Working Paper for New Delhi Conference on Indonesia"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6287
+doc_date: '1949-01-20'
+doc_num: 118
+doc_order: 118
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Working Paper for New Delhi Conference on Indonesia
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-20
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 118 Working Paper for New Delhi Conference on Indonesia
 
 Working Paper NEW DELHI, 20 January 1949
 
@@ -58,7 +64,7 @@ It is necessary that the elections should be free and fair, and to ensure this t
 
 Finally, it is necessary (iii) to fix a date for the transfer of power to the United States of Indonesia. January 1, 1950, is suggested. Under the Linggadjati Agreement [5] the United States of Indonesia should have come into being on January 1, 1949, but the Dutch have announced that the present situation prevented fulfilment of this programme. It is understood that one proposal under informal discussion among members of the Security Council contemplates the transfer of power by April 1, 1950. A period of nine months from the formation of the Interim Government should, however, suffice, particularly as under (ii) above it is contemplated that elections should be completed in about six months' time. A similar period of nine months was contemplated in the Cochran Plan. [6] The Indonesians have recommended that the transfer of sovereignty should take place on September 1, 1949, and that by that date all Dutch troops should withdraw from the whole of Indonesia.
 
-_
+ _
 
 1 See notes 3 and 4 to Document 31.
 
@@ -74,4 +80,4 @@ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

@@ -1,12 +1,20 @@
 ---
-title: "159 Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9028
+doc_date: '1981-02-06'
+doc_num: 159
+doc_order: 159
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Ministry of Foreign Affairs to New Zealand High Commission in
+  Canberra
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-02-06
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 159 Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra
 
 Wellington, 6 February 1981
 
@@ -14,9 +22,9 @@ No 414. CONFIDENTIAL PRIORITY
 
 ## ANZ/CER
 
-CEC on 3 February discussed the Permanent Heads report and draft Heads of Agreement,1 together with the agreed side papers, and the other paper on agriculture. The covering paper noted that a further round of negotiations at Permanent Head level is likely to be necessary-probably around end of February/early March-and that ministerial authority and guidance would be sought in preparation for such a meeting. Officials have been instructed to prepare further papers on the outstanding issues, the contents of which will as far as possible take into account the outcome of Australian ministerial consideration of CER.
+CEC on 3 February discussed the Permanent Heads report and draft Heads of Agreement,[1](#f1) together with the agreed side papers, and the other paper on agriculture. The covering paper noted that a further round of negotiations at Permanent Head level is likely to be necessary-probably around end of February/early March-and that ministerial authority and guidance would be sought in preparation for such a meeting. Officials have been instructed to prepare further papers on the outstanding issues, the contents of which will as far as possible take into account the outcome of Australian ministerial consideration of CER.
 
-  2. Ministers were of the view that real progress will have to be made on all of the outstanding issues before a Prime Ministerial meeting could be productive. The large amount of work that they saw as needing to be done in tum generated apprehension on the timing question. Ministers emphasised that because CER questions have significance for many areas of the economy, it is very important that negotiations be out of the way well before election issues begin to attract attention here.2
+  2. Ministers were of the view that real progress will have to be made on all of the outstanding issues before a Prime Ministerial meeting could be productive. The large amount of work that they saw as needing to be done in tum generated apprehension on the timing question. Ministers emphasised that because CER questions have significance for many areas of the economy, it is very important that negotiations be out of the way well before election issues begin to attract attention here.[2](#f2)
   3. Among the many outstanding issues that the ministers judged to be of particular importance, were Government purchasing and the finance companies questions. On both of these, question arose as to whether the Australian side appreciated degree of importance that New Zealand attaches to their resolution, and therefore, the need for substantial discussions in advance of any further negotiating round.
 
 
@@ -29,7 +37,7 @@ CEC on 3 February discussed the Permanent Heads report and draft Heads of Agreem
 
 ### Financial Institutions
 
-  5. Se accompanying telegram).3
+  5. Se accompanying telegram).[3](#f3)
 
 
 
@@ -39,7 +47,7 @@ CEC on 3 February discussed the Permanent Heads report and draft Heads of Agreem
 
 
 
-### Category (C)4
+### Category (C)[4](#f4)
 
   7. Ministers are very concerned at the Australians wish to put several product areas of special interest to New Zealand in the deferred category. They certainly expect that trade possibilities for all products-including any in Category C-should be at least as good under CER as at present but would want to see solutions to the product concerns of special interest to New Zealand (whiteware etc) found through the establishment of formulae that bring the products into schedule A/B. The final content of Category C will weigh heavily in the New Zealand Government's assessment of the overall balance of advantage and thus the acceptability of the total package.
 
@@ -58,11 +66,9 @@ CEC on 3 February discussed the Permanent Heads report and draft Heads of Agreem
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 33 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 33 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Document 139.
   * 2 General elections would need to be held in the latter half of the year.
   * 3 Not published, but see Documents 157 and 158.
   * 4 Also known as Category 3.
-
-

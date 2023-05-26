@@ -1,19 +1,23 @@
 ---
-title: "253 Letter, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9761
+doc_date: '1969-01-28'
+doc_num: 253
+doc_order: 253
+naa_refs:
+- naa_barcode: 4027884
+  naa_control_symbol: 1968/5901
+  naa_series: A452
+  reference: '[NAA:A452, 1968/5901]'
+title: Letter, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-01-28
-barcode: 4027884
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 253 Letter, Warwick Smith To Hay
 
 Canberra, 28 January 1969
 
-I refer to your message 9492 of 29th November in which you reply to my message of 26th November suggesting that Official Members might visit Canberra during February for discussions with the Minister and Commonwealth Departments.1 I regret that I sent such a brief message about the proposal for a Seminar but I was concerned to ensure that my message arrived before the House of Assembly rose so that the date of the next meeting could be set, taking into account the possibility of visits of Official Members to Canberra during February. I now know that the next meeting of the House of Assembly will be on 3rd March.
+I refer to your message 9492 of 29th November in which you reply to my message of 26th November suggesting that Official Members might visit Canberra during February for discussions with the Minister and Commonwealth Departments.[1](#f1) I regret that I sent such a brief message about the proposal for a Seminar but I was concerned to ensure that my message arrived before the House of Assembly rose so that the date of the next meeting could be set, taking into account the possibility of visits of Official Members to Canberra during February. I now know that the next meeting of the House of Assembly will be on 3rd March.
 
-I attach a tentative draft of the kind of programme that was in mind.2 The purpose of the suggested Seminar is to provide material for Official Members to think about and to enlarge their knowledge of procedure and practices in both Houses of Parliament which may be applicable in Papua and New Guinea. It is also felt that Official Members as an arm of the Commonwealth Government should be fully briefed on the thinking in the Commonwealth Government and at the same time should have the opportunity of explaining to those responsible for policy in Canberra the difficulties that they face in the House of Assembly.
+I attach a tentative draft of the kind of programme that was in mind.[2](#f2) The purpose of the suggested Seminar is to provide material for Official Members to think about and to enlarge their knowledge of procedure and practices in both Houses of Parliament which may be applicable in Papua and New Guinea. It is also felt that Official Members as an arm of the Commonwealth Government should be fully briefed on the thinking in the Commonwealth Government and at the same time should have the opportunity of explaining to those responsible for policy in Canberra the difficulties that they face in the House of Assembly.
 
 The Minister has seen your message of 29th November. He takes the view that there is little point in arranging a Seminar with this sort of purpose if the people concerned were to take part in it in a resentful or unwilling frame of mind. He therefore will leave it to you whether all or any of the Official Members should come to Canberra during February for this purpose or whether other arrangements ought to be considered.
 
@@ -29,7 +33,7 @@ The Minister does not, however, regard it as any reflection on the Official Memb
 
 The explanation by Official Members should in the Minister’s opinion include the arguments which in the event of subsequent disallowance would be stated in the Australian Parliament and elsewhere as the reasons for disallowance. The constitutional check of disallowance or withholding of assent and the various alternative courses open to the Commonwealth after reservation should reduce to very rare occasions the necessity for Official Members to attempt to negotiate with Elected Members in the House of Assembly on important matters of policy.
 
-[ [NAA:A452, 1968/5901](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4027884) ]
+[NAA:A452, 1968/5901]
 
 1 See editorial note ‘Tensions in the House: the Chatterton and Lussick bills’.
 

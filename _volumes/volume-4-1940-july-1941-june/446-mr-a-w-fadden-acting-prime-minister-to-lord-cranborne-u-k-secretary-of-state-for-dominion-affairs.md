@@ -1,12 +1,18 @@
 ---
-title: "446 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1677
+doc_date: '1941-05-04'
+doc_num: 446
+doc_order: 446
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.5655]'
+title: Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of
+  State for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 446 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 269 4 May 1941,
 
@@ -20,7 +26,7 @@ A subtraction from the Pacific fleet of U.S.A. which leaves in the Pacific a for
 
 FADDEN
 
-_
+ _
 
 1 Document 442.
 
@@ -34,4 +40,4 @@ The N.Z. Prime Minister, Peter Fraser, who was on his way to the Middle East and
 
 _
 
-_ [AA: A3196, 1941, 0.5655]_
+ _[AA: A3196, 1941, 0.5655]_

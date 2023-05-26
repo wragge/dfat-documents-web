@@ -1,12 +1,17 @@
 ---
-title: "140 Department of External Affairs to Hodgson"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3652
+doc_date: '1946-03-24'
+doc_num: 140
+doc_order: 140
+naa_refs:
+- naa_barcode: 449810
+  naa_control_symbol: 854/10/2 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838 T189, 854/10/2]'
+title: Department of External Affairs to Hodgson
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1942-01-29
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 140 Department of External Affairs to Hodgson
 
 Cablegram UNY3 CANBERRA, 24 [March] 1946
 
@@ -74,7 +79,7 @@ Sixth, the Council should take into account, in fixing the times for the purpose
 
 16\. Australia has no preconceived ideas as to the just settlement of this dispute. It may be that the just settlement should be a decision that the Soviet troops should be withdrawn immediately and unconditionally from Iran. on the other hand, justice may require a settlement which is not limited to the question of breach of a particular treaty but deals as well with other aspects of the situation in Iran. Australia cannot commit itself finally to any view, nor should the Security Council pronounce any final judgment until the matter has been fully investigated.
 
-_
+ _
 
 1 Hodgson was instructed to deliver the statement as soon as possible after mention was made of placing the Iranian issue on the agenda at the 25 March Security Council meeting.
 
@@ -84,4 +89,4 @@ _
 
 _
 
-_ [AA:A1838 T189, 854/10/2]_
+ _[AA:A1838 T189, 854/10/2]_

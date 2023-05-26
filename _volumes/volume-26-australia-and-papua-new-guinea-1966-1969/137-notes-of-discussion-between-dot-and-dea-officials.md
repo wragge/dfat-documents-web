@@ -1,29 +1,33 @@
 ---
-title: "137 Notes Of Discussion Between Dot And Dea Officials"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9645
+doc_date: '1967-07-27'
+doc_num: 137
+doc_order: 137
+naa_refs:
+- naa_barcode: 3117301
+  naa_control_symbol: 1967/4460
+  naa_series: A452
+  reference: '[NAA: A452, 1967/4460]'
+title: Notes Of Discussion Between Dot And Dea Officials
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-07-27
-barcode: 3117301
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 137 Notes Of Discussion Between Dot And Dea Officials
 
 Canberra, 27 July 1967
 
 Secret
 
-_[matter omitted]_
+ _[matter omitted]_
 
 (e) _West Irian Refugees_
 
-Mr. Ballard raised the question of possible action against West Irian refugees in T.P.N.G. who were indulging in anti-Indonesian political activities. He pointed out that these refugees were also becoming quite heavily involved in local politics. In the following discussion it was recognised that it would not be legally possible to ban the Port Moresby branch of the Papua National Front, nor would it be politically desirable to deport its main activists to West lrian.2 Nevertheless, it was felt by all present that something had to be done to discourage this kind of activity.
+Mr. Ballard raised the question of possible action against West Irian refugees in T.P.N.G. who were indulging in anti-Indonesian political activities. He pointed out that these refugees were also becoming quite heavily involved in local politics. In the following discussion it was recognised that it would not be legally possible to ban the Port Moresby branch of the Papua National Front, nor would it be politically desirable to deport its main activists to West lrian.[2](#f2) Nevertheless, it was felt by all present that something had to be done to discourage this kind of activity.
 
 Action to be Taken
 
-It was agreed that the Department of Territories would study, with the assistance of expert legal advice, the possibility of dispersing the hard core of the Papuan National Front from Port Moresby to various outlying areas. This seemed to be the only realistic way of reducing their anti-Indonesian activities.3
+It was agreed that the Department of Territories would study, with the assistance of expert legal advice, the possibility of dispersing the hard core of the Papuan National Front from Port Moresby to various outlying areas. This seemed to be the only realistic way of reducing their anti-Indonesian activities.[3](#f3)
 
-[ [NAA: A452, 1967/4460](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3117301) ]
+[NAA: A452, 1967/4460]
 
 1 Territories was represented by Ballard, Legge, and A. L. Douglas (position unidentified), and DEA by Anderson, Starey, R.F. Osborn (Assistant Secretary, South East Asian Branch), and Mary McPherson (Economic and Social Section, UN Branch). Present also was G.W. Toogood, Assistant Secretary, International Relations and Internal Affairs, Department of the Administrator, PNG.
 

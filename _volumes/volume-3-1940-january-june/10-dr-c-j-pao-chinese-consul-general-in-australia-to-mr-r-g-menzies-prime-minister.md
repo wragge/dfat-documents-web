@@ -1,14 +1,20 @@
 ---
-title: "10 Dr C. J. Pao, Chinese Consul-General in Australia, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 776
+doc_date: '1940-01-09'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL: MS 1009, 61/6]'
+title: Dr C. J. Pao, Chinese Consul-General in Australia, to Mr R. G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-09
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 10 Dr C. J. Pao, Chinese Consul-General in Australia, to Mr R. G. Menzies, Prime Minister
-
-## Letter 9 January 1940,
+Letter 9 January 1940,
 
 I read with great interest of the appointment of Mr. Casey as the 
 
@@ -150,7 +156,7 @@ give every facility for such an undertaking.
 
 With my best regards and hoping to hear from you.
 
-_
+ _
 
 [ANL: MS 1009, 61/6] [1]
 
@@ -164,7 +170,7 @@ a word or two to Mr. Menzies in regard to that matter'.
 
 _
 
-_
+ _
 
 [C. J. PAO)
 

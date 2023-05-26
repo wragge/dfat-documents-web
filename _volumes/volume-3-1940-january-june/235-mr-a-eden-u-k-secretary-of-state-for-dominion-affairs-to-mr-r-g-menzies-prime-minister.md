@@ -1,14 +1,20 @@
 ---
-title: "235 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1001
+doc_date: '1940-05-13'
+doc_num: 235
+doc_order: 235
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3179]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-13
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 235 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram 144 LONDON, 13 May 1940, 12.45 a.m.
+Cablegram 144 LONDON, 13 May 1940, 12.45 a.m.
 
 IMMEDIATE
 
@@ -16,10 +22,10 @@ Following for the Prime Minister from Mr. Winston Churchill on accepting His Maj
 
 The peoples of the British Commonwealth once again united in arms against a cruel barbarism are resolved to wage this righteous war to the end.'
 
-_
+ _
 
 1 Document 229.
 
 _
 
-_ [FA: A3195, 1.3179]_
+ _[FA: A3195, 1.3179]_

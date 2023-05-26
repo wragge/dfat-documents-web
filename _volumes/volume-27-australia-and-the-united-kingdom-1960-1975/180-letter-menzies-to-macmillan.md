@@ -1,22 +1,25 @@
 ---
-title: "180 LETTER, MENZIES TO MACMILLAN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10045
+doc_date: '1962-04-18'
+doc_num: 180
+doc_order: 180
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 1113665]'
+title: LETTER, MENZIES TO MACMILLAN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-04-18
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 180 LETTER, MENZIES TO MACMILLAN
-
-UKNA: PREM 1113665
 
 Canberra, 18 April 1962
 
 Personal And Secret
 
-I am much overdue in my answers to your most interesting letter of February 8th [sic],1 and some aspects of your subsequent cabled messages.
+I am much overdue in my answers to your most interesting letter of February 8th [sic],[1](#f1) and some aspects of your subsequent cabled messages.
 
-Your offer to come to Australia for a hurried visit after you have been to Canada is extremely generous.2 But the ANZUS Meeting occurs here from May 7th to May 9th. Parliament resumes on May 1st for what l hope will be a period of not more than a fortnight. A visit by you would therefore occur under pressure of the time-table. This does not mean that it would not give us all great pleasure; but it does mean that it would, in relation to the great issues which we have under debate, impose a considerable travelling strain upon you without making possible adequate personal discussions.
+Your offer to come to Australia for a hurried visit after you have been to Canada is extremely generous.[2](#f2) But the ANZUS Meeting occurs here from May 7th to May 9th. Parliament resumes on May 1st for what l hope will be a period of not more than a fortnight. A visit by you would therefore occur under pressure of the time-table. This does not mean that it would not give us all great pleasure; but it does mean that it would, in relation to the great issues which we have under debate, impose a considerable travelling strain upon you without making possible adequate personal discussions.
 
 It is one thing for you to go to Canada, which appears to be considering the Common Market problem in the general rather than in the particular; you may well exercise some persuasive influence upon Diefenbaker to ‘get down to brass tacks’. It is quite another thing to have discussions with us, who have, right through, been prepared to pursue pragmatic lines of consultation, which involve much complicated detail.
 
@@ -30,15 +33,15 @@ We have accepted the date, which appears to suit most of our Commonwealth collea
 
 The first is that I fear that it will be too late to be effective in relation to the Common Market negotiations, and that the debates will tend to be both generalised and retrospective. The second, (which bears upon the first), is that I am completely sceptical about a meeting of fourteen Prime Ministers, few of whom have trade problems in common, achieving concerted views upon such complex matters.
 
-For example, Heath’s recent statement on the political implications of acceding to the Treaty of Rome goes far beyond what Duncan Sandys was putting to us in Canberra.3 It envisages a political integration the virtues of which I can clearly perceive, though its problems, deep in history, are yet to emerge. How this will affect the Commonwealth relationship is no doubt arguable. If the Prime Ministers begin to argue it, the economic problems will not be fully argued at all. A week is not a long time, at the rate of a few hours per day.
+For example, Heath’s recent statement on the political implications of acceding to the Treaty of Rome goes far beyond what Duncan Sandys was putting to us in Canberra.[3](#f3) It envisages a political integration the virtues of which I can clearly perceive, though its problems, deep in history, are yet to emerge. How this will affect the Commonwealth relationship is no doubt arguable. If the Prime Ministers begin to argue it, the economic problems will not be fully argued at all. A week is not a long time, at the rate of a few hours per day.
 
 In spite of all this, I think that a Prime Ministers’ Conference must occur. But from my own point of view I would attach much greater practical value to a week spent by me in London in which, without benefit of Ghana or Ceylon, but with all the benefit of old and tried comradeship, we could speak together as men do, having ‘tired the sun with talking, and sent him down the sky’.
 
 I turn now to your survey of February 8th, with its rich table of food for thought.
 
-I have no desire to rake over the ashes of our last meeting, which left me sad and depressed.4 But one comment should be made. I doubt whether our coloured colleagues would have pushed the matter so hard or so far if Diefenbaker had not given them such a lead. They would have realised that to divide the Commonwealth on colour lines would be fatal to the continuance of the ‘new Commonwealth’. But Canada relieved them of that fear, with the results we know.
+I have no desire to rake over the ashes of our last meeting, which left me sad and depressed.[4](#f4) But one comment should be made. I doubt whether our coloured colleagues would have pushed the matter so hard or so far if Diefenbaker had not given them such a lead. They would have realised that to divide the Commonwealth on colour lines would be fatal to the continuance of the ‘new Commonwealth’. But Canada relieved them of that fear, with the results we know.
 
-But I still doubt the viability of the new Commonwealth. For most of the new members, the cry of ‘anti–colonialism’ seem to be the _raison d’etre_ of nationalism. For, as we see so clearly out here, ‘anti–colonialism’ means ‘out with the white man’. Why do we take such pains to keep countries like Ghana in the Commonwealth? They appear to have less affinity with our own conception of freedom than they have with Moscow and Peking. They will cheerfully use the threat (and follow the practice) of going to Moscow in order to extort aid from other Commonwealth countries, particularly Great Britain. In any event, Ghana is a ruthless dictatorship, with no rule of law, with five years of arbitrary ‘preventive detention’ for political opponents, with not one shred of the historic British institutional sense. I have great hopes of Nigeria while Abubakar Balewa Iasts.5 Ceylon seems to be a mess of neo-Marxist pottage. Standards are falling. Church schools are confiscated. The judiciary, once so good, becomes the servant of political policy. There is racial and religious bitterness. There is feebleness at the top. But why go on? You are familiar with all these things.
+But I still doubt the viability of the new Commonwealth. For most of the new members, the cry of ‘anti–colonialism’ seem to be the _raison d’etre_ of nationalism. For, as we see so clearly out here, ‘anti–colonialism’ means ‘out with the white man’. Why do we take such pains to keep countries like Ghana in the Commonwealth? They appear to have less affinity with our own conception of freedom than they have with Moscow and Peking. They will cheerfully use the threat (and follow the practice) of going to Moscow in order to extort aid from other Commonwealth countries, particularly Great Britain. In any event, Ghana is a ruthless dictatorship, with no rule of law, with five years of arbitrary ‘preventive detention’ for political opponents, with not one shred of the historic British institutional sense. I have great hopes of Nigeria while Abubakar Balewa Iasts.[5](#f5) Ceylon seems to be a mess of neo-Marxist pottage. Standards are falling. Church schools are confiscated. The judiciary, once so good, becomes the servant of political policy. There is racial and religious bitterness. There is feebleness at the top. But why go on? You are familiar with all these things.
 
 I do not quarrel with your history, and in any case would not dare to do so. You are right when you say that our instrument of government is out of date—though I cannot think of a better one. Our sons may hope to modify it, but I hope they will not wish to destroy it. The Chartists wanted annual Parliaments, little knowing what futility they were seeking. The great art and self-sacrificing profession of Politics is sneered at by the Press, whose controllers are self-elected, and the confidence of whose views is in direct ratio to their ignorance. The business of Cabinet is to think and to perform. But what time do we have to think? Cabinet meetings are squeezed in, and are rarely intellectually exhaustive. In Australia, the distances from electorates are so enormous that some Ministers have to choose between doing their Cabinet duty and, as absentees, losing their seats.
 
@@ -67,3 +70,5 @@ My wife will be under close care and treatment for a few months; through sheer e
 4 Commonwealth Prime Ministers’ Conference, March 1961.
 
 5 Sir Abubakar Tafawa Balewa, first Prime Minister of an independent Nigeria. Assassinated in January 1966.
+
+[UKNA: PREM 1113665]

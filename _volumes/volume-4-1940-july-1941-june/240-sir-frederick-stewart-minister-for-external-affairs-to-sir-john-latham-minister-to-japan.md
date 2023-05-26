@@ -1,14 +1,20 @@
 ---
-title: "240 Sir Frederick Stewart, Minister for External Affairs, to Sir John Latham, Minister to Japan"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1471
+doc_date: '1940-12-30'
+doc_num: 240
+doc_order: 240
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3831, 1940, 465]'
+title: Sir Frederick Stewart, Minister for External Affairs, to Sir John Latham, Minister
+  to Japan
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-12-30
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 240 Sir Frederick Stewart, Minister for External Affairs, to Sir John Latham, Minister to Japan
-
-## Cablegram 16 30 December 1940,
+Cablegram 16 30 December 1940,
 
 Repeated to External Affairs Officer, London [1], No. 187.
 
@@ -18,7 +24,7 @@ It would appear from above that so far as shelling of Nauru is concerned, there 
 
 STEWART
 
-_
+ _
 
 1 A. T. Stirling.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA:A3831, 1940, 465]_
+ _[AA:A3831, 1940, 465]_

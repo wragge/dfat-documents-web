@@ -1,18 +1,21 @@
 ---
-title: "279 PRESS STATEMENT BY ANTHONY"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10144
+doc_date: '1971-06-04'
+doc_num: 279
+doc_order: 279
+naa_refs:
+- naa_barcode: 551423
+  naa_control_symbol: 727/4/2 PART 12
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 12]'
+title: PRESS STATEMENT BY ANTHONY
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 279 PRESS STATEMENT BY ANTHONY
-
-NAA: A1838, 727/4/2 PART 12 
 
 Brussels, 4 June 1971
 
-**EEC Discussions**
+ **EEC Discussions**
 
 Australia’s Deputy Prime Minister and Minister for Trade and Industry, Mr Anthony, said in Brussels today that some agricultural products could be excluded from the British market from the day that Britain joined the European Economic Community.
 
@@ -53,3 +56,5 @@ Mr Anthony said it was clear that these problems were not problems for Australia
 Mr Anthony said that in further discussions in Common Market capitals and in London he would continue to press the view that the present attitude of both Britain and the Six was quite unsatisfactory in its lack of recognition of the position of third countries and its lack of responsibility towards world agricultural trade.
 
 He said that he would be impressing on Britain and the EEC countries that they must work actively with others for a solution to the problems of world agricultural trade even if this meant that they had to accept disciplines comparable to those accepted by other agricultural trading countries
+
+[NAA: A1838, 727/4/2 PART 12]

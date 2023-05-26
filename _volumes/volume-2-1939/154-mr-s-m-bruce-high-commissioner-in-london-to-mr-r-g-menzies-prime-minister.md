@@ -1,12 +1,17 @@
 ---
-title: "154 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 491
+doc_date: '1939-08-26'
+doc_num: 154
+doc_order: 154
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-26
+vol_title: 'Volume 2: 1939'
 ---
-
-# 154 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 358 LONDON, 26 August 1939, 10.15 p.m.
 
@@ -20,7 +25,7 @@ I have strongly urged that a reply should be down the lines- [3] taking the prop
 
 BRUCE
 
-_
+ _
 
 1 See Document 153.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

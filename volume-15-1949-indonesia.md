@@ -1,5 +1,5 @@
 ---
-title: 'Volume 15: 1949, Indonesia'
+title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of Sovereignty, 1949'
 vol_id: 15
 permalink: /volumes/volume-15-1949-indonesia/
 layout: volume

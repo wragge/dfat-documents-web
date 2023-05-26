@@ -1,13 +1,19 @@
 ---
-title: "202 Submission to Whitlam"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8040
+doc_date: '1975-08-30'
+doc_num: 202
+doc_order: 201
+naa_refs:
+- naa_barcode: 4151650
+  naa_control_symbol: '14'
+  naa_series: A11443
+  reference: '[NAA: A11443, [14]'
+title: Submission to Whitlam
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-08-30
-barcode: 4151641
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 202 Submission to Whitlam
 
 Canberra, 30 August 1975
 
@@ -15,7 +21,7 @@ SECRET AUSTEO
 
 Portuguese Timor
 
-_[matter omitted]_ 1
+ _[matter omitted]_ [1](#f1)
 
 ## Australian Attitudes
 
@@ -63,8 +69,6 @@ _For_
 
 ALAN RENOUF
 
-_[ [NAA: A11443, [14]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4151641) ]_
+ _[NAA: A11443, [14]]_
 
-  * 1 Matter omitted outlines the agreement between Mochtar and Santos (see Document 200) including the proposal for a joint authority to include Australia. It comments that the Portuguese, while accepting that Indonesian intervention was 'almost inevitable'sought to salve their consciences through some third country acting as 'guarantor of the Indonesians' good behaviour after their intervention', and that country could only be Australia. It notes that the role and powers of the proposed joint authority remained obscure. Relationships between the authority, the Portuguese Governor and the Indonesian Commander were unclear, as were connections between the Indonesian­—Portuguese understanding and the talks Santos proposed with the parties in Timor. 
-
-
+  * 1 Matter omitted outlines the agreement between Mochtar and Santos (see Document 200) including the proposal for a joint authority to include Australia. It comments that the Portuguese, while accepting that Indonesian intervention was 'almost inevitable'sought to salve their consciences through some third country acting as 'guarantor of the Indonesians' good behaviour after their intervention', and that country could only be Australia. It notes that the role and powers of the proposed joint authority remained obscure. Relationships between the authority, the Portuguese Governor and the Indonesian Commander were unclear, as were connections between the Indonesian­—Portuguese understanding and the talks Santos proposed with the parties in Timor.

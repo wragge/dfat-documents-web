@@ -1,16 +1,21 @@
 ---
-title: "138 Chifley to Churchill"
-volume: "Volume 8: 1945"
-doc_id: 3169
+doc_date: '1945-07-20'
+doc_num: 138
+doc_order: 138
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 570]'
+title: Chifley to Churchill
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-07-20
+vol_title: 'Volume 8: 1945'
 ---
-
-# 138 Chifley to Churchill
 
 Cablegram 197 CANBERRA, 20 July 1945
 
-MOST IMMEDIATE TOP SECRET &amp; PERSONAL
+MOST IMMEDIATE TOP SECRET & PERSONAL
 
 Your No. 219. [1]
 
@@ -88,7 +93,7 @@ The right of the Commanders of the Australian Forces to communicate direct with 
 
 CHIFLEY
 
-_
+ _
 
 1 Document 126.
 
@@ -104,4 +109,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 570]_
+ _[AA : A5954, BOX 570]_

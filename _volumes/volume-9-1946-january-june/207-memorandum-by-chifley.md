@@ -1,13 +1,17 @@
 ---
-title: "207 Memorandum by Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3719
+doc_date: '1946-04-23'
+doc_num: 207
+doc_order: 207
+naa_refs:
+- naa_barcode: 694890
+  naa_control_symbol: '3'
+  naa_series: A6712
+  reference: '[AA:A6712,[3]'
+title: Memorandum by Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-23
-barcode: 694890
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 207 Memorandum by Chifley
 
 PMM(46) 6 LONDON, 23 April 1946
 
@@ -89,7 +93,7 @@ This memorandum was endorsed as the general basis of approach of the Australian 
 
 J. B. C.
 
-_
+ _
 
 1 Document 127.
 
@@ -97,4 +101,4 @@ _
 
 _
 
-_ [ [AA:A6712,[3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=694890) ]_
+ _[AA:A6712,[3]]_

@@ -1,12 +1,19 @@
 ---
-title: "358 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8196
+doc_date: '1975-12-04'
+doc_num: 358
+doc_order: 357
+naa_refs:
+- naa_barcode: 1598809
+  naa_control_symbol: 906/30/14/3 PART 1
+  naa_series: A1838
+  reference: '[NAA: Al838, 906/30114/3, i]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-12-04
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 358 Cablegram to Canberra
 
 Jakarta, 4 December 1975
 
@@ -28,7 +35,7 @@ Following is our translation of the text of the 'Statement of the Government of 
   8. It must also be recalled that since the armed violence by FRETILIN against the other groups of the people of Portuguese Timor, refugees from this territory which has begun to be in disorder and full of suffering have flooded into the Indonesian border regions, numbering tens of thousands of people. Humanitarian grounds have caused the Government and people of Indonesia to protect them, to give shelter to them, to give food and clothing to them, and to care for their health.
   9. It must also be noted that the Government and the 130 million people of Indonesia are very well capable of defending themselves against mortar attacks on the territory of the Republic of Indonesia, against raids on the territory of the Republic of Indonesia, against robbery in the territory of the Republic of Indonesia and other provocations which have been carried out by the FRETILIN, causing the loss of the lives and the possessions of the population. This situation, added to existence of thousands of refugees, has constituted an attack on national stability and threatens the security of Indonesia.
   10. The process of decolonisation in the territory, which from the beginning has developed in a fashion which is neither genuine, orderly nor peaceful, has reached its peak with what is called a 'Declaration of Independence' by FRETILIN. FRETILIN's unilateral act has made the 'Rome Memorandum' difficult to implement, whereas Portugal, which is responsible for the territory of and the situation in Portuguese Timor, has stated in the United Nations that its Government is not able to control the situation in Portuguese Timor.
-  11. Because of this, the Government of the Republic of Indonesia understand and consider genuine the statement which was then issued on 30 November 1975 by the other political parties in that territory-that is the parties of UDT, APODETI, KOTA and TRABALISTA—which jointly, in the name of the people of Portuguese Timor, frees them from the colonial power and unites them with the State of the Republic of Indonesia.1
+  11. Because of this, the Government of the Republic of Indonesia understand and consider genuine the statement which was then issued on 30 November 1975 by the other political parties in that territory-that is the parties of UDT, APODETI, KOTA and TRABALISTA—which jointly, in the name of the people of Portuguese Timor, frees them from the colonial power and unites them with the State of the Republic of Indonesia.[1](#f1)
   12. In connection with developments in the territory of Portuguese Timor, the Government of the Republic of Indonesia hereby states: 
     1. that it greatly regrets the unilateral action of FRETILIN which has declared the independence of Portuguese Timor without heeding the opinion of the other parties in the territory that also represent the voice of the people,
     2. that it respects the right of, sympathises with and fully understands the declaration of the UDT, APODETI, KOTA and TRABALISTA parties who in the name of the people of Portuguese Timor have declared that they have united with the State of the Republic of Indonesia,
@@ -38,13 +45,11 @@ Following is our translation of the text of the 'Statement of the Government of 
 
 
 
-Jakarta, 4 December 19752
+Jakarta, 4 December 1975[2](#f2)
 
 ### Ends
 
-_[NAA: Al838, 906/30114/3, i]_
+ _[NAA: Al838, 906/30114/3, i]_
 
   * 1 The joint statement proclaimed the 'integration of the whole territory of the ex-Portuguese colony of Timor with the Indonesian nation' and called on Indonesia to protect those 'who themselves now are considered part of the Indonesian people yet living under the terror and fascist practices of Fretilin allowed by the Government of Portugal'.
   * 2 On the same day the Embassy in Jakarta was instructed (Cablegram CH297104, 4 December) to obtain a reading of Indonesian attitudes to a number of questions without, on most issues, talking to the Indonesians. They were asked to gauge views on: a) the commitment of the Indonesians to the act or process of self-determination and the details of how this would be achieved; b) the difficulties for Australia in accepting de jure recognition of incorporation if the Portuguese continued to maintain a presence at Atauro; c) the advantages that the Indonesians may see in quickly incorporating Portuguese Timor legally, and the Australian preference for this to occur after an act of self-determination; d) the Indonesian view on continuing United Nations interest in Timor and a visiting mission; and e) whether the Indonesians expected aid from Australia.
-
-

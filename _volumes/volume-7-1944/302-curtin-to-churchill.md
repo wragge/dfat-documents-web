@@ -1,12 +1,17 @@
 ---
-title: "302 Curtin to Churchill"
-volume: "Volume 7: 1944"
-doc_id: 2949
+doc_date: '1944-09-26'
+doc_num: 302
+doc_order: 302
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 589]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-26
+vol_title: 'Volume 7: 1944'
 ---
-
-# 302 Curtin to Churchill
 
 Cablegram Johcu 86 CANBERRA, 26 September 1944
 
@@ -20,10 +25,10 @@ I am suitably advising the Services and other Departments concerned and agree to
 
 CURTIN
 
-_
+ _
 
 1 See Document 299.
 
 _
 
-_ [AA:A5954, BOX 589]_
+ _[AA:A5954, BOX 589]_

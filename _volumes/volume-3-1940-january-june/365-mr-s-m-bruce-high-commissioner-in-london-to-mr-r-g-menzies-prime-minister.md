@@ -1,12 +1,17 @@
 ---
-title: "365 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1131
+doc_date: '1940-06-12'
+doc_num: 365
+doc_order: 365
+naa_refs:
+- naa_barcode: 232326
+  naa_control_symbol: '191'
+  naa_series: A2937
+  reference: '[AA: A2937, NEI, ii]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-12
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 365 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 409 LONDON, 12 June 1940
 
@@ -18,7 +23,7 @@ Foreign Office also instructed Craigie [4] that if the flight attracted attentio
 
 BRUCE
 
-_
+ _
 
 1 Document 295.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA: A2937, NEI, ii]_
+ _[AA: A2937, NEI, ii]_

@@ -1,16 +1,21 @@
 ---
-title: "78 Chifley to Attlee"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3590
+doc_date: '1946-02-08'
+doc_num: 78
+doc_order: 78
+naa_refs:
+- naa_barcode: 216212
+  naa_control_symbol: V29
+  naa_series: A2908
+  reference: '[AA:AA1973/362, V29]'
+title: Chifley to Attlee
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-08
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 78 Chifley to Attlee
 
 Cablegram 68 CANBERRA, 8 February 1946, 10 p.m.
 
-IMMEDIATE TOP SECRET &amp; PERSONAL
+IMMEDIATE TOP SECRET & PERSONAL
 
 Reference your No. 42. [1]
 
@@ -20,7 +25,7 @@ Reference your No. 42. [1]
 
 3\. As particular subject you wish discuss is situation in Pacific, I would consider it necessary for Minister for External Affairs be present. Understand that United Kingdom Ministers other than the Prime Minister regularly attended Conference of Prime Ministers in 944. Chifley. [2]
 
-_
+ _
 
 1 Document 67.
 
@@ -30,4 +35,4 @@ At Chifley's suggestion the discussions took the form of a series of consultatio
 
 _
 
-_ [AA:AA1973/362, V29]_
+ _[AA:AA1973/362, V29]_

@@ -1,12 +1,17 @@
 ---
-title: "269 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1500
+doc_date: '1941-02-04'
+doc_num: 269
+doc_order: 269
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 185B, i]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 269 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram BA52 GAZA, 4 February 1941, 12.10 p.m.
 
@@ -28,7 +33,7 @@ A visit by an Australian Mission would no doubt make a contribution to better re
 
 MENZIES
 
-_
+ _
 
 1 On 28 January Sir John Latham, Minister to Japan, suggested that the visit of the Thai Goodwill Mission should be returned by a mission from Australia led by a 'person of culture and distinction'. See cablegram 57 on file AA:A981, Japan 174, ii.
 
@@ -50,4 +55,4 @@ conversations see Document 245.
 
 _
 
-_ [AA:A981, JAPAN 185B, i]_
+ _[AA:A981, JAPAN 185B, i]_

@@ -1,19 +1,27 @@
 ---
-title: "118 Letter from Bathgate to Scott and Members of the Interdepartmental Working Party"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8988
+doc_date: '1980-04-22'
+doc_num: 118
+doc_order: 118
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Letter from Bathgate to Scott and Members of the Interdepartmental Working
+  Party
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-04-22
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 118 Letter from Bathgate to Scott and Members of the Interdepartmental Working Party
-
-## Wellington, 22 April 1980
+Wellington, 22 April 1980
 
 ## Australia/New Zealand Economic Relations
 
   1. I attach copy of an exercise on the Intermediate Goods question which throws up some interesting (even unexpected) conclusions.
-  2. I think that it would be valuable to pass this over to the Australians at this stage.1 The immediate need is to verify the Department's interpretation of the effects of Australian tariff and by-law policies. However, the conclusions of the study seem helpful to our negotiating position and to the extent that the Australians can be brought to agree with the implications, might be useful in putting this matter into correct perspective before they adopt a position.
+  2. I think that it would be valuable to pass this over to the Australians at this stage.[1](#f1) The immediate need is to verify the Department's interpretation of the effects of Australian tariff and by-law policies. However, the conclusions of the study seem helpful to our negotiating position and to the extent that the Australians can be brought to agree with the implications, might be useful in putting this matter into correct perspective before they adopt a position.
 
 
 
@@ -65,8 +73,6 @@ Relations Exercise Quantifying Disparities in Relation to Intermediate Goods
 
 
 
-_[ABHS 950/Boxesl221-1226, 40/411 Part 27 Archives New Zealand!Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxesl221-1226, 40/411 Part 27 Archives New Zealand!Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 records do not indicate whether this suggestion was adopted..
-
-

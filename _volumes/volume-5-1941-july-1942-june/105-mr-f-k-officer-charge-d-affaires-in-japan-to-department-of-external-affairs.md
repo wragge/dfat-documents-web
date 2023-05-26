@@ -1,12 +1,17 @@
 ---
-title: "105 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1859
+doc_date: '1941-11-07'
+doc_num: 105
+doc_order: 106
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 185B, ii]'
+title: Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-07
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 105 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs
 
 Cablegram 495 [1] TOKYO, 7 November 1941, 8.50 p.m.
 
@@ -18,7 +23,7 @@ On the contrary they are in a desperate mood and will face war rather than sacri
 
 OFFICER
 
-_
+ _
 
 1 Repeated to the Legation in Washington as no. 54 and to the High Commission in London as no. 64.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 185B, ii]_
+ _[AA : A981, JAPAN 185B, ii]_

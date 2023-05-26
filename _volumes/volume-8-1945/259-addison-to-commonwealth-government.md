@@ -1,12 +1,17 @@
 ---
-title: "259 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3290
+doc_date: '1945-09-20'
+doc_num: 259
+doc_order: 259
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 540]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-20
+vol_title: 'Volume 8: 1945'
 ---
-
-# 259 Addison to Commonwealth Government
 
 Cablegram D1758 LONDON, 20 September 1945, 11.30 p.m.
 
@@ -32,10 +37,10 @@ constitution to be drawn up by or on behalf of the United Nations after consulta
 
 7\. Arrangements regarding the retention or change of residence or nationality and right of disposal or retention of property. Ends.
 
-_
+ _
 
 1 Document 255.
 
 _
 
-_ [AA : A5954, BOX 540]_
+ _[AA : A5954, BOX 540]_

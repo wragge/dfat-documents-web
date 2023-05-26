@@ -1,12 +1,19 @@
 ---
-title: "439 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8277
+doc_date: '1976-04-08'
+doc_num: 439
+doc_order: 438
+naa_refs:
+- naa_barcode: 4151387
+  naa_control_symbol: 202/1/1 ANNEX 3
+  naa_series: A10005
+  reference: '[NAA: A10005, TS202/111, ANNEX 3]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-04-08
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 439 Cablegram to Canberra
 
 Jakarta, 8 April 1976
 
@@ -14,7 +21,7 @@ O.JA5918 SECRET AUSTEO ROUTINE
 
 ## East Timor
 
-Tjan has told us that the PGET will invite members of the Security Council, the Committee of Twenty-Four, Winspeare and most probably Ambassadors in Jakarta from 'ASEAN plus' countries (at least) to observe the planned meeting in Dili (stage one of the procedure outlined in JA54151).
+Tjan has told us that the PGET will invite members of the Security Council, the Committee of Twenty-Four, Winspeare and most probably Ambassadors in Jakarta from 'ASEAN plus' countries (at least) to observe the planned meeting in Dili (stage one of the procedure outlined in JA5415[1](#f1)).
 
   2. The same group would also be invited to observe the debate in the Parliament in Jakarta and the Indonesian mission to East Timor to verify the wishes of the people (stages two and four of the procedure). These invitations would not be issued until the appropriate time.
   3. If the invitations were not accepted Tjan said, Indonesia would be able to say to its critics that an opportunity had been given to the international community to observe the act of self­-determination.
@@ -24,8 +31,6 @@ Tjan has told us that the PGET will invite members of the Security Council, the 
 
 
 
-_[NAA: A10005, TS202/111, ANNEX 3]_
+ _[NAA: A10005, TS202/111, ANNEX 3]_
 
   * 1 Document 432.
-
-

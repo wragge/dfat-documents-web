@@ -1,12 +1,17 @@
 ---
-title: "252 Commonwealth Government to Attlee"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2543
+doc_date: '1943-08-04'
+doc_num: 252
+doc_order: 252
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/55/1, i]'
+title: Commonwealth Government to Attlee
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-08-04
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 252 Commonwealth Government to Attlee
 
 Cablegram 199 CANBERRA, 4 August 1943
 
@@ -24,7 +29,7 @@ Your D.467. [1]
 
 5\. We would be glad to be kept in closest possible touch with all developments. [3]
 
-_
+ _
 
 1 Dispatched 29 July. On file AA:A989, 43/735/55/1, i. It advised that the U.K. Govt had decided not to begin an approach to the U.S. Govt on commercial policy by delivering the aide-memoire referred to in Document 241, but instead to suggest a broader approach covering all aspects of Article VII of the Lend-Lease Agreement. To this end it was proposed that a strong delegation of U.K. officials should go to the United States not later than the middle of September to take part in informal and exploratory talks on post-war commercial policy, monetary policy, international investment and the regulation of primary products. The primary object of the talks would be the drawing up of an orderly agenda for the discussion of Article VII.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/55/1, i]_
+ _[AA:A989, 43/735/55/1, i]_

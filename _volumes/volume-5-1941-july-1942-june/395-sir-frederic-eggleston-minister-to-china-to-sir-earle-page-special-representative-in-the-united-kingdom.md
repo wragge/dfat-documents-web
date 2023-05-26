@@ -1,14 +1,20 @@
 ---
-title: "395 Sir Frederic Eggleston, Minister to China, to Sir Earle Page, Special Representative in the United Kingdom"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2149
+doc_date: '1942-03-07'
+doc_num: 395
+doc_order: 396
+naa_refs:
+- naa_barcode: 237631
+  naa_control_symbol: 400/1942
+  naa_series: A4144
+  reference: '[AA:A4144, [400]'
+title: Sir Frederic Eggleston, Minister to China, to Sir Earle Page, Special Representative
+  in the United Kingdom
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-07
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 395 Sir Frederic Eggleston, Minister to China, to Sir Earle Page, Special Representative in the United Kingdom
-
-## Letter CHUNGKING, 7 March 1942
+Letter CHUNGKING, 7 March 1942
 
 One would gather from Churchill's speeches, and statements by Mr.
 
@@ -32,7 +38,7 @@ As to Australian representation: so far as I can see, Churchill is less generous
 
 F. W. EGGLESTON
 
-_
+ _
 
 1 Prime Minister.
 
@@ -118,4 +124,4 @@ STATEMENT 'B'
 
 _
 
-_ [AA:A4144, [400]]_
+ _[AA:A4144, [400]]_

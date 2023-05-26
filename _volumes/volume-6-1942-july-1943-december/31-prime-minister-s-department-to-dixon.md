@@ -1,12 +1,18 @@
 ---
-title: "31 Prime Minister's Department to Dixon"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2322
+doc_date: '1942-08-31'
+doc_num: 31
+doc_order: 31
+naa_refs:
+- naa_barcode: 853952
+  naa_control_symbol: '139'
+  naa_series: AWM123
+  reference: '[DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE
+    No. 3, 48/1942]'
+title: Prime Minister's Department to Dixon
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-31
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 31 Prime Minister's Department to Dixon
 
 Cablegram 132 CANBERRA, 31 August 1942
 
@@ -46,7 +52,7 @@ Yours very sincerely,
 
 JOHN CURTIN [6]
 
-_ 1 Soviet Foreign Minister.
+ _1 Soviet Foreign Minister.
 
 2 During the preceding ten months the Royal Australian Navy had lost three of its six cruisers (Sydney, Perth and Canberra) and a number of smaller vessels.
 
@@ -62,4 +68,4 @@ Dixon delivered Curtin's message to Sumner Welles on 31 August for transmission 
 
 _
 
-_ [DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_
+ _[DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_

@@ -1,12 +1,17 @@
 ---
-title: "77 Cabinet Submission by Sir Henry Gullett, Minister for External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 843
+doc_date: '1940-02-26'
+doc_num: 77
+doc_order: 77
+naa_refs:
+- naa_barcode: 178458
+  naa_control_symbol: LEAGUE PCIJ 21
+  naa_series: A981
+  reference: '[AA: A981, LEAGUE OF NATIONS PCIJ 21]'
+title: Cabinet Submission by Sir Henry Gullett, Minister for External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-26
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 77 Cabinet Submission by Sir Henry Gullett, Minister for External Affairs
 
 Agendum 294 26 February 1940
 
@@ -30,7 +35,7 @@ THE OPTIONAL CLAUSE OF THE STATUTE OF THE PERMANENT COURT OF INTERNATIONAL JUSTI
 
 H. S. GULLETT
 
-_
+ _
 
 1 Documents on Australian Foreign Policy 1937-49, vol. II, Document 206.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA: A981, LEAGUE OF NATIONS PCIJ 21]_
+ _[AA: A981, LEAGUE OF NATIONS PCIJ 21]_

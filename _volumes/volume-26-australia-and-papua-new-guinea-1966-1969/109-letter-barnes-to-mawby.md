@@ -1,18 +1,23 @@
 ---
-title: "109 Letter, Barnes To Mawby"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9617
+doc_date: '1967-05-19'
+doc_num: 109
+doc_order: 109
+naa_refs:
+- naa_barcode: 12042309
+  naa_control_symbol: 1967/3211
+  naa_series: A452
+  reference: '[NAA: A452, 1967/3211]'
+title: Letter, Barnes To Mawby
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-05-19
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 109 Letter, Barnes To Mawby
 
 Canberra, 19 May 1967
 
-I refer to your letter of 4th May, regarding the proposed agreement on mining copper on Bougainville lsland.1
+I refer to your letter of 4th May, regarding the proposed agreement on mining copper on Bougainville lsland.[1](#f1)
 
-In your letter and subsequent discussion with me you expressed concern about the placing of royalty payments outside the tax ceiling.2 I have given further thought to your representations but see no possibility of a change in the Government’s position on this question.
+In your letter and subsequent discussion with me you expressed concern about the placing of royalty payments outside the tax ceiling.[2](#f2) I have given further thought to your representations but see no possibility of a change in the Government’s position on this question.
 
 There are strong political reasons in the Territory context for dissociating royalty payments from tax payments. Apart from those reasons, however, I fail to see grounds for concern in view of the provision in the agreement for a guaranteed royalty rate of 1¼% fixed for 42 years. Moreover, the royalty rate is only one of several important existing provisions in the Territory law which are bound to be under the agreement in their application to the company. In all such commitments the assumption must be that future Territory governments will honour them. 
 
@@ -30,7 +35,7 @@ I understand that it is now your company’s wish to change the description of t
 
 I am hopeful that the matters yet outstanding in the draft agreement, including those referred to in this letter, can shortly be resolved so that the relevant legislation can be presented to the House of Assembly for early ratification.
 
-(NAA: A452, 1967/3211]
+[NAA: A452, 1967/3211]
 
 1 Document 107.
 

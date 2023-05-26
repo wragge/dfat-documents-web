@@ -1,12 +1,18 @@
 ---
-title: "442 Australian Delegation, U.N. Preparatory Commission, to Department of External Affairs"
-volume: "Volume 8: 1945"
-doc_id: 3473
+doc_date: '1945-12-09'
+doc_num: 442
+doc_order: 442
+naa_refs:
+- naa_barcode: 587482
+  naa_control_symbol: 852/9/1 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838 T189(sv), 852/9/1, i]'
+title: Australian Delegation, U.N. Preparatory Commission, to Department of External
+  Affairs
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-12-09
+vol_title: 'Volume 8: 1945'
 ---
-
-# 442 Australian Delegation, U.N. Preparatory Commission, to Department of External Affairs
 
 Cablegram 12287 LONDON, 9 December 1945, 8.12 p.m.
 
@@ -26,10 +32,10 @@ Rather we argued that the site should be sufficiently detached to see the world 
 
 Organisation also needed making of will and determination of peoples of the world and they looked for a new start and a new outlook. This choice fell on the United States. Positive advantages of the United States in communications amenities material resources were then indicated and argument of difficulty of access was answered by reference to modern air transport and fact that member states would probably maintain permanent representatives at headquarters. Argument which had been advanced by Spaak [1] of Belgium that headquarters should not be in territory of permanent member of security council was strongly contested and it was advanced that such an argument imputed that great powers would not act in accordance with their obligations under charter. Concluding we stated a vote for the United States would give conditions of freedom and security and an atmosphere in which organisation could achieve its objective.
 
-_
+ _
 
 1 Belgian Foreign Minister.
 
 _
 
-_ [AA : A1838 T189(sv), 852/9/1, i]_
+ _[AA : A1838 T189(sv), 852/9/1, i]_

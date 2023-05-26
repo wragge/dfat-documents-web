@@ -1,12 +1,17 @@
 ---
-title: "343 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1109
+doc_date: '1940-06-05'
+doc_num: 343
+doc_order: 343
+naa_refs:
+- naa_barcode: 177376
+  naa_control_symbol: ITA 60 PART 4
+  naa_series: A981
+  reference: '[AA: A981, ITALY 60B]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-05
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 343 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 387 (extract) LONDON, 5 June 1940, 8.48 p.m.
 
@@ -18,7 +23,7 @@ Reports from Spain indicate growing hostility against England and Hoare [4] tele
 
 BRUCE
 
-_
+ _
 
 1 U.K. Ambassador to Italy.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A981, ITALY 60B]_
+ _[AA: A981, ITALY 60B]_

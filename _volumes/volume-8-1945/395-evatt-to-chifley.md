@@ -1,12 +1,17 @@
 ---
-title: "395 Evatt to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3426
+doc_date: '1945-11-15'
+doc_num: 395
+doc_order: 395
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FSU: EVATT PAPERS, EVATT-OVERSEAS TRIPS-1945-CABLES-WASHINGTON]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-11-15
+vol_title: 'Volume 8: 1945'
 ---
-
-# 395 Evatt to Chifley
 
 Cablegram E32 WASHINGTON, 15 November 1945, 7.51 p.m.
 
@@ -16,7 +21,7 @@ You will have seen communique regarding atomic energy. [1] It follows pretty clo
 
 From a practical point of view I think it would be advisable to get Oliphant [3] to Australia as soon as possible so that the latest information of a technical character will be available to the Government and especially Dedman and C.S.I.R.
 
-_
+ _
 
 1 Document 393.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [FSU: EVATT PAPERS, EVATT-OVERSEAS TRIPS-1945-CABLES-WASHINGTON]_
+ _[FSU: EVATT PAPERS, EVATT-OVERSEAS TRIPS-1945-CABLES-WASHINGTON]_

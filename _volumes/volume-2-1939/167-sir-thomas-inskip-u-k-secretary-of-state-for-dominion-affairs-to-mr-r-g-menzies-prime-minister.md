@@ -1,12 +1,18 @@
 ---
-title: "167 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 504
+doc_date: '1939-08-30'
+doc_num: 167
+doc_order: 167
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G.
+  Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-30
+vol_title: 'Volume 2: 1939'
 ---
-
-# 167 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram B298 LONDON, 30 August 1939, 2.25 a.m.
 
@@ -34,7 +40,7 @@ Following for Prime Minister.
 
 7\. Note concludes with statement that the German Government will immediately elaborate the proposals for an acceptable solution and inform the British Government if possible before the arrival of the Polish plenipotentiary.
 
-_
+ _
 
 1 Document 163.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

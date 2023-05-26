@@ -1,14 +1,19 @@
 ---
-title: "250 Evatt to Arnold"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2541
+doc_date: '1943-07-25'
+doc_num: 250
+doc_order: 250
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400.3295 AUSTRALIA]'
+title: Evatt to Arnold
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-07-25
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 250 Evatt to Arnold
-
-## Letter SAN FRANCISCO, 25 July 1943
+Letter SAN FRANCISCO, 25 July 1943
 
 I have received your unofficial and confidential letter dated July 22nd [1] on the eve of my departure from this country.
 
@@ -30,7 +35,7 @@ I greatly regret having missed you, and would suggest that you might see Hopkins
 
 H. V. EVATT
 
-_ 1 Document 249 2 Probably Lt Gen Joseph T. McNarney, Deputy Chief of Staff, U.S.
+ _1 Document 249 2 Probably Lt Gen Joseph T. McNarney, Deputy Chief of Staff, U.S.
 
 Army, who had deputised for Arnold at the Washington Conferences in May.
 
@@ -44,4 +49,4 @@ Army, who had deputised for Arnold at the Washington Conferences in May.
 
 _
 
-_ [FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400.3295 AUSTRALIA]_
+ _[FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400.3295 AUSTRALIA]_

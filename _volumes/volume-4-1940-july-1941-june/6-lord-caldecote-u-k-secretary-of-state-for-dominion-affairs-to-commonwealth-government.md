@@ -1,12 +1,18 @@
 ---
-title: "6 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1237
+doc_date: '1940-07-03'
+doc_num: 6
+doc_order: 6
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1940, 1.5013]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-03
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 6 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 239 LONDON, 3 July 1940, 11.50 a.m.
 
@@ -70,13 +76,13 @@ the circumstances it was thought to be better not to make an
 
 approach to Turkey of the kind suggested in your telegram.
 
-_
+ _
 
 1 Sir Hughe Knatchbull-Hugessen.
 
 _
 
-_
+ _
 
 [AA: A3195, 1940, 1.5013]
 

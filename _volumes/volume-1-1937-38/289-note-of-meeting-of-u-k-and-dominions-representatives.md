@@ -1,12 +1,17 @@
 ---
-title: "289 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 288
+doc_date: '1938-09-28'
+doc_num: 289
+doc_order: 288
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-28
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 289 Note of Meeting of U.K. and Dominions Representatives
 
 LONDON, 28 September 1938, 11.50 a.m.
 
@@ -40,7 +45,7 @@ MR BRUCE inquired whether anything could be done in Parliament to prevent bellic
 
 MR MASSEY thought that whilst it might be undesirable to apply a closure by the use of the Government's majority, it should be possible to secure the same result by means of an appeal to Members not to prejudice current negotiations.
 
-_
+ _
 
 1 U.K. Prime Minister.
 
@@ -68,4 +73,4 @@ _
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

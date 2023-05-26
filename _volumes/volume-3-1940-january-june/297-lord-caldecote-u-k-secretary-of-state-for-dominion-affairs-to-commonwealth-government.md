@@ -1,12 +1,18 @@
 ---
-title: "297 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1063
+doc_date: '1940-05-28'
+doc_num: 297
+doc_order: 297
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3628]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-28
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 297 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 170 LONDON, 28 May 1940, 2.31 a.m.
 
@@ -28,7 +34,7 @@ Further discussions took place on 14th May and 23rd May at the Ministry of Econo
 
 3\. The list is being examined from the standpoints of economic warfare and supply and a further telegram will be sent to you in the light of this examination with suggestions for the consideration of the Governments concerned. Meantime, the Japanese Embassy are referring back to Tokyo on certain points but are anxious to have another meeting with us as soon as possible.
 
-_
+ _
 
 1 See Document 180, note 5.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3628]_
+ _[FA: A3195, 1.3628]_

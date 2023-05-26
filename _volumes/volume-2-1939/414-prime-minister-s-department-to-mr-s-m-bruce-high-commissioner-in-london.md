@@ -1,12 +1,17 @@
 ---
-title: "414 Prime Minister's Department to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 751
+doc_date: '1939-12-11'
+doc_num: 414
+doc_order: 414
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 31]'
+title: Prime Minister's Department to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-12-11
+vol_title: 'Volume 2: 1939'
 ---
-
-# 414 Prime Minister's Department to Mr S.M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 11 December 1939,
 
@@ -20,7 +25,7 @@ Following views of Commonwealth Government are transmitted for McDougall's guida
 
 (b) If Council and Permanent Court Elections come before Assembly, support of Commonwealth Government for candidature South Africa for Council and Hurst, Ahmed, Basdevant [3] for Court should be indicated. Support for other candidates Council or Court should be determined at McDougall's discretion after consultation with representatives of members of British Commonwealth with view maintenance common front.
 
-_
+ _
 
 1 Joseph L.A. Avenol.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 31]_
+ _[AA: CP 290/6, ITEM 31]_

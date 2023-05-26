@@ -1,12 +1,17 @@
 ---
-title: "129 Bruce to Forde"
-volume: "Volume 8: 1945"
-doc_id: 3160
+doc_date: '1945-07-06'
+doc_num: 129
+doc_order: 129
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2313]'
+title: Bruce to Forde
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-07-06
+vol_title: 'Volume 8: 1945'
 ---
-
-# 129 Bruce to Forde
 
 Cablegram 110, LONDON, 6 July 1945, 6.35 p.m.
 
@@ -32,10 +37,10 @@ In view of the Big Three meeting it would be most helpful if you could reply not
 
 BRUCE
 
-_
+ _
 
 1 Document 126.
 
 _
 
-_ [AA : A5954, BOX 2313]_
+ _[AA : A5954, BOX 2313]_

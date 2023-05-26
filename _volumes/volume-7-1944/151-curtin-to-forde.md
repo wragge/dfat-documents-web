@@ -1,16 +1,21 @@
 ---
-title: "151 Curtin to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2798
+doc_date: '1944-05-16'
+doc_num: 151
+doc_order: 151
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1153]'
+title: Curtin to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-16
+vol_title: 'Volume 7: 1944'
 ---
-
-# 151 Curtin to Forde
 
 Cablegram 23 LONDON, 16 May 1944, 9.51 p.m.
 
-MOST SECRET &amp; PERSONAL MOST IMMEDIATE
+MOST SECRET & PERSONAL MOST IMMEDIATE
 
 Addressed to the Acting Prime Minister, Mr. Forde.
 
@@ -38,10 +43,10 @@ MacKenzie King's view that means of co-operation have worked with complete succe
 
 CURTIN
 
-_
+ _
 
 1 Document 152.
 
 _
 
-_ [AA:A5954, BOX 1153]_
+ _[AA:A5954, BOX 1153]_

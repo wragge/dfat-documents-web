@@ -1,14 +1,19 @@
 ---
-title: "104 Legation in Washington to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3616
+doc_date: '1946-02-21'
+doc_num: 104
+doc_order: 104
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.4766]'
+title: Legation in Washington to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-21
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 104 Legation in Washington to Department of External Affairs
-
-## Cablegram 199 WASHINGTON, 21 February 1946, 10.14 p.m.
+Cablegram 199 WASHINGTON, 21 February 1946, 10.14 p.m.
 
 UNRRA Council.
 
@@ -24,7 +29,7 @@ UNRRA Council.
 
 [4]
 
-_
+ _
 
 1 i.e. the transition between the relief and rehabilitation work of UNRRA and the reconstruction work of other U.N. agencies. It was planned that UNRRA's work would be completed in Europe by 31 December and in the Far East by March 1947.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.4766]_
+ _[AA:A3195, 1946, 1.4766]_

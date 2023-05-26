@@ -1,12 +1,17 @@
 ---
-title: "12 Evatt to Eggleston, Officer, Maloney, Bruce 12"
-volume: "Volume 8: 1945"
-doc_id: 3043
+doc_date: '1945-01-17'
+doc_num: 12
+doc_order: 12
+naa_refs:
+- naa_barcode: 4203181
+  naa_control_symbol: 1945/2
+  naa_series: A3196
+  reference: '[AA:A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.1406/7/8/9/1431/2/3/4]'
+title: Evatt to Eggleston, Officer, Maloney, Bruce 12
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-01-17
+vol_title: 'Volume 8: 1945'
 ---
-
-# 12 Evatt to Eggleston, Officer, Maloney, Bruce 12
 
 Cablegrams 85, 13, 9, 11 CANBERRA, 17 January 1945
 
@@ -28,7 +33,7 @@ By the acceptance of these suggestions a special responsibility would be placed 
 
 5\. Please let me know your reaction to the Canadian approach, having regard to the importance of obtaining for Australia, or for Australia and New Zealand, a seat on the Security Council without prejudicing just claims of others. Therefore, while taking the utmost care to leave the way fully open for close co-operation with Canada, I think we should watch the present Canadian move with the utmost care, particularly as it is doubtful whether the amendments proposed by Canada in regard to the special security agreements to be negotiated under Chapter VIII Section B would be suitable to the circumstances of countries like Australia and New Zealand. [3]
 
-_ 0.1406/7/8/9/1431/2/3/4]
+ _
 
 1 T. C. Davis.
 
@@ -38,4 +43,4 @@ _ 0.1406/7/8/9/1431/2/3/4]
 
 _
 
-_ [AA:A3196, 1945, FOLDER, OUTWARDS MOST SECRET,_
+ _[AA:A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.1406/7/8/9/1431/2/3/4]_

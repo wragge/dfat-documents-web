@@ -1,12 +1,17 @@
 ---
-title: "292 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 291
+doc_date: '1938-09-29'
+doc_num: 292
+doc_order: 291
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-29
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 292 Note of Meeting of U.K. and Dominions Representatives
 
 LONDON, 29 September 1938, 6.50 p.m.
 
@@ -36,7 +41,7 @@ MR BRUCE said that the meeting might be interested to know that he had received 
 
 MR JORDAN said that his Prime Minister [6] had sent a telegram expressing his thanks for the full information which he had received.
 
-_
+ _
 
 1 Not printed.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

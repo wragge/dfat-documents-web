@@ -1,12 +1,18 @@
 ---
-title: "301 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2055
+doc_date: '1942-01-25'
+doc_num: 301
+doc_order: 302
+naa_refs:
+- naa_barcode: 232254
+  naa_control_symbol: '1'
+  naa_series: A2937
+  reference: '[AA:A2937, A.B.D.A. STRATEGIC AREA, 1941-1942]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-25
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 301 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 16A LONDON, 25 January 1942, 9.30 p.m.
 
@@ -38,7 +44,7 @@ Imperative question should be settled immediately. Present proposals have been a
 
 BRUCE
 
-_
+ _
 
 1 See editorial note before Document 294.
 
@@ -56,4 +62,4 @@ _
 
 _
 
-_ [AA:A2937, A.B.D.A. STRATEGIC AREA, 1941-1942]_
+ _[AA:A2937, A.B.D.A. STRATEGIC AREA, 1941-1942]_

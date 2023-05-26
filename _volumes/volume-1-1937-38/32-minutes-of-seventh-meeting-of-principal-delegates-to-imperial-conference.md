@@ -1,12 +1,17 @@
 ---
-title: "32 Minutes of Seventh Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 32
+doc_date: '1937-05-26'
+doc_num: 32
+doc_order: 32
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Minutes of Seventh Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-05-26
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 32 Minutes of Seventh Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 7 (extract) LONDON, 26 May 1937
 
@@ -112,7 +117,7 @@ With regard to naval construction in Australia, his Government had received much
 
 He would say no more for the present. Sir Samuel Hoare's statement had been most impressive and it was impossible to discuss it without deep consideration.
 
-_
+ _
 
 1 Sir Thomas Inskip.
 
@@ -122,4 +127,4 @@ _
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

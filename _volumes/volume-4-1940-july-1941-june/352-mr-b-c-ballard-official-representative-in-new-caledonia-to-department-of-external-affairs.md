@@ -1,14 +1,20 @@
 ---
-title: "352 Mr B. C. Ballard, Official Representative in New Caledonia, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1583
+doc_date: '1941-03-13'
+doc_num: 352
+doc_order: 352
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3830, 1941, 655]'
+title: Mr B. C. Ballard, Official Representative in New Caledonia, to Department of
+  External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-13
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 352 Mr B. C. Ballard, Official Representative in New Caledonia, to Department of External Affairs
-
-## Cablegram 192 NOUMEA, 13 March 1941, 3.30 p.m.
+Cablegram 192 NOUMEA, 13 March 1941, 3.30 p.m.
 
 My telegram No. 189. [1] Political side of this question will not have escaped your notice. Whatever the origin of the present mission, all that the Governor [2] knows is de Gaulle's [3] statement in your telegram No. 152 [4] that the mission was being sent, as training and equipment of expeditionary force were to be undertaken in collaboration with Australia.
 
@@ -28,7 +34,7 @@ I am concerned solely to point out the existence of this political aspect as a f
 
 BALLARD
 
-_
+ _
 
 1 Dispatched 13 March. It transmitted a message from Lt Col R. E.
 
@@ -44,4 +50,4 @@ Fanning, a member of the Australian Military Mission then visiting New Caledonia
 
 _
 
-_ [AA:A3830, 1941, 655]_
+ _[AA:A3830, 1941, 655]_

@@ -1,26 +1,29 @@
 ---
-title: "169 MESSAGE, HEATH TO MACMILLAN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10034
+doc_date: '1962-03-19'
+doc_num: 169
+doc_order: 169
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 159/57]'
+title: MESSAGE, HEATH TO MACMILLAN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-03-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 169 MESSAGE, HEATH TO MACMILLAN
-
-UKNA: DO 159/57
 
 London, 19 March 1962
 
 Secret
 
-****
+ ****
 
 Mr McEwen’s Visit
 
 [...]
 
-3\. The Australian request for participation first appeared in the communique following a discussion between the Commonwealth Secretary and members of the Australian Government in Canberra last year.1 Since then we have gone along with this in Brussels emphasising only that the timing of any approach to the Six must be carefully chosen.
+3\. The Australian request for participation first appeared in the communique following a discussion between the Commonwealth Secretary and members of the Australian Government in Canberra last year.[1](#f1) Since then we have gone along with this in Brussels emphasising only that the timing of any approach to the Six must be carefully chosen.
 
 4\. It has, however, become abundantly clear in the course of the negotiations that any acceptance by the Six of Australian participation will be fraught with danger for the negotiations as a whole and for ourselves in particular, for the following reasons:–
 
@@ -41,3 +44,5 @@ Mr McEwen’s Visit
 6\. I am sending a copy of this minute to the Home Secretary and the Commonwealth Secretary.
 
 1 Document 150.
+
+[UKNA: DO 159/57]

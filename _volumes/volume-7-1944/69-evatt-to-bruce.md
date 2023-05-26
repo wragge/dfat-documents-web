@@ -1,12 +1,17 @@
 ---
-title: "69 Evatt to Bruce"
-volume: "Volume 7: 1944"
-doc_id: 2716
+doc_date: '1944-03-09'
+doc_num: 69
+doc_order: 69
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 654]'
+title: Evatt to Bruce
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-09
+vol_title: 'Volume 7: 1944'
 ---
-
-# 69 Evatt to Bruce
 
 Cablegram 32 CANBERRA, 9 March 1944
 
@@ -20,7 +25,7 @@ But the message from de Valera [2] is not addressed to this Government and the H
 
 In the circumstances, it might be best for you to give no answer unless strongly pressed, and then to give no answer in writing.
 
-_
+ _
 
 1 Document 60.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 654]_
+ _[AA:A5954, BOX 654]_

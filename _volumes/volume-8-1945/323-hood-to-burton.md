@@ -1,12 +1,17 @@
 ---
-title: "323 Hood to Burton"
-volume: "Volume 8: 1945"
-doc_id: 3354
+doc_date: '1945-10-17'
+doc_num: 323
+doc_order: 323
+naa_refs:
+- naa_barcode: 140132
+  naa_control_symbol: 402/8/1/1/1 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838/2, 402/8/1/1, i]'
+title: Hood to Burton
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-17
+vol_title: 'Volume 8: 1945'
 ---
-
-# 323 Hood to Burton
 
 Cablegram 325 LONDON, 17 October 1945, 9.20 p.m.
 
@@ -16,7 +21,7 @@ I made a formal call on the Netherlands Ambassador this morning and had some dis
 
 It is clear that the Dutch have been persuaded to go as far as they have done only with great difficulty and neither the Minister nor I think that it would be of any use to put the suggestions contained in your 329 [2] at the present moment, although the opportunity might come for further persuasion on the Dutch later, when conditions have been restored in which the question can be looked at as a whole. The real danger at the moment is that Dutch obstinacy in refusing to talk with Soekarno may force a situation leading to civil war which will require very considerable military effort to settle.
 
-_
+ _
 
 1 See Document 322.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA : A1838/2, 402/8/1/1, i]_
+ _[AA : A1838/2, 402/8/1/1, i]_

@@ -1,12 +1,18 @@
 ---
-title: "292 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1523
+doc_date: '1941-02-12'
+doc_num: 292
+doc_order: 292
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 26A]'
+title: Mr A. S. Watt, First Secretary of the Legation in Washington, to Department
+  of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 292 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs
 
 Cablegram 114 WASHINGTON, 12 February 1941, 6.25 p.m.
 
@@ -38,7 +44,7 @@ Moreover, even if the United States were to be involved in war with Japan he fel
 
 (c) Interview with new Japanese Ambassador [6] during which the President could 'speak very seriously to him, saying he hoped that rumours of further Japanese action were not true since it would be a pity if the Ambassador had to leave Washington almost at once.' (d) United States might take up with Japan the question of Spratley Island and inquire 'why the Japanese were apparently settling down there for good.' (9) Halifax said cumulative effect of several small things might be great and in conclusion emphasised the urgency of very early American action. [7]
 
-_
+ _
 
 1 Dispatched 12 February. On file AA:A1608, A41/1/6, iv.
 
@@ -56,4 +62,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 26A]_
+ _[AA:A981, FAR EAST 26A]_

@@ -1,12 +1,17 @@
 ---
-title: "394 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1625
+doc_date: '1941-04-08'
+doc_num: 394
+doc_order: 394
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.5275 [4]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 394 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram M47 LONDON, 8 April 1941, 8.30 p.m.
 
@@ -28,7 +33,7 @@ I hope to see Eden [3] on his return this week and can then get a first hand pic
 
 MENZIES
 
-_
+ _
 
 1 U.K. Commander-in-Chief in the Middle East.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA: A3195, 1941, 1.5275 [4]]_
+ _[AA: A3195, 1941, 1.5275 [4]]_

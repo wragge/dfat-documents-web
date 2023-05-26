@@ -1,12 +1,17 @@
 ---
-title: "1 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2648
+doc_date: '1944-01-02'
+doc_num: 1
+doc_order: 1
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43-44/970/54]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-02
+vol_title: 'Volume 7: 1944'
 ---
-
-# 1 Commonwealth Government to Cranborne
 
 Cablegram 2 CANBERRA, 2 January 1944
 
@@ -52,9 +57,9 @@ clear to the United States Government.
 
 take part in these.
 
-_
+ _
 
-1 Dispatched 29 and 28 December respectively. On file AA:A989, 
+1 Dispatched 29 and 28 December respectively. On file AA:A989,
 
 E43-44/970/54. These cablegrams advised of U.K. proposals to the 
 
@@ -74,7 +79,7 @@ Documents 233-4.
 
 _
 
-_
+ _
 
 [AA:A989, 43-44/970/54]
 

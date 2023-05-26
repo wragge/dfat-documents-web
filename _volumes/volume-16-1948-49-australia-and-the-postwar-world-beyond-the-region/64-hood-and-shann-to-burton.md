@@ -1,12 +1,17 @@
 ---
-title: "64 Hood and Shann to Burton"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6779
+doc_date: '1948-11-25'
+doc_num: 64
+doc_order: 64
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1948, I.18750]'
+title: Hood and Shann to Burton
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-11-25
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 64 Hood and Shann to Burton
 
 Cablegram Austdel 273, PARIS, 25 November 1948, 11.10 a.m.
 
@@ -28,7 +33,7 @@ The general trend in the Committee is undoubtedly along the lines of our resolut
 
 In any case the statement of our position had been awaited with strong interest and remarks from both delegations and press afterwards indicated that it fitted in well with the general Australian line through this Assembly.
 
-_ [1] Cablegram 261 (part 2), dispatched 22 November 1948, conveyed the draft resolution summarised in the editorial note above.
+ _[1] Cablegram 261 (part 2), dispatched 22 November 1948, conveyed the draft resolution summarised in the editorial note above.
 
 [2] The amendments are summarised in the editorial note above.
 
@@ -38,4 +43,4 @@ _ [1] Cablegram 261 (part 2), dispatched 22 November 1948, conveyed the draft re
 
 _
 
-_ [AA : A3195, 1948, I.18750]_
+ _[AA : A3195, 1948, I.18750]_

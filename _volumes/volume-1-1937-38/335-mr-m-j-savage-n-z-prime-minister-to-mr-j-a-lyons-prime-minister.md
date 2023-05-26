@@ -1,12 +1,17 @@
 ---
-title: "335 Mr M. J. Savage, N.Z. Prime Minister, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 334
+doc_date: '1938-12-22'
+doc_num: 335
+doc_order: 334
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA : A981, PACIFIC i]'
+title: Mr M. J. Savage, N.Z. Prime Minister, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-12-22
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 335 Mr M. J. Savage, N.Z. Prime Minister, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered WELLINGTON, 22 December 1938
 
@@ -18,7 +23,7 @@ The New Zealand Government have also intimated that they think the Conference sh
 
 SAVAGE
 
-_
+ _
 
 1 These letters have not been found. Z15/1/1 was a Prime Minister's Department file entitled 'Defence of Pacific islands', which has not been located.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA : A981, PACIFIC i]_
+ _[AA : A981, PACIFIC i]_

@@ -1,26 +1,29 @@
 ---
-title: "129 REPORT BY ECONOMIC STEERING (EUROPE) COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9994
+doc_date: '1961-04-26'
+doc_num: 129
+doc_order: 129
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB 134/1821]'
+title: REPORT BY ECONOMIC STEERING (EUROPE) COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-04-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 129 REPORT BY ECONOMIC STEERING (EUROPE) COMMITTEE
-
-UKNA: CAB 134/1821
 
 London, 26 April 1961
 
 Secret
 
-****
+ ****
 
 Implications of Signing the Treaty of Rome
 
 [...]
 
-_Commonwealth aspects_
+ _Commonwealth aspects_
 
 16\. A decision by the United Kingdom to join the Six would clearly have major political implications for the Commonwealth. We should be entering a relationship with Europe different from, and in some respects closer than, that which we have had with Commonwealth countries since they became independent. It would appear to public opinion in other Commonwealth countries to mark a turning away from them. Our ability to retain the confidence of the newer members particularly would be adversely affected by the fact that, on some major world problems, the European countries with whom we should be identifying ourselves adopt a markedly different attitude from their own. Close political consultation with the Commonwealth could continue (e.g. Commonwealth Prime Ministers’ meetings), but the possibility of strain between the UK and the other members must not be overlooked. Although the Commonwealth is a flexible concept, we would find it harder to take their interests into account where these conflict with those of our European partners, and hence more difficult to secure their support for our policies.
 
@@ -30,8 +33,10 @@ _Commonwealth aspects_
 
 19\. Similar considerations arise in relation to our dependent territories though here, except in the case of those approaching independence or with advanced constitutions, the issue is rather one of accepting limitations on our freedom to take certain kinds of action to forward their economic interests.
 
-_Agriculture_
+ _Agriculture_
 
 20\. As mentioned earlier (paragraph 8) we believe that one of the implications of signing the Treaty of Rome would be that we should have to accept the long-terrn objective of a common agricultural policy. We do not discuss this further, since we understand it is under consideration by the Minister of Agriculture. But we know it to be his view (with which we agree) that if we are to join the Six at all, it would be better to join them early and influence the development of their agricultural policy, rather than to join later and find ourselves faced with a _fait accompli_ which it would be difficult, if not impossible, to change.
 
-[_matter omitted_]
+[ _matter omitted_ ]
+
+[UKNA: CAB 134/1821]

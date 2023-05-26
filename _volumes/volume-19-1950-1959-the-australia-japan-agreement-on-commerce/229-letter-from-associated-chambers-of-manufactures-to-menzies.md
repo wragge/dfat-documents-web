@@ -1,13 +1,19 @@
 ---
-title: "229 Letter From Associated Chambers Of Manufactures To Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7834
+doc_date: '1957-08-01'
+doc_num: 229
+doc_order: 229
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : MENZIES PAPERS MS4936/21/439, FOLDER 16]'
+title: Letter From Associated Chambers Of Manufactures To Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 229 Letter From Associated Chambers Of Manufactures To Menzies
-
-## Aug-57
+Aug-57
 
 CANBERRA
 
@@ -97,8 +103,8 @@ F.S. VINE President, ACMA
 
 MR JOHN G. HURLEY President, Chamber of Manufactures of NSW MR DANIEL SCOTT President, Victorian Chamber of Manufactures MR J.R. GIBSON Acting President, Queensland Chamber of Manufactures MR A.M. SIMPSON President, South Australian Chamber of Manufactures MR C.J. CORNISH President, Western Australian Chamber of Manufactures MR A.E. POXON President, Tasmanian Chamber of Manufactures MR E.W. PAULL President, Metal Trades Employers' Association
 
-_
+ _
 
 _
 
-_ [NLA : MENZIES PAPERS MS4936/21/439, FOLDER 16]_
+ _[NLA : MENZIES PAPERS MS4936/21/439, FOLDER 16]_

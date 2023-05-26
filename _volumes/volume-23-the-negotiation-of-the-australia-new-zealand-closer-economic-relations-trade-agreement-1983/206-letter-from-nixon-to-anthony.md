@@ -1,14 +1,21 @@
 ---
-title: "206 Letter from Nixon to Anthony"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9075
+doc_date: '1982-09-01'
+doc_num: 206
+doc_order: 206
+naa_refs:
+- naa_barcode: 11546091
+  naa_control_symbol: 1984/2288 PART 1
+  naa_series: A1313
+  reference: '[NAA: Al3131116, 84/2288, i]'
+title: Letter from Nixon to Anthony
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-09-01
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 206 Letter from Nixon to Anthony
-
-## Canberra, [13]1 September 1982
+Canberra, [13]1 September 1982
 
 Thank you for your letter of 30 August outlining a proposed course of action for furthering negotiations on closer economic relations with New Zealand.
 
@@ -30,8 +37,6 @@ In respect of forest products my views are similar to the above. However, I agre
 
 Following these discussions and, should they be necessary, your own talks with Mr Muldoon, I assume that Cabinet will again have an opportunity to assess the complete package.
 
-_[NAA: Al3131116, 84/2288, i]_
+ _[NAA: Al3131116, 84/2288, i]_
 
   * 1 The file copy is dated 1982 only but other evidence shows that it was sent on this day
-
-

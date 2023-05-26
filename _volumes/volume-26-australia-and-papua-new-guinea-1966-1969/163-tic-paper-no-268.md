@@ -1,18 +1,23 @@
 ---
-title: "163 TIC Paper No. 268"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9671
+doc_date: '1968-03-08'
+doc_num: 163
+doc_order: 163
+naa_refs:
+- naa_barcode: 546822
+  naa_control_symbol: 936/3/15 PART 4
+  naa_series: A1838
+  reference: '[NAA: A 1838, 936/3115 part 4]'
+title: TIC Paper No. 268
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-03-08
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 163 TIC Paper No. 268
 
 Port Moresby, 8 March 1968
 
 Secret
 
-**Assessment of reactions of T.P.N.G. communities to influxes of West Irianese natives**
+ **Assessment of reactions of T.P.N.G. communities to influxes of West Irianese natives**
 
 The purpose of this paper is to assess:
 
@@ -22,13 +27,13 @@ The purpose of this paper is to assess:
 
 (iii) The probable effects on T.P.N.G. communities in the border areas of experiencing relatively large influxes of West Irianese crossing the border for political reasons and then seeing them being returned.
 
-_Extent of sympathy among the indigenous people from all parts of the Territory for West Irianese dissidents_
+ _Extent of sympathy among the indigenous people from all parts of the Territory for West Irianese dissidents_
 
 2\. Overall, there is little evidence to suggest that the indigenous population of the Territory have more than a vague awareness of the situation in West Irian though, doubtless, the better-educated minority have a limited knowledge of the current unrest existing there. There appears to be a lack of interest in West Irian even on the part of the Territory’s politically informed indigenes. A few exceptions would be relatives and friends of well-established West Irianese residents in the Territory.
 
 3\. It is likely, however, that there is a dormant sympathy, dating back to the time of the Indonesian take-over of West Irian. This was manifest at the time in public statements by a small number of indigenous personalities of the Territory, in referring to West Irianese, ‘our brothers’, as having been abandoned.
 
-_Whether anti-Administration feelings would be aroused if West Irianese crossing the border were forcibly returned to West Irian in the face of sternly oppressive measures by the Indonesian authorities_
+ _Whether anti-Administration feelings would be aroused if West Irianese crossing the border were forcibly returned to West Irian in the face of sternly oppressive measures by the Indonesian authorities_
 
 4\. Except for the VANIMO and the AlTAPE coastal areas, the border Districts are relatively isolated and first-hand news of events there would probably be slow in leaking out. Experience indicates that, in all probability, it would be inaccurate and exaggerated and would take some considerable time before even the politically conscious section of the population of the Territory became aware of the true facts. Because personal communication is slow, the publicity given to events on the border through radio broadcasts and newspapers would have a considerable bearing on the eventual Territory-wide reaction.
 
@@ -38,7 +43,7 @@ _Whether anti-Administration feelings would be aroused if West Irianese crossing
 
 7\. A factor which should not be disregarded is the presence of supporters of West Papuan Nationalist organisations in the Territory. Whilst members of these organisations undertake not to engage in political activities concerning West Irian, they could well influence local indigenous political personalities to oppose the policy of the Administration. Furthermore, members of these organisations would certainly inform their headquarters in Europe, Japan and the U.S.A. of the situation and of the Administration’s policy towards border crossings. Thus, the issue would soon become internationally known and may well be seized upon by countries already critical of certain aspects of Australia's policy.
 
-_The probable effects on T.P.N.G. communities in the border areas of experiencing relatively large influxes of West Irianese crossing the border for political reasons and then seeing these people being returned_
+ _The probable effects on T.P.N.G. communities in the border areas of experiencing relatively large influxes of West Irianese crossing the border for political reasons and then seeing these people being returned_
 
 8\. The reactions of border communities would be affected by the following consideration:-
 

@@ -1,18 +1,24 @@
 ---
-title: "100 Mr A.T. Stirling, External Affairs Officer in London, to Mr J.D.L. Hood, Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 437
+doc_date: '1939-05-23'
+doc_num: 100
+doc_order: 100
+naa_refs:
+- naa_barcode: 278780
+  naa_control_symbol: '105'
+  naa_series: A2937
+  reference: '[FA: A2937, MR J.D.L. HOOD]'
+title: Mr A.T. Stirling, External Affairs Officer in London, to Mr J.D.L. Hood, Department
+  of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-23
+vol_title: 'Volume 2: 1939'
 ---
 
-# 100 Mr A.T. Stirling, External Affairs Officer in London, to Mr J.D.L. Hood, Department of External Affairs
-
-Letter P &amp; C 9 LONDON, 23 May 1939
+Letter P & C 9 LONDON, 23 May 1939
 
 PERSONAL AND CONFIDENTIAL
 
-In your P. &amp; C. No. 3 of 22nd March [2], you mentioned the letter of 17th February addressed to the late Mr Lyons by the former Japanese Consul-General in Sydney, Mr Wakamatsu. [3]
+In your P. & C. No. 3 of 22nd March [2], you mentioned the letter of 17th February addressed to the late Mr Lyons by the former Japanese Consul-General in Sydney, Mr Wakamatsu. [3]
 
 Ronald [4], of the Far Eastern Department, mentioned the matter to me recently, and I imagine that he had heard of it from the Dominions Office. I think he had the impression that the Commonwealth reply was rather too conciliatory in tone. He did not, however, say very much about it, adding that it was a matter which was being looked at by Denin [5], who, as you will remember, returned not long ago to take Davies' [6] place in the Far Eastern Department. He has held several consular posts in Japan and Manchuria, and was acting Consul-General at Harbin for a long while. He was I think born in Melbourne and fought with the A.I.F. in the War.
 
@@ -26,7 +32,7 @@ Dening said that in his view the Japanese had committed a major error in diploma
 
 I did not make any comment, but it was clear that the Far Eastern Department wanted me to pass on what had been said. I imagine that at one stage they thought of doing it through the Dominions Office and Whiskard [9], but decided that it should be done in the most informal way possible. As you had been good enough to let me know about this matter previously, I mention it to you now and should be glad if you would pass it on to Hodgson. [10]
 
-_
+ _
 
 1 See Document 101.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [FA: A2937, MR J.D.L. HOOD]_
+ _[FA: A2937, MR J.D.L. HOOD]_

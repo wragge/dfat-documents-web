@@ -1,12 +1,17 @@
 ---
-title: "206 Cabinet Submission by Sir Henry Gullett, Minister for External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 543
+doc_date: '1939-09-07'
+doc_num: 206
+doc_order: 206
+naa_refs:
+- naa_barcode: 178458
+  naa_control_symbol: LEAGUE PCIJ 21
+  naa_series: A981
+  reference: '[AA:A981, L OF N, PCIJ 21]'
+title: Cabinet Submission by Sir Henry Gullett, Minister for External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-07
+vol_title: 'Volume 2: 1939'
 ---
-
-# 206 Cabinet Submission by Sir Henry Gullett, Minister for External Affairs
 
 7 September 1939
 
@@ -58,7 +63,7 @@ THE OPTIONAL CLAUSE
 
 H.S. GULLETT
 
-_
+ _
 
 1 Document 191.
 
@@ -68,4 +73,4 @@ _
 
 _
 
-_ [AA:A981, L OF N, PCIJ 21]_
+ _[AA:A981, L OF N, PCIJ 21]_

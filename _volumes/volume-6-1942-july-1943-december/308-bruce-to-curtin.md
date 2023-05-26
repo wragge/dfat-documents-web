@@ -1,12 +1,17 @@
 ---
-title: "308 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2599
+doc_date: '1943-10-21'
+doc_num: 308
+doc_order: 308
+naa_refs:
+- naa_barcode: 170186
+  naa_control_symbol: 19/301/821 PART 2
+  naa_series: A816
+  reference: '[AA:A816, 19/301/821]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-10-21
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 308 Bruce to Curtin
 
 Cablegram [199A] [1] LONDON, 21 October 1943, 7.50 p.m.
 
@@ -20,7 +25,7 @@ I then went on to say that he would realize that the whole area north of Austral
 
 BRUCE
 
-_
+ _
 
 1 Material in square brackets has been corrected from Bruce's copy on file AA:M100, October 1943. The Canberra copy was numbered 189.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A816, 19/301/821]_
+ _[AA:A816, 19/301/821]_

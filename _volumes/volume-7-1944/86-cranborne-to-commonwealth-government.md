@@ -1,12 +1,17 @@
 ---
-title: "86 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2733
+doc_date: '1944-03-20'
+doc_num: 86
+doc_order: 86
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 606]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-20
+vol_title: 'Volume 7: 1944'
 ---
-
-# 86 Cranborne to Commonwealth Government
 
 Cablegram 73 LONDON, 20 March 1944, 1.06 p.m.
 
@@ -20,7 +25,7 @@ We had assumed in the absence of any comments from you on our telegram D.1102 of
 
 3\. We hope to communicate further with you regarding lines of proposed papers which we are preparing (see my telegram D.402) and shall welcome your views on them.
 
-_
+ _
 
 1 Document 77.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 606]_
+ _[AA:A5954, BOX 606]_

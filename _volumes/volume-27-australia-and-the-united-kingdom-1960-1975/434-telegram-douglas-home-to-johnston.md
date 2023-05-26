@@ -1,20 +1,23 @@
 ---
-title: "434 TELEGRAM,DOUGLAS-HOME TO JOHNSTON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10301
+doc_date: '1971-03-24'
+doc_num: 434
+doc_order: 434
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 57/231]'
+title: TELEGRAM,DOUGLAS-HOME TO JOHNSTON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-03-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 434 TELEGRAM,DOUGLAS-HOME TO JOHNSTON
-
-UKNA: FCO 57/231
 
 London, 24 March 1971
 
 No. 359. Priority. Confidential
 
-Your telegram No. 275 of23 February.1
+Your telegram No. 275 of23 February.[1](#f1)
 
 Appointment of Australian State Governors.
 
@@ -25,3 +28,5 @@ Appointment of Australian State Governors.
 3\. The short answer to any Queensland critics of the present arrangements are [sic] that this is how the states have wanted it to be. It is important to keep the British Government as far as possible out of any controversy over this issue.
 
 1 See Document 433.
+
+[UKNA: FCO 57/231]

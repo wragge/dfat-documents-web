@@ -1,14 +1,19 @@
 ---
-title: "158 Department of External Affairs to Officer"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5425
+doc_date: '1948-06-03'
+doc_num: 158
+doc_order: 158
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1948, 0.7794]'
+title: Department of External Affairs to Officer
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-06-03
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
 
-# 158 Department of External Affairs to Officer
-
-## Cablegram 48 CANBERRA, 3 June 1948, 2 p.m.
+Cablegram 48 CANBERRA, 3 June 1948, 2 p.m.
 
 We understand from our delegate to ECAFE conference at Ootacamund that Netherlands Delegation are sponsoring Indonesia as a whole for associate membership with two seats on the Delegation for the Republic if they desire. Republican Delegation will not accept Netherlands sponsorship, but will apply for associate membership sponsored by India.
 
@@ -18,10 +23,10 @@ We understand from our delegate to ECAFE conference at Ootacamund that Netherlan
 
 4\. Foregoing is for background if issue is raised with you by Netherlands authorities.
 
-_
+ _
 
 1 See Documents 154 and 155.
 
 _
 
-_ [AA:A3196, 1948, 0.7794]_
+ _[AA:A3196, 1948, 0.7794]_

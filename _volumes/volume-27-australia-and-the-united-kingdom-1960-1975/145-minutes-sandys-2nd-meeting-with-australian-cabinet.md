@@ -1,24 +1,27 @@
 ---
-title: "145 MINUTES, SANDYS'2ND MEETING WITH AUSTRALIAN CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10010
+doc_date: '1961-07-08'
+doc_num: 145
+doc_order: 145
+naa_refs:
+- naa_barcode: 584008
+  naa_control_symbol: 727/4/2 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 1]'
+title: MINUTES, SANDYS'2ND MEETING WITH AUSTRALIAN CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 145 MINUTES, SANDYS'2ND MEETING WITH AUSTRALIAN CABINET
-
-NAA: A1838, 727/4/2 PART 1
 
 Canberra, 8 July 1961
 
 Secret
 
-****
+ ****
 
 The United Kingdom and European Economic Community Consultations
 
-1\. Mr Sandys opened the discussion by addressing himself to the economic aspect of the question of the United Kingdom entering the European Economic Community. He outlined the United Kingdom’s view in accordance with paragraph 43 to 81 of the statement, which is the appendix to the Minutes of the first meeting.1
+1\. Mr Sandys opened the discussion by addressing himself to the economic aspect of the question of the United Kingdom entering the European Economic Community. He outlined the United Kingdom’s view in accordance with paragraph 43 to 81 of the statement, which is the appendix to the Minutes of the first meeting.[1](#f1)
 
 2\. Concerning Mr Sandys’ point that there is a need for a wider base for United Kingdom manufacturing industry, Mr McEwen said that Australian experience suggested that expanding industry into other Commonwealth countries could result in a greater volume of imports from the United Kingdom. He suggested that not only was the share of United Kingdom exports taken by Commonwealth countries important, but the absolute volume must also be considered. The Commonwealth countries might afford the necessary base for substantial industrial expansion.
 
@@ -32,13 +35,13 @@ The United Kingdom and European Economic Community Consultations
 
 7\. Mr Sandys replied that this was not so. The United Kingdom market for industrial goods was large and there would be advantages to be gained by both the United Kingdom and the European Community countries by way of a higher volume of trade in industrial goods.
 
-8\. Commenting on the arrangements for consultation envisaged by Mr Sandys (paras. 77–79 of his statement)2 and, in particular, the views that it would not seem to be possible for Australia to be a direct participant in the discussions between the United Kingdom and the Community, the Prime Minister said that the strange consequence of this would be that the Australian case could not be directly put to the Community. Mr Sandys said that that may be something which could be discussed. But as he saw it, there appeared to be no practical possibility of a large number of Commonwealth and European Free Trade Association countries affected directly participating in the negotiations.
+8\. Commenting on the arrangements for consultation envisaged by Mr Sandys (paras. 77–79 of his statement)[2](#f2) and, in particular, the views that it would not seem to be possible for Australia to be a direct participant in the discussions between the United Kingdom and the Community, the Prime Minister said that the strange consequence of this would be that the Australian case could not be directly put to the Community. Mr Sandys said that that may be something which could be discussed. But as he saw it, there appeared to be no practical possibility of a large number of Commonwealth and European Free Trade Association countries affected directly participating in the negotiations.
 
 9\. The Prime Minister next sought to know whether, if the United Kingdom joined the Common Market and, as a consequence, Australia lost its preferences in the United Kingdom market, the United Kingdom would expect to retain its tariff preferences in the Australian market.
 
 10\. Sir Garfield Barwick asked also whether, in weighing up the advantages and disadvantages of entering the Community, the United Kingdom had assumed that in consequence of special arrangements to meet the requirements of Commonwealth trade being achieved, it would be in a position to retain its tariff preferences in Commonwealth markets.
 
-11\. Mr McMahon asked whether the Australian Ministers might be informed in terms, of the kinds of arrangements envisaged by Mr Sandys (see paragraph 59 of the statement)3 which would ensure that Commonwealth products would have in Britain and in Europe an outlet comparable with that which they now have.
+11\. Mr McMahon asked whether the Australian Ministers might be informed in terms, of the kinds of arrangements envisaged by Mr Sandys (see paragraph 59 of the statement)[3](#f3) which would ensure that Commonwealth products would have in Britain and in Europe an outlet comparable with that which they now have.
 
 12\. To these questions Mr Sandys said that the matter of preferences in Commonwealth countries was, in the first place, an ‘asset’ belonging to the country concerned and that how they were dealt with was a matter that could be discussed between the United Kingdom and the individual countries. As to the kinds of arrangement for ensuring trade outlets, he felt that these were best left for commodity by commodity examination as they did not lend themselves to any general formulation.
 
@@ -48,17 +51,17 @@ The United Kingdom and European Economic Community Consultations
 
 15\. Mr Holt questioned whether the United Kingdom had made a full investigation of the market potentials of the Commonwealth. He believed there was reason to question the thesis of a continuous growth of the Economic Community. He felt that the United Kingdom might be over-impressed by the current rate of development and it could well be that the growth prospects of the Commonwealth are such that the United Kingdom may, in fact, have better opportunity there than in the European Economic Community. He agreed with Mr McEwen that the case had not been made out that there was, on balance, economic advantage for the United Kingdom in entry into the Community.
 
-16\. Mr Holt said that he felt that an examination should be made not only of the trade effects but also the financial. He was concerned about some trends that were already in evidence and quoted the effect of the operation of the European Monetary Agreement which put Australia’s sterling reserves on the footing of ‘second class’ sterling. He felt that already there was a lessened degree of consultation with Commonwealth countries in favour of European countries—for example, in the recent Basle Agreement negotiations. If this trend was discernible now, it would be worse in future should the United Kingdom become a member of the Community. A time could come where changes in the value of sterling were made without consultation with sterling area countries.4
+16\. Mr Holt said that he felt that an examination should be made not only of the trade effects but also the financial. He was concerned about some trends that were already in evidence and quoted the effect of the operation of the European Monetary Agreement which put Australia’s sterling reserves on the footing of ‘second class’ sterling. He felt that already there was a lessened degree of consultation with Commonwealth countries in favour of European countries—for example, in the recent Basle Agreement negotiations. If this trend was discernible now, it would be worse in future should the United Kingdom become a member of the Community. A time could come where changes in the value of sterling were made without consultation with sterling area countries.[4](#f4)
 
 17\. The Prime Minister asked what would happen to the political advantage of entry into the Community if the economic advantages envisaged failed to materialize, or materialized only to a minor degree. Would not political advantage depend on economic result?
 
 18\. Replying to the Australian Ministers, Mr Sandys began by questioning the notion that the United Kingdom would, by entering the Community, be giving up an assured position for an uncertain one. He might be willing to concede the uncertain, but he did not accept that the present position was ‘assured’. As things stood, the United Kingdom faced a decline in its future competitive position. He felt that some of the points made had been based on the assumption that a decision to go into Europe meant an abandonment of Commonwealth trading. This was not in mind. The matter did not present itself to him as a choice between trade with the Commonwealth and trade with Europe. It was a question of developing both. Uncertainties and difficulties were admitted, but the United Kingdom could not afford to sit back and lose ground while Europe developed. Its advantages in Commonwealth markets could not be such as to outweigh the advantages which a broad-based home market would give to British industry. If the British Government negotiated, it would attempt to do so without loss of the economic connections with the Commonwealth, and to safeguard Commonwealth interests.
 
-19\. Mr Roll5 added that on the political side the advantages were decisive. On the economic side, the nexus of the common agricultural policy and Commonwealth trade created a considerable problem. However, one could not assume both that the effects of the common agricultural policy will all be disadvantageous and at the same time that, if the United Kingdom remains outside Europe, the British market for both its own and Commonwealth agriculture would remain unchanged. The present situation could not be looked at unchanged and compared with the worst possible position under United Kingdom membership of the Community. As to Mr McEwen’s point that the United Kingdom would be exchanging cheap food for dear food, Mr Roll stressed that the present policy is cheap food plus agricultural subsidies, based on efficient agriculture. Moreover, the cheap food policy was not universal as, for instance, in the case of milk the price in the United Kingdom was some 25 per cent above that in Europe, or in the case of sugar, where the Commonwealth Sugar Agreement and the guarantee to the home producer means that the consumer paid a higher price than the world. While the change from subsidies to levies would result in higher prices, this was not regarded by the United Kingdom as a decisive factor. The change would involve risk for the United Kingdom farmers, which is not liked. But farmers would also have to face risks in the future if the United Kingdom does not join the European Economic Community. Already the United Kingdom system is under strain as surpluses tend to gravitate to the British market, bringing down prices, raising the cost of subsidies to the British taxpayer, and causing the United Kingdom farmers difficulty in disposing of their products. One of the objects of the United Kingdom’s entry into negotiations with the Community at this stage would be to ensure that the common agricultural policy does not aggravate the present situation. It would be too great a gamble to allow that policy to be developed without an attempt to influence it.
+19\. Mr Roll[5](#f5) added that on the political side the advantages were decisive. On the economic side, the nexus of the common agricultural policy and Commonwealth trade created a considerable problem. However, one could not assume both that the effects of the common agricultural policy will all be disadvantageous and at the same time that, if the United Kingdom remains outside Europe, the British market for both its own and Commonwealth agriculture would remain unchanged. The present situation could not be looked at unchanged and compared with the worst possible position under United Kingdom membership of the Community. As to Mr McEwen’s point that the United Kingdom would be exchanging cheap food for dear food, Mr Roll stressed that the present policy is cheap food plus agricultural subsidies, based on efficient agriculture. Moreover, the cheap food policy was not universal as, for instance, in the case of milk the price in the United Kingdom was some 25 per cent above that in Europe, or in the case of sugar, where the Commonwealth Sugar Agreement and the guarantee to the home producer means that the consumer paid a higher price than the world. While the change from subsidies to levies would result in higher prices, this was not regarded by the United Kingdom as a decisive factor. The change would involve risk for the United Kingdom farmers, which is not liked. But farmers would also have to face risks in the future if the United Kingdom does not join the European Economic Community. Already the United Kingdom system is under strain as surpluses tend to gravitate to the British market, bringing down prices, raising the cost of subsidies to the British taxpayer, and causing the United Kingdom farmers difficulty in disposing of their products. One of the objects of the United Kingdom’s entry into negotiations with the Community at this stage would be to ensure that the common agricultural policy does not aggravate the present situation. It would be too great a gamble to allow that policy to be developed without an attempt to influence it.
 
 20\. Regarding Mr McEwen’s point that the common agricultural policy is likely to result in excess production, the attitudes of the different European countries will be important. The French were on record that they wished prices to remain low and were not aiming at self-sufficiency. German agriculture was the least efficient and most highly protected, but, at the same time, Germany was aware of the need to permit imports so that exports of manufactured products could be expanded. While the United Kingdom could not be confident that it could work out special arrangements to protect completely Commonwealth interests, it at least would have the opportunity to influence policy if it should join. The danger was that the French were under pressure to establish the common agricultural policy, and if the Germans were unwilling to move, the French may need to agree to a compromise which was against Commonwealth interests. The presence of the United Kingdom in the negotiations for the establishment of the policy could result in a policy much more satisfactory to us.
 
-At this point the Prime Minister suggested that there should be a detailed discussion on individual commodities next day when Mr Sandys and his delegation would meet Mr McEwen, Mr Adermann,6 and Australian officials. Mr Sandys agreed, and the meeting was arranged for 2.30 pm on Sunday, 9th July, 1961.
+At this point the Prime Minister suggested that there should be a detailed discussion on individual commodities next day when Mr Sandys and his delegation would meet Mr McEwen, Mr Adermann,[6](#f6) and Australian officials. Mr Sandys agreed, and the meeting was arranged for 2.30 pm on Sunday, 9th July, 1961.
 
 The meeting concluded at 5.15 pm.
 
@@ -73,3 +76,5 @@ The meeting concluded at 5.15 pm.
 5 Eric Roll, Deputy Permanent Under-Secretary, Ministry of Agriculture, Fisheries and Food.
 
 6 Charles Frederick Adermann, Minister for Primary Industries.
+
+[NAA: A1838, 727/4/2 PART 1]

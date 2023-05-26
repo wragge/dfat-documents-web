@@ -1,26 +1,31 @@
 ---
-title: "129 Submission, Swift To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9637
+doc_date: '1967-06-27'
+doc_num: 129
+doc_order: 129
+naa_refs:
+- naa_barcode: 32394756
+  naa_control_symbol: 1967/4226
+  naa_series: A452
+  reference: '[NAA: A452, 1967/4226]'
+title: Submission, Swift To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-06-27
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 129 Submission, Swift To Barnes
 
 Canberra, 27 June 1967
 
 Confidential
 
-**United Nations Visiting Mission to New Guinea {and Nauru}**
+ **United Nations Visiting Mission to New Guinea {and Nauru}**
 
 Messages have been exchanged with the Australian Mission to the United Nations about the composition of the United Nations Visiting Mission due to inspect New Guinea and Nauru (if it is still a Trust Territory) in 1968.
 
 2\. The rules of the Trusteeship Council permit the Council to go outside its own membership in making up a visiting mission, and it had been suggested by a secretariat official that acceptance of wider representation on the Mission, especially if countries represented on the Committee of Twenty-Four were selected, might reduce criticism by the General Assembly of the unrepresentative character of the Trusteeship Council and of the Visiting Mission.
 
-3\. The Territories view given to External Affairs was that we would wish to take the course that would give the least trouble inside New Guinea. If Eastman were the Liberian representative again it was possible that replacement of Liberia and China by two moderate countries (possibilities were India, Thailand, Iran, for example) would be an advantage.1 This would depend, however, on the Administering Authority being able to control the selection of the Mission. Territories would, in any case, be opposed to an increase in the size of the Mission.
+3\. The Territories view given to External Affairs was that we would wish to take the course that would give the least trouble inside New Guinea. If Eastman were the Liberian representative again it was possible that replacement of Liberia and China by two moderate countries (possibilities were India, Thailand, Iran, for example) would be an advantage.[1](#f1) This would depend, however, on the Administering Authority being able to control the selection of the Mission. Territories would, in any case, be opposed to an increase in the size of the Mission.
 
-4\. Following further reference to New York and discussion amongst the friendly representatives of the Trusteeship Council it was reported that Eastman was believed not to want to go to New Guinea again because of the flying involved and that the Liberian representative was more likely to be Miss Brooks.2 France, definitely, and U.S., probably, would oppose any increase in the size of the Mission. France was interested in being a member of the 1968 Mission and it was suggested that France replace China.
+4\. Following further reference to New York and discussion amongst the friendly representatives of the Trusteeship Council it was reported that Eastman was believed not to want to go to New Guinea again because of the flying involved and that the Liberian representative was more likely to be Miss Brooks.[2](#f2) France, definitely, and U.S., probably, would oppose any increase in the size of the Mission. France was interested in being a member of the 1968 Mission and it was suggested that France replace China.
 
 5\. With Territories’ agreement External Affairs is proposing to Mr. Hasluck that we should seek that the Mission be made up of New Zealand, France, Liberia {(but not Eastman)} and either the U.K. or the U.S.
 

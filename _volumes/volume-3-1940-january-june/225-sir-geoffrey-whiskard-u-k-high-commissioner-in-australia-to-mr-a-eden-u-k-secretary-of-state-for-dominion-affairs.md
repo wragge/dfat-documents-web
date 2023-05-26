@@ -1,12 +1,18 @@
 ---
-title: "225 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 991
+doc_date: '1940-05-10'
+doc_num: 225
+doc_order: 225
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: CAB 21/873]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr A. Eden,
+  U.K. Secretary of State for Dominion Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-10
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 225 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 135 10 May 1940,
 
@@ -22,7 +28,7 @@ He said, subject to observations at (d) in his telegram No. 208 of the 8th May [
 
 Whenever he had felt observations of the Commonwealth Government might be useful, he had had ample opportunity to make them and they had obviously been fully considered. He was, as at present advised, opposed to the idea of an Imperial War Cabinet. To add five Dominion members to the present or to a reconstituted United Kingdom War Cabinet would make it unwieldy and would not in his opinion be helpful. The existing air services made it possible to have brief conferences in London at comparatively short intervals and this he thought was sufficient.
 
-_
+ _
 
 1 R. G. Menzies.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [PRO: CAB 21/873]_
+ _[PRO: CAB 21/873]_

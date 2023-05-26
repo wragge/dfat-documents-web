@@ -1,12 +1,18 @@
 ---
-title: "12 Mr F. G. Shedden, Secretary of Department of Defence Co- ordination, to Mr F. Strahan, Secretary of Prime Minister's Department"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1243
+doc_date: '1940-07-05'
+doc_num: 12
+doc_order: 12
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195,1940, 15170]'
+title: Mr F. G. Shedden, Secretary of Department of Defence Co- ordination, to Mr
+  F. Strahan, Secretary of Prime Minister's Department
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-05
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 12 Mr F. G. Shedden, Secretary of Department of Defence Co- ordination, to Mr F. Strahan, Secretary of Prime Minister's Department
 
 Teleprinter message D1245 [MELBOURNE] [5 July 1940, 5.40 p.m.] [1]
 
@@ -84,9 +90,9 @@ domestic powers, and most ordinary residents, favour dose co-
 
 operation with Australia. Military Intelligence informed.
 
-_
+ _
 
-1 Times and date of dispatch and receipt have been taken from the 
+1 Times and date of dispatch and receipt have been taken from the
 
 copy on file AA: A981, Consuls 127,i
 
@@ -102,7 +108,7 @@ copy on file AA: A981, Consuls 127,i
 
 _
 
-_
+ _
 
 [AA:A3195,1940, 15170]
 

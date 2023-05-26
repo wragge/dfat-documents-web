@@ -1,12 +1,17 @@
 ---
-title: "51 Department of External Affairs to Ballard and Forsyth"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4235
+doc_date: '1947-05-10'
+doc_num: 51
+doc_order: 51
+naa_refs:
+- naa_barcode: 434244
+  naa_control_symbol: 401/1/3/2 PART 2
+  naa_series: A1838
+  reference: '[AA:A1383/278, 401/1/3/2, ii]'
+title: Department of External Affairs to Ballard and Forsyth
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-05-10
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 51 Department of External Affairs to Ballard and Forsyth
 
 Cablegram 103 CANBERRA, 10 May 1947
 
@@ -26,7 +31,7 @@ Reference our 46. [1]
 
 4\. Please state what progress you have made towards obtaining from Sjahrir a statement of this nature.
 
-_
+ _
 
 1 Document 19.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A1383/278, 401/1/3/2, ii]_
+ _[AA:A1383/278, 401/1/3/2, ii]_

@@ -1,12 +1,17 @@
 ---
-title: "321 Defence Committee Report"
-volume: "Volume 7: 1944"
-doc_id: 2968
+doc_date: '1944-10-18'
+doc_num: 321
+doc_order: 321
+naa_refs:
+- naa_barcode: 9763001
+  naa_control_symbol: 13/1945
+  naa_series: A2031
+  reference: '[AA:A2031, VOL. 14]'
+title: Defence Committee Report
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 321 Defence Committee Report
 
 [18 October 1944] [1]
 
@@ -68,7 +73,7 @@ D. SUGGESTED ITEMS FOR DISCUSSION AT WELLINGTON
 
 17\. The Defence Committee recommended that machinery for Post- Hostilities Planning should be established in each country as early as possible. It was envisaged that not only would such machinery provide a means of integrating Australian and New Zealand planning, but through the exchange of information with similar bodies in the United Kingdom and Canada it would assist in the development of plans covering the whole range of Empire Defence.
 
-_
+ _
 
 1 The report itself is undated. It was attached to Defence Committee minute 335/1944, of 18 October.
 
@@ -84,4 +89,4 @@ _
 
 _
 
-_ [AA:A2031, VOL. 14]_
+ _[AA:A2031, VOL. 14]_

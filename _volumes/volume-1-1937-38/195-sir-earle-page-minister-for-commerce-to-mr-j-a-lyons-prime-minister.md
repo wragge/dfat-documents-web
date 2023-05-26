@@ -1,12 +1,17 @@
 ---
-title: "195 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 194
+doc_date: '1938-05-01'
+doc_num: 195
+doc_order: 194
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-01
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 195 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 1 May 1938, 2.55 p.m.
 
@@ -18,7 +23,7 @@ We have discussed among ourselves the question of compensation to the Yampi Comp
 
 PAGE
 
-_
+ _
 
 1 R. G. Menzies, Attorney-General.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

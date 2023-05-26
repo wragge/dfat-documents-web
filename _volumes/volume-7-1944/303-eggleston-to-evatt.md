@@ -1,14 +1,19 @@
 ---
-title: "303 Eggleston to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2950
+doc_date: '1944-09-27'
+doc_num: 303
+doc_order: 303
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA:MS423/10/1937-8]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-27
+vol_title: 'Volume 7: 1944'
 ---
 
-# 303 Eggleston to Evatt
-
-## Letter CANBERRA, 27 September 1944
+Letter CANBERRA, 27 September 1944
 
 With regard to the offer [1] to me yesterday afternoon of the post at Washington, I am deeply sensible of the confidence reposed in me. It is indeed a tempting offer in view of the magnitude of the issues which will be dealt with during the period suggested. I am, as you know, anxious to serve where I can be of most use. I have had some doubts whether my health will stand the strain of the travel involved and of the onerous work at Washington. However, if the Government is willing to take the risk, I am.
 
@@ -28,7 +33,7 @@ If the terms I have suggested are not suitable I am content to go back to Chungk
 
 F. W. EGGLESTON
 
-_
+ _
 
 1 This offer appears to have been conveyed verbally.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [NLA:MS423/10/1937-8]_
+ _[NLA:MS423/10/1937-8]_

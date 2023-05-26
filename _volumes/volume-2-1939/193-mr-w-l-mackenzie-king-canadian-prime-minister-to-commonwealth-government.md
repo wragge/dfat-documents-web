@@ -1,14 +1,19 @@
 ---
-title: "193 Mr W.L. Mackenzie King, Canadian Prime Minister, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 530
+doc_date: '1939-09-03'
+doc_num: 193
+doc_order: 193
+naa_refs:
+- naa_barcode: 1026429
+  naa_control_symbol: AUS 151 PART 1
+  naa_series: A981
+  reference: '[AA:A981, AUSTRALIA 151, 1]'
+title: Mr W.L. Mackenzie King, Canadian Prime Minister, to Commonwealth Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-03
+vol_title: 'Volume 2: 1939'
 ---
 
-# 193 Mr W.L. Mackenzie King, Canadian Prime Minister, to Commonwealth Government
-
-## Cablegram 7 OTTAWA, 3 September 1939, 11.10 p.m.
+Cablegram 7 OTTAWA, 3 September 1939, 11.10 p.m.
 
 My telegram No. 2 of 22nd January, 1935. [1]
 
@@ -18,7 +23,7 @@ My telegram No. 2 of 22nd January, 1935. [1]
 
 PRIME MINISTER
 
-_
+ _
 
 1 This cablegram was in fact sent on 11 January 1935. It suggested an exchange of High Commissioners between Canada and Australia.
 
@@ -28,4 +33,4 @@ Both cablegrams are on file AA: A461, A348/1/1.
 
 _
 
-_ [AA:A981, AUSTRALIA 151, 1]_
+ _[AA:A981, AUSTRALIA 151, 1]_

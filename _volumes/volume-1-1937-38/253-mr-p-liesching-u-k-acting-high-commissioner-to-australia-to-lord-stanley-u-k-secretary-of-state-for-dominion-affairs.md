@@ -1,14 +1,20 @@
 ---
-title: "253 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 252
+doc_date: '1938-09-14'
+doc_num: 253
+doc_order: 252
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 35/554]'
+title: Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley,
+  U.K. Secretary of State for Dominion Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-14
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 253 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 17614 September 1938,
+Cablegram 17614 September 1938,
 
 IMMEDIATE
 
@@ -16,7 +22,7 @@ From long private conversation with Menzies [1] following Cabinet Meeting last M
 
 Menzies is giving powerful support to the views of the Prime Minister as outlined in my telegram No. 165. [4] Government have received through Stirling [5] summary of information obtained recently in Paris as to the improbability of any action by Russia and also this morning a telegram recording appreciation of the Nuremberg speech by His Majesty's Ambassador in Berlin [6] and the latter's recommendations that extreme final pressure should be put upon Benes. [7] With those recommendations the Prime Minister told me he agreed entirely but the Commonwealth Government are unable to telegraph pending the receipt of message referred to in the Dominions Office telegram No. 195. [8] Lyons when I saw him had already arranged to speak by telephone to Bruce at four (Australian time) today. [9]
 
-_
+ _
 
 1 R. G. Menzies, Attorney-General.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [PRO : DO 35/554]_
+ _[PRO : DO 35/554]_

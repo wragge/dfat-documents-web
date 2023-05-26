@@ -1,12 +1,17 @@
 ---
-title: "159 Curtin to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2806
+doc_date: '1944-05-19'
+doc_num: 159
+doc_order: 159
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 345]'
+title: Curtin to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 159 Curtin to Forde
 
 Cablegram 30 LONDON, 19 May 1944, 4.25 p.m.
 
@@ -46,7 +51,7 @@ iv. It would be necessary to pay attention to the subsidy costs involved, since 
 
 CURTIN
 
-_
+ _
 
 1 On file AA:A5954, box 662. It listed topics discussed during the second week of the Prime Ministers' meeting.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 345]_
+ _[AA:A5954, BOX 345]_

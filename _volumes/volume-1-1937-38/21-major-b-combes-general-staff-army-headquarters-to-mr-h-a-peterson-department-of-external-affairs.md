@@ -1,12 +1,18 @@
 ---
-title: "21 Major B. Combes, General Staff, Army Headquarters, to Mr H. A. Peterson, Department of External Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 21
+doc_date: '1937-04-29'
+doc_num: 21
+doc_order: 21
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90B, i]'
+title: Major B. Combes, General Staff, Army Headquarters, to Mr H. A. Peterson, Department
+  of External Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-04-29
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 21 Major B. Combes, General Staff, Army Headquarters, to Mr H. A. Peterson, Department of External Affairs
 
 Letter MELBOURNE, 29 April 1937
 
@@ -28,10 +34,10 @@ I do not know whether you have heard anything of this 'warning'. I think you sho
 
 B. COMBES
 
-_
+ _
 
 1 Lt Col E. E. Longfield Lloyd, Trade Commissioner in Tokyo.
 
 _
 
-_ [AA : A981, AUSTRALIA 90B, i]_
+ _[AA : A981, AUSTRALIA 90B, i]_

@@ -1,12 +1,17 @@
 ---
-title: "169 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 168
+doc_date: '1938-03-26'
+doc_num: 169
+doc_order: 168
+naa_refs:
+- naa_barcode: 206813
+  naa_control_symbol: O51/1/1
+  naa_series: A1608
+  reference: '[AA : A1608, 051/1/1]'
+title: Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-26
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 169 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 
 Cablegram unnumbered 26 March 1938,
 
@@ -18,10 +23,10 @@ We welcome the determination of the United Kingdom Government to accelerate its 
 
 LYONS
 
-_
+ _
 
 1 Not printed. See House of Commons, Parliamentary Debates, fifth series, vol. 333,Colc 1399 1413.
 
 _
 
-_ [AA : A1608, 051/1/1]_
+ _[AA : A1608, 051/1/1]_

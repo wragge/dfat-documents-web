@@ -1,14 +1,19 @@
 ---
-title: "272 Full Cabinet Submission by Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2919
+doc_date: '1944-09-06'
+doc_num: 272
+doc_order: 272
+naa_refs:
+- naa_barcode: 227880
+  naa_control_symbol: VOLUME 12
+  naa_series: A2700
+  reference: '[AA:A2700, VOL. 12, i]'
+title: Full Cabinet Submission by Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-06
+vol_title: 'Volume 7: 1944'
 ---
 
-# 272 Full Cabinet Submission by Evatt
-
-## Agendum 728 CANBERRA, 6 September 1944
+Agendum 728 CANBERRA, 6 September 1944
 
 UNITED NATIONS FOOD AND AGRICULTURE ORGANIZATION
 
@@ -46,7 +51,7 @@ Recommendation 12. The Constitution of the Organization and the Report of the In
 
 H. V. EVATT
 
-_
+ _
 
 1 Not published.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A2700, VOL. 12, i]_
+ _[AA:A2700, VOL. 12, i]_

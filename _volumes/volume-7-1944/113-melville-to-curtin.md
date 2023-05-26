@@ -1,12 +1,17 @@
 ---
-title: "113 Melville to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2760
+doc_date: '1944-04-21'
+doc_num: 113
+doc_order: 113
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 658]'
+title: Melville to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-04-21
+vol_title: 'Volume 7: 1944'
 ---
-
-# 113 Melville to Curtin
 
 Memorandum (extracts) [1] [OTTAWA] [2], 21 April 1944
 
@@ -152,7 +157,7 @@ EMPLOYMENT POLICY 50. We emphasised from the outset of the Conference that we re
 
 L. G. MELVILLE
 
-_
+ _
 
 1 This memorandum was given to Curtin's Private Secretary, F. A.
 
@@ -168,4 +173,4 @@ McLaughlin, for Curtin in Washington on 23 April (see Brigden's covering letter 
 
 _
 
-_ [AA:A5954, BOX 658]_
+ _[AA:A5954, BOX 658]_

@@ -1,14 +1,20 @@
 ---
-title: "424 Pritchett to Sastroamidjojo"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6593
+doc_date: '1949-05-27'
+doc_num: 424
+doc_order: 424
+naa_refs:
+- naa_barcode: 238383
+  naa_control_symbol: 352/1
+  naa_series: A4357
+  reference: '[AA : A4357/2, 352/i]'
+title: Pritchett to Sastroamidjojo
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-05-27
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 424 Pritchett to Sastroamidjojo
-
-## Letter BATAVIA, 27 May 1949
+Letter BATAVIA, 27 May 1949
 
 Following on the discussions which occurred during the visit to Indonesia by the Australian Goodwill Mission [1], the Australian Government desires to offer to the Republic of Indonesia, as the first stage of a programme of educational assistance, and in accordance with the spirit of resolutions regarding reconstruction adopted by UNESCO, two Senior Fellowships and one Junior Fellowship to be available for study within Australia. These Fellowships will be open to both men and women.
 
@@ -36,10 +42,10 @@ I have already had, Sir, the honour of discussing this matter with you and you w
 
 I avail myself of this opportunity to renew to you, Sir, the assurance of my high consideration.
 
-_
+ _
 
 1 See Document 167 in Volume XIII.
 
 _
 
-_ [AA : A4357/2, 352/i]_
+ _[AA : A4357/2, 352/i]_

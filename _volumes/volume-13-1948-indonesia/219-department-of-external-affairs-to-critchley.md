@@ -1,12 +1,17 @@
 ---
-title: "219 Department of External Affairs to Critchley"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5486
+doc_date: '1948-08-03'
+doc_num: 219
+doc_order: 219
+naa_refs:
+- naa_barcode: 274950
+  naa_control_symbol: 403/6/5/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838, 403/6/5/1]'
+title: Department of External Affairs to Critchley
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-08-03
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 219 Department of External Affairs to Critchley
 
 Cablegram 206 CANBERRA, 3 August 1948
 
@@ -18,8 +23,8 @@ We have been advised by Netherlands Minister here that action will be taken very
 
 3\. Please report fully on any action that is taken.
 
-_
+ _
 
 _
 
-_ [AA:A1838, 403/6/5/1]_
+ _[AA:A1838, 403/6/5/1]_

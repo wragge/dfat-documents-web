@@ -1,12 +1,17 @@
 ---
-title: "16 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2307
+doc_date: '1942-08-02'
+doc_num: 16
+doc_order: 16
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1942, 1.30591]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-02
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 16 Bruce to Curtin
 
 Cablegram 123[A] LONDON, 2 August 1942, 10.30 p.m.
 
@@ -44,7 +49,7 @@ The finding of a solution of the problem is rendered no easier by the recent ann
 
 BRUCE
 
-_
+ _
 
 1 Document 15.
 
@@ -68,4 +73,4 @@ _
 
 _
 
-_ [FA:A3195, 1942, 1.30591]_
+ _[FA:A3195, 1942, 1.30591]_

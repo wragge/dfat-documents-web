@@ -1,20 +1,27 @@
 ---
-title: "77 Memorandum to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7916
+doc_date: '1975-02-05'
+doc_num: 77
+doc_order: 77
+naa_refs:
+- naa_barcode: 552298
+  naa_control_symbol: 49/2/1/1 PART 5
+  naa_series: A1838
+  reference: '[NAA: A1838, 49/211/1, v]'
+title: Memorandum to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-02-05
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 77 Memorandum to Canberra
 
 Lisbon, 5 February 1975
 
 CONFIDENTIAL
 
-**Portuguese Timor**
+ **Portuguese Timor**
 
-Our memorandum No. 20 of 21 January, 1975 refers.1
+Our memorandum No. 20 of 21 January, 1975 refers.[1](#f1)
 
   2. Lieutenant Colonel Alfredo Carneiro suggested recently that I also establish contact with the 2nd Division of the General Staff of the Armed Forces and on 5 February I had a discussion with Commandant Jorge Gamito, Head of the Overseas Territories Branch. Commandant Gamito displayed the more forward position on Timor that I have met in discussions with other military figures in Lisbon. The discussion tended to confirm our view that the military generally see a more rapid pace for decolonisation in Timor and place less significance on economic viability before independence than civilian figures in Lisbon.
   3. Gamito's assessment was that the majority of the Timorese accepted the UDT/Fretilin position of independence sooner or later. Apodeti was simply an Indonesian front and had very little support. Indonesia, through the activities of the Indonesian Consul in Dili and Radio Kupang, was trying to create conditions favourable to the integration of Timor into Indonesia.
@@ -27,8 +34,6 @@ I. H. COUSINS
 
 First Secretary
 
-_ [NAA: A1838, 49/211/1, v]_
+ _[NAA: A1838, 49/211/1, v]_
 
   * 1 A full report by Cousins on the Portuguese military force in Timor. Its strength was largely unchanged at one infantry battalion, 'poorly equipped and poorly trained', and a small naval force. Morale was said to be low and there seemed to be no possibility of a military response to an Indonesian invasion. Pires was a competent, moderate AFM supporter; Major Mota, head of the political affairs cabinet was the leading AFM figure whose role as a leftist 'Progressista' was to balance Pires' moderation. Little thought had been given in Lisbon to Timor, apart from the appointment of Pires, who had been asked to submit a report on the political and military situation. It had been suggested that, given the lack of guerrilla or external threat, a police force might replace the military. Cousins noted some difference between civilian and military views on decolonisation, the former in line with statements made by Santos, while decolonisation was of much greater interest to the AFM. Military ministers outnumbered Santos and Soares on the decolonisation commission, and it was possible that the military would not accept a long term solution, so that 'a military inspired negotiated settlement with Indonesia cannot be entirely ruled out'. Colonel Alfredo Carneiro, Head of the President's military household, had been interested to learn of Australia's policy. Joseph wrote appreciatively to Cooper of this memorandum on 30 January. It had been read with keen interest in Canberra, and Carneiro was, he thought, the kind of contact Renouf had been hoping for when he made the comments reported in Document 74.
-
-

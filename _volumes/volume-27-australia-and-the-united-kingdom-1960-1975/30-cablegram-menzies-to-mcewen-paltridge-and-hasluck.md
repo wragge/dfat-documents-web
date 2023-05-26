@@ -1,24 +1,27 @@
 ---
-title: "30 CABLEGRAM, MENZIES TO MCEWEN, PALTRIDGE AND HASLUCK"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9896
+doc_date: '1965-07-03'
+doc_num: 30
+doc_order: 30
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1209
+  reference: '[NAA: Al209, 1965/6595]'
+title: CABLEGRAM, MENZIES TO MCEWEN, PALTRIDGE AND HASLUCK
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-07-03
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 30 CABLEGRAM, MENZIES TO MCEWEN, PALTRIDGE AND HASLUCK
-
-NAA: Al209, 1965/6595
 
 Australian High Commission, London, 3 July 1965
 
 5888\. Top Secret
 
-****
+ ****
 
-Defence Talks1
+Defence Talks[1](#f1)
 
-At Wilson’s request I met him at the House on Thursday afternoon. He had Stewart, Healey, Bottomley and Trend2 with him. I took Bunting, Hartnell and Eastman (High Commissioner being indisposed).
+At Wilson’s request I met him at the House on Thursday afternoon. He had Stewart, Healey, Bottomley and Trend[2](#f2) with him. I took Bunting, Hartnell and Eastman (High Commissioner being indisposed).
 
 Wilson said he had originally envisaged including New Zealanders but had later thought it better to speak to me bilaterally and very privately.
 
@@ -68,7 +71,7 @@ He believed they would want to help Britain to stay in area and would therefore 
 
 At Churchill’s funeral Rusk had expressed keen interest in quadripartite discussions, which were fixed for the time of the SEATO Council.
 
-Unfortunately San Dominica had then kept Rusk at home and it was not possible to carry matter far with Ball3 but Wilson had no doubt as to Rusk’s own interest.
+Unfortunately San Dominica had then kept Rusk at home and it was not possible to carry matter far with Ball[3](#f3) but Wilson had no doubt as to Rusk’s own interest.
 
 6\. Wilson called on Healey who went over the same ground in rather more detail.
 
@@ -94,7 +97,7 @@ We had no objection to arrangements for the use of Cocos; there would obviously 
 
 As to quadripartite planning, the Americans were most anxious for the British to maintain their presence East of Suez and I saw value and promise in contingency planning as to the parts which we all might play.
 
-8\. Healey also hoped for closer liaison with us on the intelligence side and in particular for effective British liaison with our JIC; Strong4 would be pursuing this with us on his forthcoming visit.
+8\. Healey also hoped for closer liaison with us on the intelligence side and in particular for effective British liaison with our JIC; Strong[4](#f4) would be pursuing this with us on his forthcoming visit.
 
 I said I expected no insuperable difficulty about this provided that the British representative was qualified and briefed to contribute effectively.
 
@@ -132,7 +135,7 @@ The British have already had a certain amount of recent bilateral discussion wit
 
 I encouraged this.
 
-12\. In course of discussion Wilson recognised dangers of tension between Tunku and Lee (which Healey equated to a confrontation between Edward VII and Bobby Kennedy).5
+12\. In course of discussion Wilson recognised dangers of tension between Tunku and Lee (which Healey equated to a confrontation between Edward VII and Bobby Kennedy).[5](#f5)
 
 Wilson said he had already warned Tunku and had given him notice of another warning as soon as he would be well enough to receive it.
 
@@ -149,3 +152,5 @@ I stated and restated my belief that if anything emerged publicly from any talks
 4 Sir Kenneth Strong, first Director-General of Intelligence, Ministry of Defence, 1964–66.
 
 5 King Edward VII, reigned 1901–10, whose private life and extra-marital affairs were the subject of society gossip and press speculation. Robert Kennedy, one of two younger brothers of President John F. Kennedy. Robert Kennedy was US Attorney General, 1961–64, and then US Senator from New York. He was assassinated in 1968.
+
+[NAA: Al209, 1965/6595]

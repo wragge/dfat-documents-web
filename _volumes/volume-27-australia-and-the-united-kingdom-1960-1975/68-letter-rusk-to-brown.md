@@ -1,26 +1,29 @@
 ---
-title: "68 LETTER, RUSK TO BROWN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9933
+doc_date: '1967-05-12'
+doc_num: 68
+doc_order: 68
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 46/53]'
+title: LETTER, RUSK TO BROWN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-05-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 68 LETTER, RUSK TO BROWN
-
-UKNA: FCO 46/53
 
 Washington, 12 May 1967
 
 Secret
 
-Thank you for your letter of May 1.1 Denis Healey told Bob McNamara he will be reporting to the Cabinet on May 12 on his visit to Singapore/Malaysia, and presumably, on his conversations with Bob. I am answering your letter now so that you will have it in advance of that meeting.
+Thank you for your letter of May 1.[1](#f1) Denis Healey told Bob McNamara he will be reporting to the Cabinet on May 12 on his visit to Singapore/Malaysia, and presumably, on his conversations with Bob. I am answering your letter now so that you will have it in advance of that meeting.
 
 I am especially pleased by what you said about consultation. The decision your Cabinet is considering making to withdraw entirely from the area will have the most devastating repercussions in all kinds of directions, and, since it will set up chain reactions that will strike at the very basis of our whole post-war foreign policy, it is of transcending importance that the Cabinet fully understand the grave implications of such a decision.
 
 McNamara has reported on his talk with Denis. His report was anything but assuring that your Government is facing up to this fundamental aspect of the problem. Bob underscored what I have already told you. He made it clear that a decision made now to withdraw entirely in the 1970s would be a disaster to us, that American opinion would not stand for picking up the abandoned British position, and that if Europe is withdrawing from the world while the US is carrying a major burden for defending Europe, the pressures in the US might also lead to a US withdrawal from Europe. Denis has never addressed himself to these aspects of the problem. He said that there was no chance of changing the decision to run down your forces to zero by 1975–6, he stressed that this decision was associated with budgetary savings and the initiative to get into Europe, and that association with Europe was incompatible with remaining in Southeast Asia. He indicated that he wants to announce the long-term plan in early August.
 
-There will be further opportunity for discussion when the Prime Minister and the President meet on June.2 Holt and the President will talk on June 1, and we are giving some thought to having the three of us meet at that time. 21 must ask you to convey to Harold the importance of making no decision on this matter in advance of these talks.
+There will be further opportunity for discussion when the Prime Minister and the President meet on June.[2](#f2) Holt and the President will talk on June 1, and we are giving some thought to having the three of us meet at that time. 21 must ask you to convey to Harold the importance of making no decision on this matter in advance of these talks.
 
 Meanwhile we have had reports of Healey’s meetings with the Tunku and Lee Kwan Yew,.and have been talking further with the Australians and New Zealanders.
 
@@ -47,3 +50,5 @@ Once Vietnam is settled and we have a better idea of the shape of the future in 
 1 See Document 63, note 4.
 
 2  Wilson was determined to avoid a tripartite meeting on his visit to Washington. He wanted bilateral discussions with the President. ‘He does not want any ganging up between the President and Holt’ (UKNA: FCO 46/53, letter, Palliser to C.M. Maclehose (Foreign Office), 15 May 1967).
+
+[UKNA: FCO 46/53]

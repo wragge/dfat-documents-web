@@ -1,12 +1,18 @@
 ---
-title: "258 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2549
+doc_date: '1943-08-16'
+doc_num: 258
+doc_order: 258
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, MOST SECRET INWARDS MASTER SHEETS, EXCLUDING SECRETARY
+    OF STATE FOR DOMINION AFFAIRS, 1.34191]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-08-16
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 258 Bruce to Curtin
 
 Cablegram 124[A] LONDON, 16 August 1943, 7.28 p.m.
 
@@ -24,7 +30,7 @@ For your very private information Oliphant would be willing to make the trip and
 
 BRUCE
 
-_ 1 Code name for the Anglo-American program to develop an atomic bomb.
+ _1 Code name for the Anglo-American program to develop an atomic bomb.
 
 2 Deputy Chairman and Chief Executive Officer of the Council for Scientific and Industrial Research.
 
@@ -36,4 +42,4 @@ _ 1 Code name for the Anglo-American program to develop an atomic bomb.
 
 _
 
-_ [FA:A3195, 1943, MOST SECRET INWARDS MASTER SHEETS, EXCLUDING SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.34191]_
+ _[FA:A3195, 1943, MOST SECRET INWARDS MASTER SHEETS, EXCLUDING SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.34191]_

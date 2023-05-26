@@ -1,12 +1,17 @@
 ---
-title: "222 Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office"
-volume: "Volume 1: 1937-38"
-doc_id: 221
+doc_date: '1938-06-24'
+doc_num: 222
+doc_order: 221
+naa_refs:
+- naa_barcode: 232314
+  naa_control_symbol: '308'
+  naa_series: A2937
+  reference: '[FA : A2937, YAMPI SOUND]'
+title: Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-06-24
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 222 Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office
 
 Repeated to U.K. High Commissioner, Canberra, and to Prime Minister, Canberra
 
@@ -22,7 +27,7 @@ Vice Minister for Foreign Affairs remained unconvinced by my arguments observing
 
 He begged to put this view very strongly before the Commonwealth Government and to urge even if Japanese group could not be given facilities for prolonged exploitation of Yampi Sound deposits they should at least be allowed partially to recoup themselves for their loss over a certain period and thereby help to relieve Japan's needs in the immediate future. I replied that I feared that decision of Commonwealth Government was irrevocable but that I would certainly place before them the general considerations which His Excellency had advanced.
 
-_
+ _
 
 1 Kensuke Horinouchi.
 
@@ -34,4 +39,4 @@ A981, Trade 68, iii).
 
 _
 
-_ [FA : A2937, YAMPI SOUND]_
+ _[FA : A2937, YAMPI SOUND]_

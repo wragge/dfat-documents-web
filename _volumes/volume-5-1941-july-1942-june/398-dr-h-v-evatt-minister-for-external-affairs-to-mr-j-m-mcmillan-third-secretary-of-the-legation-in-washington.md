@@ -1,12 +1,18 @@
 ---
-title: "398 Dr H. V. Evatt, Minister for External Affairs, to Mr J. M. McMillan, Third Secretary of the Legation in Washington"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2152
+doc_date: '1942-03-08'
+doc_num: 398
+doc_order: 399
+naa_refs:
+- naa_barcode: 637523
+  naa_control_symbol: WAR 41 PART 1
+  naa_series: A981
+  reference: '[AA:A981, WAR 41B]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr J. M. McMillan, Third
+  Secretary of the Legation in Washington
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-08
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 398 Dr H. V. Evatt, Minister for External Affairs, to Mr J. M. McMillan, Third Secretary of the Legation in Washington
 
 Cablegram SW7 CANBERRA, 8 March 1942
 
@@ -40,7 +46,7 @@ area.
 
 EVATT
 
-_
+ _
 
 1 Justice of the U.S. Supreme Court.
 
@@ -62,4 +68,4 @@ _
 
 _
 
-_ [AA:A981, WAR 41B]_
+ _[AA:A981, WAR 41B]_

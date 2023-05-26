@@ -1,20 +1,25 @@
 ---
-title: "321 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 1: 1937-38"
-doc_id: 320
+doc_date: '1938-11-30'
+doc_num: 321
+doc_order: 320
+naa_refs:
+- naa_barcode: 257368
+  naa_control_symbol: BUNDLE 1/15
+  naa_series: CP290/2
+  reference: '[AA : CP290/2, BUNDLE 1, FILE 15]'
+title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-11-30
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 321 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 30 November 1938,
+Cablegram unnumbered 30 November 1938,
 
 Today's cables [1] indicate that plan is being prepared for presentation to President Roosevelt to amend United States Neutrality Law to enable President to apply embargo against any nation deemed to be aggressor. [2] Cables further state that Canada will be included in list of American nations to which Act now does not apply. Seems to us that even if chances small it would be well worth while for you to discuss with Roosevelt the possibility of America including Australia and New Zealand in same category as Canada. [3] Such a recognition of common interests and ideals English-speaking countries on Pacific basin would have obvious and tremendous results.
 
 LYONS
 
-_
+ _
 
 1 Not printed.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA : CP290/2, BUNDLE 1, FILE 15]_
+ _[AA : CP290/2, BUNDLE 1, FILE 15]_

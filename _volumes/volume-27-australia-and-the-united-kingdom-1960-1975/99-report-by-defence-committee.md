@@ -1,26 +1,29 @@
 ---
-title: "99 REPORT BY DEFENCE COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9964
+doc_date: '1968-08-22'
+doc_num: 99
+doc_order: 99
+naa_refs:
+- naa_barcode: 3188732
+  naa_control_symbol: C470 PART 2
+  naa_series: A5619
+  reference: '[NAA: A5619, C470 PART 2]'
+title: REPORT BY DEFENCE COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-08-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 99 REPORT BY DEFENCE COMMITTEE
-
-NAA: A5619, C470 PART 2
 
 Canberra, 22 August 1968
 
 306/1968. Top Secret
 
-****
+ ****
 
-The Strategic Basis of Australian Defence Policy—19681
+The Strategic Basis of Australian Defence Policy—1968[1](#f1)
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_12\. Australia’s strategic interests_
+ _12\. Australia’s strategic interests_
 
 167\. The foregoing discussion has identified the following strategic interests as a basis for the consideration of policy:
 
@@ -58,7 +61,7 @@ _12\. Australia’s strategic interests_
 
 PART III. Future Defence Policy
 
-_1\. Introduction_
+ _1\. Introduction_
 
 168\. Australian strategy cannot be considered in isolation from the global situation and the strategies of the major world powers. While the nuclear stalemate between the USSR and USA has reduced the likelihood of general war, and the détente between the two countries has in Europe relaxed tensions between the NATO powers and the Soviet Bloc, Africa and the Middle East remain regions of instability for a variety of reasons. Yet, at present, the situation in these regions does not suggest military intervention by, or military conflict between, the major world powers.
 
@@ -68,7 +71,7 @@ _1\. Introduction_
 
 171\. That Communist Chinese aggression has been kept within the limits it has been and that the other favourable developments noted have occurred may be ascribed largely to the USA and to a lesser extent the UK.
 
-_2\. Our Defence policy_
+ _2\. Our Defence policy_
 
 172\. None the less our recognition of these changes with their credits and debits, should not be allowed to obscure the abiding nature of basic features of our strategic situation:
 
@@ -97,7 +100,7 @@ _2\. Our Defence policy_
 
 180\. What is proposed would have the advantage, if contrary to our assessment, the US withdrawal from Asia should be more dramatic, that we would have placed ourselves in a position to devote even greater emphasis to the improvement of the capability of our forces within Australia for the protection of it and its Territories.
 
-_The short term concept_
+ _The short term concept_
 
 181\. In the short term as defined by this paper, Australia has little option but to continue the present forward defence posture because we are heavily committed in Vietnam, and also committed to the stationing of forces in Malaysia and Singapore. In addition Australia is committed to the support of the SEATO alliance involving the declaration of forces to SEATO contingency plans for the defence ofThailand against externally inspired insurgency and overt aggression and regular participation in SEATO exercises.
 
@@ -107,7 +110,7 @@ _The short term concept_
 
 184\. At the initial Five Power Talks Australia accepted that our agreement to contribute to the proposed integrated air defence system for Malaysia and Singapore would carry implications in regard to the post-1971 period. Our options for a continuing naval and army presence were left open. The continued presence of appropriate Australian forces in Malaysia and Singapore until the end of the Vietnam war and during the period of readjustment following a settlement in Vietnam would be consistent with the foregoing argument.
 
-_The concept post-Vietnam_
+ _The concept post-Vietnam_
 
 185\. What lies beyond the conclusion of the Vietnam war depends on the settlement that emerges and its aftermath. We have assessed a continuing insurgency threat to Laos, Cambodia and Thailand and that the continued existence of an independent Thailand is crucial to the future stability of Malaysia and Singapore. Regardless of the type of Vietnam settlement, unless it is unexpectedly favourable, the other countries in South-East Asia will be anxious about what North Vietnam and China might do next. This uncertainty will probably take time to subside. The US and allied attitudes, US support for Thailand, and Australian support for Malaysia and Singapore could be critical during this period to consolidate the settlement, sustain confidence, and discourage aggressive attitudes by North Vietnam and China. It should be possible during this readjustment period to confine Australia’s military deployments to some form of continuing presence in Malaysia and Singapore and perhaps in Vietnam as part of the terms of settlement. Given the most favourable circumstances, this readjustment period could be short, and thereafter Australian military deployments in South-East Asia would become unnecessary. At that stage, apart from engaging in military exercises, our activity could be confined to political and economic aid directed to preserving and consolidating the position established during the period of our forward defence posture and to strengthening the internal position of the South-East Asian states in the area of our immediate interest. There would remain only the continuing military commitment under SEATO, unless meantime Australia became party to some other regional arrangement involving military obligations.
 
@@ -121,7 +124,7 @@ _The concept post-Vietnam_
 
 190\. As things stand, in the late medium or longer terms covered by this paper there is the possibility that there could be a change in the attitude of Indonesia and unfavourable developments in the Philippines. Such possibilities might be frustrated if the course advocated above is pursued. Putting this aside, in the case of Indonesia a change in attitude and the consequential threat to Australia could develop more quickly and Australian policy must take this possibility into account. This is one more reason why the capability of the forces we develop from now on should be versatile enough to meet a possible future threat from Indonesia.
 
-_3\. Continuing and potential commitments_
+ _3\. Continuing and potential commitments_
 
 192\. It follows from the foregoing argument that Australia needs to make provision for forces to meet the following purposes, along with the direct defence of Australia and its Territories:
 
@@ -137,6 +140,8 @@ _3\. Continuing and potential commitments_
 
 Some notes on these follow.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 1 This is the revised version of the 1968 strategic assessment (see Document 94) which was amended in the light of the Defence Committee’s comments (see Document 95). Published here are, from Part II of the report, paragraph 167, a summary of Australia’s strategic interests; and, from Part III, paragraphs 168–92, on future defence policy. 
+
+[NAA: A5619, C470 PART 2]

@@ -1,14 +1,20 @@
 ---
-title: "407 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1638
+doc_date: '1941-04-17'
+doc_num: 407
+doc_order: 407
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.4777]'
+title: Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of
+  State for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-17
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 407 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 235 17 April 1941,
+Cablegram 235 17 April 1941,
 
 Your telegram No. 181 of 4th April [1] has been noted with much interest by my Government, which is greatly concerned at the present situation in North Africa and Greece, in both of which theatres our Australian troops are so vitally affected.
 
@@ -18,10 +24,10 @@ As in your paragraph 3, we regard the security of Egypt and the Suez Canal as of
 
 If such an appreciation could be supplied, it would, with the information contained in your cable 181 of 14th April, and any additional information that can now be furnished, be of great value to my Government, which is naturally concerned regarding the Australian troops now fighting defensively in these areas.
 
-_
+ _
 
 1 Document 402.
 
 _
 
-_ [AA: A3196, 1941, 0.4777]_
+ _[AA: A3196, 1941, 0.4777]_

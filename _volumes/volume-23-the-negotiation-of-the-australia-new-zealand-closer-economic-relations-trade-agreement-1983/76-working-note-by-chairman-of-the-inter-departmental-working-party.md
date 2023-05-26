@@ -1,12 +1,19 @@
 ---
-title: "76 Working Note by Chairman of the Inter-Departmental Working Party"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8946
+doc_date: '1979-11-21'
+doc_num: 76
+doc_order: 76
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Working Note by Chairman of the Inter-Departmental Working Party
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-11-21
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 76 Working Note by Chairman of the Inter-Departmental Working Party
 
 Wellington, 21 November 1979
 
@@ -35,4 +42,4 @@ Treasury, in consultation with DTI and MAP, is examining the assistance provided
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 22 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 22 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

@@ -1,14 +1,19 @@
 ---
-title: "111 Beasley to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2758
+doc_date: '1944-04-19'
+doc_num: 111
+doc_order: 111
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, 1.14910]'
+title: Beasley to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-04-19
+vol_title: 'Volume 7: 1944'
 ---
 
-# 111 Beasley to Evatt
-
-## Cablegram 290 [1] [PHILADELPHIA], 19 April 1944, 6.41 p.m.
+Cablegram 290 [1] [PHILADELPHIA], 19 April 1944, 6.41 p.m.
 
 Following for Dr. Evatt from Mr. Beasley.
 
@@ -22,7 +27,7 @@ Naturally officials at Washington will wish to discuss with them my statement th
 
 Even the so called technical discussions must lead to discussion of general principles and unless you see some useful purpose in informal official discussions at this stage, I think they should be avoided.
 
-_
+ _
 
 1 Sent through the Legation in Washington.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A3195, 1944, 1.14910]_
+ _[AA:A3195, 1944, 1.14910]_

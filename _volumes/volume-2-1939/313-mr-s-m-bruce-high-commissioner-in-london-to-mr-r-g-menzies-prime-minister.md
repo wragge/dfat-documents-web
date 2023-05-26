@@ -1,12 +1,17 @@
 ---
-title: "313 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 650
+doc_date: '1939-10-28'
+doc_num: 313
+doc_order: 313
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-28
+vol_title: 'Volume 2: 1939'
 ---
-
-# 313 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 28 October 1939
 
@@ -20,10 +25,10 @@ practises of appointing Ambassadors at large for special Missions) to establish 
 
 BRUCE
 
-_ 1 Document 309.
+ _1 Document 309.
 
 2 See Document 315.
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

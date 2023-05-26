@@ -1,18 +1,21 @@
 ---
-title: "437 LETTER GRAHAM TO MOORE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10304
+doc_date: '1972-07-24'
+doc_num: 437
+doc_order: 437
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1373]'
+title: LETTER GRAHAM TO MOORE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-07-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 437 LETTER GRAHAM TO MOORE
-
-UKNA: FCO 24/1373
 
 London, 24 July 1972
 
-I enclose a copy of a letter the Foreign and Commonwealth Secretary has received from Sir Mark Oliphant, Governor of South Australia.2 His letter has been acknowledged and we are considering a substantive reply. You may wish to bring the letter to the attention of Her Majesty.
+I enclose a copy of a letter the Foreign and Commonwealth Secretary has received from Sir Mark Oliphant, Governor of South Australia.[2](#f2) His letter has been acknowledged and we are considering a substantive reply. You may wish to bring the letter to the attention of Her Majesty.
 
 As regards the question of honours, Sir Mark himself appears to realise that there is little that Her Majesty’s Government in the United Kingdom could, or would wish to, do. If South Australia intends in future not to submit recommendations for honours, there can clearly be no objection; such a policy is already being pursued by Western Australia. Nor could we prevent the Government of South Australia from instituting an honours system of their own, for use within that State, without reference to The Queen. However, as The Queen is the Fount of Honour within Her Realms, any system of honours instituted without Her Majesty’s approval could only be regarded as ‘illegitimate’. Awards in such an ‘Order’ would not be officially recognised and should not be worn in conjunction with properly instituted honours.
 
@@ -22,10 +25,12 @@ The Governor also raises the relationship between the Royal Family and Australia
 
 Sir Alec Douglas-Home has had no indication of the views of the present Australian government on this question.
 
-Subject to any views which you may wish to convey to him, Sir Alec Douglas-Home would propose to reply to the Governor along the lines of paragraphs 2 to 4 of this letter.3
+Subject to any views which you may wish to convey to him, Sir Alec Douglas-Home would propose to reply to the Governor along the lines of paragraphs 2 to 4 of this letter.[3](#f3)
 
 1 J.A.N. Graham, Private Secretary to Secretary of State for Foreign and Commonwealth Affairs; (Sir) Philip Moore, Deputy Private Secretary to the Queen, 1966–72, Assistant Private Secretary, 1972–77, Private Secretary, 1977–86.
 
 2 See Document 436.
 
 3 Replying to Graham, Sir Martin Charteris, the Queen’s Private Secretary (1972–77) commented that Oliphant’s letter made ‘gloomy reading’ (UKNA: FCO 24/1373, letter, Charteris to Graham, 25 July 1972).
+
+[UKNA: FCO 24/1373]

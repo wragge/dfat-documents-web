@@ -1,19 +1,23 @@
 ---
-title: "32 Memorandum, Administration (Cleland) To Dot"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9540
+doc_date: '1966-03-18'
+doc_num: 32
+doc_order: 32
+naa_refs:
+- naa_barcode: 12031697
+  naa_control_symbol: 1965/5939
+  naa_series: A452
+  reference: '[NAA: A452, 1965/5939]'
+title: Memorandum, Administration (Cleland) To Dot
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-03-18
-barcode: 12031697
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 32 Memorandum, Administration (Cleland) To Dot
 
 Port Moresby, 18 March 1966
 
 Confidential
 
-I refer to your confidential memorandum 65/5939 of 25th January 1966, the draft statement attached thereto and subsequent correspondence regarding the proposal to modify the Territory’s immigration policy to permit temporary entry of a limited number of non-European specialist technicians and professional personnel for essential purposes.1
+I refer to your confidential memorandum 65/5939 of 25th January 1966, the draft statement attached thereto and subsequent correspondence regarding the proposal to modify the Territory’s immigration policy to permit temporary entry of a limited number of non-European specialist technicians and professional personnel for essential purposes.[1](#f1)
 
 2\. The matter was referred to the Administrator’s Council at its meeting on 3rd March 1966 ...
 
@@ -29,9 +33,9 @@ I refer to your confidential memorandum 65/5939 of 25th January 1966, the draft 
 
 (d) Two (2) years would appear to be the desirable limit on temporary entry of technicians, etc. If necessary, the individual concerned could be replaced at the end of this time.
 
-(e) The Council would appreciate being consulted before permission is granted for groups of Asian technicians, etc., to enter the Territory in connection with a new business or other venture. Such consultation would, of course, not extend to individual applications for temporary entry.2
+(e) The Council would appreciate being consulted before permission is granted for groups of Asian technicians, etc., to enter the Territory in connection with a new business or other venture. Such consultation would, of course, not extend to individual applications for temporary entry.[2](#f2)
 
-[ [NAA: A452, 1965/5939](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=12031697) ]
+[NAA: A452, 1965/5939]
 
 1 See Document 4.
 

@@ -1,12 +1,17 @@
 ---
-title: "81 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2728
+doc_date: '1944-03-14'
+doc_num: 81
+doc_order: 81
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 576]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-14
+vol_title: 'Volume 7: 1944'
 ---
-
-# 81 Bruce to Curtin
 
 Cablegram 42[A] LONDON, 14 March 1944, 10.15 p.m.
 
@@ -72,7 +77,7 @@ I know you will realise the necessity for the utmost secrecy being observed with
 
 BRUCE
 
-_
+ _
 
 1 Document 38.
 
@@ -86,4 +91,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 576]_
+ _[AA:A5954, BOX 576]_

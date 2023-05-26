@@ -1,14 +1,20 @@
 ---
-title: "245 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1011
+doc_date: '1940-05-15'
+doc_num: 245
+doc_order: 245
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL: MS 1538, SERIES 45, SUBSERIES 3]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 245 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
-
-## Cablegram 151 LONDON, 15 May 1940, 10.20 p.m.
+Cablegram 151 LONDON, 15 May 1940, 10.20 p.m.
 
 IMMEDIATE
 
@@ -22,7 +28,7 @@ Intention is that the escort will be maintained at present strength as far as Ca
 
 It is understood that two vessels have Chinese crews who decline to proceed into the Atlantic. This difficulty can, however, be met by the troops at present on these ships being transferred at Capetown to other ships of the convoy in which accommodation can be provided without undue overcrowding. This would ensure that delay at Capetown would be reduced to a minimum and that the troops would be able to reach the United Kingdom in one body. [4]
 
-_
+ _
 
 1 The date of receipt has been taken from the Prime Minister's Dept inward cable register (FA: A3635).
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [ANL: MS 1538, SERIES 45, SUBSERIES 3]_
+ _[ANL: MS 1538, SERIES 45, SUBSERIES 3]_

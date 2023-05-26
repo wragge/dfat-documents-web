@@ -1,12 +1,18 @@
 ---
-title: "406 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2160
+doc_date: '1942-03-12'
+doc_num: 406
+doc_order: 407
+naa_refs:
+- naa_barcode: 239455
+  naa_control_symbol: 474/1
+  naa_series: A5954
+  reference: '[AA:MP1217, BOX 474, DR H. V. EVATT ... VISIT TO UNITED KINGDOM AND
+    U.S.A.-1942]'
+title: Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-12
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 406 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
 
 Cablegram Winch 11 LONDON, 12 March 1942, 1.35 a.m.
 
@@ -16,7 +22,7 @@ I am thinking of offering the vacant position of Minister of State in Cairo [1] 
 
 CHURCHILL
 
-_ AND U.S.A.-1942]
+ _
 
 1 Previously held by Oliver Lyttelton.
 
@@ -24,4 +30,4 @@ _ AND U.S.A.-1942]
 
 _
 
-_ [AA:MP1217, BOX 474, DR H. V. EVATT ... VISIT TO UNITED KINGDOM_
+ _[AA:MP1217, BOX 474, DR H. V. EVATT ... VISIT TO UNITED KINGDOM AND U.S.A.-1942]_

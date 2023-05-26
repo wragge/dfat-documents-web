@@ -1,14 +1,19 @@
 ---
-title: "329 Johnston to McVey"
-volume: "Volume 7: 1944"
-doc_id: 2976
+doc_date: '1944-10-25'
+doc_num: 329
+doc_order: 329
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/12]'
+title: Johnston to McVey
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-25
+vol_title: 'Volume 7: 1944'
 ---
 
-# 329 Johnston to McVey
-
-## Cablegram Air Talks 1 MONTREAL, 25 October 1944, 2.16 p.m.
+Cablegram Air Talks 1 MONTREAL, 25 October 1944, 2.16 p.m.
 
 MOST IMMEDIATE
 
@@ -30,7 +35,7 @@ For McVey from Johnston.
 
 5\. On the question of operating Commonwealth routes it is too early to indicate what conclusions will be finally reached, but clearly Canada at least is opposed to one Commonwealth operating organisation and regards the principle of sectionalisation as having been agreed in London talks-vide Beaverbrook-Howe of the 13th of October, 1943. [5] The Australian Delegation presented the case for strategic and commercial Empire routes, but apart from New Zealand, no active support was given and the Australian Delegation was requested to submit a detailed case for an Empire Corporation for the consideration of the Sub-Committee. Even the United Kingdom Delegation regarded the difficulties of Commonwealth operating corporation, especially those of standard equipment, as being insurmountable.
 
-_
+ _
 
 1 The Australian Delegation was led by E. C. Johnston, Assistant Director-General of Civil Aviation, and included Hodgson and two officers of the Civil Aviation Dept, H. R. Adam, Supervising Engineer, and W. L. Ellis, Inspector of Aircraft. Drakeford was in Montreal at the same time but, as the talks were at the official level, he was not included in the Delegation.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A989, 44/735/832/12]_
+ _[AA:A989, 44/735/832/12]_

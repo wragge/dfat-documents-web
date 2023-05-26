@@ -1,12 +1,17 @@
 ---
-title: "45 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1799
+doc_date: '1941-08-14'
+doc_num: 45
+doc_order: 46
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 185B, ii]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-14
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 45 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 634 WASHINGTON, 14 August 1941, 12.35 a.m.
 
@@ -28,7 +33,7 @@ No doubt it will have occurred to you that what has taken place at Vichy may mea
 
 CASEY
 
-_
+ _
 
 1 R. G. Menzies.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 185B, ii]_
+ _[AA:A981, JAPAN 185B, ii]_

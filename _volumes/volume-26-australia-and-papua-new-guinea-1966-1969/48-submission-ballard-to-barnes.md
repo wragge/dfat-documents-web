@@ -1,41 +1,45 @@
 ---
-title: "48 Submission, Ballard To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9556
+doc_date: '1966-07-08'
+doc_num: 48
+doc_order: 48
+naa_refs:
+- naa_barcode: 11345517
+  naa_control_symbol: 1966/2960
+  naa_series: A452
+  reference: '[NAA: A452, 1966/2960]'
+title: Submission, Ballard To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-07-08
-barcode: 11345517
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 48 Submission, Ballard To Barnes
 
 Canberra, 8 July 1966
 
-**Papua and New Guinea—Select Committee on Constitutional Development**
+ **Papua and New Guinea—Select Committee on Constitutional Development**
 
-On 10th June 1966 the Chairman of the Select Committee, Mr. Guise, made a statement in the House of Assembly summarising the discussions last April between other Ministers and yourself and the Committee.1 Mr. Guise went on to say that the Committee believed that the views of the Territory people should be obtained on any change in the composition of House, and that a series of visits to parts of the Territory by members of the Committee had been commenced.
+On 10th June 1966 the Chairman of the Select Committee, Mr. Guise, made a statement in the House of Assembly summarising the discussions last April between other Ministers and yourself and the Committee.[1](#f1) Mr. Guise went on to say that the Committee believed that the views of the Territory people should be obtained on any change in the composition of House, and that a series of visits to parts of the Territory by members of the Committee had been commenced.
 
 2\. The Committee had by that date visited the Western District, the Gulf District and part of the Central District. The programme provides for the Committee’s visits to all other districts of the Territory to be concluded by 4th August 1966. In making these visits the Committee had divided into groups of from two to seven members and all members will meet again in Port Moresby on 8th and 9th August, 1966.
 
-3\. In his statement to the House of Assembly, Mr. Guise said that the Committee’s enquiry with the people is limited to matters affecting the next House, such as open electorates, special electorates, official members and any responsibility for revenue raised in the Territory.2 Publicity had been given to the Committee’s work by press and radio and by information forwarded through Local Government Councils, District and Town Advisory Councils, Workers’ and Co-Operative Societies, District Commissioners and Missions.
+3\. In his statement to the House of Assembly, Mr. Guise said that the Committee’s enquiry with the people is limited to matters affecting the next House, such as open electorates, special electorates, official members and any responsibility for revenue raised in the Territory.[2](#f2) Publicity had been given to the Committee’s work by press and radio and by information forwarded through Local Government Councils, District and Town Advisory Councils, Workers’ and Co-Operative Societies, District Commissioners and Missions.
 
 4\. Mr. Guise said that the Committee will consider the views put by the people to its members during the visits to Districts, and in written submissions. An interim report on these matters will be presented to the House by the Committee at the next sittings of the House in August, 1966.
 
 5\. The timetable discussed at the Canberra talks with the Committee for any interim changes in the House of Assembly requires any recommendations to be with the Government by mid-August of this year. The Committee meeting at Port Moresby on 8th and 9th August is presumably for the drafting of the interim report. This could mean that the report will be available for consideration by the House of Assembly in the week commencing 15th August.
 
-6\. In discussions with official members after the Canberra talks it was mentioned that it would be desirable for an official member to be a member of individual Committee groups which would be asking the people for their views on changes. The break up of the groups (attached)3 does not accomplish this. Where, however, no official member has been assigned to a group, one of the European members (Mr. Downs or Mr. Stuntz) is a group member and they {c}ould {be expected} to see that questions were explained in detail and that views were fairly recorded.
+6\. In discussions with official members after the Canberra talks it was mentioned that it would be desirable for an official member to be a member of individual Committee groups which would be asking the people for their views on changes. The break up of the groups (attached)[3](#f3) does not accomplish this. Where, however, no official member has been assigned to a group, one of the European members (Mr. Downs or Mr. Stuntz) is a group member and they {c}ould {be expected} to see that questions were explained in detail and that views were fairly recorded.
 
-7\. _Submitted for information._4
+7\. _Submitted for information._[4](#f4)
 
-[ [NAA: A452, 1966/2960](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=11345517) ]
+[NAA: A452, 1966/2960]
 
-**Select Committee activity post-April 1966 and reactions in Canberra**
+ **Select Committee activity post-April 1966 and reactions in Canberra**
 
-_In the period following the Select Committees visit to Canberra, the Department of Territories became increasingly anxious about a lack of information and consultation regarding the Committee’s activities. A Territories paper noted that the Department ‘received no reports on activities until [the] South Pacific Post of 29 [April] reported that within [the] next two weeks [the] Committee would begin visiting parts of the Territory’. 1 The nature of the questions to be asked of the people, as outlined by Guise in a statement of 11 May,2 further aroused DOT officials. The Department complained that it had ‘No information [on] why [the] question relating to official members was included, in view of the Cabinet decision that they be retained’ and nor was it informed of the ‘circumstances in which the question relating to financial control was added’.3_
+ _In the period following the Select Committees visit to Canberra, the Department of Territories became increasingly anxious about a lack of information and consultation regarding the Committee’s activities. A Territories paper noted that the Department ‘received no reports on activities until [the] South Pacific Post of 29 [April] reported that within [the] next two weeks [the] Committee would begin visiting parts of the Territory’.[1](#f_187_1) The nature of the questions to be asked of the people, as outlined by Guise in a statement of 11 May,[2](#f_187_2) further aroused DOT officials. The Department complained that it had ‘No information [on] why [the] question relating to official members was included, in view of the Cabinet decision that they be retained’ and nor was it informed of the ‘circumstances in which the question relating to financial control was added’.[3](#f_187_3)_
 
-_In a minute to Warwick Smith, Ballard linked much of the difficulties with the Select Committee to Guise’s role as Chairman. 4 Ballard noted that Guise was pressing for the splitting of the Territory budget—a move that Barnes had declared impractical during the April talks—and he alleged that Guise had decided to put a ministerial representatives proposal to the people in a second round of questions ‘on the ostensible ground that the long term changes will determine interim changes’, but in reality because he knew that ‘the present mood of the Territory is that it does not want to progress towards a Ministerial system ... and [he] is seeking a method of putting a question which will give him the answer he wants’. 5_
+ _In a minute to Warwick Smith, Ballard linked much of the difficulties with the Select Committee to Guise’s role as Chairman.[4](#f_187_4) Ballard noted that Guise was pressing for the splitting of the Territory budget—a move that Barnes had declared impractical during the April talks—and he alleged that Guise had decided to put a ministerial representatives proposal to the people in a second round of questions ‘on the ostensible ground that the long term changes will determine interim changes’, but in reality because he knew that ‘the present mood of the Territory is that it does not want to progress towards a Ministerial system ... and [he] is seeking a method of putting a question which will give him the answer he wants’. [5](#f_187_5)_
 
-_The Department dealt with these anxieties through a personal visit by Warwick Smith to PNG, during which he held discussions with the Administrator6 and handed over a letter requesting more regular reporting from official members.7 In a second letter of the same date, he reiterated Government policy on budgetary control, 8 and in early August he dispatched a memorandum which reminded Cleland of Cabinet’s decision of February with regard to special electorates, the size of the House and the continuing role of official members. 9_
+ _The Department dealt with these anxieties through a personal visit by Warwick Smith to PNG, during which he held discussions with the Administrator[6](#f_187_6) and handed over a letter requesting more regular reporting from official members.[7](#f_187_7) In a second letter of the same date, he reiterated Government policy on budgetary control, [8](#f_187_8) and in early August he dispatched a memorandum which reminded Cleland of Cabinet’s decision of February with regard to special electorates, the size of the House and the continuing role of official members. [9](#f_187_9)_
 
 1  Guise’s statement (see NAA: A452, 1966/2960) was similar in substance to that by Barnes of 21 April (see footnote 42, Document 38). It followed a shorter statement of 27 April in which Guise had referred briefly to the discussions in Canberra and had promised a report in June to the House of Assembly (see NAA: A452, 1966/2960).
 

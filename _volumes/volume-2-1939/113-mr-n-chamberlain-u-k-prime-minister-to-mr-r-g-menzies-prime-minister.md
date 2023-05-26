@@ -1,12 +1,17 @@
 ---
-title: "113 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 450
+doc_date: '1939-06-29'
+doc_num: 113
+doc_order: 113
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: CAB 21/893]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-06-29
+vol_title: 'Volume 2: 1939'
 ---
-
-# 113 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 29 June 1939
 
@@ -28,7 +33,7 @@ It would, however, be our intention to achieve three main objects:-
 
 NEVILLE CHAMBERLAIN
 
-_
+ _
 
 1 Document 111.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [PRO: CAB 21/893]_
+ _[PRO: CAB 21/893]_

@@ -1,12 +1,18 @@
 ---
-title: "234 Officer to Evatt"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6010
+doc_date: '1949-01-27'
+doc_num: 234
+doc_order: 234
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA: OUTWARD ORIGINAL (TS) 1948-50]'
+title: Officer to Evatt
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-01-27
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 234 Officer to Evatt
 
 Cablegram 44 NANKING, 27 January 1949, 10.50 p.m.
 
@@ -24,7 +30,7 @@ I think that we are now at the most critical period here, when a very few days w
 
 5\. If you do decide to make it I would be glad of prior advice so that I could inform my United States and United Kingdom colleagues.
 
-_
+ _
 
 1 Dispatched 27 January, it reported that the situation had changed and the chance of negotiation lessened.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [FA: OUTWARD ORIGINAL (TS) 1948-50]_
+ _[FA: OUTWARD ORIGINAL (TS) 1948-50]_

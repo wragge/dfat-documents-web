@@ -1,12 +1,17 @@
 ---
-title: "79 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3591
+doc_date: '1946-02-07'
+doc_num: 79
+doc_order: 79
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.3494]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-07
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 79 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram 892 LONDON, 7 February 1946, 10.31 p.m.
 
@@ -26,7 +31,7 @@ In the third ballot in the Security Council, Klaestad received 8 votes and Baile
 
 Although Bailey just failed to be elected the result must be regarded as a high tribute to him. His name was not included in certain tickets which were run. Of the Great Powers, only China informed us specifically they would vote for Bailey although the United Kingdom also told us they thought that Read and Bailey were the strongest Dominion Candidates and left us with the impression they would do what they could to obtain the fifteenth seat for Bailey. We know that the United States gave no support while neither the Soviet Union nor France voted for him. In the Security Council we believe that on the first ballot Bailey received votes of China, United Kingdom, Netherlands, Mexico, Egypt and ourselves. in the Assembly Bailey would almost certainly have secured additional votes had not the Delegates been tied by various tickets. The most surprising result was the vote in favour of Poland in the second ballot of the Security Council and the failure of some of those who supported Bailey in Council on first ballot to maintain support in later ballots although he clearly had substantial chance of being elected.
 
-_
+ _
 
 1 Election required an absolute majority in the Council and the Assembly, each voting independently.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.3494]_
+ _[AA:A3195, 1946, 1.3494]_

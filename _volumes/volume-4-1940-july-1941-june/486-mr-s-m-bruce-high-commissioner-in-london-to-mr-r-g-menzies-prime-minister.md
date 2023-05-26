@@ -1,14 +1,19 @@
 ---
-title: "486 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1717
+doc_date: '1941-06-04'
+doc_num: 486
+doc_order: 486
+naa_refs:
+- naa_barcode: 278883
+  naa_control_symbol: '22'
+  naa_series: A2937
+  reference: '[AA: A2937, CONSULS-(POLAND)]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 486 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram 390 [1] LONDON, 4 June 1941
+Cablegram 390 [1] LONDON, 4 June 1941
 
 FOR PRIME MINISTER
 
@@ -20,7 +25,7 @@ I told Raczynski [4] I would telegraph you and ascertain present position.
 
 BRUCE
 
-_
+ _
 
 1 This cablegram was dispatched as no. 390, but the copy circulated in Canberra (AA: A3830, 1941, unnumbered) was numbered 400.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A2937, CONSULS-(POLAND)]_
+ _[AA: A2937, CONSULS-(POLAND)]_

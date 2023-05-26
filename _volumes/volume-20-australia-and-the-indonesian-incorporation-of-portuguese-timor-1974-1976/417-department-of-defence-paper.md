@@ -1,12 +1,19 @@
 ---
-title: "417 Department of Defence Paper"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8255
+doc_date: '1976-02-04'
+doc_num: 417
+doc_order: 416
+naa_refs:
+- naa_barcode: 1505995
+  naa_control_symbol: 3038/10/13/1 ANNEX 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 3038/10/13/1, ANNEX 1]'
+title: Department of Defence Paper
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-02-04
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 417 Department of Defence Paper
 
 Canberra, [4 February 1976]1
 
@@ -22,7 +29,7 @@ CONFIDENTIAL
 
 
 
-_[matter omitted]_
+ _[matter omitted]_
 
 ## PART II EAST TIMOR
 
@@ -103,8 +110,6 @@ The Scope for Policy
 
 
 
-_[NAA: A1838, 3038/10/13/1, ANNEX 1]_
+ _[NAA: A1838, 3038/10/13/1, ANNEX 1]_
 
   * 1 This paper was requested by the Prime Minister on 19 January (see Document 402) and was considered by the Defence Committee on 4 February. The cited copy bears no date. Although not prepared specifically for Cabinet the paper was discussed in the Foreign Affairs and Defence Committee of Cabinet on 9 February.
-
-

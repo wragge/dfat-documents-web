@@ -1,12 +1,19 @@
 ---
-title: "421 Memorandum to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8259
+doc_date: '1976-02-10'
+doc_num: 421
+doc_order: 420
+naa_refs:
+- naa_barcode: 4151546
+  naa_control_symbol: 801/13/11/1 PART 20
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/11/1. xx]'
+title: Memorandum to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-02-10
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 421 Memorandum to Canberra
 
 Jakarta, 10 February 1976
 
@@ -14,7 +21,7 @@ SECRET AUSTEO
 
 ## Timor
 
-Attached for your information is a record of conversation with Colonel Sunarso, Foreign Liaison Officer for BAKIN.1
+Attached for your information is a record of conversation with Colonel Sunarso, Foreign Liaison Officer for BAKIN.[1](#f1)
 
   2. You will note that Sunarso still claims that an act of self-determination is planned to take place in March 1976. This timing is more specific and earlier than Mr Malik indicated to the Minister during their recent discussions in Jakarta.
   3. Sunarso was, however, reluctant to discuss the possible nature of such an act. Either he genuinely does not know, which would suggest that there has been no preparation yet and that March is a totally unreal date for the act; or he knows but does not want to tell us probably because the Indonesians think the form they have in mind would not appeal to us. As you know the PGET argues that the declaration of integration by various centres in East Timor after they came under control of the pro-Indonesian forces constituted an act of self­-determination.
@@ -26,10 +33,8 @@ Attached for your information is a record of conversation with Colonel Sunarso, 
 
 A.R. TAYLOR - Counsellor
 
-_[NAA: A10463, 801/13/11/1. xx]_
+ _[NAA: A10463, 801/13/11/1. xx]_
 
   * 1 Peacock had made this comment in conversation with President Soeharto and General Panggabean in Jakarta on 20 January.
   * 2 Less than half a line has been expunged here
   * 3 An Antara report dated 3 February stated that the PGET had dissolved all political parties in East Timor as of 1 February
-
-

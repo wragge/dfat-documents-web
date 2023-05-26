@@ -1,18 +1,21 @@
 ---
-title: "208 MINUTES, MEETING OF COMMONWEALTH PRIME MINISTERS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10073
+doc_date: '1962-09-11'
+doc_num: 208
+doc_order: 208
+naa_refs:
+- naa_barcode: 1669701
+  naa_control_symbol: VOLUME 8
+  naa_series: A3917
+  reference: '[NAA: A3917 VOLUME 8]'
+title: MINUTES, MEETING OF COMMONWEALTH PRIME MINISTERS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-09-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 208 MINUTES, MEETING OF COMMONWEALTH PRIME MINISTERS
-
-NAA: A3917 VOLUME 8 
 
 Marlborough House London, 11 September 1962
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 MR MENZIES said that Mr Macmillan had given the Meeting a distinguished statement of the high political and historical reasons which had led Britain to apply for membership of the European Communities. Mr Heath had explained vividly and in great detail the stage reached in the negotiations so far. Perhaps he had ended on too optimistic a note by referring to very considerable safeguards for Commonwealth interests: as far as Australia was concerned the safeguards seemed a little sketchy. The problem with which they were confronted was of historical importance. He had attended many previous Commonwealth Meetings, but none in which the issues at stake had been graver or more significant. He thought it was right to feel a proper, though controlled, emotion in facing these issues and to pay particular regard to the economic considerations without getting them out of perspective.
 
@@ -26,6 +29,8 @@ Mr Menzies said that no unnecessary delay could be afforded in reaching a decisi
 
 Great Britain had apparently decided that the economic losses entailed in joining the European Community would be outweighed by the economic gains. This could not have been an easy decision to reach and he hoped it was right. It was clear, however, that part of the initial price, and perhaps part of the final price, would have to be paid by the rest of the Commonwealth, and this was a compelling reason for them to do their utmost to influence the negotiation and to modify their results. He hoped that Australia had behaved constructively. They had their own great problems; the need for growth demanded a large volume of immigrants, the development of manufacturing industries and the continuous stimulation of agricultural production. There had been a great deal of expansion in Australia in the last ten years, but the terms of trade had moved against Australia in a phenomenal way. Between 1951 and 1961 Australian export prices had fallen by 42 per cent while import prices had risen by 6 per cent. This was not a process that could continue: Australia had to have a level of exports that would at least pay for imports.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 In any circumstances Britain’s entry into the Community would cause some damage to Australian interests. There had to be compensating factors, and of these there was as yet little sign. What Australia wanted was access to the European market on fair conditions and at fair prices so that she could continue her own development.
+
+[NAA: A3917 VOLUME 8]

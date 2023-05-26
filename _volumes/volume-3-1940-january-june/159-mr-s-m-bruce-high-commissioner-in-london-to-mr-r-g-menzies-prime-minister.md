@@ -1,14 +1,19 @@
 ---
-title: "159 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 925
+doc_date: '1940-04-18'
+doc_num: 159
+doc_order: 159
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2572]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-18
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 159 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram unnumbered LONDON, 18 April 1940, 8.37 p.m.
+Cablegram unnumbered LONDON, 18 April 1940, 8.37 p.m.
 
 Your telegram 17th April. [1]
 
@@ -18,7 +23,7 @@ Have now had most useful personal and private talk with Woolton [2] and am seein
 
 BRUCE
 
-_
+ _
 
 1 On file AA:A571, W40/903, i. It emphasised the Commonwealth Govt's concern over the problem of obtaining shipping space for export cargoes.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA: A3195, 1.2572]_
+ _[FA: A3195, 1.2572]_

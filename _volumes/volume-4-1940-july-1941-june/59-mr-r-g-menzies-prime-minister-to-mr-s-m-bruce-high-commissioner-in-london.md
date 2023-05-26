@@ -1,12 +1,17 @@
 ---
-title: "59 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1290
+doc_date: '1940-08-09'
+doc_num: 59
+doc_order: 59
+naa_refs:
+- naa_barcode: 232315
+  naa_control_symbol: '138'
+  naa_series: A2937
+  reference: '[AA:A2937, LEGATIONS: ECHANGE OF MINISTERS WITH JAPAN]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-09
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 59 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 99 9 August 1940,
 
@@ -18,7 +23,7 @@ As you will have seen from my telegram No. 339 of 1st July to Secretary of State
 
 MENZIES
 
-_
+ _
 
 1 Document 57.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A2937, LEGATIONS: ECHANGE OF MINISTERS WITH JAPAN]_
+ _[AA:A2937, LEGATIONS: ECHANGE OF MINISTERS WITH JAPAN]_

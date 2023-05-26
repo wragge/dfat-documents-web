@@ -1,12 +1,17 @@
 ---
-title: "311 Bruce to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2602
+doc_date: '1943-10-24'
+doc_num: 311
+doc_order: 311
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:PREM 4/50/11]'
+title: Bruce to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-10-24
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 311 Bruce to Churchill
 
 Letter LONDON, 24 October 1943
 
@@ -22,7 +27,7 @@ Before I do so I would ask you to let me come and talk the matter over with you.
 
 S. M. BRUCE
 
-_
+ _
 
 1 Document 306.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [PRO:PREM 4/50/11]_
+ _[PRO:PREM 4/50/11]_

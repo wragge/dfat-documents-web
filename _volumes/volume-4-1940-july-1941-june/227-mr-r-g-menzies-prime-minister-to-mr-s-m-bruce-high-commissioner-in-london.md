@@ -1,12 +1,17 @@
 ---
-title: "227 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1458
+doc_date: '1940-12-17'
+doc_num: 227
+doc_order: 227
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.10120]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-12-17
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 227 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 1701 17 December 1940,
 
@@ -22,8 +27,8 @@ It would give satisfaction in Australia if a personal consultation of this kind 
 
 MENZIES
 
-_
+ _
 
 _
 
-_ [AA:A3196, 1940, 0.10120]_
+ _[AA:A3196, 1940, 0.10120]_

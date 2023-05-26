@@ -1,12 +1,18 @@
 ---
-title: "333 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Sir Ronald Lindsay, U.K. Ambassador to the United States"
-volume: "Volume 1: 1937-38"
-doc_id: 332
+doc_date: '1938-12-08'
+doc_num: 333
+doc_order: 332
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: AA1970/559
+  reference: '[AA : AA1970/559]'
+title: Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Sir
+  Ronald Lindsay, U.K. Ambassador to the United States
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-12-08
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 333 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Sir Ronald Lindsay, U.K. Ambassador to the United States
 
 Extract LONDON, 8 December 1938 [1]
 
@@ -24,7 +30,7 @@ I asked him if there were any particular subjects that he thought it would be a 
 
 S. M. B[RUCE]
 
-_
+ _
 
 1 There is no evidence that a copy of this record of conversation was sent to Canberra. It has therefore been placed according to the date on which it was made.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA : AA1970/559]_
+ _[AA : AA1970/559]_

@@ -1,12 +1,19 @@
 ---
-title: "85 Submission to Cabinet Economic Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8955
+doc_date: '1980-02-29'
+doc_num: 85
+doc_order: 85
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission to Cabinet Economic Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-02-29
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 85 Submission to Cabinet Economic Committee
 
 Wellington, 29 February 1980
 
@@ -16,10 +23,10 @@ No E (80) 31. SECRET
 
 ### Background
 
-  1. On 19 February the Committee considered a report(1) on Australia/New Zealand economic relations. The Committee noted the stage reached in various studies, and directed officials to continue discussions with Australia, with a view to developing and defining the elements that might be considered in a balanced and pragmatic approach to a new relationship based on an adjusted free trade area, giving due weight to New Zealand's broader economic policies (E (80) 23 refers).
+  1. On 19 February the Committee considered a report[(1)](#f1) on Australia/New Zealand economic relations. The Committee noted the stage reached in various studies, and directed officials to continue discussions with Australia, with a view to developing and defining the elements that might be considered in a balanced and pragmatic approach to a new relationship based on an adjusted free trade area, giving due weight to New Zealand's broader economic policies (E (80) 23 refers).
   2. The three papers attached emerged from these discussions and are: 
-    1. report of Australia/New Zealand Permanent Heads(2) summarising the conclusions reached on the main questions;
-    2. a draft declaration by the two Prime Ministers(3) which, if accepted and refined, could provide a framework for continuing review and development of Australia/New Zealand economic relationships. This draft has been reviewed by Permanent Heads;
+    1. report of Australia/New Zealand Permanent Heads[(2)](#f2) summarising the conclusions reached on the main questions;
+    2. a draft declaration by the two Prime Ministers[(3)](#f3) which, if accepted and refined, could provide a framework for continuing review and development of Australia/New Zealand economic relationships. This draft has been reviewed by Permanent Heads;
     3. a draft communique which outlines a possible presentation by the two Prime Ministers of the course outlined. This draft has had only cursory discussions so far.
 
 
@@ -87,13 +94,11 @@ No E (80) 31. SECRET
 
 
 
-[matter omitted](4)
+[matter omitted][(4)](#f4)
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 25 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 25 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 See Document 84.
   * 2 Document 66.
   * 3 Document 67. The proposed declaration was later abandoned.
   * 4 Three annexes omitted.
-
-

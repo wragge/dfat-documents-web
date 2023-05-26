@@ -1,12 +1,17 @@
 ---
-title: "48 Dixon to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2339
+doc_date: '1942-09-16'
+doc_num: 48
+doc_order: 48
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT C]'
+title: Dixon to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-16
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 48 Dixon to Curtin
 
 Cablegram S140 WASHINGTON, 16 September 1942, 2.49 p.m.
 
@@ -38,7 +43,7 @@ Very sincerely, Franklin D. Roosevelt. Ends.
 
 DIXON
 
-_
+ _
 
 1 See Document 43 and Document 44, note 8.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT C]_
+ _[AA:A981, WAR 33, ATTACHMENT C]_

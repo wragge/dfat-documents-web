@@ -1,14 +1,20 @@
 ---
-title: "158 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 157
+doc_date: '1938-03-24'
+doc_num: 158
+doc_order: 157
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A.
+  Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-24
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 158 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister
-
-## Circular Cablegram B79 LONDON, 24 March 1938, 2.40 p.m.
+Circular Cablegram B79 LONDON, 24 March 1938, 2.40 p.m.
 
 IMMEDIATE
 
@@ -32,10 +38,10 @@ This priority will also enable us to expedite the programme of air raid precauti
 
 By these and other measures within the Defence Departments themselves for the purpose of ensuring full and adequate co- operation with industry, we are satisfied that we shall be able to facilitate production and secure the necessary acceleration of the Defence programme.
 
-_
+ _
 
 1 Document 156.
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

@@ -1,12 +1,18 @@
 ---
-title: "271 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2025
+doc_date: '1942-01-12'
+doc_num: 271
+doc_order: 272
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.1[6]'
+title: Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-12
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 271 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister
 
 Cablegram Winch 7 [WASHINGTON, 12 January 1942, 2.10 p.m.] [1]
 
@@ -32,7 +38,7 @@ Some may think that it would have been better to have come back quicker with les
 
 [5] You will naturally comment, as I did when the Staffs first told me, upon the fact that the United States who will have command will contribute only one heavy or perhaps only one light cruiser. The First Sea Lord [6] is of the opinion and I agree with him that the advantage of persuading the United States to undertake responsibilities for this area as a part of their main Pacific command outweighs such criticism. I have no doubt that this will also be your view. They have a stream of important convoys moving along the route and will no doubt detach other naval forces from time to time. There are still other matters to be settled as between the A.B.D.A. and Anzac areas upon which we are still working. I spent all last night with Mr. Casey [7] who explained to me very fully the views which your Government holds.
 
-_
+ _
 
 1 Material in square brackets has been corrected/inserted from the Washington copy on file AA:A3300, 219. This cablegram was dispatched to London and retransmitted to Canberra at 3.05 a m. on 14 January (see AA:A3195, 1942, 1.1317) 2 Document 266.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.1[6] [8] 17]_
+ _[AA:A3195, 1942, 1.1[6] [8] 17]_

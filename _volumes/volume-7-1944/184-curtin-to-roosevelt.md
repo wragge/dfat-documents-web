@@ -1,12 +1,18 @@
 ---
-title: "184 Curtin to Roosevelt"
-volume: "Volume 7: 1944"
-doc_id: 2831
+doc_date: '1944-06-05'
+doc_num: 184
+doc_order: 184
+naa_refs:
+- naa_barcode: 1351791
+  naa_control_symbol: 265C
+  naa_series: A3300
+  reference: '[AA:A3300/T1, 1944 WAR:AUSTRALIAN EFFORT. DISCUSSIONS WITH COMBINED
+    CHIEFS OF STAFF]'
+title: Curtin to Roosevelt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-05
+vol_title: 'Volume 7: 1944'
 ---
-
-# 184 Curtin to Roosevelt
 
 Letter WASHINGTON, 5 June 1944
 
@@ -30,7 +36,7 @@ Churchill and I have reached agreement [1] on these strengths and the level at w
 
 JOHN CURTIN
 
-_ COMBINED CHIEFS OF STAFF]
+ _
 
 1 See Document 170.
 
@@ -40,4 +46,4 @@ _ COMBINED CHIEFS OF STAFF]
 
 _
 
-_ [AA:A3300/T1, 1944 WAR:AUSTRALIAN EFFORT. DISCUSSIONS WITH_
+ _[AA:A3300/T1, 1944 WAR:AUSTRALIAN EFFORT. DISCUSSIONS WITH COMBINED CHIEFS OF STAFF]_

@@ -1,13 +1,17 @@
 ---
-title: "80 Minute From Brown To Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7685
+doc_date: '1954-10-15'
+doc_num: 80
+doc_order: 80
+naa_refs:
+- naa_barcode: 209115
+  naa_control_symbol: VOLUME 5
+  naa_series: A4906
+  reference: '[AA : A4906, VOLUME 5]'
+title: Minute From Brown To Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-10-15
-barcode: 209115
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
-
-# 80 Minute From Brown To Menzies
 
 15th October, 1954
 
@@ -35,7 +39,7 @@ Theoretically there are perhaps four positions that can be identified, each beco
 
 Apparently we start with the assumption that 1 and 4 are out. The real issue then seems to be, 'What are the respective merits of 2 and 3?'This seems to me to involve a close examination of (a) vulnerable industries, and (b) important industries. The submission is woefully deficient in this respect. Either Customs do not know the answers or they will not tell. Textiles and toys are traditionally the things most affected by Japanese competition and a precise examination of these at least should be made. It may be possible to get a clearer view by inviting a senior Customs officer along to the Committee Meeting on Tuesday. If so, some mention of it should be made today because not only is Meere away in Europe but the top bracket of Customs people is likely to be in Sydney next week unless Short is warned that his presence will be needed by Cabinet. [2]
 
-_
+ _
 
 1 Presumably Document 79.
 
@@ -45,4 +49,4 @@ A4906, VOLUME 5).
 
 _
 
-_ [ [AA : A4906, VOLUME 5](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=209115) ]_
+ _[AA : A4906, VOLUME 5]_

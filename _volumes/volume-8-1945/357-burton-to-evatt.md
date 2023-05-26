@@ -1,11 +1,18 @@
 ---
-title: "357 Burton to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3388
+doc_date: '1945-11-02'
+doc_num: 357
+doc_order: 357
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN
+    MINISTERS'' CONFERENCE, 0.27966]'
+title: Burton to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
+vol_title: 'Volume 8: 1945'
 ---
-
-# 357 Burton to Evatt
 
 Cablegram 1620 CANBERRA, 2 [November] [1] 1945
 
@@ -17,6 +24,6 @@ IMMEDIATE MOST SECRET AND CONFIDENTIAL
 
 Both British and Dutch must also be prepared to bring extremists into the negotiations along with moderates. Unless the above conditions are faced, civil war is likely to develop.
 
-_ 1 Corrected according to AA : A3643, vol. 19, 0.27966._
+ _1 Corrected according to AA : A3643, vol. 19, 0.27966._
 
-_ [AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN MINISTERS' CONFERENCE, 0.27966]_
+ _[AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN MINISTERS' CONFERENCE, 0.27966]_

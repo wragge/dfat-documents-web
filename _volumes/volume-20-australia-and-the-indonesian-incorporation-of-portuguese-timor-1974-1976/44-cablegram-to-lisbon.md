@@ -1,20 +1,27 @@
 ---
-title: "44 Cablegram to Lisbon"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7883
+doc_date: '1974-10-08'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 4151555
+  naa_control_symbol: 801/13/11/1 PART 3
+  naa_series: A10463
+  reference: '[NAA: A10463, 801113111/1, iii]'
+title: Cablegram to Lisbon
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-10-08
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 44 Cablegram to Lisbon
 
 Canberra, 8 October 1974
 
 O.CH122140 CONFIDENTIAL ROUTINE
 
-**Visit by Ali Murtopo**
+ **Visit by Ali Murtopo**
 
-_ For Ambassador_
+ _For Ambassador_
 
 You will be generally aware of Lieutenant-General Ali Murtopo's background and his role within the Indonesian Government. However, the following material may be helpful when he calls on you.
 
@@ -24,4 +31,4 @@ You will be generally aware of Lieutenant-General Ali Murtopo's background and h
 
 
 
-_ [NAA: A10463, 801113111/1, iii]_
+ _[NAA: A10463, 801113111/1, iii]_

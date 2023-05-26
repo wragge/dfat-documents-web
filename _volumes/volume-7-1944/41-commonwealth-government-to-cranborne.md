@@ -1,14 +1,19 @@
 ---
-title: "41 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2688
+doc_date: '1944-02-04'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43-44/950/8/3/1, ii]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-04
+vol_title: 'Volume 7: 1944'
 ---
 
-# 41 Commonwealth Government to Cranborne
-
-## Cablegram 31 CANBERRA, 4 February 1944
+Cablegram 31 CANBERRA, 4 February 1944
 
 MOST IMMEDIATE
 
@@ -44,7 +49,7 @@ Effective consultation is impossible within time limits such as those establishe
 
 6\. Reference paragraph 7 [10] of your telegram 34. We note the United States proposal on freights. We understand that for the present this proposal does not extend to coast wise carriage of Australian Government cargo by United States vessels. We are asking our Washington Mission to keep this matter under close observation.
 
-_
+ _
 
 1 Document 37.
 
@@ -68,4 +73,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/950/8/3/1, ii]_
+ _[AA:A989, 43-44/950/8/3/1, ii]_

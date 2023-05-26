@@ -1,20 +1,23 @@
 ---
-title: "404 LETTER MCMAHON TO BOWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10270
+doc_date: '1972-09-21'
+doc_num: 404
+doc_order: 404
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA: Al209, 1971/9449 PART 2]'
+title: LETTER MCMAHON TO BOWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-09-21
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 404 LETTER MCMAHON TO BOWEN
-
-NAA: Al209, 1971/9449 PART 2
 
 Canberra, 21 September 1972
 
 Confidential
 
-I refer to your letter of 22 August1 on Australia House in reply to mine of 15 August.2
+I refer to your letter of 22 August[1](#f1) on Australia House in reply to mine of 15 August.[2](#f2)
 
 I think it is best if in this letter I re-state certain matters so that we do not get into misunderstanding.
 
@@ -61,3 +64,5 @@ If there are any matters arising from this letter or our earlier exchange of cor
 1 Document 399.
 
 2 Document 395.
+
+[NAA: Al209, 1971/9449 PART 2]

@@ -1,12 +1,17 @@
 ---
-title: "353 U.K. Dominions Office to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2107
+doc_date: '1942-02-21'
+doc_num: 353
+doc_order: 354
+naa_refs:
+- naa_barcode: 232273
+  naa_control_symbol: '47'
+  naa_series: A2937
+  reference: '[AA:A2937, FAR EAST POSITION 1942]'
+title: U.K. Dominions Office to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-21
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 353 U.K. Dominions Office to Mr John Curtin, Prime Minister
 
 Cablegram 235 LONDON, 21 February 1942, 1.25 a.m.
 
@@ -22,7 +27,7 @@ I hope you can persuade Australian Government to allow proposed temporary divers
 
 I think this of utmost importance. Tell them I am speeding additional troops as well as planes to Australia and that my estimate of the situation there is highly optimistic and by no means dark. Roosevelt. Ends.
 
-_
+ _
 
 1 Document 352.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A2937, FAR EAST POSITION 1942]_
+ _[AA:A2937, FAR EAST POSITION 1942]_

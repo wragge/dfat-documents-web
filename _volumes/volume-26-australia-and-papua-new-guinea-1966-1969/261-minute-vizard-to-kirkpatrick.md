@@ -1,19 +1,23 @@
 ---
-title: "261 Minute, Vizard To Kirkpatrick"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9769
+doc_date: '1969-03-28'
+doc_num: 261
+doc_order: 261
+naa_refs:
+- naa_barcode: 11340888
+  naa_control_symbol: 1969/1135
+  naa_series: A452
+  reference: '[NAA: A452, 1969/1135]'
+title: Minute, Vizard To Kirkpatrick
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-03-28
-barcode: 11340888
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 261 Minute, Vizard To Kirkpatrick
 
 Canberra, 28 March 1969
 
 Confidential
 
-**T.P.N.G: The Arek Motion for a Select Committee on Constitutional Development2**
+ **T.P.N.G: The Arek Motion for a Select Committee on Constitutional Development[2](#f2)**
 
 1\. _Historical_
 
@@ -31,9 +35,9 @@ Confidential
 
 • Select Committee to include Johnson and second official member in respect of whom specific advice is required.
 
-1.3 The above policy was notified to the Administrator by telex 2485 of 27th February, 1969.3
+1.3 The above policy was notified to the Administrator by telex 2485 of 27th February, 1969.[3](#f3)
 
-1.4 Arek moved his motion on 12th March, 1969.4 On the previous day a departmental telex (2863) was dispatched seeking advice on latest developments on the motion and asking for confirmation ‘that official members will be able to pursue lines indicated in our previous telex messages’.5 The Administration replied on 12th March saying ‘we will be able to pursue lines indicated by you’.
+1.4 Arek moved his motion on 12th March, 1969.[4](#f4) On the previous day a departmental telex (2863) was dispatched seeking advice on latest developments on the motion and asking for confirmation ‘that official members will be able to pursue lines indicated in our previous telex messages’.[5](#f5) The Administration replied on 12th March saying ‘we will be able to pursue lines indicated by you’.
 
 1.5 On 11 th March when I mentioned the motion to Mr Henderson in Port Moresby, he thought it was innocuous and that there was nothing in it to which official members could take exception.
 
@@ -43,9 +47,9 @@ Confidential
 
 2.2 The motion as it stands is not contrary to policy in the event that it succeeds. The question remaining to be answered therefore is whether the motion can be defeated.
 
-2.3 For defeat to be secured, the support of the ‘independent group’6 would be necessary. Whether this support would be forthcoming could be established only by canvassing the leaders (Watts, Neville, Lussick). This will take time.
+2.3 For defeat to be secured, the support of the ‘independent group’[6](#f6) would be necessary. Whether this support would be forthcoming could be established only by canvassing the leaders (Watts, Neville, Lussick). This will take time.
 
-2.4 In another paper I have discussed the membership of the Committee if it is set up.7 To arrange membership favourable to the Government would also take time.
+2.4 In another paper I have discussed the membership of the Committee if it is set up.[7](#f7) To arrange membership favourable to the Government would also take time.
 
 2.5 Clearly, it is necessary to decide whether the motion can be defeated before indulging in any necessary lobbying as to membership. A little more than two months remain before the next meeting of the House when the debate on the motion is to resume. The time factor is thus of paramount importance.
 
@@ -55,11 +59,11 @@ Confidential
 
 2.8 There seems more to be gained therefore by not opposing, perhaps even supporting, if divisions are called, the motion than opposing it—particularly if membership of the Committee is arranged so that it is receptive to Government suggestions.
 
-2.9 It seems therefore that policy needs to be reviewed without delay so that tactics may be decided. This is in line with para. 2 of telex 768 ... 8
+2.9 It seems therefore that policy needs to be reviewed without delay so that tactics may be decided. This is in line with para. 2 of telex 768 ... [8](#f8)
 
-2.10 On the question of policy concerning membership of official members, policy originated it seems from the Administrator’s telex 1102 of 14th February9 in which he said in para. 6 ‘I would favour at the most one official member (probably Johnson)’. Possibly the Administrator did not envisage a Committee comprising 14 members (as proposed) when he favoured only one official member. My paper on membership covers this aspect.10
+2.10 On the question of policy concerning membership of official members, policy originated it seems from the Administrator’s telex 1102 of 14th February[9](#f9) in which he said in para. 6 ‘I would favour at the most one official member (probably Johnson)’. Possibly the Administrator did not envisage a Committee comprising 14 members (as proposed) when he favoured only one official member. My paper on membership covers this aspect.[10](#f10)
 
-[ [NAA: A452, 1969/1135](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=11340888) ]
+[NAA: A452, 1969/1135]
 
 1 R.E. Vizard, Investigation Officer, Government and Constitutional Section, DOET.
 

@@ -1,12 +1,17 @@
 ---
-title: "206 Curtin to Fraser"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2497
+doc_date: '1943-06-01'
+doc_num: 206
+doc_order: 206
+naa_refs:
+- naa_barcode: 4212687
+  naa_control_symbol: 1943/30
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.14846]'
+title: Curtin to Fraser
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-06-01
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 206 Curtin to Fraser
 
 Cablegram 100 CANBERRA, 1 June 1943
 
@@ -24,10 +29,10 @@ Your High Commissioner has acquainted me with the decision of your Parliament re
 
 CURTIN
 
-_ 1 See the N.Z. Govt's cablegrams 43-4 of 22 May on file Defence:
+ _1 See the N.Z. Govt's cablegrams 43-4 of 22 May on file Defence:
 
 MP1217, box 295, Retention of New Zealand division in the Middle East. Cablegram 43 pointed out that in agreeing to the decision members of the N.Z. Parliament had 'found themselves torn between conflicting thoughts and emotions', as they had had to weigh the Commonwealth Govt's desire for the return of the division against the advice of Churchill, Roosevelt and Freyberg that it should stay in the Middle East.
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.14846]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.14846]_

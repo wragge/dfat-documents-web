@@ -1,11 +1,18 @@
 ---
-title: "36 Kevin to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6205
+doc_date: '1949-01-06'
+doc_num: 36
+doc_order: 36
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Kevin to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 36 Kevin to Department of External Affairs
 
 Cablegram 10 NEW DELHI, [6 January] 1949, 6.55 p.m.
 
@@ -17,7 +24,7 @@ Your telegram No.3. [1] I just left Bajpai who is passing your message [2] to Ne
 
 3\. Bajpai thinks conference will last for a few days, he said that Indian Government have themselves not yet worked out even broadly suggestions for an agenda.
 
-_
+ _
 
 1 Document 25.
 
@@ -25,4 +32,4 @@ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

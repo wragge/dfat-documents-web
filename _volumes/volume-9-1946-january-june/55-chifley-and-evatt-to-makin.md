@@ -1,12 +1,17 @@
 ---
-title: "55 Chifley and Evatt to Makin"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3567
+doc_date: '1946-01-26'
+doc_num: 55
+doc_order: 55
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 TI, SPTS/1/4]'
+title: Chifley and Evatt to Makin
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-26
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 55 Chifley and Evatt to Makin
 
 Cablegram UN[D]11 CANBERRA, 26 January 1946
 
@@ -26,7 +31,7 @@ The terms of reference are, however, too narrow. In our considered view the esta
 
 (III) Any other matters which, in the opinion of any of the four nations, are related to (I) or (II).
 
-_
+ _
 
 1 Document 48.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A6494 TI, SPTS/1/4]_
+ _[AA:A6494 TI, SPTS/1/4]_

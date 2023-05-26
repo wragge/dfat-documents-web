@@ -1,12 +1,19 @@
 ---
-title: "167 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8005
+doc_date: '1975-08-15'
+doc_num: 167
+doc_order: 166
+naa_refs:
+- naa_barcode: 4151551
+  naa_control_symbol: 801/13/11/1 PART 11
+  naa_series: A10463
+  reference: '[NAA: AJ0463, 801/13/1111, xi]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-08-15
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 167 Cablegram to Canberra
 
 Jakarta, 15 August 1975
 
@@ -16,7 +23,7 @@ Portuguese Timor
 
 I had a very frank and interesting discussion lasting over an hour with Malik this morning, 15 August.
 
-  2. Malik told me that he had spent several hours yesterday afternoon discussing Timor with the Minister for Defence, General Panggabean, and the Head of BAKIN, General Yoga Sugama (Yoga's views were fully reported in our O.JA1201).1 Malik said that following these discussions he, General Panggabean, General Yoga and General Ali Murtopo (and possibly others whom he did not mention) discussed the Timor situation with President Soeharto this morning. Malik said that HANKAM and BAKIN (Yoga, but not Ali) had argued for Indonesian intervention in Timor. He, Malik, had argued strongly against it. Malik said that the President had agreed with him that Indonesia should not repeat not intervene, at least for the time being. This confirms what we have known for some time, namely that Ali Murtopo is a 'dove' on Timor. It would have been Ali rather than Malik who would have been more likely to have influenced the President in coming to this decision.
+  2. Malik told me that he had spent several hours yesterday afternoon discussing Timor with the Minister for Defence, General Panggabean, and the Head of BAKIN, General Yoga Sugama (Yoga's views were fully reported in our O.JA1201).[1](#f1) Malik said that following these discussions he, General Panggabean, General Yoga and General Ali Murtopo (and possibly others whom he did not mention) discussed the Timor situation with President Soeharto this morning. Malik said that HANKAM and BAKIN (Yoga, but not Ali) had argued for Indonesian intervention in Timor. He, Malik, had argued strongly against it. Malik said that the President had agreed with him that Indonesia should not repeat not intervene, at least for the time being. This confirms what we have known for some time, namely that Ali Murtopo is a 'dove' on Timor. It would have been Ali rather than Malik who would have been more likely to have influenced the President in coming to this decision.
   3. Malik said that he had argued while the DDT action was a 'provocation' it would be wrong for Indonesia to 'stop one provocation by another provocation of its own'.
   4. Malik said that he had persuaded the President that Indonesia's first step must be to persuade the Portuguese Government in Lisbon to assert its control in Timor. The UDT did not have sufficient support to stand against Portugal if the Governor and the local Administration backed up a Government decision in Lisbon to reassert its authority.
   5. Malik said that they would be putting these views strongly to Major Soares in Jakarta today where he is en route to Dili. I asked Malik how he would get to Dili in present circumstances. Malik said that they would take him as far as the border and if necessary provide transport for him to make his way to Dili.
@@ -29,16 +36,14 @@ I had a very frank and interesting discussion lasting over an hour with Malik th
 ## Comment
 
   11. Malik has sometimes in the past proved an unreliable source so I questioned him as closely as possible. He repeated categorically that the President agreed with his presentation after what Malik described as a fairly intense session, during which Yoga and Panggabean had put strongly the case for early intervention.
-  12. On this occasion I am inclined to accept Malik's presentation. This would mean that the situation is less potentially explosive than it appeared after my discussion with Yoga yesterday. However, the danger remains, especially if Portugal is unwilling or unable to reassert its authority and if there is a breakdown of law and order or wide-spread strife in Timor. Moreover, Malik is leaving the country on 19 August to go to Lima2 and the General Assembly.
+  12. On this occasion I am inclined to accept Malik's presentation. This would mean that the situation is less potentially explosive than it appeared after my discussion with Yoga yesterday. However, the danger remains, especially if Portugal is unwilling or unable to reassert its authority and if there is a breakdown of law and order or wide-spread strife in Timor. Moreover, Malik is leaving the country on 19 August to go to Lima[2](#f2) and the General Assembly.
   13. As I said in paragraph 24 of my O.JA1201, the President will make any final decision on intervention. He is a thoughtful, subtle, cautious man but quite capable of taking decisive action once he has made up his mind. For the time being he seems-if Malik's account is accurate-to have decided on pressing Portugal to reassert its authority and wait to see how events in Timor unfold. This does give a breathing space and you might well consider the merits of our also urging on Lisbon the need to reassert Portuguese control over the situation in Dili. If Malik has conveyed the situation to me accurately, and I will do my best to check this with Yoga or Ali, then it seems that the immediate danger of intervention has receded. But much will still depend on events in Lisbon and in Timor itself.
 
 
 
 WOOLCOTT
 
-_[NAA: AJ0463, 801/13/1111, xi]_
+ _[NAA: AJ0463, 801/13/1111, xi]_
 
   * 1 Document 166. 
   * 2 To a meeting of non-aligned nations, 25-29 August.
-
-

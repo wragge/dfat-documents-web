@@ -1,12 +1,17 @@
 ---
-title: "422 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1653
+doc_date: '1941-04-22'
+doc_num: 422
+doc_order: 422
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.6174]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 422 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram M77 LONDON, 22 April 1941, 8.39 p.m.
 
@@ -20,10 +25,10 @@ Regards,
 
 MENZIES
 
-_
+ _
 
 1 Minister for the Army.
 
 _
 
-_ [AA: A3195, 1941, 1.6174]_
+ _[AA: A3195, 1941, 1.6174]_

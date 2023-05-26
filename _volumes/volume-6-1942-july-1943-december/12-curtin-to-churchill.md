@@ -1,12 +1,17 @@
 ---
-title: "12 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2303
+doc_date: '1942-07-30'
+doc_num: 12
+doc_order: 12
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-07-30
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 12 Curtin to Churchill
 
 Cablegram Johcu 38 CANBERRA, 30 July 1942
 
@@ -146,7 +151,7 @@ squadrons with operational experience.
 
 CURTIN
 
-_
+ _
 
 1 Document 10.
 
@@ -156,7 +161,7 @@ Document 502.
 
 _
 
-_
+ _
 
 [AA:A4763]
 

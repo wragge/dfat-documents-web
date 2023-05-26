@@ -1,12 +1,17 @@
 ---
-title: "403 Sir John Latham, Minister to Japan, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1634
+doc_date: '1941-04-15'
+doc_num: 403
+doc_order: 403
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B,i]'
+title: Sir John Latham, Minister to Japan, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-15
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 403 Sir John Latham, Minister to Japan, to Department of External Affairs
 
 Cablegram 186 TOKYO, 15 April 1941, 7.35 a. m.
 
@@ -20,7 +25,7 @@ Not yet clear whether agreement means end of Russian assistance to Chungking. Ja
 
 LATHAM
 
-_
+ _
 
 1 Dispatched 14 April. It read: 'Press this morning all welcome news Japan-Soviet Pact.' See file AA: A981, Japan 169, iii.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B,i]_
+ _[AA: A981, JAPAN 185B,i]_

@@ -1,19 +1,23 @@
 ---
-title: "41 LIC Note No. 3/66"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9549
+doc_date: '1966-05-10'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 3111097
+  naa_control_symbol: 1966/842
+  naa_series: A452
+  reference: '[NAA: A452, 1966/842]'
+title: LIC Note No. 3/66
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-05-10
-barcode: 3111097
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 41 LIC Note No. 3/66
 
 Port Moresby, 10 May 1966
 
 Secret
 
-**The Public Service (Papua and New Guinea) Ordinance 1963: the reaction relating thereto**
+ **The Public Service (Papua and New Guinea) Ordinance 1963: the reaction relating thereto**
 
 I. Aim
 
@@ -57,7 +61,7 @@ III. Reaction To The Ordinance
 
 (b) _Local Officers:_
 
-(i) Opinion among many Local Officers is that in paying them lower salaries the Australian Government considers them to be second-class citizens. They hope that the result of the present Arbitration proceedings will be considerable increases in their salaries. They expect that any increase in salary automatically means extra money in the hand each pay day. However, considerable numbers of officers receiving portion of their salary by way of non-reduction allowance1 may have any Arbitration increase absorbed by that allowance even though in some cases the amount of the increase is considerable. Thus, their expectations of cash in the hand may well prove fruitless.
+(i) Opinion among many Local Officers is that in paying them lower salaries the Australian Government considers them to be second-class citizens. They hope that the result of the present Arbitration proceedings will be considerable increases in their salaries. They expect that any increase in salary automatically means extra money in the hand each pay day. However, considerable numbers of officers receiving portion of their salary by way of non-reduction allowance[1](#f1) may have any Arbitration increase absorbed by that allowance even though in some cases the amount of the increase is considerable. Thus, their expectations of cash in the hand may well prove fruitless.
 
 (ii) Indigenous members of the Public Service are becoming increasingly restive over what they consider to be undue delays in the Arbitration hearings enquiring into Public Service salary rates. Some indigenous officers are overtly advocating direct action and others have stated that the inquiry is being deliberately prolonged because the Administration does not desire to see any increase in indigenous salary rates.
 
@@ -91,7 +95,7 @@ III. Reaction To The Ordinance
 
 He has also said that the wages differential has made New Guinea into a ‘White Man’s Paradise’ and he warned that differences, such as those of salaries, ‘could lead to racial violence of black against white. Australia’s policy of peacefully handing over Government may not be fulfilled. The dissatisfied, discontented elite minority of present New Guinea youths could well be fertile ground for the implantation of Communist propaganda.’
 
-(iii) There are indications that not all Papuans and New Guineans wish to emulate the Australian way of life. Many prefer to eat different food and organise their homes differently; they have wider family responsibilities. The feelings of certain officers on this point are exemplified by the remarks of (1) an influential indigenous lecturer...2
+(iii) There are indications that not all Papuans and New Guineans wish to emulate the Australian way of life. Many prefer to eat different food and organise their homes differently; they have wider family responsibilities. The feelings of certain officers on this point are exemplified by the remarks of (1) an influential indigenous lecturer...[2](#f2)
 
 > ‘Most educated Papuans and New Guineans, like educated Australians, want a multi-racial society in this country. Most of us are ashamed to invite Australians to our homes and we feel that we should at least be able to afford a reasonable home, furnished in an Australian or local way so that we could invite our Australian friends’,
 
@@ -109,7 +113,7 @@ and (2) the Editor of the Primary ‘T’ School Teachers’ Bulletin ...
 
 (c) _Effect on race relations:_
 
-(i) In recent years racial tension has been perceptively3 increasing. Whilst this trend is not due to any one common factor, continual frustration over the salary differential could well prove the focal point of serious aggravation of the overall problem. In this respect, a prominent leader’s remarks on racial relations as affected by the salary differential are relevant. He said that Australia—
+(i) In recent years racial tension has been perceptively[3](#f3) increasing. Whilst this trend is not due to any one common factor, continual frustration over the salary differential could well prove the focal point of serious aggravation of the overall problem. In this respect, a prominent leader’s remarks on racial relations as affected by the salary differential are relevant. He said that Australia—
 
 > ‘.... is losing much of the gratitude it has earned by its health and education policies so fast that instead of our two countries being close friends, movements will arise in Papua and New Guinea which will probably take us closer to the underdeveloped, and often unstable, countries of Asia and make us anti-white’.
 
@@ -143,7 +147,7 @@ and (2) the Editor of the Primary ‘T’ School Teachers’ Bulletin ...
 
 the state of unrest among students and Local Public Servants could lead to incidents of civil disorder and that these could well assume major proportions. The degree to which these would constitute a major or minor threat to the internal security of the Territory may well depend on the reliance which can be placed on the Police and Army, both of whom are disaffected to some extent over pay and conditions.
 
-[ [NAA: A452, 1966/842](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3111097) ]
+[NAA: A452, 1966/842]
 
 1  See footnote 7, Document 40.
 

@@ -1,12 +1,17 @@
 ---
-title: "397 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1163
+doc_date: '1940-06-17'
+doc_num: 397
+doc_order: 397
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4379]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 397 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 435 LONDON, 17 June 1940, 11.04 p.m.
 
@@ -26,7 +31,7 @@ Following is memorandum referred to in No. 434. [1]
 
 BRUCE
 
-_
+ _
 
 1 Document 396.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4379]_
+ _[FA: A3195, 1.4379]_

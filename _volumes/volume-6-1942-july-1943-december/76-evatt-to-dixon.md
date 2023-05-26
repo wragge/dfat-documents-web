@@ -1,12 +1,17 @@
 ---
-title: "76 Evatt to Dixon"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2367
+doc_date: '1942-11-16'
+doc_num: 76
+doc_order: 76
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Evatt to Dixon
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-11-16
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 76 Evatt to Dixon
 
 Cablegram 159 CANBERRA, 16 November 1942
 
@@ -54,7 +59,7 @@ JOHN CURTIN
 
 EVATT
 
-_ 1 Document 68.
+ _1 Document 68.
 
 2 See Document 62, note 10.
 
@@ -82,4 +87,4 @@ Bruce was instructed to 'follow up the action necessary to withdraw the 9th Divi
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

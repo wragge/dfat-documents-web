@@ -1,12 +1,18 @@
 ---
-title: "62 Evatt to Hood"
-volume: "Volume 8: 1945"
-doc_id: 3093
+doc_date: '1945-03-21'
+doc_num: 62
+doc_order: 62
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1945, FOLDER, INWARDS FROM AUSTRALIAN DELEGATION SAN FRANCISCO
+    (AND LONDON), 1.9713]'
+title: Evatt to Hood
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-03-21
+vol_title: 'Volume 8: 1945'
 ---
-
-# 62 Evatt to Hood
 
 Cablegram E4 WASHINGTON, 21 March 1945, 6.15 p.m.
 
@@ -22,7 +28,7 @@ Please convey to Macmahon Ball my warmest regards for his most helpful and timel
 
 4\. Please have review of my book in Current Notes. [5]
 
-_ FRANCISCO (AND LONDON), 1.9713]
+ _
 
 1 Evatt's private secretary.
 
@@ -38,4 +44,4 @@ _ FRANCISCO (AND LONDON), 1.9713]
 
 _
 
-_ [AA:A3195, 1945, FOLDER, INWARDS FROM AUSTRALIAN DELEGATION SAN_
+ _[AA:A3195, 1945, FOLDER, INWARDS FROM AUSTRALIAN DELEGATION SAN FRANCISCO (AND LONDON), 1.9713]_

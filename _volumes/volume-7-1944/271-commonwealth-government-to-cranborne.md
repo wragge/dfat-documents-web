@@ -1,12 +1,17 @@
 ---
-title: "271 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2918
+doc_date: '1944-09-05'
+doc_num: 271
+doc_order: 271
+naa_refs:
+- naa_barcode: 4150385
+  naa_control_symbol: 1944/49
+  naa_series: A3196
+  reference: '[AA:A3196, 1944, FOLDER, MASTER SHEETS MOST SECRET OUT, O.24286]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-05
+vol_title: 'Volume 7: 1944'
 ---
-
-# 271 Commonwealth Government to Cranborne
 
 Cablegram 225 CANBERRA, 5 September 1944
 
@@ -20,7 +25,7 @@ We appreciate your account of the present position in this matter and note the p
 
 3\. As regards Article 12A, we note that provision for the association of other Governments with the exercise of authority over Germany is left merely to an understanding between yourselves, the United States and the U.S.S.R. (See paragraph 10 of D.1247 and (iii) of D.1248. [4]) We think there should be an explicit assurance. In addition to any arrangements which might be found feasible, e.g., participation in the work of an Advisory Council, we regard it as of the first importance for the reasons given in paragraph 3 of my telegram 197 [5] of 19th August, that there should be also a definite public statement of intention on the part of yourselves, the United States and the U.S.S.R. that other Allied Governments will be consulted in the exercise of the powers under Article 12 and will be associated directly with the agencies charged with the execution of the terms of Article 12. We hope that you will press this point with the other two Governments with all the necessary emphasis.
 
-_
+ _
 
 1 Document 267.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A3196, 1944, FOLDER, MASTER SHEETS MOST SECRET OUT, O.24286]_
+ _[AA:A3196, 1944, FOLDER, MASTER SHEETS MOST SECRET OUT, O.24286]_

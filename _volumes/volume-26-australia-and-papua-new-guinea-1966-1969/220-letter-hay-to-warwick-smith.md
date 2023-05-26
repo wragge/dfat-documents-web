@@ -1,13 +1,17 @@
 ---
-title: "220 Letter, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9728
+doc_date: '1968-09-02'
+doc_num: 220
+doc_order: 220
+naa_refs:
+- naa_barcode: 3112099
+  naa_control_symbol: 1968/4161
+  naa_series: A452
+  reference: '[NAA: A452, 1968/4161]'
+title: Letter, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-09-02
-barcode: 3112099
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 220 Letter, Hay To Warwick Smith
 
 Port Moresby, 2 September 1968
 
@@ -17,15 +21,15 @@ I enclose an ‘Estimate of the Threat to Internal Security in the Territory of 
 
 This document was prepared at my request as an aid to assessing the situation, particularly in the light of developments which may occur as a result of events on the other side of the border with West Irian in the next year.
 
-Independently the Chairman of the J.I.C. 1 has asked the T.l.C. to prepare an assessment of the internal threat. No doubt this would have to be a more comprehensive document than the one now attached, but the latter will serve as a useful basis for further study.
+Independently the Chairman of the J.I.C. [1](#f1) has asked the T.l.C. to prepare an assessment of the internal threat. No doubt this would have to be a more comprehensive document than the one now attached, but the latter will serve as a useful basis for further study.
 
-**Attachment**
+ **Attachment**
 
 20 August 1968
 
 Top Secret
 
-****
+ ****
 
 Internal Security Committee T.P.N.G—estimate of the threat to internal security on Territory of Papua and New Guinea and of the Territory’s capacity to meet if from its resources—to 1973
 
@@ -33,11 +37,11 @@ Introduction
 
 1\. In the preparation of this assessment use has been made of relevant sections of the following J.I.C. (Aust) estimates:—
 
-(a) J.I.C. (Aust) (65) 56—‘Threat From Indonesia to the Territory of Papua and New Guinea’. 2
+(a) J.I.C. (Aust) (65) 56—‘Threat From Indonesia to the Territory of Papua and New Guinea’. [2](#f2)
 
-(b) J.I.C. (Aust) (67) 50—‘The Threat to Australia and Her Territories’.3
+(b) J.I.C. (Aust) (67) 50—‘The Threat to Australia and Her Territories’.[3](#f3)
 
-(c) J.I.C. (Aust) (67) 54—‘The Effect on Australia’s Defence Requirements of Developments in the Territory of Papua and New Guinea’.4
+(c) J.I.C. (Aust) (67) 54—‘The Effect on Australia’s Defence Requirements of Developments in the Territory of Papua and New Guinea’.[4](#f4)
 
 2\. For the purpose of this assessment it is assumed that:—
 
@@ -53,7 +57,7 @@ External Influences
 
 3\. T.P.N.G., with its emerging political awareness and movement towards independence, provides a considerable potential for exploitation by external powers with expansionist aims. In this connection the U.S.S.R., Communist China and Indonesia are the powers most likely to constitute a threat.
 
-4\. _U.S.S.R._ An overt threat from the U.S.S.R. is unlikely. However, it can be expected to encourage and assist the C.P.A.5 to establish communist organisations in T.P.N.G. by the provision of funds, propaganda material and training facilities. Should there be any lifting of travel restrictions between Australia and the Territory an influx of Australian Communist functionaries can be expected. (It is noted that there is no recent evidence of any direct propaganda attack from the U.S.S.R. apart from its United Nations Trusteeship Council activities.)
+4\. _U.S.S.R._ An overt threat from the U.S.S.R. is unlikely. However, it can be expected to encourage and assist the C.P.A.[5](#f5) to establish communist organisations in T.P.N.G. by the provision of funds, propaganda material and training facilities. Should there be any lifting of travel restrictions between Australia and the Territory an influx of Australian Communist functionaries can be expected. (It is noted that there is no recent evidence of any direct propaganda attack from the U.S.S.R. apart from its United Nations Trusteeship Council activities.)
 
 5\. _Communist_ China. Again no overt threat to the Territory is likely. However, there is ample evidence of Chinese Communist propaganda activities in the main centres of the Territory. These activities are as yet on a low scale and directed primarily at the Chinese community. Communist China is likely to attempt to intensify a spread of propaganda and if a suitable opportunity occurs, foster subversive activities aimed at creating internal disorder and unrest.
 
@@ -75,11 +79,11 @@ External Influences
 
 The Internal Threat
 
-_Present situation:_
+ _Present situation:_
 
 10\. The attitude of the majority of the indigenous population towards the Australian Administration is at present favourable. However, public criticism of Administration and Australian policies is increasing. Anti-European statements by individuals continue to be reported; although difficult to assess, these so far do not appear to have had an adverse influence on public opinion in general. Steadily increasing pressures of population on land resources in rapidly developing congested rural areas, causing an uncontrolled drift to the major towns of unskilled villagers despite their traditional reluctance to migrate to new farming land in distant areas, are linked {with} evolutionary trends likely to promote increasing indigenous unrest and criticism of the Administration.
 
-_The potential threat:_
+ _The potential threat:_
 
 11\. _Inter-Racial Unrest._ Multi-racial situations have proved highly explosive in many African countries and, more recently, in the United States. Tensions and actual disturbances based on racial differences are likely to develop quickly in T.P.N.G. Locally generated and maintained unrest would be difficult to cope with; unrest aggravated by external influences could present a serious threat to internal security. The U.S.S.R., Communist China and Indonesia have in the past been very quick to exploit any situation based on racial differences which serves their interests. Their experience in such situations is enormous.
 
@@ -91,7 +95,7 @@ _The potential threat:_
 
 (c) _Disparities in social and economic standards:_ Wage differentials and conditions of service inhibit the maintenance of amicable industrial relations; strikes, political agitation and demonstrations are likely to be instituted by Public Servants and industrial workers, and students are quite likely to agitate and demonstrate in support. Much is dependent on the patience of the indigenous community to accept the differential in wages, job opportunities and housing situations until the economy can support increases, or by indoctrination and propaganda the community accepts that as in other Territories, there must be differentiations to attract overseas expertise.
 
-(d) _Land ownership:_ This question is potentially a cause of considerable racial friction. There has been a steady increase in claims to and some encroachment on land occupied by the Administration, expatriate commercial and private owners. Land disputes are likely to increase further as independence approaches, and people manoeuvre to ‘state6 claims’ to valuable expatriate property.7
+(d) _Land ownership:_ This question is potentially a cause of considerable racial friction. There has been a steady increase in claims to and some encroachment on land occupied by the Administration, expatriate commercial and private owners. Land disputes are likely to increase further as independence approaches, and people manoeuvre to ‘state[6](#f6) claims’ to valuable expatriate property.[7](#f7)
 
 (e) _Population pressure and urbanisation:_ Two linked evolutionary trends likely to promote increasing indigenous unrest and criticism of the Administration are:—
 
@@ -111,7 +115,7 @@ _The potential threat:_
 
 Summary
 
-_The potential threat_
+ _The potential threat_
 
 * 15\. Multi-racial situations have proved highly explosive in many African countries and, more recently, in the United States. Racial tensions, exploitable by communist or other subversive elements, and arising from such issues as racial discrimination, disparities in social and economic standards, land ownership, population pressures, urbanisation, ‘Cargo Cultism’, and a growing political consciousness, could lead to a serious situation and endanger the internal security of the Territory. 
 
@@ -119,7 +123,7 @@ _The potential threat_
 
 17\. There is no indication at present of circumstances pointing to the materialization of the threat in the foreseeable future but owing to the explosive nature of its many constituent parts, plans to meet it should be kept continuously under review.
 
-_Capacity to meet the threat,_
+ _Capacity to meet the threat,_
 
 18\. The Territory’s resources to anticipate and meet threats to internal security comprise various intelligence agencies, the Royal Papua and New Guinea Constabulary (including Reserve Constabulary and Special Constables), Field Officers (predominantly those of the Department of District Administration), and where applicable in emergency situations, the Defence {Forces} (mainly the Army). Provided that:—
 
@@ -135,7 +139,7 @@ then the Committee is of the unanimous opinion that the Territory is capable of 
 
 19\. This assessment assumes that the local elements of the security forces will remain loyal; serious disaffection, against a background of widespread racial turbulence, could necessitate the intervention of armed forces from the mainland.
 
-[ [NAA: A452, 1968/4161](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3112099) ]
+[NAA: A452, 1968/4161]
 
 1  N. F. Parkinson. 
 
@@ -149,4 +153,4 @@ then the Committee is of the unanimous opinion that the Territory is capable of 
 
 6  This should perhaps read ‘stake’. 
 
-7  Issues associated with land tenure were of ongoing concern of the Administration and Territories. For example, on 9 September the Territory’s Public Solicitor, W.A. (‘Peter’) Lalor, told Barnes ‘about the increasing number of claims which indigenous people were making that alienated land was native land. He told the Minister that it was clear from his records that the number of cases which were actually before the Courts or the Commission were just “the top of the iceberg”—a far larger number was likely to come forward. He said the most serious claim at the moment concerned one for the town of Lae ... he had every confidence that the claim if pressed in the Court would succeed; and if it did succeed the Administration would be up for the full value of the land and the improvements’ (note by Ballard on discussion, 11 September 1968, NAA: A452, 1968/4850). In response to such problems, a Land Policy Study Group, consisting of departmental and Administration officers, had been established in January 1968 (see submission, Ballard to Barnes, 19 January 1968, NAA: A1838, 1967/7843). 
+7  Issues associated with land tenure were of ongoing concern of the Administration and Territories. For example, on 9 September the Territory’s Public Solicitor, W.A. (‘Peter’) Lalor, told Barnes ‘about the increasing number of claims which indigenous people were making that alienated land was native land. He told the Minister that it was clear from his records that the number of cases which were actually before the Courts or the Commission were just “the top of the iceberg”—a far larger number was likely to come forward. He said the most serious claim at the moment concerned one for the town of Lae ... he had every confidence that the claim if pressed in the Court would succeed; and if it did succeed the Administration would be up for the full value of the land and the improvements’ (note by Ballard on discussion, 11 September 1968, NAA: A452, 1968/4850). In response to such problems, a Land Policy Study Group, consisting of departmental and Administration officers, had been established in January 1968 (see submission, Ballard to Barnes, 19 January 1968, NAA: A1838, 1967/7843).

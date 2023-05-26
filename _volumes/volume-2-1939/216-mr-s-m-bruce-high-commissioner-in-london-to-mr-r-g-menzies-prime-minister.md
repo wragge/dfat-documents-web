@@ -1,12 +1,17 @@
 ---
-title: "216 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 553
+doc_date: '1939-09-09'
+doc_num: 216
+doc_order: 216
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA:A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 216 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 441 LONDON, 9 September 1939, 11.34 p.m.
 
@@ -28,7 +33,7 @@ At the same time statement of our war aims will also probably be made down lines
 
 BRUCE
 
-_
+ _
 
 1 Cablegram B331 from U.K. Dominions Secretary, 8 September 1939, not printed (on file AA:A1608, A41/1/1, iv). Paragraph 7 reported that the ltalian Foreign Minister, Count Galeazzo Ciano, had told Sir Percy Loraine, the U.K. Ambassador to Italy, that when Warsaw fell Hitler would probably ask the United Kingdom and France whether they wished to continue the war, and that refusal of a peace offer would be the direst calamity for Europe.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A981, WAR 45B, i]_
+ _[AA:A981, WAR 45B, i]_

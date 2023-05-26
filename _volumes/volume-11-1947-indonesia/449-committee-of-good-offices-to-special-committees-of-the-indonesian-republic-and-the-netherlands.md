@@ -1,12 +1,18 @@
 ---
-title: "449 Committee of Good Offices to Special Committees of the Indonesian Republic and the Netherlands"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4633
+doc_date: '1947-12-03'
+doc_num: 449
+doc_order: 449
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:AA1979/294/1, BOX 1]'
+title: Committee of Good Offices to Special Committees of the Indonesian Republic
+  and the Netherlands
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-12-03
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 449 Committee of Good Offices to Special Committees of the Indonesian Republic and the Netherlands
 
 Memorandum S/AC.10/CONF.1/9 BATAVIA, 3 December 1947
 
@@ -48,7 +54,7 @@ A PLAN FOR ACHIEVING A SPEEDY AND EFFECTIVE TRUCE [1]
 
 10\. That the representatives of the Committee should further make suggestions concerning the method of control of, and maintenance of law and order in, the demilitarized zones.
 
-_
+ _
 
 1 The plan was drafted by Kirby and was adopted by the Committee of Good Offices after amendment to paragraph 6 (see Document 453).
 
@@ -58,4 +64,4 @@ It was forwarded to the Special Committees of the Netherlands and the Republic o
 
 _
 
-_ [AA:AA1979/294/1, BOX 1]_
+ _[AA:AA1979/294/1, BOX 1]_

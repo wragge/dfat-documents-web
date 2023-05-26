@@ -1,18 +1,25 @@
 ---
-title: "171 Letter from Anthony to Fraser"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9040
+doc_date: '1981-06-04'
+doc_num: 171
+doc_order: 171
+naa_refs:
+- naa_barcode: 3015524
+  naa_control_symbol: 1981/508 PART 3
+  naa_series: A1209
+  reference: '[NAA: A1209, 19811508, iii]'
+title: Letter from Anthony to Fraser
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-06-04
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 171 Letter from Anthony to Fraser
-
-## Canberra, 4 June 1981
+Canberra, 4 June 1981
 
 As agreed in Cabinet on 5 May, I met with the New Zealand Prime Minister Mr Muldoon and other senior New Zealand Ministers in Wellington on 11-12 May 1981 for discussions on the question of a closer economic relationship between the two countries.
 
-I pointed out that the meeting was the first joint Ministerial review of the detailed studies which have been undertaken by Australia and New Zealand officials in accordance with the guidelines established by yourself and Mr Muldoon in March 1980,1 and it was not my objective to obtain formal agreement or endorsement of any specific proposals. I suggested that the approach should be to seek to advance discussion of the concept by reviewing progress of the work undertaken by officials, isolating the areas of difference, and obtaining a clearer picture of the considerations underlying these differences. This approach was accepted by New Zealand Ministers.
+I pointed out that the meeting was the first joint Ministerial review of the detailed studies which have been undertaken by Australia and New Zealand officials in accordance with the guidelines established by yourself and Mr Muldoon in March 1980,[1](#f1) and it was not my objective to obtain formal agreement or endorsement of any specific proposals. I suggested that the approach should be to seek to advance discussion of the concept by reviewing progress of the work undertaken by officials, isolating the areas of difference, and obtaining a clearer picture of the considerations underlying these differences. This approach was accepted by New Zealand Ministers.
 
 Early in the talks it was confirmed that the two sides are on common ground in respect of a number of the topics which were put to study last year, including the formulae for the progressive elimination of duty and licensing barriers, measures for handling intermediate goods problems, and appropriate consultation and safeguard provisions.
 
@@ -28,6 +35,6 @@ There is still some way to go on key issues before any package can be considered
 
 In the meantime discussions will proceed between officials and with industry as appropriate. Also a group of officials is currently visiting State Capitals for a further round of consultations. These are designed to bring the States up to date and to exchange views on the implications of the package which is taking shape.
 
-_[NAA: A1209, 19811508, iii]_
+ _[NAA: A1209, 19811508, iii]_
 
 1 See Document 93.

@@ -1,12 +1,18 @@
 ---
-title: "385 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 722
+doc_date: '1939-11-24'
+doc_num: 385
+doc_order: 385
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-24
+vol_title: 'Volume 2: 1939'
 ---
-
-# 385 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram D100 LONDON, 24 November 1939, 8.12 a.m.
 
@@ -32,7 +38,7 @@ It is accordingly now proposed to send a reply to the French Government amended 
 
 As indicated in my telegram Circular D.67 the reply to the French Government is of an interim nature only with a view to subsequent oral and private discussion with the French Minister. [3] I should like to repeat here that the views which the Dominion Governments have expressed on the general question of war aims and which have been amplified by Dominion Ministers in London will of course be fully borne in mind in any such discussion.
 
-_
+ _
 
 1 Document 339.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

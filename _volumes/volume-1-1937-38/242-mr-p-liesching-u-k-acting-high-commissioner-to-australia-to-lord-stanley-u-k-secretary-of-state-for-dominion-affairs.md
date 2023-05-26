@@ -1,12 +1,18 @@
 ---
-title: "242 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 241
+doc_date: '1938-08-31'
+doc_num: 242
+doc_order: 241
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley,
+  U.K. Secretary of State for Dominion Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-08-31
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 242 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 165 (paraphrase) 31 August 1938,
 
@@ -22,7 +28,7 @@ The oppression of the Roman Catholics (as a Catholic himself he holds the strong
 
 After to-morrow's Cabinet, I shall be seeing Mr Lyons and shall telegraph again if the supplementary interpretation of any direct message sent by the Commonwealth Government seems necessary. You will realize that Mr Menzies [5] and Sir Earle Page [6] are still at sea.
 
-_
+ _
 
 1 Not printed.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

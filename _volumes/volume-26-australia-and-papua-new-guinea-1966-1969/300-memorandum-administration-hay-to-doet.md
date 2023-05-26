@@ -1,12 +1,17 @@
 ---
-title: "300 Memorandum, Administration (Hay) To Doet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9809
+doc_date: '1969-07-25'
+doc_num: 300
+doc_order: 300
+naa_refs:
+- naa_barcode: 12071421
+  naa_control_symbol: 1968/3178 PART 1
+  naa_series: A452
+  reference: '[NAA: A452, 1968/3178]'
+title: Memorandum, Administration (Hay) To Doet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-07-25
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 300 Memorandum, Administration (Hay) To Doet
 
 Port Moresby, 25 July 1969
 
@@ -15,39 +20,39 @@ Confidential
 **House of Assembly  
 Fifth Meeting**
 
-I enclose copies of the Administration’s report on the last meeting of the House of Assembly.1
+I enclose copies of the Administration’s report on the last meeting of the House of Assembly.[1](#f1)
 
-**Attachment**
+ **Attachment**
 
-[_matter omitted_]2
+[ _matter omitted_ ][2](#f2)
 
-_Debate on Bills_
+ _Debate on Bills_
 
 4\. The Bills which aroused most interest were as follows:—
 
-(A) Evidence (Land Titles) Bill 19693
+(A) Evidence (Land Titles) Bill 1969[3](#f3)
 
 The Evidence (Land Titles) Bill was supported strongly in debate by Highlanders such as Abal, Kurondo and Matiabe Yuwi. Titimur, Tammur and Lapun spoke against the Bill as did Chatterton and Voutas. The Highlanders spoke of the importance of safeguarding national land. Voutas felt that the landowners should be permitted to enjoy windfall gains and that if they were successful in proving ownership of developed land they should be entitled to the rent. He felt that the law would not remain in force for long. Chatterton told the Highlanders that they did not appreciate the land problems that had affected the coastal people. Lapun asked that the Land Bill be totally rejected. Tammur reminded the Highlanders that the Tolais had assisted them to develop their own areas and he suggested that they should repay their debt to the landless Tolai by rejecting the Bill. In a very sincere speech Matiabe Yuwi said that his people would make land available in the Southern Highlands for landless Tolais. The Second Reading vote of 54 to 24 showed that the Bill had a considerable amount of support but it is safe to say that those from areas likely to be affected apart from Ministerial and Assistant Ministerial Members voted against the Bill. The Ministerial Members and the Assistant Ministerial Members did not support the Bill as a matter of duty. They had been extensively briefed on a number of occasions; they had raised objections and these had been remedied. It is considered that the visits to districts by field officers and legal officers contributed to the successful passage of the Bill. Oscar Tammur was well aware that very little Gazelle Peninsula land was affected but even where a clear title exists to alienated land the Tolais are generally dissatisfied.
 
-(B) Discriminatory Practices (Amendment) Bill 19694
+(B) Discriminatory Practices (Amendment) Bill 1969[4](#f4)
 
 The tone of the debate was moderate and basically a plea for greater understanding and tolerance between the different tribal and ethnic groups. There was support for the concept of a future multi-racial society.
 
-(c) Gaming (Playing Cards) Bill 19695
+(c) Gaming (Playing Cards) Bill 1969[5](#f5)
 
 This Bill was the subject of lengthy debate. Highland members were affronted at the attempt to wipe this piece of legislation off the books and most speakers, apart from Uroe and Evenett, spoke strongly against the Bill. It may be that Mr. Uroe has succeeded in retaining this piece of legislation for a few more years. It is now most unlikely that it will be repealed in the life of this House.
 
-_Debate on motions_
+ _Debate on motions_
 
 5\. The most important motions were:
 
 Bougainville Copper Project
 
-The paper was delivered on 16th June6 and debated on 19th June. Mr. Middleton, in opening debate, amended the motion to take note of the paper and endorsed the copper venture as being a major and essential development. 7 Lapun then criticised the Government for its bad handling of the situation, for deceiving the people and for ignoring the people’s wishes. His speech did not appear to impress the House. Mr. Giregire strongly supported the statement and he spoke of the benefits to the people in the immediate area and to the Territory. Most of the other speakers also supported the motion although some, including Neville and Olewale, felt that it was necessary to go slower on land negotiations and take more time with explanations. Somare criticised the handling of the matter to date although he wanted economic development and knew it was necessary. Arek wanted the project to go ahead but had reservations about the handling of matters so far. Lapun added a further amendment asking for consultation with landowners regarding levels of compensation. This was acceptable to the Administration and the original motion with both amendments was carried on the voices.
+The paper was delivered on 16th June[6](#f6) and debated on 19th June. Mr. Middleton, in opening debate, amended the motion to take note of the paper and endorsed the copper venture as being a major and essential development. [7](#f7) Lapun then criticised the Government for its bad handling of the situation, for deceiving the people and for ignoring the people’s wishes. His speech did not appear to impress the House. Mr. Giregire strongly supported the statement and he spoke of the benefits to the people in the immediate area and to the Territory. Most of the other speakers also supported the motion although some, including Neville and Olewale, felt that it was necessary to go slower on land negotiations and take more time with explanations. Somare criticised the handling of the matter to date although he wanted economic development and knew it was necessary. Arek wanted the project to go ahead but had reservations about the handling of matters so far. Lapun added a further amendment asking for consultation with landowners regarding levels of compensation. This was acceptable to the Administration and the original motion with both amendments was carried on the voices.
 
 The members seemed to appreciate the Administration’s frankness in putting up the detailed paper. They believed that some errors had been made in dealing with the people but they considered that the national project had to go ahead in any case.
 
-The whole subject was raised again when Middleton’s motion regarding resettlement of displaced native landowners on Arawa Plantation was debated.8 This had the support of Pangu and Lapun, Lus, Voutas and Abel spoke in support. It also had support from a number of Independent Group members and it would seem that this group had no stated policy on the motion and left it to individuals to vote as they saw fit. Middleton’s concept had a fair amount of support as although the motion was defeated 50 to 34, 20 of the Noes were recorded by Official, Ministerial and Assistant Ministerial Members.
+The whole subject was raised again when Middleton’s motion regarding resettlement of displaced native landowners on Arawa Plantation was debated.[8](#f8) This had the support of Pangu and Lapun, Lus, Voutas and Abel spoke in support. It also had support from a number of Independent Group members and it would seem that this group had no stated policy on the motion and left it to individuals to vote as they saw fit. Middleton’s concept had a fair amount of support as although the motion was defeated 50 to 34, 20 of the Noes were recorded by Official, Ministerial and Assistant Ministerial Members.
 
 Select Committee On Constitutional Development
 
@@ -65,13 +70,13 @@ The main points made by those speaking in support of this motion were that:
 
 6\. There were few highlights in the debate. All speakers emphasised that the setting up of the Committee did not foreshadow early self-government or independence. There was criticism that the Administration was not prepared to take a stand on this issue by Mr. Oala Rarua. The main controversy arose on the selection of committee members. Arek and his advisers had included Mr. Lapun and Mr. Tammur in their list and were prepared to try and force their nominations through until the last few minutes before Mr. Watson made the nominations. The lndependent Group apparently hinted to Mr. Arek that he would be embarrassed if he went ahead without making at least two changes. As a consequence Toliman and Mola replaced Tammur and Lapun. One further change in Arek’s list was the substitution of Matiabe Yuwi for Siwi Kurondo.
 
-Superannuation Scheme For Members9
+Superannuation Scheme For Members[9](#f9)
 
-7\. This scheme was strongly supported as shown by the vote 50 to 28 in favour. The Administration’s attitude to committal of public funds on such a scheme was clearly stated by Mr. Johnson. 10 Two Ministerial Members and six Assistant Ministerial Members voted in support of the Superannuation Scheme motion.
+7\. This scheme was strongly supported as shown by the vote 50 to 28 in favour. The Administration’s attitude to committal of public funds on such a scheme was clearly stated by Mr. Johnson. [10](#f10) Two Ministerial Members and six Assistant Ministerial Members voted in support of the Superannuation Scheme motion.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-Gazelle Peninsula Local Government Cosuncil11
+Gazelle Peninsula Local Government Cosuncil[11](#f11)
 
 9\. In the debate Voutas questioned the Government assumption that the majority of the people in the Gazelle supported the multi-racial council. Tammur and Titimur reiterated all old arguments in opposition to the multiracial concept.
 
@@ -83,17 +88,17 @@ Gazelle Peninsula Local Government Cosuncil11
 
 13\. Neville made a strong attack against Tammur and particularly against the racial overtones contained in Tammur’s arguments.
 
-_Other matters_
+ _Other matters_
 
 14\. Questions
 
 The number of questions asked appears to be on the increase, no doubt partially as a result of an increase in the size of the House. This growth in the number of questions also indicates an increase in the confidence of the members.
 
-15\. For the most part, questions were related to electorate problems. It was difficult to provide satisfactory answers on the many questions related to road and bridge development proposals as final decisions were very much dependent on the U.N.D.P. report decisions 12 which were not to hand. Members commented critically on the delay that has been taken to come to decisions on the report recommendations.
+15\. For the most part, questions were related to electorate problems. It was difficult to provide satisfactory answers on the many questions related to road and bridge development proposals as final decisions were very much dependent on the U.N.D.P. report decisions [12](#f12) which were not to hand. Members commented critically on the delay that has been taken to come to decisions on the report recommendations.
 
 16\. Another point of interest was the number of questions that were asked on the Army. Some Highland members including Kambipi lived in Army quarters during the meeting and their hosts may have asked the members to take matters up on their behalf.
 
-17\. Donatus Mola asked a series of highly technical questions (Nos. 1675–1680) on C.R.A. matters 13 and he probably had some assistance in preparing them. However, he did not put the answers to use in debate.
+17\. Donatus Mola asked a series of highly technical questions (Nos. 1675–1680) on C.R.A. matters [13](#f13) and he probably had some assistance in preparing them. However, he did not put the answers to use in debate.
 
 18\. The Speaker
 
@@ -119,7 +124,7 @@ During the meeting some of the members commented on signs of anti-European feeli
 
 The Pangu Pati did not play a very significant part during the meeting of this House. They accepted that economic development was inevitable and they criticised the handling of the Bougainville people rather than the idea of going ahead with the C.R.A. project.
 
-26\. In the West Irian debate, 14 Mr. Chatterton, who can usually count on Pangu Pati support, did not get any assistance from Voutas on the West Irian motion. Mr. Voutas felt that injustice was being done to a small group of West Irianese but he felt that the whole of Indonesia could be thrown into chaos if any other course were adopted and he supported the stand taken by the Australian Government. He did not doubt that the act of free choice would result in the final firm inclusion of West Irian as part of the Indonesian Republic.
+26\. In the West Irian debate, [14](#f14) Mr. Chatterton, who can usually count on Pangu Pati support, did not get any assistance from Voutas on the West Irian motion. Mr. Voutas felt that injustice was being done to a small group of West Irianese but he felt that the whole of Indonesia could be thrown into chaos if any other course were adopted and he supported the stand taken by the Australian Government. He did not doubt that the act of free choice would result in the final firm inclusion of West Irian as part of the Indonesian Republic.
 
 27\. Although the Pangu Pati has nine regular members they seem to be able to muster 20 or more votes on most issues.
 
@@ -127,7 +132,7 @@ The Pangu Pati did not play a very significant part during the meeting of this H
 
 The interpretation was of a higher standard than at the March meeting. At the March meeting the Chief lnterpreter had just resigned and the next senior man’s resignation was pending. The new officer-in-charge has had a great deal of previous experience in the House and two D.D.A. field officers on loan for the meeting strengthened the section. Despite the improvement a great deal is always lost in the simultaneous interpretation and a pidgin speech should be made on the floor of the House on all the important matters by follow-up speakers—either official members, Ministerial Members or Assistant Ministerial Members after the leading government speaker has introduced the subject.
 
-29\. The provision of a ‘teach-in’ on the Bougainville Copper Project by the Acting Assistant Administrator (EconomicAffairs)15 clarified matters for a number of members. After delivering his paper the Acting Assistant Administrator (Economic Affairs) advised members that he would be happy to answer any queries in the Conference Room on the following morning. A number of members took up the offer. This technique could be used again with advantage.
+29\. The provision of a ‘teach-in’ on the Bougainville Copper Project by the Acting Assistant Administrator (EconomicAffairs)[15](#f15) clarified matters for a number of members. After delivering his paper the Acting Assistant Administrator (Economic Affairs) advised members that he would be happy to answer any queries in the Conference Room on the following morning. A number of members took up the offer. This technique could be used again with advantage.
 
 30\. Ministerial And Assistant Ministerial Members
 
@@ -135,11 +140,11 @@ This group, but in particular the Ministerial Members, acquitted themselves well
 
 31\. The Independent Group
 
-The Independent Group continued to function fairly effectively. The Group certainly influenced the membership of the Constitutional Committee. The Group was also responsible for carrying over the report on House of Assembly Procedures. 16
+The Independent Group continued to function fairly effectively. The Group certainly influenced the membership of the Constitutional Committee. The Group was also responsible for carrying over the report on House of Assembly Procedures. [16](#f16)
 
 32\. Originally the group intended to support this report apart from a number of key clauses which Mr. Voutas had apparently agreed to hold over. Lussick supported the motion on these agreed lines. After the Senior Official Member had stated the Government’s view it appeared to Mr. Lussick that Voutas might seek acceptance of the whole report without excluding those clauses as agreed by Lussick and Voutas. Neville, prompted by Lussick, then successfully moved that the entire report be held over until August.
 
-33\. The Independent Group split on Middleton’s second Bougainville motion 17 and Group members P. Johnson and Counset18 attacked Lussick’s air transport motion.
+33\. The Independent Group split on Middleton’s second Bougainville motion [17](#f17) and Group members P. Johnson and Counset[18](#f18) attacked Lussick’s air transport motion.
 
 34\. Motions
 
@@ -155,7 +160,7 @@ There is a tendency for an increasing number of motions to be put forward by ele
 
 3  See footnote 4, Document 263. Preceding the debate, the Social Change Advisory Committee had warned that it was ‘highly important [for the Administration] to appear fair and just rather than to try to push [the land] legislation through with weight of Highlands members’ (minute, Besley to Warwick Smith, 25 June 1969, NAA: A452, 1969/2169). 
 
-4  Chatterton proposed amendment of the ordinance so as to make it an offence to engage in racially offensive behaviour in all public places; previously, the act had applied only to places where liquor was sold (_House of Assembly debates_, 18 June 1969, NLA: Nq. 328.952 PAP, p. 1173). 
+4  Chatterton proposed amendment of the ordinance so as to make it an offence to engage in racially offensive behaviour in all public places; previously, the act had applied only to places where liquor was sold ( _House of Assembly debates_ , 18 June 1969, NLA: Nq. 328.952 PAP, p. 1173). 
 
 5  The bill was an attempt to repeal the Gaming (Playing Cards) ordinance, which prohibited informal gaming houses and lotteries (ibid., 17 June 1969, p. 1135) 
 
@@ -163,7 +168,7 @@ There is a tendency for an increasing number of motions to be put forward by ele
 
 7  For the motion as adopted, see footnote 8, Document 286. 
 
-8  Middleton moved ‘That this House requests the Administration to urgently adopt a CRA proposed town site on Arawa native lands conditionally on acquiring Arawa Plantation to resettle people displaced from the town site and port site, provided the people in the affected areas are agreeable’ (_House of Assembly debates_, 20 June 1969, NLA: Nq. 328.952 PAP, p. 1239). 
+8  Middleton moved ‘That this House requests the Administration to urgently adopt a CRA proposed town site on Arawa native lands conditionally on acquiring Arawa Plantation to resettle people displaced from the town site and port site, provided the people in the affected areas are agreeable’ ( _House of Assembly debates_ , 20 June 1969, NLA: Nq. 328.952 PAP, p. 1239). 
 
 9  In March, Somare had moved that the House adopt a select committee report on a superannuation scheme. He also moved that the House declare the scheme ‘necessary and justified’ and that it request implementation by the Administration (ibid., 14 March 1969, p. 1085). 
 
@@ -179,8 +184,8 @@ There is a tendency for an increasing number of motions to be put forward by ele
 
 15  A.P.J. Newman. 
 
-16  The report was compiled by a select committee which had been established in August 1968 for the purpose of considering ‘all aspects of parliamentary procedures and matters connected therewith ... so that the elected members will be able to have a greater understanding of the work of the House and to take a greater part in it’. The report was printed in hansard (_House of Assembly debates_, 18 June 1969, NLA: Nq. 328.952 PAP, pp. 1165–9). Debate was adjourned on 27 June (ibid., p. 1436). 
+16  The report was compiled by a select committee which had been established in August 1968 for the purpose of considering ‘all aspects of parliamentary procedures and matters connected therewith ... so that the elected members will be able to have a greater understanding of the work of the House and to take a greater part in it’. The report was printed in hansard ( _House of Assembly debates_ , 18 June 1969, NLA: Nq. 328.952 PAP, pp. 1165–9). Debate was adjourned on 27 June (ibid., p. 1436). 
 
 17  See footnote 8. 
 
-18  V.B. Counsel, MHA, Western and Gulf regional electorate. 
+18  V.B. Counsel, MHA, Western and Gulf regional electorate.

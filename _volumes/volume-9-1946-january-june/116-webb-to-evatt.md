@@ -1,12 +1,17 @@
 ---
-title: "116 Webb to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3628
+doc_date: '1946-03-05'
+doc_num: 116
+doc_order: 116
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.5817]'
+title: Webb to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-05
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 116 Webb to Evatt
 
 Cablegram 83 TOKYO, 5 March 1946, 4 p.m.
 
@@ -22,7 +27,7 @@ If your view was correctly stated by Mr. Keenan and you intend to act on it then
 
 Would you please tell me at your early convenience what position you take up in relation to the charter. [2] Ends.
 
-_
+ _
 
 1 A sign here indicates 'word apparently omitted'.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.5817]_
+ _[AA:A3195, 1946, 1.5817]_

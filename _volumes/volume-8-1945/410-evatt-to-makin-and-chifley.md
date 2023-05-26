@@ -1,12 +1,17 @@
 ---
-title: "410 Evatt to Makin and Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3441
+doc_date: '1945-11-23'
+doc_num: 410
+doc_order: 410
+naa_refs:
+- naa_barcode: 235794
+  naa_control_symbol: '321'
+  naa_series: A3300
+  reference: '[AA : A3300/2, 45/321]'
+title: Evatt to Makin and Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-11-23
+vol_title: 'Volume 8: 1945'
 ---
-
-# 410 Evatt to Makin and Chifley
 
 Cablegram E47 WASHINGTON, 23 November 1945
 
@@ -28,7 +33,7 @@ I understand public feeling in Australia would approve proposals of this kind.
 
 These are now all matters of great urgency. Please telegraph your views. I regard matter as of extreme delicacy and to be completely agreed between us before any mention elsewhere.
 
-_
+ _
 
 1 Convened 17 November on U.K. initiative to try to negotiate a Dutch-Indonesian settlement. See cablegram 1763 from External Affairs Dept to Evatt in Washington, dispatched 19 November (on file AA : A3300/2, 45/321) and Addison's cablegram D2132, dispatched 19 November (on file AA : A1838/2, 402/8/1/1, i).
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA : A3300/2, 45/321]_
+ _[AA : A3300/2, 45/321]_

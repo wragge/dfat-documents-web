@@ -1,12 +1,17 @@
 ---
-title: "257 Commonwealth Government to U.K. Dominions Office"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2011
+doc_date: '1942-01-06'
+doc_num: 257
+doc_order: 258
+naa_refs:
+- naa_barcode: 232273
+  naa_control_symbol: '47'
+  naa_series: A2937
+  reference: '[AA:A2937, FAR EAST POSITION 1942]'
+title: Commonwealth Government to U.K. Dominions Office
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-06
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 257 Commonwealth Government to U.K. Dominions Office
 
 Cablegram 11 CANBERRA, 6 January 1942, 1.05 a.m.
 
@@ -16,7 +21,7 @@ Your telegram No. 16 of the 3rd January. [1] Commonwealth Government agree to th
 
 to Singapore together with corps of troops and maintenance and base organisations from the Middle East to the Netherlands East Indies. [2] We assume that adequate measures will be taken for their security both in respect of naval escorts and air protection when approaching destination.
 
-_
+ _
 
 1 AA:A3195, 1942, 1.426.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA:A2937, FAR EAST POSITION 1942]_
+ _[AA:A2937, FAR EAST POSITION 1942]_

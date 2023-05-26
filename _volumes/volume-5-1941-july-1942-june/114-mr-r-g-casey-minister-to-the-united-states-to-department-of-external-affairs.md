@@ -1,12 +1,17 @@
 ---
-title: "114 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1868
+doc_date: '1941-11-16'
+doc_num: 114
+doc_order: 115
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-16
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 114 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 981 WASHINGTON, 16 November 1941, 1.07 p.m. Received 17
 
@@ -38,7 +43,7 @@ I have suggested to British Ambassador here advisability of his seeing Kurusu [5
 
 CASEY
 
-_
+ _
 
 1 See Document 109, note 4.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

@@ -1,12 +1,18 @@
 ---
-title: "153 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 152
+doc_date: '1938-03-23'
+doc_num: 153
+doc_order: 152
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA: A981, GREAT BRITAIN 8B, ii]'
+title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A.
+  Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-23
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 153 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister
 
 Circular Cablegram B74 LONDON, 23 March 1938, 3.08 p.m.
 
@@ -22,7 +28,7 @@ These will be telegraphed as soon as possible.
 
 Text of the statement as now sent is subject to possible further amendment.
 
-_
+ _
 
 1 Document 150.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA: A981, GREAT BRITAIN 8B, ii]_
+ _[AA: A981, GREAT BRITAIN 8B, ii]_

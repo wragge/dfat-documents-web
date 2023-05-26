@@ -1,12 +1,17 @@
 ---
-title: "355 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1586
+doc_date: '1941-03-14'
+doc_num: 355
+doc_order: 355
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3830, 1941, 681]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-14
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 355 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 199 WASHINGTON, 14 March 1941, 7.29 p.m.
 
@@ -46,7 +51,7 @@ With reference to my telegram No. 159. [3] Progress report 6.
 
 CASEY
 
-_
+ _
 
 1 Commander H. M. Burrell.
 
@@ -62,4 +67,4 @@ _
 
 _
 
-_ [AA:A3830, 1941, 681]_
+ _[AA:A3830, 1941, 681]_

@@ -1,12 +1,17 @@
 ---
-title: "229 Burton to Officer"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5496
+doc_date: '1948-08-27'
+doc_num: 229
+doc_order: 229
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA: OFFICER PAPERS, MS2619/1/1100-1]'
+title: Burton to Officer
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-08-27
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 229 Burton to Officer
 
 Letter CANBERRA, 27 August 1948
 
@@ -36,7 +41,7 @@ The Minister will naturally not wish to be placed in the position of pressing ou
 
 Commercially and in every other way this should be avoided at all costs.
 
-_
+ _
 
 1 Usman held a party in Canberra on 17 August to celebrate the anniversary of the Republic of Indonesia's proclamation of independence. The United States, French, Canadian and United Kingdom missions were not represented.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [NLA: OFFICER PAPERS, MS2619/1/1100-1]_
+ _[NLA: OFFICER PAPERS, MS2619/1/1100-1]_

@@ -1,12 +1,22 @@
 ---
-title: "239 Mr S.M. Bruce, High Commissioner in London, to Mr R.A. Butler, U.K. Parliamentary Under-Secretary of State for Foreign Affairs"
-volume: "Volume 2: 1939"
-doc_id: 576
+doc_date: '1939-09-21'
+doc_num: 239
+doc_order: 239
+naa_refs:
+- naa_barcode: 235475
+  naa_control_symbol: '3'
+  naa_series: A3300
+  reference: '[AA:AA 1975/223, 1939, PAR EAST POLICY (U.S.) JAPAN AND CHINA [2]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:PO 371/23461]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.A. Butler, U.K. Parliamentary
+  Under-Secretary of State for Foreign Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-21
+vol_title: 'Volume 2: 1939'
 ---
-
-# 239 Mr S.M. Bruce, High Commissioner in London, to Mr R.A. Butler, U.K. Parliamentary Under-Secretary of State for Foreign Affairs
 
 Letter LONDON, 21 September 1939
 
@@ -18,7 +28,7 @@ I then made one or two suggestions to you. I have this morning dictated a very r
 
 S.M. BRUCE
 
-_
+ _
 
 Enclosure
 
@@ -58,4 +68,4 @@ As part of a settlement it would probably be necessary for the Chinese Governmen
 
 _
 
-_ [PRO:PO 371/23461]_
+ _[PRO:PO 371/23461]_

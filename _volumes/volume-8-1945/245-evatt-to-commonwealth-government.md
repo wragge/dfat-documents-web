@@ -1,12 +1,17 @@
 ---
-title: "245 Evatt to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3276
+doc_date: '1945-09-14'
+doc_num: 245
+doc_order: 245
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA : A1838/2, 377/3/3/2]'
+title: Evatt to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-14
+vol_title: 'Volume 8: 1945'
 ---
-
-# 245 Evatt to Commonwealth Government
 
 Cablegram EC8 LONDON, 14 September 1945, 1.40 a.m.
 
@@ -38,7 +43,7 @@ As regards the remaining matters in the aide-memoire:-
 
 (b) The Portuguese Government continue to consider themselves bound by the undertakings entered into in their note of the 4th of October, 1943, addressed to His Britannic Majesty's Ambassador in Lisbon, in reply to the latter's note of the 14th of September [4] handed to the Portuguese Government on behalf of the Government of the Commonwealth of Australia. As regards the publication of those undertakings, however, they are unable at the present moment and on their own to take any decision without consultation with the British Government by reason of the fact that the documents in question constitute a body of mutual undertakings which have up to the present been kept secret. [5]
 
-_
+ _
 
 1 Document 244.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA : A1838/2, 377/3/3/2]_
+ _[AA : A1838/2, 377/3/3/2]_

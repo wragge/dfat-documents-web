@@ -1,12 +1,17 @@
 ---
-title: "174 Commonwealth Government to Addison"
-volume: "Volume 8: 1945"
-doc_id: 3205
+doc_date: '1945-08-11'
+doc_num: 174
+doc_order: 174
+naa_refs:
+- naa_barcode: 4224455
+  naa_control_symbol: 1945/40
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, F0LDER, OUTWARDS MOST SECRET, 0.21056]'
+title: Commonwealth Government to Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-11
+vol_title: 'Volume 8: 1945'
 ---
-
-# 174 Commonwealth Government to Addison
 
 Cablegram 226 CANBERRA, 11 August 1945
 
@@ -18,7 +23,7 @@ Having regard to recent cables which passed between us and the assurance given o
 
 At your request we have also forwarded tentative views on the Japanese settlement-our 225. [6]
 
-_
+ _
 
 1 Dispatched 10 August. On file AA : A1066, P45/10/1/3, ii. It contained the text of the U.K. Govt's announcement foreshadowed in Document 173.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA : A3196, 1945, F0LDER, OUTWARDS MOST SECRET, 0.21056]_
+ _[AA : A3196, 1945, F0LDER, OUTWARDS MOST SECRET, 0.21056]_

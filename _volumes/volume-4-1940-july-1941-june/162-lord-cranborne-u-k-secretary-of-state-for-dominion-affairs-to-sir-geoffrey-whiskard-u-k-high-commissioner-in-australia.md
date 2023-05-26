@@ -1,12 +1,18 @@
 ---
-title: "162 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1393
+doc_date: '1940-10-07'
+doc_num: 162
+doc_order: 162
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 26A]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 162 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Circular cablegram Z291 LONDON, 7 October 1940, 11.30 p.m.
 
@@ -22,7 +28,7 @@ Question of parallel declarations by the United States of America, United Kingdo
 
 Question of possible visit by United States Squadron to Singapore has also been considered by the United States authorities but, as indicated in my Circular telegram M.64 of 5th October [6] they are not in favour of this at present.
 
-_
+ _
 
 1 R. G. Menzies.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 26A]_
+ _[AA:A981, FAR EAST 26A]_

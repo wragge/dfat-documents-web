@@ -1,16 +1,21 @@
 ---
-title: "60 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2707
+doc_date: '1944-02-29'
+doc_num: 60
+doc_order: 60
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 654]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-29
+vol_title: 'Volume 7: 1944'
 ---
-
-# 60 Bruce to Curtin
 
 Cablegram 31[A] LONDON, 29 February 1944, 9 p.m.
 
-IMMEDIATE MOST SECRET &amp; PERSONAL
+IMMEDIATE MOST SECRET & PERSONAL
 
 Addressed to the Prime Minister, Mr. Curtin. Dominions Office telegram D.277 of 23rd February. [1]
 
@@ -52,7 +57,7 @@ On the latter point I cannot express a view as the text of the American communic
 
 BRUCE
 
-_
+ _
 
 1 Document 55.
 
@@ -70,4 +75,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 654]_
+ _[AA:A5954, BOX 654]_

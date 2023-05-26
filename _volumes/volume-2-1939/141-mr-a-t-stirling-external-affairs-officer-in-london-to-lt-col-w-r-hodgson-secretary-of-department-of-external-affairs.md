@@ -1,12 +1,18 @@
 ---
-title: "141 Mr A.T. Stirling, External Affairs Officer in London, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 478
+doc_date: '1939-08-22'
+doc_num: 141
+doc_order: 141
+naa_refs:
+- naa_barcode: 176522
+  naa_control_symbol: GER 72 PART 1
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 72B, i]'
+title: Mr A.T. Stirling, External Affairs Officer in London, to Lt Col W.R. Hodgson,
+  Secretary of Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-22
+vol_title: 'Volume 2: 1939'
 ---
-
-# 141 Mr A.T. Stirling, External Affairs Officer in London, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs
 
 Cablegram 344 LONDON, 22 August 1939
 
@@ -18,7 +24,7 @@ In reply to your telegram No. 51 [2] and in case the position was not clear from
 
 STIRLING
 
-_
+ _
 
 1 S.M. Bruce.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 72B, i]_
+ _[AA: A981, GERMANY 72B, i]_

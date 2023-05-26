@@ -1,14 +1,19 @@
 ---
-title: "73 Evatt to Hasluck"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3921
+doc_date: '1946-08-18'
+doc_num: 73
+doc_order: 73
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]'
+title: Evatt to Hasluck
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-08-18
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 73 Evatt to Hasluck
-
-## Cablegram unnumbered [PARIS], 18 August 1946
+Cablegram unnumbered [PARIS], 18 August 1946
 
 IMMEDIATE
 
@@ -22,7 +27,7 @@ IMMEDIATE
 
 5\. Above all other considerations you should endeavour to avoid at present any controversy in Security Council with United Kingdom or United States.
 
-_
+ _
 
 1 Document 71.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]_
+ _[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]_

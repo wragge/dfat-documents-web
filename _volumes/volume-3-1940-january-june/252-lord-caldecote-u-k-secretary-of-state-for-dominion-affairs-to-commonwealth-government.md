@@ -1,12 +1,18 @@
 ---
-title: "252 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1018
+doc_date: '1940-05-17'
+doc_num: 252
+doc_order: 252
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL: MS 1538, SERIES 45, SUBSERIES 3]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 252 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 155 LONDON, 17 May 1940, 10.43 p.m.
 
@@ -36,7 +42,7 @@ SOUTH AFRICA
 
 It would be for His Majesty's Government in the Union of South Africa to say whether suitable accommodation exists and could be made available but the situation of the equipment would be the same as for India except that it could be provided with a little less delay. In these circumstances as well as on general grounds, we greatly hope that His Majesty's Government in the Commonwealth of Australia will be willing that the troops should proceed to this country. [2]
 
-_
+ _
 
 1 Document 250.
 
@@ -44,4 +50,4 @@ _
 
 _
 
-_ [ANL: MS 1538, SERIES 45, SUBSERIES 3]_
+ _[ANL: MS 1538, SERIES 45, SUBSERIES 3]_

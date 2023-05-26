@@ -1,12 +1,17 @@
 ---
-title: "7 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1238
+doc_date: '1940-07-03'
+doc_num: 7
+doc_order: 7
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1940, 1.5035]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-03
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 7 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 507 LONDON, 3 July 1940, 8 p.m.
 
@@ -50,9 +55,9 @@ view they are not doing.
 
 BRUCE
 
-_
+ _
 
-1 Documents on Australian Foreign Policy 1937-49, vol. III, 
+1 Documents on Australian Foreign Policy 1937-49, vol. III,
 
 Document 459.
 
@@ -62,7 +67,7 @@ Document 459.
 
 _
 
-_
+ _
 
 [AA: A3195, 1940, 1.5035]
 

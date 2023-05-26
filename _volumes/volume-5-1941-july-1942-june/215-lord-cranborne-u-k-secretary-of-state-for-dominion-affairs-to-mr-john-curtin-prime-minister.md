@@ -1,12 +1,18 @@
 ---
-title: "215 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1969
+doc_date: '1941-12-23'
+doc_num: 215
+doc_order: 216
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 215 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Circular cablegram M476 LONDON, 23 December 1941, 3.40 a.m.
 
@@ -144,7 +150,7 @@ Summary ends.
 
 I need not impress on you the vital secrecy of much of the foregoing information. Please treat it with the utmost discretion.
 
-_
+ _
 
 1 A summary of this appreciation had already been received from Sir Earle Page, Special Representative in the United Kingdom. See cablegram P15 of 20 December on file AA:A2680, 143/1941.
 
@@ -158,4 +164,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

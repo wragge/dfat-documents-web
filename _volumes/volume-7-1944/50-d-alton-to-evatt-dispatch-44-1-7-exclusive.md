@@ -1,12 +1,17 @@
 ---
-title: "50 D'Alton to Evatt Dispatch 44/1/7 EXCLUSIVE"
-volume: "Volume 7: 1944"
-doc_id: 2697
+doc_date: '1944-02-16'
+doc_num: 50
+doc_order: 50
+naa_refs:
+- naa_barcode: 745848
+  naa_control_symbol: 1944/WELLINGTON PART 1
+  naa_series: A4231
+  reference: '[AA:A4231, WELLINGTON, 1943-44]'
+title: D'Alton to Evatt Dispatch 44/1/7 EXCLUSIVE
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-16
+vol_title: 'Volume 7: 1944'
 ---
-
-# 50 D'Alton to Evatt Dispatch 44/1/7 EXCLUSIVE
 
 WELLINGTON, 16 February 1944
 
@@ -22,7 +27,7 @@ I have the honour to refer to the American note [1] delivered to the Governments
 
 TOM D'ALTON
 
-_
+ _
 
 1 Document 40, Attachment.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A4231, WELLINGTON, 1943-44]_
+ _[AA:A4231, WELLINGTON, 1943-44]_

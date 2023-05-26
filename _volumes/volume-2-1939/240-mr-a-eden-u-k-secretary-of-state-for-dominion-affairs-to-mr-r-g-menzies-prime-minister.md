@@ -1,12 +1,18 @@
 ---
-title: "240 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 577
+doc_date: '1939-09-21'
+doc_num: 240
+doc_order: 240
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA:CP 290/6, ITEM 67]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-21
+vol_title: 'Volume 2: 1939'
 ---
-
-# 240 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram Dig LONDON, 21 September 1939, 6.17 a.m.
 
@@ -34,7 +40,7 @@ In view of great range and complexity of problems confronting us all at this tim
 
 10\. Similar telegram sent to other Prime Ministers.
 
-_
+ _
 
 1 In circular cablegram Z50 sent to the U.K. High Commissioner to Australia, Sir Geoffrey Whiskard, on 4 October 1939 the U.K.
 
@@ -44,4 +50,4 @@ Government wished to 'prevent description of meetings as an Imperial War Cabinet
 
 _
 
-_ [AA:CP 290/6, ITEM 67]_
+ _[AA:CP 290/6, ITEM 67]_

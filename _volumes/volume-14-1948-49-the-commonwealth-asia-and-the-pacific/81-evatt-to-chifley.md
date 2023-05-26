@@ -1,12 +1,18 @@
 ---
-title: "81 Evatt to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5857
+doc_date: '1948-11-23'
+doc_num: 81
+doc_order: 81
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1948, 1.18643]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-11-23
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 81 Evatt to Chifley
 
 Cablegram Austdel 262 PARIS, 23 November 1948, 4 a.m.
 
@@ -30,7 +36,7 @@ As the messages will have informed you, the position with regard to Eire has cha
 
 8\. You will have seen from the exchange of documents that the Irish insist they will not be members of the British Commonwealth in the future. We cannot resist their insistence on this, regrettable though it is. You will observe from the draft statement in my following telegram that I make a special reference to Commonwealth status which it seems to me would be useful for you to make because it will clear up our own position in relation both to the King and to the use of the word British in relation to the Government.
 
-_
+ _
 
 1 Not found.
 
@@ -40,4 +46,4 @@ Chifley made a statement in the House of Representatives on 26 November.
 
 _
 
-_ [AA: A3195, 1948, 1.18643]_
+ _[AA: A3195, 1948, 1.18643]_

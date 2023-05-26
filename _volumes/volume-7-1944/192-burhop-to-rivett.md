@@ -1,14 +1,19 @@
 ---
-title: "192 Burhop to Rivett"
-volume: "Volume 7: 1944"
-doc_id: 2839
+doc_date: '1944-06-10'
+doc_num: 192
+doc_order: 192
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 5]'
+title: Burhop to Rivett
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-10
+vol_title: 'Volume 7: 1944'
 ---
 
-# 192 Burhop to Rivett
-
-## Letter (extract) BERKELEY, 10 June 1944
+Letter (extract) BERKELEY, 10 June 1944
 
 As I have now been in Berkeley a month I thought you might be interested in my impressions of my new field of activities. [1] Naturally I can only speak first hand of the small sector of this tremendous project with which I am particularly concerned, but I have also had the opportunity of discussing matters generally with some of the people who have a wider perspective of the project and knowing the difficult nature of the decisions you are called on to make in Australia, I thought perhaps other impressions apart from those you have already heard might help. In the first place, what I have seen and heard convinces me that Oliphant was not over- enthusiastic in his earlier assessments of the position to you.
 
@@ -26,7 +31,7 @@ With regard to myself personally, I can say that I do not regret the decision to
 
 E. H. S. BURHOP
 
-_
+ _
 
 1 Burhop had recently joined the Manhattan Project.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [CSIRO ARCHIVES:SERIES 380, ITEM 5]_
+ _[CSIRO ARCHIVES:SERIES 380, ITEM 5]_

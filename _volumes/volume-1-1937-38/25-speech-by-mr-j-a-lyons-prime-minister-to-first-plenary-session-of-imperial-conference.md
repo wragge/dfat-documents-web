@@ -1,12 +1,18 @@
 ---
-title: "25 Speech by Mr J. A. Lyons, Prime Minister, to First Plenary Session of Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 25
+doc_date: '1937-05-14'
+doc_num: 25
+doc_order: 25
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Speech by Mr J. A. Lyons, Prime Minister, to First Plenary Session of Imperial
+  Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-05-14
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 25 Speech by Mr J. A. Lyons, Prime Minister, to First Plenary Session of Imperial Conference
 
 E 1st meeting (1937) LONDON, 14 May 1937
 
@@ -126,10 +132,10 @@ CONCLUSION
 
 The Agenda for the Conference embraces many other subjects. I feel, however, that the questions with which I have dealt so far transcend any other matters to which we will have to direct our attention that it is desirable that I should confine my remarks at this opening session to outlining the view of the Commonwealth upon them, and with those who have already spoken I express the hope that the greatest possible success will result from our deliberations.
 
-_
+ _
 
 1 On 6 April 1937, Paul van Zeeland, Belgian Prime Minister, accepted a joint invitation from Britain and France to inquire into the possibility of obtaining a general reduction of quotas and other obstacles to international trade in order to give effect to the tripartite declaration of 26 September 1936 (see Document 17, section on France).
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

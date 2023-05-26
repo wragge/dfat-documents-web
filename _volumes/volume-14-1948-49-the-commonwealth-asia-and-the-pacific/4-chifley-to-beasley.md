@@ -1,12 +1,18 @@
 ---
-title: "4 Chifley to Beasley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5780
+doc_date: '1948-02-23'
+doc_num: 4
+doc_order: 4
+naa_refs:
+- naa_barcode: 635330
+  naa_control_symbol: 708/12 A
+  naa_series: A1838
+  reference: '[AA: 1838, 708/12A]'
+title: Chifley to Beasley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-02-23
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 4 Chifley to Beasley
 
 Cablegram 22 CANBERRA, 23 February 1948, 5.20 p.m.
 
@@ -22,10 +28,10 @@ Discussion of means to be adopted to finance dollar deficit might perhaps lead t
 
 In general I suggest you use the Co[mmitte]e as a means of obtaining the maximum amount of back-ground information on the United Kingdom position and on the thinking of the United Kingdom Ministers.
 
-_
+ _
 
 1 Document 3
 
 _
 
-_ [AA: 1838, 708/12A]_
+ _[AA: 1838, 708/12A]_

@@ -1,14 +1,19 @@
 ---
-title: "48 Evatt to Churchill"
-volume: "Volume 8: 1945"
-doc_id: 3079
+doc_date: '1945-02-27'
+doc_num: 48
+doc_order: 48
+naa_refs:
+- naa_barcode: 4203189
+  naa_control_symbol: 1945/11
+  naa_series: A3196
+  reference: '[AA:A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.5534]'
+title: Evatt to Churchill
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-02-27
+vol_title: 'Volume 8: 1945'
 ---
 
-# 48 Evatt to Churchill
-
-## Cablegram 50 CANBERRA, 27 February 1945
+Cablegram 50 CANBERRA, 27 February 1945
 
 For Oldham from Evatt.
 
@@ -22,10 +27,10 @@ Please hand the following to Mr. Churchill for himself alone from me.
 
 EVATT
 
-_
+ _
 
 1 Document 46. 2 Document 47.
 
 _
 
-_ [AA:A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.5534]_
+ _[AA:A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.5534]_

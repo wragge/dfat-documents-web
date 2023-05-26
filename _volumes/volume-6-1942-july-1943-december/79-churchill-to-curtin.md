@@ -1,12 +1,17 @@
 ---
-title: "79 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2370
+doc_date: '1942-11-24'
+doc_num: 79
+doc_order: 79
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-11-24
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 79 Churchill to Curtin
 
 Cablegram Winch 28 LONDON, 24 November 1942, 10.35 a.m.
 
@@ -28,7 +33,7 @@ This again would have to be at the expense of our general power to move troops a
 
 CHURCHILL
 
-_
+ _
 
 1 See Document 76, note 12.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

@@ -1,12 +1,18 @@
 ---
-title: "20 Summary of Papers and Questions on Defence submitted by Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 20
+doc_date: '1937-04-28'
+doc_num: 20
+doc_order: 20
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 198]'
+title: Summary of Papers and Questions on Defence submitted by Delegation to Imperial
+  Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-04-28
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 20 Summary of Papers and Questions on Defence submitted by Delegation to Imperial Conference
 
 Extracts LONDON, 28 April 1937
 
@@ -64,8 +70,8 @@ It is desired to know whether, in certain circumstances (the reasonable probabil
 
 (iii) Strategic assumptions The Government, in the light of the strategical appreciation of the defence of Australia against invasion, which is sought in Paper NO. 4, would like advice on the validity of Assumption (c)- 'The arrival of the British Main Fleet at Singapore with a minimum of delay after the outbreak of war in the Far East.' (Note: The phrase 'minimum of delay' connotes some period comparable with the terms used in C.I.D. Paper 249-C, Part 1, paragraph 8 (c), viz, 'The arrival of the British Main Fleet at Singapore within 42 days of the outbreak of war.')
 
-_
+ _
 
 _
 
-_ [DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 198]_
+ _[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 198]_

@@ -1,12 +1,17 @@
 ---
-title: "67 Attlee to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3579
+doc_date: '1946-02-04'
+doc_num: 67
+doc_order: 67
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.3190]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-04
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 67 Attlee to Chifley
 
 Cablegram 42 LONDON, 4 February 1946, 6.08 p.m.
 
@@ -18,8 +23,8 @@ As regards timing, I know very well the difficulty which you are bound to find i
 
 I very much hope that you will be able to come. I need hardly say how great a personal pleasure it would be to me to welcome you to London for your first visit as the Prime Minister of Australia. I am communicating in a similar sense with the other Prime Ministers.
 
-_
+ _
 
 _
 
-_ [AA:A3195, 1946, 1.3190]_
+ _[AA:A3195, 1946, 1.3190]_

@@ -1,20 +1,27 @@
 ---
-title: "29 Cablegram to Jakarta"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7868
+doc_date: '1974-09-12'
+doc_num: 29
+doc_order: 29
+naa_refs:
+- naa_barcode: 550622
+  naa_control_symbol: 3034/10/11/24 PART 3
+  naa_series: A1838
+  reference: '[NAA: Al838, 3034110111124, iii]'
+title: Cablegram to Jakarta
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-09-12
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 29 Cablegram to Jakarta
 
 Canberra, 12 September 1974
 
 0.CH110619 CONFIDENTIAL PRIORITY
 
-**Prime Minister's Discussion with President Soeharto about Portuguese Timor**
+ **Prime Minister's Discussion with President Soeharto about Portuguese Timor**
 
-_Ref 0.CH110620 1_
+ _Ref 0.CH110620[1](#f1)_
 
 Our immediately succeeding telegram gives text of Departmental Background Paper on the future of Portuguese Timor. It has the Prime Minister's concurrence.
 
@@ -25,8 +32,6 @@ Our immediately succeeding telegram gives text of Departmental Background Paper 
 
 
 
-_ [NAA: Al838, 3034110111124, iii]_
+ _[NAA: Al838, 3034110111124, iii]_
 
   * 1 See note 1 to Document 28.
-
-

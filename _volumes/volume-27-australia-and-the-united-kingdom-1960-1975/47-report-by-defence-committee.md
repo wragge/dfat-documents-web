@@ -1,28 +1,31 @@
 ---
-title: "47 REPORT BY DEFENCE COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9912
+doc_date: '1966-01-05'
+doc_num: 47
+doc_order: 47
+naa_refs:
+- naa_barcode: 1160342
+  naa_control_symbol: 1965/6595 PART 3
+  naa_series: A1209
+  reference: '[NAA:A1209, 1965/6595 PART 3]'
+title: REPORT BY DEFENCE COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-01-05
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 47 REPORT BY DEFENCE COMMITTEE
-
-NAA:A1209, 1965/6595 PART 3
 
 Canberra, January 1966
 
 Top Secret
 
-****
+ ****
 
 British Defence Review: Report by the Defence Committee on Matters for Discussion between British, Australian and New Zealand Ministers
 
-_Introduction_
+ _Introduction_
 
 At its meeting on 5th January, 1966, the Cabinet noted that the British Secretaries of State for Foreign Affairs and Defence would be visiting Washington on 27th January for further talks in relation to the British Defence Review and the problems which it was raising, and that the Secretary of State for Defence, Mr. Healey, would afterwards visit Canberra for discussions with Australian and New Zealand Ministers.
 
-2\. In a message to the Prime Minister received 31st December, 1965,1 relating to the Defence Review, and giving an account of the recent talks between the United States President and the British Prime Minister, Mr. Harold Wilson, stated:—
+2\. In a message to the Prime Minister received 31st December, 1965,[1](#f1) relating to the Defence Review, and giving an account of the recent talks between the United States President and the British Prime Minister, Mr. Harold Wilson, stated:—
 
 > ‘It is essential that the total cost of our defence effort, both in financial terms and in terms of the burden on economic and manpower resources generally, should by 1970 be brought down to a figure within the economic capacity of the nation. Our Defence Review has confirmed our impression that we must reduce the burden and contract our commitments to some extent in order to meet the limits of a £2,000 million defence budget. But I made it clear that it is our intention to have a realistic and effective defence effort; that we intend to maintain our world role; and that throughout our Defence Review we had been concerned to maintain and to re-emphasize the concept of inter-dependence with the United States and our other principal Allies.’
 
@@ -34,7 +37,7 @@ Mr. Wilson then outlined the following preliminary views reached in the Review, 
 
 4\. There are thus two main and interrelated strands of thinking on which the British Defence Review, insofar as it relates to the Far East, is proceeding. Firstly, there is the objective of containing defence expenditure within a total of £2,000 million (in 1965 values) by 1970 requiring substantial cuts in defence commitments. Secondly, there is the assessment that dependence on facilities in Malaysia and Singapore is increasingly hazardous, with a consequential need for planning an alternative posture and to start preparations for substitute facilities. These matters and their implications are examined further in this report, with particular reference to aspects which might be discussed at the forthcoming talks between British, Australian and New Zealand ministers.
 
-_The Importance of the British Position in South East Asia_
+ _The Importance of the British Position in South East Asia_
 
 5\. Australia’s defence policy for a number of years has been based on a forward defence strategy to hold South East Asia thus providing depth of defence of the Australian mainland and its island territories. The viability of this policy depends primarily on the maintenance of the U.S. commitment to South East Asia and the powerful contribution of forces by that country, but the continued presence of British forces and particularly the availability of bases in Singapore/Malaysia for use by forces of the ANZAM countries are most important elements of the policy.
 
@@ -48,7 +51,7 @@ _The Importance of the British Position in South East Asia_
 
 10\. In a wider context also, the British and Commonwealth presence in its current form is a great stabilizing influence in Malaysia and Singapore. It embraces bases, forces, commerce and diplomacy and is a cementing force in a delicate communal structure. We believe the main racial groupings accept it and want it and its weakening could bring unrest, uncertainty and even new orientations.
 
-_The Effect of a Premature Abdication of Singapore and Malaysian Bases_
+ _The Effect of a Premature Abdication of Singapore and Malaysian Bases_
 
 11\. The United Kingdom has expressed the view that by 1970, quite apart from financial considerations, she might no longer be able to count on the use of the Singapore bases once confrontation has ended. We believe that while the position may become uncertain this is too pessimistic a view. Lee Kuan Yew has had it in his effective power to make mischief over the bases for a number of years, even before achieving independence, but he has taken the greatest pains to avoid adverse developments. We believe he wants the bases retained indefinitely and he shows every disposition to work with Britain, Australia and New Zealand.
 
@@ -62,7 +65,7 @@ _The Effect of a Premature Abdication of Singapore and Malaysian Bases_
 
 16\. In our view the development of a new system of bases in Australia would be no adequate substitute for the present British Defence structure in the region. The existence of this structure and associated ground, air and naval forces north of Indonesia and in the mainland of Asia enables the rapid deployment and intervention and sustained effort in accordance with our forward defence policy. In addition the bases afford protection to the Malacca Straits, and key internationally recognised waterway between the Pacific and Indian Oceans.
 
-_Australian Involvement_
+ _Australian Involvement_
 
 17\. In the foregoing considerations Australia is deeply involved both in terms of national interest and existing partnership and treaty arrangements. We are party to a set of arrangements—based on Singapore and Malaysia—for defence of those countries, for servicing SEATO commitments, and for our forward defence. Our ground forces, ships and aircraft form part and parcel of the Commonwealth Strategic Reserve in Malaysia and Singapore and we have invested heavily in the establishment in Malaya of a major Australian Air Base in Butterworth and a military establishment at Terendak.
 
@@ -70,9 +73,9 @@ _Australian Involvement_
 
 19\. In sum we are associated with both the British and the Americans under SEATO arrangements, with the British under ANZAM arrangements, with the United States under ANZUS arrangements and with New Zealand in each case. Decisions which would have implications for these treaty commitments and arrangements cannot be taken without our participation—or that of our treaty partners.
 
-20\. At the present time Australia has over 5,000 personnel serving in South East Asia, including approximately 1,600 in South Vietnam, 3,450 in Malaysia and 150 in Thailand. In four years, between 1962 and 1966, the Defence vote has doubled from about £200m. to about £400m. By June this year the strength of the Navy will have risen in three years by 28%, the Army by 46% and the Air Force by 17%. Now the Selective National Service has been introduced with liability for overseas service. Attached at Appendix 1 2 to this report are statements prepared by the Services summarising their planned build up and ultimate fighting capacity based on current approvals, together with the planned development of facilities and installations and the overall cost.
+20\. At the present time Australia has over 5,000 personnel serving in South East Asia, including approximately 1,600 in South Vietnam, 3,450 in Malaysia and 150 in Thailand. In four years, between 1962 and 1966, the Defence vote has doubled from about £200m. to about £400m. By June this year the strength of the Navy will have risen in three years by 28%, the Army by 46% and the Air Force by 17%. Now the Selective National Service has been introduced with liability for overseas service. Attached at Appendix 1 [2](#f2) to this report are statements prepared by the Services summarising their planned build up and ultimate fighting capacity based on current approvals, together with the planned development of facilities and installations and the overall cost.
 
-_Financial Considerations_
+ _Financial Considerations_
 
 21\. In the context of the need for preparations for substitute facilities, preferably in Australia, based on some form of quadripartite arrangement, the British Prime Minister has stated that there would be a need to put a limit on the United Kingdom’s own total liabilities in the area and that a careful burden-sharing exercise would be needed. He also expressed the hope that Australia in effect ‘would be prepared to carry the new capital expenditure which would be involved’, in providing substitute bases in Australia for the transfer of British forces to Australia from Malaya and Singapore. Even in the context of a burden-sharing exercise this proposal would raise considerable difficulties. This principle of financing is an entirely new suggestion. When Australia associated herself with the United Kingdom Defence Treaty to Malaya, we were pressed by the United Kingdom to contribute substantially to the cost of capital construction. In fact, at Butterworth and at Malacca, we have already sunk £6.7 m. in airfields, barracks and other facilities. Nor is there any basis for assessing the financial implications, e.g. what number of forces would be transferred to Australia, what form they would take, what bases and other facilities, e.g. housing, would be contemplated. The total cost could be immense.
 
@@ -94,7 +97,7 @@ _Financial Considerations_
 
 Our understanding is that under current financial arrangements between Britain and West Germany, designed to relieve the British balance of payments problem, Germany has undertaken to place orders for defence and other goods in the United Kingdom in excess of £stg 50 million a year. This commitment represents some 60% of the current foreign exchange cost of maintaining British forces in Germany, of about £stg 85 million a year.
 
-_The Requirement for an Agreed Strategic Concept_
+ _The Requirement for an Agreed Strategic Concept_
 
 27\. Any precise consideration of the effects of the British proposals in our area of strategic interest is inhibited by lack of a clear cut declaration of British strategic aims. At this stage, the British Prime Minister has only been able to give ‘a very broad picture of the way our thoughts are turning as regards the Defence review’. It has been assumed that confrontation will have ended well before 1970, and that efforts will have to be made to re-establish normal relations with Indonesia. In the British view, a British posture alternative to that dependent on the Singapore/Malaysia bases will have been planned and preparations made for substitute facilities in Australia, based probably on the concept of some form of quadripartite arrangement. The possibility has been mentioned of transfer under certain conditions of Polaris submarines to the area East of Suez. As regards Vietnam Britain will continue to pursue vigorously the possibility of opening negotiations.
 
@@ -108,7 +111,7 @@ Royal Navy| 2 Aircraft Carriers
 1 Guided Missile Destroyer  
 18 Escorts  
 5 Submarines  
-Support craft, RFA’s3 and Minesweepers  
+Support craft, RFA’s[3](#f3) and Minesweepers  
 Army| 21 Infantry battalions (including 8 Gurkhas, 2 Royal Marine Commando, 1 New Zealand and 1 Australian)  
 10 other major units. Total strength approx 50,000  
 Royal Air Force  
@@ -129,13 +132,13 @@ The potency of the above forces, including their ability to react quickly will b
 
 32\. It is clear that questions such as those above must be answered before we can consider properly our own future defence preparations and participate in planning for future defence arrangements. However, it must be emphasised that these questions can only properly be answered in the context of a strategic concept concerning the region as a whole, developed and agreed by the countries committed to the area and whose planning and preparations will follow from it. It would include consideration of a post-confrontation and post-Vietnamese conflict situation. Without such a concept it is not valid for example to proceed as the British proposals appear to do, on assumptions that 1970 has particular strategic significance, or that given an end to confrontation before then, substantial reductions in forces, or particular changes in posture will then be practicable.
 
-_The Importance of Quadripartite Discussions_
+ _The Importance of Quadripartite Discussions_
 
 33\. Australia has emphasised that the forthcoming discussions with the British Minister for Defence are seen as a prelude to quadripartite consultations in the problems of the region, and that we do not expect to be in a position in the discussions to reach finality. The importance of high level quadripartite discussions is apparent from the complexity and scope of the problems which have been outlined in the foregoing paragraphs, their interrelation, and the nature of our involvement. Only in this way can our common strategic interests be identified, and agreed strategic concept for the Far East be developed, and these translated into agreed and concerted effort. In the broadest strategic sense the Prime Minister has emphasized in his message to Mr. Wilson of 22nd October, 1965, that ‘we believe that it is a British and an American presence, allied with our own best performance and the best performance of others, as part of a co-operative arrangement, which alone can produce the vitally necessary stability’.
 
 34\. The need for joint consultation with Britain and the United States can be demonstrated by the interrelation for Australian Defence of the British proposal which, whilst indefinite, has far reaching defence and financial implications and the American desire for a substantially increased effort in Vietnam. We cannot attempt to deal satisfactorily with these separately and in isolation. If, for example, Australia were to decide to increase her commitment in Vietnam, this would affect her capacity to make an added contribution elsewhere in the region, e.g. to help the British. If the British defence posture based on Singapore and Malaysia is changed, our own forward defence policy and the degree to which we can commit resources on the mainland of South East Asia would inevitably come under review.
 
-_Contingency Planning_
+ _Contingency Planning_
 
 35\. The United Kingdom believe that as a result of the separation of Singapore from Malaysia there is a need for the rapid development of contingency planning against the possibility of a forced withdrawal from the area. The requirement for such planning has in the past been opposed by the United States on the grounds that if it became known that the United Kingdom was seriously considering alternatives to Singapore the western position there would be greatly weakened. Although the United States’ view is readily understood, Australia has on a number of previous occasions agreed to such planning with the United Kingdom because of our assessment that while the British presence in Malaysia/Singapore should be maintained as long as possible, the security of tenure is uncertain. The risks pointed to by the United States are real but in our view the preparation of contingency plans would help to convince the United Kingdom that we understand their problems and are willing to assist them and would be part of the price of persuading the United Kingdom to hold on in Malaysia/Singapore as long as possible.
 
@@ -143,7 +146,7 @@ _Contingency Planning_
 
 37\. Planning would require to take into account the complex political implications of these various possibilities for withdrawing from the bases or modifying the arrangements under which we use them; the impact on the countries themselves, the possible worsening of our relations with Indonesia, and the likely effect on other South East Asian countries including Thailand and the Philippines in particular.
 
-_Relocation of Forces in Australia on the assumption that Singapore/Malaysia Bases are no longer available_
+ _Relocation of Forces in Australia on the assumption that Singapore/Malaysia Bases are no longer available_
 
 38\. Coupled with contingency planning regarding the future of bases in Singapore and Malaysia, there is a need to examine the extension of base facilities in Australia. In addition to alternative facilities suggested for British forces there is also the question of additional facilities which would be needed should a changed British posture require us to house in Australia our own forces which are currently deployed in Malaysia.
 
@@ -168,7 +171,7 @@ Communications Facilities| Singapore is a major communications centre for the De
 
 42\. For British forces, requirements in addition to those above depend largely on assumptions regarding the nature of the forces to be deployed. To provide a base capable of meeting most of the requirements for an assumed R.N. fleet comprising 3 carriers, some 15 escorts and 6 submarines together with supporting vessels might require at least seven years and could cost on a very rough estimate £30m., in addition to the £15m. referred to in paragraph 40. This excludes maintenance costs. Army has estimated that the cost of providing training and staging facilities for a British brigade group of some 5,000 personnel in the Darwin area might be between £5.25m. and £7.25m. Facilities for a similar force stationed permanently in this country would be very much greater. For the RAF it is estimated that two major bases would be required for a force comparable to the RAF contribution to the Strategic Reserve before confrontation—i.e. about 10–12 squadrons. Using existing bare strips (e.g. Tindal and Avalon) the cost of developing technical, operational and domestic facilities is estimated by the RAAF to be of the order of £12m. per base.
 
-_The Basing in Australia of Forces with a Nuclear Capability_
+ _The Basing in Australia of Forces with a Nuclear Capability_
 
 43\. The basing of British forces in Australia would raise the whole question of introducing to this country forces with a nuclear capability. For example in his message Mr. Wilson has referred to the possibility of transferring Polaris submarines to the area east of Suez. The question cannot be considered in isolation from our nuclear policy generally. The existing policy is that there is no immediate requirement for an Australian nuclear capability, but the possibility is not excluded that we may need this in the longer term.
 
@@ -191,7 +194,7 @@ _The Basing in Australia of Forces with a Nuclear Capability_
 
 These recommendations are currently under consideration at the Ministerial level.
 
-_Conclusions_
+ _Conclusions_
 
 46\. Our main conclusions are:–
 
@@ -220,3 +223,5 @@ _Conclusions_
 2 Appendices not published.
 
 3 Royal Fleet Auxiliaries.
+
+[NAA:A1209, 1965/6595 PART 3]

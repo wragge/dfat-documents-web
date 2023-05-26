@@ -1,12 +1,18 @@
 ---
-title: "320 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 657
+doc_date: '1939-11-01'
+doc_num: 320
+doc_order: 320
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-01
+vol_title: 'Volume 2: 1939'
 ---
-
-# 320 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 1 November 1939
 
@@ -16,10 +22,10 @@ Very sorry to hear of the difficulties you are facing [1] but at this distance i
 
 CASEY
 
-_
+ _
 
 1 See Document 319.
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

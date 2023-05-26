@@ -1,12 +1,17 @@
 ---
-title: "501 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1732
+doc_date: '1941-06-12'
+doc_num: 501
+doc_order: 501
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.7921]'
+title: Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 501 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
 
 Cablegram Gordon 2 [1] 12 June 1941,
 
@@ -28,7 +33,7 @@ I am indeed sorry to impose even this additional task upon you but you will I kn
 
 Kindest regards.
 
-_
+ _
 
 1 The prefix 'Gordon' was used for a special series of personal cablegrams from Menzies to Churchill. The first cablegram in the series was probably sent on 8 June. See Document 493, note 2.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA: A3196, 1941, 0.7921]_
+ _[AA: A3196, 1941, 0.7921]_

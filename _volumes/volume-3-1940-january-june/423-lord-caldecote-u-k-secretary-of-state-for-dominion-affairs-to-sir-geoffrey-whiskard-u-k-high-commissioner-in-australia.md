@@ -1,12 +1,18 @@
 ---
-title: "423 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1189
+doc_date: '1940-06-23'
+doc_num: 423
+doc_order: 423
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4582]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-23
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 423 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 191 LONDON, 23 June 1940, 7.57 a.m.
 
@@ -22,7 +28,7 @@ The establishment of a German base at Trondheim, together with the French collap
 
 One of the nine battalions required for this division has already been provided by Canada and two further battalions are being despatched from Canada on the 25th June. The remainder of this division has been provided from the United Kingdom. Negotiations are now in progress with the Canadian Government for the whole of the Canadian second division to be stationed in Iceland. Should this be agreed, the majority of the military units which have been despatched to Iceland from this country to make the force up to the strength of a division would probably be withdrawn and employed in the defence of the United Kingdom. Certain reconnaissance aircraft, a small air striking force and additional local naval defence vessels are also being despatched to Iceland from the United Kingdom. [2]
 
-_
+ _
 
 1 R. G. Menzies.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4582]_
+ _[FA: A3195, 1.4582]_

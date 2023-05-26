@@ -1,12 +1,18 @@
 ---
-title: "293 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1524
+doc_date: '1941-02-13'
+doc_num: 293
+doc_order: 293
+naa_refs:
+- naa_barcode: 177534
+  naa_control_symbol: JAP 115
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 115A]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-13
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 293 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 91 13 February 1941,
 
@@ -24,7 +30,7 @@ He was particularly incensed at delaying tactics in regard to Japanese shipping,
 
 Incidentally, Japanese Consul General, now acting as Charge d'Affaires, is actively going ahead with establishment of Legation, part of advanced staff of which is on the way from Japan. He states Minister [2] would leave Tokyo on March 1st.
 
-_
+ _
 
 1 Masatoshi Akiyama.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 115A]_
+ _[AA:A981, JAPAN 115A]_

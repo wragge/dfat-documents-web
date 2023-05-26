@@ -1,12 +1,17 @@
 ---
-title: "362 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1128
+doc_date: '1940-06-11'
+doc_num: 362
+doc_order: 362
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4146]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-11
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 362 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 405 LONDON, 11 June 1940
 
@@ -26,7 +31,7 @@ SPAIN. Position most obscure. The food situation is without doubt serious and I 
 
 BRUCE
 
-_
+ _
 
 1 Winston S. Churchill.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4146]_
+ _[FA: A3195, 1.4146]_

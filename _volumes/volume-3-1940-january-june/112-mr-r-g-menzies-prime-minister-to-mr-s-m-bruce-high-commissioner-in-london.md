@@ -1,12 +1,17 @@
 ---
-title: "112 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 878
+doc_date: '1940-03-23'
+doc_num: 112
+doc_order: 112
+naa_refs:
+- naa_barcode: 4212442
+  naa_control_symbol: 1940/8
+  naa_series: A3196
+  reference: '[FA: A3196, 0.1785]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-23
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 112 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 23 March 1940,
 
@@ -18,7 +23,7 @@ Impression from this end is that diplomatically we have been too much on the def
 
 MENZIES
 
-_
+ _
 
 1 Documents 105 and 106.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [FA: A3196, 0.1785]_
+ _[FA: A3196, 0.1785]_

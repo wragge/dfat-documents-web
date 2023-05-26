@@ -1,12 +1,19 @@
 ---
-title: "130 Captain H. A. Showers, Commanding Officer of H.M.A.S. Adelaide, to Commonwealth Naval Board"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1361
+doc_date: '1940-09-21'
+doc_num: 130
+doc_order: 130
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:MP1049, SERIES 5, BOX 72, NEW CALEDONIA-ESTABLISHMENT OF FREE FRENCH
+    CONTROL 1940: SIGNALS ACNB-ADELAIDE]'
+title: Captain H. A. Showers, Commanding Officer of H.M.A.S. Adelaide, to Commonwealth
+  Naval Board
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-21
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 130 Captain H. A. Showers, Commanding Officer of H.M.A.S. Adelaide, to Commonwealth Naval Board
 
 Naval signal 0357Z/21 NOUMEA, 21 September 1940, 3.57 a.m.
 
@@ -18,7 +25,7 @@ Have received formal protest from 'DUMONT D'URVILLE' claiming violation of Frenc
 
 Situation ashore still unstable mainly due to presence of 'DUMONT D'URVILLE' and lack of any military officer above rank of Lieutenant to give active assistance to SAUTOT.
 
-_ FRENCH CONTROL 1940: SIGNALS ACNB-ADELAIDE]
+ _
 
 1 Free French Governor of New Caledonia.
 
@@ -26,4 +33,4 @@ _ FRENCH CONTROL 1940: SIGNALS ACNB-ADELAIDE]
 
 _
 
-_ [AA:MP1049, SERIES 5, BOX 72, NEW CALEDONIA-ESTABLISHMENT OF FREE_
+ _[AA:MP1049, SERIES 5, BOX 72, NEW CALEDONIA-ESTABLISHMENT OF FREE FRENCH CONTROL 1940: SIGNALS ACNB-ADELAIDE]_

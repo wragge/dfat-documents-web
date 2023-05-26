@@ -1,27 +1,31 @@
 ---
-title: "35 Monthly Intelligence Summary No. 3/66"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9543
+doc_date: '1966-04-01'
+doc_num: 35
+doc_order: 35
+naa_refs:
+- naa_barcode: 3111097
+  naa_control_symbol: 1966/842
+  naa_series: A452
+  reference: '[NAA: A452, 1966/842]'
+title: Monthly Intelligence Summary No. 3/66
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-03-09
-barcode: 3111097
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
 
-# 35 Monthly Intelligence Summary No. 3/66
+Port Moresby, 1 April 1966
 
-Port Moresby, I April 1966
+Secret[1](#f1)
 
-Secret1
-
-[_matter omitted_]
+[ _matter omitted_ ]
 
 A number of reports have been received during the month of unrest amongst students about the pay and conditions laid down under the Public Service Ordinance 1964. We consider that the students’ unrest and the allied unrest amongst the younger indigenous members of the Public Service is serious and could lead to incidents of public disorder if in their view the results of the arbitration hearing are unsatisfactory.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_Political Trends—T.P.N.G._
+ _Political Trends—T.P.N.G._
 
-Further to Item 6 of M.I.S. 2/661 there are indications (F3)2 that Mr. J.D. GUISE, the most prominent indigenous political figure in the Territory and leader of the elected Members of the House of Assembly, is losing support within his own electorate.
+Further to Item 6 of M.I.S. 2/66[1](#f1) there are indications (F3)[2](#f2) that Mr. J.D. GUISE, the most prominent indigenous political figure in the Territory and leader of the elected Members of the House of Assembly, is losing support within his own electorate.
 
 2\. It has also been reliably reported (C2) that during the recent sittings of the House of Assembly in Port Moresby, (1st to 9th March, 1966) GUISE was loath to leave the confines of his place of residence at HOHOLA (a low–cost housing development near Port Moresby) during the hours of darkness, due to his firm belief that he would be assaulted by ‘political enemies’.
 
@@ -31,11 +35,11 @@ Further to Item 6 of M.I.S. 2/661 there are indications (F3)2 that Mr. J.D. GUIS
 
 (i) Although previous reports indicated that GUISE was losing the confidence of other Elected M.H.A’s, this is the first significant indication that he may also be losing popularity in his own electorate. The reasons for his fears of assault by ‘political enemies’ are not known and could possibly be the figment of his own imagination.
 
-(ii) The late William BLOOMFIELD was known to maintain excellent relationships with indigenous M.H.A’s and other native people with whom he came in contact. However, whether or not the criticisms levelled at some of the European Members are valid or just reflect the inability of indigenous Members to accept the banter and/or informality of Parliamentary debate and proceedings, they could lead to the House of Assembly becoming divided on racial rather than political grounds.3
+(ii) The late William BLOOMFIELD was known to maintain excellent relationships with indigenous M.H.A’s and other native people with whom he came in contact. However, whether or not the criticisms levelled at some of the European Members are valid or just reflect the inability of indigenous Members to accept the banter and/or informality of Parliamentary debate and proceedings, they could lead to the House of Assembly becoming divided on racial rather than political grounds.[3](#f3)
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-[ [NAA: A452, 1966/842](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3111097) ]
+[NAA: A452, 1966/842]
 
 1 The MIS for February reported ‘indications that most elected members of the House of Assembly are dissatisfied with the leadership of Mr. J.D. Guise and may take action to either censure him or elect a new leader’—though there had ‘been no signs to date that any other individual member is prepared to challenge GUISE for the position’ (no. 2/66,4 March 1966, NAA: A452, 1966/842).
 

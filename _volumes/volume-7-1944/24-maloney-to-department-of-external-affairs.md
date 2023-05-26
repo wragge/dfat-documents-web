@@ -1,12 +1,17 @@
 ---
-title: "24 Maloney to Department of External Affairs"
-volume: "Volume 7: 1944"
-doc_id: 2671
+doc_date: '1944-01-19'
+doc_num: 24
+doc_order: 24
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/715/5/2, ii]'
+title: Maloney to Department of External Affairs
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 24 Maloney to Department of External Affairs
 
 Cablegram S10 [1] MOSCOW, 19 January 1944, 8.40 p.m.
 
@@ -24,7 +29,7 @@ They were prepared to deal with a Government elected by the Democratic forces of
 
 MALONEY
 
-_
+ _
 
 1 Repeated to London as no. 10.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A989, 44/715/5/2, ii]_
+ _[AA:A989, 44/715/5/2, ii]_

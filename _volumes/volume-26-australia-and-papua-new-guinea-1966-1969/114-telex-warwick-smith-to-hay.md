@@ -1,24 +1,29 @@
 ---
-title: "114 Telex, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9622
+doc_date: '1967-05-31'
+doc_num: 114
+doc_order: 114
+naa_refs:
+- naa_barcode: 4027870
+  naa_control_symbol: 1967/5895
+  naa_series: A452
+  reference: '[NAA: A452, 1967/5895]'
+title: Telex, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-05-31
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 114 Telex, Warwick Smith To Hay
 
 Canberra, 31 May 1967
 
 288/1351. Confidential Personal 
 
-I discussed with the Minister the report of the Select Committee on the constitution1 and in particular the attitude that should be taken in the House of Assembly when the report is presented.2 The Minister is concerned that no indication should be given that the government will necessarily accept the usage of the term ‘Minister’ in relation to people who are not exercising ministerial responsibility in the accepted constitutional sense. He is also concerned at the implications of paragraph 20 that the powers and duties of ministers should be reviewed by the House of Assembly after a minimum period of two years.3 The reference in the paragraph to assuming ‘sole ministerial responsibility’ appears to mean a development to constitutional arrangements in which ministers would be responsible to the legislature for administration of departments of the Territory’s government in a way which would amount to full self government. Nor does the Minister consider that the paragraph accords with the principle that the pace of constitutional development would be regulated by the wishes of the people of the Territory.
+I discussed with the Minister the report of the Select Committee on the constitution[1](#f1) and in particular the attitude that should be taken in the House of Assembly when the report is presented.[2](#f2) The Minister is concerned that no indication should be given that the government will necessarily accept the usage of the term ‘Minister’ in relation to people who are not exercising ministerial responsibility in the accepted constitutional sense. He is also concerned at the implications of paragraph 20 that the powers and duties of ministers should be reviewed by the House of Assembly after a minimum period of two years.[3](#f3) The reference in the paragraph to assuming ‘sole ministerial responsibility’ appears to mean a development to constitutional arrangements in which ministers would be responsible to the legislature for administration of departments of the Territory’s government in a way which would amount to full self government. Nor does the Minister consider that the paragraph accords with the principle that the pace of constitutional development would be regulated by the wishes of the people of the Territory.
 
-The Minister is concerned that the implications of the term ‘Minister’ read together with paragraph 20 should be fully appreciated by all indigenous members of the House of Assembly. His impression is that these are not in accordance with the views of the bulk of the members of the House (including specifically the six members at present attending the English language course)4 and he wants you to explore whether a member such as Tei Abal would propose in the House of Assembly the substitution of the term ‘Ministerial Member’ for the term ‘Minister’ and possibly some amendment to paragraph 20. He recognises that this would be useless unless steps were taken to see that other elected members who are unlikely to support early self-government are made aware of the implications namely that what is proposed is likely to mean the Territory backing into self-government within next few years.
+The Minister is concerned that the implications of the term ‘Minister’ read together with paragraph 20 should be fully appreciated by all indigenous members of the House of Assembly. His impression is that these are not in accordance with the views of the bulk of the members of the House (including specifically the six members at present attending the English language course)[4](#f4) and he wants you to explore whether a member such as Tei Abal would propose in the House of Assembly the substitution of the term ‘Ministerial Member’ for the term ‘Minister’ and possibly some amendment to paragraph 20. He recognises that this would be useless unless steps were taken to see that other elected members who are unlikely to support early self-government are made aware of the implications namely that what is proposed is likely to mean the Territory backing into self-government within next few years.
 
 The Minister would be glad to have your reactions. Will then advise further.
 
-[NAA: A452, 1967/5895)
+[NAA: A452, 1967/5895]
 
 1 Final is Document 118.
 

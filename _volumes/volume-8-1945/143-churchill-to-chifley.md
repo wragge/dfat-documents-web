@@ -1,12 +1,18 @@
 ---
-title: "143 Churchill to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3174
+doc_date: '1945-07-26'
+doc_num: 143
+doc_order: 143
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, MOST SECRET, INWARDS FROM SECRETARY OF STATE,
+    D1157-3/7/45 to D2033-2/11/45, I.24173/172]'
+title: Churchill to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-07-26
+vol_title: 'Volume 8: 1945'
 ---
-
-# 143 Churchill to Chifley
 
 Cablegram 260 LONDON, 26 July 1945, 1.45 p.m.
 
@@ -28,7 +34,7 @@ TOP SECRET AND PERSONAL MOST IMMEDIATE
 
 (B) That you should appoint a Representative to take part in London in discussions with the Chiefs of Staff and Admiral Mountbatten on the question of the re-organisation of the South- West Pacific Area. These discussions should start on about 1st August.
 
-_ STATE, D1157-3/7/45 to D2033-2/11/45, I.24173/172]
+ _
 
 1 Document 138.
 
@@ -38,4 +44,4 @@ _ STATE, D1157-3/7/45 to D2033-2/11/45, I.24173/172]
 
 _
 
-_ [AA : A3195, 1945, FOLDER, MOST SECRET, INWARDS FROM SECRETARY OF_
+ _[AA : A3195, 1945, FOLDER, MOST SECRET, INWARDS FROM SECRETARY OF STATE, D1157-3/7/45 to D2033-2/11/45, I.24173/172]_

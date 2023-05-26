@@ -1,12 +1,18 @@
 ---
-title: "54 Burton to Evatt"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6223
+doc_date: '1949-01-09'
+doc_num: 54
+doc_order: 54
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A9420
+  reference: '[AA : A9420, 7]'
+title: Burton to Evatt
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-09
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 54 Burton to Evatt
 
 Cablegram E8 CANBERRA, 9 January 1949, 10.15 p.m.
 
@@ -32,10 +38,10 @@ Above answers point you made. India advised if conference held I must be back by
 
 In spite of above, regards and looking forward to seeing you and family.
 
-_
+ _
 
 1 Documents 9, 10 and 18.
 
 _
 
-_ [AA : A9420, 7]_
+ _[AA : A9420, 7]_

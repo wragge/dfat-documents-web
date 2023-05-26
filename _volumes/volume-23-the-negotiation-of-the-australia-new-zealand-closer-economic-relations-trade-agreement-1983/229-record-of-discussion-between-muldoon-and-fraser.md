@@ -1,18 +1,25 @@
 ---
-title: "229 Record of Discussion between Muldoon and Fraser"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9098
+doc_date: '1981-09-29'
+doc_num: 229
+doc_order: 229
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Record of Discussion between Muldoon and Fraser
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-09-29
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 229 Record of Discussion between Muldoon and Fraser
-
-## 229 Record1 of Discussion between Muldoon and Fraser
+## 229 Record[1](#f1) of Discussion between Muldoon and Fraser
 
 Brisbane, 29 September 1981
 
-**Call on Prime Minister of Australia-the Rt Hon Malcolm Fraser  
+ **Call on Prime Minister of Australia-the Rt Hon Malcolm Fraser  
 Hilton Hotel, Tuesday, 29 September 1981**
 
 At Mr Fraser's invitation Mr Muldoon called on him at his hotel. Mr Fraser asked Mr Muldoon how his post-arrival press conference had gone. Was the auditorium satisfactory? Mr Muldoon said it was technically good on the whole. Mr Fraser then invited Mr Muldoon to lead off on either bilateral issues or CHOGM- related matters.
@@ -41,10 +48,8 @@ Mr Muldoon then said there was a further issue-that of internal consultations. H
 
 Mr Fraser wondered when he and Mr Muldoon should schedule their next meeting-early in the New Year? Mr Muldoon suggested late February or early March. Mr Fraser agreed that it should be said that the Prime Ministers would talk in March with the objective of a CER start up in January 1983.
 
-_[matter omitted]_
+ _[matter omitted]_
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 40 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 40 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Authorship uncertain; probably drafted by Murdoch.
-
-

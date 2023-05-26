@@ -1,20 +1,23 @@
 ---
-title: "354 TELEGRAM, PRITCHETT TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10220
+doc_date: '1972-11-26'
+doc_num: 354
+doc_order: 354
+naa_refs:
+- naa_barcode: 552872
+  naa_control_symbol: 67/1/3 PART 6
+  naa_series: A1838
+  reference: '[NAA: A1838,67/1/3 PART 6]'
+title: TELEGRAM, PRITCHETT TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 354 TELEGRAM, PRITCHETT TO WALLER
-
-NAA: A1838,67/1/3 PART 6
 
 Australian High Commission, London, 26 November 1972
 
 19080\. Personal For Waller Only
 
-**Immigration into Britain**
+ **Immigration into Britain**
 
 There is one dimension of the situation that I feel I should report for restricted distribution, although your background and intuition have probably already grasped it.
 
@@ -38,7 +41,7 @@ Nor do l intend in any way to be seen as wanting to suggest anything at all dero
 
 4\. My reason for drawing attention to this loose grouping lies in the further observations that, by and large, its sentiments and attitudes in the Anglo-Australian context are traditional, sometimes still even ‘colonial’, and its politics are generally ‘Tory’, certainly as regards relations with Britain.
 
-It is therefore a factor of some significance and influence in the present situation, responsive to the Aitken and Tory ‘crusade’ 1 and in some measure active in support of it, (in one or two cases that we know of, quite violently so).
+It is therefore a factor of some significance and influence in the present situation, responsive to the Aitken and Tory ‘crusade’ [1](#f1) and in some measure active in support of it, (in one or two cases that we know of, quite violently so).
 
 This has been of importance here, and could be a factor in the situation at home, eg in certain quarters in the State capitals.
 
@@ -91,3 +94,5 @@ I would expect reactions such as these to be fairly widespread among important o
 8\. I know you will understand the situation and I trust I have your support in the approach I am taking.
 
 1  Document 339. 
+
+[NAA: A1838,67/1/3 PART 6]

@@ -1,12 +1,18 @@
 ---
-title: "520 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6689
+doc_date: '1949-10-25'
+doc_num: 520
+doc_order: 520
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IN. MASTERSHEETS (TS) 1948-49]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-10-25
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 520 Critchley to Department of External Affairs
 
 Cablegram C29 THE HAGUE, 25 October 1949, 5.30 p.m.
 
@@ -24,7 +30,7 @@ they would be willing to undertake immediately a long-term agreement permitting 
 
 4\. Last week the Indonesian delegations were confident of early agreement in the Military Committee. It is now clear that the three points mentioned in paragraph 3 of my C.23 [3] and particularly the question of the Sourabaya Naval Base will be troublesome. Basically the Netherlands want a special concessional status for the Naval Base which is opposed by the Indonesians as inconsistent with a complete transfer of Sovereignty. The delegations are still considering their positions and the possibilities of compromise. The problem is scheduled for discussion in the Steering Committee tomorrow, 26th October, and I shall report the results in detail.
 
-_
+ _
 
 1 Document 518.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [FA : IN. MASTERSHEETS (TS) 1948-49]_
+ _[FA : IN. MASTERSHEETS (TS) 1948-49]_

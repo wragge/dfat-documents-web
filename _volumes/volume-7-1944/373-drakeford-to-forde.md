@@ -1,12 +1,17 @@
 ---
-title: "373 Drakeford to Forde"
-volume: "Volume 7: 1944"
-doc_id: 3020
+doc_date: '1944-12-13'
+doc_num: 373
+doc_order: 373
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/12]'
+title: Drakeford to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-13
+vol_title: 'Volume 7: 1944'
 ---
-
-# 373 Drakeford to Forde
 
 Cablegram 1221 WASHINGTON, 13 December 1944, 10.24 p.m.
 
@@ -78,7 +83,7 @@ From an operating point of view, particularly when regard is paid to the necessa
 
 The only other matter of importance discussed at Montreal was a standard clause for bilateral agreements. Since Commonwealth Delegations failed to have inserted in the Chicago Convention, certain articles which would have safeguarded the air transport interests of countries which because of the war may not be able to commence International air operation for several years it is considered necessary that no [5] lateral agreements should contain provisions which will secure the same objective. Unanimity was not reached at Montreal regarding these clauses and the subject is to be further discussed in London. Talks in London are scheduled for 22/12 and I shall report fully on my return to Australia. [6]
 
-_
+ _
 
 1 In cablegram 2068, dispatched 18 December (on file AA:A989, 44/735/832/12), Drakeford was instructed that no indication of agreement should be given until the proposal had been considered by Cabinet. Drakeford's report was discussed by Full Cabinet on 26 February 1945 and Australian representation on the Council approved (Full Cabinet agendum 805, in AA:A2700, vol. 14, ii).
 
@@ -96,4 +101,4 @@ Govts for a trans-Pacific service, and adoption of standard clauses for bilatera
 
 _
 
-_ [AA:A989, 44/735/832/12]_
+ _[AA:A989, 44/735/832/12]_

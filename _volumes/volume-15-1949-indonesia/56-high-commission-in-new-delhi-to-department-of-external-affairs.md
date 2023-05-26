@@ -1,12 +1,18 @@
 ---
-title: "56 High Commission in New Delhi to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6225
+doc_date: '1949-01-09'
+doc_num: 56
+doc_order: 56
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: High Commission in New Delhi to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-09
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 56 High Commission in New Delhi to Department of External Affairs
 
 Cablegram 17 NEW DELHI, [9 January 1949], 2.05 p.m.
 
@@ -24,10 +30,10 @@ The Philippines are now coming but up to yesterday there were no further accepta
 
 If we can pursue this matter safely I shall do so this week but much depends on 1. The Security Council, 2. Further responses to Indian invitations.
 
-_
+ _
 
 1 Document 37.
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

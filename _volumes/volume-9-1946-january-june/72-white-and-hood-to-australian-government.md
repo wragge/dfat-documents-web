@@ -1,12 +1,18 @@
 ---
-title: "72 White and Hood to Australian Government"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3584
+doc_date: '1946-02-07'
+doc_num: 72
+doc_order: 72
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. REPORT NO.
+    2-10,1946]'
+title: White and Hood to Australian Government
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-07
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 72 White and Hood to Australian Government
 
 Extract BERLIN, 7 February 1946
 
@@ -34,7 +40,7 @@ I. INTRODUCTION
 
 [matter omitted]
 
-_ NO. 2-10,1946]
+ _
 
 1 Section F of Report No. 3 was in fact written by Professor K. S.
 
@@ -44,4 +50,4 @@ Isles, who was attached to the Mission as Economic Adviser from 24 January until
 
 _
 
-_ [FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. REPORT_
+ _[FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. REPORT NO. 2-10,1946]_

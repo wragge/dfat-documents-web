@@ -1,12 +1,18 @@
 ---
-title: "17 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister, and to Sir Frederick Stewart, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1771
+doc_date: '1941-07-25'
+doc_num: 17
+doc_order: 18
+naa_refs:
+- naa_barcode: 176218
+  naa_control_symbol: FAR 20 PART 2
+  naa_series: A981
+  reference: '[AA : A981, FAR EAST 20A, ii]'
+title: Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister,
+  and to Sir Frederick Stewart, Minister for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-25
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 17 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister, and to Sir Frederick Stewart, Minister for External Affairs
 
 Cablegram 559 WASHINGTON, 25 July 1941, 2.17 a.m.
 
@@ -20,7 +26,7 @@ I pointed out to him that there was a possibility that stringent economic action
 
 CASEY
 
-_
+ _
 
 1 Casey had reported the first part of his interview with the U.S.
 
@@ -32,4 +38,4 @@ Acting Secretary of State in cablegram 558 of 24 July (on file AA : A981, Far Ea
 
 _
 
-_ [AA : A981, FAR EAST 20A, ii]_
+ _[AA : A981, FAR EAST 20A, ii]_

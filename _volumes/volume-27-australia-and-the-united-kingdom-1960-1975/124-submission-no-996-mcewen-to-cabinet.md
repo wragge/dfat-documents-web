@@ -1,25 +1,28 @@
 ---
-title: "124 SUBMISSION NO. 996, MCEWEN TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9989
+doc_date: '1961-02-09'
+doc_num: 124
+doc_order: 124
+naa_refs:
+- naa_barcode: 946427
+  naa_control_symbol: C3368 PART 1
+  naa_series: A4940
+  reference: '[NAA: A4940, C3368 PART 1]'
+title: SUBMISSION NO. 996, MCEWEN TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-02-09
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 124 SUBMISSION NO. 996, MCEWEN TO CABINET
-
-NAA: A4940, C3368 PART 1
 
 Canberra, 9 February 1961
 
 Secret
 
-****
+ ****
 
 The Possible Association of the United Kingdom with the  
 European Economic Community
 
-The last report to Cabinet on developments relating to the possible association of the United Kingdom with the European Economic Community (EEC) was submitted in September, 1959.1
+The last report to Cabinet on developments relating to the possible association of the United Kingdom with the European Economic Community (EEC) was submitted in September, 1959.[1](#f1)
 
 2\. This is a subject which can have most important implications for our trade with the United Kingdom. Excluding wool and metals it might be said that if the United Kingdom achieved some form of association with the EEC some £150 million or 60% of our total exports to the United Kingdom could be affected, according to the nature of the arrangement.
 
@@ -31,20 +34,20 @@ The last report to Cabinet on developments relating to the possible association 
 
 6\. In the first half of 1959 the United Kingdom Government seemed more or less resigned to allowing the situation to develop quietly for some time but their attitude changed abruptly in August. In the Macmillan/Adenauer talks at that time they were encouraged by the German attitude to believe that a political climate could be established which would favour negotiations for some kind of association. They thereupon engaged in a round of Ministerial talks in the various capitals. This renewed activity at the political level is still going on, the latest move being the Macmillan/de Gaulle talks at the end of January.
 
-7\. The attached paper describes the United Kingdom’s efforts to find a basis on which to negotiate with the EEC. It indicates the problems posed for Australia. From the United Kingdom’s exposition of the issues at the Commonwealth Finance Ministers’ Meeting last September there seems no doubt that she regards changes in her preferential arrangements for Commonwealth goods as almost inevitable if she is to achieve her policy aims, and does not rule out the possible need for some curtailment of Commonwealth free entry to the United Kingdom market.2 We do not know how far the United Kingdom would go in these directions; or how far she would be able to keep agriculture out of any arrangements that might be arrived at.
+7\. The attached paper describes the United Kingdom’s efforts to find a basis on which to negotiate with the EEC. It indicates the problems posed for Australia. From the United Kingdom’s exposition of the issues at the Commonwealth Finance Ministers’ Meeting last September there seems no doubt that she regards changes in her preferential arrangements for Commonwealth goods as almost inevitable if she is to achieve her policy aims, and does not rule out the possible need for some curtailment of Commonwealth free entry to the United Kingdom market.[2](#f2) We do not know how far the United Kingdom would go in these directions; or how far she would be able to keep agriculture out of any arrangements that might be arrived at.
 
 8\. The paper refers briefly to some possible courses of policy for Australia but no attempt is made at this stage to reach conclusions about what our policy should be. The position remains complex and fluid. It could, however, develop quite quickly into the sort of situation in which major Australian trade interests would be very much involved and we might need to make prompt decisions on what to do to preserve and if possible advance those trade interests.
 
 9\. The attached paper is circulated for information.
 
-**Attachment**
+ **Attachment**
 
 Secret
 
 THE POSSIBLE ASSOCIATION OF THE UNITED KINGDOM  
 WITH THE EUROPEAN ECONOMIC COMMUNITY
 
-_Background_
+ _Background_
 
 1\. The United Kingdom refused to take part in the negotiations which led to the formation of the European Economic Community (EEC). However, she soon saw that ‘the Six’ were in earnest in their intention to establish the EEC and that its establishment would introduce trade discrimination against British products in the markets of ‘the Six’.
 
@@ -64,11 +67,11 @@ _Background_
 
 9\. This was United Kingdom policy until Dr Adenauer in August last year showed some concern at the effects on the political cohesion of Europe of the economic split between ‘the Six’ and ‘the Seven’. He agreed with Mr Macmillan that the Germans and the British should examine the problems preventing the United Kingdom from joining the EEC and see if a solution was not possible.
 
-_Present United Kingdom Policy:_
+ _Present United Kingdom Policy:_
 
 10\. The German attitude and some pressure at home encouraged the United Kingdom to try again to come to an arrangement with the EEC. They have since August been actively seeking through discussions at the political level with member Governments of the Six to find a basis on which negotiations could proceed.
 
-11\. At the meeting of the Commonwealth Economic Consultative Council last September the issues were set out at length by the United Kingdom.3 They saw an intensified need for European unity and considered that political stability and economic strength in Europe would be threatened unless some means could be found of bringing the EEC and the EFTA together. The United Kingdom was anxious that the strong urge in Western Europe towards greater unity should develop on lines which would permit her to take her part in it. There had, the United Kingdom believed, been general agreement throughout all the discussions which had taken place with the Commonwealth, that for the United Kingdom to become isolated economically from the Continent would be against Commonwealth interests. If the United Kingdom could achieve a satisfactory form of association she would hope to be able to see that proper attention was paid to the Commonwealth interests.
+11\. At the meeting of the Commonwealth Economic Consultative Council last September the issues were set out at length by the United Kingdom.[3](#f3) They saw an intensified need for European unity and considered that political stability and economic strength in Europe would be threatened unless some means could be found of bringing the EEC and the EFTA together. The United Kingdom was anxious that the strong urge in Western Europe towards greater unity should develop on lines which would permit her to take her part in it. There had, the United Kingdom believed, been general agreement throughout all the discussions which had taken place with the Commonwealth, that for the United Kingdom to become isolated economically from the Continent would be against Commonwealth interests. If the United Kingdom could achieve a satisfactory form of association she would hope to be able to see that proper attention was paid to the Commonwealth interests.
 
 12\. United Kingdom Ministers asserted that the case for finding an accommodation with the EEC was strong, and that every effort had to be made to achieve it.
 
@@ -78,13 +81,13 @@ _Present United Kingdom Policy:_
 
 15\. The United Kingdom recognised that, to the extent that Commonwealth free entry could not be retained in an eventual settlement on goods which were dutiable under a common tariff, that would result in the creation of reverse preferences in favour of Europe and against Commonwealth goods. The United Kingdom also recognised that over part of the field the free entry which she gave to the Commonwealth, and the preferences for Commonwealth goods which she guaranteed, were part of a bargain under which she also enjoyed benefits in Commonwealth markets.
 
-16\. None of the Commonwealth countries were prepared to give detailed answers to hypothetical questions or to give the United Kingdom a free hand in any European negotiations which could affect Commonwealth interests. In particular, Canada and New Zealand showed strong opposition to the United Kingdom’s association with the EEC in any way that might include agriculture.4 Canada (and India) also showed concern at the prospect of any changes which could affect their trade in manufactured goods. For Australia, the Treasurer was non-committal on the United Kingdom’s particular questions, but undertook that we would examine quickly and sympathetically the practical alternatives which the United Kingdom might face when these could be defined more precisely.
+16\. None of the Commonwealth countries were prepared to give detailed answers to hypothetical questions or to give the United Kingdom a free hand in any European negotiations which could affect Commonwealth interests. In particular, Canada and New Zealand showed strong opposition to the United Kingdom’s association with the EEC in any way that might include agriculture.[4](#f4) Canada (and India) also showed concern at the prospect of any changes which could affect their trade in manufactured goods. For Australia, the Treasurer was non-committal on the United Kingdom’s particular questions, but undertook that we would examine quickly and sympathetically the practical alternatives which the United Kingdom might face when these could be defined more precisely.
 
-_Implications for Australia:_
+ _Implications for Australia:_
 
 17\. Thus we are confronted—as we haven’t been since the earlier negotiations broke down at the end of 1958—by the prospect that our trade and other interests could sooner or later become very much involved as the United Kingdom continues her explorations with the Six. The United Kingdom is not likely to embark upon negotiations in earnest until she sees a reasonable prospect of success; but once embarked upon them she can be expected, in view of the 1958 breakdown, to go to considerable lengths to avoid a second failure.
 
-18\. We have made it clear to the United Kingdom that the support we expressed in 1956 for the industrial European Free Trade Area then proposed would not necessarily apply to any new proposal for an association between the United Kingdom and the EEC.5
+18\. We have made it clear to the United Kingdom that the support we expressed in 1956 for the industrial European Free Trade Area then proposed would not necessarily apply to any new proposal for an association between the United Kingdom and the EEC.[5](#f5)
 
 19\. There would appear to be three possible courses for Australia:
 
@@ -102,7 +105,7 @@ _Implications for Australia:_
 
 23\. It would appear from the exploratory talks which have taken place between the British and the Germans that the latter may be prepared to contemplate an arrangement that did not include agriculture. However, other European countries—notably the Netherlands, France and Italy—could be expected to show greater interest than the Germans in securing a measure of preferential access to the United Kingdom market for their agricultural exports. In a wider European arrangement the Danes, and possibly others, could be expected to take a similar view.
 
-24\. It is not possible to be sure at present which policy it would be wise for Australia to adopt on trade and other grounds. There are a great many unknowns in the present European situation. Important elements in any decision would be the type of association which seemed in prospect between the United Kingdom and the EEC; the extent to which agriculture is to be included; our assessment of the likely gains and losses to Australia; and the attitudes of other Commonwealth countries, especially Canada and New Zealand. At the CECC6 meeting, and subsequently, Canadian Ministers have expressed a strong negative attitude towards the United Kingdom’s possible association with the EEC if this should involve reductions in Canadian preferences in the United Kingdom. The former New Zealand Finance Minister also expressed strong concern over the effect which an association of the United Kingdom with the EEC could have on preferences. Since then, however, the New Zealand Government has changed and the views of the new New Zealand Government are not yet known.7
+24\. It is not possible to be sure at present which policy it would be wise for Australia to adopt on trade and other grounds. There are a great many unknowns in the present European situation. Important elements in any decision would be the type of association which seemed in prospect between the United Kingdom and the EEC; the extent to which agriculture is to be included; our assessment of the likely gains and losses to Australia; and the attitudes of other Commonwealth countries, especially Canada and New Zealand. At the CECC[6](#f6) meeting, and subsequently, Canadian Ministers have expressed a strong negative attitude towards the United Kingdom’s possible association with the EEC if this should involve reductions in Canadian preferences in the United Kingdom. The former New Zealand Finance Minister also expressed strong concern over the effect which an association of the United Kingdom with the EEC could have on preferences. Since then, however, the New Zealand Government has changed and the views of the new New Zealand Government are not yet known.[7](#f7)
 
 1 NAA: A4940, Cl689, Cabinet submission No. 219 (McEwen), ‘European Trade Arrangements’, 8 June 1959.
 
@@ -117,3 +120,5 @@ _Implications for Australia:_
 6 Commonwealth Economic Consultative Council.
 
 7 Keith Holyoake’s National Party Government assumed office in New Zealand on 12 December 1960.
+
+[NAA: A4940, C3368 PART 1]

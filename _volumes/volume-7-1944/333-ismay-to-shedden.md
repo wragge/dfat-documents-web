@@ -1,12 +1,17 @@
 ---
-title: "333 Ismay to Shedden"
-volume: "Volume 7: 1944"
-doc_id: 2980
+doc_date: '1944-11-01'
+doc_num: 333
+doc_order: 333
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 462]'
+title: Ismay to Shedden
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 333 Ismay to Shedden
 
 Letter LONDON, 1 November 1944
 
@@ -38,7 +43,7 @@ I hope to go to France and Belgium next week. It is a grand way of getting away 
 
 HASTINGS ISMAY
 
-_
+ _
 
 1 On file AA:A5954, box 462.
 
@@ -52,4 +57,4 @@ See, however, Document 317.
 
 _
 
-_ [AA:A5954, BOX 462]_
+ _[AA:A5954, BOX 462]_

@@ -1,12 +1,18 @@
 ---
-title: "252 Sir Robert Craigie, U.K. Ambassador to Japan, to Mr A. Eden, U.K. Secretary of State for Foreign Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1483
+doc_date: '1941-01-21'
+doc_num: 252
+doc_order: 252
+naa_refs:
+- naa_barcode: 232315
+  naa_control_symbol: '138'
+  naa_series: A2937
+  reference: '[AA:A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]'
+title: Sir Robert Craigie, U.K. Ambassador to Japan, to Mr A. Eden, U.K. Secretary
+  of State for Foreign Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-21
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 252 Sir Robert Craigie, U.K. Ambassador to Japan, to Mr A. Eden, U.K. Secretary of State for Foreign Affairs
 
 Dispatch 27(2/381/41) (extract) TOKYO, 21 January 1941
 
@@ -22,7 +28,7 @@ Unfortunately Mr. Saionji found it impossible to accept the post.
 
 R. L. CRAIGIE
 
-_
+ _
 
 1 The U.K. Foreign Office gave a copy of this dispatch to S. M.
 
@@ -30,4 +36,4 @@ Bruce, High Commissioner in London.
 
 _
 
-_ [AA:A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]_
+ _[AA:A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]_

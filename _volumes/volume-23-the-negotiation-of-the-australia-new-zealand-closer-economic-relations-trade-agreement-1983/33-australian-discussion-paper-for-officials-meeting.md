@@ -1,12 +1,19 @@
 ---
-title: "33 Australian Discussion Paper for Officials Meeting"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8903
+doc_date: '1979-10-25'
+doc_num: 33
+doc_order: 33
+naa_refs:
+- naa_barcode: 1509857
+  naa_control_symbol: 370/1/19/18 ANNEX 5
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011119/18, ANNEX 5]'
+title: Australian Discussion Paper for Officials Meeting
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-10-25
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 33 Australian Discussion Paper for Officials Meeting
 
 Canberra, [25 October 1979]1
 
@@ -20,7 +27,7 @@ This paper is in two parts. The first deals with Australia's broad trade and eco
 
 ## A. AUSTRALIA'S TRADE AND ECONOMIC RESTRUCTURING STRATEGIES AND OBJECTIVES
 
-_1\. Situation and Outlook for the World Economy and International Trade_
+ _1\. Situation and Outlook for the World Economy and International Trade_
 
 Although many of Australia's recent economic problems can be traced to domestic factors, developments in the world economy and the international trading environment can have a significant impact on Australia and, coupled with the outlook for the 1980s, underline the need for appropriate internal as well as external policies and objectives.
 
@@ -38,7 +45,7 @@ The selective nature of certain trade measures adopted since the mid-1970s, in p
 
 In summary, there is little in the present outlook for international trade and the global economy to suggest that the difficult experiences of the 1970s are past and that there will be a return to the rates of economic growth and international trade witnessed in the two previous decades. Indeed all signs point to an international trading environment which will become increasingly competitive in the years ahead. Nevertheless, it is in Australia's interests to continue to push for liberalisation of world trade conditions on a multilateral non-discriminatory basis.
 
-_2\. Situation and Outlook for the Australian Economy and Trade_
+ _2\. Situation and Outlook for the Australian Economy and Trade_
 
 International economic developments have had an important influence on the Australian economy throughout the 1970s as they have in the past. The period from mid-1972 to late 1973 was characterised by a high level of economic activity, a large surplus in the balance of payments on current account, an excessive inflow of private capital and an accelerating rate of inflation. During this period there was a significant appreciation of the Australian dollar and an across the board tariff reduction. A wage explosion in 1974 and associated squeeze on profits contributed importantly to the sharp downturn in 1974 and rapid rises in prices, wages and interest rates resulted in unemployment and liquidity problems for producers which, together with a changing external environment and the earlier measures impacting on the balance of payments, contributed to a tum-around in the current account. In Australia, as in other industrial countries, high unemployment and the intensification of import competition in domestic markets generated a strong response in the manufacturing sector for increased protection.
 
@@ -56,7 +63,7 @@ In spite of the uncertainties, there is reason to expect that some Australian in
 
 Australia's stable environment, highly skilled labour force and the diversification and extent of its resource endowment provide a basis upon which to build a competitive manufacturing sector, but that will only be achieved by significant adjustments to the existing industrial structure and greater emphasis on the development of more efficient industries.
 
-_3\. Strategies and Objectives_
+ _3\. Strategies and Objectives_
 
 For Australia, the experience of the 1970s and the outlook for the coming decade have highlighted the need for continued or intensified application of a number of existing policies, such as rigorous adherence to an anti-inflationary strategy, the further development of exports to embrace a greater number of markets and a wider range of products, and the pursuit of more stable and predictable conditions in international commodity trade. In other areas, such as manufacturing industry and energy, changing circumstances have pointed up the need for new or modified policies.
 
@@ -96,11 +103,11 @@ Recent initiatives taken by Australia in September 1979 to improve trading oppor
 
 Australia recognises that it cannot stand apart from the world-wide concern about the energy situation, oil shortages and escalating oil prices. Although Australia is a net exporter of energy, it has to import about 30% of crude oil requirements and is dependent on imports of heavier grades to meet fuel oil requirements. Australia is also reliant on some imports of aviation gasoline and other products.
 
-Australia's energy policy is aimed at ensuring secure and stable supplies of energy, reducing dependence on imported oil and, in the longer term, developing a diversified energy base which minimises dependence on scarce liquid fuels. Government decisions on pricing and tax policy to encourage the most efficient use of fuels, exploration and development and support major energy development projects have been directed towards the foregoing objectives. Toward the same ends, the Government has also increased its support for energy R &amp; D, has promoted energy conservation and has been active in the area of international co-operation.
+Australia's energy policy is aimed at ensuring secure and stable supplies of energy, reducing dependence on imported oil and, in the longer term, developing a diversified energy base which minimises dependence on scarce liquid fuels. Government decisions on pricing and tax policy to encourage the most efficient use of fuels, exploration and development and support major energy development projects have been directed towards the foregoing objectives. Toward the same ends, the Government has also increased its support for energy R & D, has promoted energy conservation and has been active in the area of international co-operation.
 
 In the 1978 Budget the Government decided that all Australian produced crude oil would in future be priced to refineries at import parity levels and that consumers of petroleum products would pay prices based on world prices. This policy was aimed at encouraging conservation of scarce energy sources; promoting the use of existing alternatives such as natural gas, LPG and coal-based electricity; bringing new alternatives such as shale oil, coal liquefaction, ethanol and methanol closer to commercial viability; and providing incentive to increased oil exploration activity and maximised development of existing fields. There is evidence that some of these objectives are being achieved. Oil search and development has been revived and there has been a significant increase in economically recoverable reserves.
 
-In a statement by the Prime Minister on 27 June 1979, the Government announced further decisions directed towards its energy policy objectives. These included certain assurances on pricing; conservation-directed decisions on motor spirit octane ratings; suspension of blanket approvals for exports of petroleum products; increased monitoring of the domestic oil market; a review of the adequacy of existing oil storage arrangements; further increases in energy R &amp; D allocations; and various taxation incentives to encourage the use of oil substitutes.
+In a statement by the Prime Minister on 27 June 1979, the Government announced further decisions directed towards its energy policy objectives. These included certain assurances on pricing; conservation-directed decisions on motor spirit octane ratings; suspension of blanket approvals for exports of petroleum products; increased monitoring of the domestic oil market; a review of the adequacy of existing oil storage arrangements; further increases in energy R & D allocations; and various taxation incentives to encourage the use of oil substitutes.
 
 ### B. RELATIONSHIP OF THE TRANS-TASMAN INITIATIVE TO AUSTRALIA'S BROAD TRADE AND ECONOMIC STRATEGIES AND OBJECTIVES
 
@@ -142,7 +149,7 @@ In agriculture, the direct effects of closer economic .co-operation on the Austr
 
 Trade in agricultural commodities between Australia and New Zealand has been minimal and this situation is unlikely to alter significantly with closer economic integration. An important exception could be the diary industry and some vegetable producing industries where the principal question will be how to accommodate the New Zealand desire for free trade while at the same time safeguarding the Australian producer from substantial economic damage. Such issues already have the attention of government and industry.
 
-The large degree of common interest between Australia and New Zealand in the export of agricultural commodities adds a further dimension to the possibilities for closer co-operation. Among issues which might be explored in this regard are the scope for co-operation or co-ordination of commercial policies towards third countries, both bilaterally and in multilateral fora, and in trade promotion and marketing. Such aspects of co-operation need not be confined to agricultural commodities. This is already evidenced in the Nareen Statement2 of March 1978 which listed some eleven suggested areas where closer co-operation could take place between Australia and New Zealand. That list reflected the importance which both countries attach to issues affecting agricultural trade and protectionism, adjustment policies, the emergence of NICs and regional trade and economic questions.
+The large degree of common interest between Australia and New Zealand in the export of agricultural commodities adds a further dimension to the possibilities for closer co-operation. Among issues which might be explored in this regard are the scope for co-operation or co-ordination of commercial policies towards third countries, both bilaterally and in multilateral fora, and in trade promotion and marketing. Such aspects of co-operation need not be confined to agricultural commodities. This is already evidenced in the Nareen Statement[2](#f2) of March 1978 which listed some eleven suggested areas where closer co-operation could take place between Australia and New Zealand. That list reflected the importance which both countries attach to issues affecting agricultural trade and protectionism, adjustment policies, the emergence of NICs and regional trade and economic questions.
 
 The increased attention which both countries are giving to energy questions and the need to consider options for future energy resource development highlight another area where co-operation between Australia and New Zealand might be extended. There is at present an informal arrangement between the two countries to co-operate in exchanging information and views on energy policies and activities, particularly those related to research and development and conservation. Emphasis is being placed on research into the production of liquid fuels from coal and natural gas, reflecting the common objectives of Australia and New Zealand to increase energy self-sufficiency and reduce reliance on imported oil, particularly in the transport sector.
 
@@ -150,9 +157,7 @@ The tertiary sector covers important elements of the trade and economic relation
 
 It would be possible to develop and describe in greater detail the relationship of the trans-Tasman initiative to Australia's basic trade and economic strategies and objectives. However, the broad issues canvassed in this section illustrate both the importance which Australia attaches to bilateral links with New Zealand and their relevance in the light of the thought being given to options for the future direction of the Australian economy.
 
-_[NAA: A1838, 37011119/18, ANNEX 5]_
+ _[NAA: A1838, 37011119/18, ANNEX 5]_
 
   * 1 The paper was drafted and co-ordinated by the Special Trade Representative. Flood circulated it to Departments on 15 October 1979 and finalised it on 19 October. An arrangement had been made with New Zealand authorities to exchange one paper each before the Permanent Heads meeting. Accordingly, this paper was handed to New Zealand officials about 25 October.
   * 2 Document 1.
-
-

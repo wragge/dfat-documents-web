@@ -1,18 +1,21 @@
 ---
-title: "291 PRESS STATEMENT BY ANTHONY"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10156
+doc_date: '1971-07-02'
+doc_num: 291
+doc_order: 291
+naa_refs:
+- naa_barcode: 551425
+  naa_control_symbol: 727/4/2 PART 14
+  naa_series: A1838
+  reference: '[NAA: Al838, 727/4/2 PART 14]'
+title: PRESS STATEMENT BY ANTHONY
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-07-02
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 291 PRESS STATEMENT BY ANTHONY
-
-NAA: Al838, 727/4/2 PART 14 
 
 Canberra, 2 July 1971
 
-**Australia’s Changing Patterns of Trade**
+ **Australia’s Changing Patterns of Trade**
 
 On his arrival in Sydney tonight the Deputy Prime Minister and Minister for Trade and Industry, Mr Anthony, issued the following statement:
 
@@ -53,3 +56,5 @@ As a nation we can face the future with confidence. It is this rapidly growing e
 The next few years will be the proving of Australia as an international trading nation making its way in the world.
 
 We must and will stand squarely on our own feet and make our own way. I am confident that Australia can do it.
+
+[NAA: Al838, 727/4/2 PART 14]

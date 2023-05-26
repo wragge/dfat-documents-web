@@ -1,14 +1,17 @@
 ---
-title: "285 RECORD OF CONVERSATION BETWEEN RIPPON AND ANTHONY"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10150
+doc_date: '1971-06-18'
+doc_num: 285
+doc_order: 285
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 15/367]'
+title: RECORD OF CONVERSATION BETWEEN RIPPON AND ANTHONY
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-18
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 285 RECORD OF CONVERSATION BETWEEN RIPPON AND ANTHONY
-
-UKNA: PREM 15/367 
 
 London, 18 June 1971
 
@@ -22,7 +25,7 @@ _Mr Rippon_ began by giving a brief account of progress in the negotiations. The
 
 4\. _Mr Anthony_ said the Australian Government had expected the British Government to look after Australia’s interests in the negotiations. While they thought the British Government had done well, they were worried about some commodities. Mr. Anthony said that he had visited the European capitals before coming to London. He had been informed there that there was no assured transitional period for Australian items which fell under the CAP. This presented an impossible situation for him to cope with at home, especially on butter and sugar.
 
-5\. Mr Anthony said that he hoped that some assurances would be sought in the next round of negotiations. On the practical application of the present situation he was only given vague answers in Europe and no specific idea of how the safeguard would work. He had been given no form of assurance on CAP items and he needed those assurances. He saw the advantages of British membership of the Community, and had gained the impression that Europe desperately wanted Britain to be a member. But he did not want Australian agricultural industries to pay the full price for this. The message from his Prime Minister to Mr. Heath of two days ago reflected the strength of feeling in Australia. 1 But he remained hopeful that a solution to what he conceded was a difficult problem could still be found.
+5\. Mr Anthony said that he hoped that some assurances would be sought in the next round of negotiations. On the practical application of the present situation he was only given vague answers in Europe and no specific idea of how the safeguard would work. He had been given no form of assurance on CAP items and he needed those assurances. He saw the advantages of British membership of the Community, and had gained the impression that Europe desperately wanted Britain to be a member. But he did not want Australian agricultural industries to pay the full price for this. The message from his Prime Minister to Mr. Heath of two days ago reflected the strength of feeling in Australia. [1](#f1) But he remained hopeful that a solution to what he conceded was a difficult problem could still be found.
 
 6\. Mr. Anthony asked why Australia could not be given firm quantitative assurances during the transitional period. When he was in Europe, both Messrs Mansholt and Deniau had told him that there was no possibility of a transitional arrangement unless the market allowed it; he wanted to know what would happen if the market did not allow it.
 
@@ -34,9 +37,9 @@ _Mr Rippon_ began by giving a brief account of progress in the negotiations. The
 
 10\. _Mr Anthony_ said that his Government wished to avoid a situation where Australia suffered more than any other country [ ... ] He felt that Britain’s negotiating position with regard to European enlargement was stronger than was imagined and that there was scope for making arrangements to protect Australia’s interests.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-14\. _Mr Dixon_2 said that from the outset of the negotiations we had underlined that UK accession would mean that third country suppliers would have to make very large adjustments in their pattern of trade with the UK and the importance of ensuring that they had an opportunity to make these changes in an orderly way. We had secured agreement to a programme of gradual adjustments on prices and tariffs. But the same approach could not be applied in the levy sector. It would have been unnegotiable to ask for general derogations from the CAP and Community preference is an integral part of the CAP. But the fact that we had agreed to apply full Community preference from the start did not really make the situation of third countries significantly worse; for leviable products the Community preference would be of importance in affecting access only where the enlarged Community would be in surplus and in such situations any degree of Community preference would tend to exclude third country suppliers. What was important was that we had secured the agreement of the Community to a significant safeguard against the disruption of traditional trading patterns. Although the details of the procedures and criteria to be applied had yet to be negotiated the principle had already been clearly established that action could be taken at all levels in the Community institutions using all the instruments of the Common agricultural policy [...] But it was not possible to work out details on all commodities which would have greatly prolonged the negotiations and if we had attempted to negotiate for minimum quantitative assurances then we should have ended up with a very small minima indeed. We had therefore preferred the approach of seeking a comprehensive general undertaking. _Mr. Anthony_ said that the Community’s safeguard assurance applied only to 4 CAP items . . _Mr Rippon_ quoted from our understanding with the Community to show that it covered all levy items and was not limited to 4.3 Mr Dixon said that Mr Anthony might have been thinking of an earlier statement by the Community in which they mentioned four cases of difficulty, including butter and sugar, which could be foreseen. _Mr Anthony_ said that was the position as he understood it from his talks with the Community in the last week or so. He suggested that a joint statement by the Six and the British Government might be appropriate. _Mr Rippon_ assured Mr Anthony that there was no doubt about this agreement and all these provisional agreements would in the long run be turned into a formal legal document which would constitute the final terms agreed. He asked Mr Anthony to have confidence in the validity of this assurance.
+14\. _Mr Dixon_[2](#f2) said that from the outset of the negotiations we had underlined that UK accession would mean that third country suppliers would have to make very large adjustments in their pattern of trade with the UK and the importance of ensuring that they had an opportunity to make these changes in an orderly way. We had secured agreement to a programme of gradual adjustments on prices and tariffs. But the same approach could not be applied in the levy sector. It would have been unnegotiable to ask for general derogations from the CAP and Community preference is an integral part of the CAP. But the fact that we had agreed to apply full Community preference from the start did not really make the situation of third countries significantly worse; for leviable products the Community preference would be of importance in affecting access only where the enlarged Community would be in surplus and in such situations any degree of Community preference would tend to exclude third country suppliers. What was important was that we had secured the agreement of the Community to a significant safeguard against the disruption of traditional trading patterns. Although the details of the procedures and criteria to be applied had yet to be negotiated the principle had already been clearly established that action could be taken at all levels in the Community institutions using all the instruments of the Common agricultural policy [...] But it was not possible to work out details on all commodities which would have greatly prolonged the negotiations and if we had attempted to negotiate for minimum quantitative assurances then we should have ended up with a very small minima indeed. We had therefore preferred the approach of seeking a comprehensive general undertaking. _Mr. Anthony_ said that the Community’s safeguard assurance applied only to 4 CAP items . . _Mr Rippon_ quoted from our understanding with the Community to show that it covered all levy items and was not limited to 4.[3](#f3) Mr Dixon said that Mr Anthony might have been thinking of an earlier statement by the Community in which they mentioned four cases of difficulty, including butter and sugar, which could be foreseen. _Mr Anthony_ said that was the position as he understood it from his talks with the Community in the last week or so. He suggested that a joint statement by the Six and the British Government might be appropriate. _Mr Rippon_ assured Mr Anthony that there was no doubt about this agreement and all these provisional agreements would in the long run be turned into a formal legal document which would constitute the final terms agreed. He asked Mr Anthony to have confidence in the validity of this assurance.
 
 [...]
 
@@ -45,3 +48,5 @@ _Mr Rippon_ began by giving a brief account of progress in the negotiations. The
 2  J.E. Dixon, Under-Secretary, Ministry of Agriculture, Fisheries and Food, 1971–85. 
 
 3  See relevant material quoted in Document 287. 
+
+[UKNA: PREM 15/367]

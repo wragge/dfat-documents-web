@@ -1,33 +1,37 @@
 ---
-title: "229 Letter, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9737
+doc_date: '1968-10-06'
+doc_num: 229
+doc_order: 229
+naa_refs:
+- naa_barcode: 8811106
+  naa_control_symbol: 48/2
+  naa_series: NA1983/239
+  reference: '[NAA: NA 1983/239, 48/2]'
+title: Letter, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-10-06
-barcode: 8811106
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 229 Letter, Hay To Warwick Smith
 
 Port Moresby, 6 October 1968
 
 Personal
 
-There are several aspects of the relations between the Department and the Administration which I would like to discuss with you when I am in Canberra. Indeed I suggest we start in on these when I see you on Friday afternoon. 1
+There are several aspects of the relations between the Department and the Administration which I would like to discuss with you when I am in Canberra. Indeed I suggest we start in on these when I see you on Friday afternoon. [1](#f1)
 
-The first aspect is what seems to me to be an absence of a consistent frame of reference for many of the instructions and suggestions from the Department which come our way. 2 These instructions seem to me like reactions to individual situations of stress rather than to conclusions reached after weighing the whole situation including the overall priorities implicit in the government’s approval of the World Bank report ... By definition consultation is a process which takes place before a decision is made. The budget process conforms to this definition. But I am not sure that this process is to be3 followed in respect of other major policy matters.
+The first aspect is what seems to me to be an absence of a consistent frame of reference for many of the instructions and suggestions from the Department which come our way. [2](#f2) These instructions seem to me like reactions to individual situations of stress rather than to conclusions reached after weighing the whole situation including the overall priorities implicit in the government’s approval of the World Bank report ... By definition consultation is a process which takes place before a decision is made. The budget process conforms to this definition. But I am not sure that this process is to be[3](#f3) followed in respect of other major policy matters.
 
 Another aspect of our relations that concerns me is the Department’s practice of giving advice to the Minister which not only differs from recommendations of the Administration but also introduces new elements which have not even been discussed with the Administration during earlier exchanges. I have no objection, naturally, to the Department giving the Minister advice which differs from or disagrees with the Administration’s recommendations. That possibility is inherent in the constitutional situation. But the introduction of new elements without any discussion at a stage when it is too late for the Administration to comment seems wrong to me ...
 
-A third area of concern is what appears to me to be a disposition on the part of the Department to intervene in matters which by law are, or which by commonsense and sound practice should be, within the authority of the Administrator or the P.S.C.4 ... Where a matter is an administrative one, or where it falls by ordinance within the authority of a person holding an appointment in the Territory, then the decision should, with due regard to existing policy, be taken by that person ...
+A third area of concern is what appears to me to be a disposition on the part of the Department to intervene in matters which by law are, or which by commonsense and sound practice should be, within the authority of the Administrator or the P.S.C.[4](#f4) ... Where a matter is an administrative one, or where it falls by ordinance within the authority of a person holding an appointment in the Territory, then the decision should, with due regard to existing policy, be taken by that person ...
 
-The fourth aspect of concern is a familiar one—delays in getting decisions. The basic remedy for this is greater delegation—not just in financial matters but in administration.5 We have discussed this before but I’m afraid the position has not much improved.
+The fourth aspect of concern is a familiar one—delays in getting decisions. The basic remedy for this is greater delegation—not just in financial matters but in administration.[5](#f5) We have discussed this before but I’m afraid the position has not much improved.
 
 All this adds up to a situation of competition rather than co-operation. Inevitably in such a situation tempers get short and people spend time scoring points at the expense of getting on with the job.
 
-I hope a frank discussion of these things will get the two outfits working together as they must in order to get things done here with the urgency needed. 6
+I hope a frank discussion of these things will get the two outfits working together as they must in order to get things done here with the urgency needed. [6](#f6)
 
-[ [NAA: NA 1983/239, 48/2](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=8811106) ]
+[NAA: NA 1983/239, 48/2]
 
 1 For context, see editorial note ‘The Minister and the Administrator: the problem of the constitutional relationship’.
 

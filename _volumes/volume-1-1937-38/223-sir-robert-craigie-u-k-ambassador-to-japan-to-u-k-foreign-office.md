@@ -1,14 +1,19 @@
 ---
-title: "223 Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office"
-volume: "Volume 1: 1937-38"
-doc_id: 222
+doc_date: '1938-06-25'
+doc_num: 223
+doc_order: 222
+naa_refs:
+- naa_barcode: 232314
+  naa_control_symbol: '308'
+  naa_series: A2937
+  reference: '[FA : A2937, YAMPI SOUND]'
+title: Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-06-25
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 223 Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office
-
-## Cablegram 77.5 TOKYO, 25 June 1938, 6.38 p.m.
+Cablegram 77.5 TOKYO, 25 June 1938, 6.38 p.m.
 
 My telegram No. 771. [1]
 
@@ -20,7 +25,7 @@ I mention the above considerations merely in the hope that the Japanese may be l
 
 Not repeated. [2]
 
-_
+ _
 
 1 Document 222.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA : A2937, YAMPI SOUND]_
+ _[FA : A2937, YAMPI SOUND]_

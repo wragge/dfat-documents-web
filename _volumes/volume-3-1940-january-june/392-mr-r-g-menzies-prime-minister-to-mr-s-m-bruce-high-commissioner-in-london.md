@@ -1,14 +1,19 @@
 ---
-title: "392 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1158
+doc_date: '1940-06-17'
+doc_num: 392
+doc_order: 392
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, [0.3882]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 392 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 17 June 1940,
+Cablegram unnumbered 17 June 1940,
 
 Please convey the following message to Mr. Churchill [1]:-
 
@@ -28,7 +33,7 @@ But while we have our own local problems of citizenship, notably under the White
 
 Gloomy as the outlook may be, and easy as it is for us at a distance to formulate policies for others, may I once more make it clear that the decision of Great Britain to fight on is one which all Australians would make in similar circumstances, and that we are prepared to follow you into whatever sacrifice victory may demand. [5]
 
-_
+ _
 
 1 U.K. Prime Minister.
 
@@ -46,4 +51,4 @@ Dominions Secretary, Lord Caldecote.
 
 _
 
-_ [FA: A3196, [0.3882] [6]]_
+ _[FA: A3196, [0.3882] [6]]_

@@ -1,12 +1,18 @@
 ---
-title: "61 Evatt to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5837
+doc_date: '1948-08-20'
+doc_num: 61
+doc_order: 61
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A9420
+  reference: '[AA: A9420, 6]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-08-20
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 61 Evatt to Chifley
 
 Cablegram E15 LONDON, 20 August 1948, 8.35 p.m.
 
@@ -16,10 +22,10 @@ BROOK'S VISIT. [1] Noel-Baker discussed with me new and tentative suggestions as
 
 Therefore suggest you might tell Brook that position can be discussed with me here without commitment by Australia. Best Wishes.
 
-_
+ _
 
 1 Sir Norman Brook, Secretary to UK Cabinet, visited Ottawa, Canberra and Wellington during August-September for informal talks with Prime Ministers on Commonwealth relations.
 
 _
 
-_ [AA: A9420, 6]_
+ _[AA: A9420, 6]_

@@ -1,12 +1,18 @@
 ---
-title: "23 Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1777
+doc_date: '1941-07-29'
+doc_num: 23
+doc_order: 24
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 185B, ii]'
+title: Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Minister for
+  External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-29
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 23 Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Minister for External Affairs
 
 Dispatch S-69 TOKYO, 29 July 1941
 
@@ -84,7 +90,7 @@ Finally, I said that Japan was destroying China and bringing widespread misery a
 
 J. G. LATHAM
 
-_
+ _
 
 1 Dispatch S-68 of 28 July (on file AA : A981, Japan 185B, ii) reported that after the announcement, at noon on 26 July, of the agreement between the Japanese and Vichy French Govts Latham had consulted with Sir Robert Craigie (U.K. Ambassador to Japan) and J. C. Grew (U.S. Ambassador to Japan) about the possibility of delaying the entry of Japanese troops into Indo-China pending further examination of the situation. Craigie unsuccessfully raised the matter when he visited the Japanese Foreign Minister (Admiral Teijiro Toyoda) at 2.30 p.m. on 26 July to denounce the 1911 Anglo-Japanese Treaty of Commerce and Navigation, and Latham decided to pursue the matter himself at a meeting with Toyoda that evening. Latham had earlier reported both meetings in cablegrams 361 and 362 of 26 July (on file AA : A816, 19/304/428).
 
@@ -104,4 +110,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 185B, ii]_
+ _[AA : A981, JAPAN 185B, ii]_

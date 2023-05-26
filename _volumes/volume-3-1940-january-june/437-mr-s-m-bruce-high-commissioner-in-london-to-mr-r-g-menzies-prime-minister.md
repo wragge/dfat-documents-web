@@ -1,12 +1,17 @@
 ---
-title: "437 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1203
+doc_date: '1940-06-25'
+doc_num: 437
+doc_order: 437
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4710]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-25
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 437 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 473 LONDON, 25 June 1940, 9.28 p.m.
 
@@ -18,7 +23,7 @@ Gort [3] and Duff Cooper [4] left by air this morning to contact them at Perpign
 
 BRUCE
 
-_
+ _
 
 1 French Prime Minister until 16 June 1940.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4710]_
+ _[FA: A3195, 1.4710]_

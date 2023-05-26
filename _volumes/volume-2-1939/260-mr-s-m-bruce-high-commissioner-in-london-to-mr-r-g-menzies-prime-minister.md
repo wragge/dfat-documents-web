@@ -1,12 +1,17 @@
 ---
-title: "260 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 597
+doc_date: '1939-10-03'
+doc_num: 260
+doc_order: 260
+naa_refs:
+- naa_barcode: 176522
+  naa_control_symbol: GER 72 PART 1
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 72B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-03
+vol_title: 'Volume 2: 1939'
 ---
-
-# 260 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 520 (extract) LONDON, 3 October 1939, 6.32 p.m.
 
@@ -16,10 +21,10 @@ General reaction to Prime Minister's statement favourable. [1] More important in
 
 BRUCE
 
-_
+ _
 
 1 In the House of Commons on 3 October 1939 Neville Chamberlain described the GermanSoviet declaration on Poland as a 'suggestion of some proposal for peace with a scarcely veiled threat as to the consequences, if the proposal should be refused'. See House of Commons, Parliamentary Debates, fifth series, vol. 351, cols 1856- 62.
 
 _
 
-_ [AA: A981, GERMANY 72B, i]_
+ _[AA: A981, GERMANY 72B, i]_

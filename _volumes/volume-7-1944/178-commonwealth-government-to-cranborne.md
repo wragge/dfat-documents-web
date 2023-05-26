@@ -1,12 +1,17 @@
 ---
-title: "178 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2825
+doc_date: '1944-06-01'
+doc_num: 178
+doc_order: 178
+naa_refs:
+- naa_barcode: 185380
+  naa_control_symbol: 1944/735/260/4
+  naa_series: A989
+  reference: '[AA:A989, 43-44/735/260/4]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 178 Commonwealth Government to Cranborne
 
 Cablegram 122 CANBERRA, 1 June 1944
 
@@ -38,7 +43,7 @@ Lend-Lease expenditure in any installations. The extent of works provided as rec
 
 10\. Additional information regarding the position in regard to installations in Australian territory will be forwarded in a later telegrarn. [5]
 
-_
+ _
 
 1 Dispatched 7 April. On file AA:A989, 44/735/260. Cablegram D519 gave the text of a U.S. note regarding conversations proposed between the U.S. and U.K. Govts on principles governing the control and use of wartime installations. Acknowledging that disposal of defence installations would be in effect governed by Articles V and VII of the Mutaul Aid Agreement, it suggested an exchange of notes in accordance with objectives of Article VII.
 
@@ -54,4 +59,4 @@ Probability is that this particular question will not now be pursued independent
 
 _
 
-_ [AA:A989, 43-44/735/260/4]_
+ _[AA:A989, 43-44/735/260/4]_

@@ -1,12 +1,18 @@
 ---
-title: "117 Speech by Burton at New Delhi Conference"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6286
+doc_date: '1949-01-20'
+doc_num: 117
+doc_order: 117
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Speech by Burton at New Delhi Conference
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-20
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 117 Speech by Burton at New Delhi Conference
 
 NEW DELHI, 20 January 1949
 
@@ -22,8 +28,8 @@ Dr. Burton began by saying that the thoughts already expressed by the Prime Mini
 
 Offered with the compliments of the Public Relations Officer, Office of the High Commissioner for the Commonwealth of Australia in India, Connaught Place, New Delhi.
 
-_
+ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

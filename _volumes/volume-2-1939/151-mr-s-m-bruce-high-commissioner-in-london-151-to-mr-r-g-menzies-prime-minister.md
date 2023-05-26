@@ -1,12 +1,17 @@
 ---
-title: "151 Mr S.M. Bruce, High Commissioner in London, 151 to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 488
+doc_date: '1939-08-25'
+doc_num: 151
+doc_order: 151
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Mr S.M. Bruce, High Commissioner in London, 151 to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-25
+vol_title: 'Volume 2: 1939'
 ---
-
-# 151 Mr S.M. Bruce, High Commissioner in London, 151 to Mr R.G. Menzies, Prime Minister
 
 Cablegram 354 LONDON, 25 August 1939, 8.47 p.m.
 
@@ -20,7 +25,7 @@ Observations by Curtin [6] published here today will be used in German propagand
 
 BRUCE
 
-_
+ _
 
 1 Adolf Hitler, German Chancellor.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

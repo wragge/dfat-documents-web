@@ -1,13 +1,17 @@
 ---
-title: "191 Ball to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3703
+doc_date: '1946-04-15'
+doc_num: 191
+doc_order: 191
+naa_refs:
+- naa_barcode: 193424
+  naa_control_symbol: P46/10/33/19
+  naa_series: A1067
+  reference: '[AA:A1067, P46/10/33/19, i]'
+title: Ball to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-15
-barcode: 193424
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 191 Ball to Department of External Affairs
 
 Cablegram BCOM2 TOKYO, 15 April 1946
 
@@ -23,10 +27,10 @@ I would suggest that this statement should make two things clear.
 
 Firstly that reduction or withdrawal of occupation forces does not mean the end of control. Secondly that control will include not merely prohibition but a positive programme to foster a democratic way of life. [1]
 
-_
+ _
 
 1 This cablegram was repeated to Evatt on 24 April, with a comment that similar views had been expressed in Forsyth's report on the visit of the F.E.A.C. to Japan and publicly by Berendsen. No reply has been found.
 
 _
 
-_ [ [AA:A1067, P46/10/33/19, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=193424) ]_
+ _[AA:A1067, P46/10/33/19, i]_

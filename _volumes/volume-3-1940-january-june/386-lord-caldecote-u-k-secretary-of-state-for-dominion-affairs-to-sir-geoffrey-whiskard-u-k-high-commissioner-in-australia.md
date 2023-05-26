@@ -1,12 +1,18 @@
 ---
-title: "386 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1152
+doc_date: '1940-06-15'
+doc_num: 386
+doc_order: 386
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4328]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 386 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 178 LONDON, 15 June 1940, 12.27 p.m.
 
@@ -30,7 +36,7 @@ Further telegram regarding general strategical situation, possible supply of war
 
 Copy of this telegram is being given to Mr. Bruce. [5]
 
-_
+ _
 
 1 Document 330.
 
@@ -44,4 +50,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4328]_
+ _[FA: A3195, 1.4328]_

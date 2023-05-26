@@ -1,19 +1,23 @@
 ---
-title: "47 Submission No. 349, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9555
+doc_date: '1966-07-07'
+doc_num: 47
+doc_order: 47
+naa_refs:
+- naa_barcode: 1807074
+  naa_control_symbol: '349'
+  naa_series: A5841
+  reference: '[NAA: A5841, 349]'
+title: Submission No. 349, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-07-07
-barcode: 1807074
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 47 Submission No. 349, Barnes To Cabinet
 
 Canberra, 7 July 1966
 
 Confidential
 
-**Grant for Papua and New Guinea Administration in 1966/67**
+ **Grant for Papua and New Guinea Administration in 1966/67**
 
 This submission seeks approval for a Commonwealth grant of $72.9 million to the Papua and New Guinea Administration in 1966/67.
 
@@ -33,7 +37,7 @@ Expenditure| 1965/66 estimated| 1966/67 proposals| increase over 1965/66
 | $M| % of total| $M| % of total| $M| %  
 recurring| 76.00| 73.1| 89.56| 73.5| 13.56| 17.8  
 capital| 27.40| 26.9| 32.28| 26.5| 4.88| 17.8  
-| 103.40(a)1| 100.0| 121.84| 100.0| 18.44| 17.8  
+| 103.40(a)[1](#f1)| 100.0| 121.84| 100.0| 18.44| 17.8  
   
 The salient points of this comparison are—
 
@@ -43,22 +47,22 @@ The salient points of this comparison are—
 
 (iii) an increase from 40.0% to 40.2% in the proportion of total estimated expenditure to be met from internal revenue and loan raisings and a corresponding decline from 60.0% to 59.8% in the proportion to be met from Commonwealth grant.
 
-_Expenditure_
+ _Expenditure_
 
 4\. The draft Administration budget for 1966/67 gives priority to those expenditures which would both directly strengthen the productive potential of the Territory and advance the indigenous population. Expansion in non-economic areas has been restricted but in doing so the aim has been to avoid repercussions that would seriously affect the Government’s fundamental policy objectives.
 
-5\. A functional classification of the proposed budget is given at Attachment ‘A’.2 This shows a small decline in the percentage of the budget for the economic sector. Substantial additional expenditure in the health and education and general administrative sectors of the budget arising from earlier decisions on the establishment of tertiary education institutions and a special programme of housing for overseas officers and from special measures taken for the Police preclude a relative growth in the proportion of the budget for economic activities.
+5\. A functional classification of the proposed budget is given at Attachment ‘A’.[2](#f2) This shows a small decline in the percentage of the budget for the economic sector. Substantial additional expenditure in the health and education and general administrative sectors of the budget arising from earlier decisions on the establishment of tertiary education institutions and a special programme of housing for overseas officers and from special measures taken for the Police preclude a relative growth in the proportion of the budget for economic activities.
 
 6\. Total expenditure in 1966/67 is estimated at $121.84 million, which is $18.44 million more than in 1965/66. A broad outline of the main components making up the additional overall requirement of $18.44 million is—
 
-(a)| Capital works and equipment—including $1.2 million for special housing project to provide houses for overseas officers necessary for economic development programme (Cabinet Decision No. 1086 (M) of21 st July, 1965).3 The major variations in expenditure are given in Attachment ‘B’ .4| $M  
+(a)| Capital works and equipment—including $1.2 million for special housing project to provide houses for overseas officers necessary for economic development programme (Cabinet Decision No. 1086 (M) of21 st July, 1965).[3](#f3) The major variations in expenditure are given in Attachment ‘B’ .[4](#f4)| $M  
 ---|---|---  
 (b)| Recruitment—| 4.88  
 (i)| 1965/66—additional cost for a full year  
 $M  
 2.05  
 $M  
-(ii)| 1966/67—571 Overseas*5 1 ,625 Local  
+(ii)| 1966/67—571 Overseas*[5](#f5) 1 ,625 Local  
 1.00  
 2.8  
 1.28| 3.33  
@@ -66,8 +70,8 @@ $M
 (d)| verseas officers—proposed application of Commonwealth Public Service Third Division work value salary increases| 0.70  
 (e)| Other salary and wage costs for staff on strength at 30th June, 1966| 0.85  
 (f)| General Maintenance—additional cost of maintaining a rising total value of Administration assets| 1.01  
-(g)| University of Papua and New Guinea (Approved by Cabinet Decision No. 760 of 15th March, 1965)6| 1.69  
-(h)| Institute of Higher Technical Education (Approved by Cabinet Decision No. 760 of 15th March, 1965)7| 0.59  
+(g)| University of Papua and New Guinea (Approved by Cabinet Decision No. 760 of 15th March, 1965)[6](#f6)| 1.69  
+(h)| Institute of Higher Technical Education (Approved by Cabinet Decision No. 760 of 15th March, 1965)[7](#f7)| 0.59  
 (i)| Development Bank (Approved by Cabinet Decision No. 1171 of 26th August, 1965)8| 1.00  
 (j)| Public borrowing—interest and redemption| 0.33  
 (k)| Refunds of income tax| 0.31  
@@ -77,7 +81,7 @@ $M
 (o)| Additional supplies and services for programmes being implemented by growing staff| 2.14  
 | | 18.44  
   
-_Receipts_
+ _Receipts_
 
 Internal Revenue
 
@@ -117,7 +121,7 @@ Recommendation
 
 17\. I recommend an initial grant of $72.9 million to the Papua and New Guinea Administration in 1966/67 and that provision for a supplementary grant to the Administration be made in Additional Estimates as discussed in paragraph 13 above.
 
-[ [NAA: A5841, 349](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1807074) ]
+[NAA: A5841, 349]
 
 1  A footnote in the original here instructed that the ‘excess of expenditure over receipts in 1965/66 of $90,000 was met from a balance of$160,000 in the Consolidated Revenue Fund at 1st July, 1965’.
 

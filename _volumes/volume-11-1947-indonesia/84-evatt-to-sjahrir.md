@@ -1,14 +1,19 @@
 ---
-title: "84 Evatt to Sjahrir"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4268
+doc_date: '1947-06-17'
+doc_num: 84
+doc_order: 84
+naa_refs:
+- naa_barcode: 432565
+  naa_control_symbol: 401/3/10/1 PART 2
+  naa_series: A1838
+  reference: '[AA:A1838/278, 401/10/1, ii]'
+title: Evatt to Sjahrir
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-06-17
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
 
-# 84 Evatt to Sjahrir
-
-## Cablegram 151 [1] CANBERRA, 17 June 1947, 2.30 p.m.
+Cablegram 151 [1] CANBERRA, 17 June 1947, 2.30 p.m.
 
 IMMEDIATE
 
@@ -16,7 +21,7 @@ The Prime Minister and I are deeply impressed by your kind message sent through 
 
 Please understand that if at any time our Government Offices can be further used they are entirely at your service.
 
-_
+ _
 
 1 Sent to Ballard, who was instructed to deliver Evatt's message personally.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA:A1838/278, 401/10/1, ii]_
+ _[AA:A1838/278, 401/10/1, ii]_

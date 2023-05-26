@@ -1,12 +1,17 @@
 ---
-title: "182 Sturdee to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3694
+doc_date: '1946-04-10'
+doc_num: 182
+doc_order: 182
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1850]'
+title: Sturdee to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-10
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 182 Sturdee to Chifley
 
 Letter CANBERRA, 10 April 1946
 
@@ -62,10 +67,10 @@ It is probable that we still have to convince the United Kingdom and India that 
 
 V.A.H. STURDEE Lieut.-General Chief of the General Staff
 
-_
+ _
 
 1 Document 167.
 
 _
 
-_ [AA:A5954, BOX 1850]_
+ _[AA:A5954, BOX 1850]_

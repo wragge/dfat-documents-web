@@ -1,14 +1,19 @@
 ---
-title: "41 Cabinet Decision 808"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7646
+doc_date: '1953-08-13'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 4678665
+  naa_control_symbol: '521'
+  naa_series: A4905
+  reference: '[AA : A4905/1, VOLUME 19]'
+title: Cabinet Decision 808
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-08-13
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 41 Cabinet Decision 808
-
-## 13th August, 1953
+13th August, 1953
 
 Submission No. 521-Eighth Session of the Contracting Parties to G.A.T.T. [1]
 
@@ -34,10 +39,10 @@ The above course of action is to be thoroughly canvassed at the preliminary Comm
 
 Cabinet indicated that Mr. Meere would be a suitable delegation leader.
 
-_
+ _
 
 1 Document 39.
 
 _
 
-_ [AA : A4905/1, VOLUME 19]_
+ _[AA : A4905/1, VOLUME 19]_

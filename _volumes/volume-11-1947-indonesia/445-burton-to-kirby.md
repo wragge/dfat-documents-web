@@ -1,12 +1,17 @@
 ---
-title: "445 Burton to Kirby"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4629
+doc_date: '1947-12-01'
+doc_num: 445
+doc_order: 445
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1947, 0.20030]'
+title: Burton to Kirby
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-12-01
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 445 Burton to Kirby
 
 Cablegram 14 CANBERRA, 1 December 1947, 6.15 p.m.
 
@@ -22,7 +27,7 @@ On the record the Dutch have made the offer and that is all that would be achiev
 
 pictures on our files of Australians shot at by Dutch. [5] While the report might be in part factually correct, the United Nations in due course will, no doubt, prepare a factual report and, meanwhile, it is hoped that further publications of this kind will not be print, an be regarded as falling within the scope of provocative acts which the Committee has barred. [6]
 
-_
+ _
 
 1 Document 440.
 
@@ -40,4 +45,4 @@ Confirmation was also sought as to whether the United States had been bringing p
 
 _
 
-_ [AA:A3196, 1947, 0.20030]_
+ _[AA:A3196, 1947, 0.20030]_

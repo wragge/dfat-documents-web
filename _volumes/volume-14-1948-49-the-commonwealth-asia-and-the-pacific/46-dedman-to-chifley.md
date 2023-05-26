@@ -1,12 +1,18 @@
 ---
-title: "46 Dedman to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5822
+doc_date: '1949-07-22'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 364322
+  naa_control_symbol: 708/12/1 A
+  naa_series: A1838
+  reference: '[AA: A1838, 708/12/1A]'
+title: Dedman to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-07-22
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 46 Dedman to Chifley
 
 Cablegram F16 LONDON, 22 July 1949, 8 p.m.
 
@@ -24,8 +30,8 @@ IMMEDIATE SECRET
 
 countries and the Americans, 11. The United Kingdom officials have not yet evolved any concrete propositions to place before the Americans in September.
 
-_
+ _
 
 _
 
-_ [AA: A1838, 708/12/1A]_
+ _[AA: A1838, 708/12/1A]_

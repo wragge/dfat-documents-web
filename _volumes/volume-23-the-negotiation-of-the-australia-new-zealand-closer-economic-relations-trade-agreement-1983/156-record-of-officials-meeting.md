@@ -1,18 +1,25 @@
 ---
-title: "156 Record of Officials' Meeting"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9025
+doc_date: '1980-12-19'
+doc_num: 156
+doc_order: 156
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Record of Officials' Meeting
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-12-19
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 156 Record of Officials' Meeting
 
 Wellington, 19 December 1980
 
 CONFIDENTIAL NEW ZEALAND EYES ONLY
 
-## CER: OEC1 Meeting: 19 December 1980
+## CER: OEC[1](#f1) Meeting: 19 December 1980
 
 ### Dairy
 
@@ -31,7 +38,7 @@ He felt it was important to stress to Ministers that there was no great bonanza 
 
 
 
-### Category C2
+### Category C[2](#f2)
 
   5. Dr Beath summarised the position which had been reached on Category C. As far as the concept of a pre-determined maximum deferment period was concerned, the central point was that the two Governments did not attempt to establish that pre-determined period until the content of the two Category C lists were known. He asked Permanent Heads to reaffirm that even if it was not possible to maintain the position on Category C at the end of the day the objective would be to preserve the position as long as possible. Mr Clark agreed that it was of some importance to retain the integrity of the drafting, otherwise it would be impossible to stop list three getting out of hand. Mr Galvin concluded that there was a consensus that the drafting in the Permanent Heads' record should be kept as it was. Again the position on Category C should be set down in a brief piece of paper for Ministers.
 
@@ -39,13 +46,13 @@ He felt it was important to stress to Ministers that there was no great bonanza 
 
 ### Specific Commodities
 
-  6. Mr Bathgate then joined the meeting to indicate that he had just returned from Australia and that the discussions on whiteware had been unsuccessful. He briefed the Permanent Heads on the main element of the discussion. Mr Clark said that New Zealand could not go into CER without a reasonable agreement on dairy products and whiteware. They were the two key commodity areas for New Zealand manufacturing and [farming and]3 agriculture respectively.
+  6. Mr Bathgate then joined the meeting to indicate that he had just returned from Australia and that the discussions on whiteware had been unsuccessful. He briefed the Permanent Heads on the main element of the discussion. Mr Clark said that New Zealand could not go into CER without a reasonable agreement on dairy products and whiteware. They were the two key commodity areas for New Zealand manufacturing and [farming and][3](#f3) agriculture respectively.
 
 
 
 ### Preferences Agreement
 
-  7. Mr Clark said that although New Zealand manufacturers seemed to be rather exercised about the future of the Preferences Agreement4 in the post-CER stage, he was inclined to think that New Zealand did not have to worry much about the agreement. The fact was. that if tariffs applicable to New Zealand were being phased out in short order and progress on removing Australian tariff rates applicable to third countries was slow (as he expected), New Zealand would receive substantial margins of preference without any formal agreements. All in all he did not think it was a key issue in the CER.
+  7. Mr Clark said that although New Zealand manufacturers seemed to be rather exercised about the future of the Preferences Agreement[4](#f4) in the post-CER stage, he was inclined to think that New Zealand did not have to worry much about the agreement. The fact was. that if tariffs applicable to New Zealand were being phased out in short order and progress on removing Australian tariff rates applicable to third countries was slow (as he expected), New Zealand would receive substantial margins of preference without any formal agreements. All in all he did not think it was a key issue in the CER.
 
 
 
@@ -56,11 +63,9 @@ He felt it was important to stress to Ministers that there was no great bonanza 
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 32 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 32 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 The Officials' Economic Committee was a semi-formal body of senior officials who met as necessary to coordinate views and discuss drafts on economic issues. Papers for the important Cabinet Economic Committee were formally submitted by the Chairman of the OEC, usually the Secretary to the Treasury or his representative. This document is a personal record that may have been drafted by T. J. Groser.
   * 2 Elsewhere known as Category 3 or List 3.
   * 3 These two words are struck out in the original text.
   * 4 The 1977 Agreement on Tariffs and Tariff Preferences.
-
-

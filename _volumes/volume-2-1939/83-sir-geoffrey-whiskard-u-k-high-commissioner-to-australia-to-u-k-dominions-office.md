@@ -1,12 +1,18 @@
 ---
-title: "83 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 420
+doc_date: '1939-05-10'
+doc_num: 83
+doc_order: 83
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: DO 114/98]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
+  Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 83 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office
 
 Cablegram 93 (paraphrase) CANBERRA, 10 May 1939
 
@@ -14,7 +20,7 @@ SECRET
 
 Your telegram No. 105 of the 8th May. [1] I spoke accordingly to the Prime Minister [2] and in the debate neither point was mentioned.
 
-_
+ _
 
 1 Document 81.
 
@@ -22,4 +28,4 @@ _
 
 _
 
-_ [PRO: DO 114/98]_
+ _[PRO: DO 114/98]_

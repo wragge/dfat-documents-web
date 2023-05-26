@@ -1,12 +1,17 @@
 ---
-title: "175 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department"
-volume: "Volume 1: 1937-38"
-doc_id: 174
+doc_date: '1938-03-31'
+doc_num: 175
+doc_order: 174
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-31
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 175 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
 
 Cablegram unnumbered LONDON, 31 March 1938
 
@@ -18,7 +23,7 @@ Brought proposed embargo on export of iron ore to the notice of the British Gove
 
 BRUCE
 
-_
+ _
 
 1 Document 141.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

@@ -1,12 +1,20 @@
 ---
-title: "89 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8959
+doc_date: '1980-03-12'
+doc_num: 89
+doc_order: 89
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-03-12
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 89 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 12 March 1980
 
@@ -21,4 +29,4 @@ The significance of the Australian decision to upgrade the status of the group o
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 25 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 25 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

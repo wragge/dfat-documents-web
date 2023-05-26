@@ -1,14 +1,19 @@
 ---
-title: "4 Copland to Makin"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3852
+doc_date: '1946-07-01'
+doc_num: 4
+doc_order: 4
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (C)]'
+title: Copland to Makin
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-07-01
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 4 Copland to Makin
-
-## Dispatch 38/46 NANKING, 1 July 1946
+Dispatch 38/46 NANKING, 1 July 1946
 
 I have the honour to submit herewith a memorandum dealing with certain long-term effects of present and prospective developments in China.
 
@@ -42,10 +47,10 @@ This will be Russia's day, and, in the meanwhile, Russia will undoubtedly have i
 
 This may be too gloomy a picture, but that it is a possible picture nobody who studies the situation has any doubt. Because it is a possible picture, the Far East is to be regarded as perhaps the most explosive area in the world ...
 
-_
+ _
 
 1 Copland, formerly Professor of Commerce at the University of Melbourne, succeeded Eggleston as Minister to China, presenting his credentials on 23 March.
 
 _
 
-_ [SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (C)]_
+ _[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (C)]_

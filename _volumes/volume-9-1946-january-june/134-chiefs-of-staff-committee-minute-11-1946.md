@@ -1,12 +1,17 @@
 ---
-title: "134 Chiefs of Staff Committee Minute 11/1946"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3646
+doc_date: '1946-03-20'
+doc_num: 134
+doc_order: 134
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1645]'
+title: Chiefs of Staff Committee Minute 11/1946
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-20
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 134 Chiefs of Staff Committee Minute 11/1946
 
 Extracts [MELBOURNE], 20 March 1946
 
@@ -178,8 +183,8 @@ Australian Forces to be Maintained in Peace (31) Australian forces for operation
 
 (i) Air units for the protection of our bases and focal areas against sporadic raids.
 
-_
+ _
 
 _
 
-_ [AA:A5954, BOX 1645]_
+ _[AA:A5954, BOX 1645]_

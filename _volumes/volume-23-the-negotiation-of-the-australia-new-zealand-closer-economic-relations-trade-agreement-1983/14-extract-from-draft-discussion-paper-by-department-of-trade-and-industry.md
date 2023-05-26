@@ -1,11 +1,19 @@
 ---
-title: "14 Extract from Draft Discussion Paper by Department of Trade and Industry"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8884
+doc_date: '1978-10-01'
+doc_num: 14
+doc_order: 14
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Extract from Draft Discussion Paper by Department of Trade and Industry
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 14 Extract from Draft Discussion Paper by Department of Trade and Industry
 
 Wellington, October 1978
 
@@ -41,7 +49,7 @@ There are however some basic issues we have to face concerning the role of NAFTA
 
 In trade terms it is apparent that we can no longer expect to obtain benefits without at least granting much greater access. We are in fact fighting a rearguard action to maintain the place of some of our major exports to Australia. The usefulness of the preferences agreement in anything but the short term seem[s] doubtful. The attitude of Australian officials and manufacturers appears to be turning more against us.
 
-To regain some goodwill and to try to show Australia that we have significance as a market in the future would seem to involve a drastic change of policies to meet the basic Australian complaint-access to the New Zealand market. To adopt such a policy could well fit in with our own economic and foreign policy objectives as well as facing up to the ultimate responsibility of adding items to NAFTA schedules. We have to date been rather like the ostrich. There is little point in fooling ourselves with ideas that Australia will regard initiatives such as 'all the way with Schedule _A: _as commendable in themselves, and from our point of view it could ultimately prove foolhardy.
+To regain some goodwill and to try to show Australia that we have significance as a market in the future would seem to involve a drastic change of policies to meet the basic Australian complaint-access to the New Zealand market. To adopt such a policy could well fit in with our own economic and foreign policy objectives as well as facing up to the ultimate responsibility of adding items to NAFTA schedules. We have to date been rather like the ostrich. There is little point in fooling ourselves with ideas that Australia will regard initiatives such as 'all the way with Schedule _A:_ as commendable in themselves, and from our point of view it could ultimately prove foolhardy.
 
 The alternative is to continue our current 'ad hoc' approach and try to achieve what we can, while minimising the future risks, at as little cost to ourselves as possible. It seems highly likely that such an approach will make almost certain the steady diminution in the trading relationship and might have some effects on our hopes for a more successful broader relationship.
 
@@ -49,8 +57,6 @@ Regardless of which approach is adopted it would obviously be to our benefit to 
 
 Whether a more forthcoming and realistic approach to NAFTA itself would achieve a great deal is open to doubt given the other Australian concerns mentioned in this paper. It would however be a realistic attempt to maintain and improve our relationship should that be judged to be in our best interests.
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 16 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 16 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 This draft appears to have been prepared as a contribution to interdepartmental discussion in preparation for the 1978 NAFTA Ministerial Meeting.
-
-

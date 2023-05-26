@@ -1,12 +1,17 @@
 ---
-title: "520 Department of External Affairs to Sir John Latham, Minister to Japan"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1751
+doc_date: '1941-06-25'
+doc_num: 520
+doc_order: 520
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA: A981, FAR EAST 20B, i]'
+title: Department of External Affairs to Sir John Latham, Minister to Japan
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-25
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 520 Department of External Affairs to Sir John Latham, Minister to Japan
 
 Cablegram 183 25 June 1941,
 
@@ -32,10 +37,10 @@ You are familiar with the reasons for prohibition as well as our own war needs.
 
 We will advise you further as soon as review of policy has been completed.
 
-_
+ _
 
 1 Document 518.
 
 _
 
-_ [AA: A981, FAR EAST 20B, i]_
+ _[AA: A981, FAR EAST 20B, i]_

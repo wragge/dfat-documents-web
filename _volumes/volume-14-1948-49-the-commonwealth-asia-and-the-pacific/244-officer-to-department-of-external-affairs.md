@@ -1,12 +1,18 @@
 ---
-title: "244 Officer to Department of External Affairs"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6020
+doc_date: '1949-02-14'
+doc_num: 244
+doc_order: 244
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:OUTWARD ORIGINAL (TS) 1948-50]'
+title: Officer to Department of External Affairs
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-02-14
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 244 Officer to Department of External Affairs
 
 Cablegram 71 NANKING, 14 February 1949, 5.15 p.m.
 
@@ -18,7 +24,7 @@ My telegram No.64 [1] and my immediately preceding telegram 70.
 
 2\. Sun Fo on the contrary has come out with fill support of your proposal (which is in line with his earlier attempt to secure the good offices of the big four). I fear his main object is to try and put the Communists in the wrong and that the only result may be to embarrass the Acting President.
 
-_
+ _
 
 1 Dispatched 21 February 1949, it reported that immediate contact with the Acting President was possible but contact with the Communists would be slow and indirect.
 
@@ -30,4 +36,4 @@ A4145/1, RM5.
 
 _
 
-_ [FA:OUTWARD ORIGINAL (TS) 1948-50]_
+ _[FA:OUTWARD ORIGINAL (TS) 1948-50]_

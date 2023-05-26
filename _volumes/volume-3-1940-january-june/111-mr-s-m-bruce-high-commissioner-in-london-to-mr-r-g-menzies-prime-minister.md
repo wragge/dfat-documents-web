@@ -1,12 +1,17 @@
 ---
-title: "111 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 877
+doc_date: '1940-03-21'
+doc_num: 111
+doc_order: 111
+naa_refs:
+- naa_barcode: 232315
+  naa_control_symbol: '138'
+  naa_series: A2937
+  reference: '[AA: A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-21
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 111 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 197 LONDON, 21 March 1940
 
@@ -26,7 +31,7 @@ I suggest for your consideration whether the best course would not be to postpon
 
 BRUCE
 
-_
+ _
 
 1 Bruce appears to be referring to his own cablegram printed as Document 42.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA: A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]_
+ _[AA: A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]_

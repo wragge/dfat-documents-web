@@ -1,14 +1,20 @@
 ---
-title: "477 Quinn to Burton"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6646
+doc_date: '1949-08-25'
+doc_num: 477
+doc_order: 477
+naa_refs:
+- naa_barcode: 1178393
+  naa_control_symbol: TS45/1/4/5 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838, TS48/1/4/5, i]'
+title: Quinn to Burton
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-08-25
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 477 Quinn to Burton
-
-## Memorandum Hague 256/49 THE HAGUE, 25 August 1949
+Memorandum Hague 256/49 THE HAGUE, 25 August 1949
 
 As reported in my telegram No. C. 5. [1] the Round Table Conference opened in The Hague shortly after 2 p.m. on Tuesday August 23rd. As was to be expected the opening proceedings were largely of a formal nature and the Conference was inaugurated by the Prime Minister, Dr. W. Drees, who welcomed the Delegates in a speech which after briefly rehearsing the history of previous negotiations, re-affirmed the desire of the Netherlands Government to carry out its decision to transfer sovereignty to the United States of Indonesia. This was an irrevocable resolution and did not rest 'on impulse and sentiment nor on an unwilling acquiescence in the superiority of circumstances', and although many in the Netherlands thought that the interests of all concerned would have been served if a more peaceful and gradual transition could have proved possible, 'there is no sense in overlooking the consequences of acceleration and the development which has set in as an after effect of the war' and the idea of Indonesia's sovereignty now demanded a speedy realisation. The Prime Minister also remarked on the need for the participants in the Conference to realise their responsibility and to avoid serving local or temporary interests. 'History will pass the final judgement on this Conference. Each party is exposed to the temptation to endanger the great goal for the sake of temporary success and momentary applause from a certain group of supporters.
 
@@ -24,10 +30,10 @@ Netherlands Delegation - Mr van Maarseveen - Mr Stikker - Dr van Royen Republica
 
 1) Committee for Political and Constitutional Affairs 2) Committee for Financial and Economic Affairs 3) Committee for Military Affairs 4) Committee for Cultural Affairs 5) Committee for Social Affairs The committees are to hold their first sessions on Friday morning at 10 a.m.
 
-_
+ _
 
 1 Dispatched on 23 August, it reported that the Round Table Conference had opened in a good atmosphere.
 
 _
 
-_ [AA : A1838, TS48/1/4/5, i]_
+ _[AA : A1838, TS48/1/4/5, i]_

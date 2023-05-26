@@ -1,12 +1,17 @@
 ---
-title: "404 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1635
+doc_date: '1941-04-15'
+doc_num: 404
+doc_order: 404
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.5749]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-15
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 404 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram M59 LONDON, 15 April 1941, 7.58 p.m.
 
@@ -40,7 +45,7 @@ You may inform John Curtin [4] of the above.
 
 MENZIES
 
-_
+ _
 
 1 Chief of the Imperial General Staff.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA: A3195, 1941, 1.5749]_
+ _[AA: A3195, 1941, 1.5749]_

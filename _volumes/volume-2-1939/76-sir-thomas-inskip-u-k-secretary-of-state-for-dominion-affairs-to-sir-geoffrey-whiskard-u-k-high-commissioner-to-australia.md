@@ -1,12 +1,18 @@
 ---
-title: "76 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia"
-volume: "Volume 2: 1939"
-doc_id: 413
+doc_date: '1939-04-29'
+doc_num: 76
+doc_order: 76
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:FO 372/3319]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner to Australia
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-04-29
+vol_title: 'Volume 2: 1939'
 ---
-
-# 76 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia
 
 Cablegram 98 (paraphrase) LONDON, 29 April 1939, 11.30 p.m.
 
@@ -36,7 +42,7 @@ The procedure adopted in the case of such appointments following established pre
 
 (g) When agreement is obtained, the name would then be submitted formally to His Majesty the King and letter of credence and commission would be prepared.
 
-_
+ _
 
 1 Document 75.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [PRO:FO 372/3319]_
+ _[PRO:FO 372/3319]_

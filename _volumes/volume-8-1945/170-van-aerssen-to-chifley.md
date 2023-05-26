@@ -1,14 +1,19 @@
 ---
-title: "170 Van Aerssen to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3201
+doc_date: '1945-08-10'
+doc_num: 170
+doc_order: 170
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 562]'
+title: Van Aerssen to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-10
+vol_title: 'Volume 8: 1945'
 ---
 
-# 170 Van Aerssen to Chifley
-
-## Letter MELBOURNE, 10 August 1945
+Letter MELBOURNE, 10 August 1945
 
 Since I had a conversation with you on August 2nd in Canberra concerning the training of Dutch troops in Australia, the matter under discussion has, greatly to my displeasure, been aired by the press.
 
@@ -54,7 +59,7 @@ I am sending a copy of this letter to Dr. Evatt, and I hope to be favoured with 
 
 VAN AERSSEN BEYEREN
 
-_
+ _
 
 1 Not published.
 
@@ -68,4 +73,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 562]_
+ _[AA : A5954, BOX 562]_

@@ -1,14 +1,19 @@
 ---
-title: "198 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 1: 1937-38"
-doc_id: 197
+doc_date: '1938-05-17'
+doc_num: 198
+doc_order: 197
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-17
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 198 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 17 May 1938,
+Cablegram unnumbered 17 May 1938,
 
 Referring to Sir Earle Page's telegram 1st May, Yampi Sound [1], the following statement will be made by me in Parliament on Wednesday 18th May [2]:-
 
@@ -34,7 +39,7 @@ The substance of this statement has been conveyed to the Consul- General for Jap
 
 Report of Geological Adviser [5] in my immediately following telegram. [6]
 
-_
+ _
 
 1 Document 195.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

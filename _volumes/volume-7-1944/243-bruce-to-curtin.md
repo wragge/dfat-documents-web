@@ -1,12 +1,17 @@
 ---
-title: "243 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2890
+doc_date: '1944-08-01'
+doc_num: 243
+doc_order: 243
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/832/1, ii]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 243 Bruce to Curtin
 
 Cablegram 105A LONDON, 1 August 1944, 8 p.m.
 
@@ -38,7 +43,7 @@ With regard to the plans to be tabled, I understand that in spite of the conclud
 
 It is frankly admitted that Beaverbrook's proposal is merely a staving off device and as such must be dodged. If your decision is to acquiesce in the course the United Kingdom is advocating I would suggest that your acquiescence should be conditioned upon the cessation of the American bilateral talks in respect to which the present position does not appear to me to be at all clear.
 
-_
+ _
 
 1 Document 240.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/832/1, ii]_
+ _[AA:A989, 43/735/832/1, ii]_

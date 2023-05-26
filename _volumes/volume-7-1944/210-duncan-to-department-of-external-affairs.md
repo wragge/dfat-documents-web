@@ -1,12 +1,18 @@
 ---
-title: "210 Duncan to Department of External Affairs"
-volume: "Volume 7: 1944"
-doc_id: 2857
+doc_date: '1944-07-02'
+doc_num: 210
+doc_order: 210
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET MASTER SHEETS, EXCEPT FROM
+    SECDOMIN AND BRUCE, 1.24604/03]'
+title: Duncan to Department of External Affairs
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-02
+vol_title: 'Volume 7: 1944'
 ---
-
-# 210 Duncan to Department of External Affairs
 
 Cablegram 7808 LONDON, 2 July 1944, 12.56 p.m.
 
@@ -34,7 +40,7 @@ In communicating this to your Government perhaps you would be good enough to exp
 
 DUNCAN
 
-_ FROM SECDOMIN AND BRUCE, 1.24604/03]
+ _
 
 1 Document 200.
 
@@ -42,4 +48,4 @@ _ FROM SECDOMIN AND BRUCE, 1.24604/03]
 
 _
 
-_ [AA:A3195, 1944, FOLDER, INWARDS MOST SECRET MASTER SHEETS, EXCEPT_
+ _[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET MASTER SHEETS, EXCEPT FROM SECDOMIN AND BRUCE, 1.24604/03]_

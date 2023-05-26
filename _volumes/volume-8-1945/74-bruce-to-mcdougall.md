@@ -1,14 +1,19 @@
 ---
-title: "74 Bruce to McDougall"
-volume: "Volume 8: 1945"
-doc_id: 3105
+doc_date: '1945-04-20'
+doc_num: 74
+doc_order: 74
+naa_refs:
+- naa_barcode: 242526
+  naa_control_symbol: 13/2
+  naa_series: M104
+  reference: '[AA : M104,13(2)]'
+title: Bruce to McDougall
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-04-20
+vol_title: 'Volume 8: 1945'
 ---
 
-# 74 Bruce to McDougall
-
-## Letter (extracts) LONDON, 20 April 1945
+Letter (extracts) LONDON, 20 April 1945
 
 [matter omitted]
 
@@ -38,7 +43,7 @@ I had one moment of apprehension lest I should become entangled-at a dinner give
 
 [matter omitted]
 
-_
+ _
 
 1 President of the Council of Ministers of the French Provisional Govt.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA : M104,13(2)]_
+ _[AA : M104,13(2)]_

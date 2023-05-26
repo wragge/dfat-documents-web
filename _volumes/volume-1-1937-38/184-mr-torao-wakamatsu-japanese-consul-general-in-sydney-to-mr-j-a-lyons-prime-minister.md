@@ -1,14 +1,20 @@
 ---
-title: "184 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 183
+doc_date: '1938-04-11'
+doc_num: 184
+doc_order: 183
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime
+  Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-04-11
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 184 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister
-
-## Letter (copy) SYDNEY, 11 April 1938
+Letter (copy) SYDNEY, 11 April 1938
 
 With further reference to my letters of March 26th and April 5th [1], regarding the matter of iron ore exports from Australia, I have the honour to communicate to you, under instructions from my Government, firstly, the very deep concern felt by the Imperial Government regarding this matter, since, apart from the question of the safety of Japanese investments in Yampi Sound, Japan is the country which would be most seriously affected by any far-reaching restriction on iron ore supplies from this Commonwealth and, secondly, their earnest desire for a guarantee by the Federal Government that no disturbance shall be caused to the basic foundations on which a vast amount of Japanese capital has been vested in Yampi Sound, with the definite approval and general support of the West Australian Government.
 
@@ -18,7 +24,7 @@ Further, I desire to state that I am informed by Mr Fujimura, Director of the Ni
 
 TORAO WAKAMATSU
 
-_
+ _
 
 1 Documents 170, 178.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

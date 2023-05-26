@@ -1,12 +1,19 @@
 ---
-title: "282 Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2036
+doc_date: '1942-01-19'
+doc_num: 282
+doc_order: 283
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, EXTERNAL AFFAIRS DEPT FILE
+    S5, BOWDEN REPORTS]'
+title: Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister
+  for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-19
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 282 Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram 54 SINGAPORE, 19 January 1942 [1]
 
@@ -38,7 +45,7 @@ I feel justified in replying at length to your telegram 27 [2] as its contents s
 
 BOWDEN
 
-_ FILE S5, BOWDEN REPORTS]
+ _
 
 1 This cablegram was dispatched in three parts, in reverse order, from 1.14 p.m. to 10.52 p.m.
 
@@ -76,4 +83,4 @@ _ FILE S5, BOWDEN REPORTS]
 
 _
 
-_ [FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, EXTERNAL AFFAIRS DEPT_
+ _[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, EXTERNAL AFFAIRS DEPT FILE S5, BOWDEN REPORTS]_

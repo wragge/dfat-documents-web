@@ -1,12 +1,17 @@
 ---
-title: "238 Cabinet Submission by Mr W. M. Hughes, Minister for External Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 237
+doc_date: '1938-08-17'
+doc_num: 238
+doc_order: 237
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL : PAGE 13]'
+title: Cabinet Submission by Mr W. M. Hughes, Minister for External Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-08-17
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 238 Cabinet Submission by Mr W. M. Hughes, Minister for External Affairs
 
 17 August 1938
 
@@ -104,7 +109,7 @@ The arguments against supporting the United Kingdom proposal may be summarised a
 
 The proposals set out in (b), along with the arguments used, are fully in accord with the proposals already submitted to the League of Nations by the Commonwealth Government.
 
-_
+ _
 
 1 U.K. Parliamentary Under-Secretary of State for Foreign Affairs.
 
@@ -118,4 +123,4 @@ _
 
 _
 
-_ [ANL : PAGE 13]_
+ _[ANL : PAGE 13]_

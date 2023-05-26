@@ -1,14 +1,19 @@
 ---
-title: "53 Draft Note By Department Of Trade And Customs"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7658
+doc_date: '1954-03-04'
+doc_num: 53
+doc_order: 53
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP553/1
+  reference: '[NAA: CP553/1/1, 194/B/10/35]'
+title: Draft Note By Department Of Trade And Customs
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-03-04
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 53 Draft Note By Department Of Trade And Customs
-
-## 4th March, 1954
+4th March, 1954
 
 The Australian Embassy has the honour to refer to the Note Verbale No. 270/134 dated 5th November, 1953, from the Japanese Ministry of Foreign Affairs [1] and to the Aide-Memoire dated 14th January, 1954, from the Japanese Ambassador in Australia to the Department of External Affairs [2] regarding Japan's trade with Australia.
 
@@ -26,7 +31,7 @@ The Australian authorities are aware of delays and other difficulties which some
 
 With regard to the Ministry's observations that the Australian Government recently raised the import duties on Japanese tinplate and plywood, the Embassy wishes to inform the Ministry that the current duties of 12.5% and 57.5% ad valorem respectively now applicable under both the Most-Favoured-Nation Tariff and the General Tariff were enacted in the case of tinplate in June, 1937, and in the case of plywood in December, 1929. The duties on these products were temporarily suspended for limited periods prior to 1953, when world demand exceeded available supplies. These concessions to importers were discontinued in 1953 as a result of the improved supply position. [3]
 
-_
+ _
 
 1 Document 46.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [CP553/1/1, 194/B/10/35]_
+ _[NAA: CP553/1/1, 194/B/10/35]_

@@ -1,12 +1,18 @@
 ---
-title: "21 Nimmo to Department of the Treasury"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5797
+doc_date: '1948-06-28'
+doc_num: 21
+doc_order: 21
+naa_refs:
+- naa_barcode: 635330
+  naa_control_symbol: 708/12 A
+  naa_series: A1838
+  reference: '[AA: A1838, 708/12A]'
+title: Nimmo to Department of the Treasury
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-06-28
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 21 Nimmo to Department of the Treasury
 
 Cablegram 2131 LONDON, 28 June 1948, 8.15 p.m.
 
@@ -28,10 +34,10 @@ Economist of [26th June contains] article entitled 'Dollar Shortage for Ever'. T
 
 On the other hand there is implied view of Economist that the causes of chronic dollar shortage were just below the surface in the inter war period and were masked by large American loans to Europe and South America, that the last war pushed the permanent shift in relationships a good bit further, that the gold reserves have gone and investment of income has almost gone and that South East Asia is no longer a dollar earner that it was because synthetic rubber plants and tin smelters have been constructed in the United States. 'If dollar shortage is likely to be permanent the Marshall Plan should be regarded as a transition to some different pattern of international economic relationships.'
 
-_
+ _
 
 1 Words in square brackets corrected from the London copy.
 
 _
 
-_ [AA: A1838, 708/12A]_
+ _[AA: A1838, 708/12A]_

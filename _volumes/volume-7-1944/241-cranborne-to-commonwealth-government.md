@@ -1,12 +1,17 @@
 ---
-title: "241 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2888
+doc_date: '1944-07-29'
+doc_num: 241
+doc_order: 241
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/832/1, ii]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-29
+vol_title: 'Volume 7: 1944'
 ---
-
-# 241 Cranborne to Commonwealth Government
 
 circular Cablegram D1082 LONDON, 29 July 1944, 11.55 p.m.
 
@@ -22,7 +27,7 @@ Civil Aviation 1. In my telegram of 18th July D.No. 1036 [2] last paragraph I me
 
 3\. We will keep you informed of any developments at Washington but, in the meantime, should be grateful for your very early comments on the above. If this suggestion should materialise we should regard the conference on the official level suggested in my telegram D.No. 1080 as in the nature of joint preparation between several Commonwealth Governments for the replies which they would make to the United States Government.
 
-_
+ _
 
 1 Document 240.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/832/1, ii]_
+ _[AA:A989, 43/735/832/1, ii]_

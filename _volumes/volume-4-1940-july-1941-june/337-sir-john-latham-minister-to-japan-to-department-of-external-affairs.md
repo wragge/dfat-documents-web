@@ -1,12 +1,17 @@
 ---
-title: "337 Sir John Latham, Minister to Japan, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1568
+doc_date: '1941-03-05'
+doc_num: 337
+doc_order: 337
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 185B, i]'
+title: Sir John Latham, Minister to Japan, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-05
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 337 Sir John Latham, Minister to Japan, to Department of External Affairs
 
 Cablegram 118 TOKYO, 5 March 1941, 7.40 p.m.
 
@@ -20,7 +25,7 @@ Japan will of course be influenced by the course of events in Europe. Should we 
 
 Accordingly I urge continuance of present United States tactics and of our reinforcements. But as regards the latter I repeat advice in my telegram No. 95 [4] regarding publicity. [I] [5] urge too that whilst adopting a firm attitude to Japan we should avoid anything in the nature of pin pricks or unnecessary provocation.
 
-_
+ _
 
 1 Dispatched 27 February. See file AA:A981, Japan 185B, i.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 185B, i]_
+ _[AA:A981, JAPAN 185B, i]_

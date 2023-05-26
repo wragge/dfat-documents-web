@@ -1,20 +1,27 @@
 ---
-title: "62 Submission to Willesee"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7901
+doc_date: '1974-12-06'
+doc_num: 62
+doc_order: 62
+naa_refs:
+- naa_barcode: 4151556
+  naa_control_symbol: 801/13/11/1 PART 4
+  naa_series: A10463
+  reference: '[NAA: A10463, 801113/11/1, iv]'
+title: Submission to Willesee
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-12-06
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 62 Submission to Willesee
 
 Canberra, 6 December 1974
 
 CONFIDENTIAL
 
-**Portuguese Timor**
+ **Portuguese Timor**
 
-In your absence there have been some developments of importance relating to Portuguese Timor.1 You will be aware that following on discussions with Ramos Horta a proposal has emerged from the Foreign Affairs and Defence Committee of Caucus for a joint Government-Opposition party to visit Portuguese Timor in January. I shall be sending you a note later today outlining the dangers the Department sees in this proposal. In addition, there has been Michael Richardson's report in _The Age_ that your comments on Mr Malik's recent remarks are the first public sign of a rift between Australia and Indonesia over the future of Portuguese Timor.1 If the Department is asked to comment on this report we shall say that we believe that whatever preferences they may have for the future of the territory all parties interested in Portuguese Timor are committed to respect the outcome of an internationally acceptable act of self-determination there. You will have seen Furlonger's report of his talk to Malik on this point.
+In your absence there have been some developments of importance relating to Portuguese Timor.[1](#f1) You will be aware that following on discussions with Ramos Horta a proposal has emerged from the Foreign Affairs and Defence Committee of Caucus for a joint Government-Opposition party to visit Portuguese Timor in January. I shall be sending you a note later today outlining the dangers the Department sees in this proposal. In addition, there has been Michael Richardson's report in _The Age_ that your comments on Mr Malik's recent remarks are the first public sign of a rift between Australia and Indonesia over the future of Portuguese Timor.[1](#f1) If the Department is asked to comment on this report we shall say that we believe that whatever preferences they may have for the future of the territory all parties interested in Portuguese Timor are committed to respect the outcome of an internationally acceptable act of self-determination there. You will have seen Furlonger's report of his talk to Malik on this point.
 
   2. Woolcott and other Departmental officers saw Horta over lunch yesterday. A record is being prepared but little new emerged except news of the proposal for a Parliamentary delegation to visit Portuguese Timor, news which Briot has subsequently confirmed to us. Horta is clearly intent on getting from us an unqualified commitment to self-determination in Portuguese Timor and is as vague as ever about his own intentions and future prospects in the territory.
   3. There are several aspects of the Portuguese Timor situation which require Ministerial guidance: the question of future Australian representation in Dili; what we should do about aid to Portuguese Timor; and how we should reconcile our stated preference for the association of Portuguese Timor with Indonesia and our commitment to self-determination. We are finalising a paper which analyses these matters in detail. In view of the importance of the subject matter we have sought to provide a comprehensive review of possible options.
@@ -33,9 +40,7 @@ First Assistant Secretary
 
 South-East Asia and PNG Division
 
-_ [NAA: A10463, 801113/11/1, iv]_
+ _[NAA: A10463, 801113/11/1, iv]_
 
   * 1 Willesee had been at a Colombo Plan conference in Singapore. This submission was described in a note by Feakes (9 December) as summarising 'the main issues raised for comment in the larger paper' (i.e. Document 67. See also Document 61).
   * 2 Malik had been reported as saying that he did not believe independence was a practical option for Portuguese Timor. Richardson's report of 6 December was based on an impromptu press conference Willesee had given in Singapore the previous day at which the Minister had reiterated Australia's commitment to an act of self-determination and had refused to rule out the possibility of an independent Portuguese Timor.
-
-

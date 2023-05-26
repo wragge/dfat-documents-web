@@ -1,12 +1,18 @@
 ---
-title: "160 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1914
+doc_date: '1941-12-05'
+doc_num: 160
+doc_order: 161
+naa_refs:
+- naa_barcode: 206151
+  naa_control_symbol: O41/1/2
+  naa_series: A1608
+  reference: '[AA : A1608, 0.41/1/2]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-05
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 160 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 769 [1] CANBERRA, 5 December 1941
 
@@ -18,7 +24,7 @@ Replying to your telegram M.416. [2] Proposed declaration of state of War Finlan
 
 (c) We see little reason why the desire to add one more to Finland's already numerous chances of retreat should result in Hungary and Roumania escaping a declaration. [7]
 
-_
+ _
 
 1 Repeated to the N.Z. Prime Minister as no. 515.
 
@@ -26,10 +32,10 @@ _
 
 3 Document 92.
 
-4 &amp; 5 See Document 93, note 4 6 Document 93.
+4  & 5 See Document 93, note 4 6 Document 93.
 
 7 On the same day Dr H. V. Evatt, Minister for External Affairs, drew the attention of S. M. Bruce, High Commissioner in the United Kingdom, to the dispatch of this cablegram and advised him that his previous comments (see Document 93, note 2) had greatly appealed to the War Cabinet and Advisory War Council and since receiving them the Commonwealth Govt 'had tried to preserve a firm and consistent attitude'. See cablegram 371 on file cited in note 2.
 
 _
 
-_ [AA : A1608, 0.41/1/2]_
+ _[AA : A1608, 0.41/1/2]_

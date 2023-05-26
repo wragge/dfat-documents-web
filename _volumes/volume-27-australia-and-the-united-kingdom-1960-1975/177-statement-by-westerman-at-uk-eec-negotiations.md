@@ -1,22 +1,25 @@
 ---
-title: "177 STATEMENT BY WESTERMAN AT UK-EEC NEGOTIATIONS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10042
+doc_date: '1962-04-26'
+doc_num: 177
+doc_order: 177
+naa_refs:
+- naa_barcode: 3286768
+  naa_control_symbol: EHEC2
+  naa_series: A10206
+  reference: '[NAA: A 10206, EHEC2]'
+title: STATEMENT BY WESTERMAN AT UK-EEC NEGOTIATIONS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-04-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 177 STATEMENT BY WESTERMAN AT UK-EEC NEGOTIATIONS
-
-NAA: A 10206, EHEC2
 
 Brussels, 26 April 1962
 
 ****
 
-Statement on Behalf of Australia to the Committee of Deputies of the United Kingdom/EEC Conference1
+Statement on Behalf of Australia to the Committee of Deputies of the United Kingdom/EEC Conference[1](#f1)
 
-_Introduction_
+ _Introduction_
 
 First of all, I wish to express to you and your Ministers the Australian Government’s appreciation of your invitation to address you. This enables us to supplement what our British friends have been saying and will in future be saying, by explaining directly and in our own way, the rights and benefits we now have in the United Kingdom and the vital issues at stake for Australia in the negotiations in which you are engaged, and by offering some suggestions on how we think our interests can best be preserved if the United Kingdom should join with you in the Community.
 
@@ -46,11 +49,11 @@ Despite her small population, Australia plays a big part in world trade and is v
 
 But our potential economic growth and our capacity to import, like those of all countries, are linked directly with our ability to export. 80 per cent of our current exports to the world comprise a limited range of raw or semi–processed materials and agricultural products-mostly temperate foodstuffs-many of the type produced within the present and prospective Common Market area. The balance consists of manufactures (and semi-processed goods) which, mainly because of existing preferences, have found and held small export markets despite disabilities flowing from producing primarily for a small domestic market.
 
-_What is ‘at risk’ for Australia_
+ _What is ‘at risk’ for Australia_
 
 On the basis of our average exports to Britain in the past few years, trade valued at about $370 million would be ‘at risk’ in one way or another if the United Kingdom joined the EEC, and if the Common Agricultural Policy (so far as we know it) and the Common External Tariff were applied without qualification to our trade. This trade, which I have described as being ‘at risk’, comprises all our export items with the exception of wool and a very few other basic raw materials on which the Common External Tariff is intended to be free. This $370 million represents 70 per cent of our exports to the United Kingdom and nearly 20 per cent of our total exports to all countries. But its significance is far greater than these figures would show since our trade ‘at risk’ represents some 45 per cent of our total exports to the world of the wide range of commodities the trade in which I have described as being ‘at risk’—that is, for which the conditions of entry into our major market would face changes—in some cases drastic changes—if the United Kingdom should join the Community without some special arrangements. As I will demonstrate later, for many of these commodities which are so critically dependent on the United Kingdom market for their major outlet, there are very few, if any, alternative markets to which we might turn in compensation for any losses sustained in the United Kingdom.
 
-_Australia’s Interest in the Negotiations_
+ _Australia’s Interest in the Negotiations_
 
 Australia’s interest in these negotiations derives from her position as a third country to whom the United Kingdom has obligations resulting from long history and conventions concluded prior to the entry into force of the Treaty of Rome.
 
@@ -60,14 +63,14 @@ The United Kingdom has said she cannot become a Member of the Community unless t
 
 Whether her requests in relation to the Commonwealth countries are reasonable and compatible with her membership of the Community is for the Community itself to decide, but I would hope today to contribute towards a decision by supplementing what the United Kingdom has put, or will be putting, to the Member States about the nature of our trading relationships, what our trading interests are and how our interest could be protected.
 
-_Some Relevant Provisions of the Rome Treaty_
+ _Some Relevant Provisions of the Rome Treaty_
 
 The Rome Treaty recognises, for example in Article 234, that a country wishing to join the Community may have prior obligations to third countries resulting from conventions concluded prior to membership.
 
 This Article says, in effect,
 
   * that prior obligations to third countries resulting from conventions shall not be affected by the provisions of the Treaty in so far as the obligations of such conventions are not incompatible with the Treaty, and
-  * _in so far as_ such obligations are incompatible, the incompatibility must be eliminated and Member States will co-operate to achieve this purpose.
+  *  _in so far as_ such obligations are incompatible, the incompatibility must be eliminated and Member States will co-operate to achieve this purpose.
 
 
 
@@ -75,7 +78,7 @@ It seems necessary, therefore, for the Community, in looking at the request of t
 
 The Australian trading rights in the United Kingdom market that Britain and ourselves wish to preserve can be loosely described as the ‘preference rights’ of various kinds which have developed from a long and close association between our two countries. Australia has progressed through all the stages from a collection of separate British colonies, then to six Separate States, and finally to an independent nation. Our commercial relationship has reflected this progress.
 
-[_matter omitted_]2
+[ _matter omitted_ ][2](#f2)
 
 I trust that this brief outline will demonstrate that the historically-based contractual arrangements between the United Kingdom and Australia give Australia rights in the United Kingdom market—rights which she has said she must protect—which fall within the meaning of Article 234 of the Rome Treaty, as ‘rights and obligations resulting from conventions concluded prior to the entry into force of the Rome Treaty.’
 
@@ -85,7 +88,7 @@ Of course, whether or not the United Kingdom’s application for Community membe
 
 This, then, brings me back to Article 234 of the Rome Treaty and the question of whether or not the rights and obligations I have outlined are compatible with the Rome Treaty and, if not, what steps would need to be taken to eliminate any incompatibility which may be found to exist.
 
-_What Criteria Must Arrangements Satisfy to be Compatible with the Letter or the Spirit of the Rome Treaty?_
+ _What Criteria Must Arrangements Satisfy to be Compatible with the Letter or the Spirit of the Rome Treaty?_
 
 To answer this question, we have very seriously examined the Rome Treaty—its text, its spirit, its objectives, its machinery, its institutions, and the accompanying arrangements—to see what criteria the preservation of our trading rights with the United Kingdom would need to meet to satisfy it.
 
@@ -121,7 +124,7 @@ Any arrangements by which the United Kingdom sought to preserve our rights and b
 
 And so I have set down the criteria which it seems to us any proposed arrangements for safeguarding our traditional rights must meet if, in terms of Article 234, they are to be compatible with the Rome Treaty.
 
-_Further Criteria_
+ _Further Criteria_
 
 In addition, any arrangements would need especially to take into account the reasonable needs of United Kingdom industries for protection in the new circumstances which her entry into the Community would bring about and where, for example, traditional forms of protection by subsidies may have to be changed.
 
@@ -153,7 +156,7 @@ I am putting it to you, however, that we would feel ourselves unreasonable and g
 
 Given the ability to contrive arrangements which will satisfy those criteria; given that the Member States wish to accept the United Kingdom into membership; given a genuine willingness to examine her request to carry out her obligations to Australia in harmony with the provisions of Article 234; and given—as Mr. McEwen has been assured by political leaders in the capitals of the Six—that real importance is attached to avoiding unnecessary damage to the whole basis of our trading development and our viability, our economic well-being and future growth, and our security and stability; given all these things—then we believe that the strengthening and greater cohesion of Europe will be able to go ahead without a corresponding (and perhaps greater) weakening of other countries like Australia whose growth and well-being is important in the Free World.
 
-_A General Formula or Framework_
+ _A General Formula or Framework_
 
 In looking for arrangements which would safeguard our interests and be compatible with the Rome Treaty and the GATT, we believe a general formula or framework is possible for application to the many commodities which make up our trade and is desirable to give both that consistency of approach and the degree of simplicity which is essential.
 
@@ -189,9 +192,9 @@ They have suggested—and we wish to emphasise the importance we attach to this�
 
 Whether or not preference quotas limited to sealed off quantities (comparable outlets) do in fact meet the criteria of the Rome Treaty can be considered in relation to the rights we hold in individual items of trade. To the extent that preference quotas would be inadequate—for technical reasons—or unsuitable because they would conflict with the criteria of the Rome Treaty, or would be inferior to other arrangements designed to achieve the same results, then it will be necessary to look for modifications to them or for completely different devices.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_Conclusion_
+ _Conclusion_
 
 This concludes what I want to say about the arrangements which we see as being necessary to protect our interests if the United Kingdom should join the Community.
 
@@ -236,3 +239,5 @@ Thank you, Gentlemen, for your courtesy and for your patient hearing. I hope tha
 1 This occasion represented the upshot of months of Australian lobbying in Britain and Europe for the right to participate directly in the negotiations. Despite the Australian expectation that it represented the first of several opportunities to put their case where relevant, it was to be their only appearance at the negotiating table, and there is little evidence that it had much influence on the outcome. The full statement runs to several hundred pages, with detailed commodity notes and solutions relating to specific items of trade. This extract documents the general outlines and principles that the Australians hoped the negotiators might adopt.
 
 2 Westerman provided here a short history of the Commonwealth preference system and 
+
+[NAA: A 10206, EHEC2]

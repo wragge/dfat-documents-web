@@ -1,12 +1,17 @@
 ---
-title: "45 Summary of Proceedings of Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 45
+doc_date: '1937-06-14'
+doc_num: 45
+doc_order: 45
+naa_refs:
+- naa_barcode: 232389
+  naa_control_symbol: '18'
+  naa_series: A2938
+  reference: '[FA : A2938, SUMMARY OF PROCEEDINGS]'
+title: Summary of Proceedings of Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-14
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 45 Summary of Proceedings of Imperial Conference
 
 Extract LONDON, 14 June 1937
 
@@ -42,7 +47,7 @@ The representatives of the several Governments concerned further had under revie
 
 Finally the Members of the Conference, while themselves firmly attached to the principles of democracy and to parliamentary forms of government, decided to register their view that differences of political creed should be no obstacle to friendly relations between Governments and countries, and that nothing would be more damaging to the hopes of international appeasement than the division, real or apparent, of the world into opposing groups.
 
-_
+ _
 
 1 U.K. Prime Minister, Stanley Baldwin. For his speech (not printed) See FA : Imp. Conf 1937, Meetings, E(37) 1.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [FA : A2938, SUMMARY OF PROCEEDINGS]_
+ _[FA : A2938, SUMMARY OF PROCEEDINGS]_

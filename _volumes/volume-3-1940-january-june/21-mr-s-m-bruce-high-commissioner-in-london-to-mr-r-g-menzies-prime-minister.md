@@ -1,12 +1,17 @@
 ---
-title: "21 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 787
+doc_date: '1940-01-16'
+doc_num: 21
+doc_order: 21
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-16
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 21 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 49 LONDON, 16 January 1940, 8.40 p.m.
 
@@ -26,7 +31,7 @@ Secretary of State for Foreign Affairs [2] agrees and is pressing for this view.
 
 BRUCE
 
-_
+ _
 
 1 See Document 20.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [NO ARCHIVE REFERENCE]_
+ _[NO ARCHIVE REFERENCE]_

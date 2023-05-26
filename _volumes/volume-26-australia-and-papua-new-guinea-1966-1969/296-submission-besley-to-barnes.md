@@ -1,13 +1,17 @@
 ---
-title: "296 Submission, Besley To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9804
+doc_date: '1969-07-21'
+doc_num: 296
+doc_order: 296
+naa_refs:
+- naa_barcode: 3118261
+  naa_control_symbol: 1969/3433
+  naa_series: A452
+  reference: '[NAA: A452, 1969/3433]'
+title: Submission, Besley To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-07-21
-barcode: 3118261
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 296 Submission, Besley To Barnes
 
 Canberra, 21 July 1969
 
@@ -15,11 +19,11 @@ Secret
 
 **PNG border contingency planning**
 
-[_matter omitted_]1
+[ _matter omitted_ ][1](#f1)
 
 Administration’s Border Contingency Plan
 
-5\. _Basis of the plan ... 2_
+5\. _Basis of the plan ...[2](#f2)_
 
 \- based on existing channels of control from Administrator’s Department to district headquarters and sub-districts;
 
@@ -81,11 +85,11 @@ To be informed they are on Australian Territory and must immediately return to W
 
 11\. _Remaining sections of plan ..._
 
-[_matter omitted_]3
+[ _matter omitted_ ][3](#f3)
 
 Plan PAXTON
 
-13\. .... Plan PAXTON is an outline plan only, to provide a formal basis for further planning by the Commander, PNG Command (who is designated ‘Commander, Joint Forces (Designate)’ under the Plan) for the provision of military assistance to the Administration, should such assistance be authorised by the Government, in connection with emergencies arising from the Act of Free Choice in West Irian. (It is understood that planning by the Commander, PNG Command, has been proceeding simultaneously with the production of Plan PAXTON.)4
+13\. .... Plan PAXTON is an outline plan only, to provide a formal basis for further planning by the Commander, PNG Command (who is designated ‘Commander, Joint Forces (Designate)’ under the Plan) for the provision of military assistance to the Administration, should such assistance be authorised by the Government, in connection with emergencies arising from the Act of Free Choice in West Irian. (It is understood that planning by the Commander, PNG Command, has been proceeding simultaneously with the production of Plan PAXTON.)[4](#f4)
 
 14\. Pages 2 to 7 of Plan PAXTON summarise or reproduce various sections of the Administration plan which are outlined at paragraphs 5 to 10 above. Pages 7 and 8 summarise the ‘friendly forces’—D.D.A. and police reserves, Navy, Army and Air Force—which are available in the Territory. Page 8 (para. 3) to page 13 relate to the execution of the Plan and provide that, apart from such logistic and communications assistance as can be provided under existing single service command arrangements, no military assistance is to be given until a request from the Administration has been received by this Department and a governmental decision to use Service resources has been made, upon which the Chiefs of Staffwould authorise implementation of the Plan ...
 
@@ -103,7 +107,7 @@ Plan PAXTON
 
 • patrols not to move out of Australian territory and aircraft not to violate West Irian air-space
 
-• naval officers commanding H.M.A.5 ships to request Indonesian or West Irian vessels found in Australian territorial waters to depart unless permissive residence is sought by a West Irianese vessel, in which case it is to be escorted to nearest TPNG port. Boarding party may be employed but as little force as necessary used so as to avoid loss of life or damage to vessel
+• naval officers commanding H.M.A.[5](#f5) ships to request Indonesian or West Irian vessels found in Australian territorial waters to depart unless permissive residence is sought by a West Irianese vessel, in which case it is to be escorted to nearest TPNG port. Boarding party may be employed but as little force as necessary used so as to avoid loss of life or damage to vessel
 
 • not envisaged that military commanders (either Army or Navy) will initiate any exchange of fire
 
@@ -119,13 +123,13 @@ Chiefs Of Staff Minute
 
 PNG Security Executive Committee
 
-[_matter omitted_]6
+[ _matter omitted_ ][6](#f6)
 
 19\. Organization of the PNG Security Executive Committee was modelled on the committee which it was planned to bring into operation in 1964 if civil/military operations had become necessary to deal with covert Indonesian aggression.
 
 Border Intelligence Arrangements
 
-20\. Following discussion in Canberra last week between the Chairman (J.I.C.),7 the Chairman (T.I.C.)8 (who is an Assistant Secretary in the Department of the Administrator) and an officer of this Department, it was agreed that until approximately the end of the third week in August a daily border situation report would be sent by signal by the Chairman (T.I.C.) to the Chairman (J.l.C.) and this Department summarising all relevant information available from all sources. These reports would be disseminated within the defence community by the Joint Intelligence Committee. In the event of any serious developments on the border such as further armed Indonesian intrusions, the daily SITREP would be supplemented by emergency ad hoc reports and assessments from the Territory Intelligence Committee.
+20\. Following discussion in Canberra last week between the Chairman (J.I.C.),[7](#f7) the Chairman (T.I.C.)[8](#f8) (who is an Assistant Secretary in the Department of the Administrator) and an officer of this Department, it was agreed that until approximately the end of the third week in August a daily border situation report would be sent by signal by the Chairman (T.I.C.) to the Chairman (J.l.C.) and this Department summarising all relevant information available from all sources. These reports would be disseminated within the defence community by the Joint Intelligence Committee. In the event of any serious developments on the border such as further armed Indonesian intrusions, the daily SITREP would be supplemented by emergency ad hoc reports and assessments from the Territory Intelligence Committee.
 
 Return Of Arms To West Irianese Nationalists
 
@@ -147,9 +151,9 @@ Recommendation
 
 (b) that you note Plan PAXTON and covering Chiefs of Staff Minute ...
 
-(c) that you approve the Chiefs of Staff Committee’s proposal that, in the event of armed services assistance to the Administration being approved by the Government, civil/military coordination be effected through the PNG Security Executive Committee ...9
+(c) that you approve the Chiefs of Staff Committee’s proposal that, in the event of armed services assistance to the Administration being approved by the Government, civil/military coordination be effected through the PNG Security Executive Committee ...[9](#f9)
 
-[ [NAA: A452, 1969/3433](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3118261) ]
+[NAA: A452, 1969/3433]
 
 1  Matter omitted outlines action taken following the interdepartmental meeting of August 1968 (Document 219). An Administration border contingency plan was made with the assistance of Territories and Defence. Defence thereafter provided a support plan, Plan Paxton—and comments on both Paxton and the Administration’s plan were made by the Chiefs of Staff. The Minister for Defence endorsed Plan Paxton ‘as a basis for further detailed planning by the Commander, PNG Command for military assistance to the Administration should this be required’. 
 
@@ -167,4 +171,4 @@ Recommendation
 
 8  B.B. Hayes. 
 
-9  Besley discussed the submission with Barnes and recorded that ‘[1] The Minister approved the plan and in doing so endorsed the view taken by External Affairs that arms should not be returned to West lrianese when they have been escorted back to the border. In connection with this the Administration’s view was fairly evenly divided with only a slight balance of opinion in favour of a return of arms—the plan could well have been framed the other way. [2] The Minister considered the pros and cons of referring the question of the return of arms to the A.E.C. but finally decided it would not be prudent to do so since in his view the Council would be likely to make a rather emotional decision. In any case he considers this properly a matter concerning external relations which constitutionally belongs to the Australian Government. [3] The Minister did however see some merit in the A.E.C. being informed in a general way of the concept of the plan but was conscious of the fact that to do so might raise security questions in which event he would not want to press the issue. He left it on the basis that the Department and the Administration would take a look at the possibility and see what if anything might be explained to the A.E.C: [4] My own view is that a general descriptive run down of the Administration’s plan but not Plan Paxton should be given to the Council and subject to any views which you may have I consider it would be appropriate to suggest this to the Administration leaving to them the final decision of what they actually tell the Council’ (minute, Besley to Warwick Smith, 21 July 1969, NAA: A452, 1969/3433). 
+9  Besley discussed the submission with Barnes and recorded that ‘[1] The Minister approved the plan and in doing so endorsed the view taken by External Affairs that arms should not be returned to West lrianese when they have been escorted back to the border. In connection with this the Administration’s view was fairly evenly divided with only a slight balance of opinion in favour of a return of arms—the plan could well have been framed the other way. [2] The Minister considered the pros and cons of referring the question of the return of arms to the A.E.C. but finally decided it would not be prudent to do so since in his view the Council would be likely to make a rather emotional decision. In any case he considers this properly a matter concerning external relations which constitutionally belongs to the Australian Government. [3] The Minister did however see some merit in the A.E.C. being informed in a general way of the concept of the plan but was conscious of the fact that to do so might raise security questions in which event he would not want to press the issue. He left it on the basis that the Department and the Administration would take a look at the possibility and see what if anything might be explained to the A.E.C: [4] My own view is that a general descriptive run down of the Administration’s plan but not Plan Paxton should be given to the Council and subject to any views which you may have I consider it would be appropriate to suggest this to the Administration leaving to them the final decision of what they actually tell the Council’ (minute, Besley to Warwick Smith, 21 July 1969, NAA: A452, 1969/3433).

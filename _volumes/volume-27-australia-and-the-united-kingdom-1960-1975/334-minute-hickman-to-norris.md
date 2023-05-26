@@ -1,20 +1,23 @@
 ---
-title: "334 MINUTE, HICKMAN TO NORRIS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10200
+doc_date: '1972-08-22'
+doc_num: 334
+doc_order: 334
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 68/442]'
+title: MINUTE, HICKMAN TO NORRIS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-08-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 334 MINUTE, HICKMAN TO NORRIS
-
-UKNA: FCO 68/442
 
 London, 22 August 1972
 
 Confidential
 
-**Immigration from the ‘Old’ Commonwealth**
+ **Immigration from the ‘Old’ Commonwealth**
 
 1\. When we recently discussed the question of streaming of ‘old’ and EEC citizens entering this country, you expressed concern about some possible solutions of that problem (and about the substantive new immigration rules). [...]
 
@@ -28,6 +31,8 @@ Confidential
 
 6\. The need to accept the free movement of labour clauses of the Treaty of Rome was clearly seen and accepted in its own context. Its potential implications for our labour market, and thus for the level of Commonwealth work permits in future, were no doubt recognised. But it is only recently that attention has been focussed on the fact that one of the main justifications of our policy will, from next January, be hardly tenable. Instead of the Commonwealth generally receiving ‘most favoured nation’ treatment in immigration matters, all Commonwealth citizens will now be, and feel themselves, discriminated against by comparison with EEC nationals. Despite our claims to the contrary the ‘new’ Commonwealth has no doubt long felt discriminated against on racial grounds. The ‘old’ Commonwealth will now find themselves in fact discriminated against for the first time on grounds of national (indeed racial) origin. People of British origin will be differently, and in some ways worse, treated than Germans et al. Their resentment will be increased if the discrimination is openly visible at the entry points. They will feel, with a good deal of justice, that our policy is hypocritical. We can also expect to be accused of having thrown non-discrimination to the winds: and we shall have no logical, or even colourable, defence.
 
-_Conclusion_
+ _Conclusion_
 
 7\. We have insisted that apparent discrimination against citizens of the ‘old’ Commonwealth at points of entry should be avoided and will continue to press this point in the correspondence between Ministers about ‘streaming’. There seems to be no prospect, short of new legislation, of avoiding the element of discrimination, particularly in relation to employment, which will exist from the date of Accession. I fear I can see no other means of countering inevitable, and in my view justifiable, criticism from the ‘old’ Commonwealth. I suggest, however, that we should at least ensure that Ministers realise in advance the situation which will exist next year. I have discussed this with Mr Downing who tells me that there will be an opportunity to do this when the regulations under the 1971 Act have to be tabled early in the next sessions of Parliament. You may think, however, that an earlier opportunity should be found.
+
+[UKNA: FCO 68/442]

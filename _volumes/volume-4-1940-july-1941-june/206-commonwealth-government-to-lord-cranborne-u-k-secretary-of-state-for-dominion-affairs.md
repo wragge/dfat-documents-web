@@ -1,12 +1,18 @@
 ---
-title: "206 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1437
+doc_date: '1940-11-24'
+doc_num: 206
+doc_order: 206
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.9248]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-24
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 206 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 611 24 November 1940,
 
@@ -22,7 +28,7 @@ If you agree with this proposal it is suggested you advise the High Commissioner
 
 You might consider it advisable to inform the United States Government of the proposal and of our attitude.
 
-_
+ _
 
 1 Masatoshi Akiyama.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.9248]_
+ _[AA:A3196, 1940, 0.9248]_

@@ -1,14 +1,19 @@
 ---
-title: "434 Kirby to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4618
+doc_date: '1947-11-24'
+doc_num: 434
+doc_order: 434
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1947, 1.23029]'
+title: Kirby to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-11-24
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
 
-# 434 Kirby to Burton
-
-## Cablegram [K1] BATAVIA, 24 November 1947, 5 p.m.
+Cablegram [K1] BATAVIA, 24 November 1947, 5 p.m.
 
 PART THREE [1]
 
@@ -40,7 +45,7 @@ PART THREE [1]
 
 14\. Could you please hasten urgently the despatch of Paludrine Tablets.
 
-_
+ _
 
 1 Parts I and II of cablegram K1 are given as Document 433.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA:A3195, 1947, 1.23029]_
+ _[AA:A3195, 1947, 1.23029]_

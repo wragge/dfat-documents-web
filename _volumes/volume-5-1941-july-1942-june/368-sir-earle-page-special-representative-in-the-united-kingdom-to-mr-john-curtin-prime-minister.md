@@ -1,12 +1,18 @@
 ---
-title: "368 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2122
+doc_date: '1942-02-24'
+doc_num: 368
+doc_order: 369
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.7053]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-24
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 368 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 1637 LONDON, 24 February 1942, 12.52 a.m.
 
@@ -24,7 +30,7 @@ Further to my telegram 1613 [1] the Prime Minister [2] has informed me that he i
 
 PAGE
 
-_
+ _
 
 1 Document 365.
 
@@ -48,4 +54,4 @@ See Australian War Memorial: Page collection, Box 118A, File no.
 
 _
 
-_ [AA:A3195, 1942, 1.7053]_
+ _[AA:A3195, 1942, 1.7053]_

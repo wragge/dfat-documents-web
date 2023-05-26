@@ -1,12 +1,18 @@
 ---
-title: "163 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 500
+doc_date: '1939-08-29'
+doc_num: 163
+doc_order: 163
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G.
+  Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-29
+vol_title: 'Volume 2: 1939'
 ---
-
-# 163 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram B295 LONDON, 29 August 1939, 12.53 p.m.
 
@@ -22,7 +28,7 @@ Following for Prime Minister:-
 
 3\. It is specially desired extreme secrecy should be observed with regard to this telegram.
 
-_
+ _
 
 1 Document 161.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

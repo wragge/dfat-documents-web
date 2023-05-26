@@ -1,14 +1,19 @@
 ---
-title: "219 Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce"
-volume: "Volume 1: 1937-38"
-doc_id: 218
+doc_date: '1938-06-22'
+doc_num: 219
+doc_order: 218
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL : PAGE 758]'
+title: Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-06-22
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 219 Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce
-
-## Cablegram unnumbered 22 June 1938 Following letter dated June 22nd,
+Cablegram unnumbered 22 June 1938 Following letter dated June 22nd,
 
 'With reference to your further letter of June 14th 1938 [2] on the subject of export of iron ore from Australia, I have the honour to inform you that the views of your Government in this regard have received fullest consideration of the Commonwealth Government, but that it is regretted that decision to prohibit exportation of iron ore from Australia as from July 1st next cannot be varied except to extent referred to in paragraph 9 of this letter.
 
@@ -32,7 +37,7 @@ doc_date: 1938-06-22
 
 LYONS
 
-_
+ _
 
 1 Torao Wakamatsu.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [ANL : PAGE 758]_
+ _[ANL : PAGE 758]_

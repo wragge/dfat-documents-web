@@ -1,12 +1,24 @@
 ---
-title: "133 Department of External Affairs to Mr B. C. Ballard, Official Representative in New Caledonia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1364
+doc_date: '1940-09-23'
+doc_num: 133
+doc_order: 133
+naa_refs:
+- naa_barcode: 179223
+  naa_control_symbol: NEW C 1 PART 4
+  naa_series: A981
+  reference: '[AA:A981, NEW CALEDONIA 1, iv]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[This document has been corrected from a slightly revised version contained
+    in teleprinter message 1918 of 23 September on file AA:A981, New Caledonia 1,
+    iv.]'
+title: Department of External Affairs to Mr B. C. Ballard, Official Representative
+  in New Caledonia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-23
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 133 Department of External Affairs to Mr B. C. Ballard, Official Representative in New Caledonia
 
 Cablegram 23 23 September 1940,
 
@@ -28,7 +40,7 @@ It is requested therefore that you interview immediately Sautot [2] and place be
 
 (5) You are to inform Sautot that if he asks for the protection mentioned in paragraph 4, the Captain of the Adelaide will be instructed immediately to give it. [4]
 
-_
+ _
 
 1 On file AA:A981, New Caledonia 37. It transmitted orders from General Charles de Gaulle, leader of the Free French movement, that Denis (former Governor and military commander), de Quievrecourt (commanding officer of the Vichy sloop Dumont d'Urville) and all other dangerous opponents of the Free French movement should be interned or deported.
 
@@ -40,4 +52,4 @@ _
 
 _
 
-_ [AA:A981, NEW CALEDONIA 1, iv]_
+ _[AA:A981, NEW CALEDONIA 1, iv]_

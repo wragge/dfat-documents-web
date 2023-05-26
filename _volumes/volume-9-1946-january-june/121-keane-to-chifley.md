@@ -1,12 +1,17 @@
 ---
-title: "121 Keane to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3633
+doc_date: '1946-03-08'
+doc_num: 121
+doc_order: 121
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.6084/3/6109/5]'
+title: Keane to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-08
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 121 Keane to Chifley
 
 Cablegram unnumbered WASHINGTON, 8 March 1946, 11.43 p.m.
 
@@ -52,7 +57,7 @@ Collado in particular could not see how we could become a member of Bretton Wood
 
 I discussed this aspect with Melville before he left for Savannah and he stated that he would endeavour to obtain a deferment of membership date for a period of six months.
 
-_
+ _
 
 1 Keane reached Washington in February to lead negotiations on the settlement of Lend-Lease.
 
@@ -76,4 +81,4 @@ officials had proposed a 'book keeping approach', and requested inventory of goo
 
 _
 
-_ [AA:A3195, 1946, 1.6084/3/6109/5]_
+ _[AA:A3195, 1946, 1.6084/3/6109/5]_

@@ -1,14 +1,17 @@
 ---
-title: "186 CABLEGRAM, MENZIES TO MCEWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10051
+doc_date: '1962-06-19'
+doc_num: 186
+doc_order: 186
+naa_refs:
+- naa_barcode: 584003
+  naa_control_symbol: 727/4/1/4 PART 2
+  naa_series: A1838
+  reference: '[NAA:A1838, 727/4/1/4/ PART2]'
+title: CABLEGRAM, MENZIES TO MCEWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-06-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 186 CABLEGRAM, MENZIES TO MCEWEN
-
-NAA:A1838, 727/4/1/4/ PART2
 
 Australian Embassy, Washington, 19 June 1962
 
@@ -26,7 +29,7 @@ I have had some very good talks here—in particular I had a long and, I think, 
 
 6\. During today we are trying to hammer out a joint statement to be made by the President and myself. He seemed quite keen on this. Indeed, his whole attitude is most friendly. If time permits l will cable you the draft for your comments. If the clock is against me I will act independently.
 
-NOTES ON DISCUSSION WITH MR BALL2 (MONDAY—18TH JUNE) TO BE READ lN CONJUNCTION WITH CABLE 1614—MENZIES TO MCEWEN
+NOTES ON DISCUSSION WITH MR BALL[2](#f2) (MONDAY—18TH JUNE) TO BE READ lN CONJUNCTION WITH CABLE 1614—MENZIES TO MCEWEN
 
 The following is not a complete account, but a record of leading observations or responses made by Mr Ball in the course of the meeting.
 
@@ -36,7 +39,7 @@ The following is not a complete account, but a record of leading observations or
 
 3\. The Prime Minister said that Australia was looking for a pragmatic approach. We did not wish to get caught up in arguments about words. He would hope that we could take it that both countries wanted not to conflict in theory but union in practice. Mr Ball said that he entirely agreed, and that we ought not to be carrying on discussions from behind doctrinaire barriers.
 
-4\. The suggestion made earlier at the meeting with the President, concerning technical discussions, was mentioned. The Prime Minister said that we would try to make Dr Westerman available. Mr Ball and his officials said that they agreed very much that Dr Westerman’s personal presence would be valuable. The officials could refine the technical matters for the Governments to look at.3
+4\. The suggestion made earlier at the meeting with the President, concerning technical discussions, was mentioned. The Prime Minister said that we would try to make Dr Westerman available. Mr Ball and his officials said that they agreed very much that Dr Westerman’s personal presence would be valuable. The officials could refine the technical matters for the Governments to look at.[3](#f3)
 
 5\. Mr Ball said that the United States’ position is that they would regard it as a catastrophe if the United Kingdom application to join Europe were to fail. This is in effect the third recent attempt at union with Europe in one form or other. If it does not succeed, the break will be such that it will be difficult for a long time to put all the pieces back into place. But he added that, having said this, it is also the United States’ position that it would be equally catastrophic if the British application succeeded at such cost to the Commonwealth that disruption in that quarter was precipitated. He believed that the line to be taken was the one the Prime Minister had been mentioning, i.e. to avoid dogmatic disputes. He added ‘it will be dereliction on our part if we do not do this’.
 
@@ -45,3 +48,5 @@ The following is not a complete account, but a record of leading observations or
 2 Compiled by Bunting.
 
 3 See Document 196.
+
+[NAA:A1838, 727/4/1/4/ PART2]

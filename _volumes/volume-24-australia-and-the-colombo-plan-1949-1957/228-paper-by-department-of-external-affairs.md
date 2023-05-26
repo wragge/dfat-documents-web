@@ -1,0 +1,34 @@
+---
+doc_date: '1952-03-27'
+doc_num: 228
+doc_order: 228
+naa_refs:
+- naa_barcode: 446045
+  naa_control_symbol: 3004/11 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 3004/11 part 1]'
+title: Paper by Department of External Affairs
+vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
+vol_id: 24
+vol_title: 'Volume 24: Australia and the Colombo Plan, 1949-1957'
+---
+
+Canberra, 27 March 1952
+
+The main objection to the Colombo Plan is that on its economic development side it will not for some time be able to do what it set out to do, give the 'opportunity to less economically developed areas of the world to raise themselves to the standard of living enjoyed by the countries of the Western world'. This fact has now been accepted by the West, and perhaps by some Asian officials, but whether it is properly understood—and the reasons for it—by the ordinary Asian is another matter. The latter is likely to suffer considerable disillusionment, if he has heard about the Plan, when he sees what little it achieves, in terms of Asian need, and how thin the chances are that it will bring about, within a reasonable time, real development and capital investment, as opposed to an occasional first aid operation (unless, of course, Western rearmament including Australia's, is scaled down, or greater sacrifices are made directly for the Asian peoples by the more developed countries). Emphasis on developmental aspects for propaganda purposes is likely therefore to return to plague the inventor.
+
+On the other hand, nothing but good can come from the technical assistance programme and the direct personal contacts established in Australia or the recipient countries through supplying or training technicians. The propaganda here is self-developing and self- sustaining. It would be a good thing if these two aspects could be separated.
+
+If we are to continue with capital assistance, the suggestion that Australia's name should be directly associated with some definite developmental project is an excellent one, which would greatly appeal to the Treasury mind. Such an association would be a solid asset far outlasting the memory of an occasional handful of wheat. This possibility would be worth very careful examination.
+
+From a propaganda point of view, it seems unwise to continue to concentrate on the menace of Communism, rather than the need for a humanitarian attack on poverty, even though we have explained that latter is only being postponed until we are strong enough to contain the Soviet armies. The old confusion between communism or Stalinism, the religion, the finely organised propaganda racket, and the military intentions of the Soviet state, seems to lead to an emphasis on the Asian masses as intellectual cannon fodder (they are not of course at the moment in a position to be organised as physical cannon fodder, as [perhaps][2](#f2) are the West Europeans). The notion that our main object is to protect ourselves from the physical threat of communism by inoculating them against its ideological poison, is one that we should keep to ourselves,—apart altogether from whether anything short of the all out methods of Soviet communism is likely to stir the Asian masses, who have as little notion of Western democratic philosophy and procedures as they have of Marxism.
+
+It might impress the Treasury to point out that the money we have already spent will tend to be wasted unless it can be followed up with another dose—in fact, an even larger dose, in monetary terms, would be necessary next year to maintain the same level of assistance. It would be absolutely fatal from a propaganda point of view to cut down on a figure already extremely low in relation to total need. This would destroy the last vestige of hope that the Colombo Plan would really come to anything. [And we can't afford to wait, either.]
+
+Probably the most convincing argument we could put to the Treasury would, as suggested, be the hope that greater efforts on our part would impress the U.S., and it might be worth while taking some soundings on this in Washington possibly bringing the U.K. into it. The present moment when the U.S. Administration's restraint in the Far East is coming under fire from both leading Democrats and Republicans might be a good time to raise the question—before foreign policy gets any further mixed up with presidential election issues.
+
+[NAA: A1838, 3004/11 part 1]
+
+1 Author unknown but presumably written by a member of the Department in response to Arthur Tange's paper of 19 March 1952 (see Document 225).
+
+2 Words in square brackets added by hand.

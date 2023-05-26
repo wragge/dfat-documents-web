@@ -1,14 +1,17 @@
 ---
-title: "38 LETTER, GRANDY TO HEAD"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9904
+doc_date: '1965-09-21'
+doc_num: 38
+doc_order: 38
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DEFE 25/105]'
+title: LETTER, GRANDY TO HEAD
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-09-21
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 38 LETTER, GRANDY TO HEAD
-
-UKNA: DEFE 25/105
 
 Singapore, 21 September 1965
 
@@ -26,8 +29,10 @@ In other words, there would be a great hullabaloo—none of it to our advantage.
 
 Therefore, until we are absolutely certain what we are going to do, I believe we can afford to keep the locals guessing. I fully recognise the need to renegotiate the Defence Agreement and that separation has provided us with an opportunity to do this; also we would be very silly to let the locals think that they have got us on the hook in that as long as Confrontation lasts they have got their defence for free and if and when it is over they can chuck us out. I recognise these aspects and their importance. Even so, I don’t think they invalidate my point that we should keep mum until we are quite firm as to what we are going to do (not just what we think we’d like to do).
 
-I spoke on these lines to the Chiefs of Staff and, separately, I told Dick Hull2 that I thought you thought the same as me with regard to the importance of not showing our hand at this time. I now think, as a result of our talk this morning, that I may not have accurately reflected your view. If this is so, I must of course put this right and will write to him.
+I spoke on these lines to the Chiefs of Staff and, separately, I told Dick Hull[2](#f2) that I thought you thought the same as me with regard to the importance of not showing our hand at this time. I now think, as a result of our talk this morning, that I may not have accurately reflected your view. If this is so, I must of course put this right and will write to him.
 
 1 Air Chief Marshal Sir J. Grandy, UK Commander-in-Chief, Far East. 
 
 2 Sir R. Hull, UK Chief of Defence Staff, 1965-67. Grandy sent Hull a copy of his letter to Head on 28 September 1965.
+
+[UKNA: DEFE 25/105]

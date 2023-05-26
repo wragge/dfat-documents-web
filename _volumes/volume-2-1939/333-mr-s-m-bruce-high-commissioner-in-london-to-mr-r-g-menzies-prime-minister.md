@@ -1,12 +1,17 @@
 ---
-title: "333 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 670
+doc_date: '1939-11-08'
+doc_num: 333
+doc_order: 333
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-08
+vol_title: 'Volume 2: 1939'
 ---
-
-# 333 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 628 LONDON, 8 November 1939, 6.30 p.m.
 
@@ -28,8 +33,8 @@ In my view mixture of (1) and (3) probably right. (2) is unlikely as improbable 
 
 BRUCE
 
-_
+ _
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

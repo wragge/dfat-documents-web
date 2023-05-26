@@ -1,12 +1,18 @@
 ---
-title: "230 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1461
+doc_date: '1940-12-18'
+doc_num: 230
+doc_order: 230
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.10168]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-12-18
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 230 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 653 18 December 1940,
 
@@ -22,7 +28,7 @@ In meantime, we are negotiating with Inco for sale of as much nickel matte as po
 
 In this connection question has already been asked us by Japanese Consul-General [5] if Australia has requested Sautot to prevent the supply of raw materials from New Caledonia going to Japan. [6]
 
-_
+ _
 
 1 Dispatched 13 December (AA:A3195, 1940, 1.11880).
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.10168]_
+ _[AA:A3196, 1940, 0.10168]_

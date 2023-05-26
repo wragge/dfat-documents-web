@@ -1,14 +1,19 @@
 ---
-title: "66 Minute 2(Pm) Of Prime Minister's Committee Of Cabinet"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7671
+doc_date: '1954-08-17'
+doc_num: 66
+doc_order: 66
+naa_refs:
+- naa_barcode: 4678804
+  naa_control_symbol: '30'
+  naa_series: A4906
+  reference: '[AA : A4906/XMI, VOLUME 1]'
+title: Minute 2(Pm) Of Prime Minister's Committee Of Cabinet
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-08-17
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 66 Minute 2(Pm) Of Prime Minister's Committee Of Cabinet
-
-## 17th August, 1954
+17th August, 1954
 
 Submission No. 30-Australian Policy Towards Japan Broadly the discussion was directed to fundamental policy and the detailed list of matters outstanding on page 4 of the submission were only referred to as incidental to the discussion of policy principles. However, for the sake of completeness, this minute contains a reference to the views expressed on individual matters.
 
@@ -90,10 +95,10 @@ Japanese Activity in New Guinea:
 
 The general feeling was that this was most reprehensible and could not be tolerated.
 
-_
+ _
 
 1 D.M. Cleland 2 Article 16 of the Peace Treaty with Japan provided for transfer to the International Red Cross of Japanese assets in countries which were neutral or at war with any of the Allied Powers. The proceeds were to be distributed for the benefit of former prisoners of war and their families.
 
 _
 
-_ [AA : A4906/XMI, VOLUME 1]_
+ _[AA : A4906/XMI, VOLUME 1]_

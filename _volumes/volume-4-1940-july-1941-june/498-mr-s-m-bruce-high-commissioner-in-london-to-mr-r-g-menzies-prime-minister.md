@@ -1,14 +1,19 @@
 ---
-title: "498 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1729
+doc_date: '1941-06-11'
+doc_num: 498
+doc_order: 498
+naa_refs:
+- naa_barcode: 278886
+  naa_control_symbol: '24'
+  naa_series: A2937
+  reference: '[AA: A2937, CONSULS (YUGOSLAVIA)]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-11
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 498 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram 425 LONDON, 11 June 1941
+Cablegram 425 LONDON, 11 June 1941
 
 FOR PRIME MINISTER
 
@@ -22,7 +27,7 @@ I told M. Soubbotitch that I would put his Government's request before you. [1]
 
 BRUCE
 
-_
+ _
 
 1 The Commonwealth Govt informed Bruce on 14 June that it would welcome the appointment of a Yugoslav Consul-General de carriere.
 
@@ -30,4 +35,4 @@ See cablegram 264 on file AA: A2937, Consuls (Yugoslavia).
 
 _
 
-_ [AA: A2937, CONSULS (YUGOSLAVIA)]_
+ _[AA: A2937, CONSULS (YUGOSLAVIA)]_

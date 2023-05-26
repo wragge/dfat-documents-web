@@ -1,12 +1,20 @@
 ---
-title: "9 Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8879
+doc_date: '1977-09-02'
+doc_num: 9
+doc_order: 9
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Ministry of Foreign Affairs to New Zealand High Commission in
+  Canberra
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1977-09-02
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 9 Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra
 
 Wellington, 2 September 1977
 
@@ -29,7 +37,7 @@ Herewith first draft of a CEC paper for your information and reaction. We would 
     * the Australian Cabinet direction to include New Zealand goods within global quota restriction in the absence of any special NAFTA arrangement being negotiated
     * a tendency to look for a 1:1 basis in any such arrangements rather than the 1:4 basis (broadly reflecting market sizes) which were traditional previously
     * criticism of the effects of New Zealand's import licensing system on Australian trade and an insistence on special licensing provision for Australian goods as a prerequisite to the maintenance of any preferred provision on the Australian market
-    * an apparent reluctance to progress the NAFTA by the addition of further goods of export interest to New Zealand to Schedule A 1 
+    * an apparent reluctance to progress the NAFTA by the addition of further goods of export interest to New Zealand to Schedule A [1 ](#f1)
     * a harder line attitude on the balance of advantage in Article 3:7 and Schedule B arrangements
     * a hard negotiation on a more enduring preference agreement and insistence that the present imbalance in the interim arrangement (whereby Australia gave New Zealand a margin of 15 per cent in the protected sector in exchange for a reciprocal 10 per cent) be abandoned.
   8. This policy derives from the immediate sectoral difficulties with which Australia is faced. However in the light of the general movement in Australian policies reluctance to find special accommodation for New Zealand could have longer term implications which are more important and which underscore the need for a fundamental reappraisal of the direction of the trans-Tasman relationship.
@@ -37,7 +45,7 @@ Herewith first draft of a CEC paper for your information and reaction. We would 
 
 ## Comment
 
-  10. In 1975 a comprehensive review was made of the NAFTA which culminated in the decision to extend the agreement for a further ten years. Although the _NAFTA _had since 1966 provided an umbrella for the development of trade, the review highlighted a number of deficiencies. These included the very little progress that had been achieved since 1966 in adding additional goods to Schedule A and the inconsiderable impact which the _NAFTA _has had on the structure of industry in the member states. Officials concluded that a positive effort would be required by Government if the _NAFTA _was to optimise its benefits and this led in early 1976 to the New Zealand offer to place all goods on Schedule A except for a limited number of particularly sensitive items. Unfortunately, this offer was untimely relative to Australia's position.
+  10. In 1975 a comprehensive review was made of the NAFTA which culminated in the decision to extend the agreement for a further ten years. Although the _NAFTA_ had since 1966 provided an umbrella for the development of trade, the review highlighted a number of deficiencies. These included the very little progress that had been achieved since 1966 in adding additional goods to Schedule A and the inconsiderable impact which the _NAFTA_ has had on the structure of industry in the member states. Officials concluded that a positive effort would be required by Government if the _NAFTA_ was to optimise its benefits and this led in early 1976 to the New Zealand offer to place all goods on Schedule A except for a limited number of particularly sensitive items. Unfortunately, this offer was untimely relative to Australia's position.
   11. New Zealand's trade objectives are to maintain, and if possible extend, our preferential position in the Australian market which for the foreseeable future will remain critical to expansion in forest products and manufactured exports. It now seems, however, that realisation of this objective will require focus on wider economic issues.
   12. Much is already known of Australian concerns relating to present New Zealand policies. The major stumbling block to liberalisation in Australian eyes is New Zealand's import licensing system. Others include concern at the position of advantage enjoyed by New Zealand exports through export tax incentives and our ability to acquire some raw materials and other industrial inputs from third countries at more advantageous terms than Australian counterparts. This is because of protection accorded to Australian producers of such inputs.
   13. Interestingly, it is in this latter context that some thoughts have been voiced informally as to the long term possibility of a customs union. Such a union would envisage not only a free trade area between the two countries but common protective policies against third country imports. Conceivably, a form of customs union could be achieved by adjusting differences in tariff structures thus placing industry on an equal basis as regards imported costs. However, a full customs union having the widest economic consequence would also envisage similar policies of quantitative restrictions. Both these adjustments could cause New Zealand difficulties.
@@ -57,10 +65,10 @@ Herewith first draft of a CEC paper for your information and reaction. We would 
 ## Recommendation
 
   19. It is recommended that the Committee: 
-    1. _Agree _that the question of developing a wider economic relationship with Australia be explored.
-    2. _Concur _with the outline of a work programme in this respect set out in paragraph 17.
-    3. _Note _that this will involve a number of departments with functions touching on elements that might be influenced by such a relationship and _direct _that such departments participate in the study.
-    4. _Approve _that the Minister of Overseas Trade send a suitable low keyed letter to (Senator Cotton/Mr Anthony) expressing New Zealand's concern to optimise possible scope for development of the area market. And suggesting that officials cooperate where desirable.'2 
+    1. _Agree_ that the question of developing a wider economic relationship with Australia be explored.
+    2.  _Concur_ with the outline of a work programme in this respect set out in paragraph 17.
+    3.  _Note_ that this will involve a number of departments with functions touching on elements that might be influenced by such a relationship and _direct_ that such departments participate in the study.
+    4.  _Approve_ that the Minister of Overseas Trade send a suitable low keyed letter to (Senator Cotton/Mr Anthony) expressing New Zealand's concern to optimise possible scope for development of the area market. And suggesting that officials cooperate where desirable.'[2 ](#f2)
 
 
 
@@ -68,5 +76,3 @@ Herewith first draft of a CEC paper for your information and reaction. We would 
 
   * 1 Schedule A listed items to be traded duty free between the two countries.
   * 2 Francis's reply indicated strong support for studies along the lines indicated, but expressed some reservations about the likelihood that Australian officials would be willing to focus on such an exercise at that particular economic juncture.
-
-

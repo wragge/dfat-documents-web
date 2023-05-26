@@ -1,12 +1,17 @@
 ---
-title: "226 Chifley to MacArthur"
-volume: "Volume 8: 1945"
-doc_id: 3257
+doc_date: '1945-08-31'
+doc_num: 226
+doc_order: 226
+naa_refs:
+- naa_barcode: 273923
+  naa_control_symbol: SPTS 1/3
+  naa_series: A6494
+  reference: '[AA : A6494 T1, SPTS/1/3]'
+title: Chifley to MacArthur
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-31
+vol_title: 'Volume 8: 1945'
 ---
-
-# 226 Chifley to MacArthur
 
 Message CAB302 CANBERRA, 31 August 1945
 
@@ -26,7 +31,7 @@ Royal Australian Air Force - Air Board.
 
 The Commonwealth Government assumes that this arrangement is for purely military purposes, will be strictly limited in duration, and is without prejudice to our ultimate arrangements for the establishment of civil control. [4]
 
-_
+ _
 
 1 On file AA : A6494 T1, SPTS/1/3.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA : A6494 T1, SPTS/1/3]_
+ _[AA : A6494 T1, SPTS/1/3]_

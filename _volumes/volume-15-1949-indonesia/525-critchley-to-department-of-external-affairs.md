@@ -1,12 +1,18 @@
 ---
-title: "525 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6694
+doc_date: '1949-11-02'
+doc_num: 525
+doc_order: 525
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3094
+  reference: '[AA : A3094/1, 2/1]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-11-02
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 525 Critchley to Department of External Affairs
 
 Cablegram C35 THE HAGUE, 2 November 1949, 12.40 p.m.
 
@@ -36,7 +42,7 @@ V. The agreements referred to under II will come into force at the moment of the
 
 VI. The UNCI or another United Nations agency shall observe in Indonesia the implementation of the agreements reached at the round table conference.
 
-_
+ _
 
 1 See Documents 22, 23 and 24 in Volume XIII.
 
@@ -44,4 +50,4 @@ _
 
 _
 
-_ [AA : A3094/1, 2/1]_
+ _[AA : A3094/1, 2/1]_

@@ -1,12 +1,17 @@
 ---
-title: "36 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2327
+doc_date: '1942-09-01'
+doc_num: 36
+doc_order: 36
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1942, 1.34967]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-01
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 36 Bruce to Curtin
 
 Cablegram 145[A] LONDON, 1 September 1942, 11.35 p.m.
 
@@ -32,7 +37,7 @@ Please let me have your views as soon as possible.
 
 BRUCE
 
-_
+ _
 
 1 Documents 27-8.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [FA:A3195, 1942, 1.34967]_
+ _[FA:A3195, 1942, 1.34967]_

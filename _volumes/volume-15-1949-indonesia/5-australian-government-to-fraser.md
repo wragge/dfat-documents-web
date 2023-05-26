@@ -1,12 +1,18 @@
 ---
-title: "5 Australian Government to Fraser"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6174
+doc_date: '1949-01-03'
+doc_num: 5
+doc_order: 5
+naa_refs:
+- naa_barcode: 140109
+  naa_control_symbol: 401/3/1/1 PART 6
+  naa_series: A1838
+  reference: '[AA : A1838, 401/3/1/1, xi]'
+title: Australian Government to Fraser
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-03
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 5 Australian Government to Fraser
 
 Cablegram 1 CANBERRA, 3 January 1949, 10.15 a.m.
 
@@ -18,8 +24,8 @@ Our presence along with yours could probably ensure constructive action and avoi
 
 No final decision is taken but would be glad of your immediate comments.
 
-_
+ _
 
 _
 
-_ [AA : A1838, 401/3/1/1, xi]_
+ _[AA : A1838, 401/3/1/1, xi]_

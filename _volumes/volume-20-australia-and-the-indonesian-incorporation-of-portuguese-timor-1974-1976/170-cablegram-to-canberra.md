@@ -1,12 +1,19 @@
 ---
-title: "170 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8008
+doc_date: '1975-08-18'
+doc_num: 170
+doc_order: 169
+naa_refs:
+- naa_barcode: 4151423
+  naa_control_symbol: 202/1/3 PART 9
+  naa_series: A10005
+  reference: '[NAA: Al0005, 202/113, ix]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-08-18
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 170 Cablegram to Canberra
 
 Lisbon, 18 August 1975
 
@@ -14,7 +21,7 @@ O.LB211 SECRET PRIORITY
 
 Call on President
 
-## Our 10851
+## Our 1085[1](#f1)
 
 I was received by President Costa Gomes at 3.15 this afternoon. The interview lasted for 45 minutes.
 
@@ -34,15 +41,13 @@ I was received by President Costa Gomes at 3.15 this afternoon. The interview la
 ## Comment
 
   9. Taken at face value the President's statements on Timor are reassuring, but I am far from sanguine about his ability to carry his Government (such as it is) along with him. He is I think personally convinced of the wisdom of trying to adhere to the Macao time table but it would be out of character for him to assert his views too strongly if he runs into stiff opposition (as well he might). My present view is that resolute action in Timor will depend on whether the moderates in the AFM are able to wield sufficient influence to prevent the radicals from abandoning Timor altogether, and the prospect for this is not bright. The President does accept that Timor is _sui generis_ and not to be compared with the African territories, but when it comes to exercising leadership (as distinct from merely holding the ring) Gomes does not inspire confidence.
-  10. My assessment of the interview is that it was a worthwhile exercise to register our views at the highest level and to a relatively sympathetic listener, but it remains to be seen to what extent the President's professed views on Timor will prevail in the present highly volatile situation within the Portuguese Government itself. (This is relevant to paragraph 8 of O.JA1262.)2
+  10. My assessment of the interview is that it was a worthwhile exercise to register our views at the highest level and to a relatively sympathetic listener, but it remains to be seen to what extent the President's professed views on Timor will prevail in the present highly volatile situation within the Portuguese Government itself. (This is relevant to paragraph 8 of O.JA1262.)[2](#f2)
 
 
 
 COOPER
 
-_[NAA: Al0005, 202/113, ix]_
+ _[NAA: Al0005, 202/113, ix]_
 
   * 1 Cablegram LB204 (18 August). The reference here is to its post serial number. Cooper advised that he proposed to seek an appointment with President Gomes to convey the point in Document 168 at the highest level, adding, however, that he shared Yoga's pessimism (reported in paragraph 6 of Document 166) about 'resolute Portuguese action in present circumstances'.
   * 2 18 August. It reported Girao's view that Gomes and Soares both wanted the army out of Timor and would probably accept a UDT 'government'. He thought there was virtually no chance that Portugal would re-establish firm control or remain long enough to permit an eventual decision by the people on their future. Even before the UDT action Gomes had regarded the Macao timetable as 'flexible'. Woolcott sought Cooper's comment on this.
-
-

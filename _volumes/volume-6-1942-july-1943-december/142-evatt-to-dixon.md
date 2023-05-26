@@ -1,12 +1,18 @@
 ---
-title: "142 Evatt to Dixon"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2433
+doc_date: '1943-03-23'
+doc_num: 142
+doc_order: 142
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA:A3196/A3831, 1942-43, FOLDER, PERSONAL OUTWARDS CABLES FILE COPIES,
+    SPARES AND MASTER SHEETS, 634]'
+title: Evatt to Dixon
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-03-23
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 142 Evatt to Dixon
 
 Cablegram PW23 CANBERRA, 23 March 1943
 
@@ -22,10 +28,10 @@ The suggestion that the executive is to consist of U.S.A., U.K., Russia and Chin
 
 Ends.
 
-_ 1 Dispatched 17 March. On file AA:A3300, 264. It reported that Roosevelt wanted membership of the executive of the proposed relief organisation to be confined to the four great powers.
+ _1 Dispatched 17 March. On file AA:A3300, 264. It reported that Roosevelt wanted membership of the executive of the proposed relief organisation to be confined to the four great powers.
 
 2 Evatt dispatched an identical message to Glasgow for delivery to Mackenzie King. See cablegram PO1 of 23 March in FA:A3196/A3831, 1942-43, folder, personal outwards cables file copies, spares and master sheets.
 
 _
 
-_ [FA:A3196/A3831, 1942-43, FOLDER, PERSONAL OUTWARDS CABLES FILE COPIES, SPARES AND MASTER SHEETS, 634]_
+ _[FA:A3196/A3831, 1942-43, FOLDER, PERSONAL OUTWARDS CABLES FILE COPIES, SPARES AND MASTER SHEETS, 634]_

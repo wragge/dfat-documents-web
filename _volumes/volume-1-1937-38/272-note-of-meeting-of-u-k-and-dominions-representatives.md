@@ -1,12 +1,17 @@
 ---
-title: "272 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 271
+doc_date: '1938-09-23'
+doc_num: 272
+doc_order: 271
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-23
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 272 Note of Meeting of U.K. and Dominions Representatives
 
 Extracts LONDON, 23 September 1938, 12 noon
 
@@ -34,6 +39,6 @@ MR BRUCE expressed the view that, if there were to be any hope of securing for a
 
 MR MACDONALD shared Mr Bruce's view, but pointed out that this, of course, did not preclude the possibility of some compromise-which did not infringe the principle involved-such as the establishment of an international force, in which Germans would be included, for the maintenance of order in the transition period. The Prime Minister's messages clearly indicated that he was ready to consider some compromise on method.
 
-_ 1 Neville Chamberlain._
+ _1 Neville Chamberlain._
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

@@ -1,14 +1,17 @@
 ---
-title: "90 AIDE MEMOIRE, GOVERNMENT OF AUSTRALIA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9955
+doc_date: '1968-01-12'
+doc_num: 90
+doc_order: 90
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/95]'
+title: AIDE MEMOIRE, GOVERNMENT OF AUSTRALIA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-01-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 90 AIDE MEMOIRE, GOVERNMENT OF AUSTRALIA
-
-UKNA: FCO 24/95
 
 Canberra, 12 January 1968
 
@@ -34,8 +37,10 @@ The Australian Government has received from the Secretary of State the proposals
 
 11\. It is our view that it is in the interests of the partner countries that United Kingdom, Australian and New Zealand forces should continue to be in Malaysia and Singapore within at least for the time being the framework of the Anglo-Malaysian Defence Agreement, which provides the best basis for Commonwealth co-operation. But any decision by the United Kingdom to create a situation where there would be no effective military presence by Britain must bring into the most serious question the continuing significance and value of the Agreement. Moreover, whereas in the discussion in 1967 the British Government clearly recognized the importance of the Commonwealth Strategic Reserve for Australia as the essential basis for the presence of our own forces in Malaysia, there seems to be no future for the Reserve under the proposals that have been outlined by Mr. Thomson.
 
-_Conclusion_
+ _Conclusion_
 
 12\. For the reasons set out above and more extensively elaborated in discussion with the Secretary of State, the Australian Government profoundly disagrees with what the British Government now proposes and asks that it reconsider its proposals. If the British Government is not prepared to depart from the fundamental bases of its proposals, the Australian Government asks that the time now set for the major withdrawal of British forces in Malaysia and Singapore be extended as long as possible and that thereafter some British forces should still remain available in the area to provide balanced forces in concert with those contributed by other partner Governments. Finally, the Australian Government urges that the public announcement of policy should make clear Britain’s continued interest in the maintenance of security in South-East Asia areas and its intention to continue to play such part in this as it can.
 
 1 This aide-memoire was enclosed with Johnston’s despatch to Thomson (no. 10/l), 16 January 1968, reporting the Commonwealth Secretary’s visit to Australia. Commenting in his despatch on the reaction of Australian ministers, Johnston observed: ‘The restraint and courtesy of their manner did not disguise their deep feelings of dismay and anxiety at what you had to tell them.’ Ministers were, however, friendly and sympathetic towards Thomson on account of ‘the extraordinarily difficult task which you had to carry out. ... The feeling uppermost in the minds of all the Australians you met was one of sorrow at what you so accurately described as “the end of an era’”. 
+
+[UKNA: FCO 24/95]

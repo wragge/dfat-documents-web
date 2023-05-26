@@ -1,12 +1,17 @@
 ---
-title: "286 Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1052
+doc_date: '1940-05-27'
+doc_num: 286
+doc_order: 286
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3609]'
+title: Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-27
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 286 Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered WELLINGTON, 27 May 1940, 7.47 p.m.
 
@@ -20,7 +25,7 @@ In view of the very critical situation that has developed on the Western Front, 
 
 P. FRASER
 
-_
+ _
 
 1 Document 280.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3609]_
+ _[FA: A3195, 1.3609]_

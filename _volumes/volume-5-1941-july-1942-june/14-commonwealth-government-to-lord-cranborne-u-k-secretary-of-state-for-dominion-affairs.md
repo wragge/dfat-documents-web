@@ -1,12 +1,18 @@
 ---
-title: "14 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1768
+doc_date: '1941-07-23'
+doc_num: 14
+doc_order: 15
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA : A981, FAR EAST 20B, i]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 14 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 467 [1] CANBERRA, 23 July 1941
 
@@ -44,9 +50,9 @@ States Government in sense of paragraph 4 (3) in order that there
 
 can be no possibility of misunderstanding. [4]
 
-_
+ _
 
-1 Repeated to the Canadian and South African Prime Ministers and 
+1 Repeated to the Canadian and South African Prime Ministers and
 
 to the N.Z. Acting Prime Minister as nos 4, 52 and 272; and to the 
 
@@ -72,7 +78,7 @@ active armed Support.'
 
 _
 
-_
+ _
 
 [AA : A981, FAR EAST 20B, i]
 

@@ -1,12 +1,18 @@
 ---
-title: "213 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2860
+doc_date: '1944-07-04'
+doc_num: 213
+doc_order: 213
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER SHEETS,
+    FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.24922/923]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-04
+vol_title: 'Volume 7: 1944'
 ---
-
-# 213 Cranborne to Commonwealth Government
 
 Cablegram 150 LONDON, 4 July 1944, 8.55 p.m.
 
@@ -22,7 +28,7 @@ Proposal for preliminary peace treaty with Italy. As stated in my telegram of 23
 
 4\. We have not yet received United States views but shall of course keep you informed of developments.
 
-_ SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.24922/923]
+ _
 
 1 Document 190.
 
@@ -30,4 +36,4 @@ _ SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 
 
 _
 
-_ [AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER_
+ _[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.24922/923]_

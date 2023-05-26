@@ -1,20 +1,27 @@
 ---
-title: "242 Submission to Cabinet Economic Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9111
+doc_date: '1982-05-19'
+doc_num: 242
+doc_order: 242
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission to Cabinet Economic Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-05-19
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 242 Submission to Cabinet Economic Committee
 
 Wellington, 19 May 1982
 
 E (82) 89. CONFIDENTIAL
 
-**Cabinet Economic Committee**
+ **Cabinet Economic Committee**
 
-The Chairman of the Officials Economic Committee recommends as set out in the copies of the cables1 sent to the Prime Minister and Mr Templeton that the Committee:
+The Chairman of the Officials Economic Committee recommends as set out in the copies of the cables[1](#f1) sent to the Prime Minister and Mr Templeton that the Committee:
 
   1. note the terms of the New Zealand Manufacturers' Federation communication;
   2. agree, subject to Australian acceptance of the safeguards provisions negotiated by officials, that Australia be informed the New Zealand Government can accept:
@@ -24,19 +31,19 @@ The Chairman of the Officials Economic Committee recommends as set out in the co
 
 
 
-**Attachment [1]**
+ **Attachment [1]**
 
 CHAIRMAN, CABINET ECONOMIC COMMITTEE
 
-**NZCER/MANFED Position**
+ **NZCER/MANFED Position**
 
 Attached are copies of cables which have been sent to the Prime Minister and Mr Templeton tonight.
 
 The first and major cable contains the following recommendations which officials now put to the Committee:
 
-_[matter omitted]_2
+ _[matter omitted]_[2](#f2)
 
-**Attachment [2]** TELEGRAM FROM SENIOR OFFICIALS TO MULDOON AND TEMPLETON3
+ **Attachment [2]** TELEGRAM FROM SENIOR OFFICIALS TO MULDOON AND TEMPLETON[3](#f3)
 
 Wellington, 19 May 1982
 
@@ -44,7 +51,7 @@ No 3299. CONFIDENTIAL IMMEDIATE
 
 For Prime Minister from Clark/Hensley
 
-**ANZCER: MANFED Position**
+ **ANZCER: MANFED Position**
 
 This morning in response to a MANFED invitation Clark and Hensley visited MANFED Executive meeting before the Executive arrived at any decisions on the major CER issues. Purpose of visit was to respond to one or two points of clarification arising from the exposure draft which had been handed to the Executive yesterday on a confidential and informal basis. At that meeting it was clear that MANFED, as they had at the Sydney meeting with CAl remained concerned about non-tariff barriers, particularly State purchasing and the harmonisation of standards. They seemed inclined to want to link any acceptance of terminal date of 1995 for import licensing with obtaining assurances that Australia would 'deliver' on above issues.
 
@@ -64,11 +71,11 @@ Ends.
   3. In explaining the foregoing paper Stevens said that the first three paragraphs were a formal statement of MANFED position. But the remainder (paras 4 a to c) represented 'advice' intended to be helpful to the Government. Officials responded that steps had already been taken to reorder certain parts of the exposure draft to give greater prominence to New Zealand concerns on Government purchasing and standards in light of comments made at the morning meeting. Stevens thought such changes would be helpful.
   4. On para 4(c) officials pointed out to Stevens that it would be very difficult to introduce the sort of linkage proposed at this stage in the negotiations and to get it into the formal language of the draft Heads of Agreement or exposure draft. That was not to say however that it could not be the subject of an informal 'understanding' with the Australians. Stevens said that the assurances were needed now and might not appear to be quite so important once trade under CER began to flow. For that reason MANFED was not insisting upon an explicit agreement between Governments in respect of 4 (c) and wanted it understood that it was more an assurance from the New Zealand Government to the Federation that was required. It would have to be of sufficient 'quality' to bring along doubters.
   5. The following recommendations will go before Cabinet Economic Committee at 9 am tomorrow (Thursday). Ministers to:  
-_[matter omitted]_4
+ _[matter omitted]_[4](#f4)
 
 
 
-**Attachment [3]**
+ **Attachment [3]**
 
 TELEGRAM FROM SENIOR OFFICIALS TO MULDOON AND TEMPLETON
 
@@ -78,7 +85,7 @@ No 3298. CONFIDENTIAL IMMEDIATE
 
 For Woodfield/Groser-Please show to Prime Minister
 
-**ANZCER: Briefing**
+ **ANZCER: Briefing**
 
   1. Clark this morning briefed Federated Farmers (Elworthy, Senior Vice President, in absence abroad of Storey) of state of play on ANZCER. Briefings covered decisions of CEC on approach to horticultural products and Government's acceptance in principle of industry-to-industry agreement on carpets (subject to Wool Board's response).
   2. Elworthy indicated that Federation had taken the clear position in favour of CER in the broad sense. He could not say there would not be some discontent in the Federation's meat and wool section at the prospect of synthetic carpets gaining a place in the New Zealand domestic market but that would not swing Federated Farmers away from their overall support for CER and they would not come out in opposition to the carpets arrangement. Elworthy indicated that he would talk to the Wool Board about it today. He did not say he would seek to persuade the Board to favour the inter-industry agreement but we would expect his intervention to be generally helpful.
@@ -88,11 +95,9 @@ For Woodfield/Groser-Please show to Prime Minister
 
 
 
-_[ABHS 950/Box 1228, 40/4/2 Part 4 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1228, 40/4/2 Part 4 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Attached to the submission.
   * 2 As set out in the main paper immediately above.
   * 3 Muldoon was in London and Templeton in Bonn.
   * 4 As set out above.
-
-

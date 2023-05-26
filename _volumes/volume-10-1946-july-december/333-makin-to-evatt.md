@@ -1,14 +1,19 @@
 ---
-title: "333 Makin to Evatt"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4181
+doc_date: '1946-12-26'
+doc_num: 333
+doc_order: 333
+naa_refs:
+- naa_barcode: 1484501
+  naa_control_symbol: 1946/WASHINGTON
+  naa_series: A4231
+  reference: '[AA:A4231/2, WASHINGTON DISPATCHES, 1946, 1-70]'
+title: Makin to Evatt
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-26
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 333 Makin to Evatt
-
-## Dispatch 70/1946 WASHINGTON, 26 December 1946
+Dispatch 70/1946 WASHINGTON, 26 December 1946
 
 COLONISATION OF JEWISH REFUGEES
 
@@ -28,10 +33,10 @@ I finally promised that I would bring Dr. Steinberg's views to the notice of the
 
 NORMAN MAKIN
 
-_
+ _
 
 1 E. J. Holloway, Minister for Labour and National Service.
 
 _
 
-_ [AA:A4231/2, WASHINGTON DISPATCHES, 1946, 1-70]_
+ _[AA:A4231/2, WASHINGTON DISPATCHES, 1946, 1-70]_

@@ -1,14 +1,20 @@
 ---
-title: "505 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1736
+doc_date: '1941-06-14'
+doc_num: 505
+doc_order: 505
+naa_refs:
+- naa_barcode: 278883
+  naa_control_symbol: '22'
+  naa_series: A2937
+  reference: '[AA: A2937, CONSULS-(POLAND)]'
+title: Mr A. T. Stirling, External Affairs Officer in London, to Department of External
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-14
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 505 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs
-
-## Cablegram 437 LONDON, 14 June 1941
+Cablegram 437 LONDON, 14 June 1941
 
 Polish Consul General. High Commissioner's [1] telegram No. 400 [2] for Prime Minister. [3]
 
@@ -20,7 +26,7 @@ Dr. Kulski appreciated point that no consulates had been established at Canberra
 
 STIRLING
 
-_
+ _
 
 1 S. M. Bruce.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA: A2937, CONSULS-(POLAND)]_
+ _[AA: A2937, CONSULS-(POLAND)]_

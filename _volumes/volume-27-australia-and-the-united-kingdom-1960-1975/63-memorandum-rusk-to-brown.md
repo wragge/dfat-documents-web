@@ -1,14 +1,17 @@
 ---
-title: "63 MEMORANDUM, RUSK TO BROWN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9928
+doc_date: '1967-04-21'
+doc_num: 63
+doc_order: 63
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 46/53]'
+title: MEMORANDUM, RUSK TO BROWN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-04-21
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 63 MEMORANDUM, RUSK TO BROWN
-
-UKNA: FCO 46/53
 
 US Embassy, London, 21 April 1967
 
@@ -36,13 +39,13 @@ Secret
 
 (B) There are those here in important positions in the Senate who want us to reduce our commitment to Europe. Should you announce that you are withdrawing from Singapore and Malaysia on the grounds that you cannot carry that burden, I foresee an increase in the intensity of their criticism, arguing that we too have a limit to our capacity to carry these burdens and we should cut further and heavily in Europe.
 
-(C) The strength of our position in the US in assuming international commitments in these last twenty years is that we have always been able to say that we have Allies who share our burden, and not least the UK. The defection of De Gaulle has hurt us.2 If now there was a UK withdrawal from this area it would be regarded as a similar defection, encouraging the neo-isolationists, and encouraging the critics of our policies both in Asia and Europe.
+(C) The strength of our position in the US in assuming international commitments in these last twenty years is that we have always been able to say that we have Allies who share our burden, and not least the UK. The defection of De Gaulle has hurt us.[2](#f2) If now there was a UK withdrawal from this area it would be regarded as a similar defection, encouraging the neo-isolationists, and encouraging the critics of our policies both in Asia and Europe.
 
 (D) I am also concerned as to how your withdrawal would be viewed in Hanoi and Peking, where it would be treated as a victory for them, as a repudiation of your support of our position in the area, and as a further weakening of SEATO.
 
-(E) I am particularly concerned as to the effect in the immediate area of an announcement of what you will do in the 1970s. With the great change in Indonesia, there is now the prospect that something might be built in the next decade in the way of regional associations for economic and eventually defence purposes. We do not share the view that the people in Malaysia and Singapore long to see you leave. Lee has said again and again that he values your presence, and sees no hostility in Malaysia. The free Asian countries would prefer a friendly white presence to a hostile Chinese. Your continued presence and your experienced hand could do much to keep the situation stable and to foster and encourage these promising developments, whereas the announcement of your withdrawal could set in motion strains and ambitions that could keep this area in turmoil. If there is any thought that we might be able to take on your commitments when you left, as we did in Greece,3 I must say at once that there is no sentiment in this country to take on additional commitments in any area.
+(E) I am particularly concerned as to the effect in the immediate area of an announcement of what you will do in the 1970s. With the great change in Indonesia, there is now the prospect that something might be built in the next decade in the way of regional associations for economic and eventually defence purposes. We do not share the view that the people in Malaysia and Singapore long to see you leave. Lee has said again and again that he values your presence, and sees no hostility in Malaysia. The free Asian countries would prefer a friendly white presence to a hostile Chinese. Your continued presence and your experienced hand could do much to keep the situation stable and to foster and encourage these promising developments, whereas the announcement of your withdrawal could set in motion strains and ambitions that could keep this area in turmoil. If there is any thought that we might be able to take on your commitments when you left, as we did in Greece,[3](#f3) I must say at once that there is no sentiment in this country to take on additional commitments in any area.
 
-6\. In short, we understand your desire to reduce your forces and base structure in Malaysia and Singapore. We hope this can be done in a gradual and reasonable way without significant withdrawals before a Vietnamese settlement, for we feel that your presence continues to play a major role in the security and stability of the area. But above all we hope you can avoid taking, or in any event making public in any way, basic decisions at this point on withdrawal by the mid-1970s.4
+6\. In short, we understand your desire to reduce your forces and base structure in Malaysia and Singapore. We hope this can be done in a gradual and reasonable way without significant withdrawals before a Vietnamese settlement, for we feel that your presence continues to play a major role in the security and stability of the area. But above all we hope you can avoid taking, or in any event making public in any way, basic decisions at this point on withdrawal by the mid-1970s.[4](#f4)
 
 1 Sent through David Bruce, US Ambassador in London.
 
@@ -51,3 +54,5 @@ Secret
 3 In 1947.
 
 4 Brown replied to Rusk on 1 May 1967 and commented: ‘I do feel that some of the reactions to the substance of our plans have been somewhat exaggerated. What we propose is based on an appreciation of what South East Asia will be like in the next decade that I believe to be realistic. Too often in the past we have drifted into difficulties in different parts of the world precisely because we have failed to make an equally realistic forward appreciation. I profoundly believe that our plans to which you and your ANZUS allies see so much objection, amount to little more than a statement of what you and they will in fact have done or be doing about the same period and for the same political and economic reasons’ (UKNA: FCO 46/53).
+
+[UKNA: FCO 46/53]

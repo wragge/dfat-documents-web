@@ -1,12 +1,17 @@
 ---
-title: "222 Commonwealth Government to Addison"
-volume: "Volume 8: 1945"
-doc_id: 3253
+doc_date: '1945-08-28'
+doc_num: 222
+doc_order: 222
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA : A1838/2, 377/3/3/2, i]'
+title: Commonwealth Government to Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-28
+vol_title: 'Volume 8: 1945'
 ---
-
-# 222 Commonwealth Government to Addison
 
 Cablegram 256 CANBERRA, 28 August 1945
 
@@ -36,7 +41,7 @@ Your 319, Portuguese Timor. [1]
 
 7\. If you concur we would be grateful if in the first instance you would obtain the Portuguese Government's acquiescence in the arrangements suggested in (a) and (c) above.
 
-_
+ _
 
 1 Dispatched 22 August. On file AA : A1838/2, 377/3/3/2, i. It reported that the U.K. Govt had authorised the dispatch of two Portuguese sloops to Timor and was considering the question of the re-occupation of Portuguese Timor by Portuguese troops and arrangements for the surrender of Japanese there.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA : A1838/2, 377/3/3/2, i]_
+ _[AA : A1838/2, 377/3/3/2, i]_

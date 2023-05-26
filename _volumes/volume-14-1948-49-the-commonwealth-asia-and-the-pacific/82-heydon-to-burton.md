@@ -1,12 +1,18 @@
 ---
-title: "82 Heydon to Burton"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5858
+doc_date: '1948-11-23'
+doc_num: 82
+doc_order: 82
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1948, I.18997]'
+title: Heydon to Burton
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-11-23
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 82 Heydon to Burton
 
 Cablegram Austdel 275 PARIS, 23 November 1948, 6.30 p.m.
 
@@ -24,10 +30,10 @@ I have been in close touch with all developments and it may be important for you
 
 The fact is that the Minister has always insisted on the name British in British Commonwealth, direct personal link with the King and at the same time a practical working of the group which could and should be strengthened not only in common interest but in the interests of world peace. [1]
 
-_
+ _
 
 1 Links between Eire and the British crown were officially severed on is April 1949 when the Republic of Ireland was proclaimed.
 
 _
 
-_ [AA: A3195, 1948, I.18997]_
+ _[AA: A3195, 1948, I.18997]_

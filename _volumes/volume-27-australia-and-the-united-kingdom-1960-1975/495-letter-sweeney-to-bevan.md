@@ -1,18 +1,21 @@
 ---
-title: "495 LETTER, SWEENEY TO BEVAN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10362
+doc_date: '1974-12-16'
+doc_num: 495
+doc_order: 495
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1934]'
+title: LETTER, SWEENEY TO BEVAN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1974-12-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 495 LETTER, SWEENEY TO BEVAN
-
-UKNA: FCO 24/1934
 
 Agent General for Queensland, London, 16 December 1974
 
-The attached is the text of a Press Statement issued today in Brisbane, Queensland by the Premier, the Honourable J Bjelke-Petersen, M.L.A.2
+The attached is the text of a Press Statement issued today in Brisbane, Queensland by the Premier, the Honourable J Bjelke-Petersen, M.L.A.[2](#f2)
 
 I have been instructed by my Premier to bring this Statement to the attention of the Foreign and Commonwealth Office.
 
@@ -28,13 +31,13 @@ I have only read of the Prime Minister’s intentions in the press. There have b
 
 When I read these reports I sent a telegram to the Prime Minister asking him to let me know, as a matter of courtesy and propriety, just what matters affecting the State of Queensland he proposed to discuss with the British Government. I have had no reply to that telegram. I now read in the press that he will be having talks with the British Prime Minister this week, and that prompted me to make a public statement on the attitude of my Government.
 
-When the Prime Minister came to power two years ago he tried, in his first enthusiasm, to persuade the British Government to interfere in the constitutional rights of the States. That brought other Premiers and myself to London, where we saw the Secretary of State for Foreign and Commonwealth Relations, Sir Alec Douglas-Home.3 We pointed out to him that the Australian Constitution may be amended only by referendum. At that meeting we were informed that the British Government would not alter a constitutional situation, of which it is the stake-holder, without the concurrence of both the Commonwealth and the States in accordance with democratic processes.
+When the Prime Minister came to power two years ago he tried, in his first enthusiasm, to persuade the British Government to interfere in the constitutional rights of the States. That brought other Premiers and myself to London, where we saw the Secretary of State for Foreign and Commonwealth Relations, Sir Alec Douglas-Home.[3](#f3) We pointed out to him that the Australian Constitution may be amended only by referendum. At that meeting we were informed that the British Government would not alter a constitutional situation, of which it is the stake-holder, without the concurrence of both the Commonwealth and the States in accordance with democratic processes.
 
 If the recent press reports I have read are true, it seems that the Prime Minister of Australia is not content with that situation. It is reported that he is again seeking the aid of the British Government to abolish right of access to the Privy Council by means which, if that Government yielded, would spell the end of the Federal System in Australia. Even the three Labour States represented in London with me in 1973 were as much opposed to this unconstitutional proceeding as Queensland was. They too could see the end of the road.
 
 I also read in the press that the Prime Minister hopes to persuade the British Government to sever all links between Her Majesty The Queen and the State Governments in their executive functions. It is precisely because profound questions of constitutional law lie behind the claim of the Prime Minister that Her Majesty is now to be advised only by him, even in matters which concern the Government of this State alone, that my Government has placed before our courts this whole question of the Royal Prerogative as it exists in the Constitution. That question has been referred to the Privy Council by the Supreme Court of Queensland. We have done this because the High Court of Australia has no power under the Constitution to advise my Government of the correct constitutional situation, and because the Privy Council is the proper judicial body to advise upon the Crown’s Prerogatives in the whole of Her Majesty’s dominions.
 
-The Prime Minister hopes to secure the abolition of access to the Privy Council precisely because this would prevent the States from being advised, according to proper judicial procedures, in matters respecting their executive functions. For the Prime Minister to seek to influence a decision on a constitutional matter which is before the courts by putting pressure on the British Government would, if true, be improper. In fact it would be a matter which should cause the people of Australia the gravest disquiet. It would also be na�ve of him to suppose that British Ministers would act in a matter where their legal power is a matter of issue before the courts at the present time.
+The Prime Minister hopes to secure the abolition of access to the Privy Council precisely because this would prevent the States from being advised, according to proper judicial procedures, in matters respecting their executive functions. For the Prime Minister to seek to influence a decision on a constitutional matter which is before the courts by putting pressure on the British Government would, if true, be improper. In fact it would be a matter which should cause the people of Australia the gravest disquiet. It would also be naïve of him to suppose that British Ministers would act in a matter where their legal power is a matter of issue before the courts at the present time.
 
 I also read in the press that the Prime Minister is thinking about the role that the British Government could play in transferring Torres Strait Islands to Papua New Guinea. Presumably the reference is to the possibility of the British Government issuing an Order-In-Council under the Colonial Boundaries Act to alter the boundary of Queensland without the consent of the people of Queensland.
 
@@ -55,3 +58,5 @@ It is unnecessary, I am sure, for me to point out that Her Majesty’s United Ki
 2 Johannes (‘Joh’) Bjelke-Petersen, Premier of Queensland for a record nineteen years, 1968–87.
 
 3 See Document 466.
+
+[UKNA: FCO 24/1934]

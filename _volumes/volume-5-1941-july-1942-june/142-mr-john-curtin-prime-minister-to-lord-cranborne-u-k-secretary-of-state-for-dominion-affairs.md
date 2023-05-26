@@ -1,12 +1,18 @@
 ---
-title: "142 Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1896
+doc_date: '1941-11-30'
+doc_num: 142
+doc_order: 143
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-30
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 142 Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 762 [1] CANBERRA, 30 November 1941
 
@@ -46,7 +52,7 @@ We further point out:-
 
 CURTIN
 
-_
+ _
 
 1 Repeated to the Minister to the United States as no. 133 and to the N.Z. Prime Minister as no. 501. Curtin also instructed the High Commissioner in the United Kingdom (S. M. Bruce) to see the Dominions Office copy of this cablegram and to show it to the Special Representative in the United Kingdom (Sir Earle Page). See cablegram 7511 of 30 November on file AA : A1608, A41/1/5, iv.
 
@@ -70,4 +76,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

@@ -1,20 +1,23 @@
 ---
-title: "240 SUBMISSION NO. 467, MCEWEN TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10105
+doc_date: '1967-10-12'
+doc_num: 240
+doc_order: 240
+naa_refs:
+- naa_barcode: 3290583
+  naa_control_symbol: EHEC03
+  naa_series: A10206
+  reference: '[NAA: A 10206, EHEC03]'
+title: SUBMISSION NO. 467, MCEWEN TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-10-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 240 SUBMISSION NO. 467, MCEWEN TO CABINET
-
-NAA: A 10206, EHEC03 
 
 Canberra, 12 October 1967
 
 Confidential
 
-**United Kingdom/Australia Trade Discussions**
+ **United Kingdom/Australia Trade Discussions**
 
 [...]
 
@@ -43,3 +46,5 @@ Confidential
 13\. Moreover, British officials have drawn our attention to a recent speech by the British Commonwealth Secretary in which it is made abundantly clear that the only ‘safeguards’ Britain will seek for Australia for all products except sugar, is a transitional period during which all our existing preferences would be phased out. For sugar the British accept that they have a contractual obligation up to 1974 but no further.
 
 14\. This clear understanding that we have now gained about Britain’s conception of the extent of ‘safeguards’ necessary for Australia will, of course, have to be communicated to the Australian public. I shall be giving a good deal of attention to this question in the course of the next few weeks.
+
+[NAA: A 10206, EHEC03]

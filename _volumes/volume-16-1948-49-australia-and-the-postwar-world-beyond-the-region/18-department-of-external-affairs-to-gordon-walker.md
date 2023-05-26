@@ -1,12 +1,17 @@
 ---
-title: "18 Department of External Affairs to Gordon Walker"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6733
+doc_date: '1948-03-11'
+doc_num: 18
+doc_order: 18
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA : A1838, 852/20/2, IV]'
+title: Department of External Affairs to Gordon Walker
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-03-11
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 18 Department of External Affairs to Gordon Walker
 
 Cablegram 65, CANBERRA, 11 March 1948, 5.15 p.m.
 
@@ -22,6 +27,6 @@ We are glad to receive the assurance that the United Kingdom has endeavoured to 
 
 3\. For these reasons, while we are aware that the United Kingdom did not support the Assembly's recommendation for the partition of Palestine, we hope the United Kingdom will not fail to assist in securing the implementation of the decision of the majority of members of the United Nations.
 
-__
+ __
 
-_ [AA : A1838, 852/20/2, IV]_
+ _[AA : A1838, 852/20/2, IV]_

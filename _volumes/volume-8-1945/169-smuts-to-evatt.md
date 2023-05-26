@@ -1,14 +1,19 @@
 ---
-title: "169 Smuts to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3200
+doc_date: '1945-08-09'
+doc_num: 169
+doc_order: 169
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, INWARDS MOST SECRET MASTER SHEETS, I.25725]'
+title: Smuts to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-09
+vol_title: 'Volume 8: 1945'
 ---
 
-# 169 Smuts to Evatt
-
-## Cablegram 69 PRETORIA, 9 August 1945, 2.51 p.m.
+Cablegram 69 PRETORIA, 9 August 1945, 2.51 p.m.
 
 I have read your correspondence with the Dominions Office re consultation of Dominion Governments on peace negotiations and times. While I am sympathetic to your views, I also feel that the United Kingdom Government are in a difficult position vis a vis other great powers re direct participation of the Dominions in such negotiations.
 
@@ -16,8 +21,8 @@ Under the circumstances I am afraid we shall have to be satisfied with putting o
 
 The general European conditions must perforce be left largely to the great powers and we can but put our general views before the United Kingdom Government so that the Dominion points of view will not be entirely lost sight of. Our position is, in fact, that of the other minor belligerents and it is awkward for us to claim more than this as Dominions under the British wing.
 
-_ I.25725]
+ _
 
 _
 
-_ [AA : A3195, 1945, FOLDER, INWARDS MOST SECRET MASTER SHEETS,_
+ _[AA : A3195, 1945, FOLDER, INWARDS MOST SECRET MASTER SHEETS, I.25725]_

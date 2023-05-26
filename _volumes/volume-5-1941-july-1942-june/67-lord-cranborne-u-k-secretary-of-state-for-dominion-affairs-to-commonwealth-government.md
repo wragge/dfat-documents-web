@@ -1,12 +1,18 @@
 ---
-title: "67 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1821
+doc_date: '1941-09-12'
+doc_num: 67
+doc_order: 68
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, ii]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-12
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 67 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular cablegram M304 LONDON, 12 September 1941, 11 p.m.
 
@@ -28,7 +34,7 @@ The President assured His Majesty's Ambassador at Washington on July 31st that t
 
 [12]
 
-_
+ _
 
 1 On file AA: A981, Japan 185B, ii.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, ii]_
+ _[AA: A981, JAPAN 185B, ii]_

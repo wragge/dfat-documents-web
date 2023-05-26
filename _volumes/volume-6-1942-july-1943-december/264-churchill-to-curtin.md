@@ -1,12 +1,17 @@
 ---
-title: "264 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2555
+doc_date: '1943-08-25'
+doc_num: 264
+doc_order: 264
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, 1.35448]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-08-25
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 264 Churchill to Curtin
 
 Cablegram Winch 14 LONDON, 25 August 1943, 2.07 a.m.
 
@@ -18,7 +23,7 @@ Having agreed upon the setting up of the combined South East Asia Command [1] I 
 
 3\. Will you kindly show this to Dr. Evatt to whom I am also sending a personal telegram [4] in reply to his very kind personal message to me. [5]
 
-_
+ _
 
 1 The establishment of a South-East Asia Command was agreed on by the U.K. Govt in June and endorsed by the Combined Chiefs of Staff at the Quebec Conference on 24 August. The Command covered Burma, Thailand, Malaya, Sumatra and Ceylon and its initial objective was to facilitate a more effective offensive against the Japanese in Burma. Lord Louis Mountbatten was appointed Allied Supreme Commander and Lt Gen Joseph W. Stilwell as Deputy Supreme Commander. See John Ehrman, Grand Strategy, HMSO, London, 1956, vol. V, pp. 135-48.
 
@@ -34,4 +39,4 @@ Hughes as leader of the U.A.P. and, as the U.A.P.-Country Party coalition was te
 
 _
 
-_ [FA:A3195, 1943, 1.35448]_
+ _[FA:A3195, 1943, 1.35448]_

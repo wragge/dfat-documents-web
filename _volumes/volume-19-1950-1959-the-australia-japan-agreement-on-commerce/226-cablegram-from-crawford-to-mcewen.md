@@ -1,12 +1,17 @@
 ---
-title: "226 Cablegram From Crawford To Mcewen"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7831
+doc_date: '1957-07-12'
+doc_num: 226
+doc_order: 226
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CRAWFORD PAPERS MS4514/9/34, AUSTRALIAN JAPAN TRADE AGREEMENT]'
+title: Cablegram From Crawford To Mcewen
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-07-12
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
-
-# 226 Cablegram From Crawford To Mcewen
 
 12th July, 1957
 
@@ -40,7 +45,7 @@ The fact is that under the new Agreement importers do not get any additional or 
 
 I will meet you at Mascot.
 
-_
+ _
 
 1 Latham Withall, Federal Director, Associated Chambers of Manufactures.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [NLA : CRAWFORD PAPERS MS4514/9/34, AUSTRALIAN JAPAN TRADE AGREEMENT]_
+ _[NLA : CRAWFORD PAPERS MS4514/9/34, AUSTRALIAN JAPAN TRADE AGREEMENT]_

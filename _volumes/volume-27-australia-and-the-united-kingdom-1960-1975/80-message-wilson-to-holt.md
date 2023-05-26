@@ -1,14 +1,17 @@
 ---
-title: "80 MESSAGE, WILSON TO HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9945
+doc_date: '1967-07-13'
+doc_num: 80
+doc_order: 80
+naa_refs:
+- naa_barcode: 1728294
+  naa_control_symbol: TS691/1 PART 11
+  naa_series: A1838
+  reference: '[NAA: A1838, TS691/1 PART 11]'
+title: MESSAGE, WILSON TO HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-07-13
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 80 MESSAGE, WILSON TO HOLT
-
-NAA: A1838, TS691/1 PART 11
 
 London, 13 July 1967
 
@@ -26,11 +29,11 @@ The Tunku’s main anxiety was about our continuing capability to honour our obl
 
 In general, the Tunku was anxious not to make difficulties and did not dispute our decision to reduce our forces but hoped we would not do it in a way which would bolster communist morale and let down our friends. Having heard what we had to say about the force levels we plan to maintain up to 1975–76, our continuing capability for use in the Far East after withdrawal, and the general lines of the kind of announcement we are working on, I think he was reasonably content.
 
-We have had a number of ministerial meetings about all this and it has now been before the Cabinet. It has been very helpful to us to have had the discussion with our Commonwealth partners. The letter1 you left with me was circulated to the Cabinet and I can assure you that the Commonwealth Secretary and I reported fully on the points which you stressed in our discussions and that we had them very much in mind. All our partners have expressed their concern about our longer-term intentions and, while the considerations that you and they have in mind differ in many respects from country to country (as one would expect), we fully understand the fundamental concern that is shared in common by you all. And, as I explained to you, we not only understand this but we sympathise with it and wish to do everything we can to mitigate it. But we have had to reach our decisions, after the fullest consultation with our friends and allies and taking due account of their views, on the basis of our best judgement of what is politically and economically right for this country.
+We have had a number of ministerial meetings about all this and it has now been before the Cabinet. It has been very helpful to us to have had the discussion with our Commonwealth partners. The letter[1](#f1) you left with me was circulated to the Cabinet and I can assure you that the Commonwealth Secretary and I reported fully on the points which you stressed in our discussions and that we had them very much in mind. All our partners have expressed their concern about our longer-term intentions and, while the considerations that you and they have in mind differ in many respects from country to country (as one would expect), we fully understand the fundamental concern that is shared in common by you all. And, as I explained to you, we not only understand this but we sympathise with it and wish to do everything we can to mitigate it. But we have had to reach our decisions, after the fullest consultation with our friends and allies and taking due account of their views, on the basis of our best judgement of what is politically and economically right for this country.
 
 The decision we have taken has been reached in the light of the best assessment we can make of the likely development of political relationships in the area in the second half of the next decade; and of the economic requirements if Britain is to play any continuing part there at that time. We in this country will be unable to play any such part—or indeed any effective part in world affairs as a whole—unless we get our economy straight now. We discussed all this together at some length, and I know that you appreciate the compelling nature of this consideration and the fact that we have no option but to bring our defence spending in line with our resources. If this is to be achieved, it requires long term decisions about the overall shape of our forces, and about weapons systems which we must take now.
 
-My colleagues and I have decided, as foreshadowed in our discussions, to reduce our forces in Singapore and Malaysia to about half the current levels by 1970–71.2 These plans will take a little time to work out in detail and we shall be keeping in touch with you. I know that in this context you are concerned about the future of the Commonwealth Brigade. For the reasons which Denis Healey explained, we have come to the conclusion that in order to achieve our 1970–71 plans and secure the necessary savings, we must withdraw our present contributions from the Commonwealth Brigade and complete this process by the 1st April, 1970. This will mean that while some Gurkhas are likely to remain in the area until 1972, the residual British land forces will be based on Singapore and be part of the amphibious force. We should, however, be very glad to follow up the suggestion which Denis Healey made and to have early discussions with your people and with the New Zealanders for the purpose of examining what could be done to mitigate the problems created for Australian and New Zealand forces in the Brigade. I would suggest that these might take place at the earliest convenient date.
+My colleagues and I have decided, as foreshadowed in our discussions, to reduce our forces in Singapore and Malaysia to about half the current levels by 1970–71.[2](#f2) These plans will take a little time to work out in detail and we shall be keeping in touch with you. I know that in this context you are concerned about the future of the Commonwealth Brigade. For the reasons which Denis Healey explained, we have come to the conclusion that in order to achieve our 1970–71 plans and secure the necessary savings, we must withdraw our present contributions from the Commonwealth Brigade and complete this process by the 1st April, 1970. This will mean that while some Gurkhas are likely to remain in the area until 1972, the residual British land forces will be based on Singapore and be part of the amphibious force. We should, however, be very glad to follow up the suggestion which Denis Healey made and to have early discussions with your people and with the New Zealanders for the purpose of examining what could be done to mitigate the problems created for Australian and New Zealand forces in the Brigade. I would suggest that these might take place at the earliest convenient date.
 
 Looking beyond 1970–71, we have come to the conclusion that we must plan on giving up our bases in Malaysia and Singapore by the mid-seventies while recognising, which was a point that you yourself particularly stressed, that the precise timing of our eventual withdrawal would depend on progress made in achieving a new basis for stability in South East Asia and in resolving other problems in the Far East. We are resolved that Britain shall have a continuing part to play in the area though one that must be commensurate with our resources and we have therefore also confirmed our decision to retain a military capability for use, if required, in the Far East after that time; we are leaving open for the time being the precise character, size and deployment of this capability. But, as you know, we do not think it makes sense for us to offer to provide indefinitely ground troops to defend Asian countries who have it in their power to train and provide their own. What we can do and intend to do is to maintain a military capability for use in the area which provides the sophisticated sea-air support which they cannot afford to provide as an assurance against external aggression.
 
@@ -51,3 +54,5 @@ I am writing on similar lines to Keith Holyoake.
 1  See Document 75.
 
 2 In the _Supplementary Statement on Defence Policy_ (Cmnd 3357), published on 18 July 1967, the personnel at British bases in Malaysia and Singapore were to be cut from 80,000 in 1967 to 40,000 by 1971 (at which point over half would be civilians), and a complete withdrawal would follow by the mid-1970s. Obligations under SEATO would be honoured but the troops assigned to SEATO, including the Commonwealth Brigade, would be reduced. Future strategy in Southeast Asia was to be based on sending forces out from the UK rather than on maintaining permanent bases in the area. The main UK commitment in future was to be in Europe with NATO. The strength of the total UK armed forces was to be cut from 417,360 in 1967 to 380, 100 in 1971, with a further cut of 38,000 by the mid-1970s and a reduction of 80,000 in the number of civilians employed by the services.
+
+[NAA: A1838, TS691/1 PART 11]

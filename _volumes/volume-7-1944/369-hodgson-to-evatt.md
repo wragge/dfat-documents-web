@@ -1,11 +1,17 @@
 ---
-title: "369 Hodgson to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 3016
+doc_date: '1944-12-07'
+doc_num: 369
+doc_order: 369
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, 1.43579]'
+title: Hodgson to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
+vol_title: 'Volume 7: 1944'
 ---
-
-# 369 Hodgson to Evatt
 
 Cablegram 1197 [1] [CHICAGO], 7 December [2] 1944, 7.55 p.m.
 
@@ -19,7 +25,7 @@ Rumours here to-day that Berle has resigned. [4] Undoubtedly he has caused offen
 
 The conference has been very strenuous for me as I am on three Drafting Committees including the main coordinating one which will be working till the last. Wednesday should see the end and I propose to go to Washington on Thursday. I would appreciate if you would send to me there any views or instructions you have.
 
-_
+ _
 
 1 Sent through the Legation in Washington.
 
@@ -29,4 +35,4 @@ _
 
 _
 
-_ [AA:A3195, 1944, 1.43579]_
+ _[AA:A3195, 1944, 1.43579]_

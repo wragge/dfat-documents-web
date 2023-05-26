@@ -1,12 +1,17 @@
 ---
-title: "341 Drakeford to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2988
+doc_date: '1944-11-08'
+doc_num: 341
+doc_order: 341
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/13]'
+title: Drakeford to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-08
+vol_title: 'Volume 7: 1944'
 ---
-
-# 341 Drakeford to Evatt
 
 Cablegram 5 CHICAGO, 8 November 1944, 11.28 p.m.
 
@@ -26,7 +31,7 @@ An endeavour was made by others to induce Australia to merge in a single authori
 
 I have noted your advice regarding Eggleston's assistance [4] and will not hesitate to avail myself of his services whenever necessary.
 
-_
+ _
 
 1 Cablegram unnumbered, dispatched 6 November. On file AA:A989, 44/735/832/12. The Australian Delegation was led by Drakeford and included McVey, Hodgson and Johnston, with H. R. Adam and W. L.
 
@@ -40,4 +45,4 @@ Ellis of the Dept of Civil Aviation as Advisers.
 
 _
 
-_ [AA:A989, 44/735/832/13]_
+ _[AA:A989, 44/735/832/13]_

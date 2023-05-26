@@ -1,14 +1,19 @@
 ---
-title: "2 Minute From Wheeler To Fadden"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7607
+doc_date: '1950-12-06'
+doc_num: 2
+doc_order: 2
+naa_refs:
+- naa_barcode: 134221
+  naa_control_symbol: 1946/1931 PART 15
+  naa_series: A571
+  reference: '[AA : A571/158, 46/1431, xv]'
+title: Minute From Wheeler To Fadden
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1950-12-06
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 2 Minute From Wheeler To Fadden
-
-## 6th December 1950
+6th December 1950
 
 1950/51 Sterling Area Trade Arrangement with Occupied Japan
 
@@ -32,8 +37,8 @@ Australia's Share of the Trade 8. Japan is important to Australia both as a sour
 
 [matter omitted]
 
-_
+ _
 
 _
 
-_ [AA : A571/158, 46/1431, xv]_
+ _[AA : A571/158, 46/1431, xv]_

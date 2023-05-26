@@ -1,12 +1,19 @@
 ---
-title: "442 Record of Conversation Between Peacock and Panggabean"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8280
+doc_date: '1976-04-14'
+doc_num: 442
+doc_order: 441
+naa_refs:
+- naa_barcode: 1505849
+  naa_control_symbol: 3038/10/1 PART 45
+  naa_series: A1838
+  reference: '[NAA: A1838, 3038/10/1, xlv]'
+title: Record of Conversation Between Peacock and Panggabean
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-04-14
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 442 Record of Conversation Between Peacock and Panggabean
 
 Jakarta, 14 April 1976
 
@@ -16,10 +23,10 @@ SECRET AUSTEO
 
 Following opening pleasantries the Minister referred to the importance Australia placed on its relations with Indonesia. He referred to the increase in Australia's economic assistance to Indonesia in the next three year aid programme. He foreshadowed advice on the Second Defence Cooperation Programme from the Australian Defence Minister in the next few weeks.
 
-  2. _Panggabean_1 said that that was good news, but he wanted to talk about Timor.
+  2.  _Panggabean_[1](#f1) said that that was good news, but he wanted to talk about Timor.
   3. Panggabean said he was sorry to have to say that he did not understand why Australia did not give assistance to Indonesia in solving the Timor problem. Indonesia supported the idea of self-determination. APODETI was formed by a spontaneous action of the people. It was not formed by Indonesia. APODETI, UDT (which initially favoured union with Portugal), TRABALISTA and KOTA joined together without Indonesia influencing them.
   4. Panggabean noted that FRETILIN had not attended the Macau Meeting because it had not wanted to accept UDT as representing the majority of the people. Portugal accepted FRETILIN's position and took no action. Then followed the FRETILIN/UDT clash, FRETILIN's counter offensive on 18 August 1975 and their Unilateral Declaration of Independence. Indonesia took no action until the end of September.
-  5. Panggabean claimed that up to that time Australia had done nothing but assist FRETILIN. It never blamed FRETILIN and never helped the other parties. As the situation developed Indonesia could not remain passive. He wondered whether the threat to Indonesia was 'from the north or the south'. Australia was now the base for FRETILIN; its headquarters were moving there. He referred to the activities of Messrs. Scott and Fry and to the petition to the United Nations by 55 MPs.2 Indonesia had never harmed Australia. There was more talk about Timor in Australia than there was in Indonesia. Perhaps all this was because Australia was a democracy, but what about the Minister's 4 March statement?
+  5. Panggabean claimed that up to that time Australia had done nothing but assist FRETILIN. It never blamed FRETILIN and never helped the other parties. As the situation developed Indonesia could not remain passive. He wondered whether the threat to Indonesia was 'from the north or the south'. Australia was now the base for FRETILIN; its headquarters were moving there. He referred to the activities of Messrs. Scott and Fry and to the petition to the United Nations by 55 MPs.[2](#f2) Indonesia had never harmed Australia. There was more talk about Timor in Australia than there was in Indonesia. Perhaps all this was because Australia was a democracy, but what about the Minister's 4 March statement?
   6. The Minister explained that with the democratic system in Australia, the Government was unable to direct public opinion or the attitudes of various groups. His party had not been in Government at the time of the events Panggabean referred to. The Minister pointed out that he had considered the FRETILIN boycott of the Macau meeting as disastrous and had said so publicly. He had never supported FRETILIN, nor had the Labor Government. He had publicly deplored the civil war and FRETILIN's Unilateral Declaration of Independence. At no stage had the Australian Government supported or recognised any party to the dispute. Panggabean said he found this difficult to understand.
   7. The Minister explained that Mr Scott and Mr Fry did not represent the Government's views. Mr Scott was a constant critic of the Government. Mr Fry was a member of the Opposition. Mr Peacock said he would not tolerate the cessation of aid to Indonesia or the breaking of diplomatic relations as some critics demanded. Australia's relations with Indonesia were far more important than their difference over Timor.
   8. The Minister said that, after 7 December, Australia had two other options in relations with Indonesia. First, to ignore mounting domestic pressure and say nothing about the Indonesian troops in East Timor. This approach would have ignored one of the lessons of Vietnam, namely, the need to have public support for foreign policies. The Government's aim was to have close relations with Indonesia. Arousing anti Indonesian feeling would not help. The second option would have been to adopt the idealistic approach and break relations with Indonesia. Mr Peacock repeated that Australia's relationship with Indonesia was far more important than the Timor issue, and referred to the 24% increase in aid as an illustration of this point. Australia had selected the most difficult diplomatic course in relation to Timor. It could not endorse the use of military force in another country or the use of coercion in an act of self-determination.
@@ -53,9 +60,7 @@ Following opening pleasantries the Minister referred to the importance Australia
 
 
 
-_[NAA: A1838, 3038/10/1, xlv]_
+ _[NAA: A1838, 3038/10/1, xlv]_
 
   * 1 Although the conversation was primarily between Panggabean and Peacock the following people were also present: Surono, Hasnan Habib, Moerdani, Adenan, Woolcott, Rowland, Taylor, Capt. M.A.McK. Clarke, Col. D. Drabsch, Col. J. Paat, and an Indonesian civilian recorder.
   * 2 Cablegram CH34136l (8 April) reported that Senator Arthur Gietzelt (ALP, NSW) had informed the Senate on 7 April that a petition had been sent that day to the Security Council by a parliamentary group known as the 'friends of Timor'. The petition had been signed by fifty-five members from all the Australian political parties. It called for the withdrawal of Indonesian forces from East Timor, the establishment of a United Nations presence in the Territory, a 'free and proper' act of self-determination, and the resumption of humanitarian aid.
-
-

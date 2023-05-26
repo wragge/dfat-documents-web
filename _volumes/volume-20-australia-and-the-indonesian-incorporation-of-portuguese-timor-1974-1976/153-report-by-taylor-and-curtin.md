@@ -1,13 +1,21 @@
 ---
-title: "153 Report by Taylor and Curtin"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7992
+doc_date: 1975-07
+doc_num: 153
+doc_order: 153
+naa_refs:
+- naa_barcode: 552300
+  naa_control_symbol: 49/2/1/1 PART 7
+  naa_series: A1838
+  reference: '[NAA: A1838, 49/21111, vii]'
+title: Report by Taylor and Curtin
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
 
-# 153 Report by Taylor and Curtin
-
-July, 19751
+July, 1975 [1](#f1)
 
 SECRET
 
@@ -29,8 +37,6 @@ EXTRACT
 
 
 
-_[NAA: A1838, 49/21111, vii]_
+ _[NAA: A1838, 49/21111, vii]_
 
-  * 1 The cited copy of the report is undated. Curtin and Taylor visited Portuguese Timor from 25 June to 9 July. They interviewed key figures in the Administration, representatives of the three parties, members of the military and village chiefs. They visited Aileu, Maubisse, Ossu, Ermera and Manatuto as well as Dili. In paragraph 2 of the introduction they reported their 'firm impression that the way ahead is going to be very difficult ... There is, in particular, a reluctance to come to terms with the views of the Indonesian Government. It is not appreciated how determined Indonesia is to achieve "integration" '.They noted that other visitors at the same time included the NZ and Italian Ambassadors from Jakarta, the newly appointed British Consul (resident in Jakarta) and a project officer from UNESCO. 
-
-
+  * 1 The cited copy of the report is undated. Curtin and Taylor visited Portuguese Timor from 25 June to 9 July. They interviewed key figures in the Administration, representatives of the three parties, members of the military and village chiefs. They visited Aileu, Maubisse, Ossu, Ermera and Manatuto as well as Dili. In paragraph 2 of the introduction they reported their 'firm impression that the way ahead is going to be very difficult ... There is, in particular, a reluctance to come to terms with the views of the Indonesian Government. It is not appreciated how determined Indonesia is to achieve "integration" '.They noted that other visitors at the same time included the NZ and Italian Ambassadors from Jakarta, the newly appointed British Consul (resident in Jakarta) and a project officer from UNESCO.

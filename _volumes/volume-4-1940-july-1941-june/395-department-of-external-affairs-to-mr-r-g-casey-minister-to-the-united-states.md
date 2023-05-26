@@ -1,12 +1,17 @@
 ---
-title: "395 Department of External Affairs to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1626
+doc_date: '1941-04-09'
+doc_num: 395
+doc_order: 395
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3831, 1941, 607]'
+title: Department of External Affairs to Mr R. G. Casey, Minister to the United States
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-09
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 395 Department of External Affairs to Mr R. G. Casey, Minister to the United States
 
 Cablegram 454 9 April 1941,
 
@@ -22,7 +27,7 @@ Your telegram No.250 of 2nd April, 1941. [3] We learn with great satisfaction th
 
 4\. Moorings for flying boats and aerodrome for limited operation of Hudson aircraft are available at Rabaul. Small stocks of aircraft fuel and bombs are also held there.
 
-_
+ _
 
 1 Commander D. H. Harries.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A3831, 1941, 607]_
+ _[AA:A3831, 1941, 607]_

@@ -1,26 +1,31 @@
 ---
-title: "33 Notes Of Discussions Between CRA And Government Officials"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9541
+doc_date: '1966-03-25'
+doc_num: 33
+doc_order: 33
+naa_refs:
+- naa_barcode: 12031700
+  naa_control_symbol: 1967/1107
+  naa_series: A452
+  reference: '[NAA: A452, 1967/1107]'
+title: Notes Of Discussions Between CRA And Government Officials
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-03-25
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 33 Notes Of Discussions Between CRA And Government Officials
 
 Canberra, 25 March 1966
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-2\. The meeting opened with general talks on the mining project and on the stage which the company felt had been reached in the need for more firm titles over its prospecting areas; and then passed on to a discussion of points which are set down as headings in the attachment to C.R.A.’s letter to Mr. Warwick Smith, dated 25th February, 1966.1
+2\. The meeting opened with general talks on the mining project and on the stage which the company felt had been reached in the need for more firm titles over its prospecting areas; and then passed on to a discussion of points which are set down as headings in the attachment to C.R.A.’s letter to Mr. Warwick Smith, dated 25th February, 1966.[1](#f1)
 
-_General position_
+ _General position_
 
 3\. Mr. Espie pointed out that C.R.A. is now ready to mount a substantially expanded programme. He would like to move fast on making an agreement in order to justify to his Board of Directors a proposed expenditure of $200,000 per month. Additional points which C.R A. representatives made were—
 
 • C.R.A. are not worried about the period while Australian Government remains administering authority but it is concerned to safeguard its position when an independent Government takes office
 
-•There had been rethinking since meeting in Port Moresby of 8th to 10th February2—it is now considered possible that the large area required for storing overburden may require the mill and town to be taken out of the valley and located near the east coast
+•There had been rethinking since meeting in Port Moresby of 8th to 10th February[2](#f2)—it is now considered possible that the large area required for storing overburden may require the mill and town to be taken out of the valley and located near the east coast
 
 • Considerable work has to be done before land requirements can be identified— even by 31st December, 1966, these may only be identified in general terms and with alternatives
 
@@ -40,7 +45,7 @@ _General position_
 
 6\. After discussion, the company accepted that it would not be possible for an agreement to be made for some months and it agreed that a letter of understanding would be a suitable document to cover the interim period of investigation.
 
-_Points raised in company’s letter_
+ _Points raised in company’s letter_
 
 Compensation On Resumption
 
@@ -88,7 +93,7 @@ Next Meeting
 
 • draft agreement
 
-• papers on subjects referred to above.3
+• papers on subjects referred to above.[3](#f3)
 
 [NAA: A452, 1967/1107]
 

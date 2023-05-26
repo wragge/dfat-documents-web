@@ -1,12 +1,18 @@
 ---
-title: "360 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1591
+doc_date: '1941-03-21'
+doc_num: 360
+doc_order: 360
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.4300]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-21
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 360 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 180 LONDON, 21 March 1941, 3.30 a.m.
 
@@ -28,7 +34,7 @@ Following are the views of our military advisers on telegraphic report of the co
 
 4\. Military advisers for their part agree to proposals regarding participation of Netherlands East Indies in the Eastern Group Supply Council.
 
-_
+ _
 
 1 On file AA:A1608, AA27/1/1.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA:A3195, 1941, 1.4300]_
+ _[AA:A3195, 1941, 1.4300]_

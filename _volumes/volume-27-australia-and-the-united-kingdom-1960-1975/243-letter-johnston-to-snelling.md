@@ -1,20 +1,23 @@
 ---
-title: "243 LETTER, JOHNSTON TO SNELLING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10108
+doc_date: '1967-10-20'
+doc_num: 243
+doc_order: 243
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 20/54]'
+title: LETTER, JOHNSTON TO SNELLING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-10-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 243 LETTER, JOHNSTON TO SNELLING
-
-UKNA: FCO 20/54 
 
 British High Commission, Canberra, 20 October 1967
 
 Confidential
 
-Since the party of Australian officials, who were in London recently for the trade talks,1 returned to Canberra we have sensed that they were rather disenchanted with their experiences in London. Alan Westerman is not back yet, but we have heard indirectly that the other officials felt that the atmosphere at the talks was not markedly friendly.
+Since the party of Australian officials, who were in London recently for the trade talks,[1](#f1) returned to Canberra we have sensed that they were rather disenchanted with their experiences in London. Alan Westerman is not back yet, but we have heard indirectly that the other officials felt that the atmosphere at the talks was not markedly friendly.
 
 2\. In today’s ‘Financial Review’ there is a long piece by the paper’s economic reporter in Canberra, referring to the talks and indeed to many other subjects. I am enclosing a copy of this report. I have little doubt that the story was inspired by people in the Department of Trade, to which the reporter has added bits about defence and foreign policy. You will see that he uses such phrases ‘the hardness’ of our line, and the ‘off-handed treatment’ accorded the delegation.
 
@@ -25,3 +28,5 @@ Since the party of Australian officials, who were in London recently for the tra
 I am sending a copy of this to Bill Hughes.
 
 1  Document 240. 
+
+[UKNA: FCO 20/54]

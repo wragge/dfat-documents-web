@@ -1,12 +1,17 @@
 ---
-title: "386 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 723
+doc_date: '1939-11-24'
+doc_num: 386
+doc_order: 386
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: FO 371/23967]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Dominions Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-24
+vol_title: 'Volume 2: 1939'
 ---
-
-# 386 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Dominions Office
 
 Cablegram 301 CANBERRA, 24 November 1939
 
@@ -44,7 +49,7 @@ Incidentally with regard to the suggestion in the telegram under reference that 
 
 Cabinet will consider the question on Monday and will almost certainly decide to send sixth division overseas as soon as shipping available. [10]
 
-_
+ _
 
 1 Not printed.
 
@@ -68,4 +73,4 @@ _
 
 _
 
-_ [PRO: FO 371/23967]_
+ _[PRO: FO 371/23967]_

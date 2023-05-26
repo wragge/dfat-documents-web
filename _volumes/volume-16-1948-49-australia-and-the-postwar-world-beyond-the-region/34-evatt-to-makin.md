@@ -1,12 +1,17 @@
 ---
-title: "34 Evatt to Makin"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6749
+doc_date: '1948-05-01'
+doc_num: 34
+doc_order: 34
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA : A3196, 1948, O.6192]'
+title: Evatt to Makin
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-05-01
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 34 Evatt to Makin
 
 Cablegram 428, CANBERRA, 1 May 1948
 
@@ -26,10 +31,10 @@ BEGINS: We have watched closely the debates which have taken place in the Specia
 
 Please acknowledge time of receipt and delivery.
 
-_ [1] Conference on Freedom of Information of the Press, held from 23 March to 21 April 1948 at Geneva.
+ _[1] Conference on Freedom of Information of the Press, held from 23 March to 21 April 1948 at Geneva.
 
 [2] Presumably the word 'with' was omitted.
 
 _
 
-_ [AA : A3196, 1948, O.6192]_
+ _[AA : A3196, 1948, O.6192]_

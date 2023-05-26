@@ -1,12 +1,18 @@
 ---
-title: "219 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 2: 1939"
-doc_id: 556
+doc_date: '1939-09-11'
+doc_num: 219
+doc_order: 219
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:FO 371/23562]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr A. Eden,
+  U.K. Secretary of State for Dominion Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-11
+vol_title: 'Volume 2: 1939'
 ---
-
-# 219 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 191 CANBERRA, 11 September 1939
 
@@ -42,7 +48,7 @@ Further while open [sic] [4] might in the event of Japan entering the war agains
 
 Your views upon points I have raised above by tomorrow would greatly help our considerations. Ends.
 
-_
+ _
 
 1 Document 214.
 
@@ -54,4 +60,4 @@ _
 
 _
 
-_ [PRO:FO 371/23562]_
+ _[PRO:FO 371/23562]_

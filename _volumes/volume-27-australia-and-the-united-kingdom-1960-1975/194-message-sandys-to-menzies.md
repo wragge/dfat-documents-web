@@ -1,14 +1,17 @@
 ---
-title: "194 MESSAGE, SANDYS TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10059
+doc_date: '1962-07-24'
+doc_num: 194
+doc_order: 194
+naa_refs:
+- naa_barcode: 1160733
+  naa_control_symbol: VOLUME 3
+  naa_series: A3917
+  reference: '[NAA:A3917 VOLUME 3]'
+title: MESSAGE, SANDYS TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-07-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 194 MESSAGE, SANDYS TO MENZIES
-
-NAA:A3917 VOLUME 3
 
 London, 24 July 1962
 
@@ -37,3 +40,5 @@ As Mr. Macmillan told you on 9th June before you left London, despite further fo
 8\. As regards conditions of competition we have to recognise that it is the aim of the Community to be non-discriminatory as between third countries. We are being reluctantly forced to the conclusion that this means there is virtually no prospect of retaining the existing Commonwealth preferences after the transitional period and that we shall probably have to accept that they should be phased out by 1970. During the transitional period however our aim is to retain as much of the preferences as possible. We shall aim also at securing as much of the benefit of the intra-community preference as possible for Commonwealth countries against other third country suppliers. We shall also do our best to ensure that the intra-community preference arrangements during the transitional period are not such as to put Commonwealth exporters at a serious competitive disadvantage in the British market as compared with community suppliers.
 
 9\. I am giving you the above outline so that you may know our present thinking about the prospects and possibilities. But we cannot determine now the precise terms of a possible solution. We propose therefore to keep in the closest touch with Commonwealth representatives in Brussels as the discussions develop.
+
+[NAA:A3917 VOLUME 3]

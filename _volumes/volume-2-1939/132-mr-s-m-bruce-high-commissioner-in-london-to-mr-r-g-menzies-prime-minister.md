@@ -1,12 +1,28 @@
 ---
-title: "132 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 469
+doc_date: '1939-08-16'
+doc_num: 132
+doc_order: 132
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[From the end of July 1939, Bruce and A.T. Stirling, External Affairs
+    Officer in London, sent to Australia reports suggesting increased German activity
+    in Danzig and on the Polish frontier, including considerable movements of German
+    troops. They reported also that Poland had reinforced her frontier, and that in
+    an atmosphere of incidents, reprisals and mutual recriminations, there was a general
+    fear that the deteriorating relationship between German and Polish leaders could
+    at any time precipitate open warfare. (See AA: A981, Germany 67, i and ibid.,
+    Germany 83B, iii.)]'
+- naa_barcode: 176503
+  naa_control_symbol: GER 55
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 55]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-16
+vol_title: 'Volume 2: 1939'
 ---
-
-# 132 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 336 LONDON, 16 August 1939
 
@@ -18,7 +34,7 @@ Reference Ciano's visit to Hitler [1], the latter's conversation with Burckhardt
 
 BRUCE
 
-_
+ _
 
 1 Count Galeazzo Ciano, Italian Foreign Minister, met Adolf Hitler, the German Chancellor, at Berchtesgaden on 12 and 13 August 1939.
 
@@ -30,4 +46,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 55]_
+ _[AA: A981, GERMANY 55]_

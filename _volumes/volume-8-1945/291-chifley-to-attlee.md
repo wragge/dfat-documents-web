@@ -1,12 +1,17 @@
 ---
-title: "291 Chifley to Attlee"
-volume: "Volume 8: 1945"
-doc_id: 3322
+doc_date: '1945-10-04'
+doc_num: 291
+doc_order: 291
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 1902]'
+title: Chifley to Attlee
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-04
+vol_title: 'Volume 8: 1945'
 ---
-
-# 291 Chifley to Attlee
 
 Cablegram 324 CANBERRA, 4 October 1945
 
@@ -46,10 +51,10 @@ The Joint Chiefs of Staff in Australia would deal with the purely military quest
 
 8\. Referring to your paragraph 5, we will be glad to make the necessary approach to the United States Government with the joint proposal, on receipt of your reply and that of the New Zealand Government, to which we are repeating this cablegram. We will also inform both Governments shortly of our nomination of the officer to command the Force.
 
-_
+ _
 
 1 Document 284. 2 Document 256.
 
 _
 
-_ [AA : A5954, BOX 1902]_
+ _[AA : A5954, BOX 1902]_

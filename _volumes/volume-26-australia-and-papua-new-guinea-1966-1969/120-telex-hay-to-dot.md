@@ -1,13 +1,17 @@
 ---
-title: "120 Telex, Hay To Dot"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9628
+doc_date: '1967-06-13'
+doc_num: 120
+doc_order: 120
+naa_refs:
+- naa_barcode: 3111707
+  naa_control_symbol: 1967/2735
+  naa_series: A452
+  reference: '[NAA: A452, 1967/2735]'
+title: Telex, Hay To Dot
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-06-13
-barcode: 3111707
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 120 Telex, Hay To Dot
 
 Port Moresby, 13 June 1967
 
@@ -15,15 +19,15 @@ Port Moresby, 13 June 1967
 
 Following is text of press statement on the nomination of a new political party.
 
-The thirteen men, known as the home rule group,1 together with some nine elected members of the House of Assembly have joined to form a new political party called the Pangu Pati. (Pangu stands for Papua New Guinea Union). Behind the original group now stand many supporters from every corner of the country and representing all races. These supporters, with those living in Moresby, will form the nucleus of membership of the new party.
+The thirteen men, known as the home rule group,[1](#f1) together with some nine elected members of the House of Assembly have joined to form a new political party called the Pangu Pati. (Pangu stands for Papua New Guinea Union). Behind the original group now stand many supporters from every corner of the country and representing all races. These supporters, with those living in Moresby, will form the nucleus of membership of the new party.
 
 As well as individual supporters there are groups of like minded people in other main centres who have expressed their desire to join.
 
-The inaugural group of founding members have formed a parliamentary wing and an interim central executive.2
+The inaugural group of founding members have formed a parliamentary wing and an interim central executive.[2](#f2)
 
 The parliamentary wing comprises the following Members of the House of Assembly:
 
-_[matter omitted]3_
+ _[matter omitted][3](#f3)_
 
 There are other members who have indicated their desire to join the parliamentary wing and their names will be announced from time to time. The parliamentary wing will soon elect a parliamentary leader. Also the names of Pangu Pati candidates standing under the Pangu Pati banner at the next elections will be announced.
 
@@ -39,7 +43,7 @@ Members| Mr Epel Tito
 | Mr Cromwell Burau  
 | Mr Cecil Abel  
 | Mr Ebia Olewale  
-| Mr Thomas Tobaining4  
+| Mr Thomas Tobaining[4](#f4)  
   
 The central executive has nearly completed a draft constitution.
 
@@ -83,7 +87,7 @@ Pangu believes that localisation of the public service must become a fact and no
 6\. _Overseas investment_  
 Pangu stands for the encouragement of overseas capital investment in Papua New Guinea. To do this—
 
-(a) 5 The security of overseas investment must be guaranteed and, at the same time, adequate provision must be made to safeguard national interests as well as the people’s interests.
+(a) [5](#f5) The security of overseas investment must be guaranteed and, at the same time, adequate provision must be made to safeguard national interests as well as the people’s interests.
 
 7\. _Increase the national income_  
 Pangu aims high. To double the real national income within ten years. 
@@ -104,16 +108,16 @@ Pangu will press for the setting up of a new Department of Local Government that
 
 11\. _Education_  
 Far greater assistance must be given to missions in the running of primary and secondary schools. The Administration alone cannot do this job.  
-Pangu’s policy on education covers increased educational subsidies to missions, one syllabus for all schools, [and a] national adult literary6 program.
+Pangu’s policy on education covers increased educational subsidies to missions, one syllabus for all schools, [and a] national adult literary[6](#f6) program.
 
 12\. _Rural and technical education-school drop-outs_
 
 (a) Pangu will work for the stressing of rural or farm and technical education to be included in primary and secondary schools.
 
-(b) The number of boys and girls obliged to leave school in the lower grades is increasing. A national sett7 is becoming calamity. Yet nothing is being done for them. We regard this problem as one of urgent priority.
+(b) The number of boys and girls obliged to leave school in the lower grades is increasing. A national sett[7](#f7) is becoming calamity. Yet nothing is being done for them. We regard this problem as one of urgent priority.
 
 13\. _Housing_  
-Pangu will make the provision of adequate housing one of its main objectives.8 Advocate the setting up of a national housing authority to meet the critical housing shortage.
+Pangu will make the provision of adequate housing one of its main objectives.[8](#f8) Advocate the setting up of a national housing authority to meet the critical housing shortage.
 
 14\. _Better communications_  
 Communication facilities in a developing country are a prime necessity—not a luxury. National unity, economic progress and administrative efficiency all depend on adequate communication. To this end—
@@ -130,7 +134,7 @@ Communication facilities in a developing country are a prime necessity—not a l
 
 15\. _Better conditions for rural urban workers_
 
-[ [NAA: A452, 1967/2735](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3111707) ]
+[NAA: A452, 1967/2735]
 
 1 See Document 97.
 

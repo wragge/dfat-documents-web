@@ -1,14 +1,19 @@
 ---
-title: "290 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 289
+doc_date: '1938-09-28'
+doc_num: 290
+doc_order: 289
+naa_refs:
+- naa_barcode: 174711
+  naa_control_symbol: CZE 13 PART 1
+  naa_series: A981
+  reference: '[AA : A981, CZECHOSLOVAXIA 13]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-28
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 290 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
-
-## Cablegram unnumbered LONDON, 28 September 1938, 1.42 p.m.
+Cablegram unnumbered LONDON, 28 September 1938, 1.42 p.m.
 
 IMMEDIATE
 
@@ -30,11 +35,11 @@ I have already guaranteed that the Czech promises shall be carried out and feel 
 
 BRUCE
 
-_
+ _
 
 1 No record of the substance of this conversation has been found.
 
-Cabinet Minute 193 records that it took place in the Cabinet Office and that it was audible to Cabinet members (see PM&amp;C:
+Cabinet Minute 193 records that it took place in the Cabinet Office and that it was audible to Cabinet members (see PM &C:
 
 A2694, minute 193, 28 September 1938).
 
@@ -44,4 +49,4 @@ A2694, minute 193, 28 September 1938).
 
 _
 
-_ [AA : A981, CZECHOSLOVAXIA 13]_
+ _[AA : A981, CZECHOSLOVAXIA 13]_

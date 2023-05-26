@@ -1,11 +1,17 @@
 ---
-title: "24 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1255
+doc_date: '1940-07-11'
+doc_num: 24
+doc_order: 24
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1940, 1.5331]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 24 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 536 LONDON, 11 [July] [1] 1940, 5.47 p.m.
 
@@ -17,7 +23,7 @@ With regard to choice of Latham for the post, the Secretary of State says - 'We 
 
 BRUCE
 
-_
+ _
 
 1 In the original the month of dispatch and receipt was incorrectly recorded as June.
 
@@ -27,4 +33,4 @@ _
 
 _
 
-_ [AA: A3195, 1940, 1.5331]_
+ _[AA: A3195, 1940, 1.5331]_

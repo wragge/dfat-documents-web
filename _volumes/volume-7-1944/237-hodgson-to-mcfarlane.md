@@ -1,14 +1,19 @@
 ---
-title: "237 Hodgson to McFarlane"
-volume: "Volume 7: 1944"
-doc_id: 2884
+doc_date: '1944-07-24'
+doc_num: 237
+doc_order: 237
+naa_refs:
+- naa_barcode: 11210693
+  naa_control_symbol: 1945/244
+  naa_series: A571
+  reference: '[AA:A571, [45/244]'
+title: Hodgson to McFarlane
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-10
+vol_title: 'Volume 7: 1944'
 ---
 
-# 237 Hodgson to McFarlane
-
-## Memorandum CANBERRA, 24 [July] 1944
+Memorandum CANBERRA, 24 [July] 1944
 
 I desire to refer to the Treasurer's memorandum of the 10th July, 1944 [1], concerning a proposal for the setting up of an organisation for post hostilities planning in international affairs and in which he stated that-
 
@@ -48,7 +53,7 @@ In addition the necessity for a continuing study of numerous aspects of Australi
 
 W. R. HODGSON
 
-_
+ _
 
 1 Document 217.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA:A571, [45/244]]_
+ _[AA:A571, [45/244]]_

@@ -1,12 +1,18 @@
 ---
-title: "369 Burton to Evatt and Hood"
-volume: "Volume 8: 1945"
-doc_id: 3400
+doc_date: '1945-11-08'
+doc_num: 369
+doc_order: 369
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN
+    MINISTERS'' CONFERENCE, 0.28429 and 0.28437]'
+title: Burton to Evatt and Hood
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-11-08
+vol_title: 'Volume 8: 1945'
 ---
-
-# 369 Burton to Evatt and Hood
 
 Cablegrams 1666, 494 CANBERRA, 8 November 1945
 
@@ -20,6 +26,6 @@ Everything possible will be done to find a common basis for improved relations.
 
 2\. You should know that co-operation and friendly relations exist between our security, shipping and other such officers and mutually satisfactory arrangements are being made but are being knocked over at higher levels.
 
-_ 1 Document 367._
+ _1 Document 367._
 
-_ [AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN MINISTERS' CONFERENCE, 0.28429 and 0.28437]_
+ _[AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN MINISTERS' CONFERENCE, 0.28429 and 0.28437]_

@@ -1,12 +1,18 @@
 ---
-title: "292 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2046
+doc_date: '1942-01-22'
+doc_num: 292
+doc_order: 293
+naa_refs:
+- naa_barcode: 232254
+  naa_control_symbol: '1'
+  naa_series: A2937
+  reference: '[AA:A2937, A.B.D.A. STRATEGIC AREA, 1941-1942]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-22
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 292 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram P29 LONDON, 22 January 1942
 
@@ -32,7 +38,7 @@ Suggest that whatever representation you have on Wavell's staff should be fully 
 
 PAGE
 
-_
+ _
 
 1 Allied Supreme Commander of the A.B.D.A. Area.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [AA:A2937, A.B.D.A. STRATEGIC AREA, 1941-1942]_
+ _[AA:A2937, A.B.D.A. STRATEGIC AREA, 1941-1942]_

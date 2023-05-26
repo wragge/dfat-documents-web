@@ -1,12 +1,17 @@
 ---
-title: "145 Stokes to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3993
+doc_date: '1946-09-30'
+doc_num: 145
+doc_order: 145
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838/2, 382/8/2/1, i]'
+title: Stokes to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-09-30
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 145 Stokes to Department of External Affairs
 
 Paper SINGAPORE [30 September 1946] [1]
 
@@ -46,7 +51,7 @@ The rewards of the work should be sufficient to see that we have the best retain
 
 H. A. STOKES
 
-_
+ _
 
 1 The paper itself is undated. It was sent to Evatt by Massey as 'Annex K' to Dispatch CM17, dated 30 September, reporting his and Stokes's attendance at a meeting of the British Defence Committee in South East Asia on 26 September.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA:A1838/2, 382/8/2/1, i]_
+ _[AA:A1838/2, 382/8/2/1, i]_

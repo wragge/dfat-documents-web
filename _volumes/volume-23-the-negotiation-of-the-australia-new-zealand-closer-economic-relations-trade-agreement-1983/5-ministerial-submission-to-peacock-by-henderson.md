@@ -1,12 +1,19 @@
 ---
-title: "5 Ministerial Submission to Peacock by Henderson"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8875
+doc_date: '1978-04-24'
+doc_num: 5
+doc_order: 5
+naa_refs:
+- naa_barcode: 1389677
+  naa_control_symbol: 370/1/19/18 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, i]'
+title: Ministerial Submission to Peacock by Henderson
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1978-04-24
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 5 Ministerial Submission to Peacock by Henderson
 
 Canberra, 24 April 1978
 
@@ -24,16 +31,13 @@ ISSUES: The minute illustrates the issue raised in my telex of 23 April. It reco
 
 
 
-RECOMMENDATIONS: It is recommended that you direct us urgently on how you wish us to proceed and in particular whether you wish to write to the Prime Minister and Mr Anthony on this matter.1
+RECOMMENDATIONS: It is recommended that you direct us urgently on how you wish us to proceed and in particular whether you wish to write to the Prime Minister and Mr Anthony on this matter.[1](#f1)
 
 _[NAA: A1838, 370/1119/18, i]_
 
   * 1 Peacock annotated the submission with his decision:  
 
 
-'1) I share your concerns &amp; have indicated this verbally to Scully-last Mon. night in Perth.
+'1) I share your concerns  & have indicated this verbally to Scully-last Mon. night in Perth.
 
 2) We should write to PM and Dep. PM urgently. A. S. P. 27/4.'
-
-
-

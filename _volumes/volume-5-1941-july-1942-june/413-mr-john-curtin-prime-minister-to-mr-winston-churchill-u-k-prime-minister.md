@@ -1,11 +1,17 @@
 ---
-title: "413 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2167
+doc_date: 1942-03
+doc_num: 413
+doc_order: 414
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:DO 35/1009, i]'
+title: Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 413 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
 
 Cablegram Johcu 26 [1] CANBERRA, n.d.
 
@@ -21,7 +27,7 @@ We should hope however Casey stays long enough to meet Evatt and thus accomplish
 
 CURTIN
 
-_
+ _
 
 1 Sent through the U.K. Dominions Office.
 
@@ -35,4 +41,4 @@ _
 
 _
 
-_ [PRO:DO 35/1009, i]_
+ _[PRO:DO 35/1009, i]_

@@ -1,41 +1,45 @@
 ---
-title: "81 Letter, Warwick Smith To Cleland"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9589
+doc_date: '1966-12-15'
+doc_num: 81
+doc_order: 81
+naa_refs:
+- naa_barcode: 12030526
+  naa_control_symbol: 1966/6372
+  naa_series: A452
+  reference: '[NAA: A452, 1966/6372]'
+title: Letter, Warwick Smith To Cleland
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-12-15
-barcode: 12030526
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 81 Letter, Warwick Smith To Cleland
 
 Canberra, 15 December 1966
 
-We had some useful talks with Mr. McCasker and Dr. Parker1 recently on the work under way on the development programme and I am writing to mention the main points that emerged during the talks and to look at them in the context of our overall objectives.
+We had some useful talks with Mr. McCasker and Dr. Parker[1](#f1) recently on the work under way on the development programme and I am writing to mention the main points that emerged during the talks and to look at them in the context of our overall objectives.
 
-The first point is that the development programme must be based on the World Bank Mission Report.2 We have no mandate to prepare a programme on any other basis. Our only authority is the Government’s decision on the Report. It accepted the Mission’s production programmes as a working basis for planning and its proposals and suggestions for the development of manufacturing industry, tourism, mining, power supplies, transport and communications were accepted as guides for policy and action. The Government decided that additional expenditures should be concentrated on increasing production from agriculture, livestock and forestry and on accelerating the advancement of the native people through training and education. It recognised along with the Bank Mission that the rate of expansion of activities such as curative health services, primary education, public utilities and general government services should be related to the capacity of the Territory’s population to contribute towards them ...
+The first point is that the development programme must be based on the World Bank Mission Report.[2](#f2) We have no mandate to prepare a programme on any other basis. Our only authority is the Government’s decision on the Report. It accepted the Mission’s production programmes as a working basis for planning and its proposals and suggestions for the development of manufacturing industry, tourism, mining, power supplies, transport and communications were accepted as guides for policy and action. The Government decided that additional expenditures should be concentrated on increasing production from agriculture, livestock and forestry and on accelerating the advancement of the native people through training and education. It recognised along with the Bank Mission that the rate of expansion of activities such as curative health services, primary education, public utilities and general government services should be related to the capacity of the Territory’s population to contribute towards them ...
 
 Mr. McCasker is in effect required to translate the Mission’s proposals into a draft practical programme of action for the Minister’s approval, and for presentation to the House of Assembly and the public of Papua and New Guinea. This is a substantial task, particularly in view of developments since the Report was written and because of gaps in the Report itself, but where revisions in the Mission’s targets and programmes are considered necessary the reasons for departures from the Report must be fully substantiated. The Minister will need to consider each proposed change closely in the light of the Government’s decision on the Report.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 In translating the Mission’s programmes into specific programmes and projects and in assessing their implications I would not want Mr. McCasker to be put off by fears about likely costs. The programmes for the productive sectors should at this stage be prepared with an eye to achieving the development envisaged by the Bank Mission. The cost of these programmes can be examined closely at a later stage. On the other hand programmes for the non-productive areas including general administration services should be kept under restraint as suggested by the Mission and each proposed increase in expenditure will need to be carefully considered.
 
 We have discussed with Mr. McCasker the two stages in the preparation of the development programme which are considered appropriate. The first stage is the preparation of a general paper for the House of Assembly by February, 1967. This would discuss broad objectives and targets as well as the background to the Government’s policies for development. The second stage is the preparation of a more detailed and comprehensive programme along the lines of Mr. McCasker’s ‘basic’ development programme which could be published in time for the 1967 budget session.
 
-[_matter omitted_]3
+[ _matter omitted_ ][3](#f3)
 
-**Attachment**
+ **Attachment**
 
-**NOTES OF DISCUSSIONS BETWEEN McCASKER AND DOT**
+ **NOTES OF DISCUSSIONS BETWEEN McCASKER AND DOT**
 
 Canberra, 21–24 November 1966
 
-**Papua and New Guinea development programme**
+ **Papua and New Guinea development programme**
 
-_Approach to programme_
+ _Approach to programme_
 
-The principal aim is to prepare a development programme based on the I.B.R.D. Mission Report extending to 1969/70 which will achieve a quantum of development approximately equal to that recommended by the I.B.R.D. This programme would be in some detail, spelling out departmental requirements in physical and financial terms, and the estimates for 1967/68 would be directly related to it. The approach adopted in the budget paper ‘expenditure and physical performance’ in 1966/674 was intended as a first step towards the preparation of such a programme, and all departments of the Administration have been instructed to set down targets and produce estimates in this form up to and including 1969/70.
+The principal aim is to prepare a development programme based on the I.B.R.D. Mission Report extending to 1969/70 which will achieve a quantum of development approximately equal to that recommended by the I.B.R.D. This programme would be in some detail, spelling out departmental requirements in physical and financial terms, and the estimates for 1967/68 would be directly related to it. The approach adopted in the budget paper ‘expenditure and physical performance’ in 1966/67[4](#f4) was intended as a first step towards the preparation of such a programme, and all departments of the Administration have been instructed to set down targets and produce estimates in this form up to and including 1969/70.
 
 This basic programme should be completed by mid–1967 in time for consideration in conjunction with the estimates. If approved, it would be published in advance of the budget.
 
@@ -43,9 +47,9 @@ In the meantime, it is considered essential to produce a summarized programme, b
 
 It was recognised that the basic programme would, for the most part, be expressed in global terms. It would be necessary as a matter of urgency to translate the programme into specific projects, which would need to be planned in detail and submitted for approval. The programme should be revised each year. The Secretary suggested that each issue should contain a section exploring some particular aspect in detail. He expressed the view that the publications should show the significance of the Commonwealth grant to the economy.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_Critical areas for policy consideration_
+ _Critical areas for policy consideration_
 
 • Cost of programme
 
@@ -100,7 +104,7 @@ Problem of controlling level of production has arisen and could become serious i
 \- Tea  
 Question of achieving greater native participation in the industry was raised.
 
-[ [NAA: A452, 1966/6372](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=12030526) ]
+[NAA: A452, 1966/6372]
 
 1  Dr M.L. Parker, Office of the Economic Adviser, PNG. 
 
@@ -108,4 +112,4 @@ Question of achieving greater native participation in the industry was raised.
 
 3  Matter omitted included the comment that draft documents would have to be cleared through the normal channels, with approval of the Minister being of particular importance ‘because of the political implications of [the papers] and because he will have to take full responsibility for them’. It was also remarked that drafts might be passed to recognised experts and other Commonwealth departments such as Treasury. McCasker responded on 21 December that ‘unless a good deal more in the way of revised programmes and detailed policy implications can be taken on trust (which, I admit, is a tall order), I do not think it will be practicable to produce a very meaningful document in February’ (minute, McCasker to Warwick Smith; 21 December 1966, NAA: A452, 1966/6372). 
 
-4  Not printed. 
+4  Not printed.

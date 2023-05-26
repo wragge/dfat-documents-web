@@ -1,14 +1,17 @@
 ---
-title: "260 CABLEGRAM, DOWNER TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10125
+doc_date: '1971-07-20'
+doc_num: 260
+doc_order: 260
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: M1003
+  reference: '[NAA: Ml003]'
+title: CABLEGRAM, DOWNER TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-07-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 260 CABLEGRAM, DOWNER TO MCMAHON
-
-NAA: Ml003 
 
 London, 20 July 1971
 
@@ -34,10 +37,12 @@ The Financial Times gives a similar report, but at the end it reports Callaghan 
 
 2\. On the basis of this evidence, do you wish to make a reply? Alternatively, I am quite prepared to do so if you so desire.
 
-3\. You will recall the negotiations in 1968. Harold Lever, the Financial Secretary to the Treasury, and Jenkins’ principal lieutenant, in a conference with me on 30 May 1968 took a much softer line. I took Fleming with me. See my 9000 to you 30 May 1968.1
+3\. You will recall the negotiations in 1968. Harold Lever, the Financial Secretary to the Treasury, and Jenkins’ principal lieutenant, in a conference with me on 30 May 1968 took a much softer line. I took Fleming with me. See my 9000 to you 30 May 1968.[1](#f1)
 
 You will also remember that in 1968 we were smarting under the British Government’s reversal of policy over Defence commitments East of the Suez, and that we were also unhappy about the consequences of their devaluation of sterling on 18 November 1967 contrary to their previous assurances to us. All of these things Jenkins ignores.
 
 During my time here I have never found Jenkins friendly towards Australia, or either the Old Commonwealth or the new. In my seven years here he has persistently refused all invitations to official and private entertainments I have given. In the Labour Government, where we had a number of Ministers well disposed towards us, he always seemed the chief of those who operated against Australia’s interests. I have long felt it no exaggeration to describe him as anti-Australian.
 
 1  Document 257. 
+
+[NAA: Ml003]

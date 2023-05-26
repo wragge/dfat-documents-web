@@ -1,12 +1,19 @@
 ---
-title: "394 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 731
+doc_date: '1939-11-28'
+doc_num: 394
+doc_order: 394
+naa_refs:
+- naa_barcode: 856251
+  naa_control_symbol: '274'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, AUSTRALIAN CO-OPERATION IN
+    THE 1939-45 WAR: DESPATCH OF FORCES OVERSEAS (M.6.(d))]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-28
+vol_title: 'Volume 2: 1939'
 ---
-
-# 394 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
 
 Cablegram C49 LONDON, 28 November 1939
 
@@ -24,7 +31,7 @@ Northcott will discuss Field Artillery and other equipment situation with War Of
 
 CASEY
 
-_ 1 N.K.S. Brodribb, Controller-General of Munitions Supply.
+ _1 N.K.S. Brodribb, Controller-General of Munitions Supply.
 
 2 Maj Gen J. Northcott, Deputy Chief of the General Staff.
 
@@ -44,4 +51,4 @@ _ 1 N.K.S. Brodribb, Controller-General of Munitions Supply.
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, AUSTRALIAN CO-OPERATION IN THE 1939-45 WAR: DESPATCH OF FORCES OVERSEAS (M.6.(d))]_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, AUSTRALIAN CO-OPERATION IN THE 1939-45 WAR: DESPATCH OF FORCES OVERSEAS (M.6.(d))]_

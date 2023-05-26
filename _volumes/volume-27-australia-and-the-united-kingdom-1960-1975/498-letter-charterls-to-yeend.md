@@ -1,14 +1,17 @@
 ---
-title: "498 LETTER, CHARTERlS TO YEEND"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10365
+doc_date: '1974-12-30'
+doc_num: 498
+doc_order: 498
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1934]'
+title: LETTER, CHARTERlS TO YEEND
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1974-12-30
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 498 LETTER, CHARTERlS TO YEEND
-
-UKNA: FCO 24/1934
 
 Buckingham Palace, 30 December 1974
 
@@ -31,3 +34,5 @@ There are obvious difficulties and disadvantages in running two systems of Honou
 As I explained to you, now that the new Order of Canada has been established, The Queen is once more making use of Classes III, IV and V, of the Royal Victorian Order to reward those who have given her personal service on the occasion of visits to Canada. The Queen hopes that a similar arrangement could be reached in Australia.
 
 What will the next step be? One possibility would be for the Prime Minister to make a formal submission to The Queen asking for Her Majesty’s approval, in principle, for the establishment of the new system. Once this had been done the way would be open for some public statement to be made signifying The Queen’s support for it. In so far as the submission or any public statement is concerned, it is, of course, important that Her Majesty’s constitutional position in respect of British Honours is preserved. Perhaps, therefore, you could let me have drafts for both if it is decided to proceed on these lines.
+
+[UKNA: FCO 24/1934]

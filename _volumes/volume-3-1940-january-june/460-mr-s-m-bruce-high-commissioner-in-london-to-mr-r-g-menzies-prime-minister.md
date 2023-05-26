@@ -1,12 +1,17 @@
 ---
-title: "460 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1226
+doc_date: '1940-06-28'
+doc_num: 460
+doc_order: 460
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4835]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-28
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 460 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 488 LONDON, 28 June 1940, 7.16 p.m.
 
@@ -18,7 +23,7 @@ Has been most difficult to ensure your getting this information and imperative s
 
 Have accordingly had to move with circumspection but have now obtained undertaking that every effort will be made to inform you in advance of any important information to be released and general indication of form it will take. Impossible to give exact form owing to the fact that draft invariably not settled until the last moment before delivery. [2]
 
-_
+ _
 
 1 Document 241.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4835]_
+ _[FA: A3195, 1.4835]_

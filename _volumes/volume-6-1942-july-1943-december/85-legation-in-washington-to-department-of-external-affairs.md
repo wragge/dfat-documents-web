@@ -1,12 +1,17 @@
 ---
-title: "85 Legation in Washington to Department of External Affairs"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2376
+doc_date: '1942-12-03'
+doc_num: 85
+doc_order: 85
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Legation in Washington to Department of External Affairs
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-12-03
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 85 Legation in Washington to Department of External Affairs
 
 Cablegram S186 WASHINGTON, 3 December 1942, 1.55 a.m.
 
@@ -42,7 +47,7 @@ I greatly hope you will co-operate in seeing this plan through.
 
 ROOSEVELT
 
-_
+ _
 
 1 Document 76.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

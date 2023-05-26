@@ -1,12 +1,18 @@
 ---
-title: "154 Hood to Evatt"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6323
+doc_date: '1949-01-24'
+doc_num: 154
+doc_order: 154
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, I1302]'
+title: Hood to Evatt
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-24
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 154 Hood to Evatt
 
 Cablegram UN51 NEW YORK, 24 January 1949, 6.46 p.m.
 
@@ -22,7 +28,7 @@ On present information Dutch acceptance or non-acceptance is likely to be on mor
 
 3\. I have not been able to ascertain answer to your question regarding Dutch military moves as Security Council discussions here have been on quite different grounds from those in Paris and have not been relevant to origin of present situation but will continue to do what I can. I am in close touch and am having discussions with Indians tomorrow.
 
-_
+ _
 
 1 Document 150.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA : A3195, I1302]_
+ _[AA : A3195, I1302]_

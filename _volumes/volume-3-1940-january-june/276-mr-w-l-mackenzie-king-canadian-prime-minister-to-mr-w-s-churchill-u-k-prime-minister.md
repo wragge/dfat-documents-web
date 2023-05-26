@@ -1,12 +1,18 @@
 ---
-title: "276 Mr W. L. Mackenzie King, Canadian Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1042
+doc_date: '1940-05-24'
+doc_num: 276
+doc_order: 276
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3574]'
+title: Mr W. L. Mackenzie King, Canadian Prime Minister, to Mr W. S. Churchill, U.K.
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-24
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 276 Mr W. L. Mackenzie King, Canadian Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
 
 Repeated to Mr R. G. Menzies, Prime Minister
 
@@ -24,7 +30,7 @@ Public opinion in the United States has been profoundly changed in the past few 
 
 3\. I am repeating this telegram to Mr. Menzies, Mr. Fraser [3] and General Smuts. [4]
 
-_
+ _
 
 1 Document 261.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3574]_
+ _[FA: A3195, 1.3574]_

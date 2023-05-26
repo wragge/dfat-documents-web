@@ -1,20 +1,23 @@
 ---
-title: "430 MINUTE SMALLMAN TO AIERS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10297
+doc_date: '1970-02-17'
+doc_num: 430
+doc_order: 430
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 68/201]'
+title: MINUTE SMALLMAN TO AIERS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1970-02-17
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 430 MINUTE SMALLMAN TO AIERS
-
-UKNA: FCO 68/201
 
 London, 17 February 1970
 
 Restricted
 
-Mr Wiggin2 sent me a copy of his minute of 16 February to you proposing that the Secretary of State should give a combined party for the Australian and Canadian Agents General.
+Mr Wiggin[2](#f2) sent me a copy of his minute of 16 February to you proposing that the Secretary of State should give a combined party for the Australian and Canadian Agents General.
 
 2\. I fully take Mr Wilford’s point about the need to limit calls on the Secretary of State’s time. But there are certain potentially embarrassing constitutional factors, not fully brought out so far, which I feel should be taken into account in recommending whether a combined party should be held or not.
 
@@ -30,10 +33,12 @@ Mr Wiggin2 sent me a copy of his minute of 16 February to you proposing that the
 
 8\. I can see that this is to suggest an extra burden on the Secretary of State’s time. But might this not be lessened if a sequence could be worked out whereby the Secretary of State entertained the Australians in the Spring and the Canadians in the Autumn. Or vice versa? The Canadian party could, if necessary, come first this year and the Australians have theirs, after an eighteen month gap, in the Autumn. As you pointed out in your minute of 2 February, the party itself need only be quite short, say a half-hour or 45 minutes of pre-lunch drinks.
 
-9\. I am copying this minute also to Mr Maya3 (with a copy of the minutes under reference) who may like to comment from his own and his Department’s knowledge of the individuals concerned.
+9\. I am copying this minute also to Mr Maya[3](#f3) (with a copy of the minutes under reference) who may like to comment from his own and his Department’s knowledge of the individuals concerned.
 
 1 B.G. Smallman, Commonwealth Co-ordination Department, and D.P. Aiers, South-West Pacific Department, Foreign and Commonwealth Office, London.
 
 2 C. D. Wiggin, American Department, Foreign and Commonwealth Office, London.
 
 3 A.L. Mayall, Protocol and Conference Department, Foreign and Commonwealth Office, London.
+
+[UKNA: FCO 68/201]

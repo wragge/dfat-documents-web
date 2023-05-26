@@ -1,12 +1,17 @@
 ---
-title: "151 Hood to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3663
+doc_date: '1946-03-28'
+doc_num: 151
+doc_order: 151
+naa_refs:
+- naa_barcode: 194073
+  naa_control_symbol: UN46/IT/1/1
+  naa_series: A1067
+  reference: '[AA:A1067, UN46/1T/1/1]'
+title: Hood to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-28
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 151 Hood to Department of External Affairs
 
 Cablegram 206 LONDON, 28 March 1946, 5.45 p.m.
 
@@ -24,7 +29,7 @@ New Zealand Government would regret any resolution at Geneva of an indefinite ch
 
 4\. The Secretary of State said that he had formed the conclusion that the Australian proposal was the best and recommended its acceptance. This seemed also the general sense of the meeting and it was agreed that the other Governments would be consulted at once with a view to getting all to agree to the course of action proposed in your telegram 139.
 
-_
+ _
 
 1 Document 147.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A1067, UN46/1T/1/1]_
+ _[AA:A1067, UN46/1T/1/1]_

@@ -1,14 +1,20 @@
 ---
-title: "510 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1741
+doc_date: '1941-06-20'
+doc_num: 510
+doc_order: 510
+naa_refs:
+- naa_barcode: 179108
+  naa_control_symbol: NETH 20 PART 1
+  naa_series: A981
+  reference: '[AA: A981, NETHERLANDS 20, i]'
+title: Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-20
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 510 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister
-
-## Letter CANBERRA, 20 June 1941
+Letter CANBERRA, 20 June 1941
 
 I have recently given renewed consideration to the question of an exchange of diplomatic representatives between the Netherlands Government and Australia, and feel strongly that in view of current developments an early decision is desirable.
 
@@ -34,7 +40,7 @@ These I think could best be made through Mr. Bruce, but before offering any spec
 
 F. STEWART
 
-_
+ _
 
 1 Jonkheer E. Michiels van Verduynen.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [AA: A981, NETHERLANDS 20, i]_
+ _[AA: A981, NETHERLANDS 20, i]_

@@ -1,14 +1,17 @@
 ---
-title: "385 LETTER, BOSWELL TO BAILEY"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10251
+doc_date: '1972-05-09'
+doc_num: 385
+doc_order: 385
+naa_refs:
+- naa_barcode: 8301711
+  naa_control_symbol: 1971/9449 PART 5
+  naa_series: A1209
+  reference: '[NAA: Al209, 1971/9449 PART 5]'
+title: LETTER, BOSWELL TO BAILEY
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-05-09
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 385 LETTER, BOSWELL TO BAILEY
-
-NAA: Al209, 1971/9449 PART 5 
 
 Australian High Commission, London, 9 May 1972
 
@@ -35,3 +38,5 @@ If there was to be a change of management, I would hope that the basic structure
 I see little point in continuing the designation of the Foreign Affairs adviser as Deputy High Commissioner. 1 do not believe it has achieved its purpose, but the dual titles have certainly caused confusion and on occasion some embarrassment to the pair of us. However, redesignation of Heads of Branches as Counsellor or Minister as appropriate would do much to clarify their position vis-a-vis other missions and embassies. I do not see the necessity for many other changes, the Official Secretary post and branch is still required to administer the House and should formally report to the High Commissioner. He had adequate delegations which I hope he would retain and can always use the Deputy High Commissioner as a source of advice. He is the person concerned with the 900 locally engaged staff and this man and his deputy should be chosen with very great care. The present occupants of the position are carrying out their duties most effectively and I would hope that their replacement would be achieved on an end-of-tour basis.
 
 One final thing, our relations with UK are, I believe, very good, not only at Government level but with the general population. There seems now to be a sympathetic backlash, resulting from the proposed UK entry into the Common Market and I would not like to see anything done which would give an impression that we are re-organising in pique.
+
+[NAA: Al209, 1971/9449 PART 5]

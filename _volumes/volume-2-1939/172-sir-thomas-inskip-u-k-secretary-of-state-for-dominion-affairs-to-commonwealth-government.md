@@ -1,12 +1,18 @@
 ---
-title: "172 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 509
+doc_date: '1939-08-31'
+doc_num: 172
+doc_order: 172
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-31
+vol_title: 'Volume 2: 1939'
 ---
-
-# 172 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular Cablegram B303 LONDON, 31 August 1939, 12.38 a.m.
 
@@ -36,7 +42,7 @@ Following is text of reply to Herr Hitler's note of 29th August [2] which His Ma
 
 9\. Further His Majesty's Government would suggest that a temporary modus vivendi might be arranged for Danzig which might prevent the occurrence of incidents tending to render German-Polish relations more difficult.
 
-_
+ _
 
 1 Document 169.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

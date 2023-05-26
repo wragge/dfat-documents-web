@@ -1,14 +1,21 @@
 ---
-title: "151 Letter from Anthony to Fraser"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9020
+doc_date: '1981-04-03'
+doc_num: 151
+doc_order: 151
+naa_refs:
+- naa_barcode: 3015522
+  naa_control_symbol: 1981/508 PART 1
+  naa_series: A1209
+  reference: '[NAA: A1209, 19811508, i]'
+title: Letter from Anthony to Fraser
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-04-03
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 151 Letter from Anthony to Fraser
-
-## Canberra, 3 April 1981
+Canberra, 3 April 1981
 
 New Zealand has proposed that a meeting of Australian and New Zealand Ministers be held in Wellington from 11-13 May to consider unresolved issues and assess the prospects of agreement being reached this year on an acceptable basis for a closer economic relationship between the two countries.
 
@@ -18,4 +25,4 @@ I will of course be bringing a submission to Cabinet in advance of the Wellingto
 
 The dates suggested by New Zealand are acceptable to me and I seek your concurrence to the arrangements as proposed. I am sending copies of this letter to Sir Phillip Lynch and Mr Nixon for their information.
 
-_[NAA: A1209, 19811508, i]_
+ _[NAA: A1209, 19811508, i]_

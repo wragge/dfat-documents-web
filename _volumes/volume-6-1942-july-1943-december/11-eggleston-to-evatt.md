@@ -1,12 +1,17 @@
 ---
-title: "11 Eggleston to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2302
+doc_date: '1942-07-29'
+doc_num: 11
+doc_order: 11
+naa_refs:
+- naa_barcode: 237670
+  naa_control_symbol: 608/1943
+  naa_series: A4144
+  reference: '[AA:A4144, 608 (1942-43)]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-07-29
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 11 Eggleston to Evatt
 
 Letter CHUNGKING, 29 July 1942
 
@@ -420,13 +425,13 @@ either malaria or some kidney trouble. He is a tower of strength
 
 to me and I rely on him very much.
 
-_
+ _
 
 [AA:A4144, 608 (1942-43)]
 
 1 Dr Hsu Mo.
 
-2, 3 &amp; 4 These cablegrams have not been found.
+2, 3  & 4 These cablegrams have not been found.
 
 5 See AA:A4231, Nanking, dispatches 1-57.
 
@@ -464,7 +469,7 @@ SC19 on file AA:A4764, 1.
 
 _
 
-_
+ _
 
 [F. W. EGGLESTON]
 

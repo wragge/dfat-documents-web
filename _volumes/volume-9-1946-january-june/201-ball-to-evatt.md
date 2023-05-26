@@ -1,12 +1,17 @@
 ---
-title: "201 Ball to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3713
+doc_date: '1946-04-01'
+doc_num: 201
+doc_order: 201
+naa_refs:
+- naa_barcode: 193424
+  naa_control_symbol: P46/10/33/19
+  naa_series: A1067
+  reference: '[AA:A1067, P46/10/33/19, i]'
+title: Ball to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-barcode: 193424
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 201 Ball to Evatt
 
 Cablegram [Secret and Personal for the Minister [1]] TOKYO, 20
 
@@ -30,7 +35,7 @@ If it is necessary in view of the total world situation for us to haul down our 
 
 The next meeting is 30th April and I await your instructions.
 
-_
+ _
 
 1 This cablegram was received in Canberra numbered ACJ5, and repeated with that number to Evatt in London on 23 April. It has been altered here in accordance with Ball's instruction in Document 216. See also Document 190, note 6.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [ [AA:A1067, P46/10/33/19, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=193424) ]_
+ _[AA:A1067, P46/10/33/19, i]_

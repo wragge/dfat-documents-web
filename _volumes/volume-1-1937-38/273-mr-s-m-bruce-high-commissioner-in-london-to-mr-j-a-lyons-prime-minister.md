@@ -1,12 +1,17 @@
 ---
-title: "273 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 272
+doc_date: '1938-09-24'
+doc_num: 273
+doc_order: 272
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL: PAGE 678]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-24
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 273 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram 166 LONDON, 24 September 1938, 1.34 a.m.
 
@@ -36,7 +41,7 @@ As the Prime Minister has been given practically full liberty of action, Cabinet
 
 BRUCE
 
-_
+ _
 
 1 Neville Chamberlain.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [ANL: PAGE 678]_
+ _[ANL: PAGE 678]_

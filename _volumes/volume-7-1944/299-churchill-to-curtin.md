@@ -1,12 +1,17 @@
 ---
-title: "299 Churchill to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2946
+doc_date: '1944-09-25'
+doc_num: 299
+doc_order: 299
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 560]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-25
+vol_title: 'Volume 7: 1944'
 ---
-
-# 299 Churchill to Curtin
 
 Cablegram Winch 11 LONDON, 25 September 1944, 12.10 a.m.
 
@@ -38,7 +43,7 @@ Small facilities may also be required at Fremantle.
 
 6\. It is suggested that the details of arrangements should be discussed between the British and Australian Chiefs of Staff and between the Admiralty and the Australian Navy Board.
 
-_
+ _
 
 1 Dispatched 18 September. On file AA:A5954, box 560.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 560]_
+ _[AA:A5954, BOX 560]_

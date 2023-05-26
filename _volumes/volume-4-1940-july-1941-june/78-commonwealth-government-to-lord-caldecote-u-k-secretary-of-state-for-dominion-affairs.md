@@ -1,14 +1,20 @@
 ---
-title: "78 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1309
+doc_date: '1940-08-20'
+doc_num: 78
+doc_order: 78
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.5883]'
+title: Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-20
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 78 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 435 20 August 1940,
+Cablegram 435 20 August 1940,
 
 External Affairs Officer in London [1] has discussed informally with the United Kingdom authorities the question of effect of war with Italy on Anglo-Italian Treaty of Commerce and Navigation of 1883 [2] We understand that view taken is that position of pre-war treaties will be regulated in the peace settlement. While this may be so in general, our view is that this treaty might receive immediate consideration. For some years we have been anxious to secure abrogation of treaty which has always been source of embarrassment causing political difficulties and conferring no benefits so far as Australia is concerned.
 
@@ -16,7 +22,7 @@ Whatever the course of the war, the abrogation of treaty will in our view not be
 
 We would ask that some positive action be taken now to ensure abrogation and not merely suspension of the treaty. If the United Kingdom Government does not feel disposed to take such action our view is that in the light of changed circumstances a separate notice of abrogation should be given in respect of the Commonwealth.
 
-_
+ _
 
 1 A. T. Stirling.
 
@@ -24,4 +30,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.5883]_
+ _[AA:A3196, 1940, 0.5883]_

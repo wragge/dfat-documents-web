@@ -1,20 +1,27 @@
 ---
-title: "19 Memorandum to Posts"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7858
+doc_date: '1974-08-07'
+doc_num: 19
+doc_order: 19
+naa_refs:
+- naa_barcode: 4151554
+  naa_control_symbol: 801/13/11/1 PART 2
+  naa_series: A10463
+  reference: '[NAA: A10463, 801113/1111, ii]'
+title: Memorandum to Posts
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-08-07
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
 
-# 19 Memorandum to Posts
-
-## 19 Memorandum to Posts1
+## 19 Memorandum to Posts[1](#f1)
 
 Canberra, 7 August 1974
 
 CONFIDENTIAL
 
-**Portuguese Timor-Visit to Canberra of Ramos Horta**
+ **Portuguese Timor-Visit to Canberra of Ramos Horta**
 
 Attached is a report prepared in the Department on the recent visit to Canberra of Ramos Horta.
 
@@ -22,11 +29,11 @@ A.D. McLENNAN
 
 Indonesia Section
 
-**Attachment**
+ **Attachment**
 
 AUSTRALIA-PORTUGUESE TIMOR RELATIONS VISIT OF RAMOS HORTA
 
-_[matter omitted]_
+ _[matter omitted]_
 
   3. Horta's visit, as the first by a Timorese political leader to Australia, was of some importance. It stimulated interest in Portuguese Timor and was a step in the development of Australia's relations with the territory. Horta hoped by means of the visit to secure certain political objectives, notably an Australian commitment to support of his party, to the independence of Timor and to give aid. Undertakings along these lines would have enhanced Horta's personal political standing in Portuguese Timor. During his visit to Jakarta, Adam Malik gave Horta a letter guaranteeing Indonesian support for Portuguese Timor's right to independence (copy attached, see para [7] below). Such a guarantee has direct implications for internal politics in Portuguese Timor, for among the three political parties, it is only the ASDT which seeks independence.
   4. Department officials told Horta that they had not yet asked ministers to consider Australia's policy towards the future of Portuguese Timor. But they expected that ministers would endorse the objective of self-determination as consistent with Australia's policy towards other Portuguese colonial territories and in the belief that the people of Portuguese Timor should be free to decide their own future. Australia would expect an act of self-determination in Portuguese Timor to be a genuine one. Officials expressed understanding of the need for delay in order to prepare the people to exercise self-determination. The difficulty about endorsing the objective of a particular party or otherwise seeming to prefer one party over the others was explained to Horta. He was told that the provision of Australian aid would require the agreement of the Portuguese Government at this stage. Officials also explained to Horta the need for Australia to explore Portuguese thinking about Timor.
@@ -37,14 +44,12 @@ _[matter omitted]_
 
 
 
-_ [matter omitted]_
+ _[matter omitted]_
 
   15. Horta's visit to Canberra was premature in terms of the evolution of Australian policy. Portuguese Timor is a sensitive factor in our relations with Indonesia. The Prime Minister's visit should provide an opportunity for an authoritative exchange of views with the Indonesians after which we should be able to develop our policy towards Portuguese Timor more confidently. At that stage there may be more scope for cultivating the Timorese political leaders.
 
 
 
-_ [NAA: A10463, 801113/1111, ii]_
+ _[NAA: A10463, 801113/1111, ii]_
 
   * 1 Jakarta, Lisbon, Port Moresby, Washington and New York.
-
-

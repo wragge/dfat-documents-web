@@ -1,12 +1,18 @@
 ---
-title: "261 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 260
+doc_date: '1938-09-16'
+doc_num: 261
+doc_order: 260
+naa_refs:
+- naa_barcode: 177772
+  naa_control_symbol: LEAGUE 19TH ASS 1
+  naa_series: A981
+  reference: '[AA : A981, L. OF N. ASSEMBLIES: 19TH, 1]'
+title: Mr A. T. Stirling, External Affairs Officer in London, to Department of External
+  Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-16
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 261 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs
 
 Cablegram 156 LONDON, n.d. [c. 16 September 1938]
 
@@ -22,7 +28,7 @@ United Kingdom proposals regarding articles sixteen and eleven and severance Cov
 
 STIRLING
 
-_
+ _
 
 1 Document 260.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA : A981, L. OF N. ASSEMBLIES: 19TH, 1]_
+ _[AA : A981, L. OF N. ASSEMBLIES: 19TH, 1]_

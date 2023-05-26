@@ -1,12 +1,17 @@
 ---
-title: "30 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 796
+doc_date: '1940-01-25'
+doc_num: 30
+doc_order: 30
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.580]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-25
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 30 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 25 January 1940, 5.27 p.m.
 
@@ -18,10 +23,10 @@ guns, A.T. guns, rifles and machine guns and ammunition. They would consider Bri
 
 BRUCE
 
-_
+ _
 
 1 Jonkheer E. Michiels van Verduynen.
 
 _
 
-_ [FA: A3195, 1.580]_
+ _[FA: A3195, 1.580]_

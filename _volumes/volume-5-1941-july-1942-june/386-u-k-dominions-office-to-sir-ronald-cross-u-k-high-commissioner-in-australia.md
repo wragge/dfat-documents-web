@@ -1,12 +1,17 @@
 ---
-title: "386 U.K. Dominions Office to Sir Ronald Cross, U.K. High Commissioner in Australia"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2140
+doc_date: '1942-03-02'
+doc_num: 386
+doc_order: 387
+naa_refs:
+- naa_barcode: 232273
+  naa_control_symbol: '47'
+  naa_series: A2937
+  reference: '[AA:A2937, FAR EAST POSITION 1942]'
+title: U.K. Dominions Office to Sir Ronald Cross, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-02
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 386 U.K. Dominions Office to Sir Ronald Cross, U.K. High Commissioner in Australia
 
 Circular cablegram Z31 LONDON, 2 March 1942, 11 p.m.
 
@@ -112,7 +117,7 @@ Policy 20. Thus our policy in the near future must be:-
 
 Appreciation and message ends.
 
-_
+ _
 
 1 John Curtin.
 
@@ -120,4 +125,4 @@ _
 
 _
 
-_ [AA:A2937, FAR EAST POSITION 1942]_
+ _[AA:A2937, FAR EAST POSITION 1942]_

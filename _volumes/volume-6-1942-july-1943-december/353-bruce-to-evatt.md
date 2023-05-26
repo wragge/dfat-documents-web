@@ -1,12 +1,17 @@
 ---
-title: "353 Bruce to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2644
+doc_date: '1943-12-18'
+doc_num: 353
+doc_order: 353
+naa_refs:
+- naa_barcode: 184631
+  naa_control_symbol: 1943/600/5/1/5
+  naa_series: A989
+  reference: '[AA:A989, 43-44/600/5/1/5]'
+title: Bruce to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-12-18
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 353 Bruce to Evatt
 
 Cablegram N42 LONDON, 18 December 1943, 5.45 p.m.
 
@@ -24,7 +29,7 @@ For your own information-I understand, although I cannot guarantee my informatio
 
 BRUCE
 
-_
+ _
 
 1 Netherlands Foreign Minister. See Document 349.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/600/5/1/5]_
+ _[AA:A989, 43-44/600/5/1/5]_

@@ -1,12 +1,18 @@
 ---
-title: "15 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6184
+doc_date: '1949-01-04'
+doc_num: 15
+doc_order: 15
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX2278]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-04
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 15 Critchley to Department of External Affairs
 
 Cablegram K235 BATAVIA, 4 January 1949, 6.45 p.m.
 
@@ -26,7 +32,7 @@ Attached were copies of the Netherlands statements to the Security Council of 27
 
 5\. The Republic and Independent sources report that guerrilla resistance in Java continues. The Dutch now admit considerable damage to the town of Magelang and to estates in Solo area and estimate that rehabilitation of the latter will take two years. In Solo area estate labour has disappeared. The Dutch claim that they will be very shortly 'concluding' their Military operations in Sumatra.
 
-_
+ _
 
 1 See United Nations, Security Council Official Records, Third Year, No. 135, 393rd meeting, pp. 1-3 and No. 137, 396th meeting, pp. 26-7.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA : A5954, BOX2278]_
+ _[AA : A5954, BOX2278]_

@@ -1,12 +1,18 @@
 ---
-title: "92 Mr A. R. Nankervis, Secretary of Department of the Navy, to Mr F. Strahan, Secretary of Prime Minister's Department"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1323
+doc_date: '1940-09-02'
+doc_num: 92
+doc_order: 92
+naa_refs:
+- naa_barcode: 179222
+  naa_control_symbol: NEW C 1 PART 3
+  naa_series: A981
+  reference: '[AA: A981, NEW CALEDONIA 1, iii]'
+title: Mr A. R. Nankervis, Secretary of Department of the Navy, to Mr F. Strahan,
+  Secretary of Prime Minister's Department
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-02
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 92 Mr A. R. Nankervis, Secretary of Department of the Navy, to Mr F. Strahan, Secretary of Prime Minister's Department
 
 Teleprinter message D192 [MELBOURNE], 2 September 1940
 
@@ -44,7 +50,7 @@ Request you will show the above to Sir Harry Luke and obtain latest advice from 
 
 'ADELAIDE'. Sir Harry Luke is being asked by Commonwealth Department of External Affairs whether he advises visit of H.M.A.S. 'ADELAIDE' to Noumea. [7]
 
-_
+ _
 
 1 R. H. Garvey.
 
@@ -64,4 +70,4 @@ The document hue printed was addressed also to the External Affairs Dept, to whi
 
 _
 
-_ [AA: A981, NEW CALEDONIA 1, iii]_
+ _[AA: A981, NEW CALEDONIA 1, iii]_

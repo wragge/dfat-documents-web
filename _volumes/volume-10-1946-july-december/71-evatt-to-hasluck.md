@@ -1,14 +1,19 @@
 ---
-title: "71 Evatt to Hasluck"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3919
+doc_date: '1946-08-16'
+doc_num: 71
+doc_order: 71
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]'
+title: Evatt to Hasluck
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-08-16
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 71 Evatt to Hasluck
-
-## Cablegram [14] [1] [PARIS], 16 August 1946
+Cablegram [14] [1] [PARIS], 16 August 1946
 
 IMMEDIATE
 
@@ -18,7 +23,7 @@ IMMEDIATE
 
 3\. Although I recognise that you have maintained consistently policy that merits of each application should be investigated before any decision is made, I am apprehensive [lest] Australia incurs criticism from applicant states because of failure to support any of them. Accordingly, when report of Committee comes before Council you should firstly make it perfectly clear that Australia considers Council has acted beyond its jurisdiction in that it did not have express authority from Assembly and then state that at the proper time, which Australia considers has not yet arrived, we [will] favourably consider applications of Eire, Afghanistan, Sweden, Iceland and Transjordan. Regarding applications of Albania, Portugal, Outer Mongolia and Siam you should be non-committal. In no case should you vote against any application without specific instructions to do so.
 
-_
+ _
 
 1 Numbered from Document 73.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]_
+ _[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]_

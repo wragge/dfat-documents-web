@@ -1,12 +1,17 @@
 ---
-title: "270 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2561
+doc_date: '1943-09-03'
+doc_num: 270
+doc_order: 270
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/55/1, i]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-09-03
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 270 Bruce to Curtin
 
 Cablegram 148[A] LONDON, 3 September 1943, 8.40 p.m.
 
@@ -32,7 +37,7 @@ In view of our great interest in the matters that are going to be discussed in W
 
 BRUCE
 
-_
+ _
 
 1 Corrected from the Prime Minister's Dept inward cablegram register (AA:A3642, 14).
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/55/1, i]_
+ _[AA:A989, 43/735/55/1, i]_

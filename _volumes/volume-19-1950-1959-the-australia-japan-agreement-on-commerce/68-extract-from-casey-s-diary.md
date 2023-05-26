@@ -1,14 +1,19 @@
 ---
-title: "68 Extract From Casey's Diary"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7673
+doc_date: '1954-08-17'
+doc_num: 68
+doc_order: 68
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : MS6150, VOLUME 17]'
+title: Extract From Casey's Diary
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-08-17
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 68 Extract From Casey's Diary
-
-## 17th August, 1954
+17th August, 1954
 
 I did an Executive Council Meeting early this morning.
 
@@ -32,10 +37,10 @@ I brought up the subject of Japan entering the Colombo Plan-and it was generally
 
 I raised briefly the question of Japanese inspection of their war graves in New Guinea and mentioned the fact that the Australian Administrator of New Guinea is reported to have said that he would need twelve months' notice before any such Japanese team was allowed to come to New Guinea. It was generally agreed that twelve months was very unnecessarily long.
 
-_
+ _
 
 1 See Document 8.
 
 _
 
-_ [NLA : MS6150, VOLUME 17]_
+ _[NLA : MS6150, VOLUME 17]_

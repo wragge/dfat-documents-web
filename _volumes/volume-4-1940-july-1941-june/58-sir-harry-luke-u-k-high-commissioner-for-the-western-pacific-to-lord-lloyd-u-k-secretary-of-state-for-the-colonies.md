@@ -1,12 +1,18 @@
 ---
-title: "58 Sir Harry Luke, U.K. High Commissioner for the Western Pacific, to Lord Lloyd, U.K. Secretary of State for the Colonies"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1289
+doc_date: '1940-08-09'
+doc_num: 58
+doc_order: 58
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3 195, 1940, 1.6460]'
+title: Sir Harry Luke, U.K. High Commissioner for the Western Pacific, to Lord Lloyd,
+  U.K. Secretary of State for the Colonies
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-09
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 58 Sir Harry Luke, U.K. High Commissioner for the Western Pacific, to Lord Lloyd, U.K. Secretary of State for the Colonies
 
 Repeated to Mr R. G. Menzies, Prime Minister
 
@@ -26,7 +32,7 @@ In view of the pressure from France, I suggest that some definite action by Gene
 
 Otherwise, the influence of the Petain Government may prove too strong.
 
-_
+ _
 
 1 This is believed to be the same cablegram which Luke dispatched to the Commonwealth Govt on 6 August. See unnumbered cablegram (1.6327) on file AA:A981, New Caledonia 1, iii.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA:A3 195, 1940, 1.6460]_
+ _[AA:A3 195, 1940, 1.6460]_

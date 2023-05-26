@@ -1,18 +1,21 @@
 ---
-title: "173 LETTER, MCEWEN TO HEATH"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10038
+doc_date: '1962-03-23'
+doc_num: 173
+doc_order: 173
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 159/58]'
+title: LETTER, MCEWEN TO HEATH
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-03-23
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 173 LETTER, MCEWEN TO HEATH
-
-UKNA: DO 159/58
 
 Australia House, London, 23 March 1962
 
-You will recall that in our discussions on Wednesday I stressed my concern about some aspects of the draft paper on cereals which has been referred to the Australian Government for comment.1
+You will recall that in our discussions on Wednesday I stressed my concern about some aspects of the draft paper on cereals which has been referred to the Australian Government for comment.[1](#f1)
 
 While I value the expressed recognition in the paper of the special problems presented by Australian soft wheat, I explained that I was seriously concerned at my inability to get a clear understanding of what was meant by some of the phrases in the draft paper which are inexplicit and capable of several alternative interpretations.
 
@@ -29,3 +32,5 @@ My inability to obtain the degree of clarification about the Cereals paper which
 As I made quite clear to you, any figures you may give me in elucidating your thinking you may be sure will never be interpreted by me as a firm promise on your part to achieve these figures.
 
 1 Document 172.
+
+[UKNA: DO 159/58]

@@ -1,12 +1,19 @@
 ---
-title: "154 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7993
+doc_date: '1975-07-10'
+doc_num: 154
+doc_order: 154
+naa_refs:
+- naa_barcode: 4151602
+  naa_control_symbol: 801/13/11/1 PART 10
+  naa_series: A10464
+  reference: '[NAA: A10463. 801/13/11/1. x]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-07-10
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 154 Cablegram to Canberra
 
 Jakarta, 10 July 1975
 
@@ -14,7 +21,7 @@ O.JA0533 SECRET AUSTEO IMMEDIATE
 
 Indonesian Policy on Portuguese Timor
 
-## Please pass to Woolcott 1
+## Please pass to Woolcott [1](#f1)
 
 In an extremely frank account Harry Tjan, Centre for Strategic and International Studies, has given us the following. As you will be aware, most of it is not new but it brings together points which he and others have been making in recent months.
 
@@ -35,8 +42,6 @@ In an extremely frank account Harry Tjan, Centre for Strategic and International
 
 
 
-_[NAA: A10463. 801/13/11/1. x]_
+ _[NAA: A10463. 801/13/11/1. x]_
 
   * 1 Woolcott was in Canberra for a meeting. from 7 to 9 July. of Heads of Mission in South-East Asian countries.
-
-

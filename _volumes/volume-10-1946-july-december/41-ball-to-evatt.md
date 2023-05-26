@@ -1,13 +1,19 @@
 ---
-title: "41 Ball to Evatt"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3889
+doc_date: '1946-07-29'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 140262
+  naa_control_symbol: 482/1/7
+  naa_series: A1838
+  reference: '[AA: A1838/238, 482/1/71]'
+title: Ball to Evatt
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 41 Ball to Evatt
-
-Cablegram [Secret and] Personal for the Minister 4 TOKYO, 29 July
+Cablegram [Secret and] Personal for the Minister 4 TOKYO, 29 July 1946
 
 TOP SECRET IMMEDIATE
 
@@ -23,10 +29,10 @@ My own views are such an echo might be premature since I am extremely sceptical 
 
 To identify ourselves 'closely' with the present American statements may embarrass us later.
 
-_
+ _
 
 1 'Reputation' presumably should read 'refutation'.
 
 _
 
-_ [AA:A1838/238, 482/1/71_
+ _[AA: A1838/238, 482/1/71]_

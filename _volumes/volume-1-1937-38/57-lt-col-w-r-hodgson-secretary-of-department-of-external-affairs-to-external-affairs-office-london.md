@@ -1,14 +1,20 @@
 ---
-title: "57 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to External Affairs Office, London"
-volume: "Volume 1: 1937-38"
-doc_id: 57
+doc_date: '1937-08-17'
+doc_num: 57
+doc_order: 57
+naa_refs:
+- naa_barcode: 232360
+  naa_control_symbol: '267'
+  naa_series: A2937
+  reference: '[FA : A2937, TIMOR (PORTUGUESE) DEFENCE OPERATIONS, i]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to External
+  Affairs Office, London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-08-17
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 57 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to External Affairs Office, London
-
-## Cablegram 67 17 August 1937,
+Cablegram 67 17 August 1937,
 
 Reference Staughton concessions Timor oil and recent despatches relating to possible Japanese penetration. Staughton [1] has granted option over his rights in Timor to E. J. Pascoe a past director of Oil Search Ltd a well-known Australian Company which is receiving grants from Commonwealth Government and which it is understood from Pascoe is prepared to survey and develop oilfields in Timor if larger concessions than Staughton leases can be obtained.
 
@@ -18,7 +24,7 @@ Ambassador at Lisbon [2] to ascertain whether oil concessions covering whole of 
 
 HODGSON
 
-_
+ _
 
 1 See Document 49, note 1.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [FA : A2937, TIMOR (PORTUGUESE) DEFENCE OPERATIONS, i]_
+ _[FA : A2937, TIMOR (PORTUGUESE) DEFENCE OPERATIONS, i]_

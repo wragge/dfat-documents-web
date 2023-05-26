@@ -1,12 +1,17 @@
 ---
-title: "285 Note of Meeting of U.K. and Dominions"
-volume: "Volume 1: 1937-38"
-doc_id: 284
+doc_date: '1938-09-27'
+doc_num: 285
+doc_order: 284
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-27
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 285 Note of Meeting of U.K. and Dominions
 
 Representatives on 27 September 1938
 
@@ -36,7 +41,7 @@ MR MACDONALD said that he thought the discussion had been a most useful one. But
 
 D[EVONSHIRE] [8]
 
-_
+ _
 
 1 Malcolm MacDonald, acting for the Secretary of State for Dominion Affairs.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

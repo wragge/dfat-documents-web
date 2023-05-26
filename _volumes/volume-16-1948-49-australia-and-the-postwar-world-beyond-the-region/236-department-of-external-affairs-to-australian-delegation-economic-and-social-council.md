@@ -1,12 +1,18 @@
 ---
-title: "236 Department of External Affairs to Australian Delegation, Economic and Social Council"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6951
+doc_date: '1949-08-03'
+doc_num: 236
+doc_order: 236
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Department of External Affairs to Australian Delegation, Economic and Social
+  Council
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1949-08-03
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 236 Department of External Affairs to Australian Delegation, Economic and Social Council
 
 Cablegram 87, CANBERRA, 3 August 1949, 8.15 p.m.
 
@@ -30,6 +36,6 @@ Your 114.
 
 5\. Obligations to maintain full employment under Article 56 in Charter should be stressed. Action we propose is in accordance with this Article and in addition, we have in mind setting on foot, under sponsorship of E.C.O.S.O.C., international action along the lines envisaged in Chapter 11 of the Havana Charter which was outcome of exhaustive international discussions. Since the I.T.O. is not yet in operation an additional responsibility falls upon E.C.O.S.O.C. Members of G.A.T.T. are committed to 'observe to the fullest extent of their executive authority the general principles of Chapters I to VI' of the Havana Charter 'pending their acceptance of it in accordance with their constitutional procedures'. Resolution for E.C.O.S.O.C. should be drafted with this context in view.
 
-__
+ __
 
-_ [EVATT COLLECTION - UNITED NATIONS - ECONOMIC AND SOCIAL COUNCIL - CABLES]_
+ _[EVATT COLLECTION - UNITED NATIONS - ECONOMIC AND SOCIAL COUNCIL - CABLES]_

@@ -1,12 +1,17 @@
 ---
-title: "192 Appreciation by Chiefs of Staff for War Cabinet"
-volume: "Volume 3: 1940, January-June"
-doc_id: 958
+doc_date: '1940-05-01'
+doc_num: 192
+doc_order: 192
+naa_refs:
+- naa_barcode: 8876000
+  naa_control_symbol: 96/1940 AND 97/1940
+  naa_series: A2671
+  reference: '[AA: A2671, 96 AND 97/1940]'
+title: Appreciation by Chiefs of Staff for War Cabinet
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-01
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 192 Appreciation by Chiefs of Staff for War Cabinet
 
 Appendix C to Agendum 96/1940 1 May 1940
 
@@ -48,7 +53,7 @@ Should it be necessary to disembark troops at some intermediate port, say Cape T
 
 4\. The foregoing views are not in any way affected by the cablegram of 1st May to the Dominions Office [2] which has just been received.
 
-_
+ _
 
 1 Document 190.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA: A2671, 96 AND 97/1940]_
+ _[AA: A2671, 96 AND 97/1940]_

@@ -1,12 +1,17 @@
 ---
-title: "80 Attlee to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3592
+doc_date: '1946-02-08'
+doc_num: 80
+doc_order: 80
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.3517]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-08
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 80 Attlee to Chifley
 
 Cablegram 46 LONDON, 8 February 1946, 5.15 p.m.
 
@@ -18,7 +23,7 @@ I deeply appreciate the prompt and helpful decisions which you have taken. The f
 
 2\. I am looking into the question of shipping and will telegraph further as to this and other points which arise. it would assist us greatly in our calculations if you could inform me at your earliest convenience of your decisions on the extraction rate (paragraphs 6 and 7 of my telegram No. 43 refer [2]).
 
-_
+ _
 
 1 Document 71.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.3517]_
+ _[AA:A3195, 1946, 1.3517]_

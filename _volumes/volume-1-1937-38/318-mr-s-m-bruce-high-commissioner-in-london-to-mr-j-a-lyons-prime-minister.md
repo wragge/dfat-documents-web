@@ -1,12 +1,17 @@
 ---
-title: "318 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 317
+doc_date: '1938-11-21'
+doc_num: 318
+doc_order: 317
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL : PAGE 678]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-11-21
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 318 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 21 November 1938, 7.44 p.m.
 
@@ -24,10 +29,10 @@ In order to make clear what is in my mind I am sending in a separate cable a dra
 
 BRUCE
 
-_
+ _
 
 1 Reported in the Times, 22 November 1938.
 
 _
 
-_ [ANL : PAGE 678]_
+ _[ANL : PAGE 678]_

@@ -1,12 +1,18 @@
 ---
-title: "381 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 718
+doc_date: '1939-11-23'
+doc_num: 381
+doc_order: 381
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 35]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-23
+vol_title: 'Volume 2: 1939'
 ---
-
-# 381 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
 
 Cablegram C34 LONDON, [23 November 1939], 12.10 a.m.
 
@@ -30,7 +36,7 @@ Is it possible that any partial solution of the wheat shipping problem lies in d
 
 CASEY
 
-_
+ _
 
 1 Document 379. This cablegram was drafted on and dated 22 November 1939.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 35]_
+ _[AA: CP 290/6, ITEM 35]_

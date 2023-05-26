@@ -1,12 +1,17 @@
 ---
-title: "247 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 246
+doc_date: '1938-09-03'
+doc_num: 247
+doc_order: 246
+naa_refs:
+- naa_barcode: 174711
+  naa_control_symbol: CZE 13 PART 1
+  naa_series: A981
+  reference: '[AA : A981, CZECHOSLOVAKIA 13]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-03
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 247 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister
 
 Cablegram 84 LONDON, 3 September 1938, 10.04 p.m.
 
@@ -16,7 +21,7 @@ Most grateful for the views of His Majesty's Government in the Commonwealth of A
 
 On the particular question of the publication of the present Czech proposals you will have seen the latest position from the Secretary of State's telegram Circular B. 207. [3]
 
-_
+ _
 
 1 Document 245.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA : A981, CZECHOSLOVAKIA 13]_
+ _[AA : A981, CZECHOSLOVAKIA 13]_

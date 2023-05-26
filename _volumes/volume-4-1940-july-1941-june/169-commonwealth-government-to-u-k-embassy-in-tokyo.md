@@ -1,13 +1,19 @@
 ---
-title: "169 Commonwealth Government to U.K. Embassy in Tokyo"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1400
+doc_date: 1940-10
+doc_num: 169
+doc_order: 169
+naa_refs:
+- naa_barcode: 177534
+  naa_control_symbol: JAP 115
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 115A]'
+title: Commonwealth Government to U.K. Embassy in Tokyo
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 169 Commonwealth Government to U.K. Embassy in Tokyo
-
-## Cablegram unnumbered it October 1940,
+Cablegram unnumbered it October 1940,
 
 Your telegram No. 53 of 3rd October. [1] I Following for Hard [2]- For your guidance in first approach subject possible evacuation of British subjects from Japan, following information is sent- It will be necessary to consult various State Governments as to whether they would be prepared to arrange on behalf of the Commonwealth for the reception of evacuees and placement in suitable accommodation, if the number is likely to be appreciable.
 
@@ -21,7 +27,7 @@ Before approaching the State Governments in this connection it is desirable that
 
 It is appreciated that the British Embassy's suggestion is very tentative and exploratory and it is presumed that any specific request in connection with a proposed evacuation will be made by the Secretary of State for Dominion Affairs to the Commonwealth Government.
 
-_
+ _
 
 1 Document 155.
 
@@ -29,4 +35,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 115A]_
+ _[AA:A981, JAPAN 115A]_

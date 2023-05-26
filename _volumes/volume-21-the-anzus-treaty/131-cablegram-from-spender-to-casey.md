@@ -1,12 +1,17 @@
 ---
-title: "131 Cablegram From Spender to Casey"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8482
+doc_date: '1952-04-03'
+doc_num: 131
+doc_order: 131
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[NAA : A1838, 851/18/1, iii]'
+title: Cablegram From Spender to Casey
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1952-04-03
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 131 Cablegram From Spender to Casey
 
 Cablegram, Washington, 3 April 1952
 
@@ -18,10 +23,10 @@ Myron Cowen told me yesterday that he has recently had discussions (with which A
 
 2\. Whilst Cowen's remarks are a little reassuring I still harbour the view that we are likely to encounter continuing opposition from the Department of Defence who I feel are more concerned about military problems as between themselves and Japan and whose attention is directed to the North Western rather than the South West Pacific Area. If this is the view, and everything seems to point that way, I think we should use every means at our disposal to obtain at an early date agreement in principle as to general nature of the Council to be established and its necessary ancillary machinery. I feel that, subject to information we received from preliminary soundings as to the precise nature of the State Department's proposals and the reaction of the Secretary of the Department of Defence to this, we should request Cowen to arrange meeting with Defence Department referred to in my 367[2] since if we simply rely on the State Department or urge our claims with the Department of Defence we may find that the Defence Department will continue to stall. I would urge, therefore, that after consultations with New Zealand and subject to the information we obtain from our preliminary soundings of State Department, the New Zealand Ambassador and myself instructed to press now for agreement in principle to the establishment of the Council with substantive authority and with machinery for continuous planning and consultation generally along the lines of the outline we discussed with Cowen when you were here, whilst of course leaving it to Council itself at its first and subsequent meetings to make the substantive decision as to the manner and extent to which the Council and its ancillary machinery shall function.
 
-_ 1 In May.
+ _1 In May.
 
 2 Document 126.
 
 _
 
-_ [NAA : A1838, 851/18/1, iii]_
+ _[NAA : A1838, 851/18/1, iii]_

@@ -1,14 +1,19 @@
 ---
-title: "159 Australian Government to Fraser"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5426
+doc_date: '1948-06-03'
+doc_num: 159
+doc_order: 159
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1948, 0.7837]'
+title: Australian Government to Fraser
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-06-03
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
 
-# 159 Australian Government to Fraser
-
-## Cablegram 119 CANBERRA, 3 June 1948, 3 p.m.
+Cablegram 119 CANBERRA, 3 June 1948, 3 p.m.
 
 IMMEDIATE
 
@@ -20,8 +25,8 @@ Netherlands Delegation are sponsoring Indonesia as a whole for associate members
 
 3\. We hope New Zealand Delegation will be able to support this line. Understand matter comes up for decision on Saturday morning 5th June.
 
-_
+ _
 
 _
 
-_ [AA:A3196, 1948, 0.7837]_
+ _[AA:A3196, 1948, 0.7837]_

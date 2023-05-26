@@ -1,12 +1,19 @@
 ---
-title: "63 Memorandum from Doran to Working Group Departments"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8933
+doc_date: '1980-02-22'
+doc_num: 63
+doc_order: 63
+naa_refs:
+- naa_barcode: 1389687
+  naa_control_symbol: 370/1/19/18 PART 15
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, xv]'
+title: Memorandum from Doran to Working Group Departments
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-02-22
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 63 Memorandum from Doran to Working Group Departments
 
 Canberra, 22 February 1980
 
@@ -21,7 +28,7 @@ Attached is a copy of the report of the Working Group chaired by Foreign Affairs
 
 
 
-**Attachment**
+ **Attachment**
 
 SECRET AUSTEO
 
@@ -61,4 +68,4 @@ The Department of Transport wishes to omit any specific mention of trans-Tasman 
 
 In revising the draft we have looked closely at the Treaty of Nara. Article I, 1 and 2 are virtually taken from it. We have not, however, included in the draft those sections of the Treaty of Nara concerning the status of individuals and companies. The Working Group does not believe (and this is confirmed in our discussion with the New Zealand side) that such matters are of great concern to Australians in New Zealand or New Zealanders in Australia. Moreover, the introduction of such matters in a revision of the Pact would take it into difficult areas of jurisprudence and would be affected by State legislation governing the rights of individuals and companies.
 
-_[NAA: A1838, 370/1119/18, xv]_
+ _[NAA: A1838, 370/1119/18, xv]_

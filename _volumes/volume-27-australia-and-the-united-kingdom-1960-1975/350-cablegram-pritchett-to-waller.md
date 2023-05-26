@@ -1,20 +1,23 @@
 ---
-title: "350 CABLEGRAM, PRITCHETT TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10216
+doc_date: '1972-11-23'
+doc_num: 350
+doc_order: 350
+naa_refs:
+- naa_barcode: 552872
+  naa_control_symbol: 67/1/3 PART 6
+  naa_series: A1838
+  reference: '[NAA: A1838, 67/1/3 PART 6]'
+title: CABLEGRAM, PRITCHETT TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-23
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 350 CABLEGRAM, PRITCHETT TO WALLER
-
-NAA: A1838, 67/1/3 PART 6
 
 Australian High Commission, London, 23 November 1972
 
 18921\. Restricted
 
-**Immigration into Britain**
+ **Immigration into Britain**
 
 The Government was defeated in the debate tonight on a motion rejecting the statements of immigration rules for control and after [EEC] entry, by 275 votes to 240.
 
@@ -22,7 +25,7 @@ The Government was defeated in the debate tonight on a motion rejecting the stat
 
 3\. It was a dull, rambling debate, in which the Tory ‘Revolt’ received little forceful expression.
 
-The two opening speeches are summarised in a separate cable. 1
+The two opening speeches are summarised in a separate cable. [1](#f1)
 
 The Home Secretary performed poorly.
 
@@ -32,7 +35,7 @@ A good many of the speeches raised detailed queries about the meaning and applic
 
 In this respect the debate highlighted not only the complexity of the rules, but the mess that has developed over the years in British legislation on citizenship.
 
-4\. I shall not attempt to summarise the debate in this cable. As so often, Enoch Powell2 went to the heart of the matter when he said that the realisation (now that EEC membership was approaching) of what the rules would mean had created a deep sense of public dismay, which had crystallised around the position of the citizens of Australia, New Zealand and Canada.
+4\. I shall not attempt to summarise the debate in this cable. As so often, Enoch Powell[2](#f2) went to the heart of the matter when he said that the realisation (now that EEC membership was approaching) of what the rules would mean had created a deep sense of public dismay, which had crystallised around the position of the citizens of Australia, New Zealand and Canada.
 
 ‘It very often happens that such deep public emotion as this latches on to the wrong provisions in the relevant legislation and the public gets the small print wrong ... But they often get to the heart of the matter. Public opinion is seized of the extremely important and real change that will take place from the beginning of next year. It is technically true to say that, viewed in isolation, Australian citizens will suffer no loss of status ... But status is not absolute. The relative status of citizens of (the old Commonwealth) will fundamentally alter from January.’
 
@@ -67,3 +70,5 @@ We are saying ‘no comment’ tonight, but shall need to take a position from t
 1  See NAA: A 1838, 67/1/3 part 6. 
 
 2 Conservative Member for Wolverhampton South West. 
+
+[NAA: A1838, 67/1/3 PART 6]

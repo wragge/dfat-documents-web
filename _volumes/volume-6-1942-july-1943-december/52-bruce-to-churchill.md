@@ -1,14 +1,19 @@
 ---
-title: "52 Bruce to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2343
+doc_date: '1942-09-25'
+doc_num: 52
+doc_order: 52
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:PREM 4/50/11]'
+title: Bruce to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-25
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 52 Bruce to Churchill
-
-## Letter LONDON, 25 September 1942
+Letter LONDON, 25 September 1942
 
 I am hopeful that in our conversation on Monday night [1] I convinced you that my one desire is to render you all the assistance in my power. That I believe I can best do by the most complete frankness. In that belief I am enclosing a Note which I made some three weeks ago. I would have hesitated, prior to our conversation, to have sent you this Note in the form in which I originally dictated it lest it might have given you a wrong impression of my attitude towards yourself. Now I have no such apprehension however little you may agree with the views I express.
 
@@ -18,7 +23,7 @@ I am afraid with the two outbursts I enclose and our conversation on Monday you 
 
 S. M. BRUCE
 
-_ 1 See Document 51.
+ _1 See Document 51.
 
 FIRST ENCLOSURE
 
@@ -132,4 +137,4 @@ S.M.B.
 
 _
 
-__
+ __

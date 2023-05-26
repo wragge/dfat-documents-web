@@ -1,12 +1,17 @@
 ---
-title: "62 Curtin to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2709
+doc_date: '1944-03-03'
+doc_num: 62
+doc_order: 62
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 646]'
+title: Curtin to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-03
+vol_title: 'Volume 7: 1944'
 ---
-
-# 62 Curtin to Cranborne
 
 Cablegram 55 [1] CANBERRA, 3 March 1944
 
@@ -24,7 +29,7 @@ Reference No. 48. [2]
 
 CURTIN
 
-_
+ _
 
 1 Repeated to the Canadian, South African and N.Z. Prime Ministers as nos 3, 15 and 40, respectively.
 
@@ -34,4 +39,4 @@ A5954, box 646.
 
 _
 
-_ [AA:A5954, BOX 646]_
+ _[AA:A5954, BOX 646]_

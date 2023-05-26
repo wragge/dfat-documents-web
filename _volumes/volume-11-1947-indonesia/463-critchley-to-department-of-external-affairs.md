@@ -1,12 +1,17 @@
 ---
-title: "463 Critchley to Department of External Affairs"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4647
+doc_date: '1947-12-11'
+doc_num: 463
+doc_order: 463
+naa_refs:
+- naa_barcode: 550477
+  naa_control_symbol: 403/3/1/1 PART 13
+  naa_series: A1838
+  reference: '[AA:A1838/283, 403/3/1/1/, xiii]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-12-11
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 463 Critchley to Department of External Affairs
 
 Cablegram K13 BATAVIA, 11 December 1947, 7 p.m.
 
@@ -56,7 +61,7 @@ There will be no further meetings on political discussions for some days to enab
 
 8\. Early discussions of Linggadjati would probably turn on Article 1. [5] I should be glad to have a fully documented legal clarification of this Article bearing in mind the Dutch declaration [6] that they have recognised the exercise of de facto authority and not de facto authority itself.
 
-_
+ _
 
 1 The second and third meetings of the Renville Conference were held on 9 and 10 December.
 
@@ -72,4 +77,4 @@ _
 
 _
 
-_ [AA:A1838/283, 403/3/1/1/, xiii]_
+ _[AA:A1838/283, 403/3/1/1/, xiii]_

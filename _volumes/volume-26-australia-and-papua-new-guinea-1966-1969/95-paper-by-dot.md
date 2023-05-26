@@ -1,16 +1,21 @@
 ---
-title: "95 Paper By Dot"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9603
+doc_date: 1967-03
+doc_num: 95
+doc_order: 95
+naa_refs:
+- naa_barcode: 12042872
+  naa_control_symbol: 1967/2042
+  naa_series: A452
+  reference: '[NAA: A452, 1967/2042]'
+title: Paper By Dot
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-03-03
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 95 Paper By Dot
 
 Canberra, undated
 
-**Minister’s speech in Melbourne, 3rd March, 1967: reporting, reactions, comments and conclusions**
+ **Minister’s speech in Melbourne, 3rd March, 1967: reporting, reactions, comments and conclusions**
 
 The speech by the Minister for Territories in Melbourne on 3rd March drew immediate and widespread reaction in the Territory and in Australia.
 
@@ -26,15 +31,15 @@ There was a sharp difference between the stories which appeared in the ‘Age’
 
 The ‘Australian’ used as its front page lead the fact that ‘Papua–New Guinea might never be granted independence, the Minister for Territories, Mr. Barnes, said yesterday’. The story was headlined:
 
-**MINISTER SAYS INDEPENDENCE WILL NOT COME SOON—IF AT ALL**
+ **MINISTER SAYS INDEPENDENCE WILL NOT COME SOON—IF AT ALL**
 
-**Barnes: Ng May Not Break Away**
+ **Barnes: Ng May Not Break Away**
 
-The ‘Australian’ quoted Mr. Barnes as saying ‘independence for Papua/New Guinea will not be achieved for very many years, _if at all’_. This was the only section quoted from what was purported to be Mr. Barnes’ speech. The ‘Australian’ said Mr. Barnes had not elaborated on his remark. The paper ran a further six paragraphs which it said were given to an ‘Australian’ reporter who asked the Minister to qualify the statement. A member of the House of Assembly in Port Moresby, Mr. John Pasquarelli,1 called the speech ‘insolent and imprudent’.
+The ‘Australian’ quoted Mr. Barnes as saying ‘independence for Papua/New Guinea will not be achieved for very many years, _if at all’_. This was the only section quoted from what was purported to be Mr. Barnes’ speech. The ‘Australian’ said Mr. Barnes had not elaborated on his remark. The paper ran a further six paragraphs which it said were given to an ‘Australian’ reporter who asked the Minister to qualify the statement. A member of the House of Assembly in Port Moresby, Mr. John Pasquarelli,[1](#f1) called the speech ‘insolent and imprudent’.
 
 In the next few days the crucial part of the report became the ‘independence for Papua/New Guinea will not be achieved for very many years, if at all’ quote.
 
-Concurrently with its report of the speech, the ‘Australian’ ran a reaction story from its correspondent in Port Moresby, Donald Hogg. This report quoted the Speaker of the House, Mr. H.L.R. Niall,2 as being amazed by Mr. Barnes’ statement. The report also quoted Mr. Gaudi Mirau3 who said he could not understand why the Minister had said such a thing. Mr. Tei Abal was quoted as supporting the Minister. In addition, Hogg said that most members from the primitive Highland areas agreed with Mr. Barnes.
+Concurrently with its report of the speech, the ‘Australian’ ran a reaction story from its correspondent in Port Moresby, Donald Hogg. This report quoted the Speaker of the House, Mr. H.L.R. Niall,[2](#f2) as being amazed by Mr. Barnes’ statement. The report also quoted Mr. Gaudi Mirau[3](#f3) who said he could not understand why the Minister had said such a thing. Mr. Tei Abal was quoted as supporting the Minister. In addition, Hogg said that most members from the primitive Highland areas agreed with Mr. Barnes.
 
 It was on these statements that the ‘Australian’ based its assessment that the Minister’s statement had been received in Port Moresby with reactions ranging from ‘shock to complete agreement’.
 
@@ -62,13 +67,13 @@ Only one member, Mr. Barry Holloway, spoke of independence inevitably coming wit
 
 Mr. Matthias Toliman said Papua/New Guinea should have self-government now.
 
-Mr. Don Barrett4 suggested only that ‘the political situation in this country is changing yearly’.
+Mr. Don Barrett[4](#f4) suggested only that ‘the political situation in this country is changing yearly’.
 
-Both Mr. Gabriel Ehava Karava5 and Mr. Tei Abal agreed that independence was a long way off.
+Both Mr. Gabriel Ehava Karava[5](#f5) and Mr. Tei Abal agreed that independence was a long way off.
 
-The Rev. Percy Chatterton6 asked how the Minister’s statement squared with the assurance that the people of the Territory would be given their independence if and when they wanted it.
+The Rev. Percy Chatterton[6](#f6) asked how the Minister’s statement squared with the assurance that the people of the Territory would be given their independence if and when they wanted it.
 
-Mr. Kaibelt Diria7 said his people feared independence because they believed Europeans would then leave en masse.
+Mr. Kaibelt Diria[7](#f7) said his people feared independence because they believed Europeans would then leave en masse.
 
 The ‘Canberra Times’ somewhat more accurately summed up the reaction in its headline:
 
@@ -92,9 +97,9 @@ In Parliament on Tuesday, 7th March, Mr. Barnes was asked three questions about 
 
 In reply to the second question, Mr. Barnes said that he was unable to present a written copy of his speech because it had been made off the cuff. He added, ‘The people of the Territory have the right to choose self-government or independence at any time. It has been made perfectly clear that they have this right. But they should not be forced by any nation or outside body to make a decision. I think this arrangement is best for the people and I do not think it can be improved’.
 
-Asked if he would categorically deny that he made the ‘if at all’ statement, Mr. Barnes said ‘The objective .... 8 is to have me admit to a part of my statement taken out of context, and this I refuse to do. You can read my full statement in the Melbourne “Age”, as I mentioned earlier’.
+Asked if he would categorically deny that he made the ‘if at all’ statement, Mr. Barnes said ‘The objective .... [8](#f8) is to have me admit to a part of my statement taken out of context, and this I refuse to do. You can read my full statement in the Melbourne “Age”, as I mentioned earlier’.
 
-The ‘Australian’ gave prominence to the reply to the latter question and ran a special article on 8th March by Peter Hastings9 in which he assessed Territory opinion towards independence, contrasting his interpretation of it with Mr. Barnes’ discussions with the more conservative element of the Territory.
+The ‘Australian’ gave prominence to the reply to the latter question and ran a special article on 8th March by Peter Hastings[9](#f9) in which he assessed Territory opinion towards independence, contrasting his interpretation of it with Mr. Barnes’ discussions with the more conservative element of the Territory.
 
 Hastings said Mr. Barnes honestly believed that the people of New Guinea did not want independence. At this stage, he was right to the extent that the Territory’s less sophisticated natives did not want it. But this was not true of the coastal politicians, as agency reports indicate. It certainly was not true of the emerging elites, the indigenous public servants and the student groups.
 
@@ -180,4 +185,4 @@ The continuing problems of relations with the Press and how they are handled bot
 
 8  Ellipsis in the original. 
 
-9  Asia and PNG correspondent of the _Australian_; also executive officer, Council on New Guinea Affairs and editor of its quarterly, _New Guinea_. 
+9  Asia and PNG correspondent of the _Australian_ ; also executive officer, Council on New Guinea Affairs and editor of its quarterly, _New Guinea_.

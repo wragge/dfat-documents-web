@@ -1,14 +1,19 @@
 ---
-title: "306 Evatt to Queuille[1], Stalin, Attlee, Truman"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7021
+doc_date: '1948-11-13'
+doc_num: 306
+doc_order: 306
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU : EVATT COLLECTION, UNITED NATIONS - BERLIN PAPERS]'
+title: Evatt to Queuille[1], Stalin, Attlee, Truman
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-11-13
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
 
-# 306 Evatt to Queuille[1], Stalin, Attlee, Truman
-
-## Cablegram unnumbered, PARIS, 13 November 1948, 4 p.m.
+Cablegram unnumbered, PARIS, 13 November 1948, 4 p.m.
 
 The Secretary-General and I are handing to the Chairman of your Delegation at the Third Regular Session of the United Nations General Assembly, for transmittal to you, a communication urging implementation of the resolution of the General Assembly unanimously adopted on 3 November 1948 entitled 'Appeal to the Great Powers to Renew their Efforts to Compose their Differences and Establish a Lasting Peace'.
 
@@ -24,8 +29,8 @@ Finally there is the important question of personal contact, personal trust and 
 
 I want to assure you that the Secretary-General and I will be entirely at your service and disposal in any positive steps you may think would be helpful. Our single desire is to forward the purposes and principles of the United Nations, which the peoples of the world intensely desire to see translated into action.
 
-_ [1] Henri Queuille, Prime Minister of France.
+ _[1] Henri Queuille, Prime Minister of France.
 
 _
 
-_ [SFU : EVATT COLLECTION, UNITED NATIONS - BERLIN PAPERS]_
+ _[SFU : EVATT COLLECTION, UNITED NATIONS - BERLIN PAPERS]_

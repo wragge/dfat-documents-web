@@ -1,12 +1,18 @@
 ---
-title: "401 Sir Bertram Stevens, Australian Representative on Eastern Group Supply Council, New Delhi, to Senator P. A. M. McBride, Minister for Supply and Development"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1632
+doc_date: '1941-04-13'
+doc_num: 401
+doc_order: 401
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.5640, 1.5653-6]'
+title: Sir Bertram Stevens, Australian Representative on Eastern Group Supply Council,
+  New Delhi, to Senator P. A. M. McBride, Minister for Supply and Development
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-13
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 401 Sir Bertram Stevens, Australian Representative on Eastern Group Supply Council, New Delhi, to Senator P. A. M. McBride, Minister for Supply and Development
 
 Cablegram 2184 NEW DELHI, 13 April 1941, 1.25 a.m.
 
@@ -112,7 +118,7 @@ Recommend the Eastern Group Supply Council should make enquiries to ascertain ma
 
 However, the situation as disclosed by the Middle East cable necessitates my cabling foregoing extractions from my Report so that any action decided upon by the Government may be put in hand without delay. Finally, Middle East cable indicates that demands will probably be much heavier than was contemplated when my Report was prepared a few days ago.
 
-_
+ _
 
 1 A. S. V. Smith, Assistant Secretary, Dept of Supply and Development.
 
@@ -124,4 +130,4 @@ _
 
 _
 
-_ [AA: A3195, 1941, 1.5640, 1.5653-6]_
+ _[AA: A3195, 1941, 1.5640, 1.5653-6]_

@@ -1,13 +1,17 @@
 ---
-title: "194 Addison to Australian Government"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3706
+doc_date: '1946-04-16'
+doc_num: 194
+doc_order: 194
+naa_refs:
+- naa_barcode: 193424
+  naa_control_symbol: P46/10/33/19
+  naa_series: A1067
+  reference: '[AA:A1067, P46/10/33/19, i]'
+title: Addison to Australian Government
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-16
-barcode: 193424
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 194 Addison to Australian Government
 
 Cablegram 158 LONDON, 16 April 1946, 8.40 .
 
@@ -21,7 +25,7 @@ Your telegram 12th April No. 171. [1] Allied Council for Japan, paragraph 2, you
 
 4\. The foregoing is being repeated to the Government of India. [2]
 
-_
+ _
 
 1 Document 188.
 
@@ -29,4 +33,4 @@ _
 
 _
 
-_ [ [AA:A1067, P46/10/33/19, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=193424) ]_
+ _[AA:A1067, P46/10/33/19, i]_

@@ -1,12 +1,17 @@
 ---
-title: "111 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 448
+doc_date: '1939-06-24'
+doc_num: 111
+doc_order: 111
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: PREM 1/309]'
+title: Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-06-24
+vol_title: 'Volume 2: 1939'
 ---
-
-# 111 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 
 Cablegram unnumbered 24 June 1939,
 
@@ -16,7 +21,7 @@ My Government is at present making a review of Commonwealth's defence policy and
 
 MENZIES
 
-_
+ _
 
 1 Documents on Australian Foreign Policy 1937-49, vol. 1, Documents 134 and 144 See also Documents 32, 35, 42, 43 and 47 in that volume.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [PRO: PREM 1/309]_
+ _[PRO: PREM 1/309]_

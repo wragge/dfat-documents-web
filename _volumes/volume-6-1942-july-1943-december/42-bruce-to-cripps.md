@@ -1,14 +1,19 @@
 ---
-title: "42 Bruce to Cripps"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2333
+doc_date: '1942-09-09'
+doc_num: 42
+doc_order: 42
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Bruce to Cripps
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-09
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 42 Bruce to Cripps
-
-## Letter [LONDON], 9 September 1942
+Letter [LONDON], 9 September 1942
 
 My McDougall has been in Washington for the past month and has been putting in some quite useful work. The question I sent him to Washington on was Wheat [1] and this was the official reason for his presence there. He has, however, been unofficially in touch with both the State Department and Wallace's organisation [2] with regard to reconstruction questions.
 
@@ -20,7 +25,7 @@ The final draft, which I am sending you, took shape as a result of the Vice Pres
 
 [4] In view of this it may be taken as giving some indication of the way their minds are working in Washington.
 
-_
+ _
 
 1 i.e. to represent Australia at the first meeting of the International Wheat Council.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [S. M. BRUCE]_
+ _[S. M. BRUCE]_

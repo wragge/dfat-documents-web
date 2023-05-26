@@ -1,12 +1,17 @@
 ---
-title: "302 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 639
+doc_date: '1939-10-19'
+doc_num: 302
+doc_order: 302
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-19
+vol_title: 'Volume 2: 1939'
 ---
-
-# 302 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 19 October 1939
 
@@ -20,10 +25,10 @@ If you decide for Washington, I would ask that appointment should only be for a 
 
 BRUCE
 
-_
+ _
 
 1 Document 300.
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

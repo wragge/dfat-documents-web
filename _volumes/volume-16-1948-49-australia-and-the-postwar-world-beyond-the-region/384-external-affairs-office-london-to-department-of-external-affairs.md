@@ -1,12 +1,17 @@
 ---
-title: "384 External Affairs Office, London, to Department of External Affairs"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7099
+doc_date: '1948-07-06'
+doc_num: 384
+doc_order: 384
+naa_refs:
+- naa_barcode: 3340924
+  naa_control_symbol: 1580/1/1/3 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838, 1580/1, I]'
+title: External Affairs Office, London, to Department of External Affairs
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-07-06
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 384 External Affairs Office, London, to Department of External Affairs
 
 Cablegram 2234, LONDON, 6 July 1948, 1.45 p.m.
 
@@ -18,6 +23,6 @@ Canadians feel this would facilitate co-operation between representatives of all
 
 Commonwealth Relations Office has accordingly enquired of ourselves, New Zealand and South Africa whether we wish to join in talks here and request early reply.
 
-__
+ __
 
-_ [AA : A1838, 1580/1, I]_
+ _[AA : A1838, 1580/1, I]_

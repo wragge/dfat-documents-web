@@ -1,12 +1,17 @@
 ---
-title: "323 Forsyth to Ball"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3835
+doc_date: '1946-06-21'
+doc_num: 323
+doc_order: 323
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(a)]'
+title: Forsyth to Ball
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-21
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 323 Forsyth to Ball
 
 Cablegram 826 WASHINGTON, 21 June 1946
 
@@ -22,7 +27,7 @@ Minister stresses the importance of conveying this in an absolutely informal and
 
 2\. For your information, at meeting of Far Eastern Commission 20th June, before receipt of your telegram, Dr. Evatt suggested that the new Constitution should be subject to revision as above and the suggestion was referred to the Constitutional Committee of F.E.C. for early report. Plimsoll tabled a motion this morning 21st June in the Constitutional Committee, to this effect. A majority of the Committee, including Russian member, adopted the motion-U.S. and U.K. reserving their position. The question will probably be considered by the Commission at next meeting, 27th June. Our feeling is that the proposal should meet both the legitimate desire of SCAP for as early a replacement of the old Constitution as possible, and the obligation of the Far Eastern Commission to satisfy itself that the new Constitution is acceptable and adopted in accordance with Potsdam. It would give the Japanese people an opportunity to judge the Constitution in the light of their experience of its working. [3]
 
-_
+ _
 
 1 On 19 June Ball had sought Evatt's instructions regarding Derevyanko's claim that the new constitution would be rushed through the Diet on 21 or 22 June.
 
@@ -34,4 +39,4 @@ It was then to be submitted to the Japanese people for approval by referendum. I
 
 _
 
-_ [SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(a)]_
+ _[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(a)]_

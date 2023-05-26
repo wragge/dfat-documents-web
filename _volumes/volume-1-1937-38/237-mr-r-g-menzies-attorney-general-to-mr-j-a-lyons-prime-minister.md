@@ -1,14 +1,19 @@
 ---
-title: "237 Mr R. G. Menzies, Attorney-General, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 236
+doc_date: '1938-08-06'
+doc_num: 237
+doc_order: 236
+naa_refs:
+- naa_barcode: 214760
+  naa_control_symbol: '83'
+  naa_series: AA1972/341
+  reference: '[AA : AA1972/341, Box 6, MINISTERIAL DELEGATION, 1938]'
+title: Mr R. G. Menzies, Attorney-General, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-08-06
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 237 Mr R. G. Menzies, Attorney-General, to Mr J. A. Lyons, Prime Minister
-
-## Letter (extract) LONDON, 6 August 1938
+Letter (extract) LONDON, 6 August 1938
 
 The first part of the letter referred to matters unrelated to foreign policy.
 
@@ -30,7 +35,7 @@ I am looking forward very much to getting back home again. As you know, the plea
 
 ROBERT G. MENZIES
 
-_
+ _
 
 1 U.K. Prime Minister.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA : AA1972/341, Box 6, MINISTERIAL DELEGATION, 1938]_
+ _[AA : AA1972/341, Box 6, MINISTERIAL DELEGATION, 1938]_

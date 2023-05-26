@@ -1,23 +1,27 @@
 ---
-title: "44 Letter, Barnes To Cleland"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9552
+doc_date: '1966-06-01'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 3125701
+  naa_control_symbol: 1965/6640
+  naa_series: A452
+  reference: '[NAA: A452, 1965/6640]'
+title: Letter, Barnes To Cleland
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-06-01
-barcode: 3125701
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
 
-# 44 Letter, Barnes To Cleland
-
-Canberra, [1 June 1966]1
+Canberra, [1 June 1966][1](#f1)
 
 Secret
 
-I read your memorandum S.24-4 of 3rd May, 1966 and attachments dealing with student and public service discontent.2
+I read your memorandum S.24-4 of 3rd May, 1966 and attachments dealing with student and public service discontent.[2](#f2)
 
 While I appreciate that the situation needs very careful handling, my general approach is that a position cannot be allowed to arise in which groups of public servants or (especially) students are given any encouragement to think that demonstrations and strikes are a profitable way of forcing concessions in conditions of employment. Accordingly, I feel that the situation must be handled with firmness. While appreciating that a judgment has to be made on the handling of each set of circumstances as they arise, I consider generally that the approach of the Public Service Commissioner has a good deal of merit.
 
-Mr. Swift has reported orally to me the conversation which he told you he had with Mr. Parrish3 and Mr. Erskine4 in which it was mentioned that student groups were planning demonstrations when the Public Service Arbitrator next visits the Territory; that some of the discontent amongst local officers is being accentuated by expressions of views by Administration overseas officers who do not agree with the public service reconstruction policy; and that any offer made by the Administration in the local officer arbitration proceedings is unlikely to have a good effect unless a good deal of attention is given to explaining it—in fact ‘selling’ it—to local officers. Mr. Swift told me that you were considering what could be done to improve the Administration’s position in respect of these matters and in the industrial relations field generally.
+Mr. Swift has reported orally to me the conversation which he told you he had with Mr. Parrish[3](#f3) and Mr. Erskine[4](#f4) in which it was mentioned that student groups were planning demonstrations when the Public Service Arbitrator next visits the Territory; that some of the discontent amongst local officers is being accentuated by expressions of views by Administration overseas officers who do not agree with the public service reconstruction policy; and that any offer made by the Administration in the local officer arbitration proceedings is unlikely to have a good effect unless a good deal of attention is given to explaining it—in fact ‘selling’ it—to local officers. Mr. Swift told me that you were considering what could be done to improve the Administration’s position in respect of these matters and in the industrial relations field generally.
 
 I attach very great importance to positive measures being taken in relation to the threatened demonstrations by students or other local officers when the Arbitrator goes to the Territory. I rely on you to see that all possible steps are taken to avoid such demonstrations, including the placing of responsibility squarely on those officers of the Administration whose duty it is to influence and control the students or local officers concerned.
 
@@ -25,7 +29,7 @@ In respect of the student group in particular I consider that these are individu
 
 I should like you to despatch on the 7th June through the Secretary to the Department a further assessment of the situation and a brief account of action taken and proposed in relation to it. I would like you also to comment in that communication on the other two matters mentioned above, namely, the suggestion that overseas officers not in sympathy with policy are aggravating the situation and the need for consideration of the handling of the offer to be made in the local officers’ arbitration proceedings. If you consider that the points raised above have substance, I should like to have an account of the action being taken in relation to them.
 
-[ [NAA: A452, 1965/6640](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3125701) ]
+[NAA: A452, 1965/6640]
 
 1  Day and month are partially illegible but appear to read ‘1 Jun’.
 

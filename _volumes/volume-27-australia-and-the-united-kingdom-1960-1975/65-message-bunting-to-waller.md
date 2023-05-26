@@ -1,22 +1,25 @@
 ---
-title: "65 MESSAGE, BUNTING TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9930
+doc_date: '1967-05-03'
+doc_num: 65
+doc_order: 65
+naa_refs:
+- naa_barcode: 1160399
+  naa_control_symbol: 1966/7335 PART 3
+  naa_series: A1209
+  reference: '[NAA: A1209, 1966/7335 PART 3]'
+title: MESSAGE, BUNTING TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-05-03
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 65 MESSAGE, BUNTING TO WALLER
-
-NAA: A1209, 1966/7335 PART 3
 
 Canberra, 3 May 1967
 
 Secret 
 
-The Prime Minister wishes you to transmit to the White House the following personal message from him to the President. He also indicates that you should feel authorized to supplement message as necessary by giving the President or his staff access to cables which you already hold dealing with this subject. This includes the Prime Minister’s message to Mr. Wilson1 and also the record of his discussion with Sir Charles Johnston. But as to the former, he would wish you to stop short of handing over the text of his message to Mr. Wilson.
+The Prime Minister wishes you to transmit to the White House the following personal message from him to the President. He also indicates that you should feel authorized to supplement message as necessary by giving the President or his staff access to cables which you already hold dealing with this subject. This includes the Prime Minister’s message to Mr. Wilson[1](#f1) and also the record of his discussion with Sir Charles Johnston. But as to the former, he would wish you to stop short of handing over the text of his message to Mr. Wilson.
 
-_Message begins:_
+ _Message begins:_
 
 ‘Dear Lyndon,
 
@@ -28,7 +31,7 @@ I gather from his messages that Paul Hasluck has kept Dean Rusk fully informed a
 
 You will know how troubled we have been to learn of the British proposals leading to withdrawal by the mid-seventies, and how strongly I have expressed myself in relation to them. We had firm assurances individually from Wilson, Stewart, Healey and Bowden—quite apart from those in the British Defence Papers of February, 1966, and February, 1967, that, although we retained some doubts about their resolution, we were unprepared for the suddenness with which an entirely different picture was presented, and the tone of finality in its presentation by Brown in Washington and Healey in Malaysia and Singapore. I hope that George Brown has reported back the strength and identity of feeling shown by the United States, Australian, and New Zealand spokesmen in Washington.
 
-Harold Wilson replied to my message2 giving me an assurance that no final decisions will be taken until he and I have an opportunity for full discussion when I meet him in London in June. Reading the messages which have come from various sources, I cannot close my eyes to the possibility that the British Cabinet has discussed its situation fully and is far advanced towards final decisions of a particular kind. But I nevertheless propose to trade heavily on Wilson’s assurance that there are not yet any final decisions, and that there is to be full consultation with me and consideration by their Ministers of our views before they come to decisions. Australia and New Zealand are both deeply involved in the existing Commonwealth defence arrangements which have persisted over a period of time, as indeed are the host countries of Malaysia and Singapore. I will be at pains to bring home the responsibilities of partnership and to argue, and to sustain the argument, that the partners, other than Britain, have earned the right to consultation and concerted examination with Britain on these matters. I am not thinking merely of discussing aspects of timing, troop dispositions, base facilities, and so on. What I want to do is look ahead to developing with Britain and other Commonwealth partners, concepts to ensure that the security and stability of the area are guaranteed with changing circumstances. I will certainly be seeking to exploit what receptiveness there may still be to persuasion away from the concepts and philosophy which they appear to be on the road to adopting. I have asked Wilson that whatever decisions his Government makes as to reduction of military forces East of Suez, in no circumstances should it be presented as a final withdrawal—he should both publicly and privately keep some options open.
+Harold Wilson replied to my message[2](#f2) giving me an assurance that no final decisions will be taken until he and I have an opportunity for full discussion when I meet him in London in June. Reading the messages which have come from various sources, I cannot close my eyes to the possibility that the British Cabinet has discussed its situation fully and is far advanced towards final decisions of a particular kind. But I nevertheless propose to trade heavily on Wilson’s assurance that there are not yet any final decisions, and that there is to be full consultation with me and consideration by their Ministers of our views before they come to decisions. Australia and New Zealand are both deeply involved in the existing Commonwealth defence arrangements which have persisted over a period of time, as indeed are the host countries of Malaysia and Singapore. I will be at pains to bring home the responsibilities of partnership and to argue, and to sustain the argument, that the partners, other than Britain, have earned the right to consultation and concerted examination with Britain on these matters. I am not thinking merely of discussing aspects of timing, troop dispositions, base facilities, and so on. What I want to do is look ahead to developing with Britain and other Commonwealth partners, concepts to ensure that the security and stability of the area are guaranteed with changing circumstances. I will certainly be seeking to exploit what receptiveness there may still be to persuasion away from the concepts and philosophy which they appear to be on the road to adopting. I have asked Wilson that whatever decisions his Government makes as to reduction of military forces East of Suez, in no circumstances should it be presented as a final withdrawal—he should both publicly and privately keep some options open.
 
 The Governments of Singapore and Malaysia have reacted more mildly in public than their real feelings would have warranted. They have made known to us their apprehension that a more dramatic reaction would touch off a chain of unfavourable consequences for them, resulting, among other things, in loss of confidence in their future by investors, industrialists and others who could be playing a helpful part in their development, and even weakening their security. The very mildness of this public reaction makes it, of course, the more difficult for Australia and New Zealand to press their own views publicly as vigorously as we feel them.
 
@@ -45,3 +48,5 @@ We shall all be better informed about these matters by the time we meet, and I g
 1 See Document 64. 
 
 2 See Document 64. 
+
+[NAA: A1209, 1966/7335 PART 3]

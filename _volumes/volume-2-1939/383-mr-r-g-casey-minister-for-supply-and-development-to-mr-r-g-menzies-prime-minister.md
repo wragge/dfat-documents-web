@@ -1,12 +1,18 @@
 ---
-title: "383 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 720
+doc_date: '1939-11-23'
+doc_num: 383
+doc_order: 383
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 35]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-23
+vol_title: 'Volume 2: 1939'
 ---
-
-# 383 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
 
 Cablegram C36 LONDON, 23 November 1939, 8.56 p.m.
 
@@ -16,7 +22,7 @@ Reference C.34. [1] Memorandum referred to in my telegram C.31 [2] not available
 
 CASEY
 
-_
+ _
 
 1 Document 381.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 35]_
+ _[AA: CP 290/6, ITEM 35]_

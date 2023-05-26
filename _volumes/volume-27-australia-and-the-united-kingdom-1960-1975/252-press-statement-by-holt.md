@@ -1,18 +1,21 @@
 ---
-title: "252 PRESS STATEMENT BY HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10117
+doc_date: '1967-12-12'
+doc_num: 252
+doc_order: 252
+naa_refs:
+- naa_barcode: 5094170
+  naa_control_symbol: 1967/4855
+  naa_series: A3211
+  reference: '[NAA: A3211, 1967/4855]'
+title: PRESS STATEMENT BY HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-12-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 252 PRESS STATEMENT BY HOLT
-
-NAA: A3211, 1967/4855 
 
 Canberra, 12 December 1967
 
-**Devaluation: Reaffirmation of Government’s Decision**
+ **Devaluation: Reaffirmation of Government’s Decision**
 
 Since the Commonwealth Government decided on 20th November to maintain the value of the Australian dollar when Britain devalued the Pound Sterling, the effect on Australian Industries and the economic outlook in general have been under continuous study.
 
@@ -50,7 +53,7 @@ Our reserves in gold and foreign exchange amount to dollars, 1,070 million. Our 
 
 On a longer view, our balance of payments prospects are highly promising. Our capacity to produce for export is growing rapidly. Developments in mineral production will add greatly to our export earnings. Our export capacity is also being enlarged in other directions, and import saving production is increasing. We do not foresee any drastic reversal in the general level of capital inflow from abroad.
 
-It has been said that, by maintaining the value of the dollar, we appreciated our currency. 1 The truth is we neither appreciated nor devalued it.
+It has been said that, by maintaining the value of the dollar, we appreciated our currency. [1](#f1) The truth is we neither appreciated nor devalued it.
 
 Since 1948, the Pound value of our currency in relation to other currencies has been established with the international monetary fund—as have the pound values of most other national currencies outside the communist world.
 
@@ -89,3 +92,5 @@ There have been, since the decision on 20th November, a series of talks with ind
 What has been done by the Government has been designed directly and deliberately to protect the strength of the Australian Dollar. This is fundamental to the soundness of our economy and our prospects for continued expansion. We are satisfied we made the right decision on every count.
 
 1  This view was repeatedly put by McEwen; see Document 251. 
+
+[NAA: A3211, 1967/4855]

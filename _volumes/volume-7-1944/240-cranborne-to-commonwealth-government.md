@@ -1,12 +1,17 @@
 ---
-title: "240 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2887
+doc_date: '1944-07-29'
+doc_num: 240
+doc_order: 240
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/12]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-29
+vol_title: 'Volume 7: 1944'
 ---
-
-# 240 Cranborne to Commonwealth Government
 
 Cablegram D1080 LONDON, 29 July 1944, 1.30 a.m.
 
@@ -24,7 +29,7 @@ My telegram of 18th July D.No. 1036. [1] Civil Aviation.
 
 3\. We hope that you will feel able to agree in principle to this proposal, and should be glad of the earliest possible advice as to your views. Further consideration could then be given to the place and time of meeting which we hope could take place in the near future.
 
-_
+ _
 
 1 On file AA:A5954, box 658.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A989, 44/735/832/12]_
+ _[AA:A989, 44/735/832/12]_

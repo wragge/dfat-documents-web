@@ -1,12 +1,18 @@
 ---
-title: "307 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Jonkheer E. Michiels van Verduynen, Netherlands Minister to the United Kingdom"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1538
+doc_date: '1941-02-18'
+doc_num: 307
+doc_order: 307
+naa_refs:
+- naa_barcode: 280083
+  naa_control_symbol: '189'
+  naa_series: A2937
+  reference: '[AA:A2937, NETHERLANDS LEGATION NO. 1 (PRELIMINARY) (9.10.40 TO 31.1.42)]'
+title: Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Jonkheer
+  E. Michiels van Verduynen, Netherlands Minister to the United Kingdom
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-18
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 307 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Jonkheer E. Michiels van Verduynen, Netherlands Minister to the United Kingdom
 
 Extract [LONDON], 18 February 1941
 
@@ -18,7 +24,7 @@ I put it to the Minister, however, that it seemed to me we should not wait, as a
 
 S. M. B[RUCE]
 
-_ 31.1.42)]
+ _31.1.42)]
 
 1 On 17 February.
 
@@ -58,4 +64,4 @@ The Netherland Government would be much obliged if His Majesty's Government coul
 
 _
 
-_ [AA:A2937, NETHERLANDS LEGATION NO. 1 (PRELIMINARY) (9.10.40 TO_
+ _[AA:A2937, NETHERLANDS LEGATION NO. 1 (PRELIMINARY) (9.10.40 TO_

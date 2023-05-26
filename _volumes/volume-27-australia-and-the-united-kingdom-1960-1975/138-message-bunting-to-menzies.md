@@ -1,19 +1,23 @@
 ---
-title: "138 MESSAGE, BUNTING TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10003
+doc_date: '1961-06-01'
+doc_num: 138
+doc_order: 138
+naa_refs:
+- naa_barcode: 946430
+  naa_control_symbol: C3369 PART 1
+  naa_series: A4940
+  reference: '[NAA: A4940, C3369 PART 1]'
+title: MESSAGE, BUNTING TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 138 MESSAGE, BUNTING TO MENZIES
-
-NAA: A4940, C3369 PART 1
 
 Canberra, undated [June 1961]
 
 As you will be seeing the Minister for Trade on Thursday night in relation to the Sandys visit, I am sending you the following as ‘recommended preliminary reading’. It is long. But if you can, please persevere.
 
-2\. We had a further interdepartmental meeting this week by way of preparation for Sandys.1 It was a type of rehearsal. We started from the assumption that you and your colleagues will want to regard the visit as opening the political consultation but not completing it. Sandys will make his exposition, and following that, the Australian Ministers will respond in interrogative and probing fashion. But there will be no question of Sandys taking away an answer and therefore no question of any commitments being entered into or pretended.
+2\. We had a further interdepartmental meeting this week by way of preparation for Sandys.[1](#f1) It was a type of rehearsal. We started from the assumption that you and your colleagues will want to regard the visit as opening the political consultation but not completing it. Sandys will make his exposition, and following that, the Australian Ministers will respond in interrogative and probing fashion. But there will be no question of Sandys taking away an answer and therefore no question of any commitments being entered into or pretended.
 
 3\. On that assumption we envisage the discussions taking a form something like the following. First of all, on Friday afternoon the Australian Cabinet meets in order to complete its own preparations and its tactics. Sandys appears formally on the Saturday morning when he meets, presumably, the Cabinet. This will be the occasion for his exposition. We think it is likely to be lengthy and we also think it will be mainly political in character.
 
@@ -33,7 +37,7 @@ As you will be seeing the Minister for Trade on Thursday night in relation to th
 
 11\. The other aspect gets right down to fundamental points of tactics and of position. I said in the beginning of this message that we assumed that our Ministers will desire to avoid commitments. They will square Sandys up to the considerations and problems affecting the decision of the United Kingdom, but all the time remaining neutral—i.e. not to be understood as supporting, nor as opposing, nor in any way responsible for whatever decision the UK makes. In theory—wonderful. But in practice—how do you achieve it and, having achieved it, hold out against the pressure Sandys will exert to shift you even if only ever so slightly. Our news from New Zealand at this moment is that Sandys wants to nail New Zealand this week as being in some degree of support or anyway of acquiescence. He will want to nail us similarly next week.
 
-12\. In a way, this will be not unlike the Thornycroft exercise of last year. In that case, we maintained our independence by stating across the table _and in writing_ a clear and earthy view, but stopping short of blocking the UK’s initiative if they wanted to take it.2
+12\. In a way, this will be not unlike the Thornycroft exercise of last year. In that case, we maintained our independence by stating across the table _and in writing_ a clear and earthy view, but stopping short of blocking the UK’s initiative if they wanted to take it.[2](#f2)
 
 13\. The way to establish our independence in this coming matter will be to declare it—not leave it to be interpreted from communique or minutes or discussions. Interpretations will go against us. It will need stating in terms—orally and in writing. The letter to the British Prime Minister which you have in mind will be a suitable vehicle. If there is a communique, it will need to be watched for the interpretation which will be put on it.
 
@@ -54,3 +58,5 @@ As you will be seeing the Minister for Trade on Thursday night in relation to th
 1 Document 137.
 
 2 See Document 2.
+
+[NAA: A4940, C3369 PART 1]

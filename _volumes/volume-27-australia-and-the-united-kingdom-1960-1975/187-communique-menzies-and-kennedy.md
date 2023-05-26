@@ -1,14 +1,17 @@
 ---
-title: "187 COMMUNIQUE, MENZIES AND KENNEDY"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10052
+doc_date: '1962-06-20'
+doc_num: 187
+doc_order: 187
+naa_refs:
+- naa_barcode: 1050919
+  naa_control_symbol: C3616
+  naa_series: A4940
+  reference: '[NAA: A4940, C3616]'
+title: COMMUNIQUE, MENZIES AND KENNEDY
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-06-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 187 COMMUNIQUE, MENZIES AND KENNEDY
-
-NAA: A4940, C3616
 
 The White House, Washington, 20 June 1962
 
@@ -16,7 +19,7 @@ The White House today made public the following Joint Communique after meetings 
 
 The President and the Prime Minister expressed gratification at the opportunity presented by the Prime Minister’s visit for furthering their personal as well as official friendship symbolizing the cordiality of relations between the American and Australian people.
 
-[_mutter umitted_]
+[ _mutter umitted_ ]
 
 Both the President and the Prime Minister agreed on the desirability of maintaining the excellent record of Australian-American security consultation and coordination through ANZUS and SEATO Treaties.
 
@@ -35,3 +38,5 @@ With respect to the great bulk of articles and commodities they noted that, as n
 During the course of their interviews the President expressed his warm interest in Australia and his understanding of Australian needs in terms of development and growth, recognizing the problems of particular regions as well as industries. Both he and the Prime Minister were agreed that the problems arising out of Britain’s proposed entry should be approached not on any basis of theory or the use of particular words but upon a practical basis examining commodities one by one, having in mind the protection of the interests of both countries.
 
 As a result of their discussions the President and the Prime Minister were encouraged to believe that satisfactory solutions will be found to these problems faced by their two countries.
+
+[NAA: A4940, C3616]

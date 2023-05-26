@@ -1,14 +1,19 @@
 ---
-title: "458 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1689
+doc_date: '1941-05-14'
+doc_num: 458
+doc_order: 458
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.7736]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-14
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 458 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
-
-## Cablegram General 174 NEW YORK [1], 14 May 1941
+Cablegram General 174 NEW YORK [1], 14 May 1941
 
 In reply to your message of 12th instant [2], I may say that, both before and since the receipt of your telegram, I have thoroughly discussed the question of Lease-Lend with Casey [3], Macgregor, and Clapp. [4] Following is the situation. Namely:-
 
@@ -34,7 +39,7 @@ Macgregor is telegraphing you [6] in reference to your message regarding records
 
 MENZIES
 
-_
+ _
 
 1 This cablegram was sent through the New York office of the Government Trade Commissioner in the United States, L. R.
 
@@ -54,4 +59,4 @@ Macgregor.
 
 _
 
-_ [AA: A3195, 1941, 1.7736]_
+ _[AA: A3195, 1941, 1.7736]_

@@ -1,12 +1,17 @@
 ---
-title: "307 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2598
+doc_date: '1943-10-21'
+doc_num: 307
+doc_order: 307
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEET FROM SECDO, 1.43146]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-10-21
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 307 Churchill to Curtin
 
 Cablegram 313 [1] LONDON, 21 October 1943, 11.55 a.m.
 
@@ -18,7 +23,7 @@ Since Attlee's telegram of 8th September D.633 [3] as to projected meeting of Pr
 
 I do not underrate the difficulties which you set out in your telegram and understand the grounds on which you would prefer the meeting to be deferred until April. I trust, however, that what I have said above may convince you as to the need for a meeting at the earliest possible date and that you will be able to make it possible to come in December if the others are also able to do so.
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 2 Document 277.
 
@@ -28,4 +33,4 @@ _ 1 Sent through the U.K. Dominions Office.
 
 _
 
-_ [FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEET FROM SECDO, 1.43146]_
+ _[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEET FROM SECDO, 1.43146]_

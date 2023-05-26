@@ -1,14 +1,21 @@
 ---
-title: "91 REPORT BY DEFENCE COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9956
+doc_date: '1968-01-24'
+doc_num: 91
+doc_order: 91
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[sic: insurance]'
+- naa_barcode: 1014673
+  naa_control_symbol: VOLUME 1
+  naa_series: A5867
+  reference: '[NAA: A5867 VOLUME 1]'
+title: REPORT BY DEFENCE COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-01-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 91 REPORT BY DEFENCE COMMITTEE
-
-NAA: A5867 VOLUME 1
 
 Canberra, 24 January 1968
 
@@ -18,7 +25,7 @@ Canberra, 24 January 1968
 
 Implications for Australia of the British Defence Decisions: January 1968
 
-_Introduction_
+ _Introduction_
 
 Before the visit by the Secretary of State for Commonwealth Relations the essence of the Australian position in Malaysia/Singapore was that Australia should seek to prolong British involvement there to the greatest extent possible; and that Australia should maintain its forces in Malaysia at about the present level by association with a continuing Anglo/Malaysian defence agreement, as distinct from having a separate agreement with Malaysia. This position was to be seen as a significant element in the total context of Australian–U.S.A. relationships; not merely did it have the private approbation of the U.S.A., it was calculated to encourage a more active U.S.A. commitment in relation to the defence and security of South East Asia as a whole, including Australia.
 
@@ -37,7 +44,7 @@ Before the visit by the Secretary of State for Commonwealth Relations the essenc
 
 (d) regarded the proposal for a 5 Power meeting as being in abeyance at that point.
 
-_The British Decisions_
+ _The British Decisions_
 
 3\. The main points made by the British Prime Minister are:
 
@@ -61,7 +68,7 @@ _The British Decisions_
 > 
 > (j) Britain would be prepared to participate in a 5 Power Conference taking as its basis the foregoing British decisions.
 
-_The Problem_
+ _The Problem_
 
 4\. The questions that now face Australia fit conveniently into two periods–up to the end of 1971, and after 1971. In both cases there are problems having both political and military elements. Definitive answers to some questions calling for immediate action are needed. It is also necessary to identify and raise for preliminary discussion some long term matters which impinge on the short term. The two time periods cannot be considered in isolation because what may be decided in the first may very well determine or influence what may happen or be possible in the second and because well before the first expires, decisions governing actions for the second period must have been formulated. Two examples may be given. Whatever may be the value of AMDA (reinterpreted) during the British rundown, consideration will have to be given to the political arrangements to apply in the Region after the U.K. withdrawal. Second, the new Three Year Defence Programme which is scheduled to begin on 1st July, 1968 cannot be sensibly shaped without an understanding of the Government’s attitude to what lies beyond 1971.
 
@@ -69,7 +76,7 @@ _The Problem_
 
 6\. As well detailed study of a number of matters, including these later referred to, must be undertaken. This is only one more reason why we should continue to keep open for as long as possible such options as are available to us. Despite the fact that many uncertainties face us, including the duration and aftermath of the Vietnam War, U.S. intentions thereafter, and perhaps meantime the possibility of interest by the U.S. in the Indian Ocean, certain decisions will have to be taken from time to time. Time is running against us for planning and programming. What we must try to ensure is that in taking decisions we do not prematurely close off options.
 
-_Policy Considerations Regarding an Australian Presence in Malaysia/Singapore_
+ _Policy Considerations Regarding an Australian Presence in Malaysia/Singapore_
 
 7\. Most of the reasons previously canvassed in Cabinet for retaining Australian forces in Malaysia/Singapore at least so long as the British are there remain valid. They include the need to secure stability in the South East Asian region and, in particular to prevent any crumbling of the situation behind the SEATO area whilst the Vietnam War continues, and to encourage continuing American support for this region. An Australian military presence contributes to stability in the region and gives support to the friendly Governments of Malaysia and Singapore; with the withdrawal of the British our presence could be the insurance against fresh insurgency in Malaysia. The Australian military presence also gives us influential standing in the handling of problems which could arise in the region and which could lead to tension among our neighbouring countries. It could be the means of bringing some closer accord between Malaysia and Singapore, at least in the defence field. Negatively, and the more so in the face of the clear expression of the United States view that Australia should stay, an Australian withdrawal could seriously compromise the U.S. attitude to Australia.
 
@@ -111,7 +118,7 @@ _Policy Considerations Regarding an Australian Presence in Malaysia/Singapore_
 > 
 > (c) as the British rundown proceeds only a very small part of the Singapore Naval facilities would be needed to meet the Australian requirements, and apart from facilities including docks which might be converted to civilian requirements, the base would largely become redundant unless United States work is forthcoming as a result of the present U.S. technical reconnaissance. Apart from its effect on the docks, the withdrawal of the British fleet in 1971 will leave a stark vacuum in the peninsula’s naval defence—and not least in relation to protection against piracy.
 
-_Proposed Military Reconnaissance_
+ _Proposed Military Reconnaissance_
 
 15\. Not only should the military reconnaissance already authorized proceed (para 2(c)), it is indeed now more urgent. In the course of fact finding:
 
@@ -123,7 +130,7 @@ _Proposed Military Reconnaissance_
 > 
 > (d) we should obtain as much information as possible relevant to the proposed Joint Air Defence System.
 
-_Five Power Talks_
+ _Five Power Talks_
 
 16\. Five Power Talks have long been sought by the Malaysians, and Australia has indicated at the Prime Ministerial level its support of the proposed 5 Power Conference. The British Government has now indicated its willingness to take part on the basis of its new decisions. While we need take no initiative in pressing for the talks, from our point of view the sooner the talks are held the better. Time will be needed first for the reconnaissance mission to report and for its report to be considered and secondly for the ANZUS Council meeting early in April. This points in the latter part of April for the Five Power Talks. The talks should be at Ministerial level and should be held in Asia.
 
@@ -155,13 +162,13 @@ _Five Power Talks_
 
 22\. In light of Ministers’ consideration of this whole question, those aspects of the matters briefly touched on above which are within the competence of the Defence Committee will be put to further study. They are referred to here as background to the immediate decisions required, because longer-term aims influence short term arrangements; because of the need to advance our thinking before the Five Power Conference; and because the little time before the British rundown renders British forces militarily ineffective leaves so short a span in which to begin to develop new arrangements.
 
-_Visit by Minister for External Affairs_
+ _Visit by Minister for External Affairs_
 
 23\. The matters so shortly traversed above are very relevant to the proposed visit to Malaysia/ Singapore by the Minister for External Affairs. When the Minister’s visit was first planned (para 2), the purpose was, _inter alia,_ to ensure that the proposed reconnaissance did not lead to wrong assumptions about Australian policy. This purpose continues. But as well there are now new reasons for the visit. They are to be found in the matters discussed above. As well the Minister’s talks should help Australian thinking on matters within the range discussed in paras 18 to 22 and allow of consideration of the tactics for future handling of the British.
 
 24\. No final view on the joint air defence system can be expressed until details are worked out and the Government has given more consideration to long term commitments. However the Minister might intimate that we are prepared to examine the suggestion with our other partners.
 
-_Recommendations_
+ _Recommendations_
 
 25\. Noting that a governing consideration is that we should keep open for as long as possible such options as are available to us (para 6) and that in any event a reassessment of our own position may be required in the light of the Vietnam situation and developments in United States policy (para 19), it is recommended Cabinet approve that–
 
@@ -186,3 +193,5 @@ _Recommendations_
 > (j) the overall impression of the Australian attitude which we should convey is that set out in para 19.
 
 27\. In keeping with our past policy, we should continue to concert our actions closely with New Zealand at the political and military level. It would also be necessary to keep the United States informed of what we are doing in terms both of our vital interest in their support and co-operation, and of the recent exchange between the Australian and United States of America Governments.
+
+[NAA: A5867 VOLUME 1]

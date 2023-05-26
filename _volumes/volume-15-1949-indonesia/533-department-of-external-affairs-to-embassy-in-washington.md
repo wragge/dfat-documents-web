@@ -1,12 +1,18 @@
 ---
-title: "533 Department of External Affairs to Embassy in Washington"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6702
+doc_date: '1949-11-24'
+doc_num: 533
+doc_order: 533
+naa_refs:
+- naa_barcode: 591925
+  naa_control_symbol: 250/10/7/6 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838, 250/10/7/6]'
+title: Department of External Affairs to Embassy in Washington
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-11-24
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 533 Department of External Affairs to Embassy in Washington
 
 Cablegram 656 CANBERRA, 24 November 1949
 
@@ -24,10 +30,10 @@ We would hope that international organisations to which Australia contributes un
 
 3\. As regards the future of Dutch New Guinea we have taken the view that this is essentially a matter to be settled between the Dutch and the Indonesians, but that our preference on the whole would be for United Nations trusteeship.
 
-_
+ _
 
 1 Document 529.
 
 _
 
-_ [AA : A1838, 250/10/7/6]_
+ _[AA : A1838, 250/10/7/6]_

@@ -1,12 +1,17 @@
 ---
-title: "292 Evatt to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3804
+doc_date: '1946-06-05'
+doc_num: 292
+doc_order: 292
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.14783]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-05
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 292 Evatt to Chifley
 
 Cablegram 723 WASHINGTON, 5 June 1946, 8.20 p.m.
 
@@ -24,7 +29,7 @@ For the Prime Minister alone.
 
 4\. When you approve document there will be very little delay in formal signature of agreement.
 
-_
+ _
 
 1 Document 294.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.14783]_
+ _[AA:A3195, 1946, 1.14783]_

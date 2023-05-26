@@ -1,22 +1,25 @@
 ---
-title: "397 NOTE FOR FILE BY BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10263
+doc_date: '1972-08-18'
+doc_num: 397
+doc_order: 397
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA: Al209, 1971/9449 PART 2]'
+title: NOTE FOR FILE BY BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-08-18
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 397 NOTE FOR FILE BY BUNTING
-
-NAA: Al209, 1971/9449 PART 2
 
 Canberra, 18 August 1972
 
 Confidential
 
-**Australia House**
+ **Australia House**
 
-I told Sir Keith Waller that I had an hour or so last night with the Minister for Foreign Affairs. 1
+I told Sir Keith Waller that I had an hour or so last night with the Minister for Foreign Affairs. [1](#f1)
 
 He said he was aware of this.
 
@@ -31,3 +34,5 @@ I said that my interest was to get a solution. The Minister told me that he woul
 Sir Keith said his understanding is that the Minister will draft a letter and will discuss it in Canberra with him on Monday.
 
 1  Document 396. 
+
+[NAA: Al209, 1971/9449 PART 2]

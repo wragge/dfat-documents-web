@@ -1,12 +1,17 @@
 ---
-title: "365 Legation in Washington to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1596
+doc_date: '1941-03-25'
+doc_num: 365
+doc_order: 365
+naa_refs:
+- naa_barcode: 176224
+  naa_control_symbol: FAR 25 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 25B, i]'
+title: Legation in Washington to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-25
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 365 Legation in Washington to Department of External Affairs
 
 Cablegram 227 (extract) WASHINGTON, 25 March 1941, 5.31 p.m.
 
@@ -30,7 +35,7 @@ With reference to my telegram No. 199. [3] Seventh Progress Report.
 
 (7) Probable that the final report will be signed on Friday, 28th March.
 
-_
+ _
 
 1 Admiral Sir Ragnar Colvin, but see Document 355, note 2.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 25B, i]_
+ _[AA:A981, FAR EAST 25B, i]_

@@ -1,18 +1,26 @@
 ---
-title: "236 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9105
+doc_date: '1982-02-19'
+doc_num: 236
+doc_order: 236
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-02-19
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 236 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 19 February 1982
 
 No 443. CONFIDENTIAL NZEO PRIORITY
 
-**CER**
+ **CER**
 
 The High Commissioner saw Scully and Anderson yesterday for a general discussion about CER. The main burden of their comments was that it was vital to move quickly to bring the negotiations to a conclusion. The Australian political environment could only become more uncertain and more troubled in the months ahead. The Government was being subjected to increasing criticism of its economic policies. Interest rates were expected to go sky high. Unemployment was likely to increase significantly and the possibility could not be ruled out that Mr Fraser would decide to call a general election before things deteriorated too far.
 
@@ -24,4 +32,4 @@ The High Commissioner saw Scully and Anderson yesterday for a general discussion
 
 
 
-_[ABHS 950/Box 1228, 40/4/2 Part 2 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1228, 40/4/2 Part 2 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

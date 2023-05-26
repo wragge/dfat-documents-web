@@ -1,12 +1,17 @@
 ---
-title: "167 Chifley to Sturdee"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3679
+doc_date: '1946-04-04'
+doc_num: 167
+doc_order: 167
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1669]'
+title: Chifley to Sturdee
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-04
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 167 Chifley to Sturdee
 
 Letter 4 April 1946,
 
@@ -32,10 +37,10 @@ The appointment of an Australian to represent the British Commonwealth in the Al
 
 It would appear that, provided machinery exists for an effective voice on the Governmental level for the various parts of the Empire concerned in matters of Policy affecting their Forces, the higher control could be more effectively left to the part of the Empire primarily concerned with integration of overseas officers in the Australian Service and Joint-Service Machinery. When we despatched an Expeditionary Force to the Middle East, the broad principle followed was to place it under the general command and operational control of the major partner in the theatre with an Australian officer responsible for the command and administration of the formation.
 
-_
+ _
 
 1 Chifley was to attend a British Commonwealth Prime Ministers' meeting, the main topic of which would be 'matters pertaining to the Pacific'.
 
 _
 
-_ [AA:A5954, BOX 1669]_
+ _[AA:A5954, BOX 1669]_

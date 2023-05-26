@@ -1,14 +1,19 @@
 ---
-title: "224 Commonwealth Government to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 561
+doc_date: '1939-09-13'
+doc_num: 224
+doc_order: 224
+naa_refs:
+- naa_barcode: 205845
+  naa_control_symbol: L37/1/5
+  naa_series: A1608
+  reference: '[AA:A16108, L37/1/5]'
+title: Commonwealth Government to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-13
+vol_title: 'Volume 2: 1939'
 ---
 
-# 224 Commonwealth Government to Mr S.M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 13 September 1939,
+Cablegram unnumbered 13 September 1939,
 
 VERY URGENT
 
@@ -26,7 +31,7 @@ We trust United Kingdom Government will give the most careful consideration to t
 
 We desire you see British Minister concerned [3] and explain the considerations mentioned herein and in separate telegram regarding wool. [4] Desire you also secure United Kingdom Government's acquiescence in our proposal that shipments by 'Canberra Maru' be permitted. Essential reply last mentioned aspect reach us tomorrow Thursday. [5]
 
-_
+ _
 
 1 Masatoshi Akiyama.
 
@@ -42,4 +47,4 @@ Government had no objection to the shipment of up to 2000 bales of wool to Japan
 
 _
 
-_ [AA:A16108, L37/1/5]_
+ _[AA:A16108, L37/1/5]_

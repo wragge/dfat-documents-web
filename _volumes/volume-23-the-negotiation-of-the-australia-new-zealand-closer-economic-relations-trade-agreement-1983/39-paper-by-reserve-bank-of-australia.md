@@ -1,11 +1,19 @@
 ---
-title: "39 Paper by Reserve Bank of Australia"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8909
+doc_date: 1979-10
+doc_num: 39
+doc_order: 39
+naa_refs:
+- naa_barcode: 1509858
+  naa_control_symbol: 370/1/19/18 ANNEX 6
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011119118, ANNEX 6]'
+title: Paper by Reserve Bank of Australia
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 39 Paper by Reserve Bank of Australia
 
 Canberra, October 1979
 
@@ -39,8 +47,6 @@ A number of New Zealand insurance companies and other financiers carry on activi
 
 The spread of activities of Australian financial institutions to New Zealand (and the reverse process) has reflected commercial judgments made by the institutions concerned. More recently the scope for the process to be taken further has been subject to policies relating to foreign investment in each country. The Government's policy on foreign investment in the bank and non-bank sectors of financial markets is set out on pages 4 and 5 of the publication 'Foreign Investment in Australia'.
 
-_[NAA: A1838, 37011119118, ANNEX 6]_
+ _[NAA: A1838, 37011119118, ANNEX 6]_
 
-  * 1 The document is undated. 
-
-
+  * 1 The document is undated.

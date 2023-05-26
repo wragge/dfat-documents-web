@@ -1,12 +1,23 @@
 ---
-title: "Department of Foreign Affairs News Release"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8348
+doc_date: '1978-01-20'
+doc_num: 0
+doc_order: 509
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[NAA: Al838, 3038/10/1, ANNEX B]'
+- naa_barcode: 4151574
+  naa_control_symbol: 1976/132 PART 1
+  naa_series: A1209
+  reference: '[On file NAA: Al209, 76/132, i.]'
+title: of Foreign Affairs News Release
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1978-01-20
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# Department of Foreign Affairs News Release
 
 Canberra, 20 January 1978
 
@@ -28,10 +39,8 @@ In conclusion Mr Peacock noted that the future progress of family reunion and th
 
 'This is a reality with which we must come to terms', Mr Peacock said.
 
-'Accordingly, the Government has decided that although it remains critical of the means by which integration was brought about it would be unrealistic to continue to refuse to recognise de facto that East Timor is part of Indonesia.' 1
+'Accordingly, the Government has decided that although it remains critical of the means by which integration was brought about it would be unrealistic to continue to refuse to recognise de facto that East Timor is part of Indonesia.' [1](#f1)
 
-_[NAA: Al838, 3038/10/1, ANNEX B]_
+ _[NAA: Al838, 3038/10/1, ANNEX B]_
 
-  * 1 Indonesian response to Peacock's statement was slow, as the statement had coincided with an Indonesian crackdown on newspapers and students. In Cablegram JA17137 (4 February 1978) Woolcott reported emphasising to Moerdani that Australia desired a concrete Indonesian response to Australia's de facto recognition. Moerdani replied that the timing was regrettable: 'He asked me if I would try to get the message over to the Australian Government that, while the Indonesians really welcomed our decision and regretted the coincidence of the timing with their own crackdown, they were preoccupied at present with the domestic situation and with the meeting of the MPR next month to elect the President. Moreover, there would be many changes in the Ministry and amongst senior officials and provincial Governors. We could not r[epea]t not therefore expect people to take decisions if they did not r[epea]t not know whether they would still be in their jobs after March or to focus on non-domestic issues for the time being ... once the Presidential election was over and Cabinet and senior Departmental appointments announced, we could move ahead in a practical way to build on the 20 January statement'. [On file NAA: Al209, 76/132, i.] 
-
-
+  * 1 Indonesian response to Peacock's statement was slow, as the statement had coincided with an Indonesian crackdown on newspapers and students. In Cablegram JA17137 (4 February 1978) Woolcott reported emphasising to Moerdani that Australia desired a concrete Indonesian response to Australia's de facto recognition. Moerdani replied that the timing was regrettable: 'He asked me if I would try to get the message over to the Australian Government that, while the Indonesians really welcomed our decision and regretted the coincidence of the timing with their own crackdown, they were preoccupied at present with the domestic situation and with the meeting of the MPR next month to elect the President. Moreover, there would be many changes in the Ministry and amongst senior officials and provincial Governors. We could not r[epea]t not therefore expect people to take decisions if they did not r[epea]t not know whether they would still be in their jobs after March or to focus on non-domestic issues for the time being ... once the Presidential election was over and Cabinet and senior Departmental appointments announced, we could move ahead in a practical way to build on the 20 January statement'. [On file NAA: Al209, 76/132, i.]

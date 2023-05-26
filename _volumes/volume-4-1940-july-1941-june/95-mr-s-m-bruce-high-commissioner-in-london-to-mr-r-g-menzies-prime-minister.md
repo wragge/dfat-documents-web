@@ -1,14 +1,19 @@
 ---
-title: "95 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1326
+doc_date: '1940-09-03'
+doc_num: 95
+doc_order: 95
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1940, 1.7501]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-03
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 95 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram unnumbered LONDON, 3 September 1940, 5.40 p.m.
+Cablegram unnumbered LONDON, 3 September 1940, 5.40 p.m.
 
 MEAT Position has been exhaustively discussed with Ministry of Food down the lines of your cables 13th [1], 24th August. [2] It has been impossible to induce Ministry to agree to contract purchase of quantity in excess of 225,000 tons although they are prepared to retain clause in the present contract governing additional quantities.
 
@@ -26,7 +31,7 @@ Before taking matter up on a higher level will wait your comments and instructio
 
 BRUCE
 
-_
+ _
 
 1 Not found.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA: A3195, 1940, 1.7501]_
+ _[AA: A3195, 1940, 1.7501]_

@@ -1,12 +1,19 @@
 ---
-title: "46 File Note by Plimmer"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8916
+doc_date: '1979-09-12'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: File Note by Plimmer
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-09-12
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 46 File Note by Plimmer
 
 Canberra, 12 September 1979
 
@@ -31,4 +38,4 @@ While in Melbourne 10--11 September for the Heads of Post meeting, I attended al
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 20 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 20 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

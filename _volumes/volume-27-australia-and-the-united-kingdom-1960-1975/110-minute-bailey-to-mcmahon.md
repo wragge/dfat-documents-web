@@ -1,22 +1,25 @@
 ---
-title: "110 MINUTE, BAILEY TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9975
+doc_date: '1971-06-07'
+doc_num: 110
+doc_order: 110
+naa_refs:
+- naa_barcode: 3166916
+  naa_control_symbol: CO1191
+  naa_series: A5882
+  reference: '[NAA: A5882, C01191]'
+title: MINUTE, BAILEY TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-07
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 110 MINUTE, BAILEY TO MCMAHON
-
-NAA: A5882, C01191
 
 Canberra, 7 June 1971
 
 Secret
 
-****
+ ****
 
-Strategic Review—Submission No. 1071
+Strategic Review—Submission No. 107[1](#f1)
 
 Attached, as requested, is a note of the main points you made during the discussions this afternoon.
 
@@ -28,9 +31,9 @@ Attached, as requested, is a note of the main points you made during the discuss
 
 5\. A possible mid-course would be to ask that, if the Chiefs of Staff wish to submit a paper of their own, it should be attached to the Defence Committee report. The latter does, of course, represent some kind of rounded conclusion from the whole group—Defence, Service, Chiefs, Treasury, Foreign Affairs and your own department.
 
-6\. If the Jervis Bay2 project does not go ahead, the Defence Committee may need to be asked whether there are other ways in which our knowledge of nuclear weapons technology could usefully be advanced.
+6\. If the Jervis Bay[2](#f2) project does not go ahead, the Defence Committee may need to be asked whether there are other ways in which our knowledge of nuclear weapons technology could usefully be advanced.
 
-_Points for Cabinet Discussion_
+ _Points for Cabinet Discussion_
 
 1\. The general conclusion of the Defence Committee Report is that it is difficult to identify China, Russia or any other country as the main source of difficulty over the next decade.
 
@@ -57,4 +60,6 @@ These measures will attract support to us.
 
 1 See Document 107.
 
-2 In 1969 Jervis Bay in New South Wales was chosen as the site of the first of a number of planned atomic reactors and preliminary work was begun; however, the plan was later shelved as a result of both financial constraints and US pressure to sign the Nuclear Non-Proliferation Treaty. See Wayne Reynolds, _Australia’s bid for the atomic bomb _(Melbourne, 2000), pp. 141–42 and 193–96.
+2 In 1969 Jervis Bay in New South Wales was chosen as the site of the first of a number of planned atomic reactors and preliminary work was begun; however, the plan was later shelved as a result of both financial constraints and US pressure to sign the Nuclear Non-Proliferation Treaty. See Wayne Reynolds, _Australia’s bid for the atomic bomb_ (Melbourne, 2000), pp. 141–42 and 193–96.
+
+[NAA: A5882, C01191]

@@ -1,12 +1,18 @@
 ---
-title: "127 Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Lt Col. W.R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 464
+doc_date: '1939-08-02'
+doc_num: 127
+doc_order: 127
+naa_refs:
+- naa_barcode: 280093
+  naa_control_symbol: '322'
+  naa_series: A2937
+  reference: '[FA: A2937, F. KEITH OFFICER, O.B.E., M.C., ii]'
+title: Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Lt
+  Col. W.R. Hodgson, Secretary of Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-02
+vol_title: 'Volume 2: 1939'
 ---
-
-# 127 Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Lt Col. W.R. Hodgson, Secretary of Department of External Affairs
 
 Letter (extract) OTTAWA, 2 August 1939
 
@@ -18,10 +24,10 @@ Skelton [1] is away on leave and I have seen Dr Beaudry, his second-in-command, 
 
 K. O[FFICER]
 
-_
+ _
 
 1 Dr Oscar D. Skelton, Under-Secretary of State and Permanent Head of Canadian Department of External Affairs.
 
 _
 
-_ [FA: A2937, F. KEITH OFFICER, O.B.E., M.C., ii]_
+ _[FA: A2937, F. KEITH OFFICER, O.B.E., M.C., ii]_

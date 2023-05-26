@@ -1,14 +1,19 @@
 ---
-title: "29 Letter From Mcewen To Mcleay"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7634
+doc_date: '1953-06-06'
+doc_num: 29
+doc_order: 29
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP553/1
+  reference: '[AA : CP553/1/1, 194/B/10/35]'
+title: Letter From Mcewen To Mcleay
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-06-06
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 29 Letter From Mcewen To Mcleay
-
-## 6th June, 1953
+6th June, 1953
 
 I refer to the Japanese Note Verbale of 12th May, 1953 [1], delivered to the Australian Ambassador in Tokyo, and copy of a translation of which has been forwarded to your Department.
 
@@ -28,10 +33,10 @@ I incline to the view that the general payments position should permit some rela
 
 In the light of the findings of Departmental officers, consideration should be given as to whether informal talks should be held with the Japanese and, if so, where.
 
-_
+ _
 
 1 Document 24.
 
 _
 
-_ [AA : CP553/1/1, 194/B/10/35]_
+ _[AA : CP553/1/1, 194/B/10/35]_

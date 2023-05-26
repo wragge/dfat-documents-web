@@ -1,12 +1,18 @@
 ---
-title: "31 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1262
+doc_date: '1940-07-21'
+doc_num: 31
+doc_order: 31
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1940, 1.5711]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-21
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 31 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 265 LONDON, 21 July 1940, 6 p.m.
 
@@ -20,10 +26,10 @@ Your telegram 339 of 1st July regarding the proposed establishment of an Austral
 
 (4) The administrative and legislative difficulties which this process would involve could no doubt be solved as between His Majesty's Government in the United Kingdom and His Majesty's Government in the Commonwealth of Australia but there is no certainty that the Chinese would not hold that Australians being separately represented in China were not entitled to extraterritorial privileges. It is probable that any Chinese Government which emerges from Japanese hostilities will be uncompromising on recovery of China's sovereign rights and abolition of extraterritoriality.
 
-_
+ _
 
 1 Document 1.
 
 _
 
-_ [AA: A3195, 1940, 1.5711]_
+ _[AA: A3195, 1940, 1.5711]_

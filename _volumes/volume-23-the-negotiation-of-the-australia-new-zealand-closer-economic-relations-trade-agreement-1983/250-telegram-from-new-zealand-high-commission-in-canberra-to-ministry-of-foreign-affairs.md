@@ -1,18 +1,26 @@
 ---
-title: "250 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9119
+doc_date: '1982-07-23'
+doc_num: 250
+doc_order: 250
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-07-23
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 250 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 23 July 1982
 
 No 2086. RESTRICTED ROUTINE
 
-**ANZCER: The ALP**
+ **ANZCER: The ALP**
 
 In the last couple of weeks there have been some indications that the ALP may be positioning itself to come out against the proposed CER arrangements. Until now the ALP attitude has been certainly flexible and on the whole reasonably positive. These indications are far from unequivocal however, and even today the AFR carries a small story to the effect that the ACTU President, Cliff Dolan, supports CER.
 
@@ -23,4 +31,4 @@ In the last couple of weeks there have been some indications that the ALP may be
 
 
 
-_ [ABHS 950/Box 1228, 40/4/2 Part 4 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1228, 40/4/2 Part 4 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

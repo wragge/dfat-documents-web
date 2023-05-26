@@ -1,14 +1,20 @@
 ---
-title: "275 Department of External Affairs to Mr V. G. Bowden, Official Representative in Singapore"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2029
+doc_date: '1942-01-15'
+doc_num: 275
+doc_order: 276
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3831, 1942, 190]'
+title: Department of External Affairs to Mr V. G. Bowden, Official Representative
+  in Singapore
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-15
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 275 Department of External Affairs to Mr V. G. Bowden, Official Representative in Singapore
-
-## Cablegram 19 CANBERRA, 15 January 1942
+Cablegram 19 CANBERRA, 15 January 1942
 
 Further your telegram 91. [1] Cabinet has approved admission for duration of war of token number of Chinese and Eurasian women and children and men of non-military age the numbers in the first place to include Chinese fifty souls Eurasians fifty souls.
 
@@ -18,10 +24,10 @@ Please inform Immigration Officer Singapore and request him quote against visas 
 
 Separate advice has been telegraphed respecting alien European women and children. [2]
 
-_
+ _
 
 1 Dispatched 31 December (AA:A3830, 1942, 4) 2 See cablegram 14 of 15 January (AA:A3196, 1942, 0.1361).
 
 _
 
-_ [AA:A3831, 1942, 190]_
+ _[AA:A3831, 1942, 190]_

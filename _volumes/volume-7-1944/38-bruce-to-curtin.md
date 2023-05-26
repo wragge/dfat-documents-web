@@ -1,12 +1,17 @@
 ---
-title: "38 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2685
+doc_date: '1944-02-01'
+doc_num: 38
+doc_order: 38
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 576]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 38 Bruce to Curtin
 
 Cablegram 18A LONDON, 1 February 1944, 6 p.m.
 
@@ -22,7 +27,7 @@ I am hopeful that the position will be straightened out in the course of the nex
 
 BRUCE
 
-_
+ _
 
 1 On file AA: M100, January 1944.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 576]_
+ _[AA:A5954, BOX 576]_

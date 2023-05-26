@@ -1,14 +1,19 @@
 ---
-title: "497 Jamieson to Forde"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5764
+doc_date: '1948-12-30'
+doc_num: 497
+doc_order: 497
+naa_refs:
+- naa_barcode: 701042
+  naa_control_symbol: G48/124
+  naa_series: A3100
+  reference: '[AA:A3100/1, G48/1241]'
+title: Jamieson to Forde
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-12-30
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
 
-# 497 Jamieson to Forde
-
-## Minute,
+Minute,
 
 OTTAWA, 30 December 1948 I saw Riddell (Head of United Nations Division, Canadian Department of External Affairs) today in his office and subsequently had lunch with him.
 
@@ -46,10 +51,10 @@ I reverted to the question of Canadian influence on the Dutch Government and poi
 
 It was obvious from his replies and from the telegram which I have mentioned that the Canadian Government was not prepared to go further than it had stated and that its only concrete suggestion so far had been directed towards acceptance of the fait accompli with the somewhat uncertain safeguards of United Nations observers to see that the Dutch carried out their stated intention of introducing democratic government. I formed, however, the same impression which you gained from Mr. Pearson, that Mr. Riddell was far from happy about his Government's reaction. He is, as you know, a man of strong idealism and his arguments appeared 'ready- made', as though they did not derive from his own convictions.
 
-_
+ _
 
 1 See note 1 to Document 493.
 
 _
 
-_ [AA:A3100/1, G48/1241_
+ _[AA:A3100/1, G48/1241]_

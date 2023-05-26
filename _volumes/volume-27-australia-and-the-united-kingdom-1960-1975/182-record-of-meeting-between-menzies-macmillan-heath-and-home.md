@@ -1,26 +1,29 @@
 ---
-title: "182 RECORD OF MEETING BETWEEN MENZIES, MACMILLAN, HEATH AND HOME"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10047
+doc_date: '1962-06-05'
+doc_num: 182
+doc_order: 182
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB 1301186]'
+title: RECORD OF MEETING BETWEEN MENZIES, MACMILLAN, HEATH AND HOME
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-06-05
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 182 RECORD OF MEETING BETWEEN MENZIES, MACMILLAN, HEATH AND HOME
-
-UKNA: CAB 1301186
 
 London, 5 June 1962
 
 Secret
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_6\. Common Market_
+ _6\. Common Market_
 
 MR MENZIES said that Britain’s entry into the Common Market would present serious difficulties for other Commonwealth countries. It was all the more important that, in the coming months before the Meeting of Commonwealth Prime Ministers in September, we should not get into avoidable difficulties in Commonwealth relations. At the moment he was specially concerned about two points.
 
-First, he thought that unnecessary difficulties would be created if the conclusions reached in the Brussels negotiations on particular aspects of the problem were presented to public opinion as though they were final agreements. He himself understood that these groups of problems must be discussed seriatim in the negotiations, and that provisional conclusions must be formulated on each group as the negotiations proceeded. He also recognised that the negotiations could not be conducted in complete secrecy. But if, when these separate conclusions became known, they were presented in the Press as though they were final agreements, it was inevitable that other Commonwealth Governments should make public comments on those aspects which were of special concern to them2 If this continued, a series of public disagreements would be progressively built up which would greatly increase the difficulties confronting the Commonwealth Prime Minsters at their Meeting in September. To avoid this he suggested a sustained effort to make it clearly understood by the public that the object of the present phase of the negotiations was to establish, in respect of each of these groups of problems, provisional or tentative conclusions on what might be feasible plans; and to build up in this way the general pattern of possible arrangements which would be considered as a whole at the Meeting in September. This would avoid the impression that a series of final decisions were being taken in this phase of the negotiations. It should be made clear that, on the contrary, all these issues remained open for final decision when the package could be considered as a whole.
+First, he thought that unnecessary difficulties would be created if the conclusions reached in the Brussels negotiations on particular aspects of the problem were presented to public opinion as though they were final agreements. He himself understood that these groups of problems must be discussed seriatim in the negotiations, and that provisional conclusions must be formulated on each group as the negotiations proceeded. He also recognised that the negotiations could not be conducted in complete secrecy. But if, when these separate conclusions became known, they were presented in the Press as though they were final agreements, it was inevitable that other Commonwealth Governments should make public comments on those aspects which were of special concern to them[2](#f2) If this continued, a series of public disagreements would be progressively built up which would greatly increase the difficulties confronting the Commonwealth Prime Minsters at their Meeting in September. To avoid this he suggested a sustained effort to make it clearly understood by the public that the object of the present phase of the negotiations was to establish, in respect of each of these groups of problems, provisional or tentative conclusions on what might be feasible plans; and to build up in this way the general pattern of possible arrangements which would be considered as a whole at the Meeting in September. This would avoid the impression that a series of final decisions were being taken in this phase of the negotiations. It should be made clear that, on the contrary, all these issues remained open for final decision when the package could be considered as a whole.
 
 Secondly, it would be useful if other Commonwealth Governments could be given, in confidence, some indication of the economic advantages which Britain hoped to secure by joining the Common Market. The political advantages were already plain. The economic advantages, however, had not been clearly stated. It seemed obvious to other Commonwealth Governments that some industries in the United Kingdom would suffer seriously in the short run: would these losses be offset by greater gains, for these or other industries, in the longer term? Could it be said that Britain’s membership of the Common Market would add substantially to her trade—thus increasing her living standards and purchasing power and, in consequence, providing a larger market for Commonwealth suppliers? This sort of information, if it could be given, would influence other Commonwealth Governments and enable them to put the problem into better perspective.
 
@@ -45,3 +48,5 @@ MR HEATH said that this formula was included in the proposals relating to proces
 1 Menzies had arrived in London at the end of May 1962 for a two-week visit.
 
 2 On the day of Menzies’ arrival in London, the British delegation in Brussels had reached an agreement with the Six on the phasing out of preferences for manufactured goods from Canada, Australia and New Zealand by 1970. The Six had never viewed the case for Commonwealth industrial goods to be as compelling as the agricultural problems. Although the Australians had been consulted, they had never consented to the phasing out of these preferences. Menzies therefore felt bound to express his disappointment publicly in forthright terms. Following a brief discussion with the New Zealand Deputy Prime Minister, Jack Marshall, who was also in London at the time, Australia and New Zealand issued a joint statement strongly condemning the arrangements. Menzies and Marshall denounced the UK-Six agreement as a ‘disturbing development’ which ‘fell far short of providing adequate safeguards’ for the products concerned. Although industrial exports were not the most vital items at stake in the Brussels negotiations for Australia and New Zealand, they voiced their concern that a similar formula might be applied to the all-important temperate agricultural sector. They therefore insisted that the agreements in Brussels ‘must not in any circumstances be taken as a pattern for the type of settlement which might be reached in other products of even greater concern to Australia and New Zealand’. The announcement was widely reported in the British press. See for example the _Times,_ 2 June 1962; the _Guardian,_ 31 May 1962; the _Sunday Times,_ 3 June 1962. The anti-Common Market _Daily Express_ fervently declared that Menzies had ‘changed from the suave Empire politician to a hot-tempered Australian-on the warpath’, 31 May 1962.
+
+[UKNA: CAB 1301186]

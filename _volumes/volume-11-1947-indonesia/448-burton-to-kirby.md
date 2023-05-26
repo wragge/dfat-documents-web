@@ -1,12 +1,17 @@
 ---
-title: "448 Burton to Kirby"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4632
+doc_date: '1947-12-03'
+doc_num: 448
+doc_order: 448
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1947, 0.20138]'
+title: Burton to Kirby
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-12-03
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 448 Burton to Kirby
 
 Cablegram 16 CANBERRA, 3 December 1947, 2 p.m.
 
@@ -18,7 +23,7 @@ Prime Minister is anxious that Stevedoring Commission commence work definitely b
 
 3\. Many thanks for your 445. [2] For your own information, my impression is that with recent departure from Brisbane of Tjipondok, which we allowed the Dutch to load to capacity on the understanding it was to be the last ship to lift stores for Indonesia, bulk of the remaining Dutch supplies in Australia have now been removed. [3] However, there is no reason why resumption of commercial agreement [4] should not be applied retroactively to cover distribution of goods recently shipped, and the practicability of any future Shipments will be borne in mind.
 
-_
+ _
 
 1 This is presumably a reference to a dispute over wage claims by the Waterside Workers Federation. The dispute threatened to delay the shipment of the Australian wheat harvest.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A3196, 1947, 0.20138]_
+ _[AA:A3196, 1947, 0.20138]_

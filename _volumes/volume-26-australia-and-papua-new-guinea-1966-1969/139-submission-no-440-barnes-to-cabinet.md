@@ -1,24 +1,29 @@
 ---
-title: "139 Submission No. 440, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9647
+doc_date: '1967-08-21'
+doc_num: 139
+doc_order: 139
+naa_refs:
+- naa_barcode: 1865359
+  naa_control_symbol: '440'
+  naa_series: A5842
+  reference: '[NAA: A5842, 440]'
+title: Submission No. 440, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-08-21
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 139 Submission No. 440, Barnes To Cabinet
 
 Canberra, 21 August 1967
 
 Confidential
 
-**Papua and New Guinea: constitutional development**
+ **Papua and New Guinea: constitutional development**
 
-This submission discusses the recommendations of the final report of the Select Committee on Constitutional Development appointed by the House of Assembly for Papua and New Guinea. This report was adopted unanimously by the House of Assembly on 8th June, 1967. A copy of the report is Attachment ‘A’.1
+This submission discusses the recommendations of the final report of the Select Committee on Constitutional Development appointed by the House of Assembly for Papua and New Guinea. This report was adopted unanimously by the House of Assembly on 8th June, 1967. A copy of the report is Attachment ‘A’.[1](#f1)
 
-2\. The recommendations of the final report do not conflict with the principles decided by Cabinet to be applicable if there was strong and widespread popular support towards increased participation in the executive government by elected members. (Cabinet Decision No. 23 of 1966.)2 These requirements are listed at Attachment ‘B’. Several points in the report, however, require consideration.
+2\. The recommendations of the final report do not conflict with the principles decided by Cabinet to be applicable if there was strong and widespread popular support towards increased participation in the executive government by elected members. (Cabinet Decision No. 23 of 1966.)[2](#f2) These requirements are listed at Attachment ‘B’. Several points in the report, however, require consideration.
 
-_Ministers_
+ _Ministers_
 
 3\. The Committee’s recommendation is that seven elected members be appointed as ‘Ministers’ to share responsibilities with the Departmental Heads concerned for departmental policy and for the overall activities of those departments. Disagreements between a Minister and the Departmental Head would be decided by the Administrator. In the House of Assembly a Minister would represent his department, introduce legislation, answer questions, etc., on matters concerning his department. The report does not state which departments should be represented by Ministers and proposes that this be decided at the time of their appointment. I would propose that the Act specify that this, and the allocation of portfolios, should be in the hands of the Administrator.
 
@@ -32,9 +37,9 @@ _Ministers_
 
 8\. Some reaction in the Territory could be expected if the titles ‘Minister’ and ‘Assistant Minister’ were not accepted. There is a feeling among some members of the House of Assembly that reports of committees of the House should be accepted even when those members do not agree with the action recommended.
 
-9\. Nevertheless, I consider that in this respect the Committee’s report should not be accepted and the expression ‘Ministerial Member’ should be adopted instead of ‘Minister’.3
+9\. Nevertheless, I consider that in this respect the Committee’s report should not be accepted and the expression ‘Ministerial Member’ should be adopted instead of ‘Minister’.[3](#f3)
 
-_Other recommendations_
+ _Other recommendations_
 
 10\. Other recommendations which I consider could be accepted (with one exception which is consequential on the views stated above) are—
 
@@ -50,7 +55,7 @@ _Other recommendations_
 
 (vi) The Territory to continue with a single budget covering all aspects of government spending, both Australian grant and Territory revenue, the final responsibility within the Territory for advising the Administrator on budget policy and planning to lie with the Administrator’s Executive Council, with an additional link between the House and the Government in budgetary matters being formed by the appointment of a Budget Standing Committee of the House comprising five elected members not being ‘Ministers’ (‘Ministerial Members’) or ‘Assistant Ministers’ (‘Members’).
 
-_Recommendation_
+ _Recommendation_
 
 11\. I recommend—
 
@@ -58,9 +63,9 @@ _Recommendation_
 
 (b) that I be authorised to announce the Government’s decisions on the Select Committee’s report by a statement in the House of Representatives at a convenient time;
 
-(c) that approval be given for amendments of the Papua and New Guinea Act to give effect to the decision in (a) above, including provision in the Act for the appointment, duties and authority of ‘Ministerial Members’ and ‘Members’.4
+(c) that approval be given for amendments of the Papua and New Guinea Act to give effect to the decision in (a) above, including provision in the Act for the appointment, duties and authority of ‘Ministerial Members’ and ‘Members’.[4](#f4)
 
-[NAA: A5842, 440)
+[NAA: A5842, 440]
 
 1 See Document 118.
 

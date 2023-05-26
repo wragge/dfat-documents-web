@@ -1,11 +1,17 @@
 ---
-title: "36 Stuart to Burton SINGAPORE, 27 January 1948"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5303
+doc_date: '1948-01-27'
+doc_num: 36
+doc_order: 36
+naa_refs:
+- naa_barcode: 140108
+  naa_control_symbol: 401/3/1/1 PART 5
+  naa_series: A1838
+  reference: '[AA:A1838, 401/3/1/1/ v]'
+title: Stuart to Burton SINGAPORE, 27 January 1948
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 36 Stuart to Burton SINGAPORE, 27 January 1948
 
 Letter,
 
@@ -23,7 +29,7 @@ nevertheless I feel pessimistic, and as your telegram No. 30 [2] suggests we are
 
 5\. When the Dutch-dominated United States of Indonesia is in being, it promises to have close economic ties with the United Kingdom and Malaya. The Secretary of Economic Affairs, Singapore, has recently concluded a draft commercial agreement with the Netherlands Indies Government, which will govern trade between Indonesia and Singapore 'if and when'. The agreement is part of a wider United Kingdom -Netherlands commercial treaty at present under negotiation, and the sub-treaty I'm speaking of has been approved in advance by the United Kingdom and Netherlands Governments. The draft is still confidential and we don't know its details: the Governor of Singapore tells Massey, however, that it will ignore the Republic and direct all trading between Indonesia and Singapore into Dutch channels. The main interest of this is of course the proof it offers that in future the Republic will have itself no say in commercial matters, which will all be controlled by the Dutch-dominated United States administration. Is it too cynical to expect that, with the tight line-up in Europe between the U.K. and the Netherlands, and in view of Bevin's latest suggestions [4] that these powers should carry their solidarity into the colonial field, there will not be trade discrimination against Australia, and in favour of the U.K?.
 
-_
+ _
 
 1 Document 12.
 
@@ -35,4 +41,4 @@ _
 
 _
 
-_ [AA:A1838, 401/3/1/1/ v]_
+ _[AA:A1838, 401/3/1/1/ v]_

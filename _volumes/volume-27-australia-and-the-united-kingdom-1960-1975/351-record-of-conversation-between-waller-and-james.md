@@ -1,20 +1,23 @@
 ---
-title: "351 RECORD OF CONVERSATION BETWEEN WALLER AND JAMES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10217
+doc_date: '1972-11-24'
+doc_num: 351
+doc_order: 351
+naa_refs:
+- naa_barcode: 551431
+  naa_control_symbol: 727/4/2 PART 20
+  naa_series: A1838
+  reference: '[NAA: A 1838, 727/4/2 PART 20]'
+title: RECORD OF CONVERSATION BETWEEN WALLER AND JAMES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 351 RECORD OF CONVERSATION BETWEEN WALLER AND JAMES
-
-NAA: A 1838, 727/4/2 PART 20
 
 Canberra, 24 November 1972
 
 Confidential
 
-****
+ ****
 
 Immigration into Britain
 
@@ -31,3 +34,5 @@ I saw Sir Morrice James this morning and made the following points:
 > (e) The Australian Government will therefore await the outcome of the British Government’s re-examination of the situation, and the formulation by the latter of new proposals, before adopting a definitive position on the question. We therefore look forward to receiving advice of the British Government’s intentions.
 
 2\. I expanded on point (b) by saying that we were anxious not to provoke criticism of our own restricted Immigration.
+
+[NAA: A 1838, 727/4/2 PART 20]

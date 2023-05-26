@@ -1,30 +1,33 @@
 ---
-title: "126 CABLEGRAM, MCEWEN TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9991
+doc_date: '1961-03-06'
+doc_num: 126
+doc_order: 126
+naa_refs:
+- naa_barcode: 271669
+  naa_control_symbol: 67/3/3
+  naa_series: A1838
+  reference: '[NAA: Al838, 67/3/3]'
+title: CABLEGRAM, MCEWEN TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-03-06
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 126 CABLEGRAM, MCEWEN TO MENZIES
-
-NAA: Al838, 67/3/3
 
 Geneva, 6 March 1961
 
 120\. Secret
 
-****
+ ****
 
 The United Kingdom and the Common Market
 
-1\. You have no doubt seen reports of the statement made by Heath to Paris meeting of Western European Union on 27th February.1 This seems to have been a careful statement incorporating a real change in some aspects of the United Kingdom’s position regarding association with the ‘Six’.
+1\. You have no doubt seen reports of the statement made by Heath to Paris meeting of Western European Union on 27th February.[1](#f1) This seems to have been a careful statement incorporating a real change in some aspects of the United Kingdom’s position regarding association with the ‘Six’.
 
-2\. Although we have no advice that the United Kingdom proposes raising matter at Prime Ministers Conference,2 I find it difficult to believe it will not now come up in one way or another. In any event, the apparent important shift in United Kingdom thinking disclosed by Heath’s statement puts a new complexion on the whole matter, and I do not think we should let pass the occasion of your visit to London to get certain points across to United Kingdom Ministers.
+2\. Although we have no advice that the United Kingdom proposes raising matter at Prime Ministers Conference,[2](#f2) I find it difficult to believe it will not now come up in one way or another. In any event, the apparent important shift in United Kingdom thinking disclosed by Heath’s statement puts a new complexion on the whole matter, and I do not think we should let pass the occasion of your visit to London to get certain points across to United Kingdom Ministers.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-4\. I am concerned about the circumstances of Heath’s statement and its leak to the Press. United Kingdom Ministers have given us a whole succession of assurances that they would keep us in closest touch with developments. You will recall the quite explicit statement by Macmillan to us when he was here in 1958. Again, Heathcote Amory3 (then Chancellor) is on record at the 1959 meeting of Finance Ministers to effect that the United Kingdom fully accepted the agreed view of the Meeting ‘that effective methods must be adopted to keep the Commonwealth informed of each development in the context of European trade negotiations as soon as it becomes apparent, so that Commonwealth countries might be alerted and have the opportunity to make representations and discuss them as necessary’. The Chancellor concluded by saying that ‘the essential point was for the Commonwealth to be informed of each development as it appeared over the horizon’. Similarly at the meeting of Finance Ministers last September they promised to keep us in closest touch with developments.
+4\. I am concerned about the circumstances of Heath’s statement and its leak to the Press. United Kingdom Ministers have given us a whole succession of assurances that they would keep us in closest touch with developments. You will recall the quite explicit statement by Macmillan to us when he was here in 1958. Again, Heathcote Amory[3](#f3) (then Chancellor) is on record at the 1959 meeting of Finance Ministers to effect that the United Kingdom fully accepted the agreed view of the Meeting ‘that effective methods must be adopted to keep the Commonwealth informed of each development in the context of European trade negotiations as soon as it becomes apparent, so that Commonwealth countries might be alerted and have the opportunity to make representations and discuss them as necessary’. The Chancellor concluded by saying that ‘the essential point was for the Commonwealth to be informed of each development as it appeared over the horizon’. Similarly at the meeting of Finance Ministers last September they promised to keep us in closest touch with developments.
 
 5\. In the light of all these assurances it is a matter for concern that we should have first learned of these latest developments in the United Kingdom’s position through the Press. All their assurances must count for little if in respect of what Heath himself described as a fundamental change of principle in their position we are not advised some reasonable time beforehand.
 
@@ -47,3 +50,5 @@ The United Kingdom and the Common Market
 2 McEwen was referring to the March 1961 Commonwealth Prime Ministers’ Conference in London attended by Menzies.
 
 3 Derick Heathcote Amory, Chancellor of the Exchequer, 1958–60.
+
+[NAA: Al838, 67/3/3]

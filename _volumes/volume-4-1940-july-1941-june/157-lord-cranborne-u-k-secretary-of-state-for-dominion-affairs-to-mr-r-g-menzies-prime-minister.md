@@ -1,12 +1,18 @@
 ---
-title: "157 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1388
+doc_date: '1940-10-03'
+doc_num: 157
+doc_order: 157
+naa_refs:
+- naa_barcode: 206088
+  naa_control_symbol: A41/1/1 PART 14
+  naa_series: A1608
+  reference: '[AA:A1608, A41/1, xiv]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-03
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 157 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram M63 LONDON, 3 October 1940, 11.35 p.m.
 
@@ -24,7 +30,7 @@ His Majesty's Ambassador at Tokyo [4] is in favour of this course and does not c
 
 The War Cabinet considered the matter to-day and came to the conclusion that in the present circumstances there was no alternative to adoption of this course. We are confident that your Government will concur in this view. It is accordingly proposed that the decision will be announced by the Prime Ministers in the House of Commons next Tuesday in the sense that the agreement was concluded for a [definite] 6 period and there had been no provision for renewal and in any case in view of the recent developments His Majesty's Government in the United Kingdom would have felt unable to agree to a renewal if this had been in question. [7]
 
-_
+ _
 
 1 Document 100.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA:A1608, A41/1, xiv]_
+ _[AA:A1608, A41/1, xiv]_

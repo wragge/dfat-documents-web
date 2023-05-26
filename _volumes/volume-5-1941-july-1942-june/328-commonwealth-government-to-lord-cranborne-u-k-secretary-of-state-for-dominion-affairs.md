@@ -1,12 +1,18 @@
 ---
-title: "328 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2082
+doc_date: '1942-02-11'
+doc_num: 328
+doc_order: 329
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/50/1]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-11
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 328 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 113 CANBERRA, 11 February 1942
 
@@ -24,7 +30,7 @@ a. Article VII can provide general basis of post war economic order so long as i
 
 Government and world that our declarations are intended to be carried out in spirit as well as the letter. d. We must place trust in the common sense as well as idealism of those who will carry out the objectives of the proposed agreement. [4]
 
-_
+ _
 
 1 See Document 324, notes 2, 5, 6 and 9.
 
@@ -42,4 +48,4 @@ Under-Secretary of State, and Lord Halifax, U.K. Ambassador to the United States
 
 _
 
-_ [AA:A989, 43/735/50/1]_
+ _[AA:A989, 43/735/50/1]_

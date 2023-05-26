@@ -1,12 +1,18 @@
 ---
-title: "464 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6633
+doc_date: '1949-08-04'
+doc_num: 464
+doc_order: 464
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3094
+  reference: '[AA : A3094/1, 2/1]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-08-04
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 464 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram UN448 NEW YORK, [4 August 1949], 4.37 p.m.
 
@@ -20,10 +26,10 @@ The Indonesians are disturbed at the announcement made yesterday to the Dutch Pa
 
 3\. The opportunity for this might be the report on the cease-fire expected from UNCI at any time.
 
-_
+ _
 
 1 Dispatched on 26 July, it suggest that Critchley should persuade the UN Commission for Indonesia to make a report to the Security Council on the progress of negotiations in Indonesia in case the UN General Assembly wished to discuss matter at the Fourth Session.
 
 _
 
-_ [AA : A3094/1, 2/1]_
+ _[AA : A3094/1, 2/1]_

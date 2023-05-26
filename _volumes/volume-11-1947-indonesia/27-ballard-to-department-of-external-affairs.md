@@ -1,12 +1,17 @@
 ---
-title: "27 Ballard to Department of External Affairs"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4211
+doc_date: '1947-04-10'
+doc_num: 27
+doc_order: 27
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838/2, 401/3/2, i]'
+title: Ballard to Department of External Affairs
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-04-10
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 27 Ballard to Department of External Affairs
 
 Cablegram 80 BATAVIA, 10 April 1947, 8.35 p.m.
 
@@ -34,7 +39,7 @@ He then said that when I did it would be in the papers the same night; that he h
 
 8\. After leaving Van Mook I asked Boon how far he could help me in arranging accommodation and transport in the circumstances as I must proceed on the assumption of the arrival next week. It was obvious that nothing could be done tonight and I am to see him first thing tomorrow morning.
 
-_
+ _
 
 1 The reference to January 26th appears to be a cyphering error.
 
@@ -42,4 +47,4 @@ Dispatched on 10 April in response to Document 26, cablegram 79 advised that Van
 
 _
 
-_ [AA:A1838/2, 401/3/2, i]_
+ _[AA:A1838/2, 401/3/2, i]_

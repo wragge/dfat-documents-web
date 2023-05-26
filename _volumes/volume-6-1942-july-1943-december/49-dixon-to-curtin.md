@@ -1,12 +1,17 @@
 ---
-title: "49 Dixon to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2340
+doc_date: '1942-09-17'
+doc_num: 49
+doc_order: 49
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT C]'
+title: Dixon to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-17
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 49 Dixon to Curtin
 
 Cablegram S143 WASHINGTON, 17 September 1942, 12.25 a.m.
 
@@ -24,7 +29,7 @@ Perhaps some additional light may be thrown on the President's message by the fo
 
 DIXON
 
-_
+ _
 
 1 Document 48.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT C]_
+ _[AA:A981, WAR 33, ATTACHMENT C]_

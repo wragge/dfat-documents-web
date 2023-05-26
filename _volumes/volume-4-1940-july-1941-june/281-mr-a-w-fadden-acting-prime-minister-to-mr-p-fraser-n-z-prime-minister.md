@@ -1,14 +1,19 @@
 ---
-title: "281 Mr A. W. Fadden, Acting Prime Minister, to Mr P. Fraser, N.Z. Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1512
+doc_date: '1941-02-10'
+doc_num: 281
+doc_order: 281
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941, 0.1679]'
+title: Mr A. W. Fadden, Acting Prime Minister, to Mr P. Fraser, N.Z. Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-10
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 281 Mr A. W. Fadden, Acting Prime Minister, to Mr P. Fraser, N.Z. Prime Minister
-
-## Cablegram 48 10 February 1941,
+Cablegram 48 10 February 1941,
 
 Your telegrams of 6th February, No. 3 and of 27th January, (unnumbered). [1]
 
@@ -22,7 +27,7 @@ The understanding of the Commonwealth Government is that, as French Pacific has 
 
 5\. I should be grateful if you would approach Pan American Airways with a view to two passages being reserved for Gould and Fanning from Noumea to Auckland 27th February. It would also be appreciated if passage could be reserved for Gould from Auckland to Sydney 1st March and for Fanning 8th March.
 
-_
+ _
 
 1 On file AA:A1608, D41/1/9, iv.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A3196, 1941, 0.1679]_
+ _[AA:A3196, 1941, 0.1679]_

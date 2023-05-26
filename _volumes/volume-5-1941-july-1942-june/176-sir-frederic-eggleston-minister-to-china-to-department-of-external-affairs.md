@@ -1,12 +1,17 @@
 ---
-title: "176 Sir Frederic Eggleston, Minister to China, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1930
+doc_date: '1941-12-09'
+doc_num: 176
+doc_order: 177
+naa_refs:
+- naa_barcode: 182738
+  naa_control_symbol: WAR 53
+  naa_series: A981
+  reference: '[AA:A981, WAR 53A]'
+title: Sir Frederic Eggleston, Minister to China, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-09
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 176 Sir Frederic Eggleston, Minister to China, to Department of External Affairs
 
 Cablegram 24 CHUNGKING, 9 December 1941, 9 a.m.
 
@@ -28,7 +33,7 @@ The Foreign Minister [1] asked me to see him this afternoon and when I called he
 
 I pointed out the omission of South Africa and suggested that the words might be Great Britain and the other members of British Commonwealth of Nations. He, however, said South Africa was not a Pacific power and he decided to issue it saying that it had been approved by Chiang Kai-shek. [3]
 
-_
+ _
 
 1 Dr Quo Tai-chi.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A981, WAR 53A]_
+ _[AA:A981, WAR 53A]_

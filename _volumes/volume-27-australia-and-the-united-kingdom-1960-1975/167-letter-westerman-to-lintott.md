@@ -1,20 +1,23 @@
 ---
-title: "167 LETTER, WESTERMAN TO LINTOTT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10032
+doc_date: '1962-03-13'
+doc_num: 167
+doc_order: 167
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 159/57]'
+title: LETTER, WESTERMAN TO LINTOTT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-03-13
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 167 LETTER, WESTERMAN TO LINTOTT
-
-UKNA: DO 159/57
 
 Australian Embassy, Brussels, 13 March 1962
 
 Confidential
 
-I am sending to you with this letter a copy of a message from Mr Menzies to Mr Macmillan1 which has just been delivered in London, and also a copy of an aide–memoire which has been presented in similar terms today to each of the Six by the Australian Embassies in the various capitals.2 The Australian Embassy in Brussels has now sent a copy of the latter to each of the Delegations of the Six in Brussels.
+I am sending to you with this letter a copy of a message from Mr Menzies to Mr Macmillan[1](#f1) which has just been delivered in London, and also a copy of an aide–memoire which has been presented in similar terms today to each of the Six by the Australian Embassies in the various capitals.[2](#f2) The Australian Embassy in Brussels has now sent a copy of the latter to each of the Delegations of the Six in Brussels.
 
 Looking over the various aides–memoire which we have presented previously in support of our request for some form of direct participation in the Brussels negotiations, it occurs to me that there may still be some uncertainty as to the practical details of the arrangements we have in mind. If I were to be asked to elaborate on the way we would expect our participation to operate, I would make the following points.
 
@@ -35,3 +38,5 @@ I am confident that with your backing the evident goodwill towards our request i
 1 Document 168.
 
 2 See NAA: A1838, 727/4/2 part 2, aide–memoire to the heads of government of the Six from the Australian Prime Minister, 13 March 1962.
+
+[UKNA: DO 159/57]

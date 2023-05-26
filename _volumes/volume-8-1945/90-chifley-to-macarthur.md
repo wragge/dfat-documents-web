@@ -1,12 +1,17 @@
 ---
-title: "90 Chifley to MacArthur"
-volume: "Volume 8: 1945"
-doc_id: 3121
+doc_date: '1945-05-20'
+doc_num: 90
+doc_order: 90
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2313]'
+title: Chifley to MacArthur
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-05-20
+vol_title: 'Volume 8: 1945'
 ---
-
-# 90 Chifley to MacArthur
 
 Cablegram CAB213 CANBERRA, 20 May 1945
 
@@ -18,8 +23,8 @@ TOP SECRET MOST IMMEDIATE
 
 3\. It necessarily sought your observations, as Commander-in-Chief of the Southwest Pacific Area, on the submission of the Commander- in-Chief of the Australian Military Forces. It fully accepts your views which agree with the Government's conception of its commitments and by which it absolutely intends to abide.
 
-_
+ _
 
 _
 
-_ [AA : A5954, BOX 2313]_
+ _[AA : A5954, BOX 2313]_

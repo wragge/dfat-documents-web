@@ -1,12 +1,17 @@
 ---
-title: "45 Eggleston to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2692
+doc_date: '1944-02-08'
+doc_num: 45
+doc_order: 45
+naa_refs:
+- naa_barcode: 237774
+  naa_control_symbol: 1944/NANKING
+  naa_series: A4231
+  reference: '[AA:A4231, NANKING, 1944-45]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-08
+vol_title: 'Volume 7: 1944'
 ---
-
-# 45 Eggleston to Evatt
 
 Dispatch 8/44 (extract) CHUNGKING, 8 February 1944
 
@@ -26,7 +31,7 @@ I have discussed the question at length in my various despatches and it is not n
 
 F. W. EGGLESTON
 
-_
+ _
 
 1 Matter omitted relates to the Legation's operations in Chungking.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A4231, NANKING, 1944-45]_
+ _[AA:A4231, NANKING, 1944-45]_

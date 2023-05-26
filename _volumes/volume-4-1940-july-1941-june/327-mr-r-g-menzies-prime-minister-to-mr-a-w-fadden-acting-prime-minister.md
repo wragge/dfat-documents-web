@@ -1,12 +1,17 @@
 ---
-title: "327 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1558
+doc_date: '1941-03-01'
+doc_num: 327
+doc_order: 327
+naa_refs:
+- naa_barcode: 856267
+  naa_control_symbol: '280'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, MIDDLE EAST AND BALKANS]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-01
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 327 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram 165 LONDON, 1 March 1941, 4.05 p.m.
 
@@ -22,7 +27,7 @@ With regard to your point 3, I am informed that while move is in progress shippi
 
 MENZIES
 
-_ BALKANS]
+ _
 
 1 Document 322.
 
@@ -40,4 +45,4 @@ _ BALKANS]
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, MIDDLE EAST AND_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, MIDDLE EAST AND BALKANS]_

@@ -1,24 +1,27 @@
 ---
-title: "210 CABINET MINUTE, DECISION NO. 476"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10075
+doc_date: '1962-10-02'
+doc_num: 210
+doc_order: 210
+naa_refs:
+- naa_barcode: 1162909
+  naa_control_symbol: VOLUME 9
+  naa_series: A3917
+  reference: '[NAA: A3917/l VOLUME 9]'
+title: CABINET MINUTE, DECISION NO. 476
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-10-02
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 210 CABINET MINUTE, DECISION NO. 476
-
-NAA: A3917/l VOLUME 9 
 
 Canberra, 2 October 1962
 
 Confidential
 
-**European Common Market: Meeting of Commonwealth Prime Ministers**
+ **European Common Market: Meeting of Commonwealth Prime Ministers**
 
 The Prime Minister reported to the Cabinet on the meeting of Prime Ministers held in London between 10th and 19th September,
 
-  1. the results of the conference are, in broad, indicated by the terms of the communiqué; 1
+  1. the results of the conference are, in broad, indicated by the terms of the communiqué; [1](#f1)
   2. Britain will enter the Common Market for what it regards as high and lasting international political reasons;
   3. the time of Britain’s final decision will be as early as possible.
   4. two points of policy to which the Australian Ministers purposely adhered at the meetings were that no objection in principle to Britain’s entry should be expressed, and that no general benediction upon Britain’s entry could be considered, let alone given;
@@ -39,4 +42,6 @@ The Prime Minister reported to the Cabinet on the meeting of Prime Ministers hel
 
 3\. It was agreed that in presenting Common Market issues to the Parliament and the public, a middle course should be aimed at. There is a need to keep a pressure of public opinion upon Britain and the Six to devise the best practicable terms for Commonwealth trade with the enlarged Community.
 
-1  The task of drafting a final communiqué had greatly exercised Macmillan and his senior officials. Macmillan proposed to the conference that agreement should be recorded on four main points: the need to foster the harmonious development and steady expansion of world trading; the need to support a fresh approach to the negotiation of worldwide commodity agreements for primary foodstuffs; the need to promote trading opportunities for developing countries; and the need to regulate the disposal of any agricultural surpluses to meet the needs of those people in the world who were in want. His proposal, however, was met with criticism for going too far in presenting an illusion of consensus, and there thus ensued a long and difficult process of redrafting. Menzies took an active role in this, instructing Bunting to apply his drafting skills to securing a relatively mild text. The end result was a communiqué which drew greater attention to the Commonwealth Prime Ministers’ particular concerns but fell short of tying the British Government’s hands. For example, it recorded that the Commonwealth Prime Ministers had ‘explained the economic points of special concern to their respective countries and the extent to which their interests had not so far been met in the Brussels negotiations’, but did not demand that any particular items should be renegotiated. The communique also stated that ‘only when the full terms were known would it be possible to form a final judgement’, but did not go so far as to demand a second Prime Ministers’ Conference when the negotiations were complete. Macmillan might even have drawn some positive encouragement from the passage in which the Commonwealth Prime Ministers ‘freely acknowledged’ the strenuous efforts of the British Government to ensure a full understanding on the part of the Six of the kinds of safeguards necessary to protect the vital interests of Commonwealth countries. But the Commonwealth Prime Ministers were careful to avoid any suggestion that these safeguards had been achieved, or anything else that might have implied approval of Britain’s entry. _Meeting of Commonwealth Prime Ministers—Final Communiqué. 19 September_; 1962, Cmd 1836. 
+1  The task of drafting a final communiqué had greatly exercised Macmillan and his senior officials. Macmillan proposed to the conference that agreement should be recorded on four main points: the need to foster the harmonious development and steady expansion of world trading; the need to support a fresh approach to the negotiation of worldwide commodity agreements for primary foodstuffs; the need to promote trading opportunities for developing countries; and the need to regulate the disposal of any agricultural surpluses to meet the needs of those people in the world who were in want. His proposal, however, was met with criticism for going too far in presenting an illusion of consensus, and there thus ensued a long and difficult process of redrafting. Menzies took an active role in this, instructing Bunting to apply his drafting skills to securing a relatively mild text. The end result was a communiqué which drew greater attention to the Commonwealth Prime Ministers’ particular concerns but fell short of tying the British Government’s hands. For example, it recorded that the Commonwealth Prime Ministers had ‘explained the economic points of special concern to their respective countries and the extent to which their interests had not so far been met in the Brussels negotiations’, but did not demand that any particular items should be renegotiated. The communique also stated that ‘only when the full terms were known would it be possible to form a final judgement’, but did not go so far as to demand a second Prime Ministers’ Conference when the negotiations were complete. Macmillan might even have drawn some positive encouragement from the passage in which the Commonwealth Prime Ministers ‘freely acknowledged’ the strenuous efforts of the British Government to ensure a full understanding on the part of the Six of the kinds of safeguards necessary to protect the vital interests of Commonwealth countries. But the Commonwealth Prime Ministers were careful to avoid any suggestion that these safeguards had been achieved, or anything else that might have implied approval of Britain’s entry. _Meeting of Commonwealth Prime Ministers—Final Communiqué. 19 September_ ; 1962, Cmd 1836. 
+
+[NAA: A3917/l VOLUME 9]

@@ -1,14 +1,17 @@
 ---
-title: "64 LETTER, DOWNER TO WILSON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9929
+doc_date: '1967-04-21'
+doc_num: 64
+doc_order: 64
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 46/53]'
+title: LETTER, DOWNER TO WILSON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-04-21
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 64 LETTER, DOWNER TO WILSON
-
-UKNA: FCO 46/53
 
 Australia House, London, 21 April 1967
 
@@ -20,7 +23,7 @@ I have received this morning the following message from my Prime Minister, and M
 > 
 > ‘My dear Harold,
 > 
-> We are gravely troubled by what we have been told by Hasluck following his talks with George Brown in Washington of your intentions to make a complete military withdrawal from South East Asia.1 While this, as we understand your intentions, is to be phased over a fairly long period of years, it has implications which will take significant effect from the moment your intentions become known, and the consequences will be cumulative. Immediately it became known that Britain would be cutting its presence by half by 1970 and would be off the mainland altogether within eight years a chain of events will be set off damaging undoubtedly to British stature and interests and which might well be dangerous. I feel the decision you are making is so critical that I must put urgently before you my own thoughts in the hope that there is still time for further consideration by yourself and your colleagues. What I now say carries no lack of recognition of your own problems—the serious economic difficulties you are facing so courageously, the responsibilities you have in so many parts of the world—nor lack of understanding of the hopes you rightly cherish of a larger, more influential role on the European scene. But I have just returned from another visit to Asian countries, and what I have seen and learned confirms what I have previously tried to put to you about the great importance of a continuing British presence in this area of the world.
+> We are gravely troubled by what we have been told by Hasluck following his talks with George Brown in Washington of your intentions to make a complete military withdrawal from South East Asia.[1](#f1) While this, as we understand your intentions, is to be phased over a fairly long period of years, it has implications which will take significant effect from the moment your intentions become known, and the consequences will be cumulative. Immediately it became known that Britain would be cutting its presence by half by 1970 and would be off the mainland altogether within eight years a chain of events will be set off damaging undoubtedly to British stature and interests and which might well be dangerous. I feel the decision you are making is so critical that I must put urgently before you my own thoughts in the hope that there is still time for further consideration by yourself and your colleagues. What I now say carries no lack of recognition of your own problems—the serious economic difficulties you are facing so courageously, the responsibilities you have in so many parts of the world—nor lack of understanding of the hopes you rightly cherish of a larger, more influential role on the European scene. But I have just returned from another visit to Asian countries, and what I have seen and learned confirms what I have previously tried to put to you about the great importance of a continuing British presence in this area of the world.
 > 
 > Despite the agony of Vietnam, the seemingly insoluble problems of India, the turbulence and restlessness to be found in much of the area, there is, I firmly believe, a new Asia emerging, in which we can all find hope for a brighter future. Perhaps time will prove me wrong in the judgement I have that the next century will be the century of Asia—but at least there is the encouraging prospect here of spectacular advance. I wish you could have shared my experience of recent weeks in moving around Cambodia, Laos, Taiwan and South Korea, feeling the friendliness, seeing the progress and sensing the drive for better things. I believe the Americans have sensed this, and are shaping their foreign policy accordingly. I also believe that, although this may seem to run against the current of a lot of modem thinking, Asia, for a successful transition to strength, stability and peaceful progress, will continue to need the moral, material, and even military help that the United Kingdom, the United States and countries like my own, Canada and New Zealand can give.
 > 
@@ -37,3 +40,5 @@ I have received this morning the following message from my Prime Minister, and M
 > (message ends)
 
 1  See Document 60, note 3. 
+
+[UKNA: FCO 46/53]

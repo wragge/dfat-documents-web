@@ -1,12 +1,17 @@
 ---
-title: "233 Dunk to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3745
+doc_date: '1946-05-06'
+doc_num: 233
+doc_order: 233
+naa_refs:
+- naa_barcode: 191353
+  naa_control_symbol: ER46/8/15
+  naa_series: A1067
+  reference: '[AA:A1067, ER 46/8/15]'
+title: Dunk to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-06
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 233 Dunk to Evatt
 
 Cablegram A57 CANBERRA, 6 May 1946
 
@@ -20,7 +25,7 @@ Understand Ceylon Government would appreciate such a move.
 
 McCarthy agrees and I would like your approval to joint submission from Minister, Commerce and Acting Minister, External Affairs to Cabinet seeking authority establishment representation on this basis. [2]
 
-_
+ _
 
 1 A Royal Commission, chaired by Lord Soulbury (H. Ramsbotham), appointed in July 1944 to fulfil a 1943 promise to establish full responsible government in Ceylon after the war. Its report, published 9 October 1945, recommended self-government on the British model as a step to full Dominion status, and formed the basis of a constitution accepted late in 1945 by the State Council of Ceylon.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A1067, ER 46/8/15]_
+ _[AA:A1067, ER 46/8/15]_

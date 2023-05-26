@@ -1,12 +1,17 @@
 ---
-title: "37 Curtin to MacArthur"
-volume: "Volume 8: 1945"
-doc_id: 3068
+doc_date: '1945-02-15'
+doc_num: 37
+doc_order: 37
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 570]'
+title: Curtin to MacArthur
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-02-15
+vol_title: 'Volume 8: 1945'
 ---
-
-# 37 Curtin to MacArthur
 
 Letter CANBERRA, 15 February 1945
 
@@ -88,7 +93,7 @@ I shall be grateful if you will furnish me with your observations on the various
 
 JOHN CURTIN Minister for Defence
 
-_
+ _
 
 1 See 'Notes on Discussions with C-in-C', dated 7 June 1943. In AA:A5954, box 2.
 
@@ -104,4 +109,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 570]_
+ _[AA:A5954, BOX 570]_

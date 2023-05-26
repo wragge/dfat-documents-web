@@ -1,16 +1,19 @@
 ---
-title: "95 NOTE BY PLIMSOLL"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9960
+doc_date: '1968-05-10'
+doc_num: 95
+doc_order: 95
+naa_refs:
+- naa_barcode: 1725808
+  naa_control_symbol: TS677/3 PART 12
+  naa_series: A1838
+  reference: '[NAA: A1838, TS677/3 PART 12]'
+title: NOTE BY PLIMSOLL
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-05-10
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
 
-# 95 NOTE BY PLIMSOLL
-
 Canberra, 10 May 1968
-
-NAA: A1838, TS677/3 PART ‘12’
 
 Top Secret 
 
@@ -18,7 +21,7 @@ Top Secret
 
 Strategic Basis of Australian Defence Policy
 
-1\. The Defence Committee this morning considered Agendum No. 12/1968, ‘Strategic Basis of Australian Defence Policy, 1968’ .1 This had been considered by the Chiefs of Staff Committee on 15th March.
+1\. The Defence Committee this morning considered Agendum No. 12/1968, ‘Strategic Basis of Australian Defence Policy, 1968’ .[1](#f1) This had been considered by the Chiefs of Staff Committee on 15th March.
 
 2\. Lt. General Sir John Wilton said at the outset of the Defence Committee that the Chiefs of Staff wished, in the light of later developments, to see some amendments, and he mentioned Papua-New Guinea, the Indian Ocean, and nuclear capacity.
 
@@ -32,17 +35,17 @@ Strategic Basis of Australian Defence Policy
 > 
 > (d) In the light of what I had said, I considered there should be a rewriting of the paper and not simply an attempt to make amendments to the present text.
 
-4\. Mr Hewitt2 briefly expressed agreement with what I had said, particularly point (d).
+4\. Mr Hewitt[2](#f2) briefly expressed agreement with what I had said, particularly point (d).
 
 5\. Sir John Bunting expressed general agreement with my remarks. We should first identify the threat.
 
-6\. Sir Richard Randall3 expressed agreement also, and developed the point that there should be further examination of the degree and nature of the threat from various countries. He mentioned two matters he thought should be subjected to rigorous examination: Is China a big menace? What is the future of Japan?
+6\. Sir Richard Randall[3](#f3) expressed agreement also, and developed the point that there should be further examination of the degree and nature of the threat from various countries. He mentioned two matters he thought should be subjected to rigorous examination: Is China a big menace? What is the future of Japan?
 
-7\. Air Marshal Murdoch4 also expressed agreement. He said the paper was based on earlier versions, which had been kept up to date each year. There was ‘some danger of being editors rather than original thinkers’. As a subject requiring attention in a new paper, he mentioned the population explosion in Asia. He thought the Fortress Australia idea was worth looking at, and mentioned its impact on the composition of forces and its effect on what would be available for use overseas.
+7\. Air Marshal Murdoch[4](#f4) also expressed agreement. He said the paper was based on earlier versions, which had been kept up to date each year. There was ‘some danger of being editors rather than original thinkers’. As a subject requiring attention in a new paper, he mentioned the population explosion in Asia. He thought the Fortress Australia idea was worth looking at, and mentioned its impact on the composition of forces and its effect on what would be available for use overseas.
 
-8\. Lt.-General Daly5 said many of the points that had been made were valid and of great interest. But he stressed the need of having now a paper setting out the accepted strategic basis, even if it was to be revised soon. The Services had to have it as a basis for current decisions.
+8\. Lt.-General Daly[5](#f5) said many of the points that had been made were valid and of great interest. But he stressed the need of having now a paper setting out the accepted strategic basis, even if it was to be revised soon. The Services had to have it as a basis for current decisions.
 
-9\. Rear-Admiral Stevenson6 (representing the Chief of Naval Staff) supported what the C.G.S. had just said.
+9\. Rear-Admiral Stevenson[6](#f6) (representing the Chief of Naval Staff) supported what the C.G.S. had just said.
 
 10\. Sir Henry Bland made the following points:
 
@@ -52,7 +55,7 @@ Strategic Basis of Australian Defence Policy
 > 
 > (c) The paper should look at every point of the compass. For example, the Indian Ocean showed signs of becoming not a vacuum, but a vacuum filled by the Russians.
 > 
-> (d) The paper should consider the implications of an _independent_7 New Guinea. This raised questions, for example, in relation to Manus.
+> (d) The paper should consider the implications of an _independent_[7](#f7) New Guinea. This raised questions, for example, in relation to Manus.
 > 
 > (e) The paper should consider forms of warfare other than conventional forces, such as some forms of guerrilla and subversive activity, and also psychological warfare, in which we are doing almost nothing.
 
@@ -96,7 +99,7 @@ Strategic Basis of Australian Defence Policy
 
 21\. Sir John Bunting referred to Sir Henry Bland’s reference to the size of the job, with which Sir John agreed. But we did not have unlimited time. Sir John Bunting suggested the possibility of progressive meetings to consider the report as it was being prepared. Otherwise the Defence Committee would not have much scope except to edit the draft.
 
-22\. Rear Admiral Dovers8 (Chairman of the Joint Planning Committee) said it would take two months to complete a draft.
+22\. Rear Admiral Dovers[8](#f8) (Chairman of the Joint Planning Committee) said it would take two months to complete a draft.
 
 23\. Mr Hewitt said that the timetable seemed to him to be far too slow. The Prime Minister was going to visit Washington and then there would be budget discussions, and Mr Hewitt was inclined to think that Ministers would expect a Defence Committee report on the strategic basis more quickly than Sir Henry Bland seemed to envisage.
 
@@ -117,3 +120,5 @@ Strategic Basis of Australian Defence Policy
 7  Emphasis in original. 
 
 8  Rear Admiral William John Dovers, Director, Joint Staff Department, Defence, 1968–71.
+
+[NAA: A1838, TS677/3 PART 12]

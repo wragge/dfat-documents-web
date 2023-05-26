@@ -1,12 +1,17 @@
 ---
-title: "433 Kirby to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4617
+doc_date: '1947-11-23'
+doc_num: 433
+doc_order: 433
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1947, 1.22980/82]'
+title: Kirby to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-11-23
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 433 Kirby to Burton
 
 Cablegram K1 BATAVIA, 23 November 1947, 10 p.m.
 
@@ -28,7 +33,7 @@ Thanks for your telegram 360. [1] Unfortunately your telegram 349 [2] as receive
 
 5\. Pity is that external evidence available will go a long way towards proving their assertion in (2) above. As an instance of this the case of Madura is most favourable to them. Eaton has, I understand, cabled you details of this. [5]
 
-_ position throughout and have been authoritatively informed that in some areas near starvation will be likely in January and February in the interval between harvests. In fact some Republicans in high positions have discussed privately with me the question of appeal to the Committee to invoke the aid of the Red Cross or similar international body to distribute food. The paradox is that food is available in three islands but it is in the hands of the Dutch who are apparently willing to distribute it but only under control of their military forces and as means of bribing local populations away from Republic support.
+ _position throughout and have been authoritatively informed that in some areas near starvation will be likely in January and February in the interval between harvests. In fact some Republicans in high positions have discussed privately with me the question of appeal to the Committee to invoke the aid of the Red Cross or similar international body to distribute food. The paradox is that food is available in three islands but it is in the hands of the Dutch who are apparently willing to distribute it but only under control of their military forces and as means of bribing local populations away from Republic support.
 
 7\. Part III following. [6]
 
@@ -50,4 +55,4 @@ Suggestions accepted by both Special Committees included the termination of prov
 
 _
 
-_ [6.] I have now the benefit of further enquiry into the Republic's_
+ _[6.] I have now the benefit of further enquiry into the Republic's_

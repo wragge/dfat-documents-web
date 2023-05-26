@@ -1,14 +1,19 @@
 ---
-title: "332 McDougall to Bruce"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2623
+doc_date: '1943-11-21'
+doc_num: 332
+doc_order: 332
+naa_refs:
+- naa_barcode: 242518
+  naa_control_symbol: 11/4
+  naa_series: M104
+  reference: '[AA:M104, 11 (4)]'
+title: McDougall to Bruce
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-11-21
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 332 McDougall to Bruce
-
-## Letter (extract) ATLANTIC CITY, 21 November 1943
+Letter (extract) ATLANTIC CITY, 21 November 1943
 
 The delegations all came down here in a special train on Nov 10th and since then we have been hard at it. [1] The U.S. team is headed by Acheson who has done well especially in speaking in a large committee, a good parliamentary style-otherwise they are undistinguished.
 
@@ -36,7 +41,7 @@ There seems little doubt that on these economic and social issues Washington wil
 
 F.L. MCDOUGALL
 
-_
+ _
 
 1 See Document 304, note 2.
 
@@ -56,4 +61,4 @@ Moreover, it also ignores the varying financial burdens imposed by the prosecuti
 
 _
 
-_ [AA:M104, 11 (4)]_
+ _[AA:M104, 11 (4)]_

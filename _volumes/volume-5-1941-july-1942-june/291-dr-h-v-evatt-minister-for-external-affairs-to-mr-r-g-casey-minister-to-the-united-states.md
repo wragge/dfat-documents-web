@@ -1,12 +1,18 @@
 ---
-title: "291 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2045
+doc_date: '1942-01-22'
+doc_num: 291
+doc_order: 292
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister
+  to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-22
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 291 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States
 
 Cablegram 103 CANBERRA, 22 January 1942
 
@@ -28,7 +34,7 @@ Quote: It is as if a British admiral were to exercise command of the United Stat
 
 EVATT
 
-_
+ _
 
 1 The Sydney Morning Herald had reported on 14 January (P. 9) that the U.S. Secretary of the Navy had told an American audience that 'the battle of the Atlantic ... was still the most important struggle of the war' and warned them not to expect 'favourable, dramatic developments of triumphant American full-scale naval engagements in the Pacific in the near future'.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

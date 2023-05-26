@@ -1,12 +1,17 @@
 ---
-title: "175 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 512
+doc_date: '1939-09-01'
+doc_num: 175
+doc_order: 175
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP290/6, ITEM 27]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-01
+vol_title: 'Volume 2: 1939'
 ---
-
-# 175 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram [373 [1] LONDON, 1 September 1939, 1.45 a.m.
 
@@ -24,7 +29,7 @@ Until the reactions to Germany's proposals in Poland, this country, France and t
 
 BRUCE
 
-_
+ _
 
 1 The copy in the Bruce papers gives this number (AA: M100, August 1939).
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA: CP290/6, ITEM 27]_
+ _[AA: CP290/6, ITEM 27]_

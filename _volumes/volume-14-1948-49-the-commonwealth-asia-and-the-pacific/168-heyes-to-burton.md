@@ -1,12 +1,18 @@
 ---
-title: "168 Heyes to Burton"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5944
+doc_date: '1949-03-15'
+doc_num: 168
+doc_order: 168
+naa_refs:
+- naa_barcode: 571276
+  naa_control_symbol: 1531/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838, 153 1/1, i]'
+title: Heyes to Burton
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-03-15
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 168 Heyes to Burton
 
 Memorandum CANBERRA, 15 March 1949
 
@@ -20,10 +26,10 @@ It is not seen why the new rule should create great administrative difficulties 
 
 However, other considerations have arisen which make it advisable for an officer of this Department to visit Eastern countries and investigate and report on certain aspects and, in the circumstances, action requested in my memorandum of 20th January [2] may be deferred pending receipt of his report.
 
-_
+ _
 
 1 Document 167 2 Document 166.
 
 _
 
-_ [AA:A1838, 153 1/1, i]_
+ _[AA:A1838, 153 1/1, i]_

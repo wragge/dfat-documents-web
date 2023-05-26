@@ -1,12 +1,19 @@
 ---
-title: "295 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8133
+doc_date: '1975-10-24'
+doc_num: 295
+doc_order: 294
+naa_refs:
+- naa_barcode: 4151606
+  naa_control_symbol: 801/13/11/1 PART 15
+  naa_series: A10463
+  reference: '[NAA: A10463, 801113/11/1, xv]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-10-24
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 295 Cablegram to Canberra
 
 New York, 24 October 1975
 
@@ -21,8 +28,8 @@ Sani met with other ASEAN delegations, Australia (myself and Campbell) New Zeala
 
 
 
-_[matter omitted]_
+ _[matter omitted]_
 
 HARRY
 
-_[NAA: A10463, 801113/11/1, xv]_
+ _[NAA: A10463, 801113/11/1, xv]_

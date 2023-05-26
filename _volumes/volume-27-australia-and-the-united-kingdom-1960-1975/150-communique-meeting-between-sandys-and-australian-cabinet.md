@@ -1,18 +1,21 @@
 ---
-title: "150 COMMUNIQUE, MEETING BETWEEN SANDYS AND AUSTRALIAN CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10015
+doc_date: '1961-07-11'
+doc_num: 150
+doc_order: 150
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 11/3558]'
+title: COMMUNIQUE, MEETING BETWEEN SANDYS AND AUSTRALIAN CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 150 COMMUNIQUE, MEETING BETWEEN SANDYS AND AUSTRALIAN CABINET
-
-UKNA: PREM 11/3558
 
 Canberra, 11 July 1961
 
-****
+ ****
 
 Joint statement by the United Kingdom and Australia
 
@@ -39,3 +42,5 @@ As the whole question is of major importance for Britain and for decision by her
 Mr. Sandys said he well understood the position of the Australian Government and he appreciated its understanding of Britain’s problem.
 
 It was agreed that these talks, which had been conducted in a most helpful and constructive spirit on both sides, had resulted in a more complete understanding of the important and complex issues involved.
+
+[UKNA: PREM 11/3558]

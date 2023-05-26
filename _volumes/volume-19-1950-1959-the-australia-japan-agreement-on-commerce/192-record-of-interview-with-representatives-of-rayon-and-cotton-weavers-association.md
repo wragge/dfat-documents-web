@@ -1,14 +1,20 @@
 ---
-title: "192 Record Of Interview With Representatives Of Rayon And Cotton Weavers'association"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7797
+doc_date: '1957-03-05'
+doc_num: 192
+doc_order: 192
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUST. TRADE NEGOTIATIONS 1956/57,
+    Pt ii]'
+title: Record Of Interview With Representatives Of Rayon And Cotton Weavers'association
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-03-05
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 192 Record Of Interview With Representatives Of Rayon And Cotton Weavers'association
-
-## 5th March, 1957
+5th March, 1957
 
 MELBOURNE
 
@@ -88,7 +94,7 @@ MR McEWEN said he wished to repeat that there was no room in any treaty with Jap
 
 [matter omitted]
 
-_
+ _
 
 1 See Document 153.
 
@@ -96,4 +102,4 @@ _
 
 _
 
-_ [NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUST. TRADE NEGOTIATIONS 1956/57, Pt ii]_
+ _[NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUST. TRADE NEGOTIATIONS 1956/57, Pt ii]_

@@ -1,12 +1,18 @@
 ---
-title: "117 Curtin to MacArthur"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2408
+doc_date: '1943-02-08'
+doc_num: 117
+doc_order: 117
+naa_refs:
+- naa_barcode: 650462
+  naa_control_symbol: 575/2
+  naa_series: A5954
+  reference: '[AA:MP1217, BOX 575, GLOBAL STRATEGY, DECISIONS OF CASABLANCA CONFERENCE
+    JANUARY, 1943]'
+title: Curtin to MacArthur
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-02-08
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 117 Curtin to MacArthur
 
 Letter CANBERRA, 8 February 1943
 
@@ -56,7 +62,7 @@ I shall be glad to know whether any special significance as to offensive intenti
 
 JOHN CURTIN
 
-_ 1 See Document 108.
+ _1 See Document 108.
 
 2 See cablegrams Z9, Z10 and 154 of 29 January on file AA:MP1217, box 575, Global Strategy, decisions of Casablanca Conference January, 1943.
 
@@ -68,4 +74,4 @@ _ 1 See Document 108.
 
 _
 
-_ [AA:MP1217, BOX 575, GLOBAL STRATEGY, DECISIONS OF CASABLANCA CONFERENCE JANUARY, 1943]_
+ _[AA:MP1217, BOX 575, GLOBAL STRATEGY, DECISIONS OF CASABLANCA CONFERENCE JANUARY, 1943]_

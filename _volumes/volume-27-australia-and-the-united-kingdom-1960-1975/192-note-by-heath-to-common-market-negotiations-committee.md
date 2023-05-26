@@ -1,20 +1,23 @@
 ---
-title: "192 NOTE BY HEATH TO COMMON MARKET NEGOTIATIONS COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10057
+doc_date: '1962-07-20'
+doc_num: 192
+doc_order: 192
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB 134/1515]'
+title: NOTE BY HEATH TO COMMON MARKET NEGOTIATIONS COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-07-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 192 NOTE BY HEATH TO COMMON MARKET NEGOTIATIONS COMMITTEE
-
-UKNA: CAB 134/1515
 
 London, 20 July 1962
 
 Secret
 
-****
+ ****
 
 Commonwealth Temperate Foodstuffs
 
@@ -50,14 +53,16 @@ The treatment of temperate foodstuffs from the Commonwealth—particularly Canad
 
 16\. The fourth and last part of the problem is the arrangements for the period after 1970. The Six place great emphasis on world-wide commodity agreements, covering all the main supplying countries, but they recognize that these may not prove negotiable. In this event they are willing to negotiate with those countries—‘and notably those Commonwealth countries’—which _are_ willing to conclude such agreements. This is a further insurance for the Commonwealth against a ‘precipice’ in 1970, but I still do not feel that it is enough. I therefore propose to seek the agreement of the Six that, in the event of commodity agreements proving impracticable—whether world-wide or of more limited geographical coverage—they will be prepared to negotiate Trade Agreements with Canada, Australia and New Zealand on the principle of what the Six have already agreed to do for India, Pakistan and Ceylon. Finally, I shall press for the ‘insurance policy’—with no time limit—referred to above (paragraph 12) providing for remedial action in the event of a substantial decline in trade below levels as a result of the operation of the common agricultural policy.
 
-_Conclusion_
+ _Conclusion_
 
 17\. How far the above will be negotiable with the Six, and whether Parliament and public opinion here will regard it as a fair and reasonable deal for the Commonwealth must, of course, be matters of judgement. One thing is certain—that our room to manoeuvre is very narrow indeed and that to try to get significantly more for the Commonwealth than I have outlined above would not be negotiable with the Six.
 
-18\. I suggest that early next week we should send a message to the old Commonwealth countries telling them of our general approach to the forthcoming ministerial meeting, and the sort of picture which we expect will emerge in the _vue d’ensemble._1
+18\. I suggest that early next week we should send a message to the old Commonwealth countries telling them of our general approach to the forthcoming ministerial meeting, and the sort of picture which we expect will emerge in the _vue d’ensemble._[1](#f1)
 
-19\. In this note I have concentrated on matters of substance. There is also the important question of how we handle this matter, at the Ministerial meeting on 25th July. I will let my colleagues have my ideas on this orally at our meeting on Monday.2
+19\. In this note I have concentrated on matters of substance. There is also the important question of how we handle this matter, at the Ministerial meeting on 25th July. I will let my colleagues have my ideas on this orally at our meeting on Monday.[2](#f2)
 
 1 Document 194.
 
 2 Document 193.
+
+[UKNA: CAB 134/1515]

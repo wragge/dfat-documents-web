@@ -1,12 +1,20 @@
 ---
-title: "10 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8880
+doc_date: '1978-03-17'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1978-03-17
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 10 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 17 March 1978
 
@@ -32,4 +40,4 @@ Begins
 
 Cannody's attitude throughout took the longer term view and was helpful and encouraging. He made it quite clear that the nature of the advice from his Department was that Australia and New Zealand should work together into the future more closely so that the directions taken by industrial development on both sides of the Tasman should be in the knowledge that the markets of both countries would eventually be available to industry.
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 13 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 13 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

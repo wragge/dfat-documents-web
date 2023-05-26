@@ -1,12 +1,18 @@
 ---
-title: "9 Maj Gen H. L. Ismay, Chief of Staff to U.K. Minister of Defence, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1240
+doc_date: '1940-07-04'
+doc_num: 9
+doc_order: 9
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: CAB 21/893]'
+title: Maj Gen H. L. Ismay, Chief of Staff to U.K. Minister of Defence, to Mr S. M.
+  Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 9 Maj Gen H. L. Ismay, Chief of Staff to U.K. Minister of Defence, to Mr S. M. Bruce, High Commissioner in London
 
 Letter [LONDON], 4 July 1940
 
@@ -140,9 +146,9 @@ despatched to the Dominions. [6]
 
 H. L. ISMAY
 
-_
+ _
 
-1 Documents on Australian Foreign Policy 1937-49, vol. III, 
+1 Documents on Australian Foreign Policy 1937-49, vol. III,
 
 Document 459.
 
@@ -160,7 +166,7 @@ paragraph was no. 8.
 
 _
 
-_
+ _
 
 [PRO: CAB 21/893]
 

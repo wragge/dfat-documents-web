@@ -1,14 +1,20 @@
 ---
-title: "359 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 2: 1939"
-doc_id: 696
+doc_date: '1939-11-14'
+doc_num: 359
+doc_order: 359
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-14
+vol_title: 'Volume 2: 1939'
 ---
 
-# 359 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram [165 [1]] 14 November 1939,
+Cablegram [165 [1]] 14 November 1939,
 
 Reference your Circular D.68. [2] Australian Government does not desire to make merely verbal criticisms. We feel that there are two underlying matters of great importance: The first is that we should do nothing to impair our complete unity with France and that consequently in any statement the greatest emphasis must be placed upon the view that our first war aim is to win completely and not to become involved in a patched-up compromise. From this point of view we dislike the reference in paragraph four to the possibility of finding a German Government which is willing and able voluntarily to accept our terms. If this contemplates a revolutionary movement in Germany, we think it overoptimistic. If it contemplates some form of puppet government, we think it dangerous.
 
@@ -18,7 +24,7 @@ We are profoundly apprehensive of any suggestion that the peace of Europe or of 
 
 In brief, we think that there is everything to be gained by stating, in conjunction with France, our irrevocable determination to pursue this war to victory, while at the same time announcing for the benefit of the whole world that we are not looking for a peace, when the war has been won, which has to be indefinitely maintained by force, but that we are genuinely anxious to establish international conditions which will conduce to freedom and prosperity, not only for ourselves and the smaller European States whose existence has been destroyed or threatened, but for Germany herself.
 
-_
+ _
 
 1 The number did not appear on the copy cited. It has been taken from a copy of the decipher sent by the Dominions Office to S.M.
 
@@ -30,4 +36,4 @@ Bruce, High Commissioner in London (On file AA: M100, November 1939). Copies wer
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

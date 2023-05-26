@@ -1,12 +1,17 @@
 ---
-title: "255 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3286
+doc_date: '1945-09-19'
+doc_num: 255
+doc_order: 255
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 540]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-19
+vol_title: 'Volume 8: 1945'
 ---
-
-# 255 Addison to Commonwealth Government
 
 Cablegram D1746 (extract) LONDON, 19 September 1945, 8.25 p.m.
 
@@ -28,7 +33,7 @@ The following reports of statements by the Australian, New Zealand and South Afr
 
 [matter omitted]
 
-_
+ _
 
 1 In AA : A3195, 1945, Folder, Top Secret, Inwards from Secretary of State, D1157-3/7/45 to D2033-2/11/45, I.30165/83/70/71/64. It conveyed the argument put forward by Yugoslavia in support of its claim to the Julian March area.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 540]_
+ _[AA : A5954, BOX 540]_

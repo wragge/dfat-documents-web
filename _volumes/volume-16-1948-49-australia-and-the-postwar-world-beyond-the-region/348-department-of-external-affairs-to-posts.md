@@ -1,17 +1,21 @@
 ---
-title: "348 Department of External Affairs to Posts"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7063
+doc_date: '1948-08-30'
+doc_num: 348
+doc_order: 348
+naa_refs:
+- naa_barcode: 236005
+  naa_control_symbol: '867'
+  naa_series: A3300
+  reference: '[AA : A3300, 867]'
+title: Department of External Affairs to Posts
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-08-30
-barcode: 236005
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
 
-# 348 Department of External Affairs to Posts
+Cablegram unnumbered, CANBERRA, 30 August 1948, 10.45 p.m.
 
-## Cablegram unnumbered, CANBERRA, 30 August 1948, 10.45 p.m.
-
-The Prime Minister made the following statement tonight (30th August). (Begins.) The Government has decided to include in its budget proposals a gift of �A10 million to the Government of the United Kingdom.
+The Prime Minister made the following statement tonight (30th August). (Begins.) The Government has decided to include in its budget proposals a gift of £A10 million to the Government of the United Kingdom.
 
 The United States, the United Kingdom, and European countries are at present discussing the division of ERP dollar aid amongst participating countries.
 
@@ -21,8 +25,8 @@ Australia stands to benefit from any measure which assists the external buying p
 
 Over and above the burdens carried by the United Kingdom during the war and the loss sustained by her through her war effort she has played a foremost part in stimulating European recovery despite her losses of investment and trade she has supported a number of European countries who have been critically short of sterling.
 
-Last year Australia had a favourable balance of payments and there was an increase in 'London funds'. Accordingly, after full consideration, the Government has decided to make a gift of �A10m. to the United Kingdom which will afford her a measure of assistance in the burdens she is continuing to carry. Ends.
+Last year Australia had a favourable balance of payments and there was an increase in 'London funds'. Accordingly, after full consideration, the Government has decided to make a gift of £A10m. to the United Kingdom which will afford her a measure of assistance in the burdens she is continuing to carry. Ends.
 
-__
+ __
 
-_ [ [AA : A3300, 867](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=236005) ]_
+ _[AA : A3300, 867]_

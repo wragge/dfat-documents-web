@@ -1,12 +1,17 @@
 ---
-title: "416 Department of External Affairs to Legation in Washington"
-volume: "Volume 8: 1945"
-doc_id: 3447
+doc_date: '1945-11-27'
+doc_num: 416
+doc_order: 416
+naa_refs:
+- naa_barcode: 191440
+  naa_control_symbol: ER46/13/4
+  naa_series: A1067
+  reference: '[AA : A1067, EP46/13/4]'
+title: Department of External Affairs to Legation in Washington
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-11-27
+vol_title: 'Volume 8: 1945'
 ---
-
-# 416 Department of External Affairs to Legation in Washington
 
 Cablegram 1815 CANBERRA, 27 November 1945
 
@@ -30,7 +35,7 @@ Your 1055. [1]
 
 [5]
 
-_
+ _
 
 1 Dispatched 24 November. On file AA : A1067, ER46/13/4. It noted a press report of the destruction of five cyclotrons in Tokyo.
 
@@ -46,4 +51,4 @@ A1067, ER46/13/4. See also U.S. Department of State, Foreign Relations of the Un
 
 _
 
-_ [AA : A1067, EP46/13/4]_
+ _[AA : A1067, EP46/13/4]_

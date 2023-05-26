@@ -1,12 +1,18 @@
 ---
-title: "256 Mr R. G. Casey, Minister to the United States, to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2010
+doc_date: '1942-01-04'
+doc_num: 256
+doc_order: 257
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.513]'
+title: Mr R. G. Casey, Minister to the United States, to Dr H. V. Evatt, Minister
+  for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-04
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 256 Mr R. G. Casey, Minister to the United States, to Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram unnumbered WASHINGTON, 4 January 1942, 3.48 a.m.
 
@@ -44,7 +50,7 @@ And additionally I would say that I have not, in these recent weeks, addressed m
 
 CASEY
 
-_
+ _
 
 1 Document 250.
 
@@ -68,4 +74,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.513]_
+ _[AA:A3195, 1942, 1.513]_

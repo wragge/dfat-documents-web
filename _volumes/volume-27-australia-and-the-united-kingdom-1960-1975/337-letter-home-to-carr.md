@@ -1,20 +1,23 @@
 ---
-title: "337 LETTER, HOME TO CARR"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10203
+doc_date: '1972-10-23'
+doc_num: 337
+doc_order: 337
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 68/442]'
+title: LETTER, HOME TO CARR
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-10-23
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 337 LETTER, HOME TO CARR
-
-UKNA: FCO 68/442
 
 London, 23 October 1972
 
 Confidential
 
-**Immigration and the Old Commonwealth**
+ **Immigration and the Old Commonwealth**
 
 Recent correspondence about the ‘streaming’ arrangements at UK ports has highlighted one aspect of a broader problem. The broader problem is that of the acute dislike in the old Commonwealth of our immigration rules and procedures.
 
@@ -35,3 +38,5 @@ Recent correspondence about the ‘streaming’ arrangements at UK ports has hig
 By these steps three sources of recurring old Commonwealth complaints would be removed. If you agree, I suggest that they should be pursued by officials as a matter of urgency.
 
 6\. Finally, I think that there is a need to decide now how best to explain in simple terms our new immigration procedures, resulting from the 1971 Act and EEC entry, and to present these in the most favourable light to the old Commonwealth. [...]
+
+[UKNA: FCO 68/442]

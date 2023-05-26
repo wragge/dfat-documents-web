@@ -1,12 +1,17 @@
 ---
-title: "206 Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce"
-volume: "Volume 1: 1937-38"
-doc_id: 205
+doc_date: '1938-05-19'
+doc_num: 206
+doc_order: 205
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-19
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 206 Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce
 
 Cablegram unnumbered 19 May 1938,
 
@@ -26,7 +31,7 @@ In view of foregoing Cabinet has decided on broad grounds to adhere to text of l
 
 LYONS
 
-_
+ _
 
 1 Document 205.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

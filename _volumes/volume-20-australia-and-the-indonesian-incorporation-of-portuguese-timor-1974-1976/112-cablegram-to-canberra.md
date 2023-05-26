@@ -1,18 +1,25 @@
 ---
-title: "112 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7951
+doc_date: '1975-03-14'
+doc_num: 112
+doc_order: 112
+naa_refs:
+- naa_barcode: 4151420
+  naa_control_symbol: 202/1/3 PART 6
+  naa_series: A10005
+  reference: '[NAA: AI0005. 202/113, vi]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-03-14
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 112 Cablegram to Canberra
 
 Lisbon, 14 March 1975
 
 O.LB814 SECRET PRIORITY
 
-**Portuguese Timor**
+ **Portuguese Timor**
 
 I had a useful talk with Pires today.
 
@@ -27,4 +34,4 @@ I had a useful talk with Pires today.
 
 COOPER
 
-_ [NAA: AI0005. 202/113, vi]_
+ _[NAA: AI0005. 202/113, vi]_

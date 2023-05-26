@@ -1,12 +1,17 @@
 ---
-title: "103 Chifley to Forde and Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3134
+doc_date: '1945-06-08'
+doc_num: 103
+doc_order: 103
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 311]'
+title: Chifley to Forde and Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-06-08
+vol_title: 'Volume 8: 1945'
 ---
-
-# 103 Chifley to Forde and Evatt
 
 Cablegram 97 CANBERRA, 8 June 1945
 
@@ -100,7 +105,7 @@ The Commander-in-Chief of the British Pacific Fleet has raised the question of t
 
 Squadrons for the R.A.F. Task Force was discussed by the Minister for Air when in London, and the proposal is supported by the Chief of the Air Staff.
 
-_
+ _
 
 1 Document 102.
 
@@ -114,4 +119,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 311]_
+ _[AA : A5954, BOX 311]_

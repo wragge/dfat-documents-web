@@ -1,12 +1,18 @@
 ---
-title: "202 Massey to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5978
+doc_date: '1948-08-17'
+doc_num: 202
+doc_order: 202
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195,1948, 1.13320]'
+title: Massey to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-08-17
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 202 Massey to Chifley
 
 Cablegram 477 SINGAPORE, 17 August 1948, 2.31 p.m.
 
@@ -18,10 +24,10 @@ I have seen several reports recently in Australian papers reaching Singapore whi
 
 (B) A Communist recently captured in Perak and interrogated has stated 'I know of no definite instruction from outside except that I heard that the L.I.F.A. in charge of the political section of the State Secretariat say that the Head of the Australian Communist Party had passed through Singapore and criticised the Malayan Communist party for losing a good opportunity after the liberation and said that the MPAJA [1] should never have been demobilized. He said that another change would come when economic crisis in the United States came to a head. Position of Britain would be very serious and strong oppression and changing of the Colonies would be resorted to. That would be the time for the Communists to strike.' 3. In the circumstances it is highly probable that Sharkey may have urged a more militant attitude by the Communist Party here generally and even that he was consulted to plan for the campaign but I cannot find any confirmation of press suggestions that he played an executive part in these plans.
 
-_
+ _
 
 1 Malayan People's Anti-Japanese Army.
 
 _
 
-_ [AA: A3195,1948, 1.13320]_
+ _[AA: A3195,1948, 1.13320]_

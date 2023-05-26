@@ -1,22 +1,25 @@
 ---
-title: "421 NOTE BY CABINET LEGISLATION COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10287
+doc_date: '1967-08-18'
+doc_num: 421
+doc_order: 421
+naa_refs:
+- naa_barcode: 3188975
+  naa_control_symbol: C47
+  naa_series: A5619
+  reference: '[NAA: A5619, C47]'
+title: NOTE BY CABINET LEGISLATION COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-08-18
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 421 NOTE BY CABINET LEGISLATION COMMITTEE
-
-NAA: A5619, C47
 
 Canberra, 18 August 1967
 
 Confidential
 
-**Note on Cabinet Submission No. 285: Appeals to the Privy Council**
+ **Note on Cabinet Submission No. 285: Appeals to the Privy Council**
 
-This is the second Submission1 on this subject since 1966.
+This is the second Submission[1](#f1) on this subject since 1966.
 
 In July last year the then Attorney-General recommended abolition of appeals to the Privy Council to the fullest possible extent by Commonwealth legislation (that is, not complete abolition, because there can be appeals direct from State Courts). Cabinet, which met while the Prime Minister was overseas, was disposed to agree but took no firm decision as it felt the timing of a change of this nature was important. In particular, it felt that regard needed to be had to the importance of maintaining links with Britain in the context of encouraging the maintenance of a British presence East of Suez.
 
@@ -34,8 +37,10 @@ This represents a modification of the 1966 recommendation in respect of cases re
 
 The subject as a whole is one unlikely to generate much heat. The proposals as they stand will please neither of the extreme views—those favouring complete abolition of appeals and those wanting retention of links with Britain. However in our view, the Attorney-General has material enough for an effective reply to any such criticism, and _we support the recommendations_.
 
-Cabinet paused last year because of the need to look carefully at any question of links with Britain—particularly in respect of the East of Suez decision. Now that the British have announced withdrawal of land forces East of Suez it might be thought that this consideration loses weight. It could equally be argued that the very nature of the British decision makes the retention of links all the more necessary.2
+Cabinet paused last year because of the need to look carefully at any question of links with Britain—particularly in respect of the East of Suez decision. Now that the British have announced withdrawal of land forces East of Suez it might be thought that this consideration loses weight. It could equally be argued that the very nature of the British decision makes the retention of links all the more necessary.[2](#f2)
 
 1 See Document 420.
 
 2 Cabinet approved these recommendations on 22 August 1967, decision no. 516 on submission no. 285 (NAA: A5842 volume 10).
+
+[NAA: A5619, C47]

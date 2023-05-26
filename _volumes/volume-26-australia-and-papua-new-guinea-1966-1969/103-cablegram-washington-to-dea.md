@@ -1,13 +1,17 @@
 ---
-title: "103 Cablegram, Washington To Dea"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9611
+doc_date: '1967-04-07'
+doc_num: 103
+doc_order: 103
+naa_refs:
+- naa_barcode: 3111684
+  naa_control_symbol: 1967/3676
+  naa_series: A452
+  reference: '[NAA: A452, 1967/3676]'
+title: Cablegram, Washington To Dea
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-04-07
-barcode: 3111684
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 103 Cablegram, Washington To Dea
 
 7 April 1967
 
@@ -35,25 +39,25 @@ It was felt that it would be in the interest of the four governments to maintain
 
 It was generally recognized that visiting missions from the Committee of 24 to certain Pacific territories would involve unacceptable risks and in such cases the administering power concerned should be supported in resisting such visits. Australian, British, and United States representatives saw advantage in present circumstances in resisting visiting missions from the Committee of 24 to Pacific territories generally.
 
-_[matter omitted]_
+ _[matter omitted]_
 
 (D) The Committee Of 24
 
 It was recognized that the question of continuing members{hip} of and cooperation with the Committee Of 24 needed continuing reassessment between the four powers, bearing in mind the desirability of acting in concert.
 
-_[matter omitted]_
+ _[matter omitted]_
 
 (G) General
 
 It was considered that in settling their position on U.N. draft resolutions concerned with the Pacific territories there should be consultations among the four powers, bearing in mind the desirability of their acting and voting in concert whenever possible.
 
-3\. _Development and the role of the South Pacific Commission_1
+3\. _Development and the role of the South Pacific Commission_[1](#f1)
 
 The need to maintain an active policy of social and economic progress throughout the Pacific area was recognized.
 
 The South Pacific Commission continued to make a valuable contribution, especially in encouraging participation in regional affairs by the indigenous peoples ...
 
-_[matter omitted]_
+ _[matter omitted]_
 
 It was recognized that it would be desirable for the work program of the South Pacific Commission to be strengthened and expanded.
 
@@ -67,6 +71,6 @@ It was agreed that the four governments should, through their representatives in
 
 It was agreed that the government of France, which also has territorial responsibilities in the South Pacific area, should at the earliest convenient opportunity be invited to take part in a discussion with the four governments of matters affecting the future of the area.
 
-[ [NAA: A452, 1967/3676](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3111684) ]
+[NAA: A452, 1967/3676]
 
 1 The South Pacific Commission (SPC) was formed in 1947 by colonial powers for the purpose of cooperation in social and economic fields. The original members of the Commission were Australia, Britain, New Zealand, the Netherlands and France. Indigenous participation was encouraged from 1950 with the establishment of the South Pacific Conference. It provided Islander representatives with the opportunity to discuss and to make recommendations on matters within the jurisdiction of the SPC.

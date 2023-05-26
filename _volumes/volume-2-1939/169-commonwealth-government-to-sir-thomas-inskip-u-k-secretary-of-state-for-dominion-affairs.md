@@ -1,12 +1,18 @@
 ---
-title: "169 Commonwealth Government to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 2: 1939"
-doc_id: 506
+doc_date: '1939-08-30'
+doc_num: 169
+doc_order: 169
+naa_refs:
+- naa_barcode: 94510
+  naa_control_symbol: AB337/1/5
+  naa_series: A461
+  reference: '[AA: A461, AB 337/1/5]'
+title: Commonwealth Government to Sir Thomas Inskip, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-30
+vol_title: 'Volume 2: 1939'
 ---
-
-# 169 Commonwealth Government to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 91 30 August 1939,
 
@@ -16,10 +22,10 @@ In the present international situation the Commonwealth Governmerit desire to pl
 
 'Perth' [1] should be taken from Australian waters without prior concurrence of Commonwealth Government.
 
-_
+ _
 
 1 The cruiser Perth was then in the West Indies on her delivery voyage from the Royal Navy to the Royal Australian Navy.
 
 _
 
-_ [AA: A461, AB 337/1/5]_
+ _[AA: A461, AB 337/1/5]_

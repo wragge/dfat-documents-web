@@ -1,14 +1,19 @@
 ---
-title: "314 Minter to Makin"
-volume: "Volume 8: 1945"
-doc_id: 3345
+doc_date: '1945-10-16'
+doc_num: 314
+doc_order: 314
+naa_refs:
+- naa_barcode: 188189
+  naa_control_symbol: H45/1013/2/1B
+  naa_series: A1066
+  reference: '[AA : A1066, H45/1013/2/IB]'
+title: Minter to Makin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-16
+vol_title: 'Volume 8: 1945'
 ---
 
-# 314 Minter to Makin
-
-## Letter CANBERRA, 16 October 1945
+Letter CANBERRA, 16 October 1945
 
 I have the honor to advise you of the receipt of a communication from my Government stating that it had been requested by the Allied Control Council for Germany to notify the Governments of countries concerned of the Council's readiness to accept applications to accredit military missions to the Council.
 
@@ -36,7 +41,7 @@ This would not preclude the employment of a reasonable number of locally engaged
 
 J. R. MINTER
 
-_
+ _
 
 1 The Commonwealth Govt notified its intention to make such an application in its reply to the invitation from the French Govt.
 
@@ -46,4 +51,4 @@ Govt. See cablegram 435 to Hood, dispatched 24 October, on the same file.
 
 _
 
-_ [AA : A1066, H45/1013/2/IB]_
+ _[AA : A1066, H45/1013/2/IB]_

@@ -1,27 +1,31 @@
 ---
-title: "280 Letter, Warwick Smith To Bland"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9788
+doc_date: '1969-06-05'
+doc_num: 280
+doc_order: 280
+naa_refs:
+- naa_barcode: 3125870
+  naa_control_symbol: 1970/1690
+  naa_series: A452
+  reference: '[NAA: A452,1970/1690]'
+title: Letter, Warwick Smith To Bland
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-06-05
-barcode: 3125870
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 280 Letter, Warwick Smith To Bland
 
 Canberra, 5 June 1969
 
 Confidential 
 
-Thank you for the copy of your paper giving your impressions of your recent visit to the Territory. 1
+Thank you for the copy of your paper giving your impressions of your recent visit to the Territory. [1](#f1)
 
 We have all along thought it was necessary to develop a military establishment appropriate to the future needs and circumstances of the Territory rather than simply to follow the Australian pattern. I hope this is accepted as the basis of the present review of the P.I.R.
 
-You suggest, and I fully agree, that the Administration ought to become more directly associated with the Defence Force. In this connection I am glad to see what you say on the need for consultations with the Administrator’s Executive Council. We think the Council ought to be told about plans and proposals, e.g., on the size or role of the P.I.R., before they are finally adopted so that members may be given a genuine opportunity to express any views they have. David Hay mentioned this point to you, I understand, and, of course, you and I have exchanged letters on it.2
+You suggest, and I fully agree, that the Administration ought to become more directly associated with the Defence Force. In this connection I am glad to see what you say on the need for consultations with the Administrator’s Executive Council. We think the Council ought to be told about plans and proposals, e.g., on the size or role of the P.I.R., before they are finally adopted so that members may be given a genuine opportunity to express any views they have. David Hay mentioned this point to you, I understand, and, of course, you and I have exchanged letters on it.[2](#f2)
 
 I am glad to see your mention in paragraph 23 of the need for planning on a joint basis. I think this will do a lot of good but I throw out the cautionary thought that we ought to keep the machinery as simple as possible.
 
-We have wondered whether, as you mention, the Papua and New Guinea Defence Force might have characteristics similar to the Malaysian Police Field Force. We are giving more thought to this in relation both to the present study on the P.I.R.3 and the review we are now undertaking of the strength of the Royal Papua and New Guinea Constabulary, but a preliminary view is that the type of discipline in a military formation such as the P.I.R. would not be wholly appropriate for a Constabulary.
+We have wondered whether, as you mention, the Papua and New Guinea Defence Force might have characteristics similar to the Malaysian Police Field Force. We are giving more thought to this in relation both to the present study on the P.I.R.[3](#f3) and the review we are now undertaking of the strength of the Royal Papua and New Guinea Constabulary, but a preliminary view is that the type of discipline in a military formation such as the P.I.R. would not be wholly appropriate for a Constabulary.
 
 As far as the review of the Constabulary is concerned it is clear that we will need to strengthen somewhat those units which deal with public order. This is irrespective of the outcome of the present considerations on the size and role of the P.I.R.
 
@@ -55,9 +59,9 @@ I have written quite frankly about various points in your paper, but not much ab
 
 I also want to see a defined relationship between the Government of the Territory (Minister for External Territories plus Administrator plus Administrator’s Executive Council) and the Territory Defence Force, moving towards a position in which the local armed forces (but not the constitutional responsibility for defence) come under the same umbrella as the other branches of government in the Territory.
 
-I share your doubts about the appropriateness of the battalion concept in the Territory situation. Apropos of this I think the possibility of developing economic peace-time roles consistent with military training needs for the various elements of a unified force should be thoroughly examined. I am not thinking here of the present civic action patrols but of something more definite and substantial. Given that as far as we can see ahead the Territory will be able to make little more than a token contribution from its own resources to defending itself against a determined attack, it seems to me that a force which can carry out appropriate economic roles in peace-time will in the overall analysis be making a far greater contribution to the country’s defence capability than a force whose training and activities are of purely military nature. Such a force would, moreover, have a greater degree of identification with the Territory itself than one which might be regarded merely as an extension of the Australian defence forces.4
+I share your doubts about the appropriateness of the battalion concept in the Territory situation. Apropos of this I think the possibility of developing economic peace-time roles consistent with military training needs for the various elements of a unified force should be thoroughly examined. I am not thinking here of the present civic action patrols but of something more definite and substantial. Given that as far as we can see ahead the Territory will be able to make little more than a token contribution from its own resources to defending itself against a determined attack, it seems to me that a force which can carry out appropriate economic roles in peace-time will in the overall analysis be making a far greater contribution to the country’s defence capability than a force whose training and activities are of purely military nature. Such a force would, moreover, have a greater degree of identification with the Territory itself than one which might be regarded merely as an extension of the Australian defence forces.[4](#f4)
 
-[ [NAA: A452,1970/1690](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3125870) ]
+[NAA: A452,1970/1690]
 
 1  Document 262. 
 
@@ -65,4 +69,4 @@ I share your doubts about the appropriateness of the battalion concept in the Te
 
 3  See footnote I, Document 262. 
 
-4  Bland. replied on 10 July: ‘[Regarding paragraph 5] The further I thought about the matter the more I was forced to conclude that the Police Force, whether normal or of the Field Force Malaysian variety, presented characteristics of a type that required that it should be kept separate from a military force. Your reference to my paragraph 13: The very fact that the P.I.R. is going into areas which rarely, if ever, see a policeman means I think that some natives tend to look on the P.I.R. as “protectors”—a very important role of the police which tends to be overlooked in our sort of society. [On paragraph 11] and penultimate paragraph: There is a problem here. It is one which could take on different aspects as time goes on, depending largely on the course of constitutional development in the political science sense. I don’t think that my proposal, with which you agree, that we make available to the Territory Administration a lump sum annually to sustain the defence forces is in any way tied to the constitutional problem. Nor do I think that so long as Australia is responsible for the defence of P.N.G., that responsibility can be abrogated. In other words we could hardly have a situation where the Territory Government could say that the P.I.R. (especially while it contained an Australian element) should be used in a particular formation in a particular location to deal with a particular situation against the decisions of Australia’s professional military advisers. However, I see very clearly that in some situations it would be folly of the worst kind if the P.I.R. were to be committed without the concurrence and sometimes the request of the Territory Government. None of the foregoing is to say that the Territory Government should not be brought into general thinking and planning about the P.I.R. and the shape of the total defence forces, or that its views should not be taken into account when there are alternative solutions to a problem which are equally satisfactory from our point of view ... I’m glad to note that progress is now being made with the pension problem. We must press on with this. I believe it nothing short of a scandal that the pay of the P.I.R. is being docked without there being in existence a pension scheme’ (NAA: A452, 1969/2850). 
+4  Bland. replied on 10 July: ‘[Regarding paragraph 5] The further I thought about the matter the more I was forced to conclude that the Police Force, whether normal or of the Field Force Malaysian variety, presented characteristics of a type that required that it should be kept separate from a military force. Your reference to my paragraph 13: The very fact that the P.I.R. is going into areas which rarely, if ever, see a policeman means I think that some natives tend to look on the P.I.R. as “protectors”—a very important role of the police which tends to be overlooked in our sort of society. [On paragraph 11] and penultimate paragraph: There is a problem here. It is one which could take on different aspects as time goes on, depending largely on the course of constitutional development in the political science sense. I don’t think that my proposal, with which you agree, that we make available to the Territory Administration a lump sum annually to sustain the defence forces is in any way tied to the constitutional problem. Nor do I think that so long as Australia is responsible for the defence of P.N.G., that responsibility can be abrogated. In other words we could hardly have a situation where the Territory Government could say that the P.I.R. (especially while it contained an Australian element) should be used in a particular formation in a particular location to deal with a particular situation against the decisions of Australia’s professional military advisers. However, I see very clearly that in some situations it would be folly of the worst kind if the P.I.R. were to be committed without the concurrence and sometimes the request of the Territory Government. None of the foregoing is to say that the Territory Government should not be brought into general thinking and planning about the P.I.R. and the shape of the total defence forces, or that its views should not be taken into account when there are alternative solutions to a problem which are equally satisfactory from our point of view ... I’m glad to note that progress is now being made with the pension problem. We must press on with this. I believe it nothing short of a scandal that the pay of the P.I.R. is being docked without there being in existence a pension scheme’ (NAA: A452, 1969/2850).

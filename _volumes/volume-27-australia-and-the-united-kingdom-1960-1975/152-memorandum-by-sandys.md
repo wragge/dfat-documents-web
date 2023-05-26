@@ -1,18 +1,23 @@
 ---
-title: "152 MEMORANDUM BY SANDYS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10017
+doc_date: '1961-07-21'
+doc_num: 152
+doc_order: 152
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: MEMORANDUM BY SANDYS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-21
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 152 MEMORANDUM BY SANDYS
 
 London, 21 July 1961
 
 Secret
 
-****
+ ****
 
 Europe: Talks with the New Zealand, Australian and Canadian Governments
 
@@ -38,7 +43,7 @@ In the past three weeks I have had talks with the New Zealand, Australian and Ca
 
 11\. There is no doubt that the three Governments much appreciated the thoroughness with which they were consulted, and I assured them that if negotiations were started we would continue to consult them closely at all stages. The Australian Government expressed the strong desire to be represented directly in any negotiations affecting their interests. While realising that this was not a matter which the British Government could decide, they hoped that we would do our best to arrange this for them.
 
-12\. It is perhaps worth adding that in all these countries the Press (including leading Government newspapers) showed a remarkable understanding for the arguments which have led Britain to consider joining the Common Market, and in some cases strongly criticised their Governments for trying to hold us back.1
+12\. It is perhaps worth adding that in all these countries the Press (including leading Government newspapers) showed a remarkable understanding for the arguments which have led Britain to consider joining the Common Market, and in some cases strongly criticised their Governments for trying to hold us back.[1](#f1)
 
 13\. From the above it will be seen that so far as New Zealand, Australia and Canada are concerned, there is nothing to prevent us, if we so wish, from opening negotiations with the European Economic Community. The three Governments expect us to do so and will be quite surprised if we do not.
 

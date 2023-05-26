@@ -1,14 +1,19 @@
 ---
-title: "140 Record Of Conversation By Brennan"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7745
+doc_date: '1956-05-28'
+doc_num: 140
+doc_order: 140
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A2051
+  reference: '[AA : A2051/4, S0013, i]'
+title: Record Of Conversation By Brennan
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1956-05-28
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 140 Record Of Conversation By Brennan
-
-## 28th May, 1956
+28th May, 1956
 
 CANBERRA
 
@@ -32,7 +37,7 @@ Mr Tange said he could not say how the Department of Trade, which would bear the
 
 The Ambassador said that Japan would like if possible some further indications whether the Australian Government would be ready to negotiate on the treaty matters and the trade matters raised by Japan when negotiations began. The Secretary said that we would pass the Embassy's Notes and this comment to the relevant Departments. It might be that the Australian authorities would want to wait until they reached the Conference table before discussing concessions to Japanese requests.
 
-_
+ _
 
 1 Suzuki was accompanied by Uyama; Tange and Brennan were the only DEA officers present.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA : A2051/4, S0013, i]_
+ _[AA : A2051/4, S0013, i]_

@@ -1,24 +1,27 @@
 ---
-title: "360 TELEGRAM, HOME TO CANBERRA AND WELLINGTON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10226
+doc_date: '1972-12-15'
+doc_num: 360
+doc_order: 360
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FC0 24/1318]'
+title: TELEGRAM, HOME TO CANBERRA AND WELLINGTON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-12-15
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 360 TELEGRAM, HOME TO CANBERRA AND WELLINGTON
-
-UKNA: FC0 24/1318 
 
 London, 15 December 1972 
 
 1330\. Confidential
 
-**Immigration**
+ **Immigration**
 
 [...]
 
-2\. I would now like to propose directly to Messrs Whitlam and Kirk1 that there should shortly be consultation with their Governments, in line with the undertakings given by me and the Home Secretary in the House of Commons on 22 November.
+2\. I would now like to propose directly to Messrs Whitlam and Kirk[1](#f1) that there should shortly be consultation with their Governments, in line with the undertakings given by me and the Home Secretary in the House of Commons on 22 November.
 
 3\. Please now seek an interview with Mr Whitlam/Mr Kirk and speak along the following lines:–
 
@@ -36,16 +39,18 @@ London, 15 December 1972
 
 (G) In conclusion, you should make clear that because of public and Parliamentary interest here, ministers will need before Christmas to inform Parliament that they have approached Commonwealth Governments concerned about holiday consultations.
 
-_Wellington_
+ _Wellington_
 
 4\. I realise that this approach is likely to put Mr Kirk on something of a spot. If he sticks to the line that he proposes to reserve comment until we publish revised rules (para. 5 of Wellington Tel No. 780) you should make plain that ministers could not avoid saying in Parliament that the New Zealand Government had been offered an opportunity to enter into consultations and to express views on our immigration rules, but had not done so, and that HMG therefore had to conclude that New Zealand had no substantial complaints about the rules. I hope that it will not be necessary to speak as bluntly as this, but if necessary you must do so. Ideally, we should like Mr Kirk eventually to reply that, after careful consideration (possibly including consultations with HMG), his Government had concluded that the rules adequately took account of New Zealand interests.
 
-_Canberra_
+ _Canberra_
 
-5\. Mr Whitlam’s case is rather different. He can with reason claim that this problem is one for HMG alone to resolve, and one in which he has been careful to avoid interfering. But, again, you should if necessary insist that HMG’s problem arises from an interpretation placed by some British Members of Parliament on Australian wishes and interests, and by pronouncements by some prominent Australians including both the previous Australian High Commissioner and the High Commissioner Designate.2 If Mr Whitlam thinks that this interpretation is wrong and that the rules, either in their present form or as amended in any way which he might propose, do not disregard Australian interests, then he should be prepared to say so. But if he does not wish to enter into consultations or to make proposals ministers will in due course have to make this public. Again, I hope that it will not be necessary to speak as bluntly as this and that Mr Whitlam will sympathise with the difficulties in which we find ourselves and be disposed to be helpful.
+5\. Mr Whitlam’s case is rather different. He can with reason claim that this problem is one for HMG alone to resolve, and one in which he has been careful to avoid interfering. But, again, you should if necessary insist that HMG’s problem arises from an interpretation placed by some British Members of Parliament on Australian wishes and interests, and by pronouncements by some prominent Australians including both the previous Australian High Commissioner and the High Commissioner Designate.[2](#f2) If Mr Whitlam thinks that this interpretation is wrong and that the rules, either in their present form or as amended in any way which he might propose, do not disregard Australian interests, then he should be prepared to say so. But if he does not wish to enter into consultations or to make proposals ministers will in due course have to make this public. Again, I hope that it will not be necessary to speak as bluntly as this and that Mr Whitlam will sympathise with the difficulties in which we find ourselves and be disposed to be helpful.
 
 6\. As regards Canada, the problem does not arise since Mr Trudeau made clear when he was here earlier this month that he had no complaint about our treatment of Canadians coming here.
 
 1  Norman Kirk, Labour Prime Minister of New Zealand, 1972–74. 
 
 2  John Ignatius Armstrong—see Document 412. 
+
+[UKNA: FC0 24/1318]

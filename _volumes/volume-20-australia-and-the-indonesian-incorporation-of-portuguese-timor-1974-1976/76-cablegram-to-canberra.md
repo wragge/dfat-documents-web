@@ -1,18 +1,25 @@
 ---
-title: "76 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7915
+doc_date: '1975-02-04'
+doc_num: 76
+doc_order: 76
+naa_refs:
+- naa_barcode: 552297
+  naa_control_symbol: 49/2/1/1 PART 4
+  naa_series: A1838
+  reference: '[NAA: A1838, 49/211/1, iv]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-02-04
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 76 Cablegram to Canberra
 
 Lisbon, 4 February 1975
 
 O.LB689 SECRET PRIORITY
 
-**Timor**
+ **Timor**
 
 I called on Santos this morning as arranged. The Minister said he welcomed my call as he thought the time had come for his government to consult with us and Indonesia about the future of Timor.
 
@@ -23,7 +30,7 @@ I called on Santos this morning as arranged. The Minister said he welcomed my ca
 
 
 
-_ Comment_
+ _Comment_
 
   2. It was not clear from what Santos said whether he envisages that we should approach the Indonesians, but I would imagine that you would want to think very carefully about our own position before broaching the subject in Jakarta. In any event, in my view it is up to the Portuguese to explore their ideas directly with the Indonesians lest we be regarded in Jakarta as to some extent promoting them. Furthermore, Santos' ideas envisage a much greater degree of Australian involvement in Timor's future than you may consider desirable at this stage. I therefore made no comment on the substance of Santos' proposal at all. Also I am not at all sure that Santos' ideas will find much favour with the AFM who may want a much more speedy process.
   3. I did however stress to Santos the importance we attached to a genuine act of self-determination and the possibility that a Mozambique type solution could offer a pretext for Indonesian intervention. Santos accepted this readily enough and recognised that an act of self-determination would be essential at some stage. Incidentally he 'rubbished' Pires by describing him as 'not very intelligent' and implied that he (Pires) had rather made a mess of things. Santos indicated that Pires would be returning to Lisbon in about a week's time.
@@ -33,4 +40,4 @@ _ Comment_
 
 COOPER
 
-_ [NAA: A1838, 49/211/1, iv]_
+ _[NAA: A1838, 49/211/1, iv]_

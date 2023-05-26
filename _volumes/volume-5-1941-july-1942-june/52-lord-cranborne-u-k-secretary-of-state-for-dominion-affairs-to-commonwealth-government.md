@@ -1,12 +1,18 @@
 ---
-title: "52 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1806
+doc_date: '1941-08-28'
+doc_num: 52
+doc_order: 53
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, ii]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-28
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 52 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular cablegram M273 LONDON, 28 August 1941, 9.12 p.m.
 
@@ -26,7 +32,7 @@ We are making it clear to the United States Government that our communication wo
 
 We will telegraph further as soon as we receive reply from His Majesty's Minister at Washington as to the United States Government's attitude. In the meantime we shall be grateful to learn whether you concur generally in the action proposed.
 
-_
+ _
 
 1 On file AA:A1608, A41/1/1, xxiv. It reported that the U.S. Govt had on 17 August made two communications to the Japanese Ambassador to the United States (Admiral Kichisaburo Nomura) warning Japan against any further aggression and indicating readiness to seek a general settlement in the Pacific area provided the Japanese Govt would provide a clear statement of present objectives.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, ii]_
+ _[AA: A981, JAPAN 185B, ii]_

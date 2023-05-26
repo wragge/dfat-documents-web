@@ -1,12 +1,18 @@
 ---
-title: "479 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1710
+doc_date: '1941-05-31'
+doc_num: 479
+doc_order: 479
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.9020]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-31
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 479 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 388 LONDON, 31 May 1941, 5.40 p.m.
 
@@ -18,7 +24,7 @@ The views of the American-Dutch-British Conference on strength of United States 
 
 Our view when considering the United States suggestion for the transfer of substantial proportion of their capital ships to the Atlantic was that such a move was likely to have political effect which would outweigh purely strategic considerations.
 
-_
+ _
 
 1 Document 465.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA: A3195, 1941, 1.9020]_
+ _[AA: A3195, 1941, 1.9020]_

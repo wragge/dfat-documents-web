@@ -1,36 +1,41 @@
 ---
-title: "291 Submission No. 654, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9799
+doc_date: '1969-07-08'
+doc_num: 291
+doc_order: 291
+naa_refs:
+- naa_barcode: 3325118
+  naa_control_symbol: '654'
+  naa_series: A5868
+  reference: '[NAA: A586, 654]'
+title: Submission No. 654, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-07-08
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 291 Submission No. 654, Barnes To Cabinet
 
 Canberra, 8 July 1969
 
 Confidential
 
-**Territory of Papua and New Guinea Bougainville copper project**
+ **Territory of Papua and New Guinea Bougainville copper project**
 
-_Purpose_
+ _Purpose_
 
 The purpose of this submission is to inform Ministers on the progress of this project and to seek Cabinet approval for the temporary and conditional use of Asian workers during the construction phase.
 
-_Background_
+ _Background_
 
-2\. In 1967 (Decision No. 258 of 18th April)1 Cabinet endorsed arrangements for an agreement between the P.N.G. Administration and a subsidiary of Conzinc Riotinto of Australia Ltd. (Bougainville Copper Pty. Ltd.) for copper mining development on Bougainville Island in New Guinea.
+2\. In 1967 (Decision No. 258 of 18th April)[1](#f1) Cabinet endorsed arrangements for an agreement between the P.N.G. Administration and a subsidiary of Conzinc Riotinto of Australia Ltd. (Bougainville Copper Pty. Ltd.) for copper mining development on Bougainville Island in New Guinea.
 
 3\. The agreement was ratified by the Mining (Bougainville Copper Agreement) Ordinance 1967 of the Territory House of Assembly. The Agreement provides that 20% of the operating company’s equity capital may be taken up by the Administration or an approved authority on behalf of or by the people of the Territory. There will be a three year tax holiday and certain other concessions to the Company during the early period of production, but when full company tax becomes payable, the rate will be 50% of taxable income (as against the present Territory company tax rate of 22½%).
 
 4\. At the time of the negotiations, the Company envisaged that some 10 million tons of ore would be processed annually and production would be of the order of 200,000 tons of copper concentrate per year. Later feasibility studies have favoured a much larger scale of operations and at full production it is now planned to process some 30M tons of ore per year, with an expected annual yield in the region of 470,000 tons of copper concentrate.
 
-_Status of project_
+ _Status of project_
 
 5\. The Company says it has taken an ‘in-house’ decision to go ahead and to spend $35M in 1969 on a port, access roads, town sites and other facilities. A public announcement of a final decision to go ahead will be made later this year after completion of a detailed evaluation study and confirmation of credit arrangements. The capital structure has not yet been determined but it seems likely to be $100M equity and $200M credit. The Company has been granted a mining lease and discussions are in progress on the grant of the auxiliary leases.
 
-_Government option to equity shareholding_
+ _Government option to equity shareholding_
 
 6\. The Company does not intend to offer the Administration the 20% equity until it has made a public announcement on the future of the project. The Administration will then have six months to take up the offer. lf the offer is accepted, the Administration will be required to subscribe $20M ($10M in each of the years 1969/70 and 1970/71).
 
@@ -42,9 +47,9 @@ _Government option to equity shareholding_
 
 10\. On balance, I consider that a decision on Government equity participation should be deferred until a formal offer has been made (probably in August of this year).
 
-_Effects on the Territory economy_
+ _Effects on the Territory economy_
 
-11\. Development of the copper deposits should speed up dramatically the Territory’s progress towards economic self-reliance,2 substantially increase revenue available to the Administration and provide substantial employment and training opportunities—
+11\. Development of the copper deposits should speed up dramatically the Territory’s progress towards economic self-reliance,[2](#f2) substantially increase revenue available to the Administration and provide substantial employment and training opportunities—
 
 • By 1982, it could result in a net annual contribution of some $50M in the Territory balance of payments of goods and services.
 
@@ -56,9 +61,9 @@ _Effects on the Territory economy_
 
 • Establishment of a regional town centre of some 10,000 people (size of Rabaul) with a range of industries and services.
 
-_Proposed use of Asian workers_
+ _Proposed use of Asian workers_
 
-12\. The project will generate heavy demands for labour. On a broad estimate the peak workforce required by the Company during the 36 to 42 month construction period will be of the order of 4,000 (Attachment 1).3 This will consist of some 1,700 positions for which indigenes will be available while the remainder will require special skills which are scarce or not available in the Territory. Unrestricted competition by C.R.A. on the limited Territory labour market would result in severe disruption and unmanageable wage pressures (Attachment 11).4 Businessmen in the Territory have already complained of labour ‘poaching’ and a major assault on the Territory’s labour market by C.R.A. and the contactors associated with the construction work would be a matter for serious concern.
+12\. The project will generate heavy demands for labour. On a broad estimate the peak workforce required by the Company during the 36 to 42 month construction period will be of the order of 4,000 (Attachment 1).[3](#f3) This will consist of some 1,700 positions for which indigenes will be available while the remainder will require special skills which are scarce or not available in the Territory. Unrestricted competition by C.R.A. on the limited Territory labour market would result in severe disruption and unmanageable wage pressures (Attachment 11).[4](#f4) Businessmen in the Territory have already complained of labour ‘poaching’ and a major assault on the Territory’s labour market by C.R.A. and the contactors associated with the construction work would be a matter for serious concern.
 
 13\. The schedule for construction involves the completion of works of the order of $250M by mid-1972. The critical timing together with the special nature of much of the construction makes it impracticable for any significant part of the skilled construction workforce to be provided by a crash training programme.
 
@@ -70,13 +75,13 @@ _Proposed use of Asian workers_
 
 17\. Under the existing immigration procedures of the Territory, the importation of non-European labour is restricted to limited numbers of key workers who cannot be obtained from normal immigration sources. The policy would not extend to admission of the numbers and categories of skills required in the C.R.A. project.
 
-18\. The Company has proposed a massive training programme involving the expenditure of some $2M by 1972 (Attachment III).5 The Company has indicated that the objective of the training programme is to achieve maximum indigenisation of the project workforce as quickly as possible and discussions on the final form of the programme are still proceeding with the Company.
+18\. The Company has proposed a massive training programme involving the expenditure of some $2M by 1972 (Attachment III).[5](#f5) The Company has indicated that the objective of the training programme is to achieve maximum indigenisation of the project workforce as quickly as possible and discussions on the final form of the programme are still proceeding with the Company.
 
 19\. It is suggested that workers indentured from Asian countries are more amenable to control and discipline and would be less likely to cause serious social problems on Bougainville than large numbers of Australian or other European construction workers. This view is supported by the Administrator’s Executive Council.
 
 20\. Use of international tendering would mean reduced capital expenditures by the Company and result in substantial increases in Administration revenue from the project by way of dividends and tax receipts. At favourable copper prices, the figures at present available suggest that the additional revenue could be of the order of $7M by 1982.
 
-21\. Because of the uncertainties at this stage regarding the successful tenderers for construction work and the timing of operations on individual contracts, the Company is not in a position to provide firm details of the numbers of Asian workers that may be required. The Company is therefore seeking a general approval for the admission of Asian tradesmen and professional workers (the majority will probably be Japanese) up to a maximum_ at any one time _of 1,600 and over a period of about 36 months. The length of stay of each worker would depend on the individual contracts but would probably average less than 12 months.
+21\. Because of the uncertainties at this stage regarding the successful tenderers for construction work and the timing of operations on individual contracts, the Company is not in a position to provide firm details of the numbers of Asian workers that may be required. The Company is therefore seeking a general approval for the admission of Asian tradesmen and professional workers (the majority will probably be Japanese) up to a maximum _at any one time_ of 1,600 and over a period of about 36 months. The length of stay of each worker would depend on the individual contracts but would probably average less than 12 months.
 
 22\. It is not unlikely that the relaxation of the policy of admission of Asian workers in this case would lead to requests from other employers. Each case would have to be looked at on its merits but I do not intend that there be other relaxations of existing immigration policies unless compelling reasons exist. Because of the vast size of the Bougainville copper project, its likely effects on the Territory economy and the large training programme proposed, the C.R.A. proposal seems to me to clearly stand separate, and to be distinguishable, from other construction projects in the Territory which might seek to use Asian workers.
 
@@ -84,7 +89,7 @@ _Proposed use of Asian workers_
 
 24\. The Papua and New Guinea Administrator’s Executive Council has already been consulted in general terms on this proposal and has reacted favourably. Consideration by A.E.C. of the detailed proposals will be arranged after the views of Cabinet are available.
 
-_Recommendation_
+ _Recommendation_
 
 25\. It is recommended—
 
@@ -104,7 +109,7 @@ _Recommendation_
 
 (d) compliance with normal immigration requirements (health and character).
 
-(e) concurrence of the Administrator’s Executive Council.6
+(e) concurrence of the Administrator’s Executive Council.[6](#f6)
 
 [NAA: A586, 654]
 

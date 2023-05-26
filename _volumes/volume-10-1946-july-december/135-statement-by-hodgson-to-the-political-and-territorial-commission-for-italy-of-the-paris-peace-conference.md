@@ -1,12 +1,18 @@
 ---
-title: "135 Statement by Hodgson to the Political and Territorial Commission for Italy of the Paris Peace Conference"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3983
+doc_date: '1946-09-23'
+doc_num: 135
+doc_order: 135
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A4311
+  reference: '[AA:A4311, BOX 524]'
+title: Statement by Hodgson to the Political and Territorial Commission for Italy
+  of the Paris Peace Conference
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-09-23
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 135 Statement by Hodgson to the Political and Territorial Commission for Italy of the Paris Peace Conference
 
 CP(IT/P) Doc.75 PARIS, 23 September 1946
 
@@ -36,10 +42,10 @@ Does this mean those countries who actually did the fighting in North Africa, or
 
 11\. This principle should apply not only to this particular question, but to all unresolved disputes. The states have been convened here for the very purpose of treaty-making. Either now or at a later time it should be their responsibility and we cannot see why this question of the Italian colonies is not to be settled by them.
 
-_
+ _
 
 1 Paragraph numbering has been reproduced from the original.
 
 _
 
-_ [AA:A4311, BOX 524]_
+ _[AA:A4311, BOX 524]_

@@ -1,14 +1,17 @@
 ---
-title: "79 CABLEGRAM, AUSTRALIAN EMBASSY IN US TO CANBERRA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9944
+doc_date: '1967-07-08'
+doc_num: 79
+doc_order: 79
+naa_refs:
+- naa_barcode: 1728294
+  naa_control_symbol: TS691/1 PART 11
+  naa_series: A1838
+  reference: '[NAA:A1838, T5691/1 PART 11]'
+title: CABLEGRAM, AUSTRALIAN EMBASSY IN US TO CANBERRA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-07-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 79 CABLEGRAM, AUSTRALIAN EMBASSY IN US TO CANBERRA
-
-NAA:A1838, T5691/1 PART 11
 
 Washington, 8 July 1967
 
@@ -35,3 +38,5 @@ We would hope that you could avoid altogether the question of your posture beyon
 We hope at the very minimum that you could limit yourself to some statement that you intend to maintain significant military capabilities in the Southeast Asian area in the foreseeable future, making clear at the same time that the form this capability would take after 1970 has not been decided and must await assessment of the situation nearer to that period.
 
 Such a statement would leave you free to decide in the future what your policy would be, and it would be vastly less damaging to confidence than any firm decision—or a ‘planning assumption’ that would surely become known and would be virtually as damaging as a decision. If you adopt this course, we would be entirely ready to have our people meet with yours at the working level, and with the Australians and New Zealanders, to explore the kind of defence arrangements that might be developed beyond the 1970–71 time period. On the other hand, I note that the Tunku is already suggesting such consultations without our presence. You may prefer this approach, but if we can help in any way I assure you of our willingness to consider fully with you what defence arrangements might be worked out.’
+
+[NAA:A1838, T5691/1 PART 11]

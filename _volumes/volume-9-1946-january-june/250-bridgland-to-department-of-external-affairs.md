@@ -1,14 +1,19 @@
 ---
-title: "250 Bridgland to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3762
+doc_date: '1946-05-17'
+doc_num: 250
+doc_order: 250
+naa_refs:
+- naa_barcode: 193723
+  naa_control_symbol: PI46/10/3
+  naa_series: A1067
+  reference: '[AA:A1067, P146/10/3]'
+title: Bridgland to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-17
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 250 Bridgland to Department of External Affairs
-
-## Memorandum 291 LONDON, 17 May 1946
+Memorandum 291 LONDON, 17 May 1946
 
 On 14th May a meeting was held at the Foreign Office between representatives of the Dominions and the United Kingdom Foreign and Dominions Offices to discuss the supply of information by the United Kingdom to the Dominion Governments. It was revealed that owing to shortage of staff, particularly in the Dominions Office, and a desire to improve the Foreign Office Weekly Intelligence Summary, it has been decided to endeavour to reduce gradually the amount of background information at present included in daily Dominions Office telegrams and instead to incorporate such information which is not urgent into an improved Weekly Summary.
 
@@ -30,8 +35,8 @@ Any comments on the above which you may care to make would be appreciated.
 
 G. S. BRIDGLAND
 
-_
+ _
 
 _
 
-_ [AA:A1067, P146/10/3]_
+ _[AA:A1067, P146/10/3]_

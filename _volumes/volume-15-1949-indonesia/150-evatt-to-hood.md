@@ -1,12 +1,18 @@
 ---
-title: "150 Evatt to Hood"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6319
+doc_date: '1949-01-24'
+doc_num: 150
+doc_order: 150
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA : A3196, O1025]'
+title: Evatt to Hood
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-24
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 150 Evatt to Hood
 
 Cablegram 44 CANBERRA, 24 January 1949, 2.30 p.m.
 
@@ -22,7 +28,7 @@ One important principle is reference to the General Assembly which can and shoul
 
 4\. I expect a personal report in reply.
 
-_
+ _
 
 1 Document 144 2 Document 142.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA : A3196, O1025]_
+ _[AA : A3196, O1025]_

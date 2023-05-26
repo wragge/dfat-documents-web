@@ -1,12 +1,17 @@
 ---
-title: "21 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1252
+doc_date: '1940-07-09'
+doc_num: 21
+doc_order: 21
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1940[0.]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-09
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 21 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 9 July 1940,
 
@@ -16,7 +21,7 @@ Sir Geoffrey Whiskard [1] has conveyed to me a request from the British Governme
 
 MENZIES
 
-_
+ _
 
 1 U.K. Hgh Commissioner in Australia. Whiskard's letter (dated 1 July)is on file AA:A461, A703/1/2.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA: A3196, 1940[0.] [3] 4584]_
+ _[AA: A3196, 1940[0.] [3] 4584]_

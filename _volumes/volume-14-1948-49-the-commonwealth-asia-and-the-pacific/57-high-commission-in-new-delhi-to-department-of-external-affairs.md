@@ -1,14 +1,20 @@
 ---
-title: "57 High Commission in New Delhi to Department of External Affairs"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5833
+doc_date: '1948-02-26'
+doc_num: 57
+doc_order: 57
+naa_refs:
+- naa_barcode: 637870
+  naa_control_symbol: A6/1/1
+  naa_series: A5009
+  reference: '[AA: A5009/2, A/6/1/1]'
+title: High Commission in New Delhi to Department of External Affairs
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-02-26
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
 
-# 57 High Commission in New Delhi to Department of External Affairs
-
-## Cablegram 95 NEW DELHI, 26 February 1948
+Cablegram 95 NEW DELHI, 26 February 1948
 
 The draft constitution published today describes India as a sovereign republic but in a footnote, (which seems to be intended to obtain public reactions), the draft constitution explains that the future relationship between the republic and the British Commonwealth remains to be decided subsequently.
 
@@ -38,8 +44,8 @@ No date has been specified for the coming into operation of the constitution.
 
 The draft will probably be debated in May. Copy by bag.
 
-_
+ _
 
 _
 
-_ [AA: A5009/2, A/6/1/1]_
+ _[AA: A5009/2, A/6/1/1]_

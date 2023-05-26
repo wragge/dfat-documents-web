@@ -1,12 +1,17 @@
 ---
-title: "56 Evatt to Beasley and Makin"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3568
+doc_date: '1946-01-26'
+doc_num: 56
+doc_order: 56
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 TI, SPTS/1/4]'
+title: Evatt to Beasley and Makin
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-26
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 56 Evatt to Beasley and Makin
 
 Cablegram UND12 CANBERRA, 26 January 1946
 
@@ -18,10 +23,10 @@ I am sure that Peter Fraser will appreciate the supreme importance and significa
 
 It would be most helpful if the Conference could be held in Australia.
 
-_
+ _
 
 1 Document 55.
 
 _
 
-_ [AA:A6494 TI, SPTS/1/4]_
+ _[AA:A6494 TI, SPTS/1/4]_

@@ -1,12 +1,17 @@
 ---
-title: "62 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 828
+doc_date: '1940-02-06'
+doc_num: 62
+doc_order: 62
+naa_refs:
+- naa_barcode: 242490
+  naa_control_symbol: 1940 JAN-JUN
+  naa_series: M103
+  reference: '[AA: M103, JANUARY-JUNE 1940]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-06
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 62 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Letter LONDON, 6 February 1940
 
@@ -28,7 +33,7 @@ It is because I hold this view that I feel so strongly that we should declare ou
 
 [S. M. BRUCE]
 
-_ 1 This letter and enclosure were dispatched by air mail (see last sentence of Document 37) and have been placed in this collection on the assumption that they were received in Canberra some ten days after dispatch.
+ _1 This letter and enclosure were dispatched by air mail (see last sentence of Document 37) and have been placed in this collection on the assumption that they were received in Canberra some ten days after dispatch.
 
 2 Document 37.
 
@@ -126,4 +131,4 @@ The adoption of this proposal would secure a trained international secretariat f
 
 _
 
-_ [AA: M103, JANUARY-JUNE 1940]_
+ _[AA: M103, JANUARY-JUNE 1940]_

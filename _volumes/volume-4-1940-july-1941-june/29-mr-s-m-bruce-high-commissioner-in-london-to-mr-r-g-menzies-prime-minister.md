@@ -1,14 +1,19 @@
 ---
-title: "29 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1260
+doc_date: '1940-07-18'
+doc_num: 29
+doc_order: 29
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1940, 1.5624]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-18
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 29 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram 576 LONDON, 18 July 1940, 11.58 p.m.
+Cablegram 576 LONDON, 18 July 1940, 11.58 p.m.
 
 IMMEDIATE FOR THE PRIME MINISTER HIMSELF
 
@@ -28,7 +33,7 @@ Repeated to Washington.
 
 BRUCE
 
-_
+ _
 
 1 A report from Sir Robert Craigie U.K. Ambassador to Japan, that an agreement on the Burma Road had just been completed with the Yonai Govt was transmitted in Bruce's cablegram 563, dispatched from London at 3.30 p.m. on 17 July. See file CAA: M100, July 1940.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA: A3195, 1940, 1.5624]_
+ _[AA: A3195, 1940, 1.5624]_

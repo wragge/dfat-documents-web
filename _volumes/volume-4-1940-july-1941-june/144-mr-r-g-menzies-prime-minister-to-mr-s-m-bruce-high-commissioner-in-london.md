@@ -1,12 +1,17 @@
 ---
-title: "144 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1375
+doc_date: '1940-09-29'
+doc_num: 144
+doc_order: 144
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3 196, 1940, 0.7157]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-29
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 144 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 29 September 1940,
 
@@ -16,10 +21,10 @@ We are very disturbed in regard to the Dakar incident which has had unfortunate 
 
 MENZIES
 
-_
+ _
 
 1 Winston S. Churchill.
 
 _
 
-_ [AA:A3 196, 1940, 0.7157]_
+ _[AA:A3 196, 1940, 0.7157]_

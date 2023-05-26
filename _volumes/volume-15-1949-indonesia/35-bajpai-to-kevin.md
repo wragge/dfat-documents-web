@@ -1,14 +1,20 @@
 ---
-title: "35 Bajpai to Kevin"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6204
+doc_date: '1949-01-06'
+doc_num: 35
+doc_order: 35
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Bajpai to Kevin
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-06
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 35 Bajpai to Kevin
-
-## Letter NEW DELHI, 6 January 1949
+Letter NEW DELHI, 6 January 1949
 
 Kindly refer to your letter F. No.37/23/2 dated the 6th of January [1], which you left with me today. I have shown it to the Prime Minister, who would be grateful if you could convey the following message from him to Mr. Chifley-
 
@@ -18,10 +24,10 @@ Kindly refer to your letter F. No.37/23/2 dated the 6th of January [1], which yo
 
 p.s. Egypt is also now a member of the Security Council but we have invited her because of her close ties with Asia.
 
-_
+ _
 
 1 In this letter Kevin conveyed to Bajpai the terms of Chifley's acceptance of Nehru's invitation to Australia to attend the Asian Conference in New Delhi (see Document 25).
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

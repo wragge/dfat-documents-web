@@ -1,12 +1,19 @@
 ---
-title: "30 Memorandum from Webb to Department of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8900
+doc_date: '1979-10-11'
+doc_num: 30
+doc_order: 30
+naa_refs:
+- naa_barcode: 1509869
+  naa_control_symbol: 370/1/19/18 PART 8
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19118, viii]'
+title: Memorandum from Webb to Department of Foreign Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-10-11
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 30 Memorandum from Webb to Department of Foreign Affairs
 
 Wellington, 11 October 1979
 
@@ -26,7 +33,7 @@ Attached is a copy of the joint paper of the New Zealand Manufacturers' Federati
   * There would be need for continuing political independence in decision-making on external protective tariff barriers and internal economic policies.
   * A firm's profitability should be more important than its size. Quantitative Restrictions [QR] should be regarded as objectionable and it was essential that no further increases should be allowed.
   * Adjustment assistance should be available for industries where injury is incurred as a result of expanding trade between the two countries.
-  * NAFTA as a document should provide an existing framework for achieving the common objective of freer trade. One option would be to establish an interim schedule similar to Schedule B1 onto which transferral was compulsory and which provided for a phased program of dismantling tariffs and reducing QRs, so that after a pre-determined period of time the item could be transferred to Schedule A (re-defined as a Schedule covering items with unrestricted duty free trade). The paper notes that a careful use of area content would be needed to minimize trade deflection and trade diversion. Reductions in QRs would be applied across-the-board as a fixed percentage of the domestic market. Levels above that would need to be negotiated.
+  * NAFTA as a document should provide an existing framework for achieving the common objective of freer trade. One option would be to establish an interim schedule similar to Schedule B[1](#f1) onto which transferral was compulsory and which provided for a phased program of dismantling tariffs and reducing QRs, so that after a pre-determined period of time the item could be transferred to Schedule A (re-defined as a Schedule covering items with unrestricted duty free trade). The paper notes that a careful use of area content would be needed to minimize trade deflection and trade diversion. Reductions in QRs would be applied across-the-board as a fixed percentage of the domestic market. Levels above that would need to be negotiated.
   * A limited free trade area, full free trade area, customs union, common market, economic union, political union are all briefly discussed.
 
 
@@ -37,8 +44,6 @@ Nevertheless the overall tenor of the paper appears to be more progressive than 
 
 4\. The Senior Trade Commissioner, Mr Gates, has seen a copy of this memo.
 
-_[NAA: A1838, 37011/19118, viii]_
+ _[NAA: A1838, 37011/19118, viii]_
 
-  * 1Schedule B of the NAFTA was established in 1973 as an intermediate arrangement to provide for partial participation in free trade provisions 'by way of quotes or duty free schedules on the basis of partial reciprocity'. No obligation to transfer to Schedule A was implied. By 1979 the furniture industry was the only industry operating a Schedule B agreement. 
-
-
+  * 1Schedule B of the NAFTA was established in 1973 as an intermediate arrangement to provide for partial participation in free trade provisions 'by way of quotes or duty free schedules on the basis of partial reciprocity'. No obligation to transfer to Schedule A was implied. By 1979 the furniture industry was the only industry operating a Schedule B agreement.

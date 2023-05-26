@@ -1,20 +1,23 @@
 ---
-title: "78 LETTER, LEE KUAN YEW TO HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9943
+doc_date: '1967-07-06'
+doc_num: 78
+doc_order: 78
+naa_refs:
+- naa_barcode: 1728294
+  naa_control_symbol: TS691/1 PART 11
+  naa_series: A1838
+  reference: '[NAA: Al838, T5691/1 PART 11]'
+title: LETTER, LEE KUAN YEW TO HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-07-06
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 78 LETTER, LEE KUAN YEW TO HOLT
-
-NAA: Al838, T5691/1 PART 11
 
 Singapore, 6 July 1967
 
 Secret
 
-I received your letter 16th June, 1967, on 21st June, in London. My colleague Goh Keng Swee1 was briefed by W. B. Pritchett of your External Affairs Department in Singapore before joining me. I found your letter and the briefing and a further discussion with Tom Critchley in London most valuable for the discussions which followed.
+I received your letter 16th June, 1967, on 21st June, in London. My colleague Goh Keng Swee[1](#f1) was briefed by W. B. Pritchett of your External Affairs Department in Singapore before joining me. I found your letter and the briefing and a further discussion with Tom Critchley in London most valuable for the discussions which followed.
 
 I have given Tom Critchley on Saturday, 1st July, a resume of the discussions. To sum up the position I can do no better than to quote what Dick Crossman, Leader of the House, said to me after an hour demonstrating his tough-minded approach to Britain’s problems. ‘My point of view is winning on the ground, amongst the rank and file and the back-benchers. But with all your reasonable talk and playing up to the sentiments of the British people, I am a minority in the Cabinet. For the time being you will have your way. But I shall win in the end.’
 
@@ -27,7 +30,7 @@ Flattering though he may sound, unfortunately, I do not believe we will have our
 
 
 
-A continuing British presence as against a continuing British capability is what is required. But as of now, this is about as far as Denis Healey, Bert Bowden, or Harold Wilson will go. I do not believe Harold Wilson wants to throw away his options. It is not in his nature to do this. But a number of his Cabinet colleagues, and ex-Ministers like Christopher Mayhew, together with a highly intelligent and articulate group of backbenchers, economists and accountants, a number of whom are on the Public Accounts Committee,2 are most anxious to close these options for the present and subsequent British Governments. They have more than a suspicion that if and when the British economy picks up, they will never be able to pin Harold Wilson down again as they can now. We must hope that the British Government can leave these options open and that there are no further grave pressures on the British economy.
+A continuing British presence as against a continuing British capability is what is required. But as of now, this is about as far as Denis Healey, Bert Bowden, or Harold Wilson will go. I do not believe Harold Wilson wants to throw away his options. It is not in his nature to do this. But a number of his Cabinet colleagues, and ex-Ministers like Christopher Mayhew, together with a highly intelligent and articulate group of backbenchers, economists and accountants, a number of whom are on the Public Accounts Committee,[2](#f2) are most anxious to close these options for the present and subsequent British Governments. They have more than a suspicion that if and when the British economy picks up, they will never be able to pin Harold Wilson down again as they can now. We must hope that the British Government can leave these options open and that there are no further grave pressures on the British economy.
 
 My worry is not this time. Already there have been three Defence White Papers. As I told Harold Wilson, if any reliance on Britain’s solemn statements of intentions was not to disappear, there must be some finality in this matter.
 
@@ -42,3 +45,5 @@ I have written with candour, for if our own co-operation is to grow in mutual tr
 1  Singapore Defence Minister, 1965–67.
 
 2  A committee of Members of Parliament which examines whether sums of money for public spending agreed by Parliament have been properly spent.
+
+[NAA: Al838, T5691/1 PART 11]

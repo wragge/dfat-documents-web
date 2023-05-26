@@ -1,22 +1,27 @@
 ---
-title: "90 Submission, Gutman To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9598
+doc_date: '1967-02-09'
+doc_num: 90
+doc_order: 90
+naa_refs:
+- naa_barcode: 12041353
+  naa_control_symbol: 1967/1333
+  naa_series: A452
+  reference: '[NAA: A452, 1967/1333]'
+title: Submission, Gutman To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-02-09
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 90 Submission, Gutman To Barnes
 
 Canberra, 9 February 1967
 
-**Bougainville copper—notes for visit of Sir Maurice Mawby**
+ **Bougainville copper—notes for visit of Sir Maurice Mawby**
 
 Attached are notes covering matter which may be raised in your proposed discussions with Sir Maurice Maw by on Tuesday, 14th February.
 
-**Attachment**
+ **Attachment**
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 Background
 
@@ -80,6 +85,6 @@ Overseas Tax Precedents
 
 ’ Middle East oil and bauxite mining in Jamaica, Surinam and Sierra Leone
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 [NAA: A452, 1967/1333]

@@ -1,12 +1,17 @@
 ---
-title: "155 D'Alton to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2802
+doc_date: '1944-05-18'
+doc_num: 155
+doc_order: 155
+naa_refs:
+- naa_barcode: 745848
+  naa_control_symbol: 1944/WELLINGTON PART 1
+  naa_series: A4231
+  reference: '[AA:A4231, WELLINGTON, 1943-44]'
+title: D'Alton to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 155 D'Alton to Evatt
 
 Dispatch 44/1/38 WELLINGTON, 18 May 1944
 
@@ -50,7 +55,7 @@ There is no need for this body to cut across existing channels of communication 
 
 TOM D'ALTON
 
-_
+ _
 
 1 Document 26.
 
@@ -72,4 +77,4 @@ _
 
 _
 
-_ [AA:A4231, WELLINGTON, 1943-44]_
+ _[AA:A4231, WELLINGTON, 1943-44]_

@@ -1,18 +1,25 @@
 ---
-title: "96 Record of Meeting between Commonwealth and State Governments"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8966
+doc_date: '1980-04-22'
+doc_num: 96
+doc_order: 96
+naa_refs:
+- naa_barcode: 1509875
+  naa_control_symbol: 370/1/19/18 PART 17
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, xvii]'
+title: Record of Meeting between Commonwealth and State Governments
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-04-22
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 96 Record of Meeting between Commonwealth and State Governments
+Canberra, 22 April 1980
 
-## Canberra, 22 April 1980
+## Commonwealth/State Meeting on the Future Australian - New Zealand Trade and Economic Relationship, Canberra, 15 April 1980[(1)](#f1)
 
-## Commonwealth/State Meeting on the Future Australian - New Zealand Trade and Economic Relationship, Canberra, 15 April 1980(1)
-
-The meeting was chaired by Dr V. FitzGerald (PM&amp;C)-a list of persons present at the meeting is attached. (N[orthem] T[erritory] was unable to send a representative.)
+The meeting was chaired by Dr V. FitzGerald (PM&C)-a list of persons present at the meeting is attached. (N[orthem] T[erritory] was unable to send a representative.)
 
 ### Dr FitzGerald
 
@@ -97,8 +104,6 @@ Response: These studies have a much longer time frame than the other studies. Th
 
 Dr FitzGerald thanked the States for attending and reiterated that further discussions of this kind may well be necessary when the States and the Commonwealth had progressed their examination of this matter.
 
-_[NAA: A1838, 370/1119/18, xvii]_
+ _[NAA: A1838, 370/1119/18, xvii]_
 
-  * 1 The record of meeting was prepared by Trade Branch, Prime Minister and Cabinet. 
-
-
+  * 1 The record of meeting was prepared by Trade Branch, Prime Minister and Cabinet.

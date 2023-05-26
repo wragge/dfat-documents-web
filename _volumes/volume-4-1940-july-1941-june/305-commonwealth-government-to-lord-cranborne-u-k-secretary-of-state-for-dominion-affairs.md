@@ -1,12 +1,18 @@
 ---
-title: "305 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1536
+doc_date: '1941-02-17'
+doc_num: 305
+doc_order: 305
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941, 0.2030]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-17
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 305 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 100 17 February 1941,
 
@@ -38,7 +44,7 @@ In my telegram No. 587 of 14th November [4] agreeing to introduction of ship war
 
 In the absence of information requested and also reasons for change in policy we hesitate to comply with your request. Would appreciate your earliest possible clarification of whole position and your views on points raised by this cable.
 
-_
+ _
 
 1 On file AA:A816, 19/307/77.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [AA:A3196, 1941, 0.2030]_
+ _[AA:A3196, 1941, 0.2030]_

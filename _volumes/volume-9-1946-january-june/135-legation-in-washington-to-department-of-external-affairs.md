@@ -1,12 +1,17 @@
 ---
-title: "135 Legation in Washington to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3647
+doc_date: '1946-03-19'
+doc_num: 135
+doc_order: 135
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 TI, SPTS/1/4]'
+title: Legation in Washington to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-19
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 135 Legation in Washington to Department of External Affairs
 
 Cablegram 316 WASHINGTON, 19 March 1946, 10.46 p.m.
 
@@ -38,7 +43,7 @@ It appears that the Americans are particularly anxious to secure early agreement
 
 The United Kingdom representatives here state they see many advantages in the joint use of bases which they consider would give the United States Navy a stake in the South-west Pacific. On the other hand, they are concerned at the request for exclusive use of Canton, Christmas and Funafuti and see many difficulties in reconciling the American proposal with the trusteeship arrangements and commitments to U.N.O. They state that, for these reasons, they have simply listened to the United States proposals and have attempted to clarify them, without themselves expressing any views. I understand, however, that [at] a meeting to-day (Tuesday) the United Kingdom representatives intend to test the United States reaction to suggestion that joint use of bases might be achieved by an informal understanding supplemented by the formal agreement giving the United States the right to use the bases for civil aviation purposes. It should be clearly understood that this is a low level feeler only and not an official United Kingdom proposal.
 
-_
+ _
 
 1 Document 120.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:A6494 TI, SPTS/1/4]_
+ _[AA:A6494 TI, SPTS/1/4]_

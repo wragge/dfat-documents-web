@@ -1,14 +1,19 @@
 ---
-title: "284 Makin to Evatt"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4132
+doc_date: '1946-12-07'
+doc_num: 284
+doc_order: 284
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A4311
+  reference: '[AA:A4311, BOX 481]'
+title: Makin to Evatt
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-07
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 284 Makin to Evatt
-
-## Cablegram UN937 NEW YORK, 7 December 1946
+Cablegram UN937 NEW YORK, 7 December 1946
 
 MOST IMMEDIATE
 
@@ -34,7 +39,7 @@ With regard to the procedure to be adopted hereafter in respect of territories u
 
 7\. We will advise you immediately of any later developments here.
 
-_
+ _
 
 1 Also numbered UN930. See Document 286, note 1.
 
@@ -44,4 +49,4 @@ Cablegram UN954 of 8 December conveyed an amended U.S. text based on that contai
 
 _
 
-_ [AA:A4311, BOX 481]_
+ _[AA:A4311, BOX 481]_

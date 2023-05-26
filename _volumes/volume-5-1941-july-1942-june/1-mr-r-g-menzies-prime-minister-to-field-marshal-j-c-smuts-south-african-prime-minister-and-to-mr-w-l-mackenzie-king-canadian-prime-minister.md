@@ -1,11 +1,18 @@
 ---
-title: "1 Mr R. G. Menzies, Prime Minister, to Field Marshal J. C. Smuts, South African Prime Minister, and to Mr W L. Mackenzie King, Canadian Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1754
+doc_date: '1941-07-03'
+doc_num: 1
+doc_order: 1
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA : A3196, 1941, 0.9131-2]'
+title: Mr R. G. Menzies, Prime Minister, to Field Marshal J. C. Smuts, South African
+  Prime Minister, and to Mr W L. Mackenzie King, Canadian Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 1 Mr R. G. Menzies, Prime Minister, to Field Marshal J. C. Smuts, South African Prime Minister, and to Mr W L. Mackenzie King, Canadian Prime Minister
 
 Cablegram 46/2 [1] CANBERRA, 3 July [1941]
 
@@ -189,9 +196,9 @@ Marshal Smuts.
 
 MENZIES
 
-_
+ _
 
-1 Repeated to the High Commissioner in the United Kingdom as no 
+1 Repeated to the High Commissioner in the United Kingdom as no
 
 3465.
 
@@ -249,7 +256,7 @@ of External Affairs, Ottawa, 1974, Document 588.
 
 _
 
-_
+ _
 
 [AA : A3196, 1941, 0.9131-2]
 

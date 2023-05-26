@@ -1,12 +1,17 @@
 ---
-title: "264 Bruce to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2911
+doc_date: '1944-08-31'
+doc_num: 264
+doc_order: 264
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS, FROM BRUCE, 1.31584]'
+title: Bruce to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-31
+vol_title: 'Volume 7: 1944'
 ---
-
-# 264 Bruce to Evatt
 
 Cablegram S25 LONDON, 31 August 1944, 7.20 p.m.
 
@@ -30,7 +35,7 @@ The position is deplorable but if handled with patience, I believe, may be resol
 
 BRUCE
 
-_ 1.31584]
+ _
 
 1 Document 261.
 
@@ -52,4 +57,4 @@ _ 1.31584]
 
 _
 
-_ [AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS, FROM BRUCE,_
+ _[AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS, FROM BRUCE, 1.31584]_

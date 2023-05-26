@@ -1,12 +1,17 @@
 ---
-title: "277 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2924
+doc_date: '1944-09-12'
+doc_num: 277
+doc_order: 277
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1821]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 277 Cranborne to Commonwealth Government
 
 Cablegram 239 [1] LONDON, 12 September 1944, 10 p.m.
 
@@ -40,7 +45,7 @@ Avoidance of express provisions on either point offers in our view a better pros
 
 10\. Your (10). We have very much in mind need for consultation of secondary states and for ensuring that they enjoy their due share of responsibility and representation both in world organisation and in ancillary bodies.
 
-_
+ _
 
 1 Repeated to the N.Z. Govt as no. 190, and to Cadogan in Washington from Eden.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 1821]_
+ _[AA:A5954, BOX 1821]_

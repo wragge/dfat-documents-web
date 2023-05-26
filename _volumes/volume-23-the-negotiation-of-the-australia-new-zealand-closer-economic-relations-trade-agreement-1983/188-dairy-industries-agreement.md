@@ -1,14 +1,21 @@
 ---
-title: "188 Dairy Industries Agreement"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9057
+doc_date: '1982-04-13'
+doc_num: 188
+doc_order: 188
+naa_refs:
+- naa_barcode: 11558961
+  naa_control_symbol: 1982/2479 PART 4
+  naa_series: A1313
+  reference: '[NAA: A13/113, 82/2479, iv]'
+title: Dairy Industries Agreement
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-04-13
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 188 Dairy Industries Agreement
-
-## 13 April 1982
+13 April 1982
 
 ## Australia- New Zealand Closer Economic Relations
 
@@ -47,7 +54,7 @@ doc_date: 1982-04-13
     8. Both industries acknowledge the principle of preferred supplier in the event of a domestic shortfall. The continuing process of consultation and exchange of production and marketing information should facilitate the achievement of this objective to the extent possible.
     9. Consistent with the increasing degree of co-operation between the two countries, which is envisaged in the CER, the JICC would like to see more specific action by the New Zealand Dairy Board and the Australian Dairy Corporation to develop further co-operation in international markets, in the interests of optimising returns to the industries in both countries.
     10. Consultation between the Board and the Corporation on the advice which they offer to their respective Governments on international dairy trade policy issues, and in combating agricultural protectionism and export dumping, is of considerable value and will continue.
-    11. The industries in both countries attach great importance to their respective domestic arrangements, which can influence the size and structure of the industries in each country. Within this context, both industries agree to consult in regard to domestic policies.1
+    11. The industries in both countries attach great importance to their respective domestic arrangements, which can influence the size and structure of the industries in each country. Within this context, both industries agree to consult in regard to domestic policies.[1](#f1)
 
 
 
@@ -55,8 +62,6 @@ doc_date: 1982-04-13
 
 (M. L. VAWSER) On behalf of Australian Delegation
 
-_[NAA: A13/113, 82/2479, iv]_
+ _[NAA: A13/113, 82/2479, iv]_
 
   * 1 The file copy is endorsed with the words, 'This is the final version signed by the 2 industries'. The Australian Dairy Corporation forwarded it to Nixon under cover of a letter dated 7 May 1982.
-
-

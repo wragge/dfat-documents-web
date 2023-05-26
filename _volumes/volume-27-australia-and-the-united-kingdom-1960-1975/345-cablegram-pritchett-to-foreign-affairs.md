@@ -1,14 +1,17 @@
 ---
-title: "345 CABLEGRAM, PRITCHETT TO FOREIGN AFFAIRS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10211
+doc_date: '1972-11-20'
+doc_num: 345
+doc_order: 345
+naa_refs:
+- naa_barcode: 552872
+  naa_control_symbol: 67/1/3 PART 6
+  naa_series: A1838
+  reference: '[NAA: A1838, 67/1/3 PART 6]'
+title: CABLEGRAM, PRITCHETT TO FOREIGN AFFAIRS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 345 CABLEGRAM, PRITCHETT TO FOREIGN AFFAIRS
-
-NAA: A1838, 67/1/3 PART 6
 
 Australian High Commission, London, 20 November 1972
 
@@ -22,7 +25,7 @@ All newspapers were carrying Sir Max’s ‘Defence of the relationship between 
 
 Australians have previously believed that no–one in Britain cared: ‘now Sir Max has changed all that’.
 
-The report also refers to a Labour attack on the Prime Minister for failing to put Australia’s case more strongly in Britain, as well as the failure to appoint a new High Commissioner in London. 1
+The report also refers to a Labour attack on the Prime Minister for failing to put Australia’s case more strongly in Britain, as well as the failure to appoint a new High Commissioner in London. [1](#f1)
 
 The report says that from next year it is planned to increase assisted passage fares for British immigrants from 10 PDS STG to 32 PDS STG, and that if Labour wins the elections, the assisted passage scheme will end and give way to a system of bringing in relatives of British migrants.
 
@@ -36,7 +39,7 @@ It calls on Mr Heath to eliminate impediments to Australians entering the United
 
 5\. The ‘Sunday Express’ of the 19th November reported that the Labour Party, if it wins the election, would seriously consider imposing restrictions on United Kingdom citizens similar to those operating on Australians in Britain.
 
-It quotes Senator Willesee2 as saying: ‘We have a situation where Australian entertainers cannot get work permits in Britain, but British entertainers can come here as they please. Australia has to think seriously of imposing similar restrictions to those of the British’.
+It quotes Senator Willesee[2](#f2) as saying: ‘We have a situation where Australian entertainers cannot get work permits in Britain, but British entertainers can come here as they please. Australia has to think seriously of imposing similar restrictions to those of the British’.
 
 6\. The ‘Sunday Express’ [...] again compares the position of ‘foreigners from Europe’ with that of ‘our kith and kin from the Commonwealth’, and insists that the doors should be kept open to people of the old Commonwealth.
 
@@ -62,7 +65,7 @@ The Guardian also refers to Labour opposition to the new rules, which are said t
 
 However; the Government is said to be confident of obtaining approval of the rules, perhaps with a reduced majority. [...]
 
-The Telegraph refers to the position of Mr Brian Harrison MP (Conservative),3 an Australian, who is said to feel strong distaste against an immigration policy which strictly regulates the entry of Australians and grants them less favourable treatment than EEC nationals.
+The Telegraph refers to the position of Mr Brian Harrison MP (Conservative),[3](#f3) an Australian, who is said to feel strong distaste against an immigration policy which strictly regulates the entry of Australians and grants them less favourable treatment than EEC nationals.
 
 The report concludes that ‘broadly Australians accept our reasons for entering Europe, but not our reasons for wanting to keep them out of Britain’.
 
@@ -79,3 +82,5 @@ Goodhart challenges this approach as reflecting not only an outmoded doctrine of
 2 Donald Robert ’Don’ Willesee, Senator for Western Australia, Special Minister of State, and Minister Assisting the Prime Minister and Minister Assisting the Minister for Foreign Affairs, second Whitlam Ministry, 1972–73.
 
 3 Brian Clark Harrison, farmer and estate manager, who migrated to Britain 1951; Conservative Member for Maldon, 1955–74. 
+
+[NAA: A1838, 67/1/3 PART 6]

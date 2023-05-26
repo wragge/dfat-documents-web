@@ -1,19 +1,23 @@
 ---
-title: "60 Cabinet Decision No. 458"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9568
+doc_date: '1966-08-15'
+doc_num: 60
+doc_order: 60
+naa_refs:
+- naa_barcode: 1807541
+  naa_control_symbol: '387'
+  naa_series: A5841
+  reference: '[NAA: A5841, 387]'
+title: Cabinet Decision No. 458
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-08-15
-barcode: 1807541
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 60 Cabinet Decision No. 458
 
 Canberra, 15 August 1966
 
 Confidential
 
-**Submission No. 387—Proposed Japanese participation in oil exploration and development in Papua and New Guinea1**
+ **Submission No. 387—Proposed Japanese participation in oil exploration and development in Papua and New Guinea[1](#f1)**
 
 The Cabinet approved the basic proposals of the Submission that Asian capital investment in Papua and New Guinea in the oil search and development industry be permitted and that Australian Aquitaine Petroleum Pty. Ltd. be authorized to enter into a joint working agreement with Japan Petroleum Exploration Company Ltd. for oil exploration and development. However, the Cabinet went on from this approval to an enunciation of a general principle relating to foreign, whether Asian or other foreign, participation in oil exploration and development in Papua and New Guinea.
 
@@ -29,10 +33,10 @@ The Cabinet approved the basic proposals of the Submission that Asian capital in
 
 5\. It is not proposed that any general announcement of the principle set out in paragraph 4 should be made but it will of course need to be mentioned in the message of approval to Australian Aquitaine.
 
-6\. The discussion led also to the point that it would be important to check at this stage whether any additional stipulations should be brought into effect now so that at any time at which oil may be discovered the Administration is in a position to impose conditions about mining and/or refining which it considers necessary. This review should include the practicability of stipulations regarding Territory equity participation.2
+6\. The discussion led also to the point that it would be important to check at this stage whether any additional stipulations should be brought into effect now so that at any time at which oil may be discovered the Administration is in a position to impose conditions about mining and/or refining which it considers necessary. This review should include the practicability of stipulations regarding Territory equity participation.[2](#f2)
 
-[ [NAA: A5841, 387](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1807541) ]
+[NAA: A5841, 387]
 
 1  Document 57. 
 
-2  On 19 October, Cabinet also approved Japanese participation in the Territory’s steel shipbuilding and repair industry (see NAA: A5891, 506). 
+2  On 19 October, Cabinet also approved Japanese participation in the Territory’s steel shipbuilding and repair industry (see NAA: A5891, 506).

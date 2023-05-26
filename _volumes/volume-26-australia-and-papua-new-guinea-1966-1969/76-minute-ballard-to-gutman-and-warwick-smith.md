@@ -1,31 +1,35 @@
 ---
-title: "76 Minute, Ballard To Gutman And Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9584
+doc_date: '1966-10-24'
+doc_num: 76
+doc_order: 76
+naa_refs:
+- naa_barcode: 12030516
+  naa_control_symbol: 1966/2475
+  naa_series: A452
+  reference: '[NAA: A452, 1966/2475]'
+title: Minute, Ballard To Gutman And Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-10-24
-barcode: 12030516
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 76 Minute, Ballard To Gutman And Warwick Smith
 
 Canberra, 24 October 1966
 
-**Bougainville**
+ **Bougainville**
 
-The Minister saw the Apostolic Delegate1 in [the] Sydney Office on 21st October.2
+The Minister saw the Apostolic Delegate[1](#f1) in [the] Sydney Office on 21st October.[2](#f2)
 
 2\. The Minister started by explaining the background of his present concern over the activities of the Bishop in Bougainville. The Archbishop agreed that the situation was dangerous and asked whether it would not be possible for the Government to move from its position so that a compromise solution might be sought. The Minister said that the Government had already done this and he thought the compromise reached in the last House of Assembly would have been accepted had it not been for the intervention of Bishop Lemay and some of his priests.
 
 3\. The Archbishop seemed generally sympathetic with the Government’s approach to the substance of the matter but said there was little he could do to direct Bishop Lemay; he could only counsel. What he had in mind would be to suggest a meeting of all the Bishops of New Guinea in order that their combined influence could be brought to bear. This could not, however, be brought about before the House of Assembly met in November.
 
-4\. In view of the time element the Archbishop said he would write to both Bishop Lemay and Bishop Copas.3 The letter to Bishop Lemay would not refer to an approach by the Minister but would express his concern at the various publications he had seen, particularly the South Pacific Post,4 on his return to Australia. He would point out that this attitude might lead to violence if the House of Assembly refused to accept Lapun’s Bill. The letter to Bishop Copas would seek his views and advice generally. When the Archbishop had received replies he would write to the Minister again.
+4\. In view of the time element the Archbishop said he would write to both Bishop Lemay and Bishop Copas.[3](#f3) The letter to Bishop Lemay would not refer to an approach by the Minister but would express his concern at the various publications he had seen, particularly the South Pacific Post,[4](#f4) on his return to Australia. He would point out that this attitude might lead to violence if the House of Assembly refused to accept Lapun’s Bill. The letter to Bishop Copas would seek his views and advice generally. When the Archbishop had received replies he would write to the Minister again.
 
 5\. While the meeting was definitely worthwhile in that the Apostolic Delegate has heard, and appreciates, the Government’s view the Minister doubts whether his intervention will have more than a restraining influence upon Bishop Lemay.
 
 6\. After the meeting I mentioned to the Minister the possibility of asking the American Embassy whether pressure could not be placed upon Bishop Lemay’s Mission headquarters in the U.S.A. The Minister asked that this should be pursued and I am taking this up with the Department of External Affairs.
 
-[ [NAA: A452, 1966/2475](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=12030516) ]
+[NAA: A452, 1966/2475]
 
 1  Archbishop Dominica Enrici, Apostolic Delegate for Australia and Oceania. 
 
@@ -33,4 +37,4 @@ The Minister saw the Apostolic Delegate1 in [the] Sydney Office on 21st October.
 
 3  Virgil Copas, Roman Catholic Bishop of Port Moresby. 
 
-4  Lemay’s defence of the Bougainvillean ‘right to speak’—and against what he termed the Administration’s attitude of ‘We pay; so please do what you are told’ (_South Pacific Post_, 23 November 1966, NAA: A452, 1966/5530)—created controversy in the Territory, and was liberally reported in the _South Pacific Post_ (see, for example, excerpts from 18 and 25 November 1966, ibid.). 
+4  Lemay’s defence of the Bougainvillean ‘right to speak’—and against what he termed the Administration’s attitude of ‘We pay; so please do what you are told’ ( _South Pacific Post_ , 23 November 1966, NAA: A452, 1966/5530)—created controversy in the Territory, and was liberally reported in the _South Pacific Post_ (see, for example, excerpts from 18 and 25 November 1966, ibid.).

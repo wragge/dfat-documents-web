@@ -1,14 +1,19 @@
 ---
-title: "35 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1789
+doc_date: '1941-08-08'
+doc_num: 35
+doc_order: 36
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA : A3196, 1941, 0.11482]'
+title: Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-08
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 35 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
-
-## Cablegram unnumbered CANBERRA, 8 August 1941
+Cablegram unnumbered CANBERRA, 8 August 1941
 
 (To be re-transmitted from London to Mr. Churchill immediately.) Delighted to know that this meeting between yourself and Roosevelt is taking place. [1] It will have stimulating effect all over the world. You will I think have a great opportunity of influencing his mind in the direction of dramatic action. My own impression in America was that the natural process of developing public opinion had gone about as far as it would and that the next stage depended on Roosevelt whose personal prestige would assure him a majority for any vigorous course. If this is right you of all men can give him what he needs.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA : A3196, 1941, 0.11482]_
+ _[AA : A3196, 1941, 0.11482]_

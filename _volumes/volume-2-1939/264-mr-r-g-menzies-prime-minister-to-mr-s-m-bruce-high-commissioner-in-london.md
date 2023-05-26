@@ -1,12 +1,17 @@
 ---
-title: "264 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 601
+doc_date: '1939-10-05'
+doc_num: 264
+doc_order: 264
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA: AP96]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-05
+vol_title: 'Volume 2: 1939'
 ---
-
-# 264 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 5 October 1939,
 
@@ -52,7 +57,7 @@ Sales would of course be made on account of the United Kingdom and at prices and
 
 Before conveying above please await separate telegram [2] regarding Japan.
 
-_
+ _
 
 1 For further information on this arrangement see S.J. Budin, War Economy 1939-1942 (Canberra, 1955), pp. 60-6.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [FA: AP96]_
+ _[FA: AP96]_

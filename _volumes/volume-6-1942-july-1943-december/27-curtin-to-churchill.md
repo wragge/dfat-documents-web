@@ -1,12 +1,18 @@
 ---
-title: "27 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2318
+doc_date: '1942-08-25'
+doc_num: 27
+doc_order: 27
+naa_refs:
+- naa_barcode: 853952
+  naa_control_symbol: '139'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,
+    FILE No. 3, 48/1942]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-25
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 27 Curtin to Churchill
 
 Cablegram 407 [1] CANBERRA, 25 August 1942
 
@@ -22,7 +28,7 @@ It will be evident from the Coral Sea, Midway and Solomon Islands naval engageme
 
 CURTIN
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 2 On file AA:A2937, Far East position 1942.
 
@@ -38,4 +44,4 @@ Caledonia, Fiji and Hawaii were held by sufficient land and air forces to enable
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_

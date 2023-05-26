@@ -1,12 +1,17 @@
 ---
-title: "35 Submission 468 To Cabinet By Mcleay"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7640
+doc_date: '1953-07-01'
+doc_num: 35
+doc_order: 35
+naa_refs:
+- naa_barcode: 4678632
+  naa_control_symbol: '468'
+  naa_series: A4905
+  reference: '[AA : A4905, VOLUME 19]'
+title: Submission 468 To Cabinet By Mcleay
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-07-01
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
-
-# 35 Submission 468 To Cabinet By Mcleay
 
 1st July, 1953
 
@@ -26,9 +31,9 @@ The Committee decided:
 
 Attached hereto is a report prepared by the Prime Minister's Department, Treasury and the Departments of Trade and Customs, Commerce and Agriculture and External Affairs. [1]
 
-Attached to the Departmental Report is an Appendix which sets out a list of commodities which are at present being licensed from Japan, together with a list of additional items which, it is suggested, might be licensed and gives ceilings up to which licences might be issued for each item. The total of the ceilings, plus the reserve for unforeseen contingencies, represents an annual rate of licensing of 12 million (c.i.f. &amp; e.). However, because it is not clear how the pattern of imports from Japan would develop, the Comptroller-General of Customs wishes to retain some element of flexibility and to have authority to vary the items and the ceilings within the total of 12 million (c.i.f. &amp; e.).
+Attached to the Departmental Report is an Appendix which sets out a list of commodities which are at present being licensed from Japan, together with a list of additional items which, it is suggested, might be licensed and gives ceilings up to which licences might be issued for each item. The total of the ceilings, plus the reserve for unforeseen contingencies, represents an annual rate of licensing of 12 million (c.i.f. & e.). However, because it is not clear how the pattern of imports from Japan would develop, the Comptroller-General of Customs wishes to retain some element of flexibility and to have authority to vary the items and the ceilings within the total of 12 million (c.i.f. & e.).
 
-It would be the aim to extend the list of goods and the ceilings above 12 million (c.i.f. &amp; e.) if and when Cabinet decides on further relaxations of non-dollar, non-Japanese imports. This progressive relaxation would cushion any adverse effects resulting from an increased inflow of Japanese goods.
+It would be the aim to extend the list of goods and the ceilings above 12 million (c.i.f. & e.) if and when Cabinet decides on further relaxations of non-dollar, non-Japanese imports. This progressive relaxation would cushion any adverse effects resulting from an increased inflow of Japanese goods.
 
 This report points out that Japan has become the second best customer for Australian exports. She is the second largest buyer of our wool and the largest buyer of our barley. Australia's trade policy towards Japan should take account of the political objective of keeping Japan in the non-Communist world.
 
@@ -40,13 +45,13 @@ During recent years Japanese costs have risen more than costs in many other part
 
 For these reasons I support the recommendations contained in the attached report, namely:
 
-(a) The present level of licensing on Japan be extended to provide for an additional import value of 6 million (c.i.f. &amp; e.) per annum only, as from 1st July, 1953.
+(a) The present level of licensing on Japan be extended to provide for an additional import value of 6 million (c.i.f. & e.) per annum only, as from 1st July, 1953.
 
 (b) Approval be given, in principle, to the idea of continuity in the relaxations in step with relaxations approved by the Government from time to time in regard to the non-Japanese, non- Dollar Budget.
 
-(c) The items included in the list of authorized imports from Japan and the budgetary ceilings therefore be subject to variation by the Import Budget Committee if, in the opinion of that Committee, circumstances justify any variations within the limits of the total licensing value of 12 million (c.i.f. &amp; e.) per annum. (This is necessary to provide reasonable flexibility in the administration of the controls). [2]
+(c) The items included in the list of authorized imports from Japan and the budgetary ceilings therefore be subject to variation by the Import Budget Committee if, in the opinion of that Committee, circumstances justify any variations within the limits of the total licensing value of 12 million (c.i.f. & e.) per annum. (This is necessary to provide reasonable flexibility in the administration of the controls). [2]
 
-_
+ _
 
 1 The report comprised a version of Document 34, together with a discussion of the mechanics of licensing.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA : A4905, VOLUME 19]_
+ _[AA : A4905, VOLUME 19]_

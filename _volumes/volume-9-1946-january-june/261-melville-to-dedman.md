@@ -1,14 +1,19 @@
 ---
-title: "261 Melville to Dedman"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3773
+doc_date: '1946-05-21'
+doc_num: 261
+doc_order: 261
+naa_refs:
+- naa_barcode: 244399
+  naa_control_symbol: 1943/906 PART 7
+  naa_series: CP43/1
+  reference: '[AA:CP43/1, 43/906, vii]'
+title: Melville to Dedman
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-21
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 261 Melville to Dedman
-
-## Letter 21 May 1946,
+Letter 21 May 1946,
 
 1\. When I was in Canberra, you asked me to send you a note setting out the worst that can happen to Australia if we do not join the International Monetary Fund.
 
@@ -28,7 +33,7 @@ This would encourage not only increased home production but also imports from So
 
 L. G. MELVILLE
 
-_
+ _
 
 1 Document 212.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:CP43/1, 43/906, vii]_
+ _[AA:CP43/1, 43/906, vii]_

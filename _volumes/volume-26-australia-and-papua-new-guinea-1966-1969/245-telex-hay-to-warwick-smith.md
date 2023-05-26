@@ -1,30 +1,34 @@
 ---
-title: "245 Telex, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9753
+doc_date: '1968-12-13'
+doc_num: 245
+doc_order: 245
+naa_refs:
+- naa_barcode: 3118091
+  naa_control_symbol: 1969/2889
+  naa_series: A452
+  reference: '[NAA: A452, 1969/2889]'
+title: Telex, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-12-13
-barcode: 3118091
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 245 Telex, Hay To Warwick Smith
 
 Port Moresby, 13 December 1968
 
 9845.
 
-**Inclusion of dissident Raluana villages in Gazelle Peninsula Local Government  
+ **Inclusion of dissident Raluana villages in Gazelle Peninsula Local Government  
 Council**
 
 I.D.C.C. considered a paper on this ...
 
-[_matter omitted_]1
+[ _matter omitted_ ][1](#f1)
 
-Because next step will be preparation of a proclamation of new multi-racial council covering whole Gazelle, for A.E.C. consideration, I sought preliminary views of A.E.C. Some had reservations on the grounds of breach of voluntary principle but majority reaction was favourable2 ... According to Toliman main reason for the dissidents not agreeing to come into the council was one of face. He thought that a new situation such as the present in which another major change was about to take place, mainly the inclusion of people of other races in a multi-racial council for the first time, would provide a face-saving cover for the village groups concerned. Also the consequential new elections could provide a change in the executive of the council and this too would ease the situation. It was therefore generally agreed that the proclamation setting up a multi-racial council and including the new areas should be proceeded with and presented to the A. E. C. for approval when ready.
+Because next step will be preparation of a proclamation of new multi-racial council covering whole Gazelle, for A.E.C. consideration, I sought preliminary views of A.E.C. Some had reservations on the grounds of breach of voluntary principle but majority reaction was favourable[2](#f2) ... According to Toliman main reason for the dissidents not agreeing to come into the council was one of face. He thought that a new situation such as the present in which another major change was about to take place, mainly the inclusion of people of other races in a multi-racial council for the first time, would provide a face-saving cover for the village groups concerned. Also the consequential new elections could provide a change in the executive of the council and this too would ease the situation. It was therefore generally agreed that the proclamation setting up a multi-racial council and including the new areas should be proceeded with and presented to the A. E. C. for approval when ready.
 
-I should be glad if you would bring this to the notice of the Minister. Please inform him that the present Gazelle council has been pressing hard for a change on these lines on the grounds that it is wrong for those who live in council areas and support the councils to pay tax for their services while those who live in the same areas (and the villages concerned are in the centre rather than in a separate corner on the margin) that do not support the council nevertheless receive the same services without paying taxes. There are other areas where the same could apply but where we would not judge it wise to proceed at the present. The Duke of York islands is one, the Hahalis area is another. We have of course considered what might happen if there should be resistance, particularly when the time came for the first tax collection. Against this fact is that at least forty percent of taxpayers in present council area are defaulting. The accent for public presentation of this move will of course be on the multi-racial character of the new council and the incorporation of the non-council areas will take second place.3
+I should be glad if you would bring this to the notice of the Minister. Please inform him that the present Gazelle council has been pressing hard for a change on these lines on the grounds that it is wrong for those who live in council areas and support the councils to pay tax for their services while those who live in the same areas (and the villages concerned are in the centre rather than in a separate corner on the margin) that do not support the council nevertheless receive the same services without paying taxes. There are other areas where the same could apply but where we would not judge it wise to proceed at the present. The Duke of York islands is one, the Hahalis area is another. We have of course considered what might happen if there should be resistance, particularly when the time came for the first tax collection. Against this fact is that at least forty percent of taxpayers in present council area are defaulting. The accent for public presentation of this move will of course be on the multi-racial character of the new council and the incorporation of the non-council areas will take second place.[3](#f3)
 
-[ [NAA: A452, 1969/2889](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3118091) ]
+[NAA: A452, 1969/2889]
 
 1 Matter omitted is a summary of Document 241.
 

@@ -1,12 +1,18 @@
 ---
-title: "179 Commonwealth Government to Lord Cranborne, 179 U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1933
+doc_date: '1941-12-11'
+doc_num: 179
+doc_order: 180
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Commonwealth Government to Lord Cranborne, 179 U.K. Secretary of State for
+  Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-11
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 179 Commonwealth Government to Lord Cranborne, 179 U.K. Secretary of State for Dominion Affairs
 
 Cablegram 789 [1] CANBERRA, 11 December 1941
 
@@ -24,7 +30,7 @@ We think time has now arrived to make earnest attempt to obtain Russia's interve
 
 Our Ministers, Washington, Chungking, are receiving copy of this message and we earnestly request its prompt consideration by War Cabinet and United States Government.
 
-_
+ _
 
 1 Repeated to the Minister to the United States, R. G. Casey, (no.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

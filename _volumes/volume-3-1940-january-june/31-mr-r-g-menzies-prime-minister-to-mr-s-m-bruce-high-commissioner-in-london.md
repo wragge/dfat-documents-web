@@ -1,12 +1,17 @@
 ---
-title: "31 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 797
+doc_date: '1940-01-26'
+doc_num: 31
+doc_order: 31
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, 0.512]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-26
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 31 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 26 January 1940,
 
@@ -16,7 +21,7 @@ In view of forthcoming location of 2nd A.I.F. in Palestine for completion traini
 
 MENZIES
 
-_
+ _
 
 1 This cablegram was dispatched following a decision of War Cabinet on 25 January 1940 (see AA: A2673, vol. 1, Minute 132).
 
@@ -24,4 +29,4 @@ Bruce's file copy (on AA: M100, January 1940) was minuted at 10.30 a.m. on 27 Ja
 
 _
 
-_ [FA: A3196, 0.512]_
+ _[FA: A3196, 0.512]_

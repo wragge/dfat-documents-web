@@ -1,12 +1,17 @@
 ---
-title: "83 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2374
+doc_date: '1942-11-30'
+doc_num: 83
+doc_order: 83
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-11-30
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 83 Curtin to Churchill
 
 Cablegram Johcu 47 [1] CANBERRA, 30 November 1942
 
@@ -32,7 +37,7 @@ I appreciate the motive that prompted you to send this cablegram [2] but frankly
 
 CURTIN
 
-_ 1 Repeated to Bruce on 30 November. See cablegrams 10943-4 on file AA:A4763.
+ _1 Repeated to Bruce on 30 November. See cablegrams 10943-4 on file AA:A4763.
 
 2 See Document 79.
 
@@ -42,4 +47,4 @@ _ 1 Repeated to Bruce on 30 November. See cablegrams 10943-4 on file AA:A4763.
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

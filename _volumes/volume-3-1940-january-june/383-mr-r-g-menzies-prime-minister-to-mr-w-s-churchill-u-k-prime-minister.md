@@ -1,12 +1,17 @@
 ---
-title: "383 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1149
+doc_date: '1940-06-15'
+doc_num: 383
+doc_order: 383
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, 0.3856]'
+title: Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 383 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
 
 Cablegram unnumbered 15 June 1940,
 
@@ -20,8 +25,8 @@ Position (a) would create no great difficulty in reply. The second alternative, 
 
 I think it is necessary that we should consult the United States frankly and completely as to the form of our reply to any peace offer, no matter what form it might take. Such close collaboration with the United States should, I feel, whenever possible be made a feature of every phase of our future effort.
 
-_
+ _
 
 _
 
-_ [FA: A3196, 0.3856]_
+ _[FA: A3196, 0.3856]_

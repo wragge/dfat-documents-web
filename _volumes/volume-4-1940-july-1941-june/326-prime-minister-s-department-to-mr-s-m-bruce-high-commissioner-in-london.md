@@ -1,14 +1,19 @@
 ---
-title: "326 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1557
+doc_date: '1941-03-01'
+doc_num: 326
+doc_order: 326
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20B, i]'
+title: Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-01
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 326 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram 973 1 March 1941,
+Cablegram 973 1 March 1941,
 
 The following message has been received from the Australian Minister, Tokio [1]- Begins.
 
@@ -40,7 +45,7 @@ Central Wool Committee has cabled Essendon [7] in this matter.
 
 Please contact him and hand him a copy of this message.
 
-_
+ _
 
 1 Sir John Latham. The cablegram (no. 97 of 24 February) is on file AA:A981, Trade 68, iv.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 20B, i]_
+ _[AA:A981, FAR EAST 20B, i]_

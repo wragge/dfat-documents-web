@@ -1,14 +1,19 @@
 ---
-title: "19 D'Alton to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3050
+doc_date: '1945-01-31'
+doc_num: 19
+doc_order: 19
+naa_refs:
+- naa_barcode: 745853
+  naa_control_symbol: 1945/WELLINGTON PART 1
+  naa_series: A4311
+  reference: '[AA: A4231/2, WELLINGTON 1945-70]'
+title: D'Alton to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-01-31
+vol_title: 'Volume 8: 1945'
 ---
 
-# 19 D'Alton to Evatt
-
-## Dispatch 10 (extracts) WELLINGTON, 31 January 1945
+Dispatch 10 (extracts) WELLINGTON, 31 January 1945
 
 AUSTRALIA - NEW ZEALAND ECONOMIC AND WELFARE DISCUSSIONS WELLINGTON-JANUARY, 1945
 
@@ -54,7 +59,7 @@ Australia, which has made use of the import control method for exchange conserva
 
 [matter omitted ]
 
-_
+ _
 
 1 See in particular cablegrams 4 and 5 to Fraser, dispatched 5 January, Fraser's cablegram 2, dispatched 7 January, and the Commonwealth Govt's cablegram 13 in reply, dispatched 15 January. On file AA:A1066, ER45/2/3/2.
 
@@ -62,4 +67,4 @@ _
 
 _
 
-_ [AA: A4231/2, WELLINGTON 1945-70]_
+ _[AA: A4231/2, WELLINGTON 1945-70]_

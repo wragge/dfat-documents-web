@@ -1,12 +1,17 @@
 ---
-title: "376 Evatt to Bruce"
-volume: "Volume 7: 1944"
-doc_id: 3023
+doc_date: '1944-12-16'
+doc_num: 376
+doc_order: 376
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT PAPERS, CABLES-LONDON-1943-46]'
+title: Evatt to Bruce
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-16
+vol_title: 'Volume 7: 1944'
 ---
-
-# 376 Evatt to Bruce
 
 Cablegram 202 CANBERRA, 16 December 1944
 
@@ -30,7 +35,7 @@ Your telegrams [1] on Greece. I entirely endorse your attitude, which seems to m
 
 7\. It may be necessary for me to make a public statement on this question and I would like you to telegraph me on the whole subject.
 
-_
+ _
 
 1 See Bruce's cablegrams 172[A] and 176A of 11 and14 December, respectively. On file AA : A989, E43-44,370/4/3. In cablegram 172[A] Bruce noted that he had advised the U.K. Govt of the Commonwealth Govt's deep interest in Greece. In cablegram 176A Bruce reported his view that the King of Greece should make way for a Regent.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [SFU:EVATT PAPERS, CABLES-LONDON-1943-46]_
+ _[SFU:EVATT PAPERS, CABLES-LONDON-1943-46]_

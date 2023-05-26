@@ -1,13 +1,19 @@
 ---
-title: "344 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8182
+doc_date: '1975-11-25'
+doc_num: 344
+doc_order: 343
+naa_refs:
+- naa_barcode: 5036190
+  naa_control_symbol: '11'
+  naa_series: A11443
+  reference: '[NAA: A11443, [11]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-11-25
-barcode: 4151641
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 344 Cablegram to Canberra
 
 Jakarta, 25 November 1975
 
@@ -15,7 +21,7 @@ O.JA3280 SECRET PRIORITY
 
 ### For the Secretary
 
-I saw President Soeharto this morning to deliver the Prime Minister's message.1 (He had been out of Jakarta over the weekend and unavailable on Monday.) In order to assist in preservation of secrecy (paragraph five of your O.CH2915912) I arranged to meet the President at his private residence.The President said he regretted he had been unable to receive me on Monday. He had seen me as soon as he could.
+I saw President Soeharto this morning to deliver the Prime Minister's message.[1](#f1) (He had been out of Jakarta over the weekend and unavailable on Monday.) In order to assist in preservation of secrecy (paragraph five of your O.CH291591[2](#f2)) I arranged to meet the President at his private residence.The President said he regretted he had been unable to receive me on Monday. He had seen me as soon as he could.
 
   2. I made each of the six points in your telegram under reference. The President said he 'greatly appreciated' the Prime Minister's message. Indonesia too attached great importance to its relations with Australia.
   3. The President referred to his close personal ties with Mr Whitlam. He said that Indonesia could not intervene in any way in Australia's domestic politics but, depending on the outcome of the election he would want to maintain his ties with Mr Whitlam or develop similar personal ties with Mr Fraser.
@@ -34,9 +40,7 @@ I saw President Soeharto this morning to deliver the Prime Minister's message.1 
 
 WOOLCOTT
 
-_[ [NAA: A11443, [11]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4151641) ]_
+ _[NAA: A11443, [11]]_
 
   * 1 Document 343.
   * 2 Document 343.
-
-

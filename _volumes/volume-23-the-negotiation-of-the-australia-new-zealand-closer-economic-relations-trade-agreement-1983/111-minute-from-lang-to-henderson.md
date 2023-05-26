@@ -1,12 +1,19 @@
 ---
-title: "111 Minute from Lang to Henderson"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8981
+doc_date: '1980-12-05'
+doc_num: 111
+doc_order: 111
+naa_refs:
+- naa_barcode: 1509880
+  naa_control_symbol: 370/1/19/18 PART 20
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, xx]'
+title: Minute from Lang to Henderson
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-12-05
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 111 Minute from Lang to Henderson
 
 Canberra, 5 December 1980
 
@@ -14,7 +21,7 @@ CONFIDENTIAL
 
 ## New Zealand-Permanent Heads Meeting
 
-I attended the resumed session of the preparatory meeting1 on 5 December as requested. Scully and Duthie were the only Permanent Heads present. I apologised for your absence.
+I attended the resumed session of the preparatory meeting[1](#f1) on 5 December as requested. Scully and Duthie were the only Permanent Heads present. I apologised for your absence.
 
   2. Most of the meeting was taken up with an attempt to define the position that the Australian delegation next week should take on New Zealand access to our dairy produce market. Scully put it to Duthie that an agreed package was needed so that it could be put to governments for them to evaluate. In his view, this meant that Primary Industry was free to put forward solutions to the dairy problem with which it did not agree, and which it would be free to advise against most vigorously in Cabinet. Then Cabinet could decide whether the 'pain' involved in liberalising New Zealand's access to our market was worth the positive opportunities for our manufactured goods that the package would contain. Duthie's reaction was sullen and recriminatory. He pointed to number of agricultural areas where the New Zealanders use a monopolistic purchasing policy to ensure that New Zealand's domestic produce was distributed before any imports were allowed. Why shouldn't we do the same with dairy products? (Present policy is a close approximation to such a model.) Duthie left before anything was resolved, and Scully was obliged to patch up some makeshift 'solutions' with the equally intractable FAS from Primary Industry responsible for the dairy industry.
   3. As matfers stand, we have no proposals to put to the New Zealanders on dairy produce that are likely to be acceptable to them, and they, so far as we know have no proposals that are acceptable to us.
@@ -23,8 +30,6 @@ I attended the resumed session of the preparatory meeting1 on 5 December as requ
 
 
 
-_[NAA: A1838, 370/1119/18, xx]_
+ _[NAA: A1838, 370/1119/18, xx]_
 
-  * 1 A meeting of Australian officials to brief permanent Heads or their representatives for the joint meeting with New Zealand Heads on 9-11 December 1980 in Wellington. 
-
-
+  * 1 A meeting of Australian officials to brief permanent Heads or their representatives for the joint meeting with New Zealand Heads on 9-11 December 1980 in Wellington.

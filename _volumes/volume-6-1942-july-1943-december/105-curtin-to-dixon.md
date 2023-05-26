@@ -1,12 +1,17 @@
 ---
-title: "105 Curtin to Dixon"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2396
+doc_date: '1943-01-19'
+doc_num: 105
+doc_order: 105
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS]'
+title: Curtin to Dixon
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-01-19
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 105 Curtin to Dixon
 
 Cablegram 10 CANBERRA, 19 January 1943
 
@@ -44,7 +49,7 @@ Yours sincerely,
 
 JOHN CURTIN
 
-_
+ _
 
 1 For copies of the messages as delivered to Churchill and Roosevelt see Franklin D. Roosevelt Library: Map Room, Miscellaneous Presidential Dispatches, box 12.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS]_

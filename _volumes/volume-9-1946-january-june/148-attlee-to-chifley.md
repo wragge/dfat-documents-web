@@ -1,13 +1,19 @@
 ---
-title: "148 Attlee to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3660
+doc_date: '1946-03-27'
+doc_num: 148
+doc_order: 148
+naa_refs:
+- naa_barcode: 216212
+  naa_control_symbol: V29
+  naa_series: A2908
+  reference: '[AA:AA1973/362, V29]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 148 Attlee to Chifley
-
-Cablegram D285 LONDON, 27 March 946, 11.20 a.m.
+Cablegram D285 LONDON, 27 March 1946, 11.20 a.m.
 
 SECRET
 
@@ -29,10 +35,10 @@ We have been thinking over arrangements for discussions between Prime Ministers 
 
 Should be grateful for your comments on above, and for any further suggestions which you may have as to possible agenda for discussions. [1] Ends.
 
-_
+ _
 
 1 Chifley replied on 10 April that he would prefer to see discussions centre on item (1), with talks on other matters of common concern as opportunity allowed.
 
 _
 
-_ [AA:AA1973/362, V29]_
+ _[AA:AA1973/362, V29]_

@@ -1,12 +1,18 @@
 ---
-title: "78 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 415
+doc_date: '1939-05-05'
+doc_num: 78
+doc_order: 78
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:DO 114/98]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
+  Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-05
+vol_title: 'Volume 2: 1939'
 ---
-
-# 78 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office
 
 Cablegram 84 (paraphrase) CANBERRA, 5 May 1939
 
@@ -28,7 +34,7 @@ Prime Minister in his closing speech proposes to say inter alia that (a) informa
 
 (d) No doubt an opportunity will arise to say something on the lines of your telegram circular Z. No. 7 of 26th April. [2]
 
-_
+ _
 
 1 J.S. Duncan, Acting High Commissioner in London, reported meetings held on 12 and 19 April and 3 May (cablegrams to Prime Minister, nos 94, 109 and 143 respectively, on FA: A2937, European Situation). His accounts indicate that at the meetings U.K. representatives outlined recent events; there is nothing to indicate that any instructions were sent from Australia to Duncan, or that he played any active role at the meetings.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [PRO:DO 114/98]_
+ _[PRO:DO 114/98]_

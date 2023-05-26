@@ -1,12 +1,17 @@
 ---
-title: "251 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2005
+doc_date: '1942-01-02'
+doc_num: 251
+doc_order: 252
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-02
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 251 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 15 WASHINGTON, 2 January 1942, 6.07 p.m.
 
@@ -26,7 +31,7 @@ We are deeply conscious of the magnificent contribution which Australia has made
 
 (Ends).
 
-_
+ _
 
 1 Material in square brackets has been inserted from the Washington copy on file AA:A3300, 219. For cablegram 1102 see Document 214, note 1.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

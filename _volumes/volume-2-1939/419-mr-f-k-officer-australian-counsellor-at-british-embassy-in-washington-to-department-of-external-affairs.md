@@ -1,14 +1,20 @@
 ---
-title: "419 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 756
+doc_date: '1939-12-14'
+doc_num: 419
+doc_order: 419
+naa_refs:
+- naa_barcode: 235473
+  naa_control_symbol: '1'
+  naa_series: A3300
+  reference: '[FA: AA 1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]'
+title: Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to
+  Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-12-14
+vol_title: 'Volume 2: 1939'
 ---
 
-# 419 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Department of External Affairs
-
-## Cablegram 89 WASHINGTON, 14 December 1939, 5.30 p.m.
+Cablegram 89 WASHINGTON, 14 December 1939, 5.30 p.m.
 
 Reference my telegram No. 88. [1]
 
@@ -16,7 +22,7 @@ I am unaware of probable date of Mr Casey's [2] arrival and realise that there m
 
 Thirdly to defer opening of the Legation until the arrival of the Minister would avoid the repetition in a short period of time of a number of matters of protocol. Finally opening by the new Minister would have a much greater publicity value in this country than the arrival of the Minister after the opening of the Legation.
 
-_ 1 Dispatched 13 December 1939, not printed (on file FA: AA1975/5, 1939, Australian Legation (Washington) (Corresp. re Accommodation)).
+ _1 Dispatched 13 December 1939, not printed (on file FA: AA1975/5, 1939, Australian Legation (Washington) (Corresp. re Accommodation)).
 
 2 R.G. Casey, Minister for Supply and Development, who was to be the first Minister to the United States.
 
@@ -24,4 +30,4 @@ _ 1 Dispatched 13 December 1939, not printed (on file FA: AA1975/5, 1939, Austra
 
 _
 
-_ [FA: AA 1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]_
+ _[FA: AA 1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]_

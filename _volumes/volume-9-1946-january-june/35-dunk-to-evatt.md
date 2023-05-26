@@ -1,12 +1,17 @@
 ---
-title: "35 Dunk to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3547
+doc_date: '1946-01-17'
+doc_num: 35
+doc_order: 35
+naa_refs:
+- naa_barcode: 581663
+  naa_control_symbol: 80/1/3/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838 T184, 80/1/3/1]'
+title: Dunk to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-17
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 35 Dunk to Evatt
 
 Submission CANBBRRA, 17 January 1946
 
@@ -24,7 +29,7 @@ W.E.DUNK
 
 I would like to discuss this with you at some early date. [3]
 
-_
+ _
 
 1 Portugal had been informed in June 1945 that Australia was too heavily committed to consider a Portuguese proposal for appointment of a Charge d'Affaires in Canberra (see Volume VIII, Document 105). Decisions on a Swiss proposal, first made to the U.K. Dominions Office in September 945 for reciprocal representation, then repeated informally to the U.K. Foreign Office for appointment of a Swiss Minister without exchange, and on de Valera's proposal to appoint Dr T. J. Kiernan to Canberra (see Volume VIII, Document 407) awaited Evatt's return from overseas. No action had been taken on an informal Danish suggestion for appointment of C. M. Rottboll to both Canberra and Wellington and for accreditation of the Australian Minister at The Hague to Denmark, or on information that Czechoslovakia was considering raising its Consulates-General in Australia and New Zealand to Legations. Nor had action been taken on Italian representations for Australian acceptance of an Italian Consul- General, beyond instructions to Bruce, in April 1945, that on advice of the Director General of Security, Australia was 'in no hurry' to accept an Italian representative.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A1838 T184, 80/1/3/1]_
+ _[AA:A1838 T184, 80/1/3/1]_

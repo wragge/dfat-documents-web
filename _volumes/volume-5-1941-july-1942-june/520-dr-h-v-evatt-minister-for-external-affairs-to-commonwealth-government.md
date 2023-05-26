@@ -1,14 +1,19 @@
 ---
-title: "520 Dr H. V. Evatt, Minister for External Affairs, to Commonwealth Government"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2274
+doc_date: '1942-06-06'
+doc_num: 520
+doc_order: 521
+naa_refs:
+- naa_barcode: 183181
+  naa_control_symbol: UNI 184 PART 1
+  naa_series: A981
+  reference: '[AA:A981, USA 184]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Commonwealth Government
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-06
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 520 Dr H. V. Evatt, Minister for External Affairs, to Commonwealth Government
-
-## Cablegram ES52 WASHINGTON, 6 June 1942, 8.30 p.m.
+Cablegram ES52 WASHINGTON, 6 June 1942, 8.30 p.m.
 
 Lend-lease.
 
@@ -28,7 +33,7 @@ Doubtless the United States would accept a clause safeguarding our right to inte
 
 (7) The immediate problem is the conclusion of the master lend- lease agreement and it should, I think, be signed at once with an intimation that reciprocal lend-lease is being favourably considered.
 
-_
+ _
 
 1 See Document 512.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A981, USA 184]_
+ _[AA:A981, USA 184]_

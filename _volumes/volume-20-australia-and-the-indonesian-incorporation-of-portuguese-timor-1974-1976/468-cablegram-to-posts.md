@@ -1,12 +1,19 @@
 ---
-title: "468 Cablegram to Posts"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8306
+doc_date: '1976-06-11'
+doc_num: 468
+doc_order: 467
+naa_refs:
+- naa_barcode: 4151387
+  naa_control_symbol: 202/1/1 ANNEX 3
+  naa_series: A10005
+  reference: '[NAA: A10005, TS202/111, ANNEX 3]'
+title: Cablegram to Posts
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-06-11
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 468 Cablegram to Posts
 
 Canberra, 11 June 1976
 
@@ -14,7 +21,7 @@ O.CH367176 SECRET AUSTEO PRIORITY1
 
 ## Dili Meeting and Process of Integration
 
-Thanks your O.JA7165.2 We are encouraged by Adenan's reaction. You will also have seen O.GE18616.3 We agree than an approach should now be made directly to the Secretary-General and are instructing New York accordingly. It must be accepted, of course, that the possibility of inducing the Secretary-General to authorise Winspeare to involve himself in the fact-finding mission is still at best doubtful. We believe, however, it would be helpful if a number of regional countries were to speak to him and to Winspeare, and again we are instructing posts accordingly.
+Thanks your O.JA7165.[2](#f2) We are encouraged by Adenan's reaction. You will also have seen O.GE18616.[3](#f3) We agree than an approach should now be made directly to the Secretary-General and are instructing New York accordingly. It must be accepted, of course, that the possibility of inducing the Secretary-General to authorise Winspeare to involve himself in the fact-finding mission is still at best doubtful. We believe, however, it would be helpful if a number of regional countries were to speak to him and to Winspeare, and again we are instructing posts accordingly.
 
   2. We are glad that the Indonesians themselves will continue to urge Winspeare to visit the territory. In the light of O.GE18616, you might encourage them to approach the Secretary-General as well, perhaps in the company of other ASEAN countries.
   3. Since our own acceptance of the Indonesian invitation is likely to hinge on Winspeare's participation as well, it may be difficult to engage the Indonesians in further discussions about the scenario for the fact-finding mission. But you should know that we should find the idea of Australian participation in a one-day visit (albeit under the arrangements sketched in your paragraph 8) entirely unsatisfactory and believe, like Davis, that Winspeare would take this view as well.
@@ -24,7 +31,7 @@ Thanks your O.JA7165.2 We are encouraged by Adenan's reaction. You will also hav
 ### For New York
 
   4. We are encouraged byWinspeare's response reported in O.GE18616. We are particularly encouraged by his acceptance of the view that his mandate is not limited to observance of the military situation, but covers the whole range of the Security Council resolutions including self-determination. As you know, our preference has always been to encourage the continuing involvement of the Special Representative rather than the Committee of Twenty-Four in what is essentially a highly delicate political exercise.
-  5. Could you now approach the Secretary-General in the same terms as paragraph 12 of O.CH366035?4 When doing so you might, as Geneva suggests, refer to Davis' discussion with Winspeare and note that Winspeare had said he was happy to proceed with this delayed second visit to the territory as soon as authorised by the Secretary-General.
+  5. Could you now approach the Secretary-General in the same terms as paragraph 12 of O.CH366035?[4](#f4) When doing so you might, as Geneva suggests, refer to Davis' discussion with Winspeare and note that Winspeare had said he was happy to proceed with this delayed second visit to the territory as soon as authorised by the Secretary-General.
   6. The points covered in paragraphs 4 and 8 (and 7) ofO.GE18616 may be very relevant to the Secretary-General's decision. If the Secretary-General enquires, you might say that our own knowledge of the situation on the ground in Timor suggests that the extent of Fretilin control, over any area, is now very uncertain. This assessment may be disputed by Horta and other Fretilin personalities outside the country. However, we ourselves see much merit in the approach suggested by Winspeare, namely that Horta should be pressed by the United Nations to name specific locations to which Winspeare might safely go in order to make contact with the 'other side'. The onus would then be on Fretilin to designate some safe area.
   7. In regard to assisting Winspeare to reach such areas (if they exist) you may inform the Secretary-General that the Australian Government would, of course, be prepared to consider any request addressed to it by the United Nations. We would assume, however, that the Secretary-General would have first obtained full and firm assurances of safety from the other parties, namely the Indonesians and the PGET, before authorising the Special Representative to proceed to any claimed Fretilin area. Access would, of course, also need to be feasible and safe on technical grounds. Thus, while Fretilin may continue to occupy and control some mountain areas, access to them may not be possible because of technical hazards.
 
@@ -38,11 +45,9 @@ Thanks your O.JA7165.2 We are encouraged by Adenan's reaction. You will also hav
 
 
 
-_[NAA: A10005, TS202/111, ANNEX 3]_
+ _[NAA: A10005, TS202/111, ANNEX 3]_
 
   * 1 This cablegram was sent Priority to Jakarta and New York. and Routine to Washington, Tokyo, Wellington, Kuala Lumpur, Manila, Singapore, Bangkok and Port Moresby. It was repeated to Geneva and Lisbon.
   * 2 Document 465.
   * 3 See note 8 to Document 462.
   * 4 Document 462.
-
-

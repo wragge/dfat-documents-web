@@ -1,12 +1,17 @@
 ---
-title: "28 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1782
+doc_date: '1941-08-03'
+doc_num: 28
+doc_order: 29
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 185B, ii]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-03
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 28 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 589 [1] WASHINGTON, 3 August 1941, 4.05 p.m.
 
@@ -24,7 +29,7 @@ Sumner Welles said that in connection with the Japanese apology for the recent b
 
 CASEY
 
-_
+ _
 
 1 Repeated to the Legation in Tokyo as no. 37.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 185B, ii]_
+ _[AA : A981, JAPAN 185B, ii]_

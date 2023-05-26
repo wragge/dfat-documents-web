@@ -1,12 +1,17 @@
 ---
-title: "382 Bruce to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 3029
+doc_date: '1944-12-23'
+doc_num: 382
+doc_order: 382
+naa_refs:
+- naa_barcode: 187323
+  naa_control_symbol: E45/16/1 PART 1
+  naa_series: A1066
+  reference: '[AA:A1066, E45/16/1]'
+title: Bruce to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-23
+vol_title: 'Volume 7: 1944'
 ---
-
-# 382 Bruce to Evatt
 
 Cablegram [289A] [1] LONDON, 23 December 1944, 3.30 p.m.
 
@@ -24,7 +29,7 @@ Even on this question I am not very optimistic of any really satisfactory system
 
 BRUCE
 
-_
+ _
 
 1 Material in square brackets has been corrected from Bruce's copy on file AA : M100, December 1944. The copy circulated in Canberra was incorrectly numbered 179A.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A1066, E45/16/1]_
+ _[AA:A1066, E45/16/1]_

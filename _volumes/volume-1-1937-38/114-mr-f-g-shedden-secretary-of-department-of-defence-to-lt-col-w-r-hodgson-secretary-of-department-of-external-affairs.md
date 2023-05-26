@@ -1,14 +1,20 @@
 ---
-title: "114 Mr F. G. Shedden, Secretary of Department of Defence, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 113
+doc_date: '1937-12-06'
+doc_num: 114
+doc_order: 113
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90B, i]'
+title: Mr F. G. Shedden, Secretary of Department of Defence, to Lt Col W. R. Hodgson,
+  Secretary of Department of External Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-12-06
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 114 Mr F. G. Shedden, Secretary of Department of Defence, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs
-
-## Memorandum MELBOURNE, 6 December 1937
+Memorandum MELBOURNE, 6 December 1937
 
 YAMPI SOUND-DEVELOPMENT OF IRON ORE DEPOSITS BY JAPANESE
 
@@ -44,7 +50,7 @@ RECOMMENDATION
 
 F. G. SHEDDEN
 
-_
+ _
 
 1 Not printed. Hodgson enclosed a Commerce Department memorandum on Yampi Sound for consideration by the Defence Department (see Document 111, note 1). The Defence Committee minute (No. 46), which is substantially reproduced here, is on AA : A2031.
 
@@ -56,4 +62,4 @@ The Woolnough report, finished in March 1938, is printed as an attachment to Doc
 
 _
 
-_ [AA : A981, AUSTRALIA 90B, i]_
+ _[AA : A981, AUSTRALIA 90B, i]_

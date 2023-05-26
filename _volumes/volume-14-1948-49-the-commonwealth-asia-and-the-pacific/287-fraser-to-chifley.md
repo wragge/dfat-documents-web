@@ -1,12 +1,18 @@
 ---
-title: "287 Fraser to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6063
+doc_date: '1949-06-15'
+doc_num: 287
+doc_order: 287
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:IN. MASTERSHEETS (TS) 1948-49]'
+title: Fraser to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-06-15
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 287 Fraser to Chifley
 
 Cablegram 77 WELLINGTON, 15 June 1949, 10.25 p.m.
 
@@ -36,7 +42,7 @@ For all these reasons and while we have considered the viewpoint expressed in yo
 
 [3]
 
-_
+ _
 
 1 Document 286.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [FA:IN. MASTERSHEETS (TS) 1948-49]_
+ _[FA:IN. MASTERSHEETS (TS) 1948-49]_

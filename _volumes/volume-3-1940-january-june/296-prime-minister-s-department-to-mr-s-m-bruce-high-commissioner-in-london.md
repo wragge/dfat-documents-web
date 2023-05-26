@@ -1,20 +1,25 @@
 ---
-title: "296 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1062
+doc_date: '1940-05-28'
+doc_num: 296
+doc_order: 296
+naa_refs:
+- naa_barcode: 4212445
+  naa_control_symbol: 1940/11
+  naa_series: A3196
+  reference: '[FA: A3196, 0.3283]'
+title: Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-28
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 296 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 28 May 1940,
+Cablegram unnumbered 28 May 1940,
 
 Defence Committee considered question Australian representation on United Kingdom Priority Committees referred to in Official Secretary's memorandum 1st March. [1] Committee appreciate reasons advanced but in view of objections of War Office, which presumably also apply to Ministry of Supply Committees, they feel matter should not be pressed unless there are other considerations within your knowledge which would warrant representation. Glad your views whether we should ask for representation, particularly from aspect whether delivery our requirements munitions and materials in any way prejudiced. Would you also indicate attitude other Dominions.
 
 [2]
 
-_
+ _
 
 1 Memorandum M43, signed on the Official Secretary's behalf by Lt Col W. Bridgeford, Army Liaison Officer at the High Commission in London. It expressed concern at the way in which supplies were allocated and delivered to Australia (see file AA: A816, 11/301/292).
 
@@ -22,4 +27,4 @@ _
 
 _
 
-_ [FA: A3196, 0.3283]_
+ _[FA: A3196, 0.3283]_

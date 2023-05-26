@@ -1,14 +1,17 @@
 ---
-title: "77 LETTER, HOLT TO CLARK"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9942
+doc_date: '1967-07-05'
+doc_num: 77
+doc_order: 77
+naa_refs:
+- naa_barcode: 1160403
+  naa_control_symbol: 1966/7335 PART 5
+  naa_series: A1209
+  reference: '[NAA: A1209, 1966/7335 PART 5]'
+title: LETTER, HOLT TO CLARK
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-07-05
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 77 LETTER, HOLT TO CLARK
-
-NAA: A1209, 1966/7335 PART 5
 
 Canberra, 5 July 1967
 
@@ -20,7 +23,7 @@ As you know, the British Government is coming to the stage at which, as we under
 > 
 > We have had word this morning from London that the British Government is now on the point of starting its final discussions about its defence position East of Suez. We gather that there are still some strong differences in the Cabinet, and that it may take a number of meetings to get to their decisions, but we have also heard that Tunku Abdul Rahman’s meetings with Harold Wilson will be held today, and that from as early as tomorrow the British Cabinet’s important meetings will begin.
 > 
-> I can think of nothing more effective than that you should, at this critical stage, make a personal intervention with Harold Wilson in a broad political sense. My Cabinet colleagues and I assess that any question of decision on announcement now of total withdrawal from the mainland by the mid-1970s is likely to be headed off, and that the British will keep some flexibility. Our information from Harry Lee2 after his discussions with Harold Wilson, parallels this. However, what Cabinet would like to see are two things—some definite avoidance by the British Cabinet of a withdrawal date and a decision to retain some ground forces, or at the very least sufficient flexibility of position so that there is no commitment against the retention of ground forces.
+> I can think of nothing more effective than that you should, at this critical stage, make a personal intervention with Harold Wilson in a broad political sense. My Cabinet colleagues and I assess that any question of decision on announcement now of total withdrawal from the mainland by the mid-1970s is likely to be headed off, and that the British will keep some flexibility. Our information from Harry Lee[2](#f2) after his discussions with Harold Wilson, parallels this. However, what Cabinet would like to see are two things—some definite avoidance by the British Cabinet of a withdrawal date and a decision to retain some ground forces, or at the very least sufficient flexibility of position so that there is no commitment against the retention of ground forces.
 > 
 > l will not go into any details. I feel they are unnecessary. But if you were able to pick up your phone and say something as from yourself to Harold Wilson, encouraging him in these directions, you would give him added strength in his discussions. This would, I am sure, be of great value.
 > 
@@ -33,3 +36,5 @@ As you know, the British Government is coming to the stage at which, as we under
 1  Edward A. Clark, US Ambassador to Australia, 1965–68.
 
 2  Harry Lee is an anglicised form for Lee Kuan Yew. 
+
+[NAA: A1209, 1966/7335 PART 5]

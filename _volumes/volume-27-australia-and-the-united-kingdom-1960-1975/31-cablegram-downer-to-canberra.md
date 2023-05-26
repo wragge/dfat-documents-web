@@ -1,24 +1,27 @@
 ---
-title: "31 CABLEGRAM, DOWNER TO CANBERRA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9897
+doc_date: '1965-08-14'
+doc_num: 31
+doc_order: 31
+naa_refs:
+- naa_barcode: 586493
+  naa_control_symbol: 3006/10/4/1 PART 1
+  naa_series: A1838
+  reference: '[NAA: Al838, 3006/10/4/1 PART I]'
+title: CABLEGRAM, DOWNER TO CANBERRA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-08-14
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 31 CABLEGRAM, DOWNER TO CANBERRA
-
-NAA: Al838, 3006/10/4/1 PART I
 
 Australian High Commission, London, 14 August 1965
 
 7037\. Secret Priority
 
-_Malaysia and Singapore_
+ _Malaysia and Singapore_
 
-I would not at this particular stage expect innermost thoughts but Morgan’s 1 probably indiscreet mention of the possibility of peace feelers to Indonesia and of limiting tenure of Singapore is, I think, fair indication that idea of ‘taking to the boat’ is not being entirely overlooked in current British review.
+I would not at this particular stage expect innermost thoughts but Morgan’s [1](#f1) probably indiscreet mention of the possibility of peace feelers to Indonesia and of limiting tenure of Singapore is, I think, fair indication that idea of ‘taking to the boat’ is not being entirely overlooked in current British review.
 
-To that extent line of thought suggested in para 8 of my 1969 2 appears already to have some currency.
+To that extent line of thought suggested in para 8 of my 1969 [2](#f2) appears already to have some currency.
 
 2\. So far, of course, Healey, Stewart and Bottomley have all been agreeably robust in resistance to confrontation.
 
@@ -32,7 +35,7 @@ I am not thoroughly sure what their private thoughts are in the longer term but 
 
 Question of whether British maintained such military presence because of solicitude for us, to keep on side with Americans, to watch over vestigial British interests in area, or whatever, would presumably not matter greatly to us so long as they did it.
 
-3\. Events of last weekend3 must have weakened to some extent the position (and perhaps the resolve) of the stalwarts.
+3\. Events of last weekend[3](#f3) must have weakened to some extent the position (and perhaps the resolve) of the stalwarts.
 
 It will be so much harder for them to persuade the Treasury bloc that continued full-scale resistance to confrontation is both necessary and also stands any reasonable prospect of success.
 
@@ -65,3 +68,5 @@ In fact, on Sunday’s precedent, the British (and we) might not even be asked f
 ‘Sunday’s precedent’ in the final paragraph is a reference to the announcement of Singapore’s separation from Malaysia.
 
 3 Again, a reference to Singapore’s separation from Malaysia.
+
+[NAA: Al838, 3006/10/4/1 PART I]

@@ -1,12 +1,17 @@
 ---
-title: "292 Dixon to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2939
+doc_date: '1944-09-19'
+doc_num: 292
+doc_order: 292
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1821]'
+title: Dixon to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 292 Dixon to Evatt
 
 Cablegram 889 WASHINGTON, 19 September 1944, 9.29 p.m.
 
@@ -26,7 +31,7 @@ Since our 884 of 17th September [2], there have been further developments of whi
 
 The statement of agreement would in fact be the text of the proposals, the section relating to voting on the Council and other sections which could not be agreed being left blank. A simple statement would be made to the effect that proposals would have to be worked out to cover these points and it would be added that the points still left open would be examined further by the Governments concerned with a view to agreeing upon final proposals to place before a United Nations Conference. The Steering Committee decided that representatives of the United Kingdom, United States and the Soviet Union should submit to their respective Governments certain provisional draft texts covering (A) and (B). The full text of these drafts is given in my immediately following telegram. [4]
 
-_
+ _
 
 1 Document 287.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 1821]_
+ _[AA:A5954, BOX 1821]_

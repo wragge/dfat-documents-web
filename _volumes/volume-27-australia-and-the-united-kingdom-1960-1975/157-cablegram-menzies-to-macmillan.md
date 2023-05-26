@@ -1,14 +1,17 @@
 ---
-title: "157 CABLEGRAM, MENZIES TO MACMILLAN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10022
+doc_date: '1961-10-06'
+doc_num: 157
+doc_order: 157
+naa_refs:
+- naa_barcode: 584008
+  naa_control_symbol: 727/4/2 PART 1
+  naa_series: A1838
+  reference: '[NAA:Al838, 727/4/2 PART 1]'
+title: CABLEGRAM, MENZIES TO MACMILLAN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-10-06
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 157 CABLEGRAM, MENZIES TO MACMILLAN
-
-NAA:Al838, 727/4/2 PART 1
 
 Canberra, 6 October 1961
 
@@ -29,3 +32,5 @@ The final decision whether or not to enter the Common Market on the terms negoti
 Our officials in London have been discussing various possible means of protecting our particular trade interests. I should make it clear, however, that while our officials have sought to be constructive in these discussions the adequacy of such arrangements as may finally be made will, in many cases, be determined critically by specific things such as quantities, prices or the levels of tariff.
 
 When we have had full particulars from our officials after their return, there may well be other important matters on which I shall wish to communicate with you, including if necessary, the matter of the status of our representatives in the negotiations.
+
+[NAA:Al838, 727/4/2 PART 1]

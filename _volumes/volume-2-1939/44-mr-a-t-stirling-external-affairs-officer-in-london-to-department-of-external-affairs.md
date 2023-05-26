@@ -1,12 +1,18 @@
 ---
-title: "44 Mr A.T. Stirling, External Affairs Officer in London, to Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 381
+doc_date: '1939-03-20'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 176506
+  naa_control_symbol: GER 58
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 58B]'
+title: Mr A.T. Stirling, External Affairs Officer in London, to Department of External
+  Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-03-20
+vol_title: 'Volume 2: 1939'
 ---
-
-# 44 Mr A.T. Stirling, External Affairs Officer in London, to Department of External Affairs
 
 Cablegram 62 LONDON, 20 March 1939
 
@@ -16,10 +22,10 @@ Timor. I understand Dominions Office are shortly telegraphing to United Kingdom 
 
 STIRLING
 
-_
+ _
 
 1 Sir Geoffrey Whiskard. See Document So.
 
 _
 
-_ [AA: A981, GERMANY 58B]_
+ _[AA: A981, GERMANY 58B]_

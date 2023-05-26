@@ -1,12 +1,17 @@
 ---
-title: "454 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2208
+doc_date: '1942-04-02'
+doc_num: 454
+doc_order: 455
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT C]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-04-02
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 454 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram S20 WASHINGTON, 2 April 1942, 8.24 p.m.
 
@@ -38,7 +43,7 @@ This dealt with facts and not with possibilities. However we have already left t
 
 'A final question arises whether Japan having declared war would attempt to invade Australia or New Zealand with a considerable army. We think this very unlikely because Japan is firstly absorbed in China, secondly would be gathering rich prizes in Dutch East Indies and thirdly would fear very much to send an important part of her fleet far to southward leaving American fleet between it and home. If, however, contrary to prudence and self-interest, Japan set about invading Australia or New Zealand on a large scale, I have explicit authority of Cabinet to assure you that we should then cut our losses in the Mediterranean and proceed to your aid sacrificing every interest except only the defence position of this island on which all depends.' 3. As to 9th Division subsequent discussions here showed that the President [8] does not intend to depart from the non-committal attitude previously advised you. [9] General Marshall [10] mentioned in conversation with me that he preferred the 9th Division to remain in the Middle East.
 
-_
+ _
 
 1 The U.K. Prime Minister also gave a copy of this cablegram on 1 April to S. M. Bruce, High Commissioner in the United Kingdom. See file AA:M100, April 1942.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT C]_
+ _[AA:A981, WAR 33, ATTACHMENT C]_

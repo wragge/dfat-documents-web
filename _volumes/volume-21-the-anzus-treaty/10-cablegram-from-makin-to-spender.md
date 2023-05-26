@@ -1,12 +1,17 @@
 ---
-title: "10 Cablegram From Makin to Spender"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8361
+doc_date: '1950-06-30'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A6364
+  reference: '[NAA : A6364, WH1950/1 IN]'
+title: Cablegram From Makin to Spender
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1950-06-30
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 10 Cablegram From Makin to Spender
 
 Cablegram, Washington, 30 June 1950
 
@@ -22,7 +27,7 @@ Begins. The Secretary of State notes with pleasure that Australian Government ha
 
 The United States Government accepts with gratitude the offer of the Australian Government to make available the squadron of mustangs now in Japan. Since it is, of course, impossible to determine here to just what use these aircraft can best be put, it is requested that their commander get in touch with appropriate United States Military authorities in Japan, notifying them that the squadron is available. General MacArthur has been notified of the Australian offer of vessels and aircraft. Ends.
 
-_ 1 30 June. It reported that Truman had welcomed the offer of the Australian Government, communicated to Washington in Cablegram 273 of 30 June, 'to place at the service of the United Nations, through the American authorities, the R.A.A.F. Fighter Squadron now stationed in Japan'. Paragraph 3 reported that the text of Cablegram 273 would be conveyed by Makin to the State Department on that afternoon.
+ _1 30 June. It reported that Truman had welcomed the offer of the Australian Government, communicated to Washington in Cablegram 273 of 30 June, 'to place at the service of the United Nations, through the American authorities, the R.A.A.F. Fighter Squadron now stationed in Japan'. Paragraph 3 reported that the text of Cablegram 273 would be conveyed by Makin to the State Department on that afternoon.
 
 2 Henry R. Labouisse.
 
@@ -30,4 +35,4 @@ _ 1 30 June. It reported that Truman had welcomed the offer of the Australian Go
 
 _
 
-_ [NAA : A6364, WH1950/1 IN]_
+ _[NAA : A6364, WH1950/1 IN]_

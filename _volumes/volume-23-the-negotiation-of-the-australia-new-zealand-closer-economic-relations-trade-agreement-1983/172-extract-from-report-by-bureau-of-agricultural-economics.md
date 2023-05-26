@@ -1,14 +1,21 @@
 ---
-title: "172 Extract from Report by Bureau of Agricultural Economics"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9041
+doc_date: '1981-12-08'
+doc_num: 172
+doc_order: 172
+naa_refs:
+- naa_barcode: 11557133
+  naa_control_symbol: 1982/1381 PART 3
+  naa_series: A1313
+  reference: '[NAA: Al313/113, 8211381, iii]'
+title: Extract from Report by Bureau of Agricultural Economics
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-12-08
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 172 Extract from Report by Bureau of Agricultural Economics
-
-## Canberra, September 1981
+Canberra, September 1981
 
 ## Comparitive Efficiency between Australian and New Zealand Dairy Industries and Implications for trans-Tasman Trade
 
@@ -85,7 +92,7 @@ To explore the impact on Australian industry had New Zealand exploited its compe
 
 
 
-_In 1978-80 circumstances,_ when world market prices for dairy products and farm profitability in Australia were higher than in 1977-78, the extent of New Zealand's competitiveness, its competitive potential and the possible contractionary pressures on the Australian dairy industry were considerably reduced.
+ _In 1978-80 circumstances,_ when world market prices for dairy products and farm profitability in Australia were higher than in 1977-78, the extent of New Zealand's competitiveness, its competitive potential and the possible contractionary pressures on the Australian dairy industry were considerably reduced.
 
   * The landed price for New Zealand imports in Australia, based on average prices received by New Zealand farmers from all markets, was estimated to ex eed the Australian domestic price in 1979-80, thereby implying that imports from New Zealand would not have been competitive on the Australian market in these circumstances.
 
@@ -179,12 +186,10 @@ Other factors that are independent of the trans-Tasman trade liberalisation proc
   * New technologies, particulary UHT milk, could reduce the profitability of high-cost market milk farms in Australia. 
     * This could result in a reduction in the number of farms in dairying.
     * But it could also increase the access, and therefore profitability, of farms previously excluded from the market milk market.
-  * If milk production falls further in Australia, the consequent reduction in the exportable surplus could be expected to increase returns to, and therefore the profitability of, remaining farmers, as a smaller proportion of milk is utilised on the lower priced export market and a larger proportion is diverted on to the higher priced domestic market.1
+  * If milk production falls further in Australia, the consequent reduction in the exportable surplus could be expected to increase returns to, and therefore the profitability of, remaining farmers, as a smaller proportion of milk is utilised on the lower priced export market and a larger proportion is diverted on to the higher priced domestic market.[1](#f1)
 
 
 
-_[NAA: Al313/113, 8211381, iii]_
+ _[NAA: Al313/113, 8211381, iii]_
 
   * 1 An additional paper, complementary to this main report and intended as a discussion paper, was forwarded by the Bureau to Departments on 8 December 1981.
-
-

@@ -1,12 +1,17 @@
 ---
-title: "92 Chifley to Churchill"
-volume: "Volume 8: 1945"
-doc_id: 3123
+doc_date: '1945-05-23'
+doc_num: 92
+doc_order: 92
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 588]'
+title: Chifley to Churchill
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-05-23
+vol_title: 'Volume 8: 1945'
 ---
-
-# 92 Chifley to Churchill
 
 Cablegram 133 CANBERRA, 23 May 1945
 
@@ -40,7 +45,7 @@ Since these advices were furnished, our manpower and materials position has furt
 
 11\. A copy of this cablegram has been furnished to Admiral Sir Bruce Fraser.
 
-_
+ _
 
 1 In AA : A5954, box 590. Cablegram 298 was in fact dispatched 9 November 1944.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 588]_
+ _[AA : A5954, BOX 588]_

@@ -1,14 +1,20 @@
 ---
-title: "335 Dr H. V. Evatt, Minister for External Affairs, to Sir Stafford Cripps"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2089
+doc_date: '1942-02-16'
+doc_num: 335
+doc_order: 336
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL''S DEPT
+    FILE MI, MINISTERPERSONAL TELEGRAMS]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Sir Stafford Cripps
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-16
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 335 Dr H. V. Evatt, Minister for External Affairs, to Sir Stafford Cripps
-
-## Cablegram unnumbered (draft) CANBERRA, [16 February 1942] [1]
+Cablegram unnumbered (draft) CANBERRA, [16 February 1942] [1]
 
 Personal from Evatt for Sir Stafford Cripps alone. [2]
 
@@ -32,7 +38,7 @@ and China are not on it. Churchill then is supposed to focus divergent views and
 
 7\. These are my confidential views. It is vital that someone in England should realise that we must find greater air support from U.S. and U.K.: we are short in everything because we have poured out our resources to help the common cause everywhere in the world.
 
-_ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
+ _DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
 
 1 Inserted from Cripps's reply (Document 339). The original typescript of this draft was extensively altered by Evatt and it is possible that further amendments were made before the cablegram was dispatched.
 
@@ -58,4 +64,4 @@ _ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
 
 _
 
-_ [FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S_
+ _[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]_

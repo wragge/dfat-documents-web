@@ -1,12 +1,18 @@
 ---
-title: "227 Department of External Affairs to Officer"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6003
+doc_date: '1948-11-30'
+doc_num: 227
+doc_order: 227
+naa_refs:
+- naa_barcode: 649697
+  naa_control_symbol: TS3107/38 PART 1
+  naa_series: A1838
+  reference: '[AA:A838/283, TS3107/38, i]'
+title: Department of External Affairs to Officer
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-11-30
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 227 Department of External Affairs to Officer
 
 Cablegram 191 CANBERRA, 30 November 1948, 11.40 a.m.
 
@@ -16,7 +22,7 @@ Your 322. [1] The Acting Minister [2] has considered position and is inclined to
 
 In circumstances present view is that you should remain on grounds that if you cannot take whole mission you do not consider you can follow government to wherever it may evacuate.
 
-_
+ _
 
 1 Dispatched 27 November it suggested that if Chiang Kai-shek were to leave Nanking, heads of missions would follow while other members of the diplomatic community remained in Nanking.
 
@@ -24,4 +30,4 @@ _
 
 _
 
-_ [AA:A838/283, TS3107/38, i]_
+ _[AA:A838/283, TS3107/38, i]_

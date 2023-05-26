@@ -1,12 +1,17 @@
 ---
-title: "276 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 613
+doc_date: '1939-10-10'
+doc_num: 276
+doc_order: 276
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 276 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 541 LONDON, 10 October 1939, 2.02, a.m.
 
@@ -18,7 +23,7 @@ From paragraph 10 on, I feel statement requires redrafting in this direction. If
 
 BRUCE
 
-_
+ _
 
 1 See Document 278.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

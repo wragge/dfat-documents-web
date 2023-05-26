@@ -1,12 +1,18 @@
 ---
-title: "218 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1449
+doc_date: '1940-12-09'
+doc_num: 218
+doc_order: 218
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20B, i]'
+title: Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister
+  to the United States
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-12-09
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 218 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States
 
 Cablegram 238 9 December 1940,
 
@@ -22,7 +28,7 @@ I feel strongly, however, that in taking unilateral steps to conform to this gen
 
 STEWART
 
-_
+ _
 
 1 Document 219.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 20B, i]_
+ _[AA:A981, FAR EAST 20B, i]_

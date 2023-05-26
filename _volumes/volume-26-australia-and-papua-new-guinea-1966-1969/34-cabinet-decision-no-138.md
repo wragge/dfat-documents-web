@@ -1,19 +1,23 @@
 ---
-title: "34 Cabinet Decision No. 138"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9542
+doc_date: '1966-03-29'
+doc_num: 34
+doc_order: 34
+naa_refs:
+- naa_barcode: 1885894
+  naa_control_symbol: 1968/838
+  naa_series: A1946
+  reference: '[NAA:A1946,1968/838]'
+title: Cabinet Decision No. 138
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-03-29
-barcode: 1885894
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 34 Cabinet Decision No. 138
 
 Canberra, 24 and 29 March 1966
 
 Top Secret
 
-**Submission No.71—Papua and New Guinea—ultimate status1**
+ **Submission No.71—Papua and New Guinea—ultimate status[1](#f1)**
 
 The Cabinet discussed the Submission on 24th and 29th March.
 
@@ -33,9 +37,9 @@ The Cabinet discussed the Submission on 24th and 29th March.
 
 ‘There is general agreement in the Cabinet on the desire to have and to keep as much flexibility for the Australian Government as possible. And since flexibility and precise response to the Select Committee would not run together, it will be necessary to avoid both formality and precision in what is said to the Committee. It might be said, as paragraph 61 proposes, that it is the Territory’s prerogative, on its own decision and its own timing, to terminate its present territory status and to take independent status. But that being said, it might be added, not by way of instruction or advice but in the process of give and take of counsel, that the Government would think that the Territory will not wish to make a decision for independence until it has, for instance, a good deal greater degree of economic and political viability than it now has, and that pending this achievement, Australia will be willing to see the Territory continue in its present political status, and further, will stand willing, and will desire, to help its development. It will assist towards financial independence by progressively giving the Territory more financial autonomy as its capacity to contribute to its own revenues increases. Further, it will wish to put more and more of the administration of the Territory in Territory hands, by the development of the Territory public service and to enlarge progressively the measure of self-government. Finally, still in terms of give and take of counsel, it might be said that Australia would think that whatever the political status of New Guinea may be at any time, there would be, as a matter of mutual self-interest, a defence relationship and also a trade relationship of mutual advantage. The defence relationship would derive from the Territory’s need of Australian aid in defence, and from Australia’s interest, from a defence point of view, in New Guinea.’
 
-7\. Paragraph 60 of the Submission proposes a general statement to the effect that, for its part, the Government does not see the difference in status of Papua and ofNew Guinea as leading to a preferred position for Papua as against New Guinea in respect of relationships with Australia. It was agreed that an indication of these lines would be in order.2
+7\. Paragraph 60 of the Submission proposes a general statement to the effect that, for its part, the Government does not see the difference in status of Papua and ofNew Guinea as leading to a preferred position for Papua as against New Guinea in respect of relationships with Australia. It was agreed that an indication of these lines would be in order.[2](#f2)
 
-[ [NAA:A1946,1968/838](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1885894) ]
+[NAA:A1946,1968/838]
 
 1 Document 25.
 

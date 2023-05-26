@@ -1,36 +1,39 @@
 ---
-title: "114 MINUTE, BAILEY TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9979
+doc_date: '1971-06-10'
+doc_num: 114
+doc_order: 114
+naa_refs:
+- naa_barcode: 3166916
+  naa_control_symbol: CO1191
+  naa_series: A5882
+  reference: '[NAA: A5882, CO1191]'
+title: MINUTE, BAILEY TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-10
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 114 MINUTE, BAILEY TO MCMAHON
-
-NAA: A5882, CO1191
 
 Canberra, 10 June 1971
 
 Secret
 
-_The Prime Minister_
+ _The Prime Minister_
 
 You asked for a note of the main points made by Ministers during the Cabinet discussions on 8 June.
 
 2\. The attached paper has been prepared in response. It makes no attempt to reflect the ebb and flow of discussion. Its object is to provide you with a relatively unvarnished summary of the main points.
 
-3\. I should perhaps add that it has never before been practice for those attending meetings of Cabinet or its Committees in a secretarial capacity to make any record of what is said during the Cabinet discussions apart from the Cabinet decision1 and the manuscript notes we make at the time.
+3\. I should perhaps add that it has never before been practice for those attending meetings of Cabinet or its Committees in a secretarial capacity to make any record of what is said during the Cabinet discussions apart from the Cabinet decision[1](#f1) and the manuscript notes we make at the time.
 
 4\. The attached notes are supplied to help you in reviewing the points made, on the basis that the Cabinet Minute itself does not on this occasion provide any background. It is, however, different from an ordinary Cabinet Minute in that it is not designed to record agreed conclusions or points of emphasis—rather, it records points as made.
 
-_Notes_
+ _Notes_
 
-1\. The Cabinet was invited by Mr. Gorton to note the Strategic Review Report2 on the footing that it involved ‘a considerable variation from previous approaches’.3
+1\. The Cabinet was invited by Mr. Gorton to note the Strategic Review Report[2](#f2) on the footing that it involved ‘a considerable variation from previous approaches’.[3](#f3)
 
-2\. A variation from previous policy was identified—see Page 3 of Submission from the Minister of Defence—as more emphasis than hitherto given to continental defence—in other words to ‘Fortress Australia’ .4
+2\. A variation from previous policy was identified—see Page 3 of Submission from the Minister of Defence—as more emphasis than hitherto given to continental defence—in other words to ‘Fortress Australia’ .[4](#f4)
 
-3\. There was a clear view in Cabinet against exaggerated emphasis on continental defence and the Cabinet indicated, in terms, that it did not accept the concept of ‘Fortress Australia’. On the contrary, it reflected a strong feeling that to do so would seem to be a sudden switch in policy when the Cabinet’s view was that policy should remain very much as it is—and in accordance with paragraph ...5 of the Report, that is to say that Australia participating in forward defence where she can and maintaining an overseas presence.
+3\. There was a clear view in Cabinet against exaggerated emphasis on continental defence and the Cabinet indicated, in terms, that it did not accept the concept of ‘Fortress Australia’. On the contrary, it reflected a strong feeling that to do so would seem to be a sudden switch in policy when the Cabinet’s view was that policy should remain very much as it is—and in accordance with paragraph ...[5](#f5) of the Report, that is to say that Australia participating in forward defence where she can and maintaining an overseas presence.
 
 4\. Referring to the concept of ‘forward defence’ the Cabinet reflected a view that Australia should sustain a forward defence element for as long as she can and ‘not to depart from a wish and a will to have defence as far away from Australia as possible’.
 
@@ -53,3 +56,5 @@ _Notes_
 4 This is a reference to paragraph 5 of Document 108 and its cross-reference to paragraph 184 of Document 107.
 
 6 The paragraph reference here is blank in the original but, for the point being made, see paragraph 1 of Document 106.
+
+[NAA: A5882, CO1191]

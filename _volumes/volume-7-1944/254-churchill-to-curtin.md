@@ -1,12 +1,17 @@
 ---
-title: "254 Churchill to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2901
+doc_date: '1944-08-23'
+doc_num: 254
+doc_order: 254
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 560]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-23
+vol_title: 'Volume 7: 1944'
 ---
-
-# 254 Churchill to Curtin
 
 Cablegram Winch 5 LONDON, 23 August 1944, 2.10 a.m.
 
@@ -62,7 +67,7 @@ Ends.
 
 3\. This will let you see how the matter stands at present.
 
-_
+ _
 
 1 Document 212.
 
@@ -72,4 +77,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 560]_
+ _[AA:A5954, BOX 560]_

@@ -1,12 +1,17 @@
 ---
-title: "363 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 3010
+doc_date: '1944-11-27'
+doc_num: 363
+doc_order: 363
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 590]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-27
+vol_title: 'Volume 7: 1944'
 ---
-
-# 363 Bruce to Curtin
 
 Cablegram 142 LONDON, 27 November 1944, 6.56 p.m.
 
@@ -52,7 +57,7 @@ The Admiralty add that it would greatly assist them if the report referred to in
 
 BRUCE
 
-_
+ _
 
 1 Material in square brackets has been corrected/inserted from Bruce's copy on file AA:M100, November 1944. See Document 339.
 
@@ -66,4 +71,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 590]_
+ _[AA:A5954, BOX 590]_

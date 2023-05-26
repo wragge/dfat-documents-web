@@ -1,12 +1,18 @@
 ---
-title: "173 Roosevelt to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2464
+doc_date: '1943-05-05'
+doc_num: 173
+doc_order: 173
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FRANKLIN D. ROSSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT''S SECRETARY''S
+    FILE BOX 32 PSF AUSTRALIA]'
+title: Roosevelt to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-05
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 173 Roosevelt to Evatt
 
 Letter [Washington ], 5 May 1943
 
@@ -20,7 +26,7 @@ The needs of the Pacific theater must be integrated with those of the global war
 
 FRANKLIN D. ROOSEVELT
 
-_ 1 Document 164.
+ _1 Document 164.
 
 2 See cablegram 90 of 25 January on file AA:A989, 43/970/14.
 
@@ -28,4 +34,4 @@ _ 1 Document 164.
 
 _
 
-_ [FRANKLIN D. ROSSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT'S SECRETARY'S FILE BOX 32 PSF AUSTRALIA]_
+ _[FRANKLIN D. ROSSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT'S SECRETARY'S FILE BOX 32 PSF AUSTRALIA]_

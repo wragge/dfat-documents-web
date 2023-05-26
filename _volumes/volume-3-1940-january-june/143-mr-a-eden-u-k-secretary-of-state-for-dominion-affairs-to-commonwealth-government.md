@@ -1,12 +1,17 @@
 ---
-title: "143 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 909
+doc_date: '1940-04-14'
+doc_num: 143
+doc_order: 143
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2456]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-14
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 143 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular cablegram D124 LONDON, 14 April 1940, 4 a.m.
 
@@ -42,7 +47,7 @@ Meanwhile His Majesty's Government in the United Kingdom would be very grateful 
 
 We feel sure that the Commonwealth Government will appreciate the importance of treating this subject as most secret and ensuring that our intentions are in no way disclosed.
 
-_
+ _
 
 1 Document 141.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [FA: A3195, 1.2456]_
+ _[FA: A3195, 1.2456]_

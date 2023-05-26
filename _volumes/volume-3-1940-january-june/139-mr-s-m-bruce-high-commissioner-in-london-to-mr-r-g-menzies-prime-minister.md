@@ -1,14 +1,19 @@
 ---
-title: "139 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 905
+doc_date: '1940-04-12'
+doc_num: 139
+doc_order: 139
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2373]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-12
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 139 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram unnumbered LONDON, 12 April 1940, 12.05 p.m.
+Cablegram unnumbered LONDON, 12 April 1940, 12.05 p.m.
 
 Your telegram 10th April. [1] Dominions Office advise as follows- Difficulties concerning suppression of news of movements of the QUEEN MARY and MAURETANIA arise from circumstances beyond the control of Allied censorship authorities.
 
@@ -26,7 +31,7 @@ Above should be regarded also as a reply to your telegram to Secretary of State 
 
 BRUCE
 
-_
+ _
 
 1 Document 133.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [FA: A3195, 1.2373]_
+ _[FA: A3195, 1.2373]_

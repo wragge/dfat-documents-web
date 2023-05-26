@@ -1,12 +1,20 @@
 ---
-title: "72 Cablegram from Department of Foreign Affairs to Australian High Commission in Wellington"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8942
+doc_date: '1980-03-11'
+doc_num: 72
+doc_order: 72
+naa_refs:
+- naa_barcode: 1509890
+  naa_control_symbol: 370/1/19/18 PART 26
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011119/18, xvi]'
+title: Cablegram from Department of Foreign Affairs to Australian High Commission
+  in Wellington
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-03-11
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 72 Cablegram from Department of Foreign Affairs to Australian High Commission in Wellington
 
 Canberra, 11 March 1980
 
@@ -16,7 +24,7 @@ Economic Relations with New Zealand: Prime Ministerial Meeting 21 March
 
 At a meeting yesterday Departments agreed on procedures for implementing the decisions taken by Cabinet last week and on preparations for the discussion of the economic relationship by Prime Ministers on 21 March.
 
-  2. It was agreed that Mr Scully should ring Mr Lough today to advise points which the New Zealand side needs to know about Ministerial reactions to the Joint Report of Permanent Heads1 and to the nature of documentation which should result from the Prime Ministerial meeting.
+  2. It was agreed that Mr Scully should ring Mr Lough today to advise points which the New Zealand side needs to know about Ministerial reactions to the Joint Report of Permanent Heads[1](#f1) and to the nature of documentation which should result from the Prime Ministerial meeting.
   3. These points include: 
     * —Cabinet has given positive but not unqualified support to the Joint Permanent Heads Report.
     * —It should be clearly understood that we do not intend to enter into any commitments at the Prime Ministerial meeting.
@@ -30,8 +38,6 @@ At a meeting yesterday Departments agreed on procedures for implementing the dec
 
 
 
-_[NAA: A1838, 37011119/18, xvi]_
+ _[NAA: A1838, 37011119/18, xvi]_
 
   * 1 1 Document 66.
-
-

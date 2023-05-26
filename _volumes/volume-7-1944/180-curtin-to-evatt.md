@@ -1,12 +1,17 @@
 ---
-title: "180 Curtin to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2827
+doc_date: '1944-06-03'
+doc_num: 180
+doc_order: 180
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/832/1, ii]'
+title: Curtin to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-03
+vol_title: 'Volume 7: 1944'
 ---
-
-# 180 Curtin to Evatt
 
 Cablegram PM48 (extract) WASHINGTON, 3 June 1944
 
@@ -20,7 +25,7 @@ Australian viewpoint could then be clearly set out and possibly Americans induce
 
 [matter omitted] [3]
 
-_
+ _
 
 1 Document 165.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/832/1, ii]_
+ _[AA:A989, 43/735/832/1, ii]_

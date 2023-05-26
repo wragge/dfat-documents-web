@@ -1,23 +1,27 @@
 ---
-title: "219 Notes Of Interdepartmental Meeting"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9727
+doc_date: '1968-08-23'
+doc_num: 219
+doc_order: 219
+naa_refs:
+- naa_barcode: 583784
+  naa_control_symbol: 3034/10/1/4 PART 2
+  naa_series: A1838
+  reference: '[NAA: A1838,3034/10/1/4 part 2]'
+title: Notes Of Interdepartmental Meeting
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-08-23
-barcode: 583784
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 219 Notes Of Interdepartmental Meeting
 
 Canberra, 23 August 1968
 
 Secret
 
-**TPNG border contingency planning**
+ **TPNG border contingency planning**
 
 Threat Assessment
 
-The consensus of opinion in discussion that took place in the light of oral assessments given by _Mr Starey_and _Commander Black_ was as follows:—
+The consensus of opinion in discussion that took place in the light of oral assessments given by _Mr Starey_ and _Commander Black_ was as follows:—
 
 • it was unlikely that disturbances would take place on the arrival of the United Nations Mission at Sukarnapura as West lrianese nationalist leaders would probably not want to show their hand at that stage. Latest intelligence reports supported this view;
 
@@ -37,7 +41,7 @@ Contingency Planning
 
 3\. _Mr Holt_ pointed out that the role of the armed forces in any situation that might develop would primarily depend on what the Administration itself could achieve with its own resources. It was therefore necessary to know what the Administration’s plans were and what kind of help it might need.
 
-_Administration plans_
+ _Administration plans_
 
 4\. It was agreed that, as it was uncertain how and in precisely what area or areas a situation might develop, what was needed was not so much a detailed physical plan for setting up refugee camps or establishing stocks of food and equipment at particular points, but rather a plan for the administrative control of a developing situation. This would involve drawing up a set of directions and procedures which would ensure speedy action to—
 
@@ -51,7 +55,7 @@ _Administration plans_
 
 • It was also considered that the plan—
 
-• should include instructions to field staff and police (along the lines of PNG Command Operational Instruction No. 1/67)2 for action in the event of contact with armed groups of refugees or Indonesian Army or police patrols;
+• should include instructions to field staff and police (along the lines of PNG Command Operational Instruction No. 1/67)[2](#f2) for action in the event of contact with armed groups of refugees or Indonesian Army or police patrols;
 
 • should give a general indication of the size of influx the Administration would need help to deal with.
 
@@ -69,7 +73,7 @@ _Administration plans_
 
 9\. Defence would need to have information on theAdministration’s plans and requirements under both (a) and (b) as a basis for the further development of a Joint Service plan.
 
-_Diplomatic action_
+ _Diplomatic action_
 
 10\. _Mr Jockel_ stated that External Affairs had so far found it difficult to get to grips with the Indonesian authorities on the question of dissident West lrianese wanting to take refuge in TPNG. A start could now be made however on the basis of the Indonesian charge that West lrianese permissive residents in TPNG were carrying on anti-Indonesian activity. If the Indonesians could be assured that steps were being taken to hold these persons to their undertaking not to engage in such activity, it might be possible to give further assurances that any West Irianese whom we allowed into TPNG would be ‘taken out of the game’ so far as the nationalist movement was concerned.
 
@@ -77,29 +81,29 @@ _Diplomatic action_
 
 Identification Of Indonesian Armed Forces
 
-12\. On the question of briefing Administration officers and police on the identification of members of the Indonesian armed forces_ Brigadier Hopton_ thought that Papua and New Guinea Command would have all the necessary information for this purpose.
+12\. On the question of briefing Administration officers and police on the identification of members of the Indonesian armed forces _Brigadier Hopton_ thought that Papua and New Guinea Command would have all the necessary information for this purpose.
 
 Summary Of Action To Be Taken
 
 13\. It was agreed that action should proceed on the following lines:—
 
-_External Territories_
+ _External Territories_
 
 •To obtain from the Administration and pass to Defence particulars of the Administration’s plans and requirements. (In this connection Army’s offer of assistance to the Administration in formulating its plans was acknowledged.)
 
-•To consult the Administration about the enforcement of undertakings by West Irianese permissive residents not to engage in political activity. (_Mr Besley_ undertook to consult _Mr Jockel_ further on this.)
+•To consult the Administration about the enforcement of undertakings by West Irianese permissive residents not to engage in political activity. ( _Mr Besley_ undertook to consult _Mr Jockel_ further on this.)
 
 •To obtain from the Administration a thorough assessment of probable Papuan and New Guinean attitudes to future West Irianese refugees.
 
-_Defence and Army_
+ _Defence and Army_
 
 • When particulars of the Administration’s plans and requirements were received by Defence they will be used as a basis for the further development of a Joint Service contingency plan.
 
-_External Affairs_
+ _External Affairs_
 
 • Once the necessary assurance regarding control of West Irianese permissive residents in Papua and New Guinea has been obtained from External Territories, External Affairs to take up with the Indonesian authorities the matters outlined at paragraphs 10 and 11 above.
 
-[ [NAA: A1838,3034/10/1/4 part 2](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=583784) ]
+[NAA: A1838,3034/10/1/4 part 2]
 
 1  The meeting was attended by representatives from DOET (Besley, Galvin and Legge), DEA (Jockel, Starey and J.S. Holloway (Third Secretary, Australian Embassy, Djakarta)), Defence (Commander A.D. Black (Naval Member, Joint Intelligence Staff) and Holt (initials and position unidentified)) and Army (Brigadier L.I. Hopton (Director, Military Operations and Plans, JPC) and Major (presumably, K. W. Major, Assistant Secretary, Planning Branch)). 
 

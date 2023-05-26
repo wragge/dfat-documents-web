@@ -1,12 +1,18 @@
 ---
-title: "469 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1700
+doc_date: '1941-05-25'
+doc_num: 469
+doc_order: 469
+naa_refs:
+- naa_barcode: 206234
+  naa_control_symbol: B41/1/9 PART 2
+  naa_series: A1608
+  reference: '[AA: M608, B41/1/9, ii]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-25
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 469 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 317 25 May 1941,
 
@@ -16,7 +22,7 @@ Your telegram No. 230 of 15th May [1] received through the United Kingdom High C
 
 It was gathered from the Minister's conversation that he considered that most of the internees would not come within the above category but would be just ordinary business and commercial men. The Minister discounted any suggestion that the Netherlands authorities would be indifferent to their own and the allies' interests and claimed that many Germans had been set at liberty quite unconditionally after internment in Malaya.
 
-_
+ _
 
 1 Document 459.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA: M608, B41/1/9, ii]_
+ _[AA: M608, B41/1/9, ii]_

@@ -1,14 +1,17 @@
 ---
-title: "311 LETTER, LARMOUR TO HEYDON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10177
+doc_date: '1963-04-11'
+doc_num: 311
+doc_order: 311
+naa_refs:
+- naa_barcode: 1986667
+  naa_control_symbol: 1970/95740
+  naa_series: A446
+  reference: '[NAA: A446, 1970/95740]'
+title: LETTER, LARMOUR TO HEYDON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1963-04-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 311 LETTER, LARMOUR TO HEYDON
-
-NAA: A446, 1970/95740 
 
 Canberra, 11 April 1963
 
@@ -26,6 +29,8 @@ I promised to let you have such information as we have available here, about arr
 
 7\. There will be no segregation at all of out-going passengers during the less busy periods. During busy periods out–going Commonwealth non-UK passengers will be dealt with separately from foreigners once the structural alterations to the terminals have been carried out.
 
-8\. The position should therefore soon be cleared up at London airport. According to our information, arrangements at Dover should already be satisfactory and I am puzzled that your Minister should have received a complaint about them.1 But if you could let me have details of any cases we should be very glad to ask London to look into them.
+8\. The position should therefore soon be cleared up at London airport. According to our information, arrangements at Dover should already be satisfactory and I am puzzled that your Minister should have received a complaint about them.[1](#f1) But if you could let me have details of any cases we should be very glad to ask London to look into them.
 
 1 See footnote to Document 310. 
+
+[NAA: A446, 1970/95740]

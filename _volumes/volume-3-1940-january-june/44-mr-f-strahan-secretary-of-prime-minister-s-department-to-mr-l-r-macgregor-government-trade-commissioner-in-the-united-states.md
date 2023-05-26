@@ -1,20 +1,26 @@
 ---
-title: "44 Mr F. Strahan, Secretary of Prime Minister's Department, to Mr L. R. Macgregor, Government Trade Commissioner in the United States"
-volume: "Volume 3: 1940, January-June"
-doc_id: 810
+doc_date: '1940-02-06'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, 0.701]'
+title: Mr F. Strahan, Secretary of Prime Minister's Department, to Mr L. R. Macgregor,
+  Government Trade Commissioner in the United States
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-06
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 44 Mr F. Strahan, Secretary of Prime Minister's Department, to Mr L. R. Macgregor, Government Trade Commissioner in the United States
-
-## Cablegram unnumbered 6 February 1940,
+Cablegram unnumbered 6 February 1940,
 
 Casey [1] sailed 2nd February 'Monterey' take up duty Washington.
 
 Glasgow [2] sails 1st March 'Mariposa' for Ottawa. Decided status Trade Commissioner establishments U.S.A., Canada and existing channels of communication with Departments in Australia remain unaltered. You will recognise that Minister at Washington and High Commissioner at Ottawa are the senior representatives of Australia in their respective countries and essential they be kept informed of any important matters and consulted where thought advisable by our Trade Commissioners in North America. Specifically our Trade Commissioners will be expected to place themselves at the disposal of the Minister or High Commissioner when called upon by them for advice or services on specific questions. Ellen [3] should be advised appropriately. [4]
 
-_
+ _
 
 1 Minister designate to the United States.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [FA: A3196, 0.701]_
+ _[FA: A3196, 0.701]_

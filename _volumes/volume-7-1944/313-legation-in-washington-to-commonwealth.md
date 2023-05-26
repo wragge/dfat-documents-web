@@ -1,12 +1,17 @@
 ---
-title: "313 Legation in Washington to Commonwealth"
-volume: "Volume 7: 1944"
-doc_id: 2960
+doc_date: '1944-10-10'
+doc_num: 313
+doc_order: 313
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, iv]'
+title: Legation in Washington to Commonwealth
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-10
+vol_title: 'Volume 7: 1944'
 ---
-
-# 313 Legation in Washington to Commonwealth
 
 Government
 
@@ -20,7 +25,7 @@ Further to my 921. [1] Lend Lease in Stage II.
 
 Meeting of Australian Representatives designated in your telegram 1456 [2] or their nominees was held at the Legation this morning to discuss the general problems involved and line of approach to adopt on the question of procedure. This afternoon all Australian Representatives had a preliminary meeting with the United Kingdom Representatives who included Ben Smith, Keynes, Brand [3], Self 
 
-_ for- (A) Continuance of existing contacts and machinery (Munitions and Non-Munitions) so far as applicable;
+_for- (A) Continuance of existing contacts and machinery (Munitions and Non-Munitions) so far as applicable;
 
 (B) General meetings from time to time at which the United Kingdom Representatives would give us information on important developments;
 
@@ -60,4 +65,4 @@ Embassy in Washington.
 
 _
 
-_ [4], Hambro [5], Opie. [6] On the question of procedure we asked_
+ _[4], Hambro [5], Opie. [6] On the question of procedure we asked_

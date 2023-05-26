@@ -1,12 +1,17 @@
 ---
-title: "126 Minutes of Meeting of Prime Ministers"
-volume: "Volume 7: 1944"
-doc_id: 2773
+doc_date: '1944-05-03'
+doc_num: 126
+doc_order: 126
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A6712
+  reference: '[AA:A6712, 1944, TOP SECRET]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-03
+vol_title: 'Volume 7: 1944'
 ---
-
-# 126 Minutes of Meeting of Prime Ministers
 
 PMM(44) 5th Meeting LONDON, 3 May 1944, 5.30 p.m.
 
@@ -40,7 +45,7 @@ If the Americans wished to send more soldiers to Australia, they would have to b
 
 [matter omitted]
 
-_
+ _
 
 1 See AA:A6712, 1944, Top Secret, PMM(44) 4th Meeting.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA:A6712, 1944, TOP SECRET]_
+ _[AA:A6712, 1944, TOP SECRET]_

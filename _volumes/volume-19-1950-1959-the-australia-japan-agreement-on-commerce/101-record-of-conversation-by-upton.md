@@ -1,14 +1,19 @@
 ---
-title: "101 Record Of Conversation By Upton"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7706
+doc_date: '1955-05-12'
+doc_num: 101
+doc_order: 101
+naa_refs:
+- naa_barcode: 303048
+  naa_control_symbol: 602/2 PART 4
+  naa_series: A462
+  reference: '[AA : A462/20, 602, iv]'
+title: Record Of Conversation By Upton
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1955-05-12
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 101 Record Of Conversation By Upton
-
-## 12th May, 1955
+12th May, 1955
 
 CANBERRA
 
@@ -28,10 +33,10 @@ In conclusion Mr Peterson deplored as short-sighted the U.K.
 
 invocation of Article XXXV.
 
-_
+ _
 
 1 Avery F. Peterson, Counselor at the US Embassy in Canberra. He was accompanied by Second Secretary Douglass K. Ballentine.
 
 _
 
-_ [AA : A462/20, 602, iv]_
+ _[AA : A462/20, 602, iv]_

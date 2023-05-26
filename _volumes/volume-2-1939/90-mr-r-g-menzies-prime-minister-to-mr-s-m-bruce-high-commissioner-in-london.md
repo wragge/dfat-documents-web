@@ -1,14 +1,19 @@
 ---
-title: "90 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 427
+doc_date: '1939-05-19'
+doc_num: 90
+doc_order: 90
+naa_refs:
+- naa_barcode: 176557
+  naa_control_symbol: GREA 8 PART 4
+  naa_series: A981
+  reference: '[AA: A981, GREAT BRITAIN 8B, iv]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-19
+vol_title: 'Volume 2: 1939'
 ---
 
-# 90 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
-
-## Cablegram 32 19 May 1939,
+Cablegram 32 19 May 1939,
 
 Your 179. [1] Russian negotiations. In our view it is scarcely possible to exaggerate the importance to Australia and New Zealand of Japan remaining outside a military alliance with Germany and Italy. As distinct from the risk of her engaging immediately in major operations, we cannot escape the possibility or even the probability that if Japan joined with Germany and Italy in the event of war, she might participate on a limited scale but sufficient to be completely destructive of Australian and New Zealand trade, while at the same time running relatively little risk of intervention by the United States. She might do this by the very free use of raiders and Navy generally, while at the same time keeping clear of any territorial aggression.
 
@@ -24,10 +29,10 @@ We agree that the strongest possible assurances should be given to Japan that an
 
 MENZIES
 
-_
+ _
 
 1 Document 89.
 
 _
 
-_ [AA: A981, GREAT BRITAIN 8B, iv]_
+ _[AA: A981, GREAT BRITAIN 8B, iv]_

@@ -1,12 +1,18 @@
 ---
-title: "400 Memorandum for U.K.War Cabinet by U.K. Chiefs of Staff Committee"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1631
+doc_date: '1941-04-11'
+doc_num: 400
+doc_order: 400
+naa_refs:
+- naa_barcode: 650976
+  naa_control_symbol: 633/11
+  naa_series: A5954
+  reference: '[DEFENCE: SPECIAL COLLECTION 1, BOX 633, PRIME MINISTER''S VISIT ABROAD,
+    1941. REVIEW OF DEFENCE POSITION IN THE PACIFIC. WAR CABINET AGENDUM NO. 195/1941]'
+title: Memorandum for U.K.War Cabinet by U.K. Chiefs of Staff Committee
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-11
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 400 Memorandum for U.K.War Cabinet by U.K. Chiefs of Staff Committee
 
 COS(41)230 Final (extract) LONDON, 11 April 1941
 
@@ -190,7 +196,7 @@ C. F. A. PORTAL [12]
 
 R. H. HAINING [13]
 
-_ ABROAD, 1941. REVIEW OF DEFENCE POSITION IN THE PACIFIC. WAR CABINET AGENDUM NO. 195/1941]
+ _
 
 1 Paper no. 7A, 'Strategical Questions and Objectives in Strength', dated 29 March. This memorandum, and several other papers mentioned below, were originally attached to this document as annexes. They are not reproduced here but are available on file Defence: Special Collection 1, Box 633, Prime Minister's Visit Abroad, 1941. Review of Defence Position in the Pacific. War Cabinet Agendum No. 195/1941.
 
@@ -220,4 +226,4 @@ _ ABROAD, 1941. REVIEW OF DEFENCE POSITION IN THE PACIFIC. WAR CABINET AGENDUM N
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION 1, BOX 633, PRIME MINISTER'S VISIT_
+ _[DEFENCE: SPECIAL COLLECTION 1, BOX 633, PRIME MINISTER'S VISIT ABROAD, 1941. REVIEW OF DEFENCE POSITION IN THE PACIFIC. WAR CABINET AGENDUM NO. 195/1941]_

@@ -1,24 +1,27 @@
 ---
-title: "21 FOREIGN OFFICE MINUTES BY WATERFIELD, WARNER, CABLE AND PECK"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9888
+doc_date: '1963-07-08'
+doc_num: 21
+doc_order: 21
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FO 371/173522, Z21/2]'
+title: FOREIGN OFFICE MINUTES BY WATERFIELD, WARNER, CABLE AND PECK
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1963-07-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 21 FOREIGN OFFICE MINUTES BY WATERFIELD, WARNER, CABLE AND PECK
-
-UKNA: FO 371/173522, Z21/2
 
 London, 17 June– 8 July 1963
 
 Confidential
 
-****
+ ****
 
 South-East Asia Defence: Australian Policy
 
-This intervention by Mr de Zulueta is rather odd. 1 But although there have been ANZAM meetings since Aug ’62, as far as I know there has been no ‘joint study of defence problems in the area’ by all three powers.
+This intervention by Mr de Zulueta is rather odd. [1](#f1) But although there have been ANZAM meetings since Aug ’62, as far as I know there has been no ‘joint study of defence problems in the area’ by all three powers.
 
 As I have minuted on other pp. we ourselves are in no position militarily to formulate any requirements in Australia; and, politically, we have been very cagey about taking anything but a very guarded initiative with Mr Menzies (Rumours of ‘scuttle’ etc).
 
@@ -34,13 +37,13 @@ F.A. Warner
 
 20.6.63
 
-**Defence problems in South-East Asia and Australasia in a situation in which the facilities of Malaysia might no longer be available to us, e.g. in Singapore**
+ **Defence problems in South-East Asia and Australasia in a situation in which the facilities of Malaysia might no longer be available to us, e.g. in Singapore**
 
-I asked General Price 2 in the C.R.O. whether his Department had replied to Mr. de Zulueta.’s enquiry whether, as implied in Canberra telegram No. 709. of August 31, 1962, the United Kingdom, Australia and New Zealand had got together to study defence problems in South-East Asia and Australasia in the event that facilities might no longer be available in Malaysia.
+I asked General Price [2](#f2) in the C.R.O. whether his Department had replied to Mr. de Zulueta.’s enquiry whether, as implied in Canberra telegram No. 709. of August 31, 1962, the United Kingdom, Australia and New Zealand had got together to study defence problems in South-East Asia and Australasia in the event that facilities might no longer be available in Malaysia.
 
 2\. General Price said that the Private Secretary had replied drawing attention to the C.R.O. brief for discussion with Sir R. Menzies, which reads:–
 
-> ‘We have no further views since messages were last exchanged between the Prime Minister and Sir R. Menzies (i.e. 1962)3 to the question of what would happen in a possible situation in which the facilities of Malaysia might no longer be available to use, e.g. in Singapore. We may tum to this question again once Malaysia has been established and we can see how it shapes up.’
+> ‘We have no further views since messages were last exchanged between the Prime Minister and Sir R. Menzies (i.e. 1962)[3](#f3) to the question of what would happen in a possible situation in which the facilities of Malaysia might no longer be available to use, e.g. in Singapore. We may tum to this question again once Malaysia has been established and we can see how it shapes up.’
 
 3\. The records of discussion between the Prime Minister and Sir R. Menzies and the latter and Mr. Thorneycroft gave no indication that alternative arrangements, e.g. the Australia base, were touched upon. General Price confirms that no formal discussion, whether political or military, has ever taken place with the Commonwealth on the possibility of the United Kingdom setting up a base, with the others, in Australia.
 
@@ -58,7 +61,7 @@ J.E. Cable
 
 4.7.63
 
-Malaysia is now agreed with the omission of Brunei. Our tenure of Singapore would thus _seem_4 to be assured and there will be a tendency on the part of the Services to count on Singapore for all time. I myself think we can count on it for 5–7 years, but that we should use this breathing-space to readjust our stance, perhaps with a main base in Australia and a forward operating post in Singapore which we should stand a better chance of preserving if we reduced the present enormous clutter of the base. But for the moment we need Singapore to deal with the Indonesian threat and we will not be asked to withdraw until that threat is over. But in the middle-term (say 1968) with a more left-wing Gov. possibly in Malaysia, there may well be pressure on us to leave Singapore and in my view we should prepare against that day by a gradual withdrawal of the ‘non-teeth’ areas of Singapore. The financial implications of a new ‘base’ elsewhere are such that this is not the moment to raise it. Further talks with the Australians might however lead on to discovering the extent to which they would be prepared to finance, though probably not man, a base in Darwin or Cockburn Sound. This could come into the next round, or the next but one, of the strategic review discussions, but needs to be handled with extreme delicacy and the timing must be right.
+Malaysia is now agreed with the omission of Brunei. Our tenure of Singapore would thus _seem_[4](#f4) to be assured and there will be a tendency on the part of the Services to count on Singapore for all time. I myself think we can count on it for 5–7 years, but that we should use this breathing-space to readjust our stance, perhaps with a main base in Australia and a forward operating post in Singapore which we should stand a better chance of preserving if we reduced the present enormous clutter of the base. But for the moment we need Singapore to deal with the Indonesian threat and we will not be asked to withdraw until that threat is over. But in the middle-term (say 1968) with a more left-wing Gov. possibly in Malaysia, there may well be pressure on us to leave Singapore and in my view we should prepare against that day by a gradual withdrawal of the ‘non-teeth’ areas of Singapore. The financial implications of a new ‘base’ elsewhere are such that this is not the moment to raise it. Further talks with the Australians might however lead on to discovering the extent to which they would be prepared to finance, though probably not man, a base in Darwin or Cockburn Sound. This could come into the next round, or the next but one, of the strategic review discussions, but needs to be handled with extreme delicacy and the timing must be right.
 
 E. Peck
 
@@ -71,3 +74,5 @@ E. Peck
 3 See Documents 13 and 16.
 
 4  Emphasis in original.
+
+[UKNA: FO 371/173522, Z21/2]

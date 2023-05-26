@@ -1,14 +1,17 @@
 ---
-title: "248 CABLEGRAM, HOLT TO MCEWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10113
+doc_date: '1967-11-21'
+doc_num: 248
+doc_order: 248
+naa_refs:
+- naa_barcode: 4681517
+  naa_control_symbol: '124'
+  naa_series: M2684
+  reference: '[NAA: M2684, 124]'
+title: CABLEGRAM, HOLT TO MCEWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-11-21
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 248 CABLEGRAM, HOLT TO MCEWEN
-
-NAA: M2684, 124 
 
 Canberra, 21 November 1967
 
@@ -16,7 +19,7 @@ Canberra, 21 November 1967
 
 I called a special meeting of Cabinet in Canberra today to consider the situation created by the British devaluation. I had had a message from Wilson only on Saturday afternoon informing us of their decision and the circumstances which led them to it.
 
-2\. I held a meeting first with some of the officials including Coombs and Phillips of the Reserve Bank, and Randall, Westerman, Singer and McKay. 1
+2\. I held a meeting first with some of the officials including Coombs and Phillips of the Reserve Bank, and Randall, Westerman, Singer and McKay. [1](#f1)
 
 Doug Anthony, who had been in Northern Queensland, was not available for this meeting but Ian Sinclair was present. We had a meeting of full Cabinet at 2:15, at which Doug Anthony was present.
 
@@ -35,3 +38,5 @@ We had been pressed by the Americans and the British to refrain from a devaluati
 7\. It has been a difficult decision for us but I feel that on all the information before it Cabinet had no alternative that was realistic in both economic and political terms.
 
 1  H.C. Coombs, Governor of the Reserve Bank of Australia; John G. Phillips, Deputy Chairman, Reserve Bank of Australia; D.H. McKay, Deputy Secretary, Department of Trade. The reference to ‘Singer’ is presumably to A.L. Senger, Deputy Secretary, Department of Primary Industry. 
+
+[NAA: M2684, 124]

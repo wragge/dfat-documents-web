@@ -1,26 +1,34 @@
 ---
-title: "150 Extracts from Report by Department of Trade and Resources on Permanent Heads Meeting"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9019
+doc_date: '1981-03-25'
+doc_num: 150
+doc_order: 150
+naa_refs:
+- naa_barcode: 3015522
+  naa_control_symbol: 1981/508 PART 1
+  naa_series: A1209
+  reference: '[NAA: A1209, 19811508, i]'
+title: Extracts from Report by Department of Trade and Resources on Permanent Heads
+  Meeting
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-03-25
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 150 Extracts from Report by Department of Trade and Resources on Permanent Heads Meeting
-
-## Canberra, 25 March 1981
+Canberra, 25 March 1981
 
 ## Australia - New Zealand Closer Economic Relations
 
 ## MEETING OF AUSTRALIAN AND NEW ZEALAND PERMANENT HEADS, WELLINGTON, 11 TO 12 MARCH 1981
 
-Australian Permanent Heads conveyed the reactions of Australian Ministers to the Joint Report of 9-11 December 198[0].1 The outcome of the discussion on particular issues was as follows:
+Australian Permanent Heads conveyed the reactions of Australian Ministers to the Joint Report of 9-11 December 198[0].[1](#f1) The outcome of the discussion on particular issues was as follows:
 
 ### Tariffs
 
 The understanding was that the formula of phasing our tariffs by 5 percentage points per year over a maximum of five years and after a one year grace period is satisfactory to both sides.
 
-[matter omitted]2
+[matter omitted][2](#f2)
 
 ### Deferred Categry
 
@@ -32,7 +40,7 @@ Australia agreed to examine possible means of achieving greater flexibility in t
 
 It was agreed that a timetable was needed for removal of items under industry enquiry and that on other items on the deferred list there was a need for early indication of conditions for their removal on a case by case basis.
 
-_[matter omitted]_
+ _[matter omitted]_
 
 ### Intermediate goods problems
 
@@ -48,7 +56,7 @@ Further Action
 
 
 
-_[matter omitted]_
+ _[matter omitted]_
 
 ### Sugar
 
@@ -64,7 +72,7 @@ The Australian position was that consideration should be given to greater partic
 
 New Zealand proposed and Australia agreed that industry involvement in the negotiations should be closely controlled to avoid individual industries reaching solutions which were not compatible with the general principles of liberalisation.
 
-_[NAA: A1209, 19811508, i]_
+ _[NAA: A1209, 19811508, i]_
 
 1 Document 139.
 

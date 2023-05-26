@@ -1,22 +1,25 @@
 ---
-title: "320 DESPATCH, JOHNSTON TO BOWDEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10186
+doc_date: '1966-11-22'
+doc_num: 320
+doc_order: 320
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 175/163]'
+title: DESPATCH, JOHNSTON TO BOWDEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-11-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 320 DESPATCH, JOHNSTON TO BOWDEN
-
-UKNA: DO 175/163
 
 British High Commission, Canberra, 22 November 1966
 
 Confidential
 
-**Australia: Australia and the Commonwealth Immigrants Act**
+ **Australia: Australia and the Commonwealth Immigrants Act**
 
-The object of this despatch is to convey a considered warning of the serious effect on British-Australian relations likely to be caused by restrictions upon the movement of Australians into the United Kingdom, imposed under the Commonwealth Immigrants Act 1962. This issue is so abrasive as to affect the whole Australian-British relationship, including our trade and economic activity, our association in international affairs and in defence, and our ordinary human relations. I am certain that it presents a greater danger in the long run even than the current apprehensions about a continued British presence East of Suez. 1
+The object of this despatch is to convey a considered warning of the serious effect on British-Australian relations likely to be caused by restrictions upon the movement of Australians into the United Kingdom, imposed under the Commonwealth Immigrants Act 1962. This issue is so abrasive as to affect the whole Australian-British relationship, including our trade and economic activity, our association in international affairs and in defence, and our ordinary human relations. I am certain that it presents a greater danger in the long run even than the current apprehensions about a continued British presence East of Suez. [1](#f1)
 
 2\. Australians have traditionally regarded free and unimpeded entry into Britain as a matter of course—consonant with their own loyalty to the Crown, matched only by that of the New Zealanders; with their direct and exceptionally personal attachment to Britain and things British; and with the fact that they have a closer day to day contact with Britain than that of any other Commonwealth country. This relationship is charged with emotion and coloured by strong sentiment. For the Australian the expression ‘kith and kin’ has no spurious overtones it really means what it says. One in ten of the present population of Australia has come from Britain since the war. Despite the large number of post-war immigrants from Europe, Australia is still, as to at least 85 per cent, a ‘British’ country by parentage or descent. Australians prevented from going to England—and earning money to pay their expenses to do so—could very well find themselves unable to visit, as they could in the past, quite close relatives unless they are exceptionally well off.
 
@@ -24,7 +27,7 @@ The object of this despatch is to convey a considered warning of the serious eff
 
 4\. I suggest that the economic value to Britain of this flow may well exceed £20 million per annum in spending money alone. I have no figures for the takings of the carriers, but note that the shipping lines are preponderantly British. Later on in this despatch I shall attempt to evaluate the harm done to Britain and Australia by restrictions on the working holidaymaker. Such restrictions demonstrably have an effect on those who are not restricted but think they may be. Many Australian visitors to Britain, for example, are elderly people who have done well in Australia and who go to Europe and the USA for the Grand Tour, visiting their relations and friends in the old country in the process. They spend freely and are valuable tourists. The British Travel Association maintain a considerable office here headed by a staff of two UK-based officers to foster this traffic and, if possible, extend it. Next April the airlines are introducing special low fares for young people in order to increase the air share of this lucrative traffic. On the transit aspect, it is worth noting that the rapid development of new trans-Pacific routes eastward from Australia may, in time, put down many more Australians in the USA who may then travel direct to Europe if transit through Britain becomes difficult and unattractive for them.
 
-5\. It is highly significant that the recent spate of very adverse publicity on the tightening of immigration restrictions2 has taken place, not in the silly season, but within two weeks of a general election and that it has consistently made the headlines on press and radio. This cannot but harm the valuable flow of Australian tourists and transit passengers to Britain. In fact I am informed that BOAC have already received some cancellations. We must above all take care not to allow Australians arriving in Britain to be seen to be undergoing a more rigorous examination by officials than are aliens; and this is already being alleged. The Australians are a touchy, prickly people, particularly resentful of officialdom and of real or imagined injustice.
+5\. It is highly significant that the recent spate of very adverse publicity on the tightening of immigration restrictions[2](#f2) has taken place, not in the silly season, but within two weeks of a general election and that it has consistently made the headlines on press and radio. This cannot but harm the valuable flow of Australian tourists and transit passengers to Britain. In fact I am informed that BOAC have already received some cancellations. We must above all take care not to allow Australians arriving in Britain to be seen to be undergoing a more rigorous examination by officials than are aliens; and this is already being alleged. The Australians are a touchy, prickly people, particularly resentful of officialdom and of real or imagined injustice.
 
 6\. But the heart of the matter is the special problem of the working holidaymakers. These are the large number of people who work to save up enough money in Australia to pay their return fare to Europe (usually by sea) and a couple of months or so of holidays, and who then seek part-time or full-time employment in Britain for periods ranging from three months to two years. They do this, having travelled so far (perhaps for only once in their lives), in order to travel yet further in both Britain and Europe, to see more of our country, and to broaden their experience and widen their horizons. Young Australian women who have in the past visited Britain as working holidaymakers, perhaps staying for several years but returning in the end, exercise a particular healthy influence upon their own and future generations as the result of their intimate knowledge of Britain and the British. There is also a number of family parties in which a man in early middle life with his wife and young children may take a holiday in Britain and Europe, paying his way as much as he can by casual jobs. Australian employment conditions are designed to facilitate this. Thus the working holidaymakers come from a wide variety of age groups and classes. They are not those who have made their money and fixed their attitudes, nor are they of the privileged class of students on bursaries or the children of the rich; the great number are ordinary Australians accustomed to working for their living.
 
@@ -32,9 +35,9 @@ The object of this despatch is to convey a considered warning of the serious eff
 
 8\. Apart from these practical considerations, there is no issue better calculated directly to arouse the emotions of the great mass of Australians than denial of access to Britain, whether or not they themselves want to go. It gives them a feeling of rejection to which their individual reaction is harsh. Such hostility once engendered can all too easily spill over into the fields of trade and industrial co-operation, diplomacy, defence, and scientific and cultural relations. I have reported elsewhere that I believe the Australians will now accept British membership of the Common Market; they understand the reasons for a substantial reduction of Forces East of Suez; but they would find it necessary completely to re-think their attitudes and practices towards a Britain treating them in effect as aliens. Some Australians regard it as a constitutional absurdity that British subjects of the Queen of Australia should be debarred from entry into the realm of the Queen of Great Britain.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-10\. My predecessors repeatedly warned the Department of the danger to British/Australian relations of any interference with the working holidaymaker; and it is noteworthy that as early as 1962 the then Australian High Commissioner in London was making representations to the Home Secretary about what he considered hard cases.3
+10\. My predecessors repeatedly warned the Department of the danger to British/Australian relations of any interference with the working holidaymaker; and it is noteworthy that as early as 1962 the then Australian High Commissioner in London was making representations to the Home Secretary about what he considered hard cases.[3](#f3)
 
 11\. We justify immigration controls because an unrestricted flow of migrants to Britain, from whatever source, creates intolerable pressures on our social services. Temporary Australian visitors, create no such pressures: indeed, the nurses, teachers and competent office workers among them give us the skills needed to keep such services going. An interpretation of the present regulations to admit such _temporary_ visitors while excluding the _permanent_ settler, from whatever source, is therefore logical. The cultural aspect has not been mentioned: Even on present interpretation of the regulations some of our most distinguished men and women in the arts, such as Robert Helpmann and Joan Sutherland, would have been unable to settle and work in Britain. The outstanding contribution which Australians and New Zealanders make to our regular armed forces will also bear mentioning, as will the value to our trade of an unimpeded flow of managerial and technical trainees from British-owned industries, a flow now reduced by Category A restrictions.
 
@@ -47,3 +50,5 @@ The object of this despatch is to convey a considered warning of the serious eff
 2  See Documents 314 and 315. 
 
 3  Document 307. 
+
+[UKNA: DO 175/163]

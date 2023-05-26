@@ -1,14 +1,19 @@
 ---
-title: "100 Letter From O'sullivan To Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7705
+doc_date: '1955-04-13'
+doc_num: 100
+doc_order: 100
+naa_refs:
+- naa_barcode: 303048
+  naa_control_symbol: 602/2 PART 4
+  naa_series: A462
+  reference: '[AA : A462/20, 602, iv]'
+title: Letter From O'sullivan To Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1955-04-13
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 100 Letter From O'sullivan To Menzies
-
-## 13th April, 1955
+13th April, 1955
 
 CANBERRA
 
@@ -30,7 +35,7 @@ I therefore propose that, after the announcement has been made by the United Kin
 
 Unless you so desire, it is not my intention to bring this matter before Cabinet by way of a formal submission.
 
-_
+ _
 
 1 The italicised words have been underlined by hand, and 'NO has been written in the margin.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA : A462/20, 602, iv]_
+ _[AA : A462/20, 602, iv]_

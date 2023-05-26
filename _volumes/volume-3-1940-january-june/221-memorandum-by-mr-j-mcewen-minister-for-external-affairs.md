@@ -1,12 +1,17 @@
 ---
-title: "221 Memorandum by Mr J. McEwen, Minister for External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 987
+doc_date: '1940-05-10'
+doc_num: 221
+doc_order: 221
+naa_refs:
+- naa_barcode: 172905
+  naa_control_symbol: AUS 90 PART 2
+  naa_series: A981
+  reference: '[AA: A981, AUSTRALIA 90B, ii]'
+title: Memorandum by Mr J. McEwen, Minister for External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-10
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 221 Memorandum by Mr J. McEwen, Minister for External Affairs
 
 10 May 1940
 
@@ -72,7 +77,7 @@ In the opinion of the Committee, the reasons against any prohibition outweigh th
 
 It is possible that the question might in the last resort be submitted to international arbitration by agreement. [4]
 
-_
+ _
 
 1 Torao, Wakamatsu. See Documents on Australian Foreign Policy 1937-49, vol. I, for 1938 documents on the question of iron ore exports.
 
@@ -86,4 +91,4 @@ With regard to the question of the prohibition of the export of scrap iron, pig 
 
 _
 
-_ [AA: A981, AUSTRALIA 90B, ii]_
+ _[AA: A981, AUSTRALIA 90B, ii]_

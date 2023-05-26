@@ -1,18 +1,25 @@
 ---
-title: "79 Submission from Corner to Talboys"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8949
+doc_date: '1980-01-18'
+doc_num: 79
+doc_order: 79
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission from Corner to Talboys
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-01-18
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 79 Submission from Corner to Talboys
 
 18 January 1980
 
 Australia/New Zealand Relations: Officials Meeting: 12-13 December 1979
 
-Attached for your information is a copy of a report of the interdepartmental working party on Australia/New Zealand Economic Co-operation to be considered by NZ Permanent Heads on 23 January. The report describes the outcome of two meetings held in Canberra on 12 and 13 December of Australian and New Zealand officials, at a working party level, to review the studies being undertaken on both sides of the Tasman in accordance with the terms of reference agreed by Australian and New Zealand Permanent Heads1 in November last year.
+Attached for your information is a copy of a report of the interdepartmental working party on Australia/New Zealand Economic Co-operation to be considered by NZ Permanent Heads on 23 January. The report describes the outcome of two meetings held in Canberra on 12 and 13 December of Australian and New Zealand officials, at a working party level, to review the studies being undertaken on both sides of the Tasman in accordance with the terms of reference agreed by Australian and New Zealand Permanent Heads[1](#f1) in November last year.
 
   2. A further meeting of Australian and New Zealand officials at a working party level will be held in Wellington from 30 January to 1 February 1980. This will be followed by a second joint meeting of Australian and New Zealand Permanent Heads in Canberra on 25 and 26 February to prepare for the meeting of Prime Ministers in New Zealand in March 1980.
   3. Work so far has focussed on the various ways both countries could eliminate all barriers to trade over a 5-7 year period. Australia's concern has been to ensure that whatever form of arrangement Governments may wish to adopt it should enhance, as far as possible, general economic conditions within the two countries. They have been less concerned with encouraging the growth of bilateral trade per se. New Zealand officials, while fully recognising the long-term importance of Australia's main objective, have been more mindful of the difficulties New Zealand industry would face from substantial and rapid economic restructuring.
@@ -25,7 +32,7 @@ Attached for your information is a copy of a report of the interdepartmental wor
 
 
 
-**Attachment**
+ **Attachment**
 
 ## Report of Australia/New Zealand Working Party
 
@@ -123,9 +130,7 @@ Inter-departmental Working Party on
 
 Australia/New Zealand Economic Co-operation
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 23 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 23 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 See Document 52. 
-  * 2 See Document 52. 
-
-
+  * 2 See Document 52.

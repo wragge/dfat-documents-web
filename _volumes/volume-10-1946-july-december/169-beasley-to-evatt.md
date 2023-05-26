@@ -1,14 +1,19 @@
 ---
-title: "169 Beasley to Evatt"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4017
+doc_date: '1946-10-18'
+doc_num: 169
+doc_order: 169
+naa_refs:
+- naa_barcode: 193749
+  naa_control_symbol: PI46/11/20
+  naa_series: A1067
+  reference: '[AA:A1067, P146/11/20]'
+title: Beasley to Evatt
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-10-18
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 169 Beasley to Evatt
-
-## Letter PARIS, 18 October 1946
+Letter PARIS, 18 October 1946
 
 I am forwarding under cover of this letter, concluding accounts of the work of the principal Commissions up to the resumption of the Plenary Sessions of the Paris Conference. The final report on the work of the delegation and the Conference as a whole will follow in due course. [1]
 
@@ -28,7 +33,7 @@ In view of the earlier reception of the same proposal in the Commissions, this w
 
 JOHN BEASLEY
 
-_
+ _
 
 1 'Report of the Australian Delegation to the Conference of Paris 29th July - 15th October, 1946.' On file AA:A2910 T1, 412/25/25.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A1067, P146/11/20]_
+ _[AA:A1067, P146/11/20]_

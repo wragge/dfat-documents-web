@@ -1,12 +1,17 @@
 ---
-title: "110 Press Statement"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4294
+doc_date: '1947-07-09'
+doc_num: 110
+doc_order: 110
+naa_refs:
+- naa_barcode: 197479
+  naa_control_symbol: PI47/5/2/1
+  naa_series: A1068
+  reference: '[AA:A1068/1, P147/5/2/1]'
+title: Press Statement
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-07-09
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 110 Press Statement
 
 CANBERRA, 9 July 1947
 
@@ -20,7 +25,7 @@ The Australian Government, because it believes that the revival of production an
 
 Furthermore, the Australian Government would be happy to give to the Interim Federal Government of Indonesia, when it is established, advice and assistance in such matters as trade, finance, communications, and economic rehabilitation and development.
 
-_
+ _
 
 1 See Document 97, note 3.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A1068/1, P147/5/2/1]_
+ _[AA:A1068/1, P147/5/2/1]_

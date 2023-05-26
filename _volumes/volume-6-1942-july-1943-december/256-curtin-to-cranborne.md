@@ -1,14 +1,19 @@
 ---
-title: "256 Curtin to Cranborne"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2547
+doc_date: '1943-08-13'
+doc_num: 256
+doc_order: 256
+naa_refs:
+- naa_barcode: 4224104
+  naa_control_symbol: 1943/45
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.22097]'
+title: Curtin to Cranborne
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-08-13
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 256 Curtin to Cranborne
-
-## Cablegram 209 CANBERRA, 13 August 1943
+Cablegram 209 CANBERRA, 13 August 1943
 
 My immediately preceding telegram. [1]
 
@@ -40,7 +45,7 @@ As was known, the position with Japan deteriorated, the PRINCE OF WALES and REPU
 
 CURTIN
 
-_ 1 Document 255.
+ _1 Document 255.
 
 2 Published as Document 54 in Documents on Australian Foreign Policy 1937-49, vol. V.
 
@@ -52,4 +57,4 @@ _ 1 Document 255.
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.22097]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.22097]_

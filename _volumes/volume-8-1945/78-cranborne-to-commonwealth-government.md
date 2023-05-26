@@ -1,12 +1,17 @@
 ---
-title: "78 Cranborne to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3109
+doc_date: '1945-04-28'
+doc_num: 78
+doc_order: 78
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1066
+  reference: '[AA : A1066, E45/19/8]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-04-28
+vol_title: 'Volume 8: 1945'
 ---
-
-# 78 Cranborne to Commonwealth Government
 
 Cablegram 131 LONDON, 28 April 1945, 4.40 p.m.
 
@@ -30,10 +35,10 @@ B. The danger of temporary settlement is that it may of necessity omit important
 
 Public opinion in this country might not understand further development of our policy towards Italy which brought Italians benefits of formal conclusion of peace without its attendant penalties. Moreover concessions which the United States appear to contemplate would not in our view bring more than a temporary advantage to the United Nations whereas they would make it all the more difficult eventually to impose on Italy the kind of final settlement which we have in mind. Serious damage might result to Anglo-Italian relations since Italy is almost certain to regard us rather than the United States or Soviet Governments as primarily responsible for any penalties imposed by the Peace Treaty.
 
-_
+ _
 
 1 Document 76.
 
 _
 
-_ [AA : A1066, E45/19/8]_
+ _[AA : A1066, E45/19/8]_

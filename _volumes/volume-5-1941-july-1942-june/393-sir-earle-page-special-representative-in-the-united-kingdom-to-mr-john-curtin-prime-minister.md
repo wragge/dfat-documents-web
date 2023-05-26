@@ -1,12 +1,18 @@
 ---
-title: "393 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2147
+doc_date: '1942-03-06'
+doc_num: 393
+doc_order: 394
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.9668]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-06
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 393 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram P61 LONDON, 6 March 1942, 7.25 p.m.
 
@@ -20,7 +26,7 @@ Reference your telegram 160 to the Dominions Office [1] and my telegram P.60. [2
 
 PAGE
 
-_
+ _
 
 1 Document 385.
 
@@ -40,4 +46,4 @@ Strategic Area, 1941-1942). It conveyed a similar assessment of King to that set
 
 _
 
-_ [AA:A3195, 1942, 1.9668]_
+ _[AA:A3195, 1942, 1.9668]_

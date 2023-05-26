@@ -1,12 +1,18 @@
 ---
-title: "254 Mr R. G. Menzies, Prime Minister, to Mr J. van Holst Pellekaan, Netherlands Consul in Sydney"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1485
+doc_date: '1941-01-22'
+doc_num: 254
+doc_order: 254
+naa_refs:
+- naa_barcode: 174960
+  naa_control_symbol: DEF 143
+  naa_series: A981
+  reference: '[AA:A981, DEFENCE 143A]'
+title: Mr R. G. Menzies, Prime Minister, to Mr J. van Holst Pellekaan, Netherlands
+  Consul in Sydney
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 254 Mr R. G. Menzies, Prime Minister, to Mr J. van Holst Pellekaan, Netherlands Consul in Sydney
 
 Letter MELBOURNE, 22 January 1941
 
@@ -22,7 +28,7 @@ My Government also agree to the proposed visit of the Chief of the Indies Genera
 
 ROBERT G. MENZIES
 
-_
+ _
 
 1 On file AA:A816, 58/301/79.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA:A981, DEFENCE 143A]_
+ _[AA:A981, DEFENCE 143A]_

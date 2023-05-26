@@ -1,12 +1,17 @@
 ---
-title: "446 Kirby to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4630
+doc_date: '1947-12-01'
+doc_num: 446
+doc_order: 446
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:AA1979/294/2, BOX 1]'
+title: Kirby to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-12-01
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 446 Kirby to Burton
 
 Cablegram 445 BATAVIA, 1 December 1947
 
@@ -38,7 +43,7 @@ With reference to the third request contained in paragraph 9 of the memorandum, 
 
 6\. The information in this telegram is secret at present but I will keep you informed. I assured Committee privately that goods could be despatched from Australia as soon as shipping space becomes available if the agreement were renewed.
 
-_
+ _
 
 1 Documents 433 and 434. See also Document 440, paragraph 2.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA:AA1979/294/2, BOX 1]_
+ _[AA:AA1979/294/2, BOX 1]_

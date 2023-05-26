@@ -1,14 +1,20 @@
 ---
-title: "255 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1486
+doc_date: '1941-01-23'
+doc_num: 255
+doc_order: 255
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941, 0.852]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-23
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 255 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 43 23 January 1941 [1],
+Cablegram 43 23 January 1941 [1],
 
 My telegram 649. [2] Overseas force from French Oceania.
 
@@ -30,7 +36,7 @@ This is quite apart from requirements of local defence, of which we are also in 
 
 We suggest, with some diffidence, that the piece-meal communications now passing between de Gaulle and Sautot are not leading to a clarification of the present position and that it is essential the whole matter be placed on a proper footing and based on a definite plan without delay.
 
-_
+ _
 
 1 The Prime Minister's Dept outward cablegram register (AA:A3643, 1) gives the date of dispatch, as 22 January.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA:A3196, 1941, 0.852]_
+ _[AA:A3196, 1941, 0.852]_

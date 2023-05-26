@@ -1,13 +1,19 @@
 ---
-title: "1 Report By Department Of Commerce & Agriculture"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7606
+doc_date: '1950-05-01'
+doc_num: 1
+doc_order: 1
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUSTRALIA POST WAR TRADE]'
+title: Report By Department Of Commerce & Agriculture
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 1 Report By Department Of Commerce & Agriculture
-
-## May-50
+May-50
 
 CANBERRA
 
@@ -47,6 +53,6 @@ The Australian bilateral agreement stimulated the completion of a much wider tra
 
 The value of Australian trade with Japan has increased considerably during the life of the two Sterling Area trade arrangements, and the Australian bilateral arrangement which preceded them. In general, these arrangements have undoubtedly opened the way for the resumption and development of Sterling Area trade with Japan. They have served the purpose of giving SCAP a reasonable assurance that Japan could earn the sterling necessary to pay for its imports from the Sterling Area. Moreover, from the point of view of the Sterling Area countries, the arrangements have prevented Sterling Area trade with Japan from getting too far out of balance and SCAP has not had occasion to exercise his right under the Overall Payments Agreement to convert surplus sterling into dollars.
 
-__
+ __
 
-_ [NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUSTRALIA POST WAR TRADE]_
+ _[NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUSTRALIA POST WAR TRADE]_

@@ -1,12 +1,17 @@
 ---
-title: "159 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1913
+doc_date: '1941-12-04'
+doc_num: 159
+doc_order: 160
+naa_refs:
+- naa_barcode: 177621
+  naa_control_symbol: JAP 185 PART 3
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 185B, iii]'
+title: Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-04
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 159 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs
 
 Cablegram 527 TOKYO, 4 December 1941, 6.16 p.m.
 
@@ -20,7 +25,7 @@ It seems that the Japanese public are being prepared for action either to defend
 
 OFFICER
 
-_
+ _
 
 1 Dispatched 4 December. On file AA : A1608, A41/1/1, xxv.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 185B, iii]_
+ _[AA : A981, JAPAN 185B, iii]_

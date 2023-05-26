@@ -1,12 +1,17 @@
 ---
-title: "27 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 793
+doc_date: '1940-01-25'
+doc_num: 27
+doc_order: 27
+naa_refs:
+- naa_barcode: 232315
+  naa_control_symbol: '138'
+  naa_series: A2937
+  reference: '[AA: A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-25
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 27 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 13 25 January 1940,
 
@@ -18,7 +23,7 @@ To this end desire you ascertain through appropriate channel whether proposal to
 
 MENZIES
 
-_
+ _
 
 1 Sir Henry Gullett.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA: A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]_
+ _[AA: A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]_

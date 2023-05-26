@@ -1,12 +1,17 @@
 ---
-title: "92 Letter, Mawby To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9600
+doc_date: '1967-02-24'
+doc_num: 92
+doc_order: 92
+naa_refs:
+- naa_barcode: 12042309
+  naa_control_symbol: 1967/3211
+  naa_series: A452
+  reference: '[NAA: A452, 1967/3211]'
+title: Letter, Mawby To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-02-24
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 92 Letter, Mawby To Barnes
 
 Melbourne, 24 February 1967
 
@@ -24,7 +29,7 @@ Clearly, major financing will not be possible unless the cash flow expectations 
 
 Bearing these various requirements in mind, including the need to include benefits for the Territory and its peoples, we have sought in our agreement with the New Guinea Administration the following particular conditions. Some of these may not be necessary in Australia but we regard them as vital if the operation is to proceed on Bougainville.
 
-_To improve economic feasibility and increase the cash flow_
+ _To improve economic feasibility and increase the cash flow_
 
 A three year tax holiday.
 
@@ -32,11 +37,11 @@ An assurance that capital expenditure involved in the operation, including expen
 
 Retention of the 20% exemption on income from the mining of ores of copper.
 
-_To safeguard availability of world currencies_
+ _To safeguard availability of world currencies_
 
 A clause in the agreement (which would operate only after exchange control powers had passed to the New Guinea Administration or Legislature) to ensure to the company the right to retain and use currency from loans and proceeds of the sale of its products for loan repayments, dividend payments, imports and the like.
 
-_To aid long term stability_
+ _To aid long term stability_
 
 Financial participation by the Administration—an option is offered whereby at or about the time of taking up the leases the Administration may take 20% of the equity of the company at par. We are keen to see this participation eventuate and consider it is important that, should this option be exercised, it will continue to be held by and for the benefit of the Administration or the indigenous inhabitants of the Territory.
 
@@ -50,8 +55,8 @@ For instance, it is our firm conviction that in view of the cost of exploration 
 
 Also, in the proposals that are now made we have accepted that in return for what is sought for this particular operation the company will, once it becomes taxable, bear a relatively heavy tax burden and be relieved of the major fear in a newly formed state, namely selective and unreasonably high taxes in the future. For this reason we have stressed for some months the vital importance of the tax ceiling to safeguard the operation in the days which follow independence or self government.
 
-As evidence of the good faith of our companies in this matter, they are at present incurring expenditure at the rate of several hundred thousand dollars each month on this project. In doing so they are proceeding on the belief that the Government will accept the potential value of this operation to the economy of the Territory and that it will take the necessary steps to enable this to be undertaken. 1
+As evidence of the good faith of our companies in this matter, they are at present incurring expenditure at the rate of several hundred thousand dollars each month on this project. In doing so they are proceeding on the belief that the Government will accept the potential value of this operation to the economy of the Territory and that it will take the necessary steps to enable this to be undertaken. [1](#f1)
 
 [NAA: A452, 1967/3211]
 
-1  Barnes acknowledged receipt of Mawby’s letter on 14 March, and on the same date copied the CRA letter to Holt, McMahon and John McEwen (Minister for Trade and Industry) noting that he intended ‘to submit recommendations to Cabinet shortly regarding the major terms of a proposed agreement between C.R.A. Ltd. and the Papua and New Guinea Administration’ (NAA: A452, 1967/1333). 
+1  Barnes acknowledged receipt of Mawby’s letter on 14 March, and on the same date copied the CRA letter to Holt, McMahon and John McEwen (Minister for Trade and Industry) noting that he intended ‘to submit recommendations to Cabinet shortly regarding the major terms of a proposed agreement between C.R.A. Ltd. and the Papua and New Guinea Administration’ (NAA: A452, 1967/1333).

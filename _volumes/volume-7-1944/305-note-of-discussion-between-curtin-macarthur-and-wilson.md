@@ -1,12 +1,17 @@
 ---
-title: "305 Note of Discussion between Curtin, MacArthur and Wilson"
-volume: "Volume 7: 1944"
-doc_id: 2952
+doc_date: '1944-09-30'
+doc_num: 305
+doc_order: 305
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 3]'
+title: Note of Discussion between Curtin, MacArthur and Wilson
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-30
+vol_title: 'Volume 7: 1944'
 ---
-
-# 305 Note of Discussion between Curtin, MacArthur and Wilson
 
 CANBERRA, 30 September 1944
 
@@ -96,7 +101,7 @@ The Prime Minister referred to his previous discussions in Brisbane with General
 
 3\. General MacArthur added that had this change taken place when it was first mooted [7], advantages would have accrued, but he now considered it too late to make such a change.
 
-_
+ _
 
 1 See Documents 288 and 296.
 
@@ -114,4 +119,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 3]_
+ _[AA:A5954, BOX 3]_

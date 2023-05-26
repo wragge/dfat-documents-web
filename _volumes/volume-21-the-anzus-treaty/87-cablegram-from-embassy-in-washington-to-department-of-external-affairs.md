@@ -1,13 +1,17 @@
 ---
-title: "87 Cablegram From Embassy in Washington to Department of External Affairs"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8438
+doc_date: '1951-05-07'
+doc_num: 87
+doc_order: 87
+naa_refs:
+- naa_barcode: 4185374
+  naa_control_symbol: '3'
+  naa_series: A11536
+  reference: '[NAA : A11536, [3]'
+title: Cablegram From Embassy in Washington to Department of External Affairs
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1951-05-07
-barcode: 4185374
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 87 Cablegram From Embassy in Washington to Department of External Affairs
 
 Cablegram, Washington, 7 May 1951
 
@@ -31,7 +35,7 @@ It would be foolish to exaggerate the importance of this in a long-term context 
 
 The above comments are put forward to give you an indication of likely developments and reactions here, in the event of Australia's not being able to go all or most of the way desired by the Americans.
 
-_ 1 Cablegram 739 (1 May) from Washington reported that the State Department was asking, in view of the re-election of the Menzies Government on 28 April, whether the Australian Government could give early consideration to its request for additional troops to be sent to Korea.
+ _1 Cablegram 739 (1 May) from Washington reported that the State Department was asking, in view of the re-election of the Menzies Government on 28 April, whether the Australian Government could give early consideration to its request for additional troops to be sent to Korea.
 
 2 Senator Homer E. Capehart.
 
@@ -43,4 +47,4 @@ _ 1 Cablegram 739 (1 May) from Washington reported that the State Department was
 
 _
 
-_ [ [NAA : A11536, [3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4185374) ]_
+ _[NAA : A11536, [3]]_

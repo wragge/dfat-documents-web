@@ -1,12 +1,17 @@
 ---
-title: "239 Department of External Affairs to Legation in Washington"
-volume: "Volume 8: 1945"
-doc_id: 3270
+doc_date: '1945-09-10'
+doc_num: 239
+doc_order: 239
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3300
+  reference: '[AA : A3300 T1, 1945, AG]'
+title: Department of External Affairs to Legation in Washington
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-10
+vol_title: 'Volume 8: 1945'
 ---
-
-# 239 Department of External Affairs to Legation in Washington
 
 Cablegram unnumbered CANBERRA, 10 September 1945
 
@@ -22,10 +27,10 @@ In common with the other United Nations Governments represented on the War Crime
 
 The Australian Government is indicating to the War Crimes Commission not only its entire endorsement of the procedures recommended, but also, its firm view that the procedure should be put into operation without delay. These recommendations which, if properly applied, will ensure that no Japanese who deserves punishment shall escape owe much to the work of Lord Wright who is the Representative of Australia on the War Crimes Commission as well as Chairman of the Commission. Meanwhile, the Australian Government is taking suitable action to ascertain the facts in relation to all territories in which the enemy has been in contact with the Australians since 1941. With the cooperation of the military authorities testimony will be taken from Australian prisoners of war. For this purpose the Australian Government has nominated two additional judges to assist Sir William Webb whose report now summarised has been acclaimed by the War Crimes Commission as a model for the presentation of these matters.
 
-_
+ _
 
 1 The summary is on file AA : A3300/2, 45/316. The full report is in AWM : 51[182]].
 
 _
 
-_ [AA : A3300 T1, 1945, AG]_
+ _[AA : A3300 T1, 1945, AG]_

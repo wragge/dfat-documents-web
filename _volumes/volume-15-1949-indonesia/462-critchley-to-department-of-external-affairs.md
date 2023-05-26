@@ -1,12 +1,18 @@
 ---
-title: "462 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6631
+doc_date: '1949-07-28'
+doc_num: 462
+doc_order: 462
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3094
+  reference: '[AA : A3094/1, 2/1]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-07-28
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 462 Critchley to Department of External Affairs
 
 Cablegram K233 BATAVIA, 28 July 1949, 11.40 a.m.
 
@@ -20,7 +26,7 @@ Delegations and the Commission are at present in Djokjakarta negotiating the cea
 
 4\. The Commission is seeking a compromise between the parties on the basis of some rearrangement of the forces of both parties.
 
-_
+ _
 
 1 See Document 436.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA : A3094/1, 2/1]_
+ _[AA : A3094/1, 2/1]_

@@ -1,12 +1,17 @@
 ---
-title: "209 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 546
+doc_date: '1939-09-07'
+doc_num: 209
+doc_order: 209
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA:A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-07
+vol_title: 'Volume 2: 1939'
 ---
-
-# 209 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 430 LONDON, 7 September 1939, 10.59 a.m.
 
@@ -16,10 +21,10 @@ Canadian and New Zealand Governments have asked United Kingdom Government that C
 
 BRUCE
 
-_
+ _
 
 1 Document 214.
 
 _
 
-_ [AA:A981, WAR 45B, i]_
+ _[AA:A981, WAR 45B, i]_

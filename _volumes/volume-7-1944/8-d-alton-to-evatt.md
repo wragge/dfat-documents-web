@@ -1,12 +1,17 @@
 ---
-title: "8 D'Alton to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2655
+doc_date: '1944-01-08'
+doc_num: 8
+doc_order: 8
+naa_refs:
+- naa_barcode: 745848
+  naa_control_symbol: 1944/WELLINGTON PART 1
+  naa_series: A4231
+  reference: '[AA:A4231, WELLINGTON, 1943-44]'
+title: D'Alton to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-08
+vol_title: 'Volume 7: 1944'
 ---
-
-# 8 D'Alton to Evatt
 
 Dispatch 44/1/2 (extract) WELLINGTON, 8 January 1944
 
@@ -64,13 +69,13 @@ in arrangements so far as the Pacific was concerned.
 
 TOM D'ALTON
 
-_
+ _
 
 1 See Document 2, note 2.
 
 _
 
-_
+ _
 
 [AA:A4231, WELLINGTON, 1943-44]
 

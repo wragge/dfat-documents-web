@@ -1,0 +1,448 @@
+---
+doc_date: '1950-10-04'
+doc_num: 114
+doc_order: 114
+naa_refs:
+- naa_barcode: 238901
+  naa_control_symbol: 301/5 PART 1
+  naa_series: A5460
+  reference: '[NAA: A5460, 301/5]'
+title: Memorandum by Department of External Affairs
+vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
+vol_id: 24
+vol_title: 'Volume 24: Australia and the Colombo Plan, 1949-1957'
+---
+
+Canberra, 4 October 1950
+
+SECRET
+
+ **Departmental Notes on the London Meeting of the Commonwealth Consultative Committee. September 6 to October 4,1950.**
+
+The following appendices are attached to this report:—
+
+(1) Position of non-Commonwealth countries: Summary of Recommendations by Officials.
+
+(2) Continuing Organisation—Note Prepared by Officials.
+
+FOREWORD
+
+2\. These departmental notes are intended to give as wide a background as possible to posts. Since the document is not a ministerial report and since much confidential information is included, scrupulous care should be exercised before any of its contents are discussed with other governments.
+
+AUSTRALIAN DELEGATION
+
+3\. The Hon. PC. Spender, K.C., M.P., Minister for External Affairs
+
+E. McCarthy, Esq., Acting Australian High Commissioner in the United Kingdom
+
+A.H. Tange, Department of External Affairs
+
+T.K. Critchley, Department of External Affairs
+
+J.F. Nimmo, Department of the Treasury
+
+L.D. Thomson,
+
+RE. Davies, Commonwealth Bank of Australia
+
+INTRODUCTION
+
+4\. The United Kingdom Delegation came to the first meeting of the Consultative Committee at Sydney in May, 1950, determined to avoid any financial commitments, and advocating that sole attention be devoted to working out a comprehensive six year development programme for the area, with the objective of passing this to the United States towards the end of 1950 in order that it might receive consideration along with other aspects of American planning for its post-E.R.P. foreign aid. The United Kingdom insisted that since 1952 is a Presidential election year, any Congressional action would have to be sought in the first half of 1951, and this required that the initial approach to the American Administration be made in October, 1950.
+
+5\. The United Kingdom finally accepted the Australian argument that any approach to the United States required a prior demonstration of British Commonwealth willingness to provide more tangible aid to the area, and the Conference recommended to Governments ' the inauguration of a technical assistance scheme for the spending of �stg. 8,000,000 over three years.
+
+6\. Because of the time factor, it was agreed at Sydney that a further series of meetings should take place at London in the autumn of 1950. The first step was to be a meeting of officials of Commonwealth countries early in September to examine the development programmes submitted by the Commonwealth and non-Commonwealth countries in the area, and such other matters as might be referred to them, and to prepare a draft report on a development programme for the area.
+
+7\. The meeting of officials was to be followed towards the end of September by a meeting of the Commonwealth Consultative Committee, which would consider among other items—
+
+(a) priority economic requirements of the countries of the area;
+
+(b) the report on development programmes over a six-year period beginning July 1, 1951;
+
+(c) assistance from Commonwealth countries;
+
+(d) the most effective use of the resources of the United Nations, its regional Commissions and Specialised Agencies;
+
+(e) the question of approaches to the United States and other governments interested in the area;
+
+(f) the constitutions and functions of a Bureau for Technical Assistance.
+
+8\. It was contemplated that in the first instance, the meeting in London should be limited to Commonwealth representatives alone; there was then to be a meeting including representatives of the non-Commonwealth countries participating in the programme.
+
+9\. In effect, the two important decisions reached at Sydney were—
+
+(a) to proceed immediately with a programme for technical assistance;
+
+(b) to prepare a report setting out—
+
+(i) the need for development;
+
+(ii) development programmes of the countries in the area which might be expected to be completed over a period of six years ending 30 June, 1957; and
+
+(iii) the need for external assistance to carry out these programmes.
+
+10\. In order to proceed with _technical assistance_ , a Standing Committee consisting of representatives of all governments represented on the Consultative Committee met in Colombo on July 24. There were two main tasks. In the first place Ceylon, India and Pakistan presented lengthy and comprehensive lists of their needs for technical assistance. The Committee examined these needs and where possible, the representatives agreed to communicate with their governments in an endeavour to meet them. In the second place, the Committee prepared a report for the Consultative Committee recommending a Council for Technical Co-operation to administer the technical assistance scheme.
+
+11\. On the subject of the _development_ plan, it was agreed at Sydney that a first and indispensable step would be for each participating country in the area to prepare a realistic and comprehensive statement of its economic situation and development programme. This statement was to be submitted by each country, to the Consultative Committee through the Australian Government before the 1st September, 1950, in accordance with a questionnaire agreed by the Committee and attached to the report of the Sydney meeting.
+
+12\. It was also agreed that these individual programmes would be examined by the Committee which would write them into a single report and thus provide an authoritative and convincing statement, endorsed by the Governments concerned, of the . needs and resources of the area. Commonwealth countries would then consider the position and would decide how much they would be able to contribute towards meeting the deficiencies indicated in the programme.
+
+13\. On behalf of all the Commonwealth governments represented at Sydney, the Australian Government invited the governments of Burma, Thailand and Indonesia to participate in the scheme. Similar invitations were issued to the Indo-China states (Vietnam, Laos and Cambodia) but without the association of the governments of India, Pakistan and Ceylon.
+
+14\. In order to give the non-Commonwealth countries concerned full details of the sort of information required for completion of the report, copies of the questionnaire on development agreed to at Sydney and circulated to the Commonwealth countries, were handed to the non-Commonwealth governments, and a team of four experts drawn from Australia, India and the United Kingdom, was sent out to advise and assist them in the completion of the questionnaire.
+
+15\. In practice, the condensed time-table did not permit time to explain fully to the non- Commonwealth countries of South and South East Asia what was involved in the project and they were not as forthcoming over participation in the plan as had been hoped. The Associated States of Indo-China accepted the invitation to participate and sent replies to the questionnaire, but it was not possible to arrange for their active participation in the preparation of the report. Thailand at a late stage notified her acceptance of the invitation and declared her readiness to give what information she could in reply to the questionnaire. Burma and Indonesia, also at a late stage, expressed willingness to have an observer at the London meetings and appointed their Ambassadors in London to represent them.
+
+ORGANISATION OF MEETINGS
+
+16\. Apart from the first meeting of the Commonwealth Consultative Committee which was a public session confined to broadcast addresses by the various Ministers, all meetings associated with the Conference were held in private. The spadework of the Conference was done by a Preparatory Committee of officials, which began meeting on the 6th of September. This Committee took the programmes submitted by the Commonwealth countries in the area, worked them into a report with as much uniformity as suitable, and wrote several general chapters around them.
+
+17\. This draft report was then submitted to the Ministers who met from 25th September to 4th October, and redrafted in the light of their comments. Even before a final report had been agreed upon, the draft reports were passed, in confidence, to representatives of non- Commonwealth countries in the area, and also to the United States which had appointed their Economic Counsellor in London as liaison officer. Copies of the report were not made available to the Netherlands, France, or any of the other governments.
+
+18\. When the report had been examined by the Consultative Committee, the Ministers interrupted their meetings on 2nd and 3rd October for talks with 'non-Commonwealth' representatives.
+
+19\. On 5th October officials discussed how the technical assistance scheme could be put into effect, and in the course of the day met informally with representatives of non- Commonwealth Governments to explain the technical assistance scheme.
+
+TITLE OF THE REPORT
+
+20\. After some discussion the present title of the report,—'The Colombo Plan for Cooperative Economic Development in South and South East Asia'—was agreed upon, mainly because it was felt that a short title 'The Colombo Plan', had a popular appeal and a publicity value that could not be found in any other proposed title. It was also suggested that this title would pay tribute to the original Colombo Conference, and to the initiative taken there by Australia and Ceylon.
+
+PRINCIPLES ADOPTED IN DRAFTING THE REPORT
+
+21\. As agreed at Sydney, Governments submitting development programmes were wholly responsible for their own plans. No attempt was made to examine critically the individual projects, but the aim was rather to help the countries present their programmes as effectively as possible, and to seek to emphasise the strong points in the programmes as a whole. The basic proposals contained in the various programmes therefore, remain intact; but discussion in the Preparatory Committee of officials, and in the Consultative Committee brought out weaknesses and inconsistencies. Some of these have been remedied, but in other cases, particularly in connection with the reports of Pakistan and Ceylon, some of the weaknesses and inconsistencies have been obscured.
+
+22\. As a general principle, it was left to the countries presenting the programmes to state the limits to the amount of internal finance they were able to raise themselves, and to state the external finance they required to carry out development. The Commonwealth Governments subscribed generally to the general views contained in the chapters of the reports not devoted to particular country programmes, and also to the general reasonableness of the scale of the plans.
+
+23\. From the beginning, the report was drafted with an eye to its eventual publication. But it was first to be approved by governments, and to be published only after a decision to that effect had been taken by the governments concerned. Initially, both India and Pakistan said they would be reluctant to have the report published unless it could be assumed that the financial assistance called for would be forthcoming. In the latter stages of the Conference, it was agreed that the report should in fact be published as soon as the various governments had approved it. It was understood, however, that the views of the United States Administration on the draft report should be obtained informally before any document was published, so as to avoid any possible embarrassment of the Administration.
+
+THE DEVELOPMENT PROGRAMMES
+
+ _General_
+
+24\. The quality of the programmes presented was most uneven. India's programme was by far the most sophisticated in economic reasoning and exposition of economic objectives and policies. Those of Pakistan and Ceylon were comparatively weak. The quality of representation in London followed a similar pattern.
+
+25\. By and large, the development programmes are on a modest basis. Indeed doubts were informally expressed early in the Conference as to whether the programmes were not too modest to impress the United States. Special emphasis has been placed on agricultural production, particularly food, and in this respect the programmes differ markedly from earlier unrealistic plans for ambitious industrialisation, such as the Bombay Plan. This new approach is particularly marked in the case of India. The development programme is directed towards improving agricultural production and towards making the village the centre of industrialisation. The development of power and water resources and the extension of social services are also prominent in the programmes.
+
+26\. Perhaps the most important general feature of the Colombo Plan is that the need for aid is based primarily on the shortage of internal savings in the countries and is not directly related to the cost of imports of capital goods for projects, nor to a forward forecast of balance of payments deficits on the basis of screened import programmes. In this regard, the report recognises that external surpluses (i.e. from a favourable balance of payments) do not necessarily enable governments to draw off savings by taxation or loans. At the same time Governments are expected to exert as much self-help as practicable and use all possible methods of internal finance.
+
+27\. The Canadian officials, with the agreement of other Delegations were insistent that this was the 'right approach'. Nevertheless concessions were made to the Australian view that it would be difficult to persuade governments to provide assistance to countries which were building up sterling reserves—as might be the case with both Ceylon and Malaya—and that no country offering assistance would be likely to commit itself to a figure irrespective of export earnings and the balance of payments of the countries seeking aid.
+
+28\. The Australian delegation also pointed out that a country such as Malaya, enjoying a favourable balance of payments but finding it difficult to mobilise savings by taxation and local borrowings, should expand credit rather than borrow abroad. The reply to this argument was that Malaya had no Central Banking facilities.
+
+29\. The London meetings did not and could not attempt to check or substantiate governments' estimates or forecasts, although it was realised that these had to be treated with some reserve. In consequence, there is a large element of judgement in the whole plan: there are no norms for levels of taxation and it is difficult to form independent judgment of the extent to which government revenue can be raised and savings tapped. In the cases of Malaya and Ceylon, however, it was clear that the plans were based on conservative export price assumptions (Malayan expectations were based, for example, upon a price of rubber as low as 1/- per lb.)
+
+30\. All these considerations point to the need, which was recognised at London, to keep the programmes under continuous review. How this might be done will depend on what arrangements are made for a continuing organisation. There are also the questions of how satisfactory checks can be made to ensure that the development programme is efficiently executed and that savings are being properly stimulated, and whether it would not be more convenient to review progress of the programmes in relation to movements in the balance of payments.
+
+31\. In none of the plans, nor in the report was any attempt made to assess currency sources of the actual goods required under the plans, nor to estimate the extent to which United States aid would be required for dollar purposes.
+
+32\. As explained elsewhere in this report, the United Kingdom laid considerable stress on the release of sterling balances. Although the Australian Delegation succeeded in having the emphasis in presentation changed somewhat, the final result is to show a total requirement of external finance, whether directly attributable to the development expenditure programmes or not, of which part will be provided from sterling balances, and the remainder from other sources.
+
+33\. The emphasis on sterling balances is designed to show a large United Kingdom contribution rather than handle embarrassing demands for increased drawings. The governments concerned do not want to draw more than the United Kingdom is prepared to release and much heat has disappeared from the subject as a consequence. India, Pakistan and Ceylon are counting on running down their sterling balances further during the currency of the plan; India by about �stg.200 million, from a level which should be about �stg.500 million by the beginning of the programme, and the others by proportionately much less, since they are closer to minimum reserves. This rate of drawings will bring their reserves down to what they regard as a safe minimum at the end of the six years. The United Kingdom resisted an Australian proposal to include in the report details of past drawings on international reserves on the ground that this information was private to the countries concerned.
+
+ _India_
+
+34\. India's external financial requirements over the six years total �stg.818 million (or 75.5 per cent of the total). Of this amount �stg.211 million is to come from sterling balances, leaving �stg.607 million to be found from other sources.
+
+35\. The programme does not seek financial support for specific development projects. Instead a large share (61%) of the external finance required is for the import by the Central Government of consumption goods, mainly food, to be sold as a source of internal finance for the development programme, and as an anti-inflationary device. The plan is obviously the careful work of experts, who have analysed the budgetary problems, considered the inflationary effects of the new investments involved and sought to combat these inflationary effects by an induced balance of payments deficit.
+
+36\. As in the case of the other countries, it was impossible to draw satisfactory conclusions from the statistics of public finance. There was, for example, no information on the sources of borrowing or the extent to which the Central Bank has been or could continue to support the market or subscribe direct to loans. But it was stressed that an inflationary situation is sapping initiative and that unless relieved, could lead to the collapse of the Indian economy.
+
+ _Pakistan_
+
+37\. Pakistan's external financial requirements over the six years total �stg,145 million (or 13.4 per cent of the total). Of this amount �stg.l6 million is to be financed from sterling balances.
+
+38\. The Pakistan plan which was much inferior to India's was based on a preconceived estimate of the level of foreign aid which might be forthcoming to finance only the import components of each project. Projects were then selected for which Pakistan felt capable of providing all the domestic finance. The plan seems to reflect a misunderstanding of the functions of government finance and an inability to plan in real terms. Estimates of the rate of savings, etc., were unreliable. It was therefore impossible to estimate the rate of development which would be practicable without inflation. Discussions with the Pakistani delegation and a detailed consideration of the programme gave rise to the strong presumption that the programme would, in fact, be inflationary.
+
+39\. Nevertheless, the need for economic development and financial assistance cannot be denied. There are basic deficiencies of power, transport and industry which must obviously be overcome if the standards of living in Pakistan are to be raised. In this respect, the proposed expenditure on secondary industry, agriculture and power appears reasonable and well-balanced, although the plans for particular industries such as cotton and paper may prove unduly optimistic in terms of the real resources that can be made available.
+
+ _Ceylon_
+
+40\. Ceylon's external financial requirements over the six years total �stg. 60 million (or 5.5 per cent of the total). Of this amount �19 million is to come from sterling balances.
+
+41\. The Ceylon plan was also badly presented and showed a lack of understanding of the need to plan finance in terms of real resources. Notwithstanding a favourable balance of payments, the plan as first drafted suggested that the Ceylon Government intended to reduce the amount of development it would finance itself. Although there is a good case for development, the case for external aid at the level contemplated is not very convincing. It would have been more effective if Ceylon could have been induced to stress that since the economy depended so predominantly on two major exports, tea and rubber, special reserves had to be built up and financial help was therefore needed for development to provide a more balanced and stable economy.
+
+ _Malaya etc._
+
+42\. The total external financial requirements over the six years, of Malaya, Singapore, North Borneo and Sarawak, total �stg.61 million (or 5.6 per cent of the total).
+
+43\. As in the case of Ceylon, the argument for external aid is not very convincing in the light of the balance of payments position. The problem is basically one of the lack of institutions for raising revenue and expanding credit. There is considerable scope for higher taxation, but the administration is handicapped by shortages of trained personnel and difficulties in dealing with the Chinese language and methods of book-keeping.
+
+INDIA AND PAKISTAN ISSUES
+
+44\. In the main, the meeting avoided discussing the implications of the current India- Pakistan disagreements, although the complications of the present economic and political disputes were obvious. At the beginning the Pakistanis could not resist some pointed and embarrassing references to problems such as refugees, but they were tactfully persuaded to drop their more immoderate statements as drafting progressed.
+
+45\. The programmes clearly involved a move to lessen the economic inter-dependence of the two countries, but in view of the political separation it was impossible to argue against this. In any case, there was no basis for comparing the relative efficiency of cotton textile and jute mills proposed for Pakistan as against India; or raw jute production in India as against Pakistan. There was no discussion as to whether protection was implied in the respective plans, but Pakistan considered itself able to compete in exports of jute goods.
+
+46\. The large percentage of the budget expended by both countries on defence was an embarrassment. In the drafting an attempt was made to demonstrate that this was not of major importance, and it was pointed out that the defence expenditures of the two countries as a percentage of national income compared favourably with other countries. The Minister, after consultation with the United Kingdom, decided to raise the problem of the defence budgets in the meeting, mentioning that the United States would be bound to refer to this question. The reaction on all sides was unfavourable. The Chairman, (Gaitskell of the United Kingdom) thought that in the present uncertain times 'the higher the defence expenditure of our allies the better'. India, besides emphasising that it was unfair to exclude provincial budgets in estimating the percentage expended on defence, mentioned that a decline in defence expenditure was hoped for in the next Budget.
+
+PROVISION OF FINANCE
+
+47\. No detailed consideration was given to possible Commonwealth contributions to the plan. At the beginning of the meetings of officials, the Australian delegation supported by Canada, pointed Out that there would be practical difficulties in the way of a report approved by Ministers in London, committing the Commonwealth to a precise amount of aid. The United Kingdom recognised the difficulty, but emphasised the necessity for making a decision before an approach was made to the Americans.
+
+48\. The United Kingdom representatives later informed a private meeting of officials from the Canadian, Indian and Australian delegations that the release of sterling balances would be their main contribution to the programme so long as those reserves lasted. They indicated that assistance would be forthcoming to Malaya, Singapore, North Borneo and Sarawak through Colonial funds and implied that they might also agree to the direction of funds to the area through the International Bank. Subsequently, the United Kingdom undertook full responsibility for finding the total requirements of Malaya, Singapore, North Borneo and Sarawak.
+
+49\. At the same private meeting of officials, the Canadians said their contribution would probably be limited to local currency contributions to the International Bank and to the stimulation of private investment in the area. Australian officials reminded the meeting in passing and without comment of the changes since the programme was initiated as one for the whole of South and South-East Asia.
+
+50\. In the event, the report has been drafted with no financial commitment. There is merely a statement— 
+
+'The Commonwealth Governments are considering to what extent the external finance requirements can be provided by their countries through the five channels. But the task of providing this financial support for the development of South and South-East Asia is manifestly not one which can be tackled by the Commonwealth alone. The need to raise the standard of living in South and South-East Asia is a problem of concern to every country in the world, not only as an end in itself, but also because the political stability of the area and its economic progress are of vital concern to the world', (para. 32)
+
+At the close of the London meetings, United Kingdom officials suggested that it would be necessary to give the United States some indication of possible Commonwealth contributions at the time the report is published.
+
+ATTITUDE OF THE UNITED STATES
+
+51\. The preparation of a long term development plan was not advocated by Australia at Sydney, when we proposed the policy of meeting immediate priority requirements within definitely stated financial limits. However, it was accepted as a likely base for winning effective United Nations support. The whole development project was therefore based on the assumption that the Americans would meet the large 'missing component' of finance required after the British Commonwealth had demonstrated that it was prepared to share the burden to the best of its capacities. Australia accordingly regarded the attitude of the United States as one of the major considerations.
+
+52\. In addition to agreeing at the outset that the United States Liaison Officer should be kept fully and regularly informed about the proceedings of the Conference, the Minister wrote to the British Foreign Minister suggesting high level discussions with the United States before the London Conference.[1](#f1) In particular, the Minister proposed informal private discussions with Bevin and Acheson in Washington. The Australian view was that if the United States reaction were discouraging the London meeting could limit itself to programmes within the capacity of the Commonwealth to finance.
+
+53\. United Kingdom officials while not expressing direct opposition to the Minister's proposal suggested that an unfavourable reaction from Acheson would leave the London meeting in an embarrassing position, particularly since an offhand opinion by Acheson could not necessarily be treated too seriously because American reservations might be followed by a quick change in policy as the consequences of the Korean conflict become clearer. The United Kingdom felt that the matter was delicate and recalled their Economic Minister[2](#f2) from leave to advise on and handle the approaches to the U.S.
+
+54\. In subsequent discussion the U.S. officials, and particularly Willard Thorp, Assistant Secretary for Economic Affairs, tended to emphasise the following points:
+
+(i) that the Commonwealth programme should be capable of standing by itself and not be conditional upon further aid coming from the United States;
+
+(ii) that the programme should be based on projects with the assessment of needs in quantitative rather than financial terms;
+
+(iii) that the presentation of the report should not make reference to the United States as a source of assistance;
+
+(iv) that there should be no pointed reference to a gap to be filled in by a third party;
+
+(v) that it should not be suggested that United States assistance was being sought to solve the United Kingdom's sterling balance problem, or help an exclusive Commonwealth plan.
+
+55\. With these points in mind the Australian Delegation stressed&mdah;
+
+(i) that the report should avoid giving the impression that the Committee was concerned only with a 'Commonwealth' plan;
+
+(ii) that every encouragement should be given to inclusion of non-Commonwealth countries (see below);
+
+(iii) that emphasis should be taken off the sterling balance problem and that stress should be placed instead on the fact that drawings on sterling reserves did not represent merely a burden in real terms on the United Kingdom, but also a substantial measure of self-help undertaken by countries in the area in using their foreign reserves;
+
+(iv) that the report should not be published until United States views were known.
+
+56\. To some extent we were successful, but in other respects the report unavoidably came in conflict with the views of the Americans. The delegation, for example, could hardly propose a draft confined to what the Commonwealth could do without implying an intention to contribute and without inviting a direct request as to the size of Australia's contribution.
+
+57\. Even more difficult was the United States suggestion that a project approach should be followed. United Kingdom officials were strongly opposed to this and because of the importance they attached to the earning of dollars, were not prepared to accept that such aid was better than nothing, even for the countries concerned. Our own feeling was that a project approach would have the following disadvantages—
+
+(a) United States aid would be tied to U.S. supplies.
+
+(b) India's needs are predominantly not for assistance with projects, but for financial support for food imports to enable her to finance internal development without inflation. A project approach would clearly not meet India's needs and would be similarly limiting in the case of other countries.
+
+(c) It involves a risk of criticism of interference in the internal policies of the countries in the area.
+
+An Australian compromise was accepted that the programmes of the countries should be available in a separate document, and that illustrative references should be made in the text of the report, to the principal projects making up the country programmes. It was agreed that projects could be submitted in more detail as explanatory material supplementary to the report as and when the United States or the International Bank asked for it.
+
+58\. Although the final draft report could not by any means be said to meet the unofficial wishes of the United States, the United Kingdom and Canadian officials were emphatic that it would be a mistake to try to slant the report deliberately towards Congressional or United States public opinion in view of unpredictable changes in United States public attitudes.
+
+ATTITUDE OF THE UNITED KINGDOM
+
+59\. From the outset the United Kingdom showed a marked enthusiasm for the preparation of a report based on the development programmes, and brought to bear a large staff of competent officials to help with the drafting and the organisation of material. A number of competent United Kingdom statisticians was also on hand to assist a Statistical Committee with the task of preparing appropriate tables and of arranging for the presentation of the statistics of the various countries on a comparable basis. With such considerable resources at their disposal the United Kingdom delegation was able to control the organisation of material and the drafting of reports. Other delegations could do little more than submit drafts of small sections or propose amendments.
+
+60\. The enthusiasm was explained when the first United Kingdom drafts of the opening chapters of the report were circulated. It appeared that the United Kingdom was particularly concerned with the question of sterling balances, and that one of its principal objectives in the South East Asian development programme was to obtain dollar assistance to help cover the dollar deficits of India and Pakistan, and if possible, to obtain dollars for the Central Reserve. In private discussion United Kingdom officials claimed, however, that the dollar earning motive behind the preparation of the draft plan for South and South East Asia carried less urgency than formerly as a result of the higher commodity prices, increased military outlays by the United States and the trend in the American balance of payments towards deficit.
+
+61\. The original drafts as prepared by the United Kingdom officials showed little interest in, or understanding of, the attitude of the peoples of the area, and the Australian delegation found it necessary to insist on more emphasis on the 'humanitarian' approach. In this respect, we were strongly supported by the Indian delegation, which pointed out that a report which suggested that the first aim of the plan was to earn dollars for Europe would not only be coldly received in South and South East Asia, but could prove extremely embarrassing to the Governments concerned.
+
+62\. In preparing statements of the financial implications of the development programmes, the United Kingdom officials always insisted that individual needs should be stated as requirements of 'external finance' and not as requirements of credit. In this way, the United Kingdom made a feature of describing sterling releases as a form of external finance. Although this form of presentation could be justified the Australian delegation found it necessary to balance United Kingdom emphasis on the benefits of multilateral trade with more detailed statements of the real needs of the area itself. It was also necessary to correct implications in the early United Kingdom drafts that the U.K. alone of the Commonwealth countries, through its releases of sterling balances, had made any real contribution to the area.
+
+PARTICIPATION OF NON-COMMONWEALTH COUNTRIES IN SOUTH EAST ASIA
+
+63\. Australia's interest in having the countries of South East Asia participate fully in the plan and in the report was directed to—
+
+(a) laying the ground for the assessment of their economic needs in greater detail at a subsequent stage;
+
+(b) helping to break through the political suspicions at present deterring them from associating with the Commonwealth in a joint venture;
+
+(c) enabling the Commonwealth to pass to the Americans a report containing some reference to the economic needs of South East Asia, and thereby preventing a situation in which the Americans would be asked to interest themselves solely in the economic development of the four British Commonwealth territories which traditionally the Americans have regarded as a British concern alone;
+
+(d) demonstrating co-operation and mutual help among the Commonwealth, the United States and the countries of the area;
+
+(e) providing an economic association which would facilitate contacts with countries of political importance to Australia.
+
+64\. Canadian officials agreed that bringing non-Commonwealth countries into the picture would assist in getting United States support by helping to remove implications that the programme was designed solely to assist the United Kingdom sterling balance problem. At the same time, the Canadians did not think it would be practicable to bring the non-Commonwealth countries to the point of full association contemplated at Sydney. Indian officials admitted privately that inclusion of non-Commonwealth countries would help them politically at home. The attitude of Pakistan and Ceylon was also encouraging.
+
+65\. On the other hand, since the United States was already arranging aid to the countries of South and South East Asia on a tied basis, the limited 'Treasury' approach of the United Kingdom officials resulted in them showing little real interest in having South East Asian Governments associated with the scheme. They stressed all the practical difficulties and in this respect were able to point forcibly to the probability of delay if the report had to be cleared in South East Asian capitals.
+
+66\. Even the Foreign Office, which showed little interest in the meetings as a whole, appeared to be lukewarm about the South East Asian countries. A suggestion for a special chapter in the report on their needs was opposed by the Foreign Office representative, who said it was unreasonable to expect the non-Commonwealth Governments to approve, within the time available, any chapter about them and that, therefore, these countries should be omitted from the present report except for the general references in the introductory chapters. He considered that any attempt to include references to them would upset the balance of the report and suggested that at the meeting with the non-Commonwealth countries, the Ministers should explain the objectives which the Consultative Committee had before it; seek to remove misunderstandings; hand over copies of the report with the request that their governments should be invited subsequently to approve it; and arrange for a further meeting of the Consultative Committee in which non-Commonwealth Governments could take part if they wished to be associated with the scheme, and wished to prepare development programmes.
+
+67\. On the other hand Malcolm MacDonald strongly supported the Australian view that at least a brief chapter in the report on non-Commonwealth countries would have an important effect on their public opinion. He pointed out that a report which emerged in a form which could be misrepresented as an example of imperialist co-operation between the Commonwealth and the United States, would provide good material for hostile propaganda in South East Asia.
+
+68\. Although it became clear that it would be impossible to submit a joint report for consideration at London, Australian pressure was maintained to have the draft reports circulated to the representatives of non-Commonwealth Governments as early as possible and to keep open the possibility of these governments sponsoring the report. Mainly as a result of this pressure, the recommendations set out in Appendix 1 were adopted as a basis for the meetings with the non-Commonwealth representatives.
+
+69\. These meetings were held in a responsive atmosphere, but were limited in their effectiveness by the status of the Burmese and Indonesian representatives as observers. They were confined to a general discussion of the purposes and progress of the plan and to a warm invitation to the non-Commonwealth countries to join in the preparation of long term development programmes and in the Technical Assistance Scheme.
+
+70\. The main interest of the.non-Commonwealth representatives seemed to be in— 
+
+(i) The form of the organisation, particularly if non-Commonwealth countries decided to join the scheme.
+
+(ii) Whether the continuing organisation would be a Commonwealth body or whether it might be expanded to a regional organisation.
+
+(iii) What commitments would be involved.
+
+(iv) Whether benefits under the technical assistance scheme could be obtained without joining the organisation.
+
+(v) Whether existing development plans and arrangements for finance could be fitted into the six-year development programmes envisaged in the scheme.
+
+These questions clearly reflected the diffidence of Burma and Indonesia to making any political commitment by joining a Commonwealth bloc, and emphasised the need for the scheme to move beyond its present Commonwealth content as soon as possible.
+
+71\. It was apparent that the non-Commonwealth countries could not associate themselves immediately with the report. Nevertheless, the Chairman tended to rush the discussions and the meetings ended without any clear indication to the non-Commonwealth countries on what steps they were being asked to take next. Their representatives were merely to report proceedings to their Governments for consideration as a matter of urgency.
+
+72\. Discussions with the non-Commonwealth countries did, however, have the useful result of creating a co-operative atmosphere. Informal discussions outside the meeting suggested that the reports of the Burmese and Indonesian observers would not be unfavourable and that despite the pre-occupation of their governments with the political issues at home, there might be opportunities for gradually inducing the two governments to participate in the Commonwealth projects. It was equally evident, however, that the Governments were not yet ready to make the plunge and that patience would be necessary.
+
+73\. Informally the Indonesians expressed their gratification that their 'observer' had been able to participate fully in the meetings and suggested that they would welcome a formula whereby they could continue to participate without public commitment.
+
+74\. As finally drafted the report contains only general references to the problem of the non-Commonwealth countries. However, the foreword is intended to associate non- Commonwealth countries as fully practicable with the report at the date of its publication .
+
+75\. Early in the meeting, the desirability of inviting the Philippines to participate in the Colombo Plan was considered. It was known that such an invitation would be welcomed by the South East Asian countries which regarded the Philippines as belonging to the area. The United States Administration was consulted, but replied that they did not wish to express an opinion. U.S. representatives indicated informally, however, that they would be pleased if an invitation were extended, but not before the present U.S. enquiry into the economic position of the Philippines had been completed. It was, therefore, agreed that the Commonwealth countries should continue to consult on this subject.
+
+CONTINUING ORGANISATION
+
+76\. The United Kingdom felt that the question of a long term continuing organisation would be raised at an early stage in any discussion with the United States and other non- Commonwealth countries. The Committee therefore gave preliminary consideration to the type of organisation which would be appropriate on the assumption that the United States and at least some of the non-Commonwealth countries took part in the plan.
+
+77\. To facilitate discussions the United Kingdom suggested a number of possibilities. These were considered by the meeting of officials and a note was prepared for the information of Ministers. (Appendix 2—'Continuing Organisation—Note Prepared by Officials'). This note suggested four possibilities—
+
+1\. A bilateral organisation
+
+2\. A recipients collective organisation
+
+3\. A South and South-East Asian Consultative Committee excluding the United States
+
+4\. A combined organisation including the United States.
+
+78\. The Minister suggested that a final decision could not be taken until the attitude of the United States and other non-Commonwealth countries became known, but outlined a possible form of organisation based on the fourth possibility—a combined organisation, including the United States. He proposed a council of representatives whose main functions would be—
+
+(i) to consult in a spirit of co-operation;
+
+(ii) to review programmes in the light of experiences;
+
+(iii) to correlate future needs; and
+
+(iv) to agree, if practicable, to some degree of screening.
+
+Decisions on the amount of assistance and how this assistance was to be provided would be taken on a bilateral basis, but the possibility would be left open of creating a secretariat to assist countries in preparing their development programmes and to service the Council.
+
+79\. In putting forward tentative proposals for a continuing organisation of this kind, Australia had in mind—
+
+(a) the value of an organisation to provide a buffer between the countries giving and receiving assistance, and to avoid any appearance of interference in the affairs of the countries in the area;
+
+(b) that economic co-operation of the countries of South and South East Asia with the west would provide a means of assuaging through joint discussions, political suspicion of the west;
+
+(c) that co-operative discussion on economic matters would lead to better understandings generally and would provide a point of contact which would be invaluable politically.
+
+80\. Although no final conclusion could be reached at London, the consensus of opinion seemed to favour some flexible form of a combined organisation, such as proposed by Australia. It was also appreciated that aid should be negotiated on a bilateral basis.
+
+81\. In discussions with the non-Commonwealth countries, the Indonesian representative intimated that his government would be opposed to the automatic inclusion at present of the Netherlands in any organisation that was established. It was evident in the discussions with these countries that any early proposal to bring France or the Netherlands into the organisation would greatly increase the difficulties for non-Commonwealth countries wishing to join the scheme. This point of view was supported privately by U.S. officials who expressed some concern at the suggestion that France and the Netherlands might be included.
+
+TECHNICAL ASSISTANCE
+
+82\. The Commonwealth Consultative Committee adopted unanimously the report of the Standing Committee at Colombo including the proposed constitution for the Council for Technical Co-operation. The only amendment to the draft Constitution was the dropping of the word 'Commonwealth'—an amendment which had already been suggested at Colombo by the Australian delegation to the Standing Committee, as an encouragement to the countries of South East Asia to participate in the scheme.
+
+83\. In marked contrast to Sydney, it was interesting to observe the enthusiasm with which the Technical Assistance Scheme and the Constitution of the Council were received. The Canadian representative was particularly vocal, both formally and informally, in his praise for the scheme, and for the opportunities it would provide for a 'real and practical' contribution to the area. It was difficult to realise that this was the same representative who had been so unresponsive only four months earlier at Sydney.
+
+84\. Officials were instructed to discuss informally questions which arose over the setting up of the Bureau. They agreed, that the first meeting of the Council for Technical Cooperation should be held as soon as possible and not later than 1st December. At this first meeting the bureau would be established and a Director and Finance Officer appointed. It was suggested that prior to the meeting, governments should exchange ideas about possible candidates for the post of Director. Non-representatives of non-Commonwealth governments in the area were invited and encouraged to participate fully in the scheme and to join the Council irrespective of their decisions on economic development.
+
+OTHER ITEMS
+
+ _Popular version of the report_
+
+85\. A popular version of the report is being prepared by the United Kingdom which will arrange to obtain the approval of other Commonwealth governments. Provided the United States Government approves the Colombo Plan, the popular version will be published at the same time as, or as soon as possible after, the report. In the event of an adverse reaction from the United States, the decision to publish a popular version will be reconsidered.
+
+ _Liaison with the United Nations and international agencies_
+
+86\. Throughout the Conference stress was laid on the importance of co-operating as far as possible with the United Nations and other international agencies. It was felt, however, that it would not be possible to determine in detail the policy to be followed in this direction until the form of the 'continuing organisation' had been settled.
+
+87\. The United Kingdom Treasury undertook to maintain liaison with the International Bank and reported that a copy of the draft report was shown to Mr. Iliffe, a Director of the Loan Department, who appeared personally enthusiastic about the content and layout.
+
+ _Priority economic requirements_
+
+88\. The view of the delegates was that there was there was at present nothing further to be discussed under this heading.
+
+ORGANISATIONAL ARRANGEMENTS
+
+89\. The final draft report makes only passing reference to the future work of the Consultative Committee (paragraph 36) although it is recognised that the Consultative Committee could be called together when required.
+
+90\. On the advice of the United States Liaison Officer, no formal approach is to be made to the United States Administration: the report will be transferred to the United States through the Liaison Officer and the next step left to the United States Administration itself. If they decide to act quickly on the report, they may seek further elucidation from the countries submitting development programmes but are unlikely to ask for a delegation from the Consultative Committee to visit Washington.
+
+91\. To meet this situation, the following organisational arrangements were agreed upon—
+
+(a) All members will maintain the closest possible liaison through normal channels including discussions on the Commonwealth Liaison Committee in London.
+
+(b) Arrangements are set to be made to enable, if necessary, a Standing Committee of officials to be called together at short notice to make speedy recommendations to the governments on the appropriate response to a United States initiative in reply to the report.
+
+(c) Countries are to consider, as a matter of urgency, any weaknesses in their programmes which have been revealed in the recent discussions in order to be able to provide the Americans with adequate information if the Americans desire it.
+
+92\. In the event that countries in the area decide to prepare development programmes, arrangements will be made for consultations between them and the countries represented on the Commonwealth Consultative Committee in order to secure proper co-ordination.
+
+ **Appendix 1**
+
+POSITION OF NON-COMMONWEALTH COUNTRIES SUMMARY OF RECOMMENDATIONS BY OFFICIALS
+
+In drafting the report on the six-year plan of development, the Meeting of Commonwealth officials had to consider how best to include the non-Commonwealth countries in the report in the light of the situation described above. It was felt that the report should describe generally the problems facing all countries in the area but should specify the needs for external finance only for countries which submitted detailed developmental programmes, i.e. the Commonwealth countries. The report therefore deals in the main with the Commonwealth countries but it is in no sense intended to be exclusive. The importance of associating the non-Commonwealth countries in the area in the scheme is stressed for the following reasons:
+
+(i) the plans deal with problems which are common to the whole area;
+
+(ii) there seems to be an impression abroad that the success of the Commonwealth initiative is to be measured by the degree of co-operation enlisted from other countries in the area;
+
+(iii) participation of non-Commonwealth countries would help to avoid criticism that the Commonwealth were seeking to restrict the scope of the report to that of a purely Commonwealth enterprise.
+
+The report in fact expresses the hope that non-Commonwealth countries will prepare development programmes, which could at a later stage be fitted into an overall pattern of development in South and South-East Asia.
+
+ _Recommendations_
+
+ _It is therefore recommended_ that at the meeting with non-Commonwealth representatives on 2nd October, Commonwealth Ministers should:
+
+(a) seek to obtain as large a degree as possible of endorsement of the report by the non-Commonwealth governments; for this purpose the possibility should remain open for a full discussion of the report as prepared by the Commonwealth countries with the other countries of the area. 
+
+(b) if this course becomes impracticable, inform non-Commonwealth representatives in general terms of the scope and nature of the Commonwealth proposals and provide them with copies of the report for transmission to their governments pointing out that there are general references throughout the report to the economic position of the non-Commonwealth countries, the insertion of which was inevitable in order to give a picture of the area as a whole (notably in chapters 1, 2, 3 and 10); and request them:
+
+(i) to recommend to their governments approval of the aims and objects of the report, as well as of the references in it to the non-Commonwealth countries;
+
+(ii) to urge notification by their governments, if they see merit in the plan, of their approval of the report by say 20th October so that there shall be the least possible delay in the preparatory work required for implementation of the plan;
+
+(iii) to suggest to their governments that representatives of the latter should meet with representatives of the Commonwealth Governments at a date to be fixed later to discuss further advancement of the plan in respect of their own development needs on the basis of material already submitted or which might be subsequently submitted;
+
+(iv) to suggest to their governments that they should agree to participate forthwith in the technical assistance scheme which is described in chapter 9 of the report, without prejudice to their decision to participate in the six-year development plan.
+
+(e) agree that the draft report (attached to C.C.L. (50)6)[3](#f3) should be handed to non-Commonwealth representatives in London at once, to facilitate discussion on 2nd October, but with due warning that this in only an early draft and still subject to Ministerial examination.
+
+ **Appendix 2**
+
+CONTINUING ORGANISATION. NOTE PREPARED BY OFFICIALS
+
+Assuming that the formal arrangements can be agreed for the recipient countries to receive United States financial assistance, the United States will have to find means of carrying out the following three operations:—
+
+(i) Deciding how much assistance the United States Administration should ask Congress to provide.
+
+(ii) Deciding how the aid which is voted should be divided between the recipients.
+
+(iii) Deciding how the United States mission will carry out its functions of seeing that the money is spent properly, and that a convincing account of stewardship can be provided.
+
+ _'Bilateral' organisation_
+
+It is possible for all these decisions to be taken by the United States Administration itself, on the advice of, and on information presented by, the missions in the various capitals. This would imply that the whole process would be bilateral as between the U.S.A. and the individual recipient countries—e.g. as in United States aid to the Philippines. This requires very strong United States organisations in the recipient countries, and a strong appearance of control by U.S.A.
+
+ _'Recipients 'collective' organisation_
+
+In order to avoid this difficulty and to encourage a breaking-down of national barriers the United States Administration has in Europe sought to treat the region as a whole. Similarly, if they decide to extend financial aid to South and South-East Asia they may wish to build up a collective organisation of recipients, with which the main contact takes place. Local missions are still required under this procedure, but the basic discussions would take place at the headquarters of the collective organisation. (E.C.A. probably has more men in Paris than in all the local missions put together). By this technique as much responsibility as possible is thrown upon the collective organisation of the recipients; the decisions under (i) and (ii) of paragraph 13 are therefore taken in the light of what the recipients collectively want, rather than as an arbitrary decision of E.C.A. In practice, United States pressure can be applied at least as strongly upon a collective organisation of recipients as upon individual countries.
+
+In South and South-East Asia, this would presumably mean an organisation of India, Pakistan, Ceylon and other recipients. The organisation would presumably have the task of preparing a 'collective' bid for aid, and perhaps of dividing up the aid. Experience suggests that this would be a difficult task. It is likely also that the very existence of this organisation would create tendencies to break down national sovereignty in the area, and to plan the development of South and South-East Asia as an economic unit. To provide administrative personnel for such an organisation would be a serious strain upon the recipient countries. On the other hand, the United States would be able to say that they were carrying out what the Asian countries, acting together, had decided was required.
+
+If other Commonwealth countries—or other countries—wished to support the development programme organised in this style, they would either enter into relations with the organisation itself, or make bilateral arrangements with the individual countries. It would be difficult to see any place for Commonwealth countries not in the area under this kind of scheme, which organises recipients firmly together as one unit, which itself bargains with the various donors.
+
+ _South and South-East Asia Consultative Committee, excluding U.S.A._
+
+A third alternative would be to convert the Commonwealth Consultative Committee (either with or without the non-Commonwealth countries in the area) into a permanent organisation, which would exercise certain functions in relation to the assistance scheme. Whatever the continuing functions of the Commonwealth Consultative Committee may be, it is difficult to imagine it carrying out the particular functions of dealing with the assessment of need, the division of United States aid, and the scrutiny of the execution of the programmes.
+
+ _A 'combined' organisation, including U.S.A._
+
+The fourth alternative would be to widen the Commonwealth Consultative Committee to include not only the non-Commonwealth countries in the area, but also to include the U.S.A. and any other countries which might join the scheme. This too would be possible without the non-Commonwealth countries in the area. There would then be an organisation which contained donors and recipients on an equal political footing, and which could treat the problem of development on a basis of common interest, as is the case now in the Commonwealth Consultative Committee.
+
+This organisation could not go as far in collective action as the earlier alternatives, for the United States member could hardly commit the United States Government to accept particular policies—or for example to make available specific quantities of aid. The main management of aid would have to be done bilaterally. But the organisation could perform some of the functions which would otherwise have to be done bilaterally, and to this extent would act as a shock-absorber. For example, it could draw up periodic reports on which the annual case to the United States Congress could be built; it could review progress; it could endorse as being reasonable various procedures for scrutiny which might otherwise cause trouble; it could build up advisory services enlisting the experience of all the countries, and not only that of the recipients or the donors; it could become the controlling authority for the Technical Assistance Scheme; and avoid any danger of duplication. It could be the focal point for discussion of development problems in South and South-East Asia. This sort of organisation could not do much day-to-day work in the administration of the programme, but it could perform a valuable co-ordinating and shock-absorbing function if it met, say, twice a year.
+
+We do not recommend any final conclusion as between the four alternative forms of organisation set out in paragraphs 14�20, but we consider it desirable that Ministers should provisionally discuss these alternatives, without decision, in order that the consensus of opinion should be known as a guide to future consideration and discussion, if necessary, with U.S.A.
+
+[NAA: A5460, 301/5]
+
+1 See Document 90.
+
+2 Sir Leslie Rowan.
+
+3 Not published.

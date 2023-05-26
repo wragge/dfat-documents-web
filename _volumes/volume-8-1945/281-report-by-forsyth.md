@@ -1,14 +1,19 @@
 ---
-title: "281 Report by Forsyth"
-volume: "Volume 8: 1945"
-doc_id: 3312
+doc_date: '1945-10-01'
+doc_num: 281
+doc_order: 281
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA : A1838/2, 377/3/3/2]'
+title: Report by Forsyth
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-01
+vol_title: 'Volume 8: 1945'
 ---
 
-# 281 Report by Forsyth
-
-## Extract [CANBERRA], 1 October 1945
+Extract [CANBERRA], 1 October 1945
 
 JAPANESE SURRENDER ARRANGEMENTS IN RESPECT OF PORTUGUESE TIMOR
 
@@ -30,7 +35,7 @@ Discussion of arrangements for making the surrender effective then commenced.
 
 [matter omitted]
 
-_
+ _
 
 1 Forsyth's assistant and interpreter were respectively H.B.
 
@@ -44,4 +49,4 @@ Manderson and Dr Carlos Brandao.
 
 _
 
-_ [AA : A1838/2, 377/3/3/2]_
+ _[AA : A1838/2, 377/3/3/2]_

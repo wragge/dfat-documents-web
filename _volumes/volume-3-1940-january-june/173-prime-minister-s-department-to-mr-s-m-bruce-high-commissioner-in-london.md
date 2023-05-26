@@ -1,14 +1,19 @@
 ---
-title: "173 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 939
+doc_date: '1940-04-24'
+doc_num: 173
+doc_order: 173
+naa_refs:
+- naa_barcode: 174846
+  naa_control_symbol: DEF 59 PART 1
+  naa_series: A981
+  reference: '[AA: A981, DEFENCE, 59, i]'
+title: Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-24
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 173 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 24 April 1940,
+Cablegram unnumbered 24 April 1940,
 
 Your No. 264. [1] Anzac Day.
 
@@ -16,7 +21,7 @@ General Officer commanding First Australian Corps [2] today sending message in f
 
 On occasion of twenty-fifth anniversary of our first meeting Gallipoli all ranks of Australian military forces in Australia and abroad send friendly greetings to Turkish Army and people.
 
-_
+ _
 
 1 Document 170.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA: A981, DEFENCE, 59, i]_
+ _[AA: A981, DEFENCE, 59, i]_

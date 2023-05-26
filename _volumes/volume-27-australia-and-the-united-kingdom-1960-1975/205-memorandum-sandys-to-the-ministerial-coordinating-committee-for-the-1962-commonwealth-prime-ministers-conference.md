@@ -1,22 +1,26 @@
 ---
-title: "205 MEMORANDUM, SANDYS TO THE MINISTERIAL COORDINATING COMMITTEE FOR THE 1962 COMMONWEALTH PRIME MINISTERS’ CONFERENCE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10070
+doc_date: '1962-09-04'
+doc_num: 205
+doc_order: 205
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB 133/262]'
+title: MEMORANDUM, SANDYS TO THE MINISTERIAL COORDINATING COMMITTEE FOR THE 1962 COMMONWEALTH
+  PRIME MINISTERS’ CONFERENCE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-09-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 205 MEMORANDUM, SANDYS TO THE MINISTERIAL COORDINATING COMMITTEE FOR THE 1962 COMMONWEALTH PRIME MINISTERS’ CONFERENCE
-
-UKNA: CAB 133/262
 
 London, 4 September 1962
 
 Secret
 
-**The Commonwealth and the Common Market**
+ **The Commonwealth and the Common Market**
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 IV. Conference Tactics
 
@@ -41,7 +45,7 @@ IV. Conference Tactics
 
 
 
-_Improvements to be sought_
+ _Improvements to be sought_
 
 39\. The Brussels proposals define the purpose of the world-wide commodity agreements on temperate foodstuffs only in the most general terms, namely to establish ‘the most suitable structure of international trade in agricultural products, in order to ensure an agreed balance between the interests of consumers and of producers in exporting zones and importing regions’. This will not fail to be compared unfavourably with the definition of the objectives of the proposed trade agreements with India and Pakistan, namely ‘to develop mutual trade for the purpose of maintaining and, as much as possible, increasing the level of the foreign currency receipts of these countries’.
 
@@ -65,3 +69,5 @@ _Improvements to be sought_
 44\. It will also be necessary to examine separately with Mr Holyoake the additional safeguards which might be asked for in respect ofNew Zealand, following upon the offer made by the Six to treat New Zealand as a special case.
 
 45\. If we are able in these preparatory talks to establish the basis for a common approach between ourselves and the Old Commonwealth Prime Ministers on the commodities of concern to them, and if we are able to convince them of the political importance of our entry into the Community, it should be possible to secure their active co-operation in guiding the other Prime Ministers and in persuading them to adopt a reasonable attitude towards the proposals relating to their countries.
+
+[UKNA: CAB 133/262]

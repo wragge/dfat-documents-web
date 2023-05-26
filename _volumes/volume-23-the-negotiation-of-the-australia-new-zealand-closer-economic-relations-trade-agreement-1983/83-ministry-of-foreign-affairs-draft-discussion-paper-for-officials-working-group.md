@@ -1,12 +1,19 @@
 ---
-title: "83 Ministry of Foreign Affairs Draft Discussion Paper for Officials' Working Group"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8953
+doc_date: '1980-02-12'
+doc_num: 83
+doc_order: 83
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Ministry of Foreign Affairs Draft Discussion Paper for Officials' Working Group
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-02-12
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 83 Ministry of Foreign Affairs Draft Discussion Paper for Officials' Working Group
 
 Wellington, 12 February 1980
 
@@ -17,14 +24,14 @@ Australia/New Zealand Economic Relations: The Status Quo1
 ## Purpose of Paper
 
   1. Some broad judgement needs to be drawn on the viability of what has come to be known as the 'status quo option'-i.e. a decision by New Zealand to reject a broader economic relationship with Australia and try to maintain, throughout the coming decade, the existing NAFTA framework in broad terms.
-  2. It is acknowledged that of the many difficult issues involved in considering the best course of action for New Zealand to take in the context of this exercise, there is probably none that is so predictive in nature and dependent on intuitive judgements. The only possible d fence of the approach taken below-which does not shy from making such explicit sweeping judgements-is that a failure to arrive at an agreed view of New Zealand's future economic relationship with Australia under the status quo option is itself an implicit broad judgement that the status quo is tenable and a reasonable basis against which the costs of moving towards a broader-based relationship can be measured. As the latest NZIER study (Butcher &amp; Copeland) observed, the question that must be addressed is not a comparison of before integration with after integration but with integration and without integration.
+  2. It is acknowledged that of the many difficult issues involved in considering the best course of action for New Zealand to take in the context of this exercise, there is probably none that is so predictive in nature and dependent on intuitive judgements. The only possible d fence of the approach taken below-which does not shy from making such explicit sweeping judgements-is that a failure to arrive at an agreed view of New Zealand's future economic relationship with Australia under the status quo option is itself an implicit broad judgement that the status quo is tenable and a reasonable basis against which the costs of moving towards a broader-based relationship can be measured. As the latest NZIER study (Butcher & Copeland) observed, the question that must be addressed is not a comparison of before integration with after integration but with integration and without integration.
   3. The importance of this issue is clear enough: New Zealand manufacturers are basically happy with the status quo. If you can have your cake and eat it too, why bother changing the recipe? Putting aside the extremist viewpoints expressed to officials in the DTI Industry Survey (January 1980), a dominant theme running through manufacturers' verbal comments to members of the survey team was:'Look, we've got what we want now. You blokes and your Ministers have done a great job negotiating with the Australians-just carry on'.
   4. The history of New Zealand's trade with the U.K., however, underlines the importance of taking a longer-term view of the longevity of even the happiest and apparently most mutually satisfactory of trading relationships. To state at the outset this Ministry's overall assessment of the realities of this exercise: just as it was obvious from the early 1960s that the cornerstone of New Zealand's trading links-the provision of 'cheap food' to the British housewife-could not be taken for granted any longer, so too today the existing framework of trans­ Tasman economic relations does not fit with the long-term political and economic aspirations of the dominant (Australian) trading partner. The broad policy inference to be drawn from this historical analogy is rather similar too, we think: New Zealand must begin the task of negotiating a long-term relationship that is consistent both with our own needs and our trading partner's aspirations before the existing framework is further whittled away. 
 
 ## The 'Status Quo' Further Defined
 
   5. To avoid the accusation that one is setting up a 'straw man' argument, it is necessary to define approximately what one means by the status quo.
-  6. It would be quite inaccurate to portray the current NAFTA framework as a static thing. Since the NAFTA was signed in 1965, it has been in a process of constant evolution: the implementation of article 3:7 deals from 1967, progressive changes in the rules of origin, the transition from British Preferences to the present-day Preferences Agreement, and so on. But at the level of generality on which this assessment is based, it is easy to identify a set of broad assumptions underlying the evolution of the NAFTA. First, it is not a free trade area approach but essentially a preferential area approach to trade relations. Second, competition has been consciously avoided (cf. panel arrangements, positive list approaches, highly disaggregated additions to the schedules). As Les Castle2 once put it: 'the avoidance of competition has run through the NAFrA like a theme in a Greek play, but whether it is tragedy or comedy, I have not yet decided'. Third, it has been marked by an exceptionally high degree of administrative intervention. Fourth-and less and less true in recent years-it has been imbalanced in New Zealand's favour (this has nothing to do with the balance of trade-we are referring to the form of institutional arrangements). Finally, there is no provision for harmonisation of policies that can lead to accusations of unfair competition; in practice, New Zealand has been the main beneficiary of this feature.
+  6. It would be quite inaccurate to portray the current NAFTA framework as a static thing. Since the NAFTA was signed in 1965, it has been in a process of constant evolution: the implementation of article 3:7 deals from 1967, progressive changes in the rules of origin, the transition from British Preferences to the present-day Preferences Agreement, and so on. But at the level of generality on which this assessment is based, it is easy to identify a set of broad assumptions underlying the evolution of the NAFTA. First, it is not a free trade area approach but essentially a preferential area approach to trade relations. Second, competition has been consciously avoided (cf. panel arrangements, positive list approaches, highly disaggregated additions to the schedules). As Les Castle[2](#f2) once put it: 'the avoidance of competition has run through the NAFrA like a theme in a Greek play, but whether it is tragedy or comedy, I have not yet decided'. Third, it has been marked by an exceptionally high degree of administrative intervention. Fourth-and less and less true in recent years-it has been imbalanced in New Zealand's favour (this has nothing to do with the balance of trade-we are referring to the form of institutional arrangements). Finally, there is no provision for harmonisation of policies that can lead to accusations of unfair competition; in practice, New Zealand has been the main beneficiary of this feature.
   7. All of these central assumptions are, it is suggested, at variance to a greater or lesser extent with the trend in Australian policy thinking. 
 
 ## Australia's Approach to Economic Relations with New Zealand
@@ -43,7 +50,7 @@ Australia/New Zealand Economic Relations: The Status Quo1
   17. It would, we consider, be naive to think that life with the Australians would be that simple. The forces that they have led to the redefinition of the relationship will continue, if not quicken, because of the essential relative dynamism of the Australian economy. The political consequences of New Zealand rejecting a closer economic relationship are likely to be quite severe over time. Such a decision by New Zealand would be widely perceived by the Australians as inward-looking. The common reaction would be to 'leave New Zealand to its own devices'. This would, over the longer term, come to have a damaging impact on the foreign policy relationship. In the short term, its impact would be very largely concentrated on the bilateral economic relationship. Where conflicts were seen to exist between economic arrangements with New Zealand and other objectives of policy, New Zealand would be the loser.
   18. It cannot be over-emphasised that we are suggesting a trend in policy, not a single decision. It is in fact no more than an extension of what has been happening for some time. This is very different from suggesting that the Australians, in a fit of pique, would immediately commence dismantling the framework of the current economic relationship.
   19. It is extremely difficult to move beyond this general prediction to specify precisely what form these consequences would take. But among the possibilities would be: 
-    * –the Preferences Agreement,3 up for renewal in year's time, would be allowed to lapse,
+    * –the Preferences Agreement,[3](#f3) up for renewal in year's time, would be allowed to lapse,
     * – the NAFTA, when it came up for renewal in 1986, would be emasculated and allowed to continue in name only unless New Zealand exempted all goods on Schedule A from import-licensing or, alternatively, agreed to remove all goods with import licensing on Schedule A and (say) place them on Schedule B,
     * –Article 3:7 arrangements would eventually lapse,
     * –Special quota arrangements negotiated under the NAFTA umbrella would be, on expiry, renegotiated on an equal basis along the lines of the current apparel negotiations (or the emerging issue of hand-held rotary cultivators). 20 It might well be asked why Australia would consider such actions which would impair its own economic future in the New Zealand market-since all these arrangements are partly reciprocal. The answer is simple: in some cases that would indeed be an offsetting consideration (eg. CKD packs) but generally the Australians have, rightly or wrongly, come to the conclusion that their exports to New Zealand do not depend on existing preferential arrangements-i.e. that New Zealand would continue to source 20% of its imports from Australia regardless of the NAFTA.
@@ -71,10 +78,8 @@ Australia/New Zealand Economic Relations: The Status Quo1
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 11--42 Archives New Zea1andffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 11--42 Archives New Zea1andffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 At this time at least two departments (Customs and Foreign Affairs) drafted papers setting out the likely consequences of dropping the CER exercise or allowing it to fail. This Foreign Affairs draft is the more exhaustive, but both reached similar conclusions. There is no reason to suppose that key Ministers such as Muldoon or Talboys ever considered dropping CER, but the drafts may have been intended to convince other more recalcitrant Ministers and their departments (possibly elements in the often protectionist Department of Industries and Commerce). There is no indication that the draft published here was further developed or put to any official use. 
   * 2 A former Treasury official, later Professor of Economics at Victoria University of Wellington.
   * 3 Agreement on Tariff and Tariff Preferences, operative from 1 December 1977.
-
-

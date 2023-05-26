@@ -1,12 +1,17 @@
 ---
-title: "34 Minutes of Tenth Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 34
+doc_date: '1937-06-01'
+doc_num: 34
+doc_order: 34
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Minutes of Tenth Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-01
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 34 Minutes of Tenth Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 10 (extract) LONDON, 1 June 1937
 
@@ -70,7 +75,7 @@ MR EDEN thought that the difficulties of drafting an expression of unity of thou
 
 The Meeting approved Mr Chamberlain's suggestion that the United Kingdom Delegation should circulate a draft to individual Dominion Delegates.
 
-_
+ _
 
 1 U.K. Secretary of State for Foreign Affairs.
 
@@ -82,4 +87,4 @@ _
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

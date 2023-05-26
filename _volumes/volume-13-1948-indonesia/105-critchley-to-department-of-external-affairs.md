@@ -1,20 +1,25 @@
 ---
-title: "105 Critchley to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5372
+doc_date: '1948-03-15'
+doc_num: 105
+doc_order: 105
+naa_refs:
+- naa_barcode: 550482
+  naa_control_symbol: 403/3/1/1 PART 16
+  naa_series: A1838
+  reference: '[AA:A1838, 403/0/1, xvi]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-03-15
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
 
-# 105 Critchley to Department of External Affairs
-
-## Cablegram K92 BATAVIA, 15 March 1948, 7.10 p.m.
+Cablegram K92 BATAVIA, 15 March 1948, 7.10 p.m.
 
 At a committee meeting this morning, I endeavoured to expedite a report on the political developments in West Java. Other members however insisted that no reports should be commenced before the Dutch have submitted their replies to the Committee's questions on the West Java Conference. [1] These are promised by the end of the week.
 
 2\. Reports from military observers indicate that a critical situation is developing in the Bantam area where there is an acute shortage of food, clothing, medical supplies and general amenities. The Netherlands are severely restricting trade and- communications with the area and this may be a deliberate policy aimed at prising Bantam from the Republic on the Madura pattern. A brief factual report on Bantam expressing the need for an early restoration of trade and commerce should therefore be included in West Java report. As there will be opposition to this from other members of the Committee, I should be glad to receive instructions whether I should submit a minority report. [2]
 
-_
+ _
 
 1 See Document 98.
 
@@ -22,4 +27,4 @@ _
 
 _
 
-_ [AA:A1838, 403/0/1, xvi]_
+ _[AA:A1838, 403/0/1, xvi]_

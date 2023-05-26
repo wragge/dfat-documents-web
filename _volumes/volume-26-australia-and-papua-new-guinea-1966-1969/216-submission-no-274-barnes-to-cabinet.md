@@ -1,25 +1,29 @@
 ---
-title: "216 Submission No. 274, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9724
+doc_date: '1968-08-09'
+doc_num: 216
+doc_order: 216
+naa_refs:
+- naa_barcode: 3069205
+  naa_control_symbol: '274'
+  naa_series: A5868
+  reference: '[NAA: A5868, 274]'
+title: Submission No. 274, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-08-09
-barcode: 3069205
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 216 Submission No. 274, Barnes To Cabinet
 
 Canberra, 9 August 1968
 
 Confidential
 
-**Papua and New Guinea: strength of the Pacific Islands Regiment**
+ **Papua and New Guinea: strength of the Pacific Islands Regiment**
 
-In the light of past instances of disaffection in the PIR over pay and conditions of service and the implications of this for the reliability and stability of the Force, it was proposed to the Minister for Defence in March 1967 that the programme for expanding the PIR to three battalions plus supporting units, adopted by Cabinet in 1963, should be reviewed. 1
+In the light of past instances of disaffection in the PIR over pay and conditions of service and the implications of this for the reliability and stability of the Force, it was proposed to the Minister for Defence in March 1967 that the programme for expanding the PIR to three battalions plus supporting units, adopted by Cabinet in 1963, should be reviewed. [1](#f1)
 
-2\. Following an examination made within the defence machinery in consultation with the Department of External Territories, the Defence Committee considers that a review should be undertaken not later than 1970 to decide the overall position of the defence forces of Papua and New Guinea, including the PNG Naval Division, air transport and other support requirements, and that meanwhile the Army should work to a PIR strength of 3,500 odd (including 650 odd ARA) by June 1969, i.e. two battalions plus supporting units. It is understood that the proposed review could be brought forward to early 1969. 2
+2\. Following an examination made within the defence machinery in consultation with the Department of External Territories, the Defence Committee considers that a review should be undertaken not later than 1970 to decide the overall position of the defence forces of Papua and New Guinea, including the PNG Naval Division, air transport and other support requirements, and that meanwhile the Army should work to a PIR strength of 3,500 odd (including 650 odd ARA) by June 1969, i.e. two battalions plus supporting units. It is understood that the proposed review could be brought forward to early 1969. [2](#f2)
 
-3\. In 1961 indigenous soldiers rioted over conditions of service and further disturbances occurred among members of the PIR in relation to the Local Officers’ Salaries issue in 1965 and 1966. In a submission to Cabinet in 1966 the Minister for the Army reported that the Commander in the Territory expected ‘serious trouble’ if an announcement on pay rates were not made in a matter of days. 3
+3\. In 1961 indigenous soldiers rioted over conditions of service and further disturbances occurred among members of the PIR in relation to the Local Officers’ Salaries issue in 1965 and 1966. In a submission to Cabinet in 1966 the Minister for the Army reported that the Commander in the Territory expected ‘serious trouble’ if an announcement on pay rates were not made in a matter of days. [3](#f3)
 
 4\. Since Cabinet’s 1963 decision the Force has increased from 660 Pacific Islanders and 72 ARA to 2,455 Pacific Islanders plus 632 ARA. The indigenous strength has increased by some 260 since last October when it was agreed between the Ministers concerned that the matter of further expansion should be submitted to Cabinet. The Defence Committee’s present proposal would defer the raising of the third battalion but would still expand the present indigenous strength by about 15 per cent by June 1969.
 
@@ -35,7 +39,7 @@ In the light of past instances of disaffection in the PIR over pay and condition
 
 10\. A reasonable course would be to hold the strength of the PIR at approximately the present level until the proposed review can be carried out, the target strength of the force to be determined when the results of that review are available to be taken into account, and in the light of the economic implications and any new facts or strategic considerations.
 
-[ [NAA: A5868, 274](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3069205) ]
+[NAA: A5868, 274]
 
 1 See attachment B, Document 111.
 

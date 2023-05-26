@@ -1,14 +1,19 @@
 ---
-title: "50 Submission 614 To Cabinet By Mcleay"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7655
+doc_date: '1954-01-30'
+doc_num: 50
+doc_order: 50
+naa_refs:
+- naa_barcode: 4678688
+  naa_control_symbol: '614'
+  naa_series: A4905
+  reference: '[AA : A4905, VOLUME 22]'
+title: Submission 614 To Cabinet By Mcleay
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-01-30
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 50 Submission 614 To Cabinet By Mcleay
-
-## 30th January, 1954
+30th January, 1954
 
 Australia's Commercial Relations with Japan
 
@@ -40,7 +45,7 @@ It is relevant to mention here that proposals have been made in Japan for the im
 
 11\. I recommend that the proposal contained in paragraph 8 above be approved. [5]
 
-_
+ _
 
 1 Documents 24, 46 and 48. See also Note 2 to Document 22.
 
@@ -48,10 +53,10 @@ _
 
 3 Document 48.
 
-4 Japan had been invited by decision of the contracting parties on 23 October 1953 to take part in the work of GATT. Australia abstained on the vote for this provisional participation (see Documents 41 and 45) and did not sign a declaration allowing members to promise GATT provisions for Japan in the interim period until Japan acceeded. Alan Rix, Coming to Terms: The Politics of Australia's Trade with Japan 1945-57, Allen &amp; Unwin, Sydney, 1986, p.131.
+4 Japan had been invited by decision of the contracting parties on 23 October 1953 to take part in the work of GATT. Australia abstained on the vote for this provisional participation (see Documents 41 and 45) and did not sign a declaration allowing members to promise GATT provisions for Japan in the interim period until Japan acceeded. Alan Rix, Coming to Terms: The Politics of Australia's Trade with Japan 1945-57, Allen  & Unwin, Sydney, 1986, p.131.
 
 5 A note on the file, dated 2 March, records that the submission was removed from the business list at the direction of the Secretary to Cabinet.
 
 _
 
-_ [AA : A4905, VOLUME 22]_
+ _[AA : A4905, VOLUME 22]_

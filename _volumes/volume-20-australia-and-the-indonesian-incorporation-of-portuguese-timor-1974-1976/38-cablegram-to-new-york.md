@@ -1,18 +1,25 @@
 ---
-title: "38 Cablegram to New York"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7877
+doc_date: '1974-09-26'
+doc_num: 38
+doc_order: 38
+naa_refs:
+- naa_barcode: 4151555
+  naa_control_symbol: 801/13/11/1 PART 3
+  naa_series: A10463
+  reference: '[NAA: A10463, 80111311111, iii]'
+title: Cablegram to New York
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-09-26
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 38 Cablegram to New York
 
 Canberra, 26 September 1974
 
 O.CH117514 CONFIDENTIAL PRIORITY
 
-**Portuguese Timor: Seabed Boundary**
+ **Portuguese Timor: Seabed Boundary**
 
 Please pass following to Minister as additional background in case the question of the seabed boundary is raised by the Portuguese Foreign Minister.
 
@@ -27,4 +34,4 @@ Please pass following to Minister as additional background in case the question 
 
 
 
-_ [NAA: A10463, 80111311111, iii]_
+ _[NAA: A10463, 80111311111, iii]_

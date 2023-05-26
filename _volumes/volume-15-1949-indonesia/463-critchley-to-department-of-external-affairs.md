@@ -1,12 +1,18 @@
 ---
-title: "463 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6632
+doc_date: '1949-08-01'
+doc_num: 463
+doc_order: 463
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3094
+  reference: '[AA : A3094/1, 2/1]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-08-01
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 463 Critchley to Department of External Affairs
 
 Cablegram K334 BATAVIA, 1 August 1949, 5.35 p.m.
 
@@ -16,7 +22,7 @@ The Netherlands and Republican Delegations together with representatives of the 
 
 2\. The meeting also established a Joint Control Board to supervise the implementation of the cease-hostilities and a sub-committee to work out article 7 of Van Royen's statement [2] of 7th May. Both bodies will be under the chairmanship of the Commission. It is also agreed to consider the establishment of a sub-committee to deal with the release of political prisoners and prisoners of war.
 
-_
+ _
 
 1 See Document 436.
 
@@ -24,4 +30,4 @@ _
 
 _
 
-_ [AA : A3094/1, 2/1]_
+ _[AA : A3094/1, 2/1]_

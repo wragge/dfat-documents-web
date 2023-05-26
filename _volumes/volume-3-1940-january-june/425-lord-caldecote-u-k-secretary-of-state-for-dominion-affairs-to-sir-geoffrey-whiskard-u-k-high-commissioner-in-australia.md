@@ -1,12 +1,18 @@
 ---
-title: "425 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1191
+doc_date: '1940-06-23'
+doc_num: 425
+doc_order: 425
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4583]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-23
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 425 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram unnumbered LONDON, 23 June 1940, 7.54 p.m.
 
@@ -22,7 +28,7 @@ We shall, of course, inform you [as soon as possible] [4] of the best use as we 
 
 Although, as you will appreciate, the position at the moment is as obscure as it is grave, I should like to say how greatly we [here] are fortified in our resolution by having with us an Australia brigade group. Their first task will be to defend the Mother Country. The more the better. I know well how anxious you are to see the early reconstitution of the whole of the Australian Military Forces. Much depends on the relative importance assumed by the home and the Middle East theatres of war, and by any other specially dangerous spots. I need hardly say that the position is being watched and studied day and night, and that the earliest possible communication will be made to you. We have by no means excluded offensive action next year after the defence of this island has been made good. You may rest assured also that the needs of the Australian Imperial Force in respect of equipment, wherever they may be fighting, will be provided to our utmost ability.
 
-_
+ _
 
 1 R. G. Menzies.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4583]_
+ _[FA: A3195, 1.4583]_

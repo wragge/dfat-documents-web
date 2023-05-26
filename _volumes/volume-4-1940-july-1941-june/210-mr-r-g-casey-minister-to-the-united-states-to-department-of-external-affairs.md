@@ -1,12 +1,17 @@
 ---
-title: "210 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1441
+doc_date: '1940-11-26'
+doc_num: 210
+doc_order: 210
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 26A]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-26
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 210 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 395 WASHINGTON, 26 November 1940, 7.19 p.m.
 
@@ -34,7 +39,7 @@ I find on enquiry that the State Department and Navy Office and British Embassy 
 
 CASEY
 
-_
+ _
 
 1 Director of Operations, R.A.N.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 26A]_
+ _[AA:A981, FAR EAST 26A]_

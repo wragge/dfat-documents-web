@@ -1,14 +1,19 @@
 ---
-title: "188 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4036
+doc_date: '1946-10-31'
+doc_num: 188
+doc_order: 188
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 946, 1.26067]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-10-31
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 188 Australian Delegation, United Nations, to Department of External Affairs
-
-## Cablegram United Nations 593 NEW YORK, 31 October 1946, 10.14 p.m.
+Cablegram United Nations 593 NEW YORK, 31 October 1946, 10.14 p.m.
 
 MOST IMMEDIATE
 
@@ -38,7 +43,7 @@ In the preparation of such rules regard should be paid to the following principl
 
 5\. We would appreciate urgent instructions. [2]
 
-_
+ _
 
 1 See Document 171.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A3195, 946, 1.26067]_
+ _[AA:A3195, 946, 1.26067]_

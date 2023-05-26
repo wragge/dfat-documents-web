@@ -1,18 +1,25 @@
 ---
-title: "82 Record of Discussion Between Fraser and Muldoon"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8952
+doc_date: '1980-02-11'
+doc_num: 82
+doc_order: 82
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Record of Discussion Between Fraser and Muldoon
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-02-11
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 82 Record of Discussion Between Fraser and Muldoon
 
 Christchurch, 11 February 1980
 
 SECRET NEW ZEALAND EYES ONLY
 
-_[matter omitted]_1
+ _[matter omitted]_[1](#f1)
 
   64. MR MULDOON referred to bilateral talks on economic relations and wondered what the Australians thought about the chats which were to take place a month from then.
   65. MR FRASER replied that before the two Prime Ministers met they would want to be sure that the real groundwork had been laid. When they got together on the economic thing they had to have made some substantive progress. He could see value in a further round of official talks and of the Prime Ministers' meeting a little later. But mischief could be made if the Prime Ministers met without real progress. Not enough work had been done yet. He wanted the Permanent Heads from the two countries to get together and then their work could be reviewed. There followed a brief exchange on the way the work was to be organised.
@@ -24,8 +31,6 @@ _[matter omitted]_1
 
 
 
-_[ABHS 950/Box 1607, 59/203/2 Part 7 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1607, 59/203/2 Part 7 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
-  * 1 Fraser stopped briefly in New Zealand while returning from a series of visits to Washington and European capitals. The two Prime Ministers' discussions in Christchurch were wide-ranging, and CER was not a major issue on this occasion.. 
-
-
+  * 1 Fraser stopped briefly in New Zealand while returning from a series of visits to Washington and European capitals. The two Prime Ministers' discussions in Christchurch were wide-ranging, and CER was not a major issue on this occasion..

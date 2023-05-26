@@ -1,12 +1,18 @@
 ---
-title: "314 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1545
+doc_date: '1941-02-22'
+doc_num: 314
+doc_order: 314
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941, 0.2302]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 314 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 110 22 February 1941,
 
@@ -56,7 +62,7 @@ Item (a) (b) 1. Metals and metal manufactures 1,000 2,500 2. Oil 600 1,500 3. Ot
 
 9\. We have assumed the estimates you require for these commodities should be our total essential requirements, irrespective of whether provision would be made in the Lease or Loan Bill or whether they would be paid for by dollars or gold. We would therefore point out that we would be able to pay for a large portion of these commodities out of the proceeds of our exports of gold and other commodities, less payments for interest and other services.
 
-_
+ _
 
 1 Peter Fraser.
 
@@ -68,4 +74,4 @@ _
 
 _
 
-_ [AA:A3196, 1941, 0.2302]_
+ _[AA:A3196, 1941, 0.2302]_

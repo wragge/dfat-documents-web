@@ -1,24 +1,27 @@
 ---
-title: "402 MEMORANDUM LAWLER TO BAILEY"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10268
+doc_date: '1972-08-28'
+doc_num: 402
+doc_order: 402
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA: Al209, 1971/9449 PART 2]'
+title: MEMORANDUM LAWLER TO BAILEY
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-08-28
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 402 MEMORANDUM LAWLER TO BAILEY
-
-NAA: Al209, 1971/9449 PART 2
 
 Canberra, 28 August 1972
 
 Thanks.
 
-I agree very much with the points you made1 —if anything I would want to be tougher. As you know I have come to feel that transfer itself is premature.
+I agree very much with the points you made[1](#f1) —if anything I would want to be tougher. As you know I have come to feel that transfer itself is premature.
 
 At his request I gave the Secretary a rough line of reply—a chopping block—at weekend [...]
 
-[Lawler’s draft follows]2
+[Lawler’s draft follows][2](#f2)
 
 I have been turning over in my mind the further views which you set out in your letter of 23 August concerning the transfer of responsibility for Australia House.
 
@@ -51,3 +54,5 @@ I have been turning over in my mind the further views which you set out in your 
 1 Document 401.
 
 2 N.b.: This draft was never sent. The Prime Minister’s eventual reply is Document 404.
+
+[NAA: Al209, 1971/9449 PART 2]

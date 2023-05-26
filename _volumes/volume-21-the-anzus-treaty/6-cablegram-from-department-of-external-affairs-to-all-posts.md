@@ -1,14 +1,19 @@
 ---
-title: "6 Cablegram From Department of External Affairs to All Posts"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8357
+doc_date: '1950-01-09'
+doc_num: 6
+doc_order: 6
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A6366
+  reference: '[NAA : A6366, WL1950/1 OUT]'
+title: Cablegram From Department of External Affairs to All Posts
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1950-01-09
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
 
-# 6 Cablegram From Department of External Affairs to All Posts
-
-## Cablegram, Canberra, 2 January 19[50]
+Cablegram, Canberra, 2 January 19[50]
 
 137\. Australian Relations with Asia.
 
@@ -24,7 +29,7 @@ Australia and the United States of America are the two countries which can, in c
 
 By concerted action, we, the countries which have had greater opportunities in the past, can help the countries of South-East Asia to develop their own democratic institutions and their own viable economies and thus protect them against those opportunist disruptive and subversive elements which take advantage of changing political situations and low living standards'.
 
-_ SPENDER'S STATEMENT IN THE HOUSE OF REPRESENTATIVES - 9 MARCH 1950 On 9 March Spender gave a comprehensive speech to the House of Representatives, stating that the aims of Australian Foreign Policy are to preserve peace and our way of life and to do so by asking 'What are Australia's interests and how best can they be served?' Spender stated that these aims rely on maintaining the peace and security of Australia through four avenues: the Pacific, in Western Europe through co-operation with the British Commonwealth, the United States, and the United Nations. Spender did not believe that a growing interest in the Pacific region and Asia relieved Australia of the obligation to follow closely the situation in Europe, or that our relationship with the United Nations would be lessened if alternative security machinery were adopted. Spender discussed the United Nations as follows: 'we must take no action inconsistent with the principles of the Organisation. We must try to foster the influence of the Organisation by giving it the opportunity to provide solutions. But where the United Nations is manifestly unable to protect Australian interests it is the duty of the Government to follow simultaneously a policy of making supplementary arrangements among those we know to be our friends'.
+ _SPENDER'S STATEMENT IN THE HOUSE OF REPRESENTATIVES - 9 MARCH 1950 On 9 March Spender gave a comprehensive speech to the House of Representatives, stating that the aims of Australian Foreign Policy are to preserve peace and our way of life and to do so by asking 'What are Australia's interests and how best can they be served?' Spender stated that these aims rely on maintaining the peace and security of Australia through four avenues: the Pacific, in Western Europe through co-operation with the British Commonwealth, the United States, and the United Nations. Spender did not believe that a growing interest in the Pacific region and Asia relieved Australia of the obligation to follow closely the situation in Europe, or that our relationship with the United Nations would be lessened if alternative security machinery were adopted. Spender discussed the United Nations as follows: 'we must take no action inconsistent with the principles of the Organisation. We must try to foster the influence of the Organisation by giving it the opportunity to provide solutions. But where the United Nations is manifestly unable to protect Australian interests it is the duty of the Government to follow simultaneously a policy of making supplementary arrangements among those we know to be our friends'.
 
 Spender was no doubt referring to the possibility of alternative machinery such as the Pacific Pact, an arrangement on which he had firm views: 'What I envisage is a defensive military arrangement having as its basis a firm agreement between countries that have a vital interest in the stability of Asia and the Pacific, and which are at the same time capable of undertaking military commitments. I would like to think that Australia, the United Kingdom, and I fervently hope other Commonwealth countries might form a nucleus, and that such other countries as might wish to do so should be given the opportunity of associating themselves with it, providing as I have said that they are capable of contributing military commitments. I have in mind particularly the United States of America, whose participation would give such a pact a substance that it would otherwise lack. Indeed, it would be rather meaningless without her'.
 
@@ -34,4 +39,4 @@ Although Spender examined the different views of Australia and the United States
 
 _
 
-_ [NAA : A6366, WL1950/1 OUT]_
+ _[NAA : A6366, WL1950/1 OUT]_

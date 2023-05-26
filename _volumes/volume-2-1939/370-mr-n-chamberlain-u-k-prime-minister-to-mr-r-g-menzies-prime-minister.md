@@ -1,12 +1,17 @@
 ---
-title: "370 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 707
+doc_date: '1939-11-17'
+doc_num: 370
+doc_order: 370
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-17
+vol_title: 'Volume 2: 1939'
 ---
-
-# 370 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 17 November 1939, 2.26 p.m.
 
@@ -22,7 +27,7 @@ Please accept my cordial thanks for having met our wishes in this way.
 
 I warmly reciprocate your kind regards.
 
-_
+ _
 
 1 Document 358 2 King George VI.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

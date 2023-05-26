@@ -1,12 +1,17 @@
 ---
-title: "338 Evatt to Glasgow"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2629
+doc_date: '1943-12-01'
+doc_num: 338
+doc_order: 338
+naa_refs:
+- naa_barcode: 4224126
+  naa_control_symbol: 1943/67
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.33077]'
+title: Evatt to Glasgow
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-12-01
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 338 Evatt to Glasgow
 
 Cablegram 235 CANBERRA, 1 December 1943
 
@@ -22,7 +27,7 @@ Your 204 paragraph 2. [1] Canadian Mutual Aid.
 
 4\. Please tell Prime Minister from myself that no one can appreciate better than he the danger of causing local political repercussions whenever this can be avoided.
 
-_ 1 Cablegram 204 of 5 November is on file AA:A2671, 380/1943.
+ _1 Cablegram 204 of 5 November is on file AA:A2671, 380/1943.
 
 Paragraph (2) read:
 
@@ -34,4 +39,4 @@ In view of this and of the fact that the U.K., U.S.S.R. and China have apparentl
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.33077]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.33077]_

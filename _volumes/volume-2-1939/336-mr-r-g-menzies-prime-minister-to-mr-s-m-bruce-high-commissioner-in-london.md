@@ -1,12 +1,17 @@
 ---
-title: "336 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 673
+doc_date: '1939-11-09'
+doc_num: 336
+doc_order: 336
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 336 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 9 November 1939,
 
@@ -16,10 +21,10 @@ Regarding Washington: There is growing criticism here at our delay and it would 
 
 MENZIES
 
-_
+ _
 
 1 This cablegram crossed Bruce's 631 (Document 337). See AA: CP 290/6, item 1.
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

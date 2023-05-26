@@ -1,25 +1,29 @@
 ---
-title: "31 Letter, Hasluck To Gorton"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9539
+doc_date: '1966-03-18'
+doc_num: 31
+doc_order: 31
+naa_refs:
+- naa_barcode: 1730563
+  naa_control_symbol: 936/5
+  naa_series: A1838
+  reference: '[NAA: A1838, 936/5]'
+title: Letter, Hasluck To Gorton
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-03-18
-barcode: 1730563
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 31 Letter, Hasluck To Gorton
 
 Canberra, 18 March 1966
 
 Top Secret
 
-I am passing on to you herewith some notes given to me by my Department2 regarding Cabinet submission no. 71 (Papua and New Guinea—ultimate status).3 In addition I have run out some notes of my own and intended to use them if I were present when the submission was debated.
+I am passing on to you herewith some notes given to me by my Department[2](#f2) regarding Cabinet submission no. 71 (Papua and New Guinea—ultimate status).[3](#f3) In addition I have run out some notes of my own and intended to use them if I were present when the submission was debated.
 
 You will see that my view is that it is almost impossible to predict with certainty what is going to happen in Papua and New Guinea and that, for this reason as well as for political reasons, we should try to avoid making declarations about the ultimate status of Papua and New Guinea and try to stick as close as we can to the line that this is something for the people to choose and to work out in consultation with us in successive stages.
 
 You will of course develop your own views on the submission but I gathered from the Prime Minister that he would like to know my own personal views on this particular submission and I am letting him know that I have given you these notes.
 
-**Attachment**
+ **Attachment**
 
 NOTES ON CABINET SUBMISSION NO. 71 PAPUA AND NEW GUINEA
 
@@ -51,7 +55,7 @@ We have to be careful not to give international opinion grounds for thinking tha
 
 10\. In general, there is a need to distinguish between self-government and independence and to recognise that there are various degrees of independence. The phrase ‘close association with Australia’ is used in the submission rather vaguely and this vagueness may be unavoidable simply because the form and nature of that association still have to be worked out. We might try to establish the idea that there is no basic conflict between ‘independence’ and ‘close association’ if the closeness of the association is expressed as the will of an independent nation.
 
-[ [NAA: A1838, 936/5](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1730563) ]
+[NAA: A1838, 936/5]
 
 1 Gorton was Acting Minister for External Affairs during Hasluck’s absence overseas between 19 March and 24 April 1966.
 

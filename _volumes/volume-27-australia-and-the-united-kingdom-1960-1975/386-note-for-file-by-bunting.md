@@ -1,14 +1,17 @@
 ---
-title: "386 NOTE FOR FILE BY BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10252
+doc_date: '1972-05-26'
+doc_num: 386
+doc_order: 386
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA: A1209, 1971/9449 PART 2]'
+title: NOTE FOR FILE BY BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-05-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 386 NOTE FOR FILE BY BUNTING
-
-NAA: A1209, 1971/9449 PART 2
 
 Canberra, 26 May 1972
 
@@ -24,13 +27,13 @@ I spoke to the Prime Minister about control of Australia House. I said that poli
 
 5\. The Prime Minister asked why I raised this. Was there a difficulty? If so, he had not heard of it direct from the High Commissioner.
 
-6\. I said I thought the High Commissioner made no bones about his view—for instance, following the discussion in London with Mr Heath. 1 Also in the past few days, one of his cables to me had a definite disowning quality about it.2 I then said I felt sure I had to write to the High Commissioner. I would go off and draft something. The Prime Minister agreed.
+6\. I said I thought the High Commissioner made no bones about his view—for instance, following the discussion in London with Mr Heath. [1](#f1) Also in the past few days, one of his cables to me had a definite disowning quality about it.[2](#f2) I then said I felt sure I had to write to the High Commissioner. I would go off and draft something. The Prime Minister agreed.
 
 7\. I then went on to another aspect—the Deputy High Commissioner post.
 
 8\. I put a proposal for its continuation. There had been a post on present lines starting with McCarthy and then with Brown, Knott and Boswell.
 
-9\. I said reasons for this came out of a need presentationally and in substance for the closest possible relations with Britain across the whole field of Government. The Prime Minister spoke to Mr Heath about increase of relationships in November and they have since exchanged letters on it.3
+9\. I said reasons for this came out of a need presentationally and in substance for the closest possible relations with Britain across the whole field of Government. The Prime Minister spoke to Mr Heath about increase of relationships in November and they have since exchanged letters on it.[3](#f3)
 
 10\. Dealings with the Government, the parliamentary system and the Civil Service in the UK are similar to dealings in Australia. This provides a full background for consultation and co-operation with the UK. The range of Government activity and other links between the two countries remain very wide.
 
@@ -53,3 +56,5 @@ I spoke to the Prime Minister about control of Australia House. I said that poli
 2  Document 384. 
 
 3  UKNA: FCO 24/1342, letters from McMahon to Heath, 6 April 1972, and Heath to McMahon, 8 May 1972. 
+
+[NAA: A1209, 1971/9449 PART 2]

@@ -1,12 +1,17 @@
 ---
-title: "29 Minutes of Fourth Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 29
+doc_date: '1937-05-22'
+doc_num: 29
+doc_order: 29
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONE. 1937, MEETINGS]'
+title: Minutes of Fourth Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-05-22
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 29 Minutes of Fourth Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 4 (extracts) LONDON, 22 May 1937
 
@@ -74,7 +79,7 @@ He felt that the best course would be for those present to turn the matter over 
 
 Further discussion could take place at the meetings which would be held on Mr Eden's return from Geneva and a decision could then be reached whether there should be a resolution by the Conference on the subject.
 
-_
+ _
 
 1 Document 25.
 
@@ -88,4 +93,4 @@ _
 
 _
 
-_ [FA : IMP. CONE. 1937, MEETINGS]_
+ _[FA : IMP. CONE. 1937, MEETINGS]_

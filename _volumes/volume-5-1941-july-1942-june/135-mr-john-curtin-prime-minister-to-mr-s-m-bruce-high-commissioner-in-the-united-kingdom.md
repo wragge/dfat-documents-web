@@ -1,12 +1,18 @@
 ---
-title: "135 Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1889
+doc_date: '1941-11-29'
+doc_num: 135
+doc_order: 136
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the
+  United Kingdom
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-29
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 135 Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom
 
 Cablegram 7509 [1] CANBERRA, 29 November 1941
 
@@ -18,7 +24,7 @@ Another aspect is equally important. At the War Cabinet meeting which Page [5] a
 
 Will you see Page with a view to reconsideration of such matters by War Cabinet at earliest possible moment. Evatt [7] just had telephone talk with Casey and I am sending Casey copy of this message. [8]
 
-_
+ _
 
 1 Repeated to the Ministers to the United States and China (R. G.
 
@@ -42,4 +48,4 @@ Ambassador to the United States) was in the best position to advise the U.K. Gov
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

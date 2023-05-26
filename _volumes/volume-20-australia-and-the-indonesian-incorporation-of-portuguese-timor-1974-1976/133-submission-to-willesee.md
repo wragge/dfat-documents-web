@@ -1,12 +1,19 @@
 ---
-title: "133 Submission to Willesee"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7972
+doc_date: '1975-05-21'
+doc_num: 133
+doc_order: 133
+naa_refs:
+- naa_barcode: 550924
+  naa_control_symbol: 3038/10/1/2 PART 1
+  naa_series: A1838
+  reference: '[NAA: AJ838, 3038/10/1/2, i]'
+title: Submission to Willesee
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-05-21
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 133 Submission to Willesee
 
 Canberra, 21 May 1975
 
@@ -30,7 +37,7 @@ G.B.FEAKES - First Assistant Secretary South-East Asia and Papua New Guinea Divi
 
 ## PORTUGUESE TIMOR: APODETI VISIT, 21 MAY 1975
 
-_[matter omitted]_
+ _[matter omitted]_
 
 ### Talking Points
 
@@ -42,6 +49,6 @@ In his talks last year with President Soeharto the Prime Minister said that he b
 
 In a sense, therefore, we support the aim of APODETI: integration with Indonesia. We have, however, to distinguish this from support for the APODETI party as such. The process of decolonisation in Portuguese Timor has only just begun and Australia should not seek to influence the political development of the territory, nor appear to give the nod to such political leaders as have emerged in the early stages of free political activity.
 
-_[matter omitted]_
+ _[matter omitted]_
 
-_[NAA: AJ838, 3038/10/1/2, i]_
+ _[NAA: AJ838, 3038/10/1/2, i]_

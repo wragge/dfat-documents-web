@@ -1,12 +1,18 @@
 ---
-title: "328 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Lord Halifax, U.K. Secretary of State for Foreign Affairs, at the Foreign Office"
-volume: "Volume 1: 1937-38"
-doc_id: 327
+doc_date: '1938-12-06'
+doc_num: 328
+doc_order: 327
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA : AA1970/556, ITEM 6(1)]'
+title: Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Lord
+  Halifax, U.K. Secretary of State for Foreign Affairs, at the Foreign Office
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-12-06
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 328 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Lord Halifax, U.K. Secretary of State for Foreign Affairs, at the Foreign Office
 
 LONDON, 6 December 1938
 
@@ -24,8 +30,8 @@ I told him I was putting Australia's point of view to him because I was perfectl
 
 He said that his own mind was very similar to that of Australia.
 
-_
+ _
 
 _
 
-_ [AA : AA1970/556, ITEM 6(1)]_
+ _[AA : AA1970/556, ITEM 6(1)]_

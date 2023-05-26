@@ -1,13 +1,17 @@
 ---
-title: "33 Cablegram From Spender to Menzies"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8384
+doc_date: '1951-01-18'
+doc_num: 33
+doc_order: 33
+naa_refs:
+- naa_barcode: 3529283
+  naa_control_symbol: '2'
+  naa_series: A11537
+  reference: '[NAA : A11537, [2]'
+title: Cablegram From Spender to Menzies
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1951-01-18
-barcode: 3529283
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 33 Cablegram From Spender to Menzies
 
 Cablegram, Canberra, 18 January 1951
 
@@ -17,6 +21,6 @@ I have been advised by the United States Embassy of Dulles' proposal to you that
 
 2\. I think that a discussion of this kind is the only way of getting to grips with the problem and I suggest that you agree to the proposal.
 
-__
+ __
 
-_ [ [NAA : A11537, [2]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3529283) ]_
+ _[NAA : A11537, [2]]_

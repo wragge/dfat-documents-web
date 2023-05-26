@@ -1,14 +1,19 @@
 ---
-title: "108 Addison to Australian Government"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3620
+doc_date: '1946-02-23'
+doc_num: 108
+doc_order: 108
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.4882]'
+title: Addison to Australian Government
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-23
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 108 Addison to Australian Government
-
-## Cablegram 76 LONDON, 23 February 1946, 4.07 p.m.
+Cablegram 76 LONDON, 23 February 1946, 4.07 p.m.
 
 Your telegrams 31st January No.54 and 20th February No.87. [1] International Health Organisation.
 
@@ -18,7 +23,7 @@ We were glad to have the Commonwealth Government's views before us in considerin
 
 3\. As regards the form of relationship between such an international health organisation and the United Nations we feel that there would be practical advantages if it were in primary relationship with the Economic and Social Council rather than the Assembly since it is contemplated that other specialised agencies will be brought into relationship with the Council (see paper E17 [2]) and we expect that one of the functions of the council will be to prevent overlapping between such agencies. Such relationship would not prevent health business coming up in the Assembly when appropriate on reports from Economic and Social Council or otherwise.
 
-_
+ _
 
 1 See Document 9 and note 4 thereto. In cablegram 54 the Australian Govt suggested U.K. sponsorship of a resolution before the Economic and Social Council intended to lead to establishment of the health organisation as an organ of the General Assembly.
 
@@ -28,4 +33,4 @@ Cablegram 87 sought U.K. comments on the suggestion.
 
 _
 
-_ [AA:A3195, 1946, 1.4882]_
+ _[AA:A3195, 1946, 1.4882]_

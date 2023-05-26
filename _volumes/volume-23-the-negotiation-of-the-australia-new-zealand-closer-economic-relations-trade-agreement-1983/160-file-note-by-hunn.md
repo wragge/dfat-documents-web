@@ -1,12 +1,19 @@
 ---
-title: "160 File Note by Hunn"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9029
+doc_date: '1981-02-16'
+doc_num: 160
+doc_order: 160
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: File Note by Hunn
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-02-16
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 160 File Note by Hunn
 
 Canberra, 16 February 1981
 
@@ -28,4 +35,4 @@ He observed that Victoria and South Australia had joined to eliminate State pref
 
 On a more general level Draper thought NSW was the least concerned of all the States on CER. There were some industry sectors which needed to be handled carefully eg dairy products (their dairy farmers were worried about a New Zealand 'surplus'). Import licences and export incentives would have to be eliminated from Trans-Tasman trade if CER were to work, but generally NSW was relaxed about it. The very good personal relations between Mr Wran and Mr Muldoon had created this climate.
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 34 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 34 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

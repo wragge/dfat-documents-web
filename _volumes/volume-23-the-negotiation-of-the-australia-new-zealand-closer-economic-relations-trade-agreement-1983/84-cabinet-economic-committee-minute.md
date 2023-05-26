@@ -1,12 +1,19 @@
 ---
-title: "84 Cabinet Economic Committee Minute"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8954
+doc_date: '1980-02-19'
+doc_num: 84
+doc_order: 84
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Cabinet Economic Committee Minute
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-02-19
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 84 Cabinet Economic Committee Minute
 
 Wellington, 19 February 1980
 
@@ -31,8 +38,8 @@ The Committee:
   2. agreed: 
     1. that a Customs Union, based on the lower of the two countries' protective structures, was not likely to be achievable over the next five to seven years without unacceptable costs to the New Zealand economy;
     2. that a Full Free Trade Area also had major problems for both countries;
-  3. _directed_ officials to continue discussions with Australian officials, with a view to developing and defining the elements that might be considered in a pragmatic approach based on an adjusted free trade area, giving due weight to broad economic policies, for consideration by the Prime Ministers at their meeting in March.
+  3.  _directed_ officials to continue discussions with Australian officials, with a view to developing and defining the elements that might be considered in a pragmatic approach based on an adjusted free trade area, giving due weight to broad economic policies, for consideration by the Prime Ministers at their meeting in March.
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 25 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 25 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

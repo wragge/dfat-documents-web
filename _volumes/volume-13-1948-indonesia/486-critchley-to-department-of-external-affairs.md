@@ -1,12 +1,17 @@
 ---
-title: "486 Critchley to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5753
+doc_date: '1948-12-28'
+doc_num: 486
+doc_order: 486
+naa_refs:
+- naa_barcode: 271979
+  naa_control_symbol: 854/10/4/3 PART 2
+  naa_series: A1838
+  reference: '[AA:A1838, 854/104/3, ii]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-12-28
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 486 Critchley to Department of External Affairs
 
 Cablegram K230 BATAVIA, 28 December 1948, 4.15 p.m.
 
@@ -30,7 +35,7 @@ On December 25th Doctor Shafrudin Prawiranegara, Republican Minister for Economi
 
 5\. Military observers believe that the Dutch have now achieved their main objectives. This means that they have completed their advances along the main roads and taken the main towns throughout Java and most of Sumatra. They could therefore issue a 'cease- fire' order without embarrassment and describe any future operations as internal security measures. For reasons indicated in the Committee's latest report [2] to the Security Council such a cease-fire order could not be effectively observed.
 
-_
+ _
 
 1 The reference is presumably to Bandjarnegara in Central Java.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A1838, 854/104/3, ii]_
+ _[AA:A1838, 854/104/3, ii]_

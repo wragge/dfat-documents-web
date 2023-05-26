@@ -1,12 +1,17 @@
 ---
-title: "101 Curtin to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2748
+doc_date: '1944-03-29'
+doc_num: 101
+doc_order: 101
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 646]'
+title: Curtin to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-29
+vol_title: 'Volume 7: 1944'
 ---
-
-# 101 Curtin to Evatt
 
 Letter CANBERRA, 29 March 1944
 
@@ -18,7 +23,7 @@ I am in receipt of your letter of 24th March [1], relative to the discussion of 
 
 JOHN CURTIN
 
-_
+ _
 
 1 Document 94.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 646]_
+ _[AA:A5954, BOX 646]_

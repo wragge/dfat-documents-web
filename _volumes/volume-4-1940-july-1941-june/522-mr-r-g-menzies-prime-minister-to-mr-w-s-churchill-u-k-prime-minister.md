@@ -1,14 +1,19 @@
 ---
-title: "522 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1753
+doc_date: '1941-06-28'
+doc_num: 522
+doc_order: 522
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.8825]'
+title: Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-28
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 522 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
-
-## Cablegram 402 28 June 1941,
+Cablegram 402 28 June 1941,
 
 MOST IMMEDIATE
 
@@ -26,10 +31,10 @@ But our reports suggest that air support at Tobruk is inadequate to counter heav
 
 We are noting with great satisfaction the growing success of the R.A.F. in its Trans Channel sweeps. The tide of air invasion is beginning to turn.
 
-_
+ _
 
 1 See Document 511, note 4.
 
 _
 
-_ [AA: A3196, 1941, 0.8825]_
+ _[AA: A3196, 1941, 0.8825]_

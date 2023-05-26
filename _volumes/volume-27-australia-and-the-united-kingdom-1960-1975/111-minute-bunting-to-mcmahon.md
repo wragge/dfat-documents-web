@@ -1,20 +1,23 @@
 ---
-title: "111 MINUTE, BUNTING TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9976
+doc_date: '1971-06-07'
+doc_num: 111
+doc_order: 111
+naa_refs:
+- naa_barcode: 3166916
+  naa_control_symbol: CO1191
+  naa_series: A5882
+  reference: '[NAA: A5882, C01191]'
+title: MINUTE, BUNTING TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-07
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 111 MINUTE, BUNTING TO MCMAHON
-
-NAA: A5882, C01191
 
 Canberra, 7 June 1971
 
 Secret
 
-_The Prime Minister_
+ _The Prime Minister_
 
 I raise one point of development from this afternoon’s discussions on the strategic basis of Australia’s defence policy.
 
@@ -29,3 +32,5 @@ I raise one point of development from this afternoon’s discussions on the stra
 6\. Although regional security and development is a broad based concept, an Australian defence contribution along the lines mentioned in the previous paragraph would be far from insignificant. Foreign and aid policy are already moving pronouncedly in this direction, and drawing in a defence contribution would immeasurably strengthen the policy base.
 
 7\. You may think this a strand that is worth weaving into tomorrow’s discussions in Cabinet.
+
+[NAA: A5882, C01191]

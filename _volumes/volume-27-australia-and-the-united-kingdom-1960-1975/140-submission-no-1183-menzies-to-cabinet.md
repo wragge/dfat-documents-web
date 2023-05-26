@@ -1,27 +1,30 @@
 ---
-title: "140 SUBMISSION NO. 1183, MENZIES TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10005
+doc_date: '1961-06-26'
+doc_num: 140
+doc_order: 140
+naa_refs:
+- naa_barcode: 946427
+  naa_control_symbol: C3368 PART 1
+  naa_series: A4940
+  reference: '[NAA: A4940, C3368 PART 1]'
+title: SUBMISSION NO. 1183, MENZIES TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-06-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 140 SUBMISSION NO. 1183, MENZIES TO CABINET
-
-NAA: A4940, C3368 PART 1
 
 Canberra, 26 June 1961
 
 Secret
 
-****
+ ****
 
 The Political Implications for Australia of United Kingdom Entry into the  
 European Economic Community
 
 Introduction
 
-_Prospects for United Kingdom Participation_
+ _Prospects for United Kingdom Participation_
 
 The two major obstacles to the United Kingdom participation in the European Economic Community have been the lack of a positive desire on Britain’s part for membership, and the unwillingness of the Six (and France in particular) to agree to any form of association likely to weaken the Common Market itself or its ultimate objective of political integration. Recently it has become clear that the United Kingdom Government’s ideas have become firmer, and there is every prospect that it will shortly announce that an attempt will be made to negotiate an early accommodation with the Six.
 
@@ -31,17 +34,17 @@ The two major obstacles to the United Kingdom participation in the European Econ
 
 4\. The Rome Treaty provides for a transitional period of twelve years. If the United Kingdom joins the Community, the movement towards economic unity would be slowed, if only because the task of harmonising seven economies would be more exacting. But within Europe the pace of economic integration is already significant, and this will exert a continuing influence in the political sphere. Much will depend on the successors to de Gaulle and Adenauer. But assuming that the process now begun maintains its momentum, it is possible that within two or three decades such a degree of integration will have been reached as to entail real surrenders of sovereignty and real obligations upon members to harmonise their policies towards the rest of the world.
 
-_The United States Attitude_
+ _The United States Attitude_
 
 5\. It emerged from Macmillan’s discussions in Washington with President Kennedy that the United States favours United Kingdom participation in the EEC on political grounds. It also appears that, although recognising that United Kingdom obligations to its EFTA partners and to the Commonwealth will have to be taken into account, the United States has made its support conditional on there being no weakening of the political structure of the EEC as a result of the United Kingdom’s entry.
 
 6\. There are important political reasons for this American attitude. First, the United States sees in the Rome Treaty a path towards the union of the principal European powers as a strong and prosperous barrier against Communism, and therefore does not want the structure of the Community weakened. Moreover, the United States is looking to Europe to take an increasing share of the immense financial burdens of the competition in arms and aid with the Communist world.
 
-7\. Second (though we have less explicit evidence of this) the United States may well wish to see preserved the broad Atlantic community on the basis of which the Second World War was fought and on which, with the addition of the Federal German Republic, Western unity has since been constructed through NATO, OEEC and so on. The Six, as a powerful continental group dominated by France and Germany, possess great resources and are potentially a super-power, like the United States, USSR and China. The future orientation of this power can only be a matter of speculation: its dynamic economic growth means that it is unlikely to become Communist (despite large Communist parties in certain member countries), but it will be continental in outlook, and may adopt policies independent of the United States (_a fortiori_ of the United Kingdom) and possibly unpalatable to both. Though we have not been told this specifically, the American view may well be that the West, faced with the great and growing strength of the Communist world, cannot afford such a division; and that the best way of preventing it may be for the United Kingdom to enter Europe, where it could do much to keep the Community outward-looking and its policies acceptable to the United States.
+7\. Second (though we have less explicit evidence of this) the United States may well wish to see preserved the broad Atlantic community on the basis of which the Second World War was fought and on which, with the addition of the Federal German Republic, Western unity has since been constructed through NATO, OEEC and so on. The Six, as a powerful continental group dominated by France and Germany, possess great resources and are potentially a super-power, like the United States, USSR and China. The future orientation of this power can only be a matter of speculation: its dynamic economic growth means that it is unlikely to become Communist (despite large Communist parties in certain member countries), but it will be continental in outlook, and may adopt policies independent of the United States ( _a fortiori_ of the United Kingdom) and possibly unpalatable to both. Though we have not been told this specifically, the American view may well be that the West, faced with the great and growing strength of the Communist world, cannot afford such a division; and that the best way of preventing it may be for the United Kingdom to enter Europe, where it could do much to keep the Community outward-looking and its policies acceptable to the United States.
 
 8\. There is also the desire of the United States, explicitly stated, to avoid any deep-seated division of Europe on the basis of the present EEC and EFTA groups.
 
-_Implications for Australia_
+ _Implications for Australia_
 
 9\. United Kingdom membership of the Community would not entail specific commitments in the fields of foreign affairs and defence. But in the longer-term it could have far-reaching effects, and a broad survey of the prospects over the whole field of Australia’s relationships with Britain—inevitably entailing much that is speculative—is required. Such a survey is attempted in the present paper.
 
@@ -52,7 +55,7 @@ _Implications for Australia_
 Present Realities And The Position If The United Kingdom  
 Did Not Enter The Community
 
-_(i) The United Kingdom World Position_
+ _(i) The United Kingdom World Position_
 
 12\. The very decision with which the United Kingdom is now confronted is evidence of the decline in its independent power. Although since the Second World War the United Kingdom has, by determination and skilful diplomacy, been able to maintain much world influence, it clearly no longer possesses the basic resources which alone could sustain its former position. Relative to its position before the War and to that of other countries, its world economic and trading position has weakened. Since the War, there has been a progressive withdrawal of United Kingdom influence from the Mediterranean, and of United Kingdom power from Palestine, India, Pakistan, Ceylon, Malaya, Cyprus, and now from Africa; its bases in Egypt and Ceylon have been relinquished. Strategically—despite the possession of some nuclear striking force of its own—the United Kingdom is essentially dependent on the United States and on its various alliances, especially the NATO alliance. Its power in conventional arms has diminished; the White Paper on Defence of February 1961 provides for a total strength in the armed services in April 1962 of 444,000 (as against 525,600 in April 1960).
 
@@ -64,7 +67,7 @@ _(i) The United Kingdom World Position_
 
 16\. What is the prospect if the United Kingdom does _not_ join the Community? Unless something unexpected happens, it is one of a further decline in United Kingdom political and economic strength, relative to that of other major powers and the continental group. (There is room for argument here, given the uncertainty of the rate at which the EEC countries may develop and of the extent to which their present rapid progress may be the result of temporary factors, in particular, their post-war recovery. Also, it is not the purpose of this paper to comment on the prospects for absolute expansion in the United Kingdom economy outside the Six, or the prospects of Australian trade in that circumstance.) The United States would increasingly deal with the Six, as the major European power. This is not to say that the United Kingdom would fail to retain some special influence with the United States, derived in part from American respect for its national character and for its long experience and diplomatic skill. But in the end its influence with the United States as an ally would be eroded as its basic national capacity is reduced, just as its influence upon potential enemies has already diminished.
 
-_(ii) The Commonwealth_
+ _(ii) The Commonwealth_
 
 17\. The Commonwealth is no longer the close group the members of which in 1939 declared war on Germany almost simultaneously. lt now comprises countries pursuing diverse and sometimes conflicting policies, some being members of one regional alliance, some of another, some of none; and there is every sign that the foreseeable additions to membership will accelerate this loss of common _political_ aims. The association has more value to some than to others. For all there are some concrete advantages, both economic (trade and aid) and political (seats on United Nations bodies, Prime Ministers’ Conferences). Were it not for the Commonwealth, Ghana would enjoy less international influence than it does, while Burma has less chance of election to the United Nations Security Council than if she were a Commonwealth member.
 
@@ -72,7 +75,7 @@ _(ii) The Commonwealth_
 
 19\. Ties between individual Commonwealth members other than the United Kingdom are a matter both of common links with Britain—stemming from the past—and of a feeling of present similarity of interest (or desire to preserve an opportunity to promote this similarity) and of readiness to give some mutual help in some fields. If these ties are to survive and flourish, the second element will tend to outweigh the first. For the ‘Old Commonwealth’ countries, the new countries offer a bridge into Asia and Africa; and the future of the association as a whole—as distinct from that of the narrower ‘Old Commonwealth’ group—lies in the strengthening of this bridge, so that the association becomes a multi-racial community, however loosely bound. Even in such a community, however, the central role of the United Kingdom as focus and leader will remain extremely important and indeed appears to be vital.
 
-_(iii) Australia’s Position and Policies_
+ _(iii) Australia’s Position and Policies_
 
 20\. Australia’s vital interest will lie in the direction in which future United Kingdom Governments exercise Britain’s influence in the European Community as well as outside it.
 
@@ -88,7 +91,7 @@ Consequences Of United Kingdom Entry Into The Eec
 
 25\. Against this background, the political consequences of United Kingdom entry into the Community may now be examined, under the same three heads as before.
 
-_(i) The World Position of the United Kingdom_
+ _(i) The World Position of the United Kingdom_
 
 26\. From the moment of its entry into the Community—and despite the absence of specific political commitments under the Rome Treaty—there would be strong pressures on the United Kingdom to prove that it was a ‘good European’ and to dispel the suspicions of its good faith entertained in various quarters in Europe which have played some part in the reluctance of Europeans, notably the French, to admit it except on payment of the full price of membership. What this would mean in practice is difficult to evaluate; it could, for example, mean in the short run concessions to the French point of view over Algeria (if that question remains unresolved); some concessions to Franco–German rigidity over Berlin, in contrast to Mr Macmillan’s view of 1958 that the Berlin situation was so dangerous as positively to require re-negotiation; acquiescence in European opposition to being involved directly in the United States dispute with China; greater reluctance to be involved in Laos or Thailand in counter-measures against the Communist threat (France has already said she will not put forces into a Laos operation). In the longer run, the pressure upon Britain to become European could mean the commitment of more United Kingdom troops to the defence of the Continent. It could mean some pooling of the development and control of the European nuclear deterrent at present independently sustained by Britain at great cost. It could mean a readiness to yield something to de Gaulle’s ambitions for a triumvirate of the United States, United Kingdom and France to take collectively the basic strategic decisions. It would mean a greater reluctance to take a different stand from its European partners in international organisations; for example, on questions of armed conflict and the terms of their settlement arising in the United Nations General Assembly and Security Council.
 
@@ -98,7 +101,7 @@ _(i) The World Position of the United Kingdom_
 
 29\. Moreover, might not the United Kingdom be more preoccupied with a rising France and Germany if she were outside the EEC than if she were a member? Only time could show what balance of forces would emerge. But essentially the ability of the United Kingdom to influence Europe yet to maintain a degree of independent action, and her ability to be a real link between Europe, the United States and the English-speaking countries overseas, would be directly related to her own economic strength. An independent Australian judgment as to how much entry into the Community would contribute to United Kingdom economic strength is required before the effects upon Australia can be finally assessed. This judgment is left to other Departments to offer.
 
-_(ii) The Commonwealth_
+ _(ii) The Commonwealth_
 
 30\. To the extent that the Commonwealth draws its vitality from some common political and economic interests, it would be weakened by the United Kingdom’s entry into Europe. To the extent that it becomes clear to individual members of the Commonwealth—more particularly newer members moved by self-interest more than sentiment—that the United Kingdom’s capacity to support them has been reduced by her obligations to Europe, we can expect that they will become less responsive to the United Kingdom leadership. They will tum to foreign powers (as Australia, for that matter, has already done).
 
@@ -110,11 +113,11 @@ _(ii) The Commonwealth_
 
 34\. But though this machinery would not change, it is to be assumed that the increasing engagement of the United Kingdom in an association in which no other Commonwealth country shared, and in fields of common economic, social and political action in which they had no part, would have a cumulative effect.
 
-_(iii) Australia’s Position and Policies_
+ _(iii) Australia’s Position and Policies_
 
 35\. The process of policy-making on strategic, or lesser international issues would be particularly important to Australia. Being already excluded from direct NATO consultation and decision, we could eventually find ourselves excluded from another important policy-making group, the Community, and from knowledge of the attitudes and intentions of members. Under the rules of the organisation, the United Kingdom is precluded from informing us about NATO discussions, and the same might well become true in the Community; apart from rules, loyalty to partners would become a strong inhibiting influence. The real value of our continuing direct access to and consultation with the United Kingdom could be impaired, and would be impaired if Australian policy were consistently opposed to that of Western Europe.
 
-_Diplomatic and Defence Support_
+ _Diplomatic and Defence Support_
 
 36\. The European attitude towards China has already been mentioned; how would this affect our interests in a crisis over Laos or the offshore islands? What would be the effect if United States/United Kingdom/Australian consultation about means of meeting the Communist threat in South East Asia should become consultation between the United States, Australia and the Community? What would be the effect upon any prospect that may now exist of the United Kingdom’s being willing to use nuclear weapons in Asia?
 
@@ -124,7 +127,7 @@ _Diplomatic and Defence Support_
 
 39\. What effect would there be on the present structure of Commonwealth defence and of United Kingdom/Australian defence arrangements? Could defence planning be conducted indefinitely on its present basis? Given the pressures to contribute more to European defence, could the United Kingdom military presence in South East Asia and the Far East be maintained at its present effectiveness?
 
-_Trade, Finance, Migration_
+ _Trade, Finance, Migration_
 
 40\. The loss to our export trade in the United Kingdom could to some extent affect our whole relationship. What would be the effect on us of serious economic losses on the part of New Zealand? Would the sterling area survive, or might the United Kingdom eventually enter a new European currency area, and if so would this be a disadvantage to Australia? How would the flow of United Kingdom capital to Australia be affected?
 
@@ -149,3 +152,5 @@ Conclusion
 (VII) How much the United Kingdom-in-Europe will contribute to arresting Communism in an Asia increasingly dominated by China will partly depend on the sort of understanding on the distribution of strategic and financial responsibilities which is reached between the United States and the European community. The United Kingdom may or may not seek to move her European partners to give a higher priority to Asia. In a sea of speculation, the prudent estimate for Australia to make is that the European Community will resist giving this area a high priority; that Australia will have a limited capacity to move European policy in this direction; and that our self-interest lies in exploiting now all the arguments of sentiment and mutual interest available to us to obtain—for what it is worth—public recognition from the United Kingdom that she will have continuing concern with the security of Australia and New Zealand. Our objective should be to try to avoid this objective being lost in a generalised acknowledgment by the United Kingdom of a sense of responsibility towards the welfare of the Commonwealth as a whole. More specific ‘compensations’ in the political field will be difficult to define.
 
 1 The document was prepared by the Department of External Affairs for Menzies in his capacity as Minister for External Affairs. It was preceded by a number of internal papers which are referred to in later correspondence, but are not produced here as they overlap substantially with this submission. In contrast to McEwen, Menzies himself seems to have had little direct involvement in the formulation of this position.
+
+[NAA: A4940, C3368 PART 1]

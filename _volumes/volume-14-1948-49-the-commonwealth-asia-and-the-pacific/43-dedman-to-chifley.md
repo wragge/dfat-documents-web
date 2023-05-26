@@ -1,12 +1,18 @@
 ---
-title: "43 Dedman to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5819
+doc_date: '1949-07-17'
+doc_num: 43
+doc_order: 43
+naa_refs:
+- naa_barcode: 364322
+  naa_control_symbol: 708/12/1 A
+  naa_series: A1838
+  reference: '[AA: A1838, 708/12/1A]'
+title: Dedman to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-07-17
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 43 Dedman to Chifley
 
 Cablegram F9 LONDON, 17 July 1949, 5.22 p.m.
 
@@ -32,7 +38,7 @@ We have also exchanged views on how the various general lines of approach can be
 
 Nevertheless we have not in these circumstances yet pursued the question of alternative finance. [3]
 
-_
+ _
 
 1 Dedman reviewed the meeting between Cripps, Snyder and Abbott.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA: A1838, 708/12/1A]_
+ _[AA: A1838, 708/12/1A]_

@@ -1,12 +1,18 @@
 ---
-title: "203 Churchill to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2850
+doc_date: '1944-06-22'
+doc_num: 203
+doc_order: 203
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER SHEETS,
+    FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.23405]'
+title: Churchill to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-22
+vol_title: 'Volume 7: 1944'
 ---
-
-# 203 Churchill to Evatt
 
 Cablegram 145 [1] LONDON, 22 June 1944, 4 p.m.
 
@@ -18,7 +24,7 @@ Following from the Prime Minister to Dr. Evatt.
 
 2\. Kindest regards from Brendan [3] and me to you and W. S. [4] I had hoped to meet him when he was in this country but so much was going on and he was gone before I could contact him. I hope you will pay us another visit before long.
 
-_ SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.23405]
+ _
 
 1 Sent through the U.K. Dominions Secretary.
 
@@ -30,4 +36,4 @@ _ SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 
 
 _
 
-_ [AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER_
+ _[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.23405]_

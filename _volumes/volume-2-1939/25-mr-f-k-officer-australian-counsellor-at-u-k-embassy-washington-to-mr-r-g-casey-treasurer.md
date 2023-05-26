@@ -1,12 +1,18 @@
 ---
-title: "25 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Mr R. G. Casey, Treasurer"
-volume: "Volume 2: 1939"
-doc_id: 362
+doc_date: '1939-02-16'
+doc_num: 25
+doc_order: 25
+naa_refs:
+- naa_barcode: 235473
+  naa_control_symbol: '1'
+  naa_series: A3300
+  reference: '[FA: AA 1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]'
+title: Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Mr R.
+  G. Casey, Treasurer
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-02-16
+vol_title: 'Volume 2: 1939'
 ---
-
-# 25 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Mr R. G. Casey, Treasurer
 
 Letter (extract) WASHINGTON, 16 February 1939
 
@@ -18,7 +24,7 @@ The Ambassador [6] gets back tomorrow and I am glad to have him available once a
 
 F. KEITH OFFICER
 
-_
+ _
 
 1 Document 11.
 
@@ -28,10 +34,10 @@ _
 
 4 Minister for External Affairs 1934-37. On 30 November 1938 the Melbourne Herald published an article headed 'Ambassador in America- Appointment Urged by Sir George Pearce'.
 
-5 On 29 May in a letter to A.T. Stirling (P &amp; C 9/39) Officer again complained that he seemed to be 'increasingly less informed by the Department ... I realise that it is no doubt due to shortness of staff' (on file FA: A2937, F. Keith Officer, O.B.E., ALC., ii).
+5 On 29 May in a letter to A.T. Stirling (P  & C 9/39) Officer again complained that he seemed to be 'increasingly less informed by the Department ... I realise that it is no doubt due to shortness of staff' (on file FA: A2937, F. Keith Officer, O.B.E., ALC., ii).
 
 6 Sir Ronald Lindsay, U.K. Ambassador.
 
 _
 
-_ [FA: AA 1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]_
+ _[FA: AA 1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]_

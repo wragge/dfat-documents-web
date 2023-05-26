@@ -1,12 +1,17 @@
 ---
-title: "215 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 552
+doc_date: '1939-09-09'
+doc_num: 215
+doc_order: 215
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA:A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 215 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 442 LONDON, 9 September 1939, 9.32 p.m.
 
@@ -20,7 +25,7 @@ For your personal information-the Prime Minister [2] probably meeting Daladier [
 
 BRUCE
 
-_
+ _
 
 1 Document 216.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A981, WAR 45B, i]_
+ _[AA:A981, WAR 45B, i]_

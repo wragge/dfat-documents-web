@@ -1,0 +1,34 @@
+---
+doc_date: '1950-03-17'
+doc_num: 40
+doc_order: 40
+naa_refs:
+- naa_barcode: 304380
+  naa_control_symbol: 3/4/2/1 PART 1
+  naa_series: A3320
+  reference: '[NAA: A3320, 3/4/2/1 part 1]'
+title: Cablegram from Spender to Gordon Walker
+vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
+vol_id: 24
+vol_title: 'Volume 24: Australia and the Colombo Plan, 1949-1957'
+---
+
+Canberra, 17 March 1950
+
+72\. IMMEDIATE PERSONAL
+
+I understand that Government's decision on participation in the Consultative Committee, which was decided upon at Ceylon, will be made on Monday.
+
+2\. You will have seen the response of the United States of America to the broad policy I put forward in the House last week[1](#f1) and, in particular, cheson's recent repeated statements that the United States welcomes and will encourage action of the kind we contemplate.[2](#f2) Already Canada has agreed in principle to taking part in the Consultative Committee and New Zealand and Ceylon have indicated their willingness to attend about the middle of May at a Ministerial level. I earnestly hope that you will find it possible to accept the proposal and, more particularly, be represented at a Ministerial level, as this is, in my view, the only means by which we can assure success of the first meeting of the Consultative Committee and retain, what is most important, the United States interest in it.
+
+3\. am sure you will appreciate that the reason for this personal message to you arises out of the conviction of this Government that urgent and effective steps must be taken in South-East Asia if our security and way of life is to be preserved, not only in this area, but throughout the world.
+
+Personal regards.
+
+[NAA: A3320, 3/4/2/1 part 1]
+
+1 UK Secretary of State for Commonwealth Relations.
+
+2 In his statement to the House of Representatives on 9 March 1950, Spender emphasised that Australia was a Pacific Power and that, while its cultural ties remained preponderantly with Europe, it needed to have close and neighbourly relations with the countries of South and South-East Asia. He referred to the poverty that existed in Asia, its low consumption standards, the pressure of its growing population, and the insufficiency of capital investment to make possible a rapid improvement in the region's standard of living. He informed Parliament of the specific recommendations made by the Australian delegation at the Commonwealth Foreign Ministers' Meeting in Colombo and of its proposal to set up a Commonwealth Consultative Committee open to all Commonwealth members. Spender emphasised three points about the Australian proposal. First, he indicated that it should not be expected that it would achieve spectacular results in a short time. Second, he stated that there was no intention to restrict the planning or any machinery that might be set up, to Commonwealth countries. Thirdly, he pointed out that he was not contemplating aid in one direction only but 'that it should aim at stimulating the productive capacity of these countries, and to that extent we look upon it as a prelude to the promotion of trade from which Australia can profit in full measure'. For the full text of Spender's statement see _Current Notes_ , vol. 21, 1950, pp. 153-72.
+
+3 See particularly Acheson's address to the Commonwealth Club at San Francisco on 15 March in Department of State _Bulletin_ , Vol. XXII, 1950, pp. 467-72

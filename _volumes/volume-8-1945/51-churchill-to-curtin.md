@@ -1,12 +1,17 @@
 ---
-title: "51 Churchill to Curtin"
-volume: "Volume 8: 1945"
-doc_id: 3082
+doc_date: '1945-02-26'
+doc_num: 51
+doc_order: 51
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 577]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-02-26
+vol_title: 'Volume 8: 1945'
 ---
-
-# 51 Churchill to Curtin
 
 Message unnumbered LONDON, 26 February 1945
 
@@ -48,7 +53,7 @@ Japanese War. Eighteen months after defeat of Germany.
 
 B. Tripartite Military Discussions 12. The Tripartite Military discussions between the United Kingdom, American and Russian High Commands were officially confined to the war against Germany and dealt with the military situation in its broadest aspects. Discussion was very frank and complete agreement was reached as to the timing and scope of future operations against Germany from the East and West. The Russians intend to prosecute their offensive without relaxation though pause may be forced on them by the thaw which usually occurs about the middle of March and lasts till May. ENDS.
 
-_
+ _
 
 1 A handwritten note, dated 28 February, indicates that Curtin received this message from Sir Ronald Cross.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 577]_
+ _[AA:A5954, BOX 577]_

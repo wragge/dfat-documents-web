@@ -1,12 +1,19 @@
 ---
-title: "123 Submission to Cabinet Economic Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8993
+doc_date: '1980-07-18'
+doc_num: 123
+doc_order: 123
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission to Cabinet Economic Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-07-18
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 123 Submission to Cabinet Economic Committee
 
 Wellington, 18 July 1980
 
@@ -16,7 +23,7 @@ E (80) 116. CONFIDENTIAL
 
 ### Background
 
-  1. At the meeting between the Prime Ministers of New Zealand and Australia in March a programme of work was agreed to provide the basis for further examination of the prospects for closer economic relations between the two countries. This programme included analysis and categorisation of tariff and access measures in force. Relevant extracts from the Prime Ministerial Communique1 are in the annex.
+  1. At the meeting between the Prime Ministers of New Zealand and Australia in March a programme of work was agreed to provide the basis for further examination of the prospects for closer economic relations between the two countries. This programme included analysis and categorisation of tariff and access measures in force. Relevant extracts from the Prime Ministerial Communique[1](#f1) are in the annex.
   2. Officials have undertaken considerable work on the whole range of topics identified for further study. A report on the totality of this work will be submitted to the Committee later this month in preparation for discussion at the NAFTA Ministers' meeting in Canberra on 12-13 August 1980.
   3. This paper concerns the detailed commodity study and seeks authority for consultations with the commercial community on the basis of certain general policy principles upon which judgements now need to be made. 
 
@@ -55,14 +62,14 @@ E (80) 116. CONFIDENTIAL
 ### Intermediate Goods
 
   10. Australia identified this problem as likely to be one of concern to them in a free trade as opposed to customs union situation. They are to produce further papers on the subject. As they have not done so yet, we do not know the extent of their specific concerns.
-  11. It is difficult to take this matter much further until the promised Australian studies are to hand. The Customs Department has, however, already completed a very useful exercise2 on an indicative basis involving six products which has pointed up the complexity of the problem but concludes also that Australia is not necessarily the disadvantaged country. The New Zealand Manufacturers' Federation has also commissioned a study of the problem. In the meantime it is proposed that general discussions be held with MANFED, with a view to a pooling of knowledge as to where specific problems may lie.
+  11. It is difficult to take this matter much further until the promised Australian studies are to hand. The Customs Department has, however, already completed a very useful exercise[2](#f2) on an indicative basis involving six products which has pointed up the complexity of the problem but concludes also that Australia is not necessarily the disadvantaged country. The New Zealand Manufacturers' Federation has also commissioned a study of the problem. In the meantime it is proposed that general discussions be held with MANFED, with a view to a pooling of knowledge as to where specific problems may lie.
 
 
 
 ### Consultations with the Commercial Community
 
   12. Officials now seek the authority of the Committee to enter into consultations with relevant sectors of the commercial community to invite them to consider and respond to lines of approach as set out in this report. The result of these consultations would be the subject of a further report to CEC.
-  13. The consultations would cover the inter-relationship of the tariff and import licensing aspects. On the latter it is hoped that the Federation3 will concur with the broad principles set out above. Officials would then proceed to further develop the categorisation of tariff items into the three lists mentioned in the Prime Ministers' communique.
+  13. The consultations would cover the inter-relationship of the tariff and import licensing aspects. On the latter it is hoped that the Federation[3](#f3) will concur with the broad principles set out above. Officials would then proceed to further develop the categorisation of tariff items into the three lists mentioned in the Prime Ministers' communique.
   14. It is also proposed to pass to the Federation the lists of items currently considered suitable for inclusion in list one (i.e. those goods exempt licensing, but subject to tariffs at or below 10 percent, which would move forthwith to duty-free treatment, and those goods exempt licensing, but with tariffs above 10 percent which would be subject to the phase-down process).
   15. The Federation would be consulted further as lists are developed.
 
@@ -78,10 +85,8 @@ E (80) 116. CONFIDENTIAL
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 28 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 28 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Document 93.
   * 2 See Document 118.
   * 3 i.e. MANFED.
-
-

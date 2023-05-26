@@ -1,12 +1,17 @@
 ---
-title: "227 Chifley and Evatt to Forde"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3739
+doc_date: '1946-05-01'
+doc_num: 227
+doc_order: 227
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.11601]'
+title: Chifley and Evatt to Forde
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-01
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 227 Chifley and Evatt to Forde
 
 Cablegram E19 LONDON, 1 May 1946, 2.10 p.m.
 
@@ -32,10 +37,10 @@ TOP SECRET MOST IMMEDIATE
 
 4\. You will, no doubt, make it clear that the whole of the matters mentioned are strictly confidential. Most of the matters are as yet tentative and provisional and publicity may actually defeat our objects.
 
-_
+ _
 
 1 Hasluck.
 
 _
 
-_ [AA:A3195, 1946, 1.11601]_
+ _[AA:A3195, 1946, 1.11601]_

@@ -1,14 +1,17 @@
 ---
-title: "336 CABLEGRAM, DOWNER TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10202
+doc_date: '1972-10-19'
+doc_num: 336
+doc_order: 336
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: M1003
+  reference: '[NAA: M1003]'
+title: CABLEGRAM, DOWNER TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-10-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 336 CABLEGRAM, DOWNER TO MCMAHON
-
-NAA: M1003
 
 Australian High Commission, London, 19 October 1972
 
@@ -39,3 +42,5 @@ Carr continued that with Britain’s entry into Europe, another factor would com
 8\. All in all, I came away feeling that although Carr has been Home Secretary for only 3 months, and as he admitted is not conversant with all the details of immigration control, he is determined to meet at least some of our objections, and whenever he can to remove sources of friction. Despite being an ardent Marketeer, he seemed very pro-Australian. He is an extraordinarily relaxed man to deal with and his final words were that he hoped that my successor would come to see him from time to time, and discuss these questions.
 
 For some time now, my personal assessment of Carr is that he is a rising star in the Government, and one day could well become leader of the Party, and a Prime Minister. He will be a most valuable man to have on our side.
+
+[NAA: M1003]

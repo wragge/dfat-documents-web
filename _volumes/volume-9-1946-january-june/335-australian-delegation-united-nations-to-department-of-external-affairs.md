@@ -1,14 +1,19 @@
 ---
-title: "335 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3847
+doc_date: '1946-06-28'
+doc_num: 335
+doc_order: 335
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.16722/723]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-28
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 335 Australian Delegation, United Nations, to Department of External Affairs
-
-## Cablegram UN236 NEW YORK, 28 June 1946
+Cablegram UN236 NEW YORK, 28 June 1946
 
 Atomic No. 113.
 
@@ -44,7 +49,7 @@ Representative offers a sound basis for planning;
 
 The results of the meeting of the working committee held on the 28th June were cabled in United Nations cablegram 232. [4]
 
-_
+ _
 
 1 Document 329.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.16722/723]_
+ _[AA:A3195, 1946, 1.16722/723]_

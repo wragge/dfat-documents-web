@@ -1,14 +1,20 @@
 ---
-title: "537 Sir Frederic Eggleston, Minister to China, to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2291
+doc_date: '1942-06-30'
+doc_num: 537
+doc_order: 538
+naa_refs:
+- naa_barcode: 237670
+  naa_control_symbol: 608/1943
+  naa_series: A4144
+  reference: '[AA:A4144, 608 (1942-3)]'
+title: Sir Frederic Eggleston, Minister to China, to Dr H. V. Evatt, Minister for
+  External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-30
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 537 Sir Frederic Eggleston, Minister to China, to Dr H. V. Evatt, Minister for External Affairs
-
-## Letter CHUNGKING, 30 June 1942
+Letter CHUNGKING, 30 June 1942
 
 In my last diplomatic bag No.23 of 24th June, I included two despatches, one on the fall of Burma and its consequences' and the other on the fighting in China. [2] I should like in this letter to stress certain conclusions which I believe are suggested by these despatches and to set out my chief anxieties about the progress and conduct of the war in this theatre.
 
@@ -60,7 +66,7 @@ Perhaps I have reiterated this melancholy proposition ad nauseam but it is a vit
 
 Judging from reports which I have had from the Netherlands Military Attache [17] on conversations which he had with Wavell 
 
-_ are tremendous. Unless there is immediate agreement between the two Chiefs-of-Staff Committees, an exchange of plans may go on almost indefinitely. I cannot say precisely how this affects the Far East but it would appear that major strategic decisions on this area are canvassed about between London and Washington in the same fashion. When you add to this what I have set out under 'I' you have a state of affairs which has proved quite disastrous for the Far East. Surely it must be possible to devolve the responsibility for making decisions. The Chiefs-of-Staff in London have their deputies in Washington and it seems reasonable that in matters concerning a certain area, they might be given responsibility. The same difficulties arise over questions of supplies where apparently the same duplication arises.
+_are tremendous. Unless there is immediate agreement between the two Chiefs-of-Staff Committees, an exchange of plans may go on almost indefinitely. I cannot say precisely how this affects the Far East but it would appear that major strategic decisions on this area are canvassed about between London and Washington in the same fashion. When you add to this what I have set out under 'I' you have a state of affairs which has proved quite disastrous for the Far East. Surely it must be possible to devolve the responsibility for making decisions. The Chiefs-of-Staff in London have their deputies in Washington and it seems reasonable that in matters concerning a certain area, they might be given responsibility. The same difficulties arise over questions of supplies where apparently the same duplication arises.
 
 As to remote control, General van Temmen's experience in India seems to indicate a remarkable unwillingness to give the Indian Staff responsibility or initiative. They are tied hand and foot to a complicated machine with a variety of drivers of whom the principal ones are the Viceroy [19], the Secretary of State for India [20] and the British War Cabinet. If Wavell or whoever had the command were given the same scope and responsibility as MacArthur, something more effective might be done for India's defence.
 
@@ -124,4 +130,4 @@ Page's letter of 2 May is on file AA:A4144, 400.
 
 _
 
-_ [18], delays in reaching decisions between London and Washington_
+ _[18], delays in reaching decisions between London and Washington_

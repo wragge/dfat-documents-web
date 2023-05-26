@@ -1,12 +1,17 @@
 ---
-title: "438 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1204
+doc_date: '1940-06-25'
+doc_num: 438
+doc_order: 438
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4711]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-25
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 438 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 472 LONDON, 25 June 1940, 10.58 p.m.
 
@@ -16,7 +21,7 @@ In view of collapse of France, United Kingdom Government is anxious with regard 
 
 BRUCE
 
-_
+ _
 
 1 On file AA: A981, France 32, i. Together with cablegram B102 (on the same file) it reported that an extraordinary session of the Council of New Caledonia had met on 24 June 1940 and resolved that New Caledonia refused to recognise the surrender of the Bordeaux Govt.
 
@@ -26,4 +31,4 @@ A2937, New Caledonia (1937-45)).
 
 _
 
-_ [FA: A3195, 1.4711]_
+ _[FA: A3195, 1.4711]_

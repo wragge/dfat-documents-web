@@ -1,12 +1,17 @@
 ---
-title: "53 MacArthur to Curtin"
-volume: "Volume 8: 1945"
-doc_id: 3084
+doc_date: '1945-03-05'
+doc_num: 53
+doc_order: 53
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 570]'
+title: MacArthur to Curtin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-03-05
+vol_title: 'Volume 8: 1945'
 ---
-
-# 53 MacArthur to Curtin
 
 Letter GENERAL HEADQUARTERS, SOUTHWEST PACIFIC AREA [MANILA], 5 March 1945
 
@@ -48,7 +53,7 @@ Headquarters of operational control of those elements of the R.A.A.F. Command th
 
 DOUGLAS MACARTHUR
 
-_
+ _
 
 1 Document 37.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 570]_
+ _[AA:A5954, BOX 570]_

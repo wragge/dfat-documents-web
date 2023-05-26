@@ -1,20 +1,23 @@
 ---
-title: "125 MEMORANDUM, O'DONNELL TO HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9990
+doc_date: '1961-02-13'
+doc_num: 125
+doc_order: 125
+naa_refs:
+- naa_barcode: 946427
+  naa_control_symbol: C3368 PART 1
+  naa_series: A4940
+  reference: '[NAA: A4940, C3368 PART 1]'
+title: MEMORANDUM, O'DONNELL TO HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-02-13
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 125 MEMORANDUM, O'DONNELL TO HOLT
-
-NAA: A4940, C3368 PART 1
 
 Canberra, 13 February 1961
 
-****
+ ****
 
-Possible Association of UK with the EEC: Cabinet Submission No. 9961
+Possible Association of UK with the EEC: Cabinet Submission No. 996[1](#f1)
 
 This is an ‘information’ paper by the Minister for Trade. It makes no recommendations although it does canvass (paragraphs 19 to 24 of the attachment) three possible courses Australia might take.
 
@@ -32,8 +35,10 @@ The trend over recent years has been for trade among countries exporting industr
 
 Canada already sends quite a range of manufactured goods to the UK and, now that dollar discrimination has largely been removed, is looking to a large expansion of that trade. This consideration has played an important part in Canada’s opposition to the entry of the UK into the Common Market. Australia’s interests, taking the longer view, would seem to lie in the same direction.
 
-Those in the UK who favour acceptance of a Common Tariff are apparently resigned to the fact that UK could hardly expect, in such circumstances, to continue to receive preferences on her industrial exports to the rest of the Commonwealth. But they do not seem to realise that it would be difficult for the outer Commonwealth countries to continue to accord even non-discriminatory m.f.n. treatment2 to UK goods, if the UK were discriminating against them over the whole range of industrial products.
+Those in the UK who favour acceptance of a Common Tariff are apparently resigned to the fact that UK could hardly expect, in such circumstances, to continue to receive preferences on her industrial exports to the rest of the Commonwealth. But they do not seem to realise that it would be difficult for the outer Commonwealth countries to continue to accord even non-discriminatory m.f.n. treatment[2](#f2) to UK goods, if the UK were discriminating against them over the whole range of industrial products.
 
 1 Document 124.
 
 2 The term ‘m.f.n. treatment’ refers to a status awarded by signatories to the General Agreement on Tariffs and Trade whereby the receiving nation is granted all trade advantages—such as low tariffs—that any other nation also receives.
+
+[NAA: A4940, C3368 PART 1]

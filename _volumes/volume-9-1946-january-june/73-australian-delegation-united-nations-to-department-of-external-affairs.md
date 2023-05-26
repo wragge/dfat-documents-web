@@ -1,12 +1,17 @@
 ---
-title: "73 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3585
+doc_date: '1946-02-07'
+doc_num: 73
+doc_order: 73
+naa_refs:
+- naa_barcode: 587482
+  naa_control_symbol: 852/9/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838 T189, 852/9/1]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-07
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 73 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram 879 LONDON, 7 February 1946, 3.05 p.m.
 
@@ -26,8 +31,8 @@ Primary concern must be to choose the best site available having regard not only
 
 4\. So far we have obtained support from Bolivia and partial support from Egypt but have been strongly opposed by the United Kingdom and Brazil on all points of our arguments and by Uruguay on the argument that the action of the Interim Committee was ultra vires. One of the weakest sections of the Interim Committee Report is that concerning temporary headquarters and as the debate proceeds we may be able to gain additional support for an attack from this angle. The Committee is meeting again this morning.
 
-_
+ _
 
 _
 
-_ [AA:A1838 T189, 852/9/1]_
+ _[AA:A1838 T189, 852/9/1]_

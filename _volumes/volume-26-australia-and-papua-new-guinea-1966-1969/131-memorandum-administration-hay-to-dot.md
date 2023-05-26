@@ -1,23 +1,27 @@
 ---
-title: "131 Memorandum, Administration (Hay) To Dot"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9639
+doc_date: '1967-07-06'
+doc_num: 131
+doc_order: 131
+naa_refs:
+- naa_barcode: 12030524
+  naa_control_symbol: 1966/3850
+  naa_series: A452
+  reference: '[NAA: A452, 1966/3850]'
+title: Memorandum, Administration (Hay) To Dot
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-07-06
-barcode: 12030524
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 131 Memorandum, Administration (Hay) To Dot
 
 Port Moresby, 6 July 1967
 
-**Resolution of the House of Assembly concerning appointment of Papuans and New Guineans as liaison officers overseas**
+ **Resolution of the House of Assembly concerning appointment of Papuans and New Guineans as liaison officers overseas**
 
-I attach copy of a resolution passed by the House of Assembly on the 7th June, 1967 concerning the above matter.1 You will note that it is a recommendation to the Australian Government as well as the Administration.
+I attach copy of a resolution passed by the House of Assembly on the 7th June, 1967 concerning the above matter.[1](#f1) You will note that it is a recommendation to the Australian Government as well as the Administration.
 
 2\. The following matters were considered in the Interdepartmental Co–ordinating Committee on the 29th May, 1967:—
 
-(a) Training in international relations for career officers. A submission had been made to the Department of Territories proposing the establishment of a formal Territory Diplomatic Service and was to develop a scheme to prepare indigenous officers for service eventually as Diplomatic Officers. It envisaged long term training of suitably qualified officers to start now. The proposals were rejected by the Department of Territories.2
+(a) Training in international relations for career officers. A submission had been made to the Department of Territories proposing the establishment of a formal Territory Diplomatic Service and was to develop a scheme to prepare indigenous officers for service eventually as Diplomatic Officers. It envisaged long term training of suitably qualified officers to start now. The proposals were rejected by the Department of Territories.[2](#f2)
 
 (b) The Department of Territories’ proposal that suitably qualified local officers should spend a year on attachment to the International Relations section of the Department followed by a year’s attachment to the Australian Mission to the United Nations at the rate of one officer each year.
 
@@ -33,9 +37,9 @@ I attach copy of a resolution passed by the House of Assembly on the 7th June, 1
 
 7\. It is my intention to have this matter discussed in the Administrator’s Council but I would think that the Administration should oppose the appointment of officers for the purposes envisaged and that it would probably be best to try to develop the idea of marrying present practice with what the House wants by stepping up the number of people who go overseas with Missions and that is where the Territory is affected. This, of course, is the line taken by the Assistant Administrator (Economic Affairs) in the House.
 
-8\. I shall advise you further after the discussions in the Administrator’s Council.3
+8\. I shall advise you further after the discussions in the Administrator’s Council.[3](#f3)
 
-[ [NAA: A452, 1966/3850](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=12030524) ]
+[NAA: A452, 1966/3850]
 
 1 The resolution, moved by Lepani Watson, recommended that PNG public service officers, ‘perhaps six initially’, be attached to the DOT and to DEA’s foreign service ‘to act in the capacity of information liaison officers on matters which affect this Territory at both the Australian and international levels’. One of the officers would be attached to the Mission at the United Nations ‘for a period of three years for general information duties and to advise and assist Papuans and New Guineas selected to attend meetings at the United Nations’. Henderson moved that reference to ‘six’ officers and ‘three years’ be omitted, and that the latter be substituted for ‘a substantial period of time’. The amended resolution was passed by the House.
 

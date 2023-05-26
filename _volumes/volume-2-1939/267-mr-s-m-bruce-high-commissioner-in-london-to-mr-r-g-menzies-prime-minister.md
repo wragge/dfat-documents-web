@@ -1,12 +1,17 @@
 ---
-title: "267 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 604
+doc_date: '1939-10-06'
+doc_num: 267
+doc_order: 267
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-06
+vol_title: 'Volume 2: 1939'
 ---
-
-# 267 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 529 LONDON, 6 October 1939, 7.30 p.m.
 
@@ -20,10 +25,10 @@ If you have any views as to the lines which the reply should follow or any point
 
 BRUCE
 
-_
+ _
 
 1 On 6 October 1939 Adolf Hitler, German Chancellor, told the Reichstag that the Poland of the Versailles Treaty would never rise again. He urged the United Kingdom and France, against whom he had no further territorial claims, to accept the new order in Central Europe and avoid further bloodshed. For a translation of the main part of the speech see Documents on German Foreign Policy, vol. VIII (Washington, 1954), PP. 227-30.
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

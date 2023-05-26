@@ -1,12 +1,17 @@
 ---
-title: "271 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 270
+doc_date: '1938-09-21'
+doc_num: 271
+doc_order: 270
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-21
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 271 Note of Meeting of U.K. and Dominions Representatives
 
 Extract LONDON, 21 September 1938, 5.30 p.m.
 
@@ -22,10 +27,10 @@ MR BRUCE pointed out the great importance of securing that the action taken on t
 
 M. M[ACDONALD]
 
-_ 1 See Document 265, note 2.
+ _1 See Document 265, note 2.
 
 2 Neville Chamberlain.
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

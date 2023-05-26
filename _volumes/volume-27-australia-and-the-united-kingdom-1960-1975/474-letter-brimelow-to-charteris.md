@@ -1,20 +1,23 @@
 ---
-title: "474 LETTER BRIMELOW TO CHARTERIS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10341
+doc_date: '1974-02-18'
+doc_num: 474
+doc_order: 474
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1929]'
+title: LETTER BRIMELOW TO CHARTERIS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1974-02-18
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 474 LETTER BRIMELOW TO CHARTERIS
-
-UKNA: FCO 24/1929
 
 London, 18 February 1974
 
 Confidential
 
-Thank you for your letter of 23 January.1 I This reply deals exclusively with Australian matters and I trust that it will reach you in good time before your arrival in Australia with The Queen on 27 February. We are also considering the question of possibilities of conflicting advice to Her Majesty as it might arise in relation to other Commonwealth countries. I will write separately about this.
+Thank you for your letter of 23 January.[1](#f1) I This reply deals exclusively with Australian matters and I trust that it will reach you in good time before your arrival in Australia with The Queen on 27 February. We are also considering the question of possibilities of conflicting advice to Her Majesty as it might arise in relation to other Commonwealth countries. I will write separately about this.
 
 Our Ministers were, as you know, very much aware of the difficult position in which The Queen would have been placed had the advice on the Queensland and Tasmanian Sea-bed Petitions from Her United Kingdom and Australian Ministers been to different effects. We managed to avoid a conflict of advice on this occasion. But, in a letter of 18 January to the Prime Minister, Mr Whitlam repeated his view that in matters of this kind Her Majesty should be guided by her Australian Ministers. UK Ministers decided that we could not let Mr Whitlam’s remark go unchallenged, and r think you should know that Morrice James has been asked to inform the Australian Government of the British Government’s view in the following terms:–
 
@@ -28,10 +31,12 @@ The Privy Council Appeals Abolition Bill, which is now before the Australian Com
 
 We have been trying to identify other issues concerning Australia in which the possibility of conflicting advice could arise. We can see areas where by virtue of the Statute of Westminster there is the possibility of conflict between the United Kingdom, the Commonwealth and the States Governments but we see little likelihood that this would involve conflicting advice to the Crown. Another. matter in which the Crown could possibly become involved concerns the appointment of Governors. As you know, the Foreign and Commonwealth Secretary recommends names to Her Majesty on the advice of the State Government. In view of the nominal commitment in the ALP’s platform to abolish the office of State Governor, the present Australian Government might involve themselves in this area, for example, by objecting to a nominee or by seeking to appoint an Administrator instead of a Governor. In these circumstances, the Crown could face conflicting advice from United Kingdom and Australian Ministers. However, this contingency would seem fairly remote because three new Governors have been appointed during the past year, and the Commonwealth Government has not sought to intervene.
 
-Some of these issues were also examined in the brief prepared for Mr Whitlam’s visit in April 1973, of which I enclose a copy.2 (Not all of this brief was discussed let alone agreed, with Mr Whitlam.) However, before we could be certain that all possible areas had been covered we should need to obtain further legal advice. It would also be difficult to be categorical on these matters without knowing how far the Commonwealth Government and the States are prepared to carry the dispute between them on such constitutional issues.
+Some of these issues were also examined in the brief prepared for Mr Whitlam’s visit in April 1973, of which I enclose a copy.[2](#f2) (Not all of this brief was discussed let alone agreed, with Mr Whitlam.) However, before we could be certain that all possible areas had been covered we should need to obtain further legal advice. It would also be difficult to be categorical on these matters without knowing how far the Commonwealth Government and the States are prepared to carry the dispute between them on such constitutional issues.
 
 You asked whether there was anything you could usefully say to Mr Whitlam. Since the dispute between the Commonwealth and the States is still active, we for our part would not wish to recommend that you should raise them. But it could well be of course that Mr Whitlam will tell you of the position which Australian Ministers take.
 
 1 See Document 469.
 
 2 Not published.
+
+[UKNA: FCO 24/1929]

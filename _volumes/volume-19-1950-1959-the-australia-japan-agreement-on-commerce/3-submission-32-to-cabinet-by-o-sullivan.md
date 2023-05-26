@@ -1,14 +1,19 @@
 ---
-title: "3 Submission 32 To Cabinet By O'sullivan"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7608
+doc_date: '1951-06-16'
+doc_num: 3
+doc_order: 3
+naa_refs:
+- naa_barcode: 4687990
+  naa_control_symbol: '32'
+  naa_series: A4905
+  reference: '[AA : A4905, VOLUME 2]'
+title: Submission 32 To Cabinet By O'sullivan
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1951-06-16
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 3 Submission 32 To Cabinet By O'sullivan
-
-## 16th June, 1951
+16th June, 1951
 
 Trade with Japan
 
@@ -26,8 +31,8 @@ In the post-war period the issue of import licences for Japanese goods has been 
 
 (i) As an initial step, licences be issued for the importation of limited quantities of consumer goods of Japanese origin, and (ii) The quantities be increased at the discretion of the Minister for Trade and Customs in the light of subsequent relevant considerations.
 
-_
+ _
 
 _
 
-_ [AA : A4905, VOLUME 2]_
+ _[AA : A4905, VOLUME 2]_

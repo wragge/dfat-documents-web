@@ -1,20 +1,23 @@
 ---
-title: "66 CABLEGRAM, DOWNER TO HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9931
+doc_date: '1967-05-03'
+doc_num: 66
+doc_order: 66
+naa_refs:
+- naa_barcode: 11563479
+  naa_control_symbol: DEFENCE EAST OF SUEZ
+  naa_series: M1003
+  reference: '[NAA: M1003, DEFENCE�EAST OF SUEZ]'
+title: CABLEGRAM, DOWNER TO HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-05-03
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 66 CABLEGRAM, DOWNER TO HOLT
-
-NAA: M1003, DEFENCE—EAST OF SUEZ
 
 Australian High Commission, London, 3 May 1967
 
 5326\. Secret For Prime Minister Alone 
 
-Yesterday at a reception we gave at Stoke Lodge for the Governor-General a number of Cabinet Ministers came including Callaghan, George Brown, Bowden, Crossman, and Peart. Elwyn Jones and Judith Hart were also there.1 (All Ministers except Bowden, were elated by Wilson’s E.E.C. announcement that afternoon to the Commons).2
+Yesterday at a reception we gave at Stoke Lodge for the Governor-General a number of Cabinet Ministers came including Callaghan, George Brown, Bowden, Crossman, and Peart. Elwyn Jones and Judith Hart were also there.[1](#f1) (All Ministers except Bowden, were elated by Wilson’s E.E.C. announcement that afternoon to the Commons).[2](#f2)
 
 2\. I had a long talk alone with Callaghan. He and I have good personal relations, but what he said was profoundly disturbing from our point of view. Callaghan said they must cut their coat according to their cloth. The price of entry to the E.E.C. for the first few years would be great. It could amount to as much as £300 million or even £400 million. Obviously the advantages lay in the long–term; there were none in the short-term. So the initial period would be difficult and costly.
 
@@ -28,7 +31,7 @@ This meant, he continued, that they must prune severely the defence bill. It was
 
 6\. I must also report a lively conversation with George Brown in the drawing-room shortly afterwards. He was ebullient, friendly, but not drunk. He was highly excited by Wilson’s statement. ‘Tell Holt’, he shouted ‘that he need only be concerned with Wilson and me. He must trust us more. I had a row with Hasluck in Washington. But you can trust us’, he continued, ‘we will always look after you. You don’t need undertakings from us signed on the dotted line. We won’t let you down’. As these words were echoing down the room, Mrs Peart, wife of the Agricultural Minister, Fred Peart, interjected, ‘Don’t you believe a word of it’ ‘Take this woman away’, roared the Foreign Secretary imperiously.
 
-7\. Jim Forbes3 was also at the reception and had a revealing talk with Crossman. which apparently was brutally frank on these subjects. I have suggested to him he should see you immediately on his return.
+7\. Jim Forbes[3](#f3) was also at the reception and had a revealing talk with Crossman. which apparently was brutally frank on these subjects. I have suggested to him he should see you immediately on his return.
 
 8\. I am gradually forming the opinion that if you can possibly manage it there would be great advantages if you could stay in London longer than you propose in June. This could be one of the most important missions in your life.
 
@@ -37,3 +40,5 @@ This meant, he continued, that they must prune severely the defence bill. It was
 2 That the UK intended to lodge a formal application to open negotiations for entry to the EEC. See Document 228.
 
 3 Dr Jim Forbes, Australian Minister for the Army, 1963–66.
+
+[NAA: M1003, DEFENCE—EAST OF SUEZ]

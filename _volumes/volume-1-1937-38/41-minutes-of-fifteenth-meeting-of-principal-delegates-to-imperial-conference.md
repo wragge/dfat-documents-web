@@ -1,12 +1,17 @@
 ---
-title: "41 Minutes of Fifteenth Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 41
+doc_date: '1937-06-08'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF 1937, MEETINGS]'
+title: Minutes of Fifteenth Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-08
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 41 Minutes of Fifteenth Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 15 (extract) LONDON, 8 June 1937
 
@@ -118,7 +123,7 @@ Litvinoff [6], however, had told him that he was in favour of a Pacific Pact. It
 
 The proposal as to procedure made by Mr Lyons was approved, subject to the amendment to (iv) suggested by Mr Chamberlain, i.e., that the initial steps should be to sound the United States, Japanese and Chinese Governments.
 
-_
+ _
 
 1 Document 38.
 
@@ -134,4 +139,4 @@ _
 
 _
 
-_ [FA : IMP. CONF 1937, MEETINGS]_
+ _[FA : IMP. CONF 1937, MEETINGS]_

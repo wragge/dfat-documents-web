@@ -1,12 +1,17 @@
 ---
-title: "335 Eggleston to Department of External Affairs"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2626
+doc_date: '1943-11-24'
+doc_num: 335
+doc_order: 335
+naa_refs:
+- naa_barcode: 185409
+  naa_control_symbol: 1943/735/313
+  naa_series: A989
+  reference: '[AA:A989, 43/735/3/3]'
+title: Eggleston to Department of External Affairs
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-11-24
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 335 Eggleston to Department of External Affairs
 
 Cablegram S98 CHUNGKING, 24 November 1943
 
@@ -22,7 +27,7 @@ Although we have a logical reply to this in our offer of either a treaty or an e
 
 EGGLESTON
 
-_
+ _
 
 1 Maj Gen V. W. Odlum.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/3/3]_
+ _[AA:A989, 43/735/3/3]_

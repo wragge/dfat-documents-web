@@ -1,14 +1,19 @@
 ---
-title: "70 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 836
+doc_date: '1940-02-21'
+doc_num: 70
+doc_order: 70
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196,0.1038]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-21
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 70 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 21 February 1940,
+Cablegram unnumbered 21 February 1940,
 
 Your own spirited efforts regarding wool much appreciated but position still most unsatisfactory. Three outstanding matters of great importance- (1) Proper basis of sale to neutrals, particularly America and Japan, must be promptly evolved at a reasonable price which should not be more than 25 per cent additional to our price to United Kingdom.
 
@@ -24,7 +29,7 @@ My difficulties on all war matters are great and growing and defeat of Governmen
 
 MENZIES
 
-_
+ _
 
 1 Chairman of U.K. Committee for Sale of Empire Wool Abroad.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [FA: A3196,0.1038]_
+ _[FA: A3196,0.1038]_

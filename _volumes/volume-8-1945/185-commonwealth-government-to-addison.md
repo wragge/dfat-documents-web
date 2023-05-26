@@ -1,12 +1,17 @@
 ---
-title: "185 Commonwealth Government to Addison"
-volume: "Volume 8: 1945"
-doc_id: 3216
+doc_date: '1945-08-14'
+doc_num: 185
+doc_order: 185
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 453]'
+title: Commonwealth Government to Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-14
+vol_title: 'Volume 8: 1945'
 ---
-
-# 185 Commonwealth Government to Addison
 
 Cablegram 236 CANBERRA, 14 August 1945
 
@@ -18,7 +23,7 @@ We are anxious that an Australian service representative be present at the accep
 
 2\. In connection with arrangements proposed in D.1432 [2] for surrender of Japanese forces in South East Asia Command Australian Government feels that in view of the part played by the Australian 8th Division in Malaya that it should have a representative at the surrender of the Japanese forces to Admiral Mountbatten. The Government would appreciate your concurrence in this and is taking action to nominate a representative for this purpose. [3]
 
-_
+ _
 
 1 Dispatched 12 August. On file AA : A816, 102/301/19.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 453]_
+ _[AA : A5954, BOX 453]_

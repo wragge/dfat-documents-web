@@ -1,12 +1,17 @@
 ---
-title: "187 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 524
+doc_date: '1939-09-02'
+doc_num: 187
+doc_order: 187
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-02
+vol_title: 'Volume 2: 1939'
 ---
-
-# 187 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 390 LONDON, 2 September 1939, 7.41 p.m.
 
@@ -20,7 +25,7 @@ Most confidential. Impossible to interpret exact significance of French attitude
 
 BRUCE
 
-_
+ _
 
 1 Document 185.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

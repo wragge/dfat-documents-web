@@ -1,12 +1,18 @@
 ---
-title: "492 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1723
+doc_date: '1941-06-07'
+doc_num: 492
+doc_order: 492
+naa_refs:
+- naa_barcode: 232365
+  naa_control_symbol: '263'
+  naa_series: A2937
+  reference: '[AA: A2937, UNITED NATIONS (ALLIED MEETINGS, ETC.)]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 492 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular cablegram D335 LONDON, 7 June 1941, 1 p.m.
 
@@ -30,10 +36,10 @@ We hope that Dominion Governments will agree and will arrange for their represen
 
 4\. Grateful for very early reply.
 
-_
+ _
 
 1 See Document 205.
 
 _
 
-_ [AA: A2937, UNITED NATIONS (ALLIED MEETINGS, ETC.)]_
+ _[AA: A2937, UNITED NATIONS (ALLIED MEETINGS, ETC.)]_

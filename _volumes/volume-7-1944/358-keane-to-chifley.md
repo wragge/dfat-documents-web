@@ -1,12 +1,17 @@
 ---
-title: "358 Keane to Chifley"
-volume: "Volume 7: 1944"
-doc_id: 3005
+doc_date: '1944-11-23'
+doc_num: 358
+doc_order: 358
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A574 L42/1303, vi]'
+title: Keane to Chifley
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-23
+vol_title: 'Volume 7: 1944'
 ---
-
-# 358 Keane to Chifley
 
 Cablegram 1150 [1] WASHINGTON, 23 November 1944, 8.27 p.m.
 
@@ -30,7 +35,7 @@ delegates, the U.S. State and War Depts. and ourselves, we cleared the point of 
 
 6\. No publicity should be given to Stage 2 until you hear further from me.
 
-_
+ _
 
 1 Sent through the Legation in Washington.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A574 L42/1303, vi]_
+ _[AA:A574 L42/1303, vi]_

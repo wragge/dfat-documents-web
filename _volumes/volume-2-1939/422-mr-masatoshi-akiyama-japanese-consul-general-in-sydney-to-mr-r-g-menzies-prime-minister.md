@@ -1,14 +1,20 @@
 ---
-title: "422 Mr Masatoshi Akiyama, Japanese Consul-General in Sydney, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 759
+doc_date: '1939-12-19'
+doc_num: 422
+doc_order: 422
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA: A981, AUSTRALIA 90]'
+title: Mr Masatoshi Akiyama, Japanese Consul-General in Sydney, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-12-19
+vol_title: 'Volume 2: 1939'
 ---
 
-# 422 Mr Masatoshi Akiyama, Japanese Consul-General in Sydney, to Mr R.G. Menzies, Prime Minister
-
-## Letter 19 December 1939,
+Letter 19 December 1939,
 
 I have the honour to inform you that I am instructed by the Japanese Government to request you to be good enough to inform me of the final decision of your Government on the subject of the prohibition of the exportation of iron ore from Australia.
 
@@ -20,7 +26,7 @@ I am also instructed to add that, should your reply be to the effect that your G
 
 M. AKIYAMA
 
-_
+ _
 
 1 Documents on Australian Foreign Policy 1937-49, vol. 1, Document 327.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA: A981, AUSTRALIA 90]_
+ _[AA: A981, AUSTRALIA 90]_

@@ -1,14 +1,20 @@
 ---
-title: "208 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 207
+doc_date: '1938-05-24'
+doc_num: 208
+doc_order: 207
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime
+  Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-24
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 208 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister
-
-## Letter SYDNEY, 24 May 1938
+Letter SYDNEY, 24 May 1938
 
 With reference to the decision of the Commonwealth Government to prohibit the export of all iron ore from Australia, which decision I conveyed to my Government upon the receipt of your letter of May 18th [1], I now have the honour to state, under instructions from my Government, that, in view of the traditional amicable relations between Australia and Japan, the Imperial Japanese Government deeply regret the above-mentioned decision of the Commonwealth Government, as, taking into consideration the actual conditions in relation to the Australian domestic demand and export trade in iron ore, and various aspects of the mining work at Yampi Sound, it can only be inferred that this drastic measure is aimed principally at Japan.
 
@@ -18,10 +24,10 @@ It is the most earnest desire of my Government, therefore, that, in the interest
 
 TORAO WAKAMATSU
 
-_
+ _
 
 1 Document 203.
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

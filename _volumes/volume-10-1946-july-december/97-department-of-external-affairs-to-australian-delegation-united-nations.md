@@ -1,12 +1,17 @@
 ---
-title: "97 Department of External Affairs to Australian Delegation, United Nations"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3945
+doc_date: '1946-09-02'
+doc_num: 97
+doc_order: 97
+naa_refs:
+- naa_barcode: 140559
+  naa_control_symbol: 861/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A18383/238, 861/1, i]'
+title: Department of External Affairs to Australian Delegation, United Nations
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-09-02
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 97 Department of External Affairs to Australian Delegation, United Nations
 
 Cablegram [UNY] [1] 198 CANBERRA, 2 September 1946
 
@@ -22,7 +27,7 @@ In view of heavy Australian contribution proposed and our substantial commitment
 
 4\. Please inform Secretary General of view in paragraphs 2 and 3.
 
-_
+ _
 
 1 Whereas cablegrams from the Delegation to Canberra were routinely prefixed 'United Nations' or 'UN', Canberra copies of cablegrams to New York were prefixed 'UNY' only spasmodically. The 'UNY' prefix was used regularly as a reference in replies from New York, and has been added in square brackets throughout this volume.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A18383/238, 861/1, i]_
+ _[AA:A18383/238, 861/1, i]_

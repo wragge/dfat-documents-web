@@ -1,12 +1,18 @@
 ---
-title: "80 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 417
+doc_date: '1939-05-06'
+doc_num: 80
+doc_order: 80
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:DO 114/98]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
+  Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-06
+vol_title: 'Volume 2: 1939'
 ---
-
-# 80 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office
 
 Cablegram 86 (paraphrase) CANBERRA, 6 May 1939
 
@@ -24,7 +30,7 @@ It is proposed to say:-
 
 I think that personal message of appreciation from the Prime Minister [6] to Menzies would be valued and valuable, if the debate follows the lines anticipated above and in my telegram No. 84.
 
-_
+ _
 
 1 Document 78.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [PRO:DO 114/98]_
+ _[PRO:DO 114/98]_

@@ -1,19 +1,23 @@
 ---
-title: "177 Paper By Doet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9685
+doc_date: 1968-04
+doc_num: 177
+doc_order: 177
+naa_refs:
+- naa_barcode: 4027860
+  naa_control_symbol: 1968/1922
+  naa_series: A452
+  reference: '[NAA: A452, 1968/1922]'
+title: Paper By Doet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-03-16
-barcode: 4027860
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 177 Paper By Doet
 
 Canberra, undated
 
-**Notes on the House of Assembly Elections 1968**
+ **Notes on the House of Assembly Elections 1968**
 
-_General_
+ _General_
 
 The people of Papua and New Guinea again went to the polls from 17th February to 16th March, 1968, to elect a new and enlarged House of Assembly.
 
@@ -42,7 +46,7 @@ The occupations and backgrounds of the candidates were many and varied, the bulk
 43| MHAs  
 23| Trader  
   
-_How sitting members fared_
+ _How sitting members fared_
 
 Of the 54 non-official members of the House of Assembly, 8 did not stand again. Of the 46 who stood, 23 were successful and 23 were defeated.
 
@@ -62,11 +66,11 @@ The trend AGAINST SITTING MEMBERS IN THE COASTAL AREAS is seen in the performanc
 
 Those defeated were Zure Zurecnuoc, Dirona Abe, Robert Tabua and Edric Eupu. Those successful were Matthias To Liman, Sinake Giregire, Lepani Watson, Paul Lapun and Tei Abal.
 
-The other 18 former MHA’s returned are John Guise, Percy Chatterton, Yauwi Wauwi Moses, Siwi Kurondo, Momei Pangial, Koitaga Mano, Poio Juri, Kaibelt Diria, Leme Iangalyo,1 Paliau Mal oat, A.C. Youtas,2 R. T. D. Nevilie, Bono Azanifa,3 O.I. (Roy) Ashton, Koriam Urekit,4 Pita Lus, James Meanggarum and Muriso Warebu.5
+The other 18 former MHA’s returned are John Guise, Percy Chatterton, Yauwi Wauwi Moses, Siwi Kurondo, Momei Pangial, Koitaga Mano, Poio Juri, Kaibelt Diria, Leme Iangalyo,[1](#f1) Paliau Mal oat, A.C. Youtas,[2](#f2) R. T. D. Nevilie, Bono Azanifa,[3](#f3) O.I. (Roy) Ashton, Koriam Urekit,[4](#f4) Pita Lus, James Meanggarum and Muriso Warebu.[5](#f5)
 
-[_matter omitted_]6
+[ _matter omitted_ ][6](#f6)
 
-_Who are the new members?_
+ _Who are the new members?_
 
 Following the elections there will be 61 new elected members in the House of Assembly, 8 from Island electorates, 18 from Highlands electorates, 21 from New Guinea coastal electorates and 14 from Papuan coastal electorates.
 
@@ -79,9 +83,9 @@ New Faces| 21| 18| 8| 14
   
 It would seem that the bulk of new faces in the new House of Assembly will be members from Coastal districts. This was where the Pangu Pati was most successful.
 
-A list of new Members is given on Page 3 of the Papua and New Guinea Newsletter Vol. 2 No. 8 dated 18th April, 1968.7 The only result not given was for Goilala Open where L.S. Mona was successful.
+A list of new Members is given on Page 3 of the Papua and New Guinea Newsletter Vol. 2 No. 8 dated 18th April, 1968.[7](#f7) The only result not given was for Goilala Open where L.S. Mona was successful.
 
-_How Pangu fared?_
+ _How Pangu fared?_
 
 It is not certain exactly how many Pangu Pati candidates have been elected. The most quoted figure is 12. Albert Maori Kiki claimed in a recent interview to have 13 supporters with expected support from 7 others. Our best figures are 11 known supporters and 6 or 7 possible supporters.
 
@@ -89,23 +93,23 @@ Dealing With The 11 Known Supporters. 8 hold open electorates and 3 are from reg
 
 Pangu Supporters Defeated. Aside from the 11 successful known Pangu supporters, a further 9 known Pangu Pati supporters were defeated. These included former M.H.A.’s Barry Holloway and Wegra Kenu, the Party’s general Secretary Albert Maori Kiki, and Epel Tito.
 
-Two prominent members defeated in the New Britain district were Vin Tobaining and Thomas Tobunbun.8
+Two prominent members defeated in the New Britain district were Vin Tobaining and Thomas Tobunbun.[8](#f8)
 
-Vin Tobaining was defeated by Oscar Tammur9 who attracted attention in the electorate by demonstrating in the Raniola land dispute.10
+Vin Tobaining was defeated by Oscar Tammur[9](#f9) who attracted attention in the electorate by demonstrating in the Raniola land dispute.[10](#f10)
 
-Thomas Tobunbun who played down his Pangu associations during the election was defeated by Epineri Titimur,11 a candidate who has made some remarks calling for the repatriation of all expatriates.12
+Thomas Tobunbun who played down his Pangu associations during the election was defeated by Epineri Titimur,[11](#f11) a candidate who has made some remarks calling for the repatriation of all expatriates.[12](#f12)
 
 Oala Oala Rarua who won the Central Regional Electorate was a former Pangu member expelled from the party in 1967 because of his emphasis on early self-government in a speech at Sydney University.
 
 The key point about Pangu’s performance is that in at least two seats, Pangu supporters were defeated by candidates with more extreme views.
 
-Pangu does seem likely to vote as a bloc in the House and to rely on its young men, Anthony Voutas (25), Michael Somare (31),13 and Ebia Olewale (27).14 The other prominent Pangu men elected are Paul Lapun, Siwi Kurondo, Pita Lus, James Meanggarum, Paliau Maloat, M. Kakun15 and Kaibelt Diria.
+Pangu does seem likely to vote as a bloc in the House and to rely on its young men, Anthony Voutas (25), Michael Somare (31),[13](#f13) and Ebia Olewale (27).[14](#f14) The other prominent Pangu men elected are Paul Lapun, Siwi Kurondo, Pita Lus, James Meanggarum, Paliau Maloat, M. Kakun[15](#f15) and Kaibelt Diria.
 
 The Co-Chairman of the Party, Cecil Abel, won the Milne Bay Regional seat.
 
-_Other parties_
+ _Other parties_
 
-The only other party to achieve any success was the All Peoples’ Party which had 2 candidates, Dennis Buchanan16 and James McKinnon17 elected in the Highlands. The platform of this Party is opposed to home rule.
+The only other party to achieve any success was the All Peoples’ Party which had 2 candidates, Dennis Buchanan[16](#f16) and James McKinnon[17](#f17) elected in the Highlands. The platform of this Party is opposed to home rule.
 
 Other parties that emerged and appear to have been less successful or even completely unsuccessful are—
 
@@ -117,11 +121,11 @@ Other parties that emerged and appear to have been less successful or even compl
 
 — the United Democratic Party.
 
-_Sitting of the new House_
+ _Sitting of the new House_
 
-The new House of Assembly will sit in the first week in June, probably on June 4. Ministerial Members are unlikely to be elected for 3 to 6 months after that. The first procedure is to elect a Nomination Centre18 for the House of Assembly and these19 to have procedures agreed to by the Minister.
+The new House of Assembly will sit in the first week in June, probably on June 4. Ministerial Members are unlikely to be elected for 3 to 6 months after that. The first procedure is to elect a Nomination Centre[18](#f18) for the House of Assembly and these[19](#f19) to have procedures agreed to by the Minister.
 
-[ [NAA: A452, 1968/1922](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4027860) ]
+[NAA: A452, 1968/1922]
 
 1 Wapenamanda open electorate. 
 
@@ -159,4 +163,4 @@ The new House of Assembly will sit in the first week in June, probably on June 4
 
 18 Apparently, this should read ‘Committee’. 
 
-19 Presumably, this should read ‘then’. 
+19 Presumably, this should read ‘then’.

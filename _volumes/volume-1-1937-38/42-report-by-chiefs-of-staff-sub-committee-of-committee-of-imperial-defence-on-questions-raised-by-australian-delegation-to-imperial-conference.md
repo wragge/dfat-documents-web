@@ -1,12 +1,18 @@
 ---
-title: "42 Report by Chiefs of Staff Sub-committee of Committee of Imperial Defence on Questions raised by Australian Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 42
+doc_date: '1937-06-09'
+doc_num: 42
+doc_order: 42
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 198]'
+title: Report by Chiefs of Staff Sub-committee of Committee of Imperial Defence on
+  Questions raised by Australian Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-09
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 42 Report by Chiefs of Staff Sub-committee of Committee of Imperial Defence on Questions raised by Australian Delegation to Imperial Conference
 
 Extracts LONDON, 9 June 1937
 
@@ -308,7 +314,7 @@ Question
 
 43\. This question has been fully covered in Part II of this paper.
 
-_
+ _
 
 1 These papers are not printed; for a summary of the questions see Document 20.
 
@@ -320,4 +326,4 @@ _
 
 _
 
-_ [DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 198]_
+ _[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 198]_

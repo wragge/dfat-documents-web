@@ -1,12 +1,17 @@
 ---
-title: "309 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 646
+doc_date: '1939-10-27'
+doc_num: 309
+doc_order: 309
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-27
+vol_title: 'Volume 2: 1939'
 ---
-
-# 309 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
 
 Cablegram unnumbered n.d.[27 October 1939 [1]],
 
@@ -28,7 +33,7 @@ I greatly value the statement in your cable that amongst the Dominions Australia
 
 MENZIES
 
-_
+ _
 
 1 The copy of this cablegram on the file cited is not dated. The version in the Bruce papers is dated 27 October 1939 (see AA:
 
@@ -46,4 +51,4 @@ M100, October 1939).
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

@@ -1,14 +1,17 @@
 ---
-title: "75 LETTER, HOLT TO WILSON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9940
+doc_date: '1967-06-16'
+doc_num: 75
+doc_order: 75
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 13/1323]'
+title: LETTER, HOLT TO WILSON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-06-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 75 LETTER, HOLT TO WILSON
-
-UKNA: PREM 13/1323
 
 London, 16 June 1967
 
@@ -18,7 +21,7 @@ You said to me before I left Australia on this present journey that your Governm
 
 It seems to me that it would be useful if I were to leave with you this note in which I recapitulate briefly the views and considerations that I expressed to you with the agreement of my Cabinet colleagues.
 
-As you know, I concluded our meeting on Tuesday2 by asking if you could see your way to meeting two requests that I was sure would be unanimously supported by Australia and its Commonwealth neighbours and by the United States. The first was that, in the period up to 1970–71, the British Government should retain some flexibility on the question of the Commonwealth Brigade in Malaysia. The Brigade, whatever its deficiencies, has been an example of effective Commonwealth teamwork and we would wish your Government to leave enough forces to give it continued viability even if there had to be some reductions on the logistics side. Secondly, 1 expressed the earnest hope that no final British decisions about the period after 1970-71 should be announced or even so much as taken at this time. I fully accepted that this need not preclude contingency planning covering various possibilities including that of withdrawal of land based forces but we saw no need to ratify any planning assumptions at this stage and felt it important that these should stand unratified. We felt it had to be assumed that if a decision looking towards withdrawal from the mainland were taken, it would become widely known and there could be a highly damaging chain reaction which would not only bring forward the local effects of withdrawal but might also precipitate an earlier withdrawal than intended. I mention these two requests at this stage so that the remainder of my letter may be read in conjunction with them.
+As you know, I concluded our meeting on Tuesday[2](#f2) by asking if you could see your way to meeting two requests that I was sure would be unanimously supported by Australia and its Commonwealth neighbours and by the United States. The first was that, in the period up to 1970–71, the British Government should retain some flexibility on the question of the Commonwealth Brigade in Malaysia. The Brigade, whatever its deficiencies, has been an example of effective Commonwealth teamwork and we would wish your Government to leave enough forces to give it continued viability even if there had to be some reductions on the logistics side. Secondly, 1 expressed the earnest hope that no final British decisions about the period after 1970-71 should be announced or even so much as taken at this time. I fully accepted that this need not preclude contingency planning covering various possibilities including that of withdrawal of land based forces but we saw no need to ratify any planning assumptions at this stage and felt it important that these should stand unratified. We felt it had to be assumed that if a decision looking towards withdrawal from the mainland were taken, it would become widely known and there could be a highly damaging chain reaction which would not only bring forward the local effects of withdrawal but might also precipitate an earlier withdrawal than intended. I mention these two requests at this stage so that the remainder of my letter may be read in conjunction with them.
 
 Before I move on to the general statement of the considerations which led up to my requests let me say how much I welcomed, on behalf of myself and my Government, your indication to me that you have decided to maintain a capability for use in the Far East after 1975. This decision recognises, as I believe to be the case, that Britain’s continuing support in the region is needed to help ensure the consolidation of the security and stability which have resulted in the Malaysian region from the distinguished role which Britain has historically played.
 
@@ -45,3 +48,5 @@ The submission I have made, of course, carries the risk of involvement to an ext
 1 Holt had a further meeting with Wilson on 15 June and said he would leave with him before he left London a statement of the Australian position.
 
 2  See Document 73.
+
+[UKNA: PREM 13/1323]

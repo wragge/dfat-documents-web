@@ -1,20 +1,23 @@
 ---
-title: "82 LETTER, DOWNER TO WILSON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9947
+doc_date: '1967-07-18'
+doc_num: 82
+doc_order: 82
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 46/56]'
+title: LETTER, DOWNER TO WILSON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-07-18
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 82 LETTER, DOWNER TO WILSON
-
-UKNA: FCO 46/56
 
 Australia House, London, 18 July 1967
 
 Secret 
 
-In the message from my Prime Minister to you which I transmitted earlier this afternoon,1 Mr. Holt mentioned that he would be making a statement on the terms of your Defence White Paper, and would send it to you.
+In the message from my Prime Minister to you which I transmitted earlier this afternoon,[1](#f1) Mr. Holt mentioned that he would be making a statement on the terms of your Defence White Paper, and would send it to you.
 
 This is the statement. Mr. Holt wishes me to say that it is being made available to you on a personal basis until such time as it is actually released. This is set down for 0930 hours Canberra time, Wednesday 19th July.
 
@@ -88,7 +91,7 @@ The British announcement carries implications which obviously must form part of 
 
 The White Paper mentions the possible use by Britain of facilities in Australia.
 
-This flows out of the discussions which Mr. Healey, the British Minister of Defence, had in Canberra early last year with the Australian Cabinet.2
+This flows out of the discussions which Mr. Healey, the British Minister of Defence, had in Canberra early last year with the Australian Cabinet.[2](#f2)
 
 The examination of these possibilities, including feasibility studies, has been conducted at Service level.
 
@@ -109,3 +112,5 @@ Downer continued on this theme in a letter to Lord Casey early in 1968: ‘I nee
 In the same letter Downer commented at length on the quality of the British Civil Service. At the Commonwealth Office he detected ‘a lack of fire, a tendency to compromise too much, a declining belief in the causes they ought to serve’. He was also ‘disturbed’ by some Foreign Office attitudes. Sir Paul Gore-Booth, the Permanent Secretary, was sociable and companionable, but Downer questioned whether he had ‘any faith in Britain as a Power of world influence’. The Foreign Office was ‘strongly pro-Common Market’, and while its officials probably did not agree with the ‘shameful abandonment’ of Southeast Asia, the Indian Ocean, and the Persian Gulf, there was ‘not the slightest suspicion of the spirit of Palmerston or even Salisbury, walking in the corridors’. Downer believed Australian civil servants compared favourably with their UK counterparts. ‘As with most of us Australians, they have a more confident, dynamic outlook than our English brethren’ (NAA: M1003, Downer to Lord Casey, 23 January 1968).
 
 2 See Document 53.
+
+[UKNA: FCO 46/56]

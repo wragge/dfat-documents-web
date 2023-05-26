@@ -1,14 +1,20 @@
 ---
-title: "96 Notes By Crawford For Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7701
+doc_date: '1955-02-06'
+doc_num: 96
+doc_order: 96
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA: CRAWFORD PAPERS, MS 4514/6/17,''GATT REVIEW 1954: CORRES./CABLES
+    TO MINISTERS'']'
+title: Notes By Crawford For Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1955-02-06
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 96 Notes By Crawford For Menzies
-
-## 6th February, 1955
+6th February, 1955
 
 G.A.T.T.-Admission of Japan I understand that the U.K. Ministers were anxious to know your Government's attitude on the question of the admission of Japan to G.A.T.T. [1] Sir Frank Lee [2] told me that the U.K. Government had now decided to apply Article 35.
 
@@ -30,7 +36,7 @@ However, Customs Department have some real objections to the course and it must 
 
 On the whole my expectation is that officials will advise the Government to apply Article 35. Meanwhile no haste is being shown by either side in the bilateral trade talks between Australia and Japan. We are in no hurry and the Japanese are naturally stalling in the hope that we will declare something of our attitude towards her admission in G.A.T.T. [4]
 
-_ 1 Menzies attended the Prime Minister's Conference in London from 31 January to 2 February.
+ _1 Menzies attended the Prime Minister's Conference in London from 31 January to 2 February.
 
 2 Permanent Secretary, UK Board of Trade.
 
@@ -38,8 +44,8 @@ _ 1 Menzies attended the Prime Minister's Conference in London from 31 January t
 
 4 A handwritten note by Crawford to Rattigan, dated 13 February, is attached and reads:'(1) Mr McEwen agreed with this. (2)P.M.
 
-adopted it &amp; conveyed notion (a) we are likely use 35. (b) We expect reciprocation on question protection against third parties (Japan in our market for them; Argentina and/or US subsidies in their market for us).'
+adopted it  & conveyed notion (a) we are likely use 35. (b) We expect reciprocation on question protection against third parties (Japan in our market for them; Argentina and/or US subsidies in their market for us).'
 
 _
 
-_ [NLA: CRAWFORD PAPERS, MS 4514/6/17,'GATT REVIEW 1954: CORRES./CABLES TO MINISTERS']_
+ _[NLA: CRAWFORD PAPERS, MS 4514/6/17,'GATT REVIEW 1954: CORRES./CABLES TO MINISTERS']_

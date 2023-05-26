@@ -1,16 +1,23 @@
 ---
-title: "205 Letter from Street to Anthony"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9074
+doc_date: '1982-09-07'
+doc_num: 205
+doc_order: 205
+naa_refs:
+- naa_barcode: 1509894
+  naa_control_symbol: 370/1/19/18 PART 32
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, xxxii]'
+title: Letter from Street to Anthony
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-09-07
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 205 Letter from Street to Anthony
+Canberra, 7 September 1982
 
-## Canberra, 7 September 1982
-
-I am writing to comment on the stage we have reached in the negotiation with New Zealand of a new trade agreement to succeed NAFTA, in the light of your letter of 30 August to the Prime Minister.1
+I am writing to comment on the stage we have reached in the negotiation with New Zealand of a new trade agreement to succeed NAFTA, in the light of your letter of 30 August to the Prime Minister.[1](#f1)
 
 I have welcomed the degree of compromise reflected in the package of proposals which we agreed to release for public discussion early in June, and I agree with you that it would be exceedingly difficult to obtain specific improvement on the termination dates for New Zealand's import licensing and export incentive arrangement as they affect trans-Tasman trade. The consultation period has however revealed continuing and deeply-felt dissatisfaction among Australian industry groups and it is clear that, to achieve public acceptance of a new agreement, we shall have to seek some definite improvements from the New Zealanders to the current package. I agree with the terms in which you propose to raise these matters with Mr Muldoon.
 
@@ -22,8 +29,6 @@ I hope nevertheless that the renegotiation can be completed in time for the new 
 
 I am sending copies of this letter to the Prime Minister and the Ministers for Industry and Commerce and Primary Industry.
 
-_[NAA: A1838, 37011/19/18, xxxii]_
+ _[NAA: A1838, 37011/19/18, xxxii]_
 
   * 1 Document 204.
-
-

@@ -1,12 +1,17 @@
 ---
-title: "179 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1410
+doc_date: '1940-10-21'
+doc_num: 179
+doc_order: 179
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.7899]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-21
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 179 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 738 21 October 1940,
 
@@ -42,7 +47,7 @@ offensive on Germany? (c) Where does the balance of advantage he between (a) and
 
 MENZIES
 
-_
+ _
 
 1 The DW cablegrams reported in detail the general progress of the war. Those relevant to this volume are on files AA:A1608, G41/1/1, iii-viii.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.7899]_
+ _[AA:A3196, 1940, 0.7899]_

@@ -1,12 +1,17 @@
 ---
-title: "48 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1279
+doc_date: '1940-08-02'
+doc_num: 48
+doc_order: 48
+naa_refs:
+- naa_barcode: 181151
+  naa_control_symbol: TRAD 87 PART 1
+  naa_series: A981
+  reference: '[AA:A981, TRADE 87B, i]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-02
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 48 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 626 LONDON, 2 August 1940,7.17 p.m.
 
@@ -26,7 +31,7 @@ Ministry of Economic Warfare suggest advisability of keeping Australian contract
 
 BRUCE
 
-_
+ _
 
 1 On file AA:A981, Trade 87B, 1. It reported that the Commonwealth Govt had contracted to buy 450 tons of nickel matte per month for one year from Le Nickel Co. of New Caledonia.
 
@@ -40,4 +45,4 @@ INCO to refine x tons on toll and return local company for disposal as it sees f
 
 _
 
-_ [AA:A981, TRADE 87B, i]_
+ _[AA:A981, TRADE 87B, i]_

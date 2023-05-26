@@ -1,12 +1,18 @@
 ---
-title: "189 Churchill to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2836
+doc_date: '1944-06-08'
+doc_num: 189
+doc_order: 189
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER SHEETS,
+    FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.21663]'
+title: Churchill to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-08
+vol_title: 'Volume 7: 1944'
 ---
-
-# 189 Churchill to Evatt
 
 Cablegram 131 LONDON, 8 June 1944, 10.05 p.m.
 
@@ -20,7 +26,7 @@ Your 128. [1]
 
 CHURCHILL
 
-_ SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.21663]
+ _
 
 1 Document 183.
 
@@ -28,4 +34,4 @@ _ SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 
 
 _
 
-_ [AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER_
+ _[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.21663]_

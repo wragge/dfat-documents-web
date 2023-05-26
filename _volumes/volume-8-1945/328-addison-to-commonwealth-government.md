@@ -1,12 +1,17 @@
 ---
-title: "328 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3359
+doc_date: '1945-10-20'
+doc_num: 328
+doc_order: 328
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 1825]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-20
+vol_title: 'Volume 8: 1945'
 ---
-
-# 328 Addison to Commonwealth Government
 
 Cablegram D1965 LONDON, 20 October 1945, 5.16 p.m.
 
@@ -24,10 +29,10 @@ His Majesty's United Kingdom Ambassador, Washington, has been instructed to info
 
 5\. Procedure by Assembly resolution as proposed above does not mean that we wish to substitute the idea of a commission of the United Nations Organisation for that of specialised agency. The balance of advantages may be felt to weigh in favour of the latter but any such specialised agency should, in our view be integrated as closely as possible with the main organisation.
 
-_
+ _
 
 1 On file AA : A1066, H45/703/1/2.
 
 _
 
-_ [AA : A5954, BOX 1825]_
+ _[AA : A5954, BOX 1825]_

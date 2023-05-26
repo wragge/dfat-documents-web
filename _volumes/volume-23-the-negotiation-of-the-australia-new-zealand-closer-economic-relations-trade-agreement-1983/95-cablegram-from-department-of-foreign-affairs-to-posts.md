@@ -1,12 +1,19 @@
 ---
-title: "95 Cablegram from Department of Foreign Affairs to Posts"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8965
+doc_date: '1980-03-25'
+doc_num: 95
+doc_order: 95
+naa_refs:
+- naa_barcode: 1509875
+  naa_control_symbol: 370/1/19/18 PART 17
+  naa_series: A1838
+  reference: '[NAA: Al838, 370/1119/18, xvii]'
+title: Cablegram from Department of Foreign Affairs to Posts
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-03-25
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 95 Cablegram from Department of Foreign Affairs to Posts
 
 Canberra, 25 March 1980
 
@@ -16,7 +23,7 @@ O.CH881300
 
 ## Points to Draw on in Discussion with Other Governments
 
-_[matter omitted]_
+ _[matter omitted]_
 
   1. The examination of possibilities for closer trade and economic co-operation between Australia and New Zealand is logical and historical progression in the relationship between the two countries which have similar backgrounds and ideals and which are conscious of a trend elsewhere to regional economic groupmgs.
   2. Against this background, Australia and New Zealand recognise that there is scope for new economic arrangements which can strengthen the bilateral relationship, provide economic benefits to both countries and enable each to cope with greater confidence with the difficult international economic and trading situation.
@@ -30,8 +37,6 @@ _[matter omitted]_
 
 Ends.
 
-_[NAA: Al838, 370/1119/18, xvii]_
+ _[NAA: Al838, 370/1119/18, xvii]_
 
-  * 1 The record of meeting was prepared by Trade Branch, Prime Minister and Cabinet. 
-
-
+  * 1 The record of meeting was prepared by Trade Branch, Prime Minister and Cabinet.

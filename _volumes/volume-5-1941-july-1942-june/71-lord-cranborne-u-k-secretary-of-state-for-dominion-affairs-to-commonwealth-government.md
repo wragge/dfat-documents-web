@@ -1,12 +1,18 @@
 ---
-title: "71 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1825
+doc_date: '1941-09-19'
+doc_num: 71
+doc_order: 72
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, ii]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-19
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 71 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular cablegram M308 LONDON, 19 September 1941, 10 p.m.
 
@@ -26,7 +32,7 @@ We should propose therefore that the United States Government be informed accord
 
 We should be glad to learn as soon as possible whether His Majesty's Governments in the Dominions concur in a communication being addressed to the United States Government on the above lines. [7]
 
-_
+ _
 
 1 On file AA:A981, Japan 185B, ii.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, ii]_
+ _[AA: A981, JAPAN 185B, ii]_

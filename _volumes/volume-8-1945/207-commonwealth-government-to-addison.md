@@ -1,13 +1,19 @@
 ---
-title: "207 Commonwealth Government to Addison"
-volume: "Volume 8: 1945"
-doc_id: 3238
+doc_date: '1945-08-21'
+doc_num: 207
+doc_order: 207
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 1891]'
+title: Commonwealth Government to Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
+vol_title: 'Volume 8: 1945'
 ---
 
-# 207 Commonwealth Government to Addison
-
-Cablegram 245 CANBERRA, 21, August 1945
+Cablegram 245 CANBERRA, 21 August 1945
 
 TOP SECRET MOST IMMEDIATE
 
@@ -23,10 +29,10 @@ We have also informed United States government of Australian government's views:
 
 (3) That Australia should take full part as a member of the Council of Foreign Ministers in relation to all matters affecting or concerning the Pacific and Far East.
 
-_
+ _
 
 1 Documents 202, 203 and 204 respectively.
 
 _
 
-_ [AA : A5954, BOX 1891]_
+ _[AA : A5954, BOX 1891]_

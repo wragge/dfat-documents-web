@@ -1,14 +1,20 @@
 ---
-title: "101 Mr L. R. Macgregor, Government Trade Commissioner in North America, to Department of Trade and Customs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1855
+doc_date: '1941-11-05'
+doc_num: 101
+doc_order: 102
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1941, 1. 22952]'
+title: Mr L. R. Macgregor, Government Trade Commissioner in North America, to Department
+  of Trade and Customs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-05
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 101 Mr L. R. Macgregor, Government Trade Commissioner in North America, to Department of Trade and Customs
-
-## Cablegram General 524 NEW YORK, 5 November 1941, 3.58 a.m.
+Cablegram General 524 NEW YORK, 5 November 1941, 3.58 a.m.
 
 1\. Replying your 3890. [1] Following are recommendations:-
 
@@ -54,7 +60,7 @@ At present I believe direct approach worth trying.
 
 MACGREGOR
 
-_
+ _
 
 1 Not found.
 
@@ -80,4 +86,4 @@ A1608, A59/2/1, i).
 
 _
 
-_ [AA : A3195, 1941, 1. 22952]_
+ _[AA : A3195, 1941, 1. 22952]_

@@ -1,14 +1,19 @@
 ---
-title: "316 Cabinet Minute"
-volume: "Volume 2: 1939"
-doc_id: 653
+doc_date: '1939-10-31'
+doc_num: 316
+doc_order: 316
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A2697
+  reference: '[AA: A2697, VOL. 3A]'
+title: Cabinet Minute
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-31
+vol_title: 'Volume 2: 1939'
 ---
 
-# 316 Cabinet Minute
-
-## Minute 228 SYDNEY, 31 October 1939
+Minute 228 SYDNEY, 31 October 1939
 
 WAR AIMS The Prime Minister [1] read to Cabinet a cable which had been received from the Dominions Office, indicating that the French Government desired the British Government to express its war aims.
 
@@ -16,7 +21,7 @@ WAR AIMS The Prime Minister [1] read to Cabinet a cable which had been received 
 
 It was indicated by the Prime Minister that he had initiated discussion between the various Dominions by sending a copy of his cablegram to the Prime Minister of each Dominion.
 
-_
+ _
 
 1 R.G. Menzies.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA: A2697, VOL. 3A]_
+ _[AA: A2697, VOL. 3A]_

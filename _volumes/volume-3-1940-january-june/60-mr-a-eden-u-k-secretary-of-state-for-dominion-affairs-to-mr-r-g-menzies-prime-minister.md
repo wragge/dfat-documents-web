@@ -1,12 +1,18 @@
 ---
-title: "60 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 826
+doc_date: '1940-02-15'
+doc_num: 60
+doc_order: 60
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, [1.1064]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 60 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram D58 LONDON, 15 February 1940, 8.11 p.m.
 
@@ -20,7 +26,7 @@ THE UNITED STATES OF AMERICA
 
 3\. His Majesty's Government in the United Kingdom believe however that in spite of these dangers the Under Secretary's visit may serve a good purpose if he can convey to the President a clear picture of the issues which are at stake, and assure him of the determination of the Allies to achieve the aims which they have set before themselves and have publicly proclaimed.
 
-_
+ _
 
 1 The copy of this cablegram circulated in Canberra was headed 'Received 15th February, 1940, 8.11 p.m. Sent 16th February, 1940'. This is clearly incorrect and the Prime Minister's Dept inward cable register (FA: A3635) confirms that it was received on 16 February.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [FA: A3195, [1.1064] [5]]_
+ _[FA: A3195, [1.1064] [5]]_

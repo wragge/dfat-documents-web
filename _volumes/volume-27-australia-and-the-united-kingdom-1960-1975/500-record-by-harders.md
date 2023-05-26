@@ -1,22 +1,25 @@
 ---
-title: "500 RECORD BY HARDERS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10367
+doc_date: '1975-01-03'
+doc_num: 500
+doc_order: 500
+naa_refs:
+- naa_barcode: 9042754
+  naa_control_symbol: SR1974/3013
+  naa_series: A5034
+  reference: '[NAA: A5034, SR 1974/3013]'
+title: RECORD BY HARDERS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1975-01-03
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 500 RECORD BY HARDERS
-
-NAA: A5034, SR 1974/3013
 
 Attorney-General’s Department, Canberra, 3 January 1975
 
 Confidential
 
-**The Prime Minister’s Discussions in London Concerning Constitutional Matters, 20 and 24 December 1974**
+ **The Prime Minister’s Discussions in London Concerning Constitutional Matters, 20 and 24 December 1974**
 
-The Prime Minister had discussions with the United Kingdom Prime Minister, the Secretary of State for Foreign and Commonwealth Affairs and the United Kingdom Attorney-General on 20 December 1974.1 On 24 December the Prime Minister had a further discussion with the Lord Chancellor.
+The Prime Minister had discussions with the United Kingdom Prime Minister, the Secretary of State for Foreign and Commonwealth Affairs and the United Kingdom Attorney-General on 20 December 1974.[1](#f1) On 24 December the Prime Minister had a further discussion with the Lord Chancellor.
 
 2\. This present note is not a summary record of all that was said in the course of the discussions. It concentrates rather on the principal matters emerging from the discussions and on the Prime Minister’s intended future courses of action as mentioned by him following the discussions. The note also mentions various points that require attention before Parliament meets on 11 February.
 
@@ -36,11 +39,11 @@ The Prime Minister had discussions with the United Kingdom Prime Minister, the S
 
 6\. United Kingdom Ministers did not give a clear ‘Yes’ or ‘No’ answer to Mr Whitlam’s proposal that remaining appeals from Australia be heard by Australian Privy Councillors sitting in Australia. However, it appeared that they did not view the suggestion favourably.
 
-7\. In the further discussion that took place on 24 December with the Lord Chancellor, Lord Elwyn Jones2 made it quite clear that the United Kingdom Government would not respond favourably to the proposal. The Lord Chancellor did go so far as to say that he would be prepared, with the agreement of the Chief Justice of Australia, to include a Justice of the High Court on every Board hearing an appeal from an Australian Court. Indeed, he would be prepared to include two Justices on such Boards.
+7\. In the further discussion that took place on 24 December with the Lord Chancellor, Lord Elwyn Jones[2](#f2) made it quite clear that the United Kingdom Government would not respond favourably to the proposal. The Lord Chancellor did go so far as to say that he would be prepared, with the agreement of the Chief Justice of Australia, to include a Justice of the High Court on every Board hearing an appeal from an Australian Court. Indeed, he would be prepared to include two Justices on such Boards.
 
 8\. Mr Whitlam said that he would need to consider the suggestion. It would be necessary for additional High Court Justices to be appointed as Privy Councillors and those appointments are made on the recommendation of the United Kingdom Prime Minister. Moreover, the High Court’s list currently includes some major constitutional litigation and it might be difficult to spare a Justice, or two Justices, for appeal work on the Privy Council in London.
 
-9\. After the discussion with the Lord Chancellor on 20 December3 the Prime Minister said that he would now proceed with the introduction of the Privy Council Appeals Abolition Bill and the companion Bill, the Privy Council (Appeals from the High Court) Bill, the purpose of which is to abolish appeals in those cases in which an appeal still lies from the High Court. The Prime Minister proposes to introduce the two Bills in the first week of the February sittings. He asked that a strong second reading speech be prepared. We are to include material pointing up the way in which the States have been endeavouring to by-pass the High Court—this is their real intention although they have never openly said so. The resort to the ancient provisions of section 4 of the Act of 1833 is simply a device to avoid the High Court. Reference should be made in the draft speech to the initial efforts of Tasmania in connection with the sea-bed petitions. Tasmania’s first efforts were made in the days of the McMahon Government when it was proposed to that Government that it should join with Tasmania in seeking an advisory opinion from the Privy Council. The then Australian Government firmly rejected the suggestion on the grounds particularly that the High Court would be by-passed and that there could be two streams of judicial authority. Reference will of course also be made to the action of the then Government in 1968 in introducing the Privy Council (Limitation of Appeals) Bill which was passed with the full support of all parties.
+9\. After the discussion with the Lord Chancellor on 20 December[3](#f3) the Prime Minister said that he would now proceed with the introduction of the Privy Council Appeals Abolition Bill and the companion Bill, the Privy Council (Appeals from the High Court) Bill, the purpose of which is to abolish appeals in those cases in which an appeal still lies from the High Court. The Prime Minister proposes to introduce the two Bills in the first week of the February sittings. He asked that a strong second reading speech be prepared. We are to include material pointing up the way in which the States have been endeavouring to by-pass the High Court—this is their real intention although they have never openly said so. The resort to the ancient provisions of section 4 of the Act of 1833 is simply a device to avoid the High Court. Reference should be made in the draft speech to the initial efforts of Tasmania in connection with the sea-bed petitions. Tasmania’s first efforts were made in the days of the McMahon Government when it was proposed to that Government that it should join with Tasmania in seeking an advisory opinion from the Privy Council. The then Australian Government firmly rejected the suggestion on the grounds particularly that the High Court would be by-passed and that there could be two streams of judicial authority. Reference will of course also be made to the action of the then Government in 1968 in introducing the Privy Council (Limitation of Appeals) Bill which was passed with the full support of all parties.
 
 10\. The terms of the Privy Council Appeals Abolition Bill and the scheduled Westminster Bill have been under discussion with United Kingdom officials. In the course of discussions in London in November 1974 a way was found through a problem of legal substance that had developed since the Bill was first introduced by the Prime Minister in the House of Representatives in May 1973. Our First Parliamentary Counsel has re-drafted certain provisions of both Bills. In discussions in London on 17 December United Kingdom legal advisers indicated that the adjustments to the Bills met with their approval. They said that they had referred the revised texts to United Kingdom Parliamentary Counsel but that they did not expect any substantial points to be raised. We must get a firm response from United Kingdom officials in the next week or so.
 
@@ -56,7 +59,7 @@ The Prime Minister had discussions with the United Kingdom Prime Minister, the S
 
 16\. While no clear answer was given it would seem unlikely that the United Kingdom Government would desist from making recommendations for United Kingdom Honours where State Premiers had conveyed their wishes to the United Kingdom Government.
 
-17\. On 17 December Mr Yeend, Mr MacDonald of the Australian High Commission and I had had a discussion with Sir Martin Charteris and Mr Heseltine4 on the Honours question. The Prime Minister did not find it possible, l believe, to discuss the question with The Queen5 and an appointment that he had made for Sir Martin Charteris to call on him on Boxing Day had to be cancelled because of the Prime Minister’s return to Australia.
+17\. On 17 December Mr Yeend, Mr MacDonald of the Australian High Commission and I had had a discussion with Sir Martin Charteris and Mr Heseltine[4](#f4) on the Honours question. The Prime Minister did not find it possible, l believe, to discuss the question with The Queen[5](#f5) and an appointment that he had made for Sir Martin Charteris to call on him on Boxing Day had to be cancelled because of the Prime Minister’s return to Australia.
 
 18\. Mr Yeend will be reporting separately concerning Honours but it may be useful to state my understanding of the position, which should be checked out with Mr Yeend.
 
@@ -75,3 +78,5 @@ The Prime Minister had discussions with the United Kingdom Prime Minister, the S
 4 William Heseltine, Deputy Private Secretary to the Queen, 1972–77.
 
 5 Whitlam did discuss honours with the Queen—see Document 499.
+
+[NAA: A5034, SR 1974/3013]

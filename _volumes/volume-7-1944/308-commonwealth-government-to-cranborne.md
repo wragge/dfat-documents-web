@@ -1,12 +1,17 @@
 ---
-title: "308 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2955
+doc_date: '1944-10-03'
+doc_num: 308
+doc_order: 308
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/13]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-03
+vol_title: 'Volume 7: 1944'
 ---
-
-# 308 Commonwealth Government to Cranborne
 
 Cablegram 257 [1] CANBERRA, 3 October 1944
 
@@ -18,7 +23,7 @@ Your D.1404. [2]
 
 2\. We agree with the suggestion that British Commonwealth talks be held in Canada on October 23 and have informed Canada of our acceptance of invitation to these talks. [5]
 
-_
+ _
 
 1 Repeated to the N.Z., Canadian and South African Prime Ministers as nos 214, 21 and 88, respectively.
 
@@ -34,4 +39,4 @@ Prime Minister, dispatched 18 September, on the file cited above in this note.
 
 _
 
-_ [AA:A989, 44/735/832/13]_
+ _[AA:A989, 44/735/832/13]_

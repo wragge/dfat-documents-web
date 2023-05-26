@@ -1,12 +1,17 @@
 ---
-title: "290 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2937
+doc_date: '1944-09-20'
+doc_num: 290
+doc_order: 290
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/12]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-20
+vol_title: 'Volume 7: 1944'
 ---
-
-# 290 Commonwealth Government to Cranborne
 
 Cablegram 243 [1] CANBERRA, 20 September 1944
 
@@ -28,7 +33,7 @@ As to the venue of the proposed Commonwealth meeting of civil aviation experts, 
 
 All representatives could be assembled in Australia by air travel in less than ten days from the date of notification of the meeting. The provisional scheme for Commonwealth air services [6] to be submitted to the meeting is an Australian proposal and Canberra may be a less distracting and more suitable venue for the meeting from many points of view.
 
-_
+ _
 
 1 Repeated to the N.Z. Prime Minister as no. 208.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A989, 44/735/832/12]_
+ _[AA:A989, 44/735/832/12]_

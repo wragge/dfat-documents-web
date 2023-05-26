@@ -1,12 +1,17 @@
 ---
-title: "161 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 160
+doc_date: '1938-03-24'
+doc_num: 161
+doc_order: 160
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-24
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 161 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered [1] LONDON, 24 March 1938, 3.02 p.m.
 
@@ -16,7 +21,7 @@ I am much obliged for your telegram of March 23rd in regard to Czechoslovakia [2
 
 NEVILLE CHAMBERLAIN
 
-_
+ _
 
 1 This cablegram was sent via the High Commissioner's Office, London.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

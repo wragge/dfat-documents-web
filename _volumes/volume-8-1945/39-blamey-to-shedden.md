@@ -1,12 +1,17 @@
 ---
-title: "39 Blamey to Shedden"
-volume: "Volume 8: 1945"
-doc_id: 3070
+doc_date: '1945-02-19'
+doc_num: 39
+doc_order: 39
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 570]'
+title: Blamey to Shedden
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-02-19
+vol_title: 'Volume 8: 1945'
 ---
-
-# 39 Blamey to Shedden
 
 Letter HEADQUARTERS, ALLIED LAND FORCES SOUTH-WEST PACIFIC AREA [BRISBANE] , 19 February 1945
 
@@ -60,7 +65,7 @@ The insinuation of American control and the elimination of Australian control ha
 
 T. A. BLAMEY
 
-_
+ _
 
 1 Paragraph 4 read: 'My functions as Minister for Defence relate to questions of higher Policy and important subjects, such as the strength and organisation of the Forces and appointments to higher posts, which will be submitted to War Cabinet through me. I am also the link between the Government and Commander-in-Chief, and you, as adviser to the Government on Australian Army Policy, also have direct access to me.' In AA:A2653, 1942, vol. 2, Miscellaneous 41/1942.
 
@@ -68,4 +73,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 570]_
+ _[AA:A5954, BOX 570]_

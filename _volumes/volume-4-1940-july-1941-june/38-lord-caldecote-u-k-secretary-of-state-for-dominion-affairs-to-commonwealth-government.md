@@ -1,12 +1,18 @@
 ---
-title: "38 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1269
+doc_date: '1940-07-27'
+doc_num: 38
+doc_order: 38
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, 1.5958]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-27
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 38 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 271 LONDON, 27 July 1940, 5. 10 p.m.
 
@@ -18,10 +24,10 @@ As regards the first paragraph, His Majesty's Government in the Commonwealth of 
 
 A further telegram will be sent as soon as possible regarding the second and third paragraphs. A full appreciation on Far Eastern situation will be communicated shortly. The Commonwealth Government's view[s] as to equipment in relation to the despatch of subsequent formations overseas are noted and are under consideration.
 
-_
+ _
 
 1 Document 33 2 The prefix 'U.S.' was used to denote convoys carrying troops from Australia to the Middle East.
 
 _
 
-_ [AA:A3195, 1940, 1.5958]_
+ _[AA:A3195, 1940, 1.5958]_

@@ -1,12 +1,18 @@
 ---
-title: "121 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1352
+doc_date: '1940-09-17'
+doc_num: 121
+doc_order: 121
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.6749]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-17
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 121 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 483 17 September 1940,
 
@@ -36,7 +42,7 @@ The conclusion of these observations is therefore one of temporizing negotiation
 
 MENZIES
 
-_
+ _
 
 1 A copy of this cablegram was also sent to R. G. Casey, Minister to the United States, on 18 September (see file AA:A3300, 9) and S. M. Bruce, High Commissioner in London, was asked to see the copy sent to Caldecote (see cablegram 228 to Bruce, AA:A3196, 1940, 0.6750). At Caldecote's suggestion copies were subsequently sent also to the Canadian and South African Govts (see cablegrams 351 from and 502 to Caldecote of 21 and 24 September respectively on file AA:M1608, A41/1/1, xiii).
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.6749]_
+ _[AA:A3196, 1940, 0.6749]_

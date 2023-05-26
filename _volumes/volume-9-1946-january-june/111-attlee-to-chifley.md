@@ -1,12 +1,17 @@
 ---
-title: "111 Attlee to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3623
+doc_date: '1946-02-25'
+doc_num: 111
+doc_order: 111
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.4951/2]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-25
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 111 Attlee to Chifley
 
 Cablegram 77 LONDON, 25 February 1946, 2.55 p.m.
 
@@ -26,10 +31,10 @@ This situation is likely to last well into 1947.
 
 May I also reinforce the appeal I made to you in my previous telegram to do everything possible to increase your wheat acreage for the next harvest. The figures I quoted above regarding exportable supplies of the four principal producing countries are based as I said upon existing estimates of acreage. Every additional acre which can be put under wheat during the next season will make some contribution to meet the problem - particularly in those Empire countries like India, Ceylon and Malaya where shortage conditions are bound to last for some considerable period, and where every assistance we can give will not only save human lives, but may have far reaching political effects on maintaining the stability of the Empire.
 
-_ 1 Document 87.
+ _1 Document 87.
 
 2 Presumably Document 69.
 
 _
 
-_ [AA:A3195, 1946, 1.4951/2]_
+ _[AA:A3195, 1946, 1.4951/2]_

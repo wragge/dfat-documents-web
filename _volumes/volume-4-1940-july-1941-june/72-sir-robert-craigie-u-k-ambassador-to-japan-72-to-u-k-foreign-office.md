@@ -1,12 +1,17 @@
 ---
-title: "72 Sir Robert Craigie, U.K. Ambassador to Japan, 72 to U.K. Foreign Office"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1303
+doc_date: '1940-08-14'
+doc_num: 72
+doc_order: 72
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, 1.6689]'
+title: Sir Robert Craigie, U.K. Ambassador to Japan, 72 to U.K. Foreign Office
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-14
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 72 Sir Robert Craigie, U.K. Ambassador to Japan, 72 to U.K. Foreign Office
 
 Repeated to Commonwealth Government
 
@@ -22,7 +27,7 @@ The Vice-Minister for Foreign Affairs [2] sent for the Counsellor [3] today and 
 
 3\. The Counsellor has accordingly spoken to the Vice-Minister for Foreign Affairs on my instructions in the sense of your telegram 695 [8] and informed him of my conversation with the late Minister for Foreign Affairs on 17th July. The Vice-Minister for Foreign Affairs replied that the Japanese Government welcome the appointment of an Australian Minister here and will appoint Japanese Minister to Australia as soon as possible. He will submit to the Emperor the name of Sir J. Latham [9] and will inform the Japanese Consul-General at Sydney accordingly today.
 
-_
+ _
 
 1 Dispatched 14 August. See file AA:A2937, Legations: Exchange of Ministers with Japan. It is summarised in paragraph 1 of Document 77.
 
@@ -46,4 +51,4 @@ Exchange of Ministers with Japan.
 
 _
 
-_ [AA:A3195, 1940, 1.6689]_
+ _[AA:A3195, 1940, 1.6689]_

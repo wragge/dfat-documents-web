@@ -1,12 +1,17 @@
 ---
-title: "28 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2319
+doc_date: '1942-08-25'
+doc_num: 28
+doc_order: 28
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-25
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 28 Curtin to Churchill
 
 Cablegram 408 [1] CANBERRA, 25 August 1942
 
@@ -94,4 +99,4 @@ Clause 6 stated that it was the duty of the U.S. Chiefs of Staff to define the s
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

@@ -1,12 +1,18 @@
 ---
-title: "341 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 678
+doc_date: '1939-11-09'
+doc_num: 341
+doc_order: 341
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 341 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram D69 LONDON, 9 November 1939, 11.30 p.m.
 
@@ -32,7 +38,7 @@ Many undoubtedly think of the creation of a Catholic unit including Austria and 
 
 6\. The above is the present background of French opinion against which any discussion of war aims must take place. There is at the moment room enough for, and a sufficient body of opinion in France, to lessen compromise between extreme idealistic suggestions such as are sometimes made in letters and articles in the British press and the extreme demands at the opposite end of the scale, such as are sometimes heard in conversations of Frenchmen and (more rarely) advocated in the French press. The compromise would of course have to satisfy the French from the point of view of security. My point is that this desirable situation may well be destroyed by a press discussion which invites a public unofficial controversy between the extreme French and the extreme British points of view. I know that the high officials at Quai D'Orsay are strongly opposed to any public discussion of war aims at present. The prospects of an agreement on war aims reached by confidential inter-Governmental discussion might thus be seriously compromised.' Copy of His Majesty's Ambassador's Despatch 1442, 23rd October is being sent you by this week's mail.
 
-_
+ _
 
 1 Document 307.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

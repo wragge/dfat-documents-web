@@ -1,12 +1,17 @@
 ---
-title: "276 Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies"
-volume: "Volume 1: 1937-38"
-doc_id: 275
+doc_date: '1938-09-25'
+doc_num: 276
+doc_order: 275
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : PREM 1/242]'
+title: Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-25
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 276 Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies
 
 LONDON, 25 September 1938
 
@@ -18,7 +23,7 @@ I went round to see him after the afternoon Cabinet, when he supported this atti
 
 M. M[ACDONALD]
 
-_
+ _
 
 1 High Commissioner in London.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [PRO : PREM 1/242]_
+ _[PRO : PREM 1/242]_

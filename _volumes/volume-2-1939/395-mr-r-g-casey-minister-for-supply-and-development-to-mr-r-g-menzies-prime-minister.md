@@ -1,14 +1,20 @@
 ---
-title: "395 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 732
+doc_date: '1939-11-29'
+doc_num: 395
+doc_order: 395
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 35]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-29
+vol_title: 'Volume 2: 1939'
 ---
 
-# 395 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
-
-## Cablegram C50 LONDON, 29 November 1939
+Cablegram C50 LONDON, 29 November 1939
 
 For Prime Minister. Personal. Further to the last half of my yesterday's C.49.[1] The training requirements of the 6th Division have been given full consideration here. The War Office proposal is that the force be concentrated in the most suitable training area and to provide adequate training as well as modem equipment not available in Australia. Unless we send at least one Australian brigade group with the first convoy that it is now proposed should leave Sydney about 2nd January, Commander-in-Chief, Middle East [2] is not prepared to release sufficient regular battalions to form a complete division for service in France by early Spring.
 
@@ -20,7 +26,7 @@ After discussion with the British Government it is now desired that you let me k
 
 CASEY
 
-_
+ _
 
 1 Document 394.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 35]_
+ _[AA: CP 290/6, ITEM 35]_

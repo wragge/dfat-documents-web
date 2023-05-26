@@ -1,14 +1,24 @@
 ---
-title: "42 Note by Mr J.S. Duncan, Acting High Commissioner in London, of Conversation with Maj Gen H.L. Ismay, Secretary of U.K. Committee of Imperial Defence"
-volume: "Volume 2: 1939"
-doc_id: 379
+doc_date: '1939-03-17'
+doc_num: 42
+doc_order: 42
+naa_refs:
+- naa_barcode: 242503
+  naa_control_symbol: 7/1
+  naa_series: M104
+  reference: '[AA: M104, ITEM 7(1)]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: CAB 21/893]'
+title: Note by Mr J.S. Duncan, Acting High Commissioner in London, of Conversation
+  with Maj Gen H.L. Ismay, Secretary of U.K. Committee of Imperial Defence
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-03-17
+vol_title: 'Volume 2: 1939'
 ---
 
-# 42 Note by Mr J.S. Duncan, Acting High Commissioner in London, of Conversation with Maj Gen H.L. Ismay, Secretary of U.K. Committee of Imperial Defence
-
-## LONDON, 17 March 1939
+LONDON, 17 March 1939
 
 Mr Stirling [1] brought to my notice yesterday evening copy of the Minutes of a meeting of the Committee of Imperial Defence held on the 24th January last. [2] At this meeting, at which the Prime Minister [3] was present, consideration was given to an Appreciation on Empire Foreign Policy which had been prepared by the Chiefs of Staff. [4]
 
@@ -46,7 +56,7 @@ I later called on my New Zealand colleague for the purpose of acquainting him wi
 
 I propose to watch the matter closely and to concert with the High Commissioner for New Zealand [8] if and when necessary.
 
-_
+ _
 
 1 A.T. Stirling, External Affairs Officer in London.
 
@@ -104,4 +114,4 @@ H.L. ISMAY
 
 _
 
-_ [AA: M104, ITEM 7(1)]_
+ _[AA: M104, ITEM 7(1)]_

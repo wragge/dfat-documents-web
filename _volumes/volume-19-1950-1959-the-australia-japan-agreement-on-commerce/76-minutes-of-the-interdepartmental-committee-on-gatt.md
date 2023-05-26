@@ -1,14 +1,19 @@
 ---
-title: "76 Minutes Of The Interdepartmental Committee On Gatt"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7681
+doc_date: '1954-10-12'
+doc_num: 76
+doc_order: 76
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A609
+  reference: '[AA : A609/1, 555/120/14]'
+title: Minutes Of The Interdepartmental Committee On Gatt
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-10-12
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 76 Minutes Of The Interdepartmental Committee On Gatt
-
-## 12th October, 1954
+12th October, 1954
 
 Present:
 
@@ -38,8 +43,8 @@ The representatives of the Departments of Commerce and Agriculture, National Dev
 
 It was agreed that Prime Minister's Department should prepare a draft paper combining the three papers before the meeting taking into account the comments of the committee. The committee also agreed that the Department of Trade and Customs should prepare a list of some of the more important items which were considered vulnerable to Japanese competition and a statement on the administrative difficulties which would confront the Department if a trade agreement similar to the Canadian example were negotiated with Japan.
 
-_
+ _
 
 _
 
-_ [AA : A609/1, 555/120/14]_
+ _[AA : A609/1, 555/120/14]_

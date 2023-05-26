@@ -1,14 +1,19 @@
 ---
-title: "315 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2069
+doc_date: '1942-02-02'
+doc_num: 315
+doc_order: 316
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3830, 1942, 553]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-02
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 315 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
-
-## Cablegram 196 WASHINGTON, 2 February 1942, 12.02 a.m.
+Cablegram 196 WASHINGTON, 2 February 1942, 12.02 a.m.
 
 Lease-Lend Agreement. At direction of President [1], Acheson [2] saw British Ambassador [3] on 29th January with advice that United States Administration would like an early decision so that agreement could be signed. This has been communicated to London.
 
@@ -46,7 +51,7 @@ I believe you will receive telegraphed views shortly from the British Government
 
 CASEY
 
-_
+ _
 
 1 Franklin D. Roosevelt.
 
@@ -68,4 +73,4 @@ Govt intended to suggest to the U.S. Govt that at the same time as the Lend-Leas
 
 _
 
-_ [AA:A3830, 1942, 553]_
+ _[AA:A3830, 1942, 553]_

@@ -1,14 +1,19 @@
 ---
-title: "43 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1274
+doc_date: '1940-07-30'
+doc_num: 43
+doc_order: 43
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, i.6082]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-30
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 43 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram unnumbered LONDON, 30 July 1940, 9.30 p.m.
+Cablegram unnumbered LONDON, 30 July 1940, 9.30 p.m.
 
 Your telegram 30th July, Agricultural products [1], reached me after mine to-day's date had been despatched. Summary contained in my telegram is best estimate of position which can be obtained having regard to existing conditions here and uncertainty of future.
 
@@ -20,7 +25,7 @@ Whilst I am endeavouring strongly to have your full production lifted this year,
 
 BRUCE
 
-_
+ _
 
 1 Document 39.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A3195, 1940, i.6082]_
+ _[AA:A3195, 1940, i.6082]_

@@ -1,12 +1,17 @@
 ---
-title: "128 Cablegram From Spender to Casey"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8479
+doc_date: '1952-03-18'
+doc_num: 128
+doc_order: 128
+naa_refs:
+- naa_barcode: 247087
+  naa_control_symbol: '36982'
+  naa_series: A5461
+  reference: '[NAA : A5461, 1/4/1 (TS)]'
+title: Cablegram From Spender to Casey
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1952-03-18
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 128 Cablegram From Spender to Casey
 
 Cablegram, [Washington], 18 March 1952
 
@@ -36,10 +41,10 @@ My present thinking is as follows:
 
 (i) I agree the subordinate machinery must not be allowed to overshadow the Council itself for it will be in the Council where the prime decisions should be taken and the greatest pressure can be applied to uphold the power and influence of the whole consultative machinery.
 
-_ 1 Document 127.
+ _1 Document 127.
 
 2 T. C. Webb, New Zealand Minister of External Affairs.
 
 _
 
-_ [NAA : A5461, 1/4/1 (TS)]_
+ _[NAA : A5461, 1/4/1 (TS)]_

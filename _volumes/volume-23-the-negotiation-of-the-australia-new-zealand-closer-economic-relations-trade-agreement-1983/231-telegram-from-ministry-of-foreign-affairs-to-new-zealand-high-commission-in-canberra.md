@@ -1,18 +1,26 @@
 ---
-title: "231 Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9100
+doc_date: '1981-10-09'
+doc_num: 231
+doc_order: 231
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Ministry of Foreign Affairs to New Zealand High Commission in
+  Canberra
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-10-09
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 231 Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra
 
 Wellington, 9 October 1981
 
 No 3548. CONFIDENTIAL NZEO IMMEDIATE
 
-**CER: Elimination of Import Restrictions in Reasonable Time**
+ **CER: Elimination of Import Restrictions in Reasonable Time**
 
   1. Further to our separate message, you should know that very informal soundings have been taken of Manufacturers Federation Secretariat and Stevens (President) only of elected officers. A wider consultation with the Manufacturers Federation at this sensitive time (Federation conference later this month) would inevitably bring an unhelpful reaction.
   2. We have taken account of their reactions in suggesting following approach in your response to Australian officials. We suggest you initially try the following formulation:   
@@ -24,4 +32,4 @@ This is in line with the approach put to the CEC.
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 39 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 39 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

@@ -1,12 +1,17 @@
 ---
-title: "42 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1273
+doc_date: '1940-07-30'
+doc_num: 42
+doc_order: 42
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20B, i]'
+title: Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-30
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 42 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
 
 Cablegram unnumbered WELLINGTON, 30 July 1940, 9.10 p.m.
 
@@ -28,7 +33,7 @@ In our opinion, the position in the Far East whatever its day to day fluctuation
 
 The text of this communication is being repeated to the Secretary of State for Dominion Affairs as telegram No. 299.
 
-_
+ _
 
 1 The cablegram printed as Document 34 was repeated to Fraser on 29 July with a request for his observations and support. See file AA:A1608, A41/1/6, iii.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 20B, i]_
+ _[AA:A981, FAR EAST 20B, i]_

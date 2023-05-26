@@ -1,15 +1,19 @@
 ---
-title: "130 Submission 174 To Cabinet By Mcewen"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7735
+doc_date: '1956-05-16'
+doc_num: 130
+doc_order: 130
+naa_refs:
+- naa_barcode: 4714525
+  naa_control_symbol: '174'
+  naa_series: A4926
+  reference: '[AA : A4926, VOLUME 8]'
+title: Submission 174 To Cabinet By Mcewen
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1956-05-16
-barcode: 303365
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 130 Submission 174 To Cabinet By Mcewen
-
-## 16th May, 1956
+16th May, 1956
 
 Trade Negotiations with Japan 1. Following recent exploratory trade talks between Australian and Japanese officials in Canberra, in accordance with Cabinet's earlier approval, the way has now been cleared for trade negotiations with Japan looking toward a trade agreement. Our objective in such negotiations would be to protect our export interests by obtaining contractual benefits in Japan. In return, we would undertake commitments with the practical effect of reducing the extent to which we discriminate against imports from Japan.
 
@@ -121,7 +125,7 @@ Recommendation (a) That trade negotiations be entered into with Japan on the bas
 
 Attachment A Exports to Japan from Australia '000
 
-Year Butter Meat Barley Wheat &amp; Wool Other Total Flour 1950/51 55 15 3,290 2,720 51,500 3,950 61,600 1951/52 65 135 2,800 Nil 40,600 4,890 48,500 1952/53 801 39 8,730 2,140 66,700 5,570 84,000 1953/54 358 275 6,260 275 43,700 4,840 55,700 1954/55 108 307 3,420 1,460 46,100 7,200 58,600 Nine months 1955/56 49 107 3,140 6,530 42,700 6,660 59,200
+Year Butter Meat Barley Wheat & Wool Other Total Flour 1950/51 55 15 3,290 2,720 51,500 3,950 61,600 1951/52 65 135 2,800 Nil 40,600 4,890 48,500 1952/53 801 39 8,730 2,140 66,700 5,570 84,000 1953/54 358 275 6,260 275 43,700 4,840 55,700 1954/55 108 307 3,420 1,460 46,100 7,200 58,600 Nine months 1955/56 49 107 3,140 6,530 42,700 6,660 59,200
 
 Attachment B Imports from Japan into Australia '000
 
@@ -129,8 +133,8 @@ Commodity 1950/51 1951/52 1952/53 1953/54 1954/55 1955/56 9 months Piecegoods (m
 
 Other 564 4,855 319 1,121 782 4,400 Total 15,600 43,600 4,700 6,540 18,400 17,900
 
-_
+ _
 
 _
 
-_ [ [AA : A4926, VOLUME 8](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=303365) ]_
+ _[AA : A4926, VOLUME 8]_

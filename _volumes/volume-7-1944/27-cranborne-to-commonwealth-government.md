@@ -1,12 +1,17 @@
 ---
-title: "27 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2674
+doc_date: '1944-01-19'
+doc_num: 27
+doc_order: 27
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, E43-44/1000/4/1]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 27 Cranborne to Commonwealth Government
 
 Cablegram 21 LONDON, 19 January 1944, 10.27 p.m.
 
@@ -34,7 +39,7 @@ Meanwhile, the prospects of unity between Greek bands have improved.
 
 7\. Italy It remains our intention to encourage the formation of a widely- based Government as soon as practicable and Badoglio [6] has, in fact, stated that the present Government would resign as soon as Rome falls. But we very much doubt whether any of the political personalities now assembled at Naples will play a prominent part in whatever Government succeeds the present one. Macmillan [7] describes the majority of them as 'typical small-town politicians'.
 
-_
+ _
 
 1 Document 10.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:A989, E43-44/1000/4/1]_
+ _[AA:A989, E43-44/1000/4/1]_

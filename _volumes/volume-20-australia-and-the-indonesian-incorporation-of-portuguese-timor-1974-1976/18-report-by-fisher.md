@@ -1,27 +1,35 @@
 ---
-title: "18 Report by Fisher"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7857
+doc_date: 1974-07
+doc_num: 18
+doc_order: 18
+naa_refs:
+- naa_barcode: 4151554
+  naa_control_symbol: 801/13/11/1 PART 2
+  naa_series: A10005
+  reference: '[NAA: AI0463, 801/13/11/1, ii]'
+title: Report by Fisher
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 18 Report by Fisher
 
 Jakarta, [July 1974]1
 
 CONFIDENTIAL
 
-**Visit to Indonesian Timor and Flores**
+ **Visit to Indonesian Timor and Flores**
 
 The main purpose of my visit to Indonesian Timor and Flores from 19-27 July was to try to ascertain attitudes to Portuguese Timor in light of the recent developments in Portugal and in Portugal's overseas provinces. The following is an assessment of the current state of relations between the Indonesian and Portuguese parts of Timor and the attitudes of the Indonesian part to its neighbour.
 
-_ [matter omitted]_
+ _[matter omitted]_
 
   5. The Indonesians seem relaxed about security in the border areas. There are no regular patrols and border posts are located only at the rare exit and entry points used by travellers. Border surveillance is the responsibility of the police who are assisted in more inaccessible areas by civil defence personnel (HANSIP). The Commander of the NTT Defence Resort (KOREM) informed me that of the NTT based battalion (consisting of about 700 infantry) only a small percentage were located within reach of the border area at Atambua. (I heard independently that the number of troops in Atambua was about 100.) The KOREM Commander pointed out that the Portuguese guarded the border area more tightly than the Indonesians. Incidents were rare and were limited largely to settling disputes such as who owned cattle which wandered over the border. There was a good working understanding between the Indonesian and Portuguese security authorities in the border area. The recent establishment of a new Indonesian immigration office in Atambua was not so much due to Indonesian concern about dangers of infiltration from Portuguese Timor but intended more to cope with the increase in the number of tourists entering Indonesia by road from Dili. It was apparent from the discussions I had that the Indonesians saw the advantages of loose border surveillance as outweighing the disadvantages.
 
 
 
-_ Developments Since the Coup in Portugal_
+ _Developments Since the Coup in Portugal_
 
   6. There is a heightened interest in developments in Portuguese Timor among educated people in Kupang. However, except perhaps in border areas such as the Kabupaten of Belu (the main city in which is Atarnbua), people living in the interior, although aware of the existence of Portuguese Timor, have no real knowledge of or interest in developments there.
   7. Following the coup in Portugal, a delegation from Portuguese Timor, headed by a major, visited Kupang to explain developments to Governor El Tari. The delegation mentioned the possibility of an early referendum in Portuguese Timor and requested El Tari to respect this and retain a business as usual approach while Portuguese Timor sorted out its future. El Tari reportedly gave this assurance to the delegation.
@@ -31,17 +39,15 @@ _ Developments Since the Coup in Portugal_
 
 
 
-_ OPSUS and Portuguese Timor_
+ _OPSUS and Portuguese Timor_
 
   11. A key element in the Kupang situation is the role of OPSUS (Special Operation), which has a strong nucleus there. One of the more influential OPSUS agents, who is still only in his mid-twenties, is a Catholic from Ende in Flores and a member of the PDI faction in the DPRD. He served in Irian Jaya as an OPSUS agent at the time of the Act of Free Choice, which he admitted had been a carefully organised operation. Achieving the right result in Irian Jaya had not been difficult, and he readily admitted that it would likewise not be difficult to influence the result of a plebiscite in Portuguese Timor. At the same time, he acknowledged the completely different set of circumstances that obtained in the case of Portuguese Timor. The Indonesians could not claim that Portuguese Timor properly belonged to Indonesia because of former Dutch rule, as the Dutch had never ruled what is now Portuguese Timor. He stressed that Indonesia would need to be very careful in its handling of any action taken to influence Portuguese Timor in view of possible unfavourable international reaction to any evidence of Indonesian foul play. However, in view of the similarities in race, culture and language between those on both sides of the border, it would be an easy matter to launch a sophisticated infiltration campaign. Those used in the operation would be largely Tetum-speaking residents of the Kabupaten of Belu. Although their dialect of Tetum varied somewhat from that spoken in Portuguese Timor, there would be no problem in their being understood or passing for Portuguese Timorese. Producing the required Portuguese passports would not represent a problem.
 
 
 
-_ [matter omitted]2_
+ _[matter omitted][2](#f2)_
 
-_ [NAA: AI0463, 801/13/11/1, ii]_
+ _[NAA: AI0463, 801/13/11/1, ii]_
 
   * 1 The report itself is undated. A covering letter bears the date 31 July. 
   * 2 The remainder of the report compares East and West Timor, noting some similarities but also diversity of culture and traditions predating Dutch and Portuguese colonial influences.
-
-

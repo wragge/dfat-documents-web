@@ -1,12 +1,17 @@
 ---
-title: "32 Evatt to Makin"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3880
+doc_date: '1946-07-20'
+doc_num: 32
+doc_order: 32
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A4311
+  reference: '[AA:A4311, BOX 481]'
+title: Evatt to Makin
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-07-20
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 32 Evatt to Makin
 
 Cablegram 1005 WASHINGTON, 20 July 1946, 12.52 a.m.
 
@@ -30,7 +35,7 @@ However the points should be limited to those few matters covered by my own draf
 
 7\. Frankly I feel that both Bailey and Eggleston are pushing the matter of imposing duties upon Australia a good deal further than I would go and, as I have already indicated, further than the Charter suggests or requires. I am determined that if possible the trusteeship system should succeed. At the same time the authority of Australia in the territory under the trusteeship agreement is a matter of deep public concern and everything should be done to make this perfectly plain including the fact that our authority in relation to fortification and defence will be extended as a result of converting the mandate into a trusteeship. It should also be stressed that if the terms we desire to have included are not agreed to then the existing state of affairs continues and our jurisdiction and practical sovereignty will remain indefinitely. I would commend to you a careful review of all my telegrams and consultation with Burton and perhaps Forsyth too, if he is physically fit again.
 
-_
+ _
 
 1 Document 28.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A4311, BOX 481]_
+ _[AA:A4311, BOX 481]_

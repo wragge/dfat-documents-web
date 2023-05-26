@@ -1,12 +1,18 @@
 ---
-title: "400 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2154
+doc_date: '1942-03-09'
+doc_num: 400
+doc_order: 401
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.10047]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-09
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 400 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 41[A] LONDON, 9 March 1942, 9.50 p.m.
 
@@ -16,7 +22,7 @@ As I am not directly and primarily handling the vital questions now under discus
 
 In my telegram No. 16 of 25th January [3], I indicated for reasons therein given that in my view it was desirable that our influence in the higher direction of the war in the Pacific and Far East should be exercised through the Pacific Council in London. That view I have now changed for the reason given in a note (see my immediately following telegram [4]) I prepared to clear my own mind after receipt of your telegram 166 to the Dominions Office. [5] I am doing everything I can to get support from here with the President [6] for acceptance of your proposal. The point with regard to King 
 
-_ adjustment in working out the scheme.
+_adjustment in working out the scheme.
 
 Some delay is however inevitable in getting the machine working in Washington. In the meantime the vital sea and air communications with Australia must be safeguarded, the maximum flow of aeroplanes, tanks and other munitions must be ensured and plans for our earliest possible reinforcement must be prepared.
 
@@ -52,4 +58,4 @@ BRUCE
 
 _
 
-_ [7] (Prime Minister's telegram 294 [8]) should be possible of_
+ _[7] (Prime Minister's telegram 294 [8]) should be possible of_

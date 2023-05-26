@@ -1,24 +1,27 @@
 ---
-title: "215 LETTER, RANDALL TO WHITELAW"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10080
+doc_date: '1963-02-08'
+doc_num: 215
+doc_order: 215
+naa_refs:
+- naa_barcode: 1169831
+  naa_control_symbol: 1963/320 PART 2
+  naa_series: A571
+  reference: '[NAA: A571, 1963/320 PART 2]'
+title: LETTER, RANDALL TO WHITELAW
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1963-02-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 215 LETTER, RANDALL TO WHITELAW
-
-NAA: A571, 1963/320 PART 2 
 
 Canberra, 8 February 1963
 
 Personal And Confidential
 
-Your account of the talk you had with Arnold France1 on the morrow of the Brussels breakdown was altogether fascinating. 2 Arnold is such an out and out zealot for British entry that the rebuff must have taxed even the iron self-control he has over his feelings; but his response, as you note, must have been as close as anyone could get to the line the inner core of Whitehall was trying to take.
+Your account of the talk you had with Arnold France[1](#f1) on the morrow of the Brussels breakdown was altogether fascinating. [2](#f2) Arnold is such an out and out zealot for British entry that the rebuff must have taxed even the iron self-control he has over his feelings; but his response, as you note, must have been as close as anyone could get to the line the inner core of Whitehall was trying to take.
 
 I am fond of Arnold and admire his singlemindedness. I fear though that, intellectually, he suffers the same sort of disability as I have, optically, when I shed my lenses to don the heavy specs. Straight ahead vision is perfect; look sideways and things take on the most peculiar shapes and directions. Give Arnold a straight ahead course and he will pursue it relentlessly. The trouble is however that everything on either side of him is for the time being shut out from view, or at best seen most imperfectly. On the Common Market issue, of course, I am quite sure that, like others round him, his dismissal of the Commonwealth and indeed of the wider world as an alternative for Britain is a necessary part of his defence against any assault on the policy line he has adopted or has been given to follow. Perhaps it is a little unkind to recall that when I first knew him in 1952 he was just about as heavily sold on convertibility and freer world trade and payments as he now is on the Common Market.
 
-Official sympathy for the British Government has been expressed here. I would not however care to say how deeply or strongly it is felt. For my part I have no share in it whatever. There is not the slightest doubt in my mind that to get into the Common Market, chiefly for reasons of their own, political and otherwise, the British Government were prepared to sell out the Commonwealth and perhaps anyone else that stood in their way. So far as I can see they had pretty well accomplished this by the time de Gaulle put his foot down; Jack Campbell3 confirmed that view entirely when he got home. His remark was that Britain had only to give a few more things away and they would have been able to sign on the dotted line even for de Gaulle. Could it be that de Gaulle and his astute officials having realised the British game, saw the looming possibility of a more or less complete British surrender and decided to act to prevent the embarrassment it could have been for them? I have been quite certain all along that chaps like Wormser4 were dead against the British coming in and were prepared to do almost anything to prevent it.
+Official sympathy for the British Government has been expressed here. I would not however care to say how deeply or strongly it is felt. For my part I have no share in it whatever. There is not the slightest doubt in my mind that to get into the Common Market, chiefly for reasons of their own, political and otherwise, the British Government were prepared to sell out the Commonwealth and perhaps anyone else that stood in their way. So far as I can see they had pretty well accomplished this by the time de Gaulle put his foot down; Jack Campbell[3](#f3) confirmed that view entirely when he got home. His remark was that Britain had only to give a few more things away and they would have been able to sign on the dotted line even for de Gaulle. Could it be that de Gaulle and his astute officials having realised the British game, saw the looming possibility of a more or less complete British surrender and decided to act to prevent the embarrassment it could have been for them? I have been quite certain all along that chaps like Wormser[4](#f4) were dead against the British coming in and were prepared to do almost anything to prevent it.
 
 We are of course hearing plenty of the story that this is not to be regarded even as a breakdown in the talks,—merely a postponement of issues. I wonder!! But it seems hardly conceivable that the talks can be resumed unless and until de Gaulle subsides from one cause or another.
 
@@ -26,7 +29,7 @@ What about the domestic political situation in the United Kingdom? Even after th
 
 Comment here was largely muffled but my own sense of it would be that there was generally a reaction of relief.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 1  Third Secretary, Treasury, 1960–63. 
 
@@ -35,3 +38,5 @@ Comment here was largely muffled but my own sense of it would be that there was 
 3  Assistant Secretary, Department of Trade and Industry. 
 
 4  Olivier Wormser, Director of Economic and Financial Affairs at the French Foreign Ministry. 
+
+[NAA: A571, 1963/320 PART 2]

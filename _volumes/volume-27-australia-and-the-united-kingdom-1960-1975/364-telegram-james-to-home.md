@@ -1,20 +1,23 @@
 ---
-title: "364 TELEGRAM, JAMES TO HOME"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10230
+doc_date: '1972-12-19'
+doc_num: 364
+doc_order: 364
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1318]'
+title: TELEGRAM, JAMES TO HOME
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-12-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 364 TELEGRAM, JAMES TO HOME
-
-UKNA: FCO 24/1318
 
 British High Commission, Canberra, 19 December 1972
 
 1781\. Confidential
 
-**Immigration**
+ **Immigration**
 
 1\. I saw Sir K. Waller (Secretary, DFA) accordingly today, 19 December, and spoke as agreed.
 
@@ -24,9 +27,9 @@ British High Commission, Canberra, 19 December 1972
 
 ‘We don’t accept representations about our immigration policy, and would not (repeat not) want to be put in the position of commenting on yours’.
 
-4\. After further discussion, during which I argued as foreshadowed in your para 2 of your tel under reference, 1 Waller conceded that it might be feasible ‘to work towards something short of full consultations’ (as he thought a visit here by British officials could be regarded if it involved no more than preliminary exchanges without commitment on either side). He said he was hopeful that a solution could be found between us which would meet inescapable Australian conditions whilst adequately taking care of British Government’s position in House of Commons. He promised to discuss whole matter with Prime Minister as soon as possible. I thanked him, and said that I hoped when I saw Mr Whitlam—as I trusted I should very soon be able to do—it would have proved helpful for me to go over ground in this way with Waller.
+4\. After further discussion, during which I argued as foreshadowed in your para 2 of your tel under reference, [1](#f1) Waller conceded that it might be feasible ‘to work towards something short of full consultations’ (as he thought a visit here by British officials could be regarded if it involved no more than preliminary exchanges without commitment on either side). He said he was hopeful that a solution could be found between us which would meet inescapable Australian conditions whilst adequately taking care of British Government’s position in House of Commons. He promised to discuss whole matter with Prime Minister as soon as possible. I thanked him, and said that I hoped when I saw Mr Whitlam—as I trusted I should very soon be able to do—it would have proved helpful for me to go over ground in this way with Waller.
 
-5\. I left with Waller a bout de papier (based on your tels 1330 and 1338)2 embodying most—though not all—of the points I had made to him. (Copy will follow by bag).3
+5\. I left with Waller a bout de papier (based on your tels 1330 and 1338)[2](#f2) embodying most—though not all—of the points I had made to him. (Copy will follow by bag).[3](#f3)
 
 6\. I have just heard that Prime Minister will see me at 1730 hrs Canberra time tomorrow 20 December.
 
@@ -35,3 +38,5 @@ British High Commission, Canberra, 19 December 1972
 2  Documents 360 and 363. 
 
 3  Document 365. 
+
+[UKNA: FCO 24/1318]

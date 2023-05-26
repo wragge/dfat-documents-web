@@ -1,14 +1,20 @@
 ---
-title: "47 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1278
+doc_date: '1940-08-02'
+doc_num: 47
+doc_order: 47
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, 1.6201]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-02
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 47 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram 279 LONDON, 2 August 1940, 3.20 a.m.
+Cablegram 279 LONDON, 2 August 1940, 3.20 a.m.
 
 IMPORTANT
 
@@ -20,7 +26,7 @@ Taking into consideration the guarantee of safety offered by Governor, we also w
 
 Although the matter is entirely one for the New Zealand Government to decide, United Kingdom Government also consider that provided that such a course would be acceptable to Tahiti authorities, it would be useful if the proposed special mission could proceed to Tahiti. [4] This would assist strengthening liaison with Tahiti, especially as the British Consul there is without assistants or reliable cyphers and is not a career official.
 
-_
+ _
 
 1 See file AA:A1608, D41/1/9, i.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA:A3195, 1940, 1.6201]_
+ _[AA:A3195, 1940, 1.6201]_

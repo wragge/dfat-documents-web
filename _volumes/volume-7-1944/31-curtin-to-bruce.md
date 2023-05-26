@@ -1,14 +1,19 @@
 ---
-title: "31 Curtin to Bruce"
-volume: "Volume 7: 1944"
-doc_id: 2678
+doc_date: '1944-01-25'
+doc_num: 31
+doc_order: 31
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: no part 3
+  naa_series: A989
+  reference: '[AA:A989, 43/460/10/2, iii]'
+title: Curtin to Bruce
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-25
+vol_title: 'Volume 7: 1944'
 ---
 
-# 31 Curtin to Bruce
-
-## Cablegram 11 CANBERRA, 25 January 1944
+Cablegram 11 CANBERRA, 25 January 1944
 
 MOST IMMEDIATE
 
@@ -18,7 +23,7 @@ MOST IMMEDIATE
 
 3\. In circumstances Australian Government cannot possibly alter its prior decision? Please advise United Kingdom Government accordingly.
 
-_
+ _
 
 1 Dispatched 24 December 1943. On file AA: A989, 43/460/10/2, ii.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A989, 43/460/10/2, iii]_
+ _[AA:A989, 43/460/10/2, iii]_

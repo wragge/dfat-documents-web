@@ -1,12 +1,18 @@
 ---
-title: "222 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia"
-volume: "Volume 2: 1939"
-doc_id: 559
+doc_date: '1939-09-12'
+doc_num: 222
+doc_order: 222
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: AA1972/341
+  reference: '[AA:AA 1972/341, Box 6, CABLES ETC..... DECEMBER 1939]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard,
+  U.K. High Commissioner to Australia
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-12
+vol_title: 'Volume 2: 1939'
 ---
-
-# 222 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia
 
 Cablegram 200 LONDON, 12 September 1939, 10.08 p.m.
 
@@ -32,7 +38,7 @@ both Japanese hostility and neutrality. We appreciate that whether or not it wil
 
 191) west of Suez, and it is realised that the availability of naval and air force personnel from Australia and technicians of all three services must of course depend on the extent to which these could otherwise be usefully employed in the Australian forces.
 
-_
+ _
 
 1 Document 219.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA:AA 1972/341, Box 6, CABLES ETC..... DECEMBER 1939]_
+ _[AA:AA 1972/341, Box 6, CABLES ETC..... DECEMBER 1939]_

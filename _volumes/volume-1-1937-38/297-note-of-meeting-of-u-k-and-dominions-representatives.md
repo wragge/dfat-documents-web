@@ -1,12 +1,17 @@
 ---
-title: "297 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 296
+doc_date: '1938-10-01'
+doc_num: 297
+doc_order: 296
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-10-01
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 297 Note of Meeting of U.K. and Dominions Representatives
 
 Extracts LONDON, 1 October 1938, 11.30 a.m.
 
@@ -32,7 +37,7 @@ MR BRUCE enquired what was now the position with regard to the Polish ultimatum?
 
 SIR HARRY BATTERBEE, who had left the meeting to consult the Foreign Office, returned to say that the most recent information obtainable was to the effect that the Prime Minister would address a personal appeal to M. Beck [4], that the French Government had already taken action and believed that they had persuaded the Polish Government to defer action for 24 hours, and that His Majesty's Ambassador at Berlin [5] was being instructed to approach the German Government (not Herr Hitler personally) informing them of the Prime Minister's communication to M. Beck, and inviting them to support it. (It was subsequently confirmed that this action had been taken.) THE DOMINION REPRESENTATIVES assumed that the United Kingdom Government would also seek Signor Mussolini's co-operation in the matter.
 
-_
+ _
 
 1 Neville Chamberlain.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

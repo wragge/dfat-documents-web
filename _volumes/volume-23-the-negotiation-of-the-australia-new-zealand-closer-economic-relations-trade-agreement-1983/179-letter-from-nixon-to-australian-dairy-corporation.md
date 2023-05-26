@@ -1,14 +1,21 @@
 ---
-title: "179 Letter from Nixon to Australian Dairy Corporation"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9048
+doc_date: '1982-02-09'
+doc_num: 179
+doc_order: 179
+naa_refs:
+- naa_barcode: 11557133
+  naa_control_symbol: 1982/1381 PART 3
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 82/1381, iii]'
+title: Letter from Nixon to Australian Dairy Corporation
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-02-09
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 179 Letter from Nixon to Australian Dairy Corporation
-
-## Canberra, 9 February 1982
+Canberra, 9 February 1982
 
 I am writing to you in the light of my request at our meeting on 27 January 1982 to list closer economic relations (CER) with New Zealand on the agenda of the forthcoming meeting of the Australia- New Zealand Joint Industry Consultative Committee (nCC) in Melbourne on 15 February 1982.
 
@@ -30,4 +37,4 @@ In the light of developments at the forthcoming nee meeting, I will review the p
 
 I have enclosed a copy of my speech to Agricultural Council so that you might appreciate the underlying considerations which were influential in my assessment of the dairy position.
 
-_[NAA: A1313/113, 82/1381, iii]_
+ _[NAA: A1313/113, 82/1381, iii]_

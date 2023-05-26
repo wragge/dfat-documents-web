@@ -1,12 +1,18 @@
 ---
-title: "63 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1817
+doc_date: '1941-09-11'
+doc_num: 63
+doc_order: 64
+naa_refs:
+- naa_barcode: 176218
+  naa_control_symbol: FAR 20 PART 2
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20A, ii]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-11
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 63 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 592 [1] CANBERRA, 11 September 1941
 
@@ -20,7 +26,7 @@ As to future imports the Japanese Legation has been informed that unless the Com
 
 Para. 6, M.223 . [7] Imports from Japan are now under examination to determine the nature and extent of essential Australian requirements from Japan. Goods which might be permitted export to Japan in payment for any authorised essential imports will it is expected be confined to wheat, flour, and other foodstuffs, and such quantities of wool as are released from time to time in consultation with United Kingdom Government or your Wool Control Committee. The value of these exports would be limited to the available funds from proceeds of permitted imports from Japan.
 
-_
+ _
 
 1 Repeated to the N.Z. [Acting] Prime Minister as no. 354.
 
@@ -36,4 +42,4 @@ On 11 September the U.K. Govt sought the Commonwealth Govt's reply to the above 
 
 _
 
-_ [AA:A981, FAR EAST 20A, ii]_
+ _[AA:A981, FAR EAST 20A, ii]_

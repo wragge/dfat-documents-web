@@ -1,37 +1,135 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
-
-    <!-- Bootstrap -->
-    <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <title>Documents on Australian Foreign Policy :: {{ page.vol_full_title }} :: {{ page.doc_num }} {{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <script defer src="{{ site.baseurl }}/assets/js/fa-all.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery-3.4.1.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/nav.js"></script>
   </head>
   <body>
-    {% include _nav.html %}
+  {% include _nav.html %}
+  <section class="section">
     <div class="container">
-    <ol class="breadcrumb">
-      <li><a href="{{site.baseurl}}/">Home</a></li>
-      <li><a href="{{site.baseurl}}/volumes/{{ page.volume | slugify }}/">{{ page.volume }}</a></li>
-      <li class="active">{{ page.title }}</li>
-    </ol>
-      {{ content }}
-      {% include _footer.html %}
-    </div>
+    <nav class="breadcrumb" aria-label="breadcrumbs">
+        <ul>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/volumes/{{ page.vol_title | slugify }}/">{{ page.vol_full_title }}</a></li>
+          <li class="is-active"><a href="" aria-current="page">{{ page.title | truncate }}</a></li>
+        </ul>
+    </nav>
+      <div class="columns">
+          <div class="column is-narrow is-size-1 doc_number">
+              {% if page.doc_num != 0 %}
+                {{ page.doc_num }}
+              {% endif %}
+          </div>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="{{site.baseurl}}/assets/js/bootstrap.min.js"></script>
+          <div class="column">
+              <h1 class="title is-uppercase">
+                {{page.title}}
+              </h1>
+              <div class="columns is-8 is-variable">
+                  <div class="column is-three-fifths">
+                      <div class="content">
+                          {{ content }}
+                      </div>
+                  </div>
+                  <div class="column sidebar">
+                      <h6 class="title is-6">Date</h6>
+                      <div class="content">
+                          <p>
+                              {% if page.doc_date.size == 10 %}
+                                  {{ page.doc_date | date: '%e %B %Y'}}
+                              {% elsif page.doc_date.size == 7 %}
+                                  {{ page.doc_date | append: "-01" | date: '%B %Y'}}
+                              {% elsif page.doc_date.size == 4 %}
+                                  {{ page.doc_date | append: "-01-01" | date: '%Y'}}
+                              {% endif %}
+                          </p>
+                      </div>
+                      {% if page.naa_refs.size > 0 %}
+                      <h6 class="title is-6">Sources</h6>
+                      <div class="content">
+                          <ul>
+                              {% for ref in page.naa_refs %}
+                                <li>
+                                    {% if ref.naa_barcode > 0 %}
+                                        <a href="https://recordsearch.naa.gov.au/scripts/AutoSearch.asp?O=I&Number={{ ref.naa_barcode }}">NAA: {{ ref.naa_series }}, {{ ref.naa_control_symbol }}</a>
+                                    {% else %}
+                                        <a href="https://recordsearch.naa.gov.au/scripts/AutoSearch.asp?O=S&Number={{ ref.series }}">NAA: {{ ref.naa_series }}</a>
+                                    {% endif %}
+                                </li>
+                              {% endfor %}
+                          </ul>
+                      </div>
+                      <h6 class="title is-6">Related documents</h6>
+                      <div class="content">
+                          <ul>
+                              {% for ref in page.naa_refs %}
+                                <li>
+                                    {% if ref.naa_barcode > 0 %}
+                                        <a href="{{ site.baseurl }}/search/?query=&query_type=and&fields=title&volume=&start_date=&end_date=&series=&barcodes={{ ref.naa_barcode }}&start=0">More from NAA: {{ ref.naa_series }}, {{ ref.naa_control_symbol }}</a>
+                                    {% else %}
+                                        <a href="{{ site.baseurl }}/search/?query=&query_type=and&fields=title&volume=&start_date=&end_date=&series={{ ref.naa_series }}&barcodes=&start=0">More from NAA: {{ ref.naa_series }}</a>
+                                    {% endif %}
+                                </li>
+                              {% endfor %}
+                          </ul>
+                      </div>
+                      {% endif %}
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+  </section>
+  {% include _footer.html %}
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org/",
+    "@graph": [
+        {
+            "@id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+            "@type": "CreativeWork",
+            "name": "{{ page.title }}",
+            "isPartOf": "{{ site.url }}{{ site.baseurl }}/volumes/{{ page.vol_title | slugify }}/",
+
+            "citation": [
+                {% for ref in page.naa_refs %}"https://recordsearch.naa.gov.au/scripts/AutoSearch.asp?O=I&Number={{ ref.naa_barcode }}"{% if forloop.last != true %},{% endif %}{% endfor %}
+            ],
+            "dateCreated": "{{ page.doc_date }}"
+        },
+        {
+            "@id": "{{ site.url }}{{ site.baseurl }}/volumes/{{ page.vol_title | slugify }}/",
+            "@type": "Book",
+            "name": "{{ page.vol_full_title }}",
+            "publisher": "DFAT"
+        }{% for ref in page.naa_refs %},
+        {
+            "@id": "https://recordsearch.naa.gov.au/scripts/AutoSearch.asp?O=I&Number={{ ref.naa_barcode }}",
+            "@type": "ArchiveComponent",
+            "name": "NAA: {{ ref.naa_series }}, {{ ref.naa_control_symbol }}",
+            "identifier": "{{ ref.naa_barcode }}",
+            "holdingArchive": "NAA"
+        }{% endfor %},
+        {
+            "@id": "NAA",
+            "@type": "ArchiveOrganization",
+            "name": "National Archives of Australia",
+            "url": "https://naa.gov.au"
+        },
+        {
+            "@id": "DFAT",
+            "@type": "GovernmentOrganization",
+            "name": "Department of Foreign Affairs and Trade",
+            "url": "https://dfat.gov.au/"
+        }
+
+    ]
+  }
+  </script>
   </body>
 </html>

@@ -1,12 +1,18 @@
 ---
-title: "279 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1510
+doc_date: '1941-02-07'
+doc_num: 279
+doc_order: 279
+naa_refs:
+- naa_barcode: 176224
+  naa_control_symbol: FAR 25 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 25B, i]'
+title: Mr A. S. Watt, First Secretary of the Legation in Washington, to Department
+  of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 279 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs
 
 Cablegram 99 WASHINGTON, 7 February 1941, 5.51 p.m.
 
@@ -24,7 +30,7 @@ My telegram No. 98. [1] For Chief of Naval Staff [2] only from Naval Attache. [3
 
 (5) United Kingdom delegation will return to the attack on the lines of their instructions. Present indications are that it is improbable that Delegation will succeed in moving the Pacific Fleet westward. Delegation thinks any reinforcement of Asiatic Fleet would only be agreed upon at the expense of Atlantic and Mediterranean.
 
-_
+ _
 
 1 Document 278.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 25B, i]_
+ _[AA:A981, FAR EAST 25B, i]_

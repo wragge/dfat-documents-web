@@ -1,12 +1,18 @@
 ---
-title: "273 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2027
+doc_date: '1942-01-12'
+doc_num: 273
+doc_order: 274
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.1751]'
+title: Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-12
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 273 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister
 
 Cablegram Winch 9 [WASHINGTON, 12 January 1942, 2.35 P.m.] [1]
 
@@ -66,7 +72,7 @@ You will realise that decisions had to be taken at once and I hope that you will
 
 CHURCHILL
 
-_
+ _
 
 1 Material in square brackets has been corrected/inserted from the Washington copy on file AA:A3300, 219. This cablegram was dispatched to London and retransmitted to Canberra at 3.50 p.m. on 14 January (See AA:A3195, 1942, 1.1751).
 
@@ -84,4 +90,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.1751]_
+ _[AA:A3195, 1942, 1.1751]_

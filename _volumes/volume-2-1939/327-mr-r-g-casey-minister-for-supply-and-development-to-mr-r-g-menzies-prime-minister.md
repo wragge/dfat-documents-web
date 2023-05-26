@@ -1,12 +1,19 @@
 ---
-title: "327 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 664
+doc_date: '1939-11-05'
+doc_num: 327
+doc_order: 327
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DEFENCE: SPECIAL COLLECTION 1, SR I/I, BOX 384, STRATEGICAL APPRECIATION
+    BY U.K. CHIEFS OF STAFF]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-05
+vol_title: 'Volume 2: 1939'
 ---
-
-# 327 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
 
 Cablegram C4 LONDON, 5 November 1939
 
@@ -64,10 +71,10 @@ Northcott [2] and I are going to France on Thursday evening 9th November, arrivi
 
 CASEY
 
-_ 1 Neville Chamberlain, U.K. Prime Minister.
+ _1 Neville Chamberlain, U.K. Prime Minister.
 
 2 Maj Gen J. Northcott, Deputy Chief of the General Staff and military adviser to Casey.
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION 1, SR I/I, BOX 384, STRATEGICAL APPRECIATION BY U.K. CHIEFS OF STAFF]_
+ _[DEFENCE: SPECIAL COLLECTION 1, SR I/I, BOX 384, STRATEGICAL APPRECIATION BY U.K. CHIEFS OF STAFF]_

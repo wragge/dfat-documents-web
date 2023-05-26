@@ -1,12 +1,18 @@
 ---
-title: "25 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1779
+doc_date: '1941-07-31'
+doc_num: 25
+doc_order: 26
+naa_refs:
+- naa_barcode: 176617
+  naa_control_symbol: GREEC 19
+  naa_series: A981
+  reference: '[AA : A981, GREECE 19]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-31
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 25 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 600 LONDON, 31 July 1941, 8.30 p.m.
 
@@ -36,7 +42,7 @@ whether he has held diplomatic posts and whether he is a senior man) of present 
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 26 July. It requested Bruce's comments on the Greek Govt's proposal to establish diplomatic missions in Australia, New Zealand, South Africa and Canada, which had been conveyed to the Commonwealth Govt in Dominions Office dispatch 63 of 19 June. All documents are on file AA : A981, Greece 19.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [AA : A981, GREECE 19]_
+ _[AA : A981, GREECE 19]_

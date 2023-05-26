@@ -1,12 +1,17 @@
 ---
-title: "338 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 675
+doc_date: '1939-11-09'
+doc_num: 338
+doc_order: 338
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 338 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 632 LONDON, 9 November 1939
 
@@ -16,7 +21,7 @@ Washington. In conversations with Casey [1] the only reference I made to him per
 
 BRUCE
 
-_
+ _
 
 1 See Document 335.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

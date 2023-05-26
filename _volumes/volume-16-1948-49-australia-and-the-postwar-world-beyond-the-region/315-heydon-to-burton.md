@@ -1,12 +1,17 @@
 ---
-title: "315 Heydon to Burton"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7030
+doc_date: '1948-01-27'
+doc_num: 315
+doc_order: 315
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, I.1586]'
+title: Heydon to Burton
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-01-27
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 315 Heydon to Burton
 
 Cablegram 318, LONDON, 27 January 1948, 6.15 p.m.
 
@@ -20,10 +25,10 @@ After Attlee's speech of 3rd January which I thought indicated trend which Bevin
 
 3\. Am writing fully to let you know methods used here of maintaining continuous contact and would appreciate your suggestions for improvement.
 
-_ [1] Document 312.
+ _[1] Document 312.
 
 [2] Economic Recovery Program.
 
 _
 
-_ [AA : A3195, I.1586]_
+ _[AA : A3195, I.1586]_

@@ -1,16 +1,21 @@
 ---
-title: "234 Melville to Burton"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6949
+doc_date: '1949-06-07'
+doc_num: 234
+doc_order: 234
+naa_refs:
+- naa_barcode: 545360
+  naa_control_symbol: 701/8/1/1 A
+  naa_series: A1838
+  reference: '[AA : A1838, 701/8/1/1A]'
+title: Melville to Burton
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1949-06-07
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 234 Melville to Burton
 
 Letter, SYDNEY, 7 June 1949
 
-PERSONAL &amp; CONFIDENTIAL
+PERSONAL & CONFIDENTIAL
 
 1\. I enclose a copy of the report of the Sub-Commission on Employment and Economic Stability prepared at its 3rd Session from 11th to 22nd April, 1949.
 
@@ -64,7 +69,7 @@ The work that the Sub-Commission can most usefully do is to produce reports that
 
 19\. Broadly I would agree with many of the comments and criticisms of the Sub-Commission made by Mr. Frisch in document E/CN. 1/67; in particular with the comment in paragraph 36 that 'only qualitative work of the highest level will be able to sustain the prestige of United Nations initiative in this field. The Sub-Commission on Employment and Economic Stability should support this prestige not by the formulation of generalities but by technically competent analysis of difficult matters.' 20. Mr. Frisch sets out how he thinks the Sub-Commission could go about this task. I doubt whether the procedure he suggests would give the results for which he hopes. My own views on procedure were sketched in my letter of 18th May, 1948. Following this last meeting of the Sub-Commission I see no reason to modify the suggestions I then made, except to express greater doubt about the wisdom of continuing the Sub-Commission for the tasks which I then suggested it might do. The continually changing membership of the Sub-Commission, the reluctance of most of the members to attempt anything more ambitious than the making of general comments on some question of topical interest, and the mechanical difficulties of tackling any really fundamental problems in a body constituted in this way, lead me to doubt whether the time and money spent in bringing together the members of the Sub-Commission will be justified by a sufficiently useful addition to the work which could be done in the other ways I have suggested.
 
-_ [1] Document 228.
+ _[1] Document 228.
 
 [2] The ninth session of the Economic and Social Council was held in Geneva from 5 July to 15 August 1949.
 
@@ -72,4 +77,4 @@ _ [1] Document 228.
 
 _
 
-_ [AA : A1838, 701/8/1/1A]_
+ _[AA : A1838, 701/8/1/1A]_

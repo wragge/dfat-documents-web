@@ -1,12 +1,17 @@
 ---
-title: "290 Cranborne to Curtin Circular cablegram D723"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2581
+doc_date: '1943-10-01'
+doc_num: 290
+doc_order: 290
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43-44/970/53]'
+title: Cranborne to Curtin Circular cablegram D723
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-10-01
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 290 Cranborne to Curtin Circular cablegram D723
 
 LONDON, 1 October 1943, 11.30 a.m.
 
@@ -30,7 +35,7 @@ Scheme proposed would be related only to interim armistice period, during which 
 
 3\. We should welcome your views on this conception. Although it is only in preliminary outline, our first reaction is that we should be well advised to welcome in principle and, subject to detailed elaboration, support any scheme proposed by United States Government, which, while giving due scope for representation of British Commonwealth interests, promises United States participation in post-war maintenance of peace and is likely to be acceptable to U.S.S.R. [3]
 
-_
+ _
 
 1 Cablegrams D709-10 of 28 September (on file AA:A989, 43- 44/970/53) set out the U.K. and U.S. Govts' draft agenda for the Moscow Conference.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/970/53]_
+ _[AA:A989, 43-44/970/53]_

@@ -1,20 +1,23 @@
 ---
-title: "473 LETTER CHARTERIS TO BRIMELOW"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10340
+doc_date: '1974-01-23'
+doc_num: 473
+doc_order: 473
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1929]'
+title: LETTER CHARTERIS TO BRIMELOW
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1974-01-23
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 473 LETTER CHARTERIS TO BRIMELOW
-
-UKNA: FCO 24/1929
 
 Buckingham Palace, 23 January 1974
 
 Confidential
 
-As you know, The Queen has been advised by both Her Majesty’s Government in the United Kingdom and her Australian Ministers _not to_ refer the petitions from the States of Queensland and Tasmania about the sea-bed adjacent to their respective State, to the Judicial Committee of the Privy Council.1
+As you know, The Queen has been advised by both Her Majesty’s Government in the United Kingdom and her Australian Ministers _not to_ refer the petitions from the States of Queensland and Tasmania about the sea-bed adjacent to their respective State, to the Judicial Committee of the Privy Council.[1](#f1)
 
 Her Majesty was able to accept the advice in each case without difficulty because it was similar. Had the advice been dissimilar, The Queen would have been placed in an extremely difficult constitutional position.
 
@@ -25,3 +28,5 @@ As a start, is there anything that I can usefully say to Mr Whitlam when I meet 
 I am sending a copy of this letter to Tom Bridges.
 
 1 See Documents 469–71.
+
+[UKNA: FCO 24/1929]

@@ -1,12 +1,17 @@
 ---
-title: "262 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2909
+doc_date: '1944-08-28'
+doc_num: 262
+doc_order: 262
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 6]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-28
+vol_title: 'Volume 7: 1944'
 ---
-
-# 262 Bruce to Curtin
 
 Cablegram 109 LONDON, 28 August 1944, 6.50 p.m.
 
@@ -26,7 +31,7 @@ I suggest, for your consideration, that, in replying to the Dominions Office tel
 
 BRUCE
 
-_
+ _
 
 1 Document 257.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 6]_
+ _[AA:A5954, BOX 6]_

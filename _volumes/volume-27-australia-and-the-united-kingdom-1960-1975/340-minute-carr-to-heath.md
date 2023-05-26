@@ -1,22 +1,25 @@
 ---
-title: "340 MINUTE, CARR TO HEATH"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10206
+doc_date: '1972-11-16'
+doc_num: 340
+doc_order: 340
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA:FC024/1315]'
+title: MINUTE, CARR TO HEATH
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 340 MINUTE, CARR TO HEATH
-
-UKNA:FC024/1315
 
 London, 16 November 1972
 
 Confidential
 
-**Immigration Control and the Old Commonwealth**
+ **Immigration Control and the Old Commonwealth**
 
-When we had a word a day or 2 ago about the Old Commonwealth and our immigration control you suggested that it would be as well for a few of us to get together for an early discussion. I am circulating this note with a view to such a discussion. 1
+When we had a word a day or 2 ago about the Old Commonwealth and our immigration control you suggested that it would be as well for a few of us to get together for an early discussion. I am circulating this note with a view to such a discussion. [1](#f1)
 
 As you know, there has currently been a great deal of criticism about our attitude to people who wish to come here from the Old Commonwealth. A number of MP’s have spoken to me about it, the Daily Express is running a campaign on the point, and I have been asked to send a memorandum to Buckingham Palace. What seems to have brought matters to a head is the introduction on 1st January of the Immigration Act 1971 and our entry into EEC on the same date. Under the Act, and in accordance with the policy which we put before the country at the General Election, Commonwealth workers will no longer be admitted for settlement from the outset but, like aliens, for an initial period of 12 months with a possibility of extensions. Entry into the EEC will not mean any change for Commonwealth citizens but their position will be worsened by comparison with that of EEC nationals who will be free to work here without permits, and for whom there will be special arrangements at the ports to permit of their prompt passage through the controls. They will be admitted for a uniform period of 6 months after a check on the Suspect Index whereas Commonwealth citizens will continue to be subject to an individual examination which, however brief, will necessarily take longer.
 
@@ -29,3 +32,5 @@ It follows that we cannot permit the easier entry of people from the Old Commonw
 I am not advocating the change set out in the preceding paragraph. But I think we have to face the disagreeable fact that it is the only way of meeting the complaints about our treatment of people from the Old Commonwealth. We have already stretched the rules in practice as far as we can: to do more it would be necessary to make the discrimination sharp and open. The Foreign and Commonwealth Secretary has sent me a number of minor suggestions for improvement in our procedures. But even if I could accept them—and there are formidable difficulties about this—I do not for a moment believe that minor changes would reduce the current volume of complaints and criticism. What the Australians in particular object to is being subject to control at all, and it seems to me that we have the choice of either maintaining a control on the present basis, explaining the necessity for it, and putting up with these complaints; or, alternatively, deciding to run the control on a frankly discriminatory basis, with all the criticism that that is likely to entail at home and overseas. We could rationalize special treatment for the Old Commonwealth countries by saying that there was no pressure for immigration from them, or that Australia, Canada and New Zealand accept a large number of British immigrants. But whatever we said along these lines it would be only too evident that we were introducing an immigration control which discriminated on the basis of colour [...]
 
 1  Circulated to the Foreign and Commonwealth Secretary and the Secretary of State for Defence. 
+
+[UKNA:FC024/1315]

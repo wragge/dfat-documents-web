@@ -1,20 +1,23 @@
 ---
-title: "202 MEMORANDUM, HEATH TO COMMON MARKET NEGOTIATIONS COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10067
+doc_date: '1962-08-17'
+doc_num: 202
+doc_order: 202
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB 134/1515]'
+title: MEMORANDUM, HEATH TO COMMON MARKET NEGOTIATIONS COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-08-17
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 202 MEMORANDUM, HEATH TO COMMON MARKET NEGOTIATIONS COMMITTEE
-
-UKNA: CAB 134/1515
 
 London, 17 August 1962
 
 Secret
 
-**Britain, the Common Market and the European Economic Community**
+ **Britain, the Common Market and the European Economic Community**
 
 Introduction
 
@@ -25,13 +28,13 @@ The Ministerial meeting in Brussels from 1st–5th August can be regarded as mar
 
 
 
-2\. The paper which has been sent to the Commonwealth has been circulated separately. This records the position reached to date on each of the main subjects dealt with in the Brussels negotiations.1
+2\. The paper which has been sent to the Commonwealth has been circulated separately. This records the position reached to date on each of the main subjects dealt with in the Brussels negotiations.[1](#f1)
 
 3\. The negotiations are proving every bit as tough as we expected. The atmosphere throughout has been good and, in spite of a difference with the French during the final session, the adjournment took place harmoniously. Germany, Italy, Belgium and the Netherlands have all made it clear that they are keen for us to join. The French have never been enthusiastic and they will drive a hard bargain, particularly where their own interests are affected, but in my judgment they will be reluctant to accept responsibility for a breakdown in view of the desire of the other countries that we should go in, and of the incalculable results that would follow, both for the Community itself and for the Western world as a whole.
 
 4\. The negotiations have been particularly difficult regarding trade in temperate agricultural products. This stems from the fundamental problem of how to reconcile our need to safeguard the vital interests of Canada, Australia and New Zealand with our acceptance of the common agricultural policy. In those cases where this policy has been agreed upon by the Six—often with the greatest difficulty—our need to safeguard the Commonwealth tends to force us to disturb the delicate balance between conflicting interests which has already been achieved. In the cases where the common agricultural policy has not yet been agreed, we have to face the desire of individual countries to protect their own domestic producers. We have always recognised that, left to themselves, the Six might develop into an inward-looking and largely self-sufficient _bloc_. In my view, based on experience in the negotiations, this is a very real danger. Because of the size and importance of the community, this could constitute—quite apart from the political implications—a serious threat to the future development of world trade and so to our own economic prospects as a world-trading nation.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 C. Manufactured Goods From Canada, Australia And New Zealand
 
@@ -45,13 +48,13 @@ The provisional arrangements on so-called ‘manufactured goods’ from Canada, 
 
 5\. The Six have undertaken to consider with the Commonwealth countries the development of this trade in 1966 and 1969, and ‘in the light of all the circumstances and in conformity with the provision of the Treaty (to) take appropriate steps.’ We have at least secured for these countries the opportunity to demonstrate damage to their trade if, as they (but not the Six) expect, damage in fact takes place. Because of the broad coverage of the provisional agreement, the Commonwealth would get the benefit of decalage on all items on which there is some trade at present, whether this is traditional and well established or only in its infancy. There would be no quantitative limitation on their exports.
 
-_Commentary_
+ _Commentary_
 
 6\. We never expected that the Six would agree to indefinite free entry for manufactured goods from Canada, Australia and New Zealand and we made this clear to the Commonwealth countries concerned before the negotiations began. In the case of Australia and New Zealand the value of the trade is extremely small (12.5 per cent and 0.1 per cent respectively of Australia and New Zealand’s total exports to Britain) and it was impossible to argue that serious damage could result from the application of the common external tariff. Nor could we argue convincingly that the tariff would necessarily damage Canada’s trade. Her exports of these products to Britain are much smaller than her exports of the same products to other countries (including the United States and, in some cases, the Six) over a tariff barrier. The settlement seems as good as we could expect in these circumstances.
 
 D. Temperate Agricultural Goods From The Old Commonwealth
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 3\. My colleagues will remember that, when the negotiations started, our aim was to secure the agreement of the Six to: 
 
@@ -61,7 +64,7 @@ D. Temperate Agricultural Goods From The Old Commonwealth
 
 
 
-4\. Our original proposals envisaged an understanding with the Six that quantitative restrictions would not be applied against the Commonwealth up to the level of transitional quantities, _i.e._, an assured right of access for agreed amounts. This gave the Six—and indeed others—the impression that we were seeking a guarantee of actual sales. Although this was not, of course, the case, it became clear at an early stage that the Six were in any case not prepared to adopt our approach. They felt that such—basically quantitative—arrangements would tend to freeze the pattern of trade, and freeze it, moreover, in a way which would maintain the preferential position of the Commonwealth. This would have been in direct conflict with their view that the longer term policy of the Community should be non-discriminatory.
+4\. Our original proposals envisaged an understanding with the Six that quantitative restrictions would not be applied against the Commonwealth up to the level of transitional quantities, _i.e._ , an assured right of access for agreed amounts. This gave the Six—and indeed others—the impression that we were seeking a guarantee of actual sales. Although this was not, of course, the case, it became clear at an early stage that the Six were in any case not prepared to adopt our approach. They felt that such—basically quantitative—arrangements would tend to freeze the pattern of trade, and freeze it, moreover, in a way which would maintain the preferential position of the Commonwealth. This would have been in direct conflict with their view that the longer term policy of the Community should be non-discriminatory.
 
 5\. The Six approached the problem in an entirely different way, and I am satisfied that it is only by following their approach that we can hope to reach a final agreement with them. Indeed, it is fair to say that a comparison of the paper which has emerged from Brussels and our original ‘comparable outlets formula’ suggests that the former is likely to be a more realistic as well as a more comprehensive approach towards achieving a solution of the Commonwealth’s basic and long-term problems.
 
@@ -71,21 +74,21 @@ D. Temperate Agricultural Goods From The Old Commonwealth
   2. An agreement about the need for, and the purposes of, world-wide commodity agreements.
   3. An agreement that specific solutions on a more limited geographical basis, but with the same content, should be negotiated if the wider agreements under (b) do not prove possible.
   4. Transitional arrangements linked to the operation of the intra-Community preference, and
-  5. Undertakings by the Community about the use of quantitative restrictions, _i.e._, about access.
+  5. Undertakings by the Community about the use of quantitative restrictions, _i.e._ , about access.
 
 
 
-_Price policy_
+ _Price policy_
 
 7\. The agreement which we have reached on price policy (which is without limit) goes further than we had originally thought possible. It is central to the whole problem. In the last resort the price policy of the Community will be the real determinant of Commonwealth prospects for the future. If the price policy were such as to encourage surplus production within the Community, then any other agreements which we might have agreed, would be jeopardised. In fact the Community have now stated their intention of pursuing a policy which will offer reasonable opportunities in its markets for exports of temperate foodstuffs, with a special reference to Commonwealth suppliers. Moreover, they have agreed to a confrontation of price policies in the context of world-wide agreements which will enable interested parties to bring strong pressure to bear on them to maintain reasonable policies. It is significant that the United States appear to be prepared to follow this new lead, as do the Australians, and it seems possible that a new pattern of international consultation may be emerging which we should do well to encourage.
 
-_World-wide agreements (or more limited agreements)_
+ _World-wide agreements (or more limited agreements)_
 
-8\. The question of price policy is linked with that of future _world-wide agreements._ Here, what is proposed is an attempt to work out world-wide agreements designed to deal with the problems of prices, production policies, access and the terms of competition. A recent telegram from Mr Menzies showed the importance which Australia attaches to these new developments.2 Many Commonwealth countries are now concerned not so much about preferences as such, but with the general pattern of price competition which they claim has reduced their returns, even with the benefit of preferences, to unreasonably low levels.
+8\. The question of price policy is linked with that of future _world-wide agreements._ Here, what is proposed is an attempt to work out world-wide agreements designed to deal with the problems of prices, production policies, access and the terms of competition. A recent telegram from Mr Menzies showed the importance which Australia attaches to these new developments.[2](#f2) Many Commonwealth countries are now concerned not so much about preferences as such, but with the general pattern of price competition which they claim has reduced their returns, even with the benefit of preferences, to unreasonably low levels.
 
 9\. It will be a major and difficult task to secure early agreement on the terms of new world-wide arrangements. The assurances about the willingness of the Six and ourselves to negotiate them are, however, valuable. We shall, however, be helped by the willingness of the Six to negotiate agreements on a more limited geographical basis, particularly with Commonwealth countries, if world-wide agreements prove impracticable. This gives the Commonwealth an assurance that progress will not be made impossible by the veto of a country, or group of countries, outside the Community and the Commonwealth.
 
-_Transitional arrangements and quantitative restrictions_
+ _Transitional arrangements and quantitative restrictions_
 
 10\. Here we have secured some gains. In the first place the Six have demonstrated to us, and to the Commonwealth, that our concern about the possible application of quantitative restrictions was misconceived. They have agreed with us a form of words which makes it clear that the Community would not require member States—including, of course, Britain—to use quantitative restrictions as an instrument of policy to control access, except as a general Community measure to deal with State-trading countries and as a last resort in exceptional circumstances of serious market disruption.
 
@@ -93,21 +96,21 @@ _Transitional arrangements and quantitative restrictions_
 
 12\. Apart from the intra-Community preference, we have not been able to secure a preferential position for the Commonwealth in our market (with the possible exception of New Zealand—see paragraph 14 below). In the case of coarse grains, the existing preference of 10 per cent in the United Kingdom appears on the face of it to be much more valuable than an intra-Community preference of 1 per cent (which is the level at which it has been fixed for the first year). The fact is, however, that the intra-Community preference which would replace the old Commonwealth preferences is different in kind. Although it affords no safeguards as regards the price level, a country which has this new preference should be in a position to secure access to Community markets with an absolute advantage over all third countries who do not enjoy this preference.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_New Zealand_
+ _New Zealand_
 
-14\. There has been a new development as regards New Zealand. The Six have taken the initiative in emphasising that they recognise that New Zealand, with its special dependence on the United Kingdom market for its exports of foodstuffs, is a special case, and they have offered to consider solutions for her problems. A separate paper is being prepared on this.3
+14\. There has been a new development as regards New Zealand. The Six have taken the initiative in emphasising that they recognise that New Zealand, with its special dependence on the United Kingdom market for its exports of foodstuffs, is a special case, and they have offered to consider solutions for her problems. A separate paper is being prepared on this.[3](#f3)
 
-_Commentary_
+ _Commentary_
 
 15\. The arrangements described above include some elements of considerable advantage for the old Commonwealth countries concerned. But it will not be easy to convince the three Commonwealth Governments, and they may well criticise the arrangements on the grounds that they are not sufficiently precise to enable their exact effects on trade to be calculated in quantitative terms. We can deal with this criticism, and in general we must take the line that the effectiveness of the arrangements must depend on the spirit in which they are carried out by the Community, bearing in mind that, in the circumstances envisaged, we should be members of it.
 
 16\. The arrangements provide for Commonwealth interests to be protected by means of a series of inter-locking assurances of cumulative effect. They apply to the whole of the enlarged Community, not merely—as we were originally asking—to the United Kingdom market alone. In the first place, there is the assurance that the enlarged Community will take an early initiative to secure international agreements covering the key commodities. If, in the case of any commodity, this initiative fails, then the Community will be ready to conclude agreements with the same purposes on a more limited basis—‘and, in particular, with Commonwealth countries’. Secondly the enlarged Community has expressed its intention of pursuing a price policy which will offer reasonable opportunities for exports of temperate foodstuffs. In addition, the Community is prepared to consult about these policies, either within the framework of international agreements or of more limited agreements. They have also undertaken to do their utmost to contribute to the harmonious development of world trade, with a special reference to the Commonwealth. So far as restrictions on trade are concerned, they have given us assurances that quantitative restrictions will not be used except in exceptional circumstances; and that the intra-Community preference will not be operated in a way which causes damage to Commonwealth interests.
 
-17\. As I said earlier, much common ground has been established though a good deal of work remains to be done, especially on individual commodities—dairy products, meat and sugar—and in order to give greater precision to some of the proposed arrangements, _e.g._, about the intra-Community preference and for New Zealand. But I am satisfied that the approach which has been adopted is the only realistic one. Subject to what may be agreed on individual commodities, we shall not be able to secure radical changes in the arrangements we have negotiated. We should therefore put them forward as a basis for discussion at the Commonwealth Prime Ministers’ Conference, and as representing a fair and reasonable way of safeguarding their vital interests. This conclusion was endorsed by the Common Market Negotiations Committee at their meeting on 10th August.
+17\. As I said earlier, much common ground has been established though a good deal of work remains to be done, especially on individual commodities—dairy products, meat and sugar—and in order to give greater precision to some of the proposed arrangements, _e.g._ , about the intra-Community preference and for New Zealand. But I am satisfied that the approach which has been adopted is the only realistic one. Subject to what may be agreed on individual commodities, we shall not be able to secure radical changes in the arrangements we have negotiated. We should therefore put them forward as a basis for discussion at the Commonwealth Prime Ministers’ Conference, and as representing a fair and reasonable way of safeguarding their vital interests. This conclusion was endorsed by the Common Market Negotiations Committee at their meeting on 10th August.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 Commonwealth Prime Ministers’ Conference
 
@@ -124,3 +127,5 @@ Our primary objective at the Conference must be to impress on Commonwealth Prime
 2  Document 195. 
 
 3  But no details had emerged by the time of the breakdown of the negotiations in January 1963. 
+
+[UKNA: CAB 134/1515]

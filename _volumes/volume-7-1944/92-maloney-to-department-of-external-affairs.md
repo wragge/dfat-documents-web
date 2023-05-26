@@ -1,12 +1,17 @@
 ---
-title: "92 Maloney to Department of External Affairs"
-volume: "Volume 7: 1944"
-doc_id: 2739
+doc_date: '1944-03-21'
+doc_num: 92
+doc_order: 92
+naa_refs:
+- naa_barcode: 185057
+  naa_control_symbol: 1944/715/5/2/2
+  naa_series: A989
+  reference: '[AA:A989, 43-44/715/5/2/2]'
+title: Maloney to Department of External Affairs
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-21
+vol_title: 'Volume 7: 1944'
 ---
-
-# 92 Maloney to Department of External Affairs
 
 Cablegram 70 [1] MOSCOW, 21 March 1944, 4.44 p.m.
 
@@ -42,7 +47,7 @@ I suspect that in the majority of such cases there will be a further delay or 'r
 
 MALONEY
 
-_
+ _
 
 1 Repeated to London as no. 25.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/715/5/2/2]_
+ _[AA:A989, 43-44/715/5/2/2]_

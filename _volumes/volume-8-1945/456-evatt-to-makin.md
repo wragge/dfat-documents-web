@@ -1,12 +1,17 @@
 ---
-title: "456 Evatt to Makin"
-volume: "Volume 8: 1945"
-doc_id: 3487
+doc_date: '1945-12-15'
+doc_num: 456
+doc_order: 456
+naa_refs:
+- naa_barcode: 587530
+  naa_control_symbol: 854/4/2
+  naa_series: A1838
+  reference: '[AA : A1838 T189(SV), 854/4/2]'
+title: Evatt to Makin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-12-15
+vol_title: 'Volume 8: 1945'
 ---
-
-# 456 Evatt to Makin
 
 Cablegram 471 OTTAWA, 15 December 1945, 9.44 p.m.
 
@@ -32,8 +37,8 @@ The note should be presented in my name as Minister for Foreign members of Gover
 
 (8) Australia therefore respectfully requests the support and cooperation of your Government in the election of Australia as a nonpermanent member of the first Security Council and also as a member of the Economic Council at the United Nations.
 
-_
+ _
 
 _
 
-_ [AA : A1838 T189(SV), 854/4/2]_
+ _[AA : A1838 T189(SV), 854/4/2]_

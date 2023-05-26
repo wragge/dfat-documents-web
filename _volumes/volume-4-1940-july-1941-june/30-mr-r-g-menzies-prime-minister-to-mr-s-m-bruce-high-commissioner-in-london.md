@@ -1,12 +1,34 @@
 ---
-title: "30 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1261
+doc_date: '1940-07-22'
+doc_num: 30
+doc_order: 30
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[On 12 July the U.K. Govt dispatched to the Commonwealth Govt cablegram
+    D340 which outlined arguments that might be used in the public rejection of any
+    peace conference proposed by Hitler. Bruce complained the same day (cablegram
+    548) that the arguments suggested were quite inadequate and urged that a more
+    convincing way must be found of demonstrating that the economic and social well-being
+    of all countries depended on an Allied victory. On 18 July Bruce repeated to Menzies
+    (cablegram 573) a message from Lt Gen J. C. Smuts, South African Prime Minister,
+    expressing the fear that Europe might accept a peace based on a German-dominated
+    continental economic system. Smuts believed that such a peace would be a moral
+    and political disaster and suggested immediate Anglo-American co-operation in
+    the preparation of countermoves. On the same day Bruce requested an expression
+    of Menzies''s views (cablegram 575) and on 21 July he sent a further cablegram
+    (583) which read: ''As War Cabinet probably considering points raised in Smuts''
+    cable tomorrow I have stressed to Halifax [U.K. Foreign Secretary]'
+- naa_barcode: 4212450
+  naa_control_symbol: 1940/16
+  naa_series: A3196
+  reference: '[AA: A3196, 1940, 0.5030]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 30 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 22 July 1940,
 
@@ -18,7 +40,7 @@ Referring to your recent telegrams you may inform Halifax that I share the views
 
 MENZIES
 
-_
+ _
 
 1 U.K. Ambassador to Japan.
 
@@ -28,4 +50,4 @@ _
 
 _
 
-_ [AA: A3196, 1940, 0.5030]_
+ _[AA: A3196, 1940, 0.5030]_

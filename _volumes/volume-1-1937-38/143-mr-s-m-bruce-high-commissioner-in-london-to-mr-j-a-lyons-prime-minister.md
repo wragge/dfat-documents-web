@@ -1,12 +1,17 @@
 ---
-title: "143 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 142
+doc_date: '1938-03-18'
+doc_num: 143
+doc_order: 142
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-18
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 143 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram 43 [1] LONDON, 18 March 1938, 12.53 a.m.
 
@@ -30,7 +35,7 @@ Owing to uncertainties of the position it is impossible to forecast developments
 
 BRUCE
 
-_
+ _
 
 1 The version of this cablegram in the Bruce papers (AA :
 
@@ -54,4 +59,4 @@ Significant differences are given in footnotes below.
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

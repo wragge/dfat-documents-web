@@ -1,13 +1,21 @@
 ---
-title: "249 Cabinet Submission by Templeton"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9118
+doc_date: '1982-07-20'
+doc_num: 249
+doc_order: 249
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Cabinet Submission by Templeton
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 249 Cabinet Submission by Templeton
-
-## Wellington, [20] July 1982
+Wellington, [20] July 1982
 
 **ANZCER: Seminars**
 
@@ -15,19 +23,19 @@ vol_id: 23
 
 
 
-_Attendance_
+ _Attendance_
 
   2. Attendances totalled some 2,500, ranging from almost 1,000 at the two Auckland meetings to 13 at Greymouth. In addition to the manufacturing sector, which was strongly represented at most of the provincial as well as the main centres, a wide range of interests were represented and, from time to time, expressed their concerns through questions and comment. They included retailers, the farming sector (including wheat producers, hot-house growers, dairy farmers and apiarists), trade union representatives, secondary and tertiary students, and numerous members of the public with no apparent affiliations to particular interest groups.
 
 
 
-_Publicity_
+ _Publicity_
 
   3. The seminars were widely advertised through the media (newspaper advertisements and free spots on local radio) as well as by organisations such as Manfed, Chambers of Commerce and local Export Institute and productivity groups.
 
 
 
-_ General Assessment_
+ _General Assessment_
 
   4. The seminars can be considered to have successfully achieved the following objectives:
     1. they have provided an opportunity to explain the background to and reasons for pursuing CER. Only a handful of the persons attending the seminars demonstrated antagonism to the concept;
@@ -36,7 +44,7 @@ _ General Assessment_
 
 
 
-_ Questions Raised_
+ _Questions Raised_
 
   5. IMPORT LICENSING: TERMINAL DATE: Clearly this is a concern to most manufacturers and it was referred to by Manfed speakers at each of the seminars in the main centres sponsored by the Federation as being contrary to their wishes. Nonetheless there was little reference to this issue in the body of the sessions. A 1995 terminal date for import licensing appears to have been largely accepted, albeit reluctantly, as a 'given'.
   6. EXCLUSIVE AUSTRALIAN LICENCE: There were questions at a number of seminars as to how Exclusive Australian Licences would be distributed. The meetings were told that this had not been decided definitively by the Government as yet but that, having regard to the desirability of giving manufacturers some assistance in the efforts they would be making to rationalise their activities with Australian counterparts, the Ministers of Trade and Industry and Customs and Trade and Industry officials had concluded that making available something like 50 per cent of the EALs to manufacturers would be appropriate. This figure would be varied for some industries. It was mentioned also that a paper was being drafted by officials for consideration by Government that took account of views expressed by the different industries during the current seminars and consultations. Some manufacturers pressed that their sector should be given 100 per cent of the EALs while some retailer representatives asserted that manufacturers should not be specially privileged at all. There was also some objection voiced to tendering of import licences both generally and in the CER context.
@@ -55,11 +63,11 @@ _ Questions Raised_
 
 
 
-_ Future Timetable_
+ _Future Timetable_
 
   15. The Government has told the manufacturers and other private sector interests that they should ensure that their considered views reach the Government by the end of July. At present the CER proposal is being considered by the Foreign Affairs Select Committee of the House. It is envisaged that meetings of the Select Committee for this purpose will conclude on 4 August and that the Committee will report back to the House, permitting a debate before mid August.
   16. The Australian Government will be completing its consultations with the private sector and the States at the beginning of August and it is envisaged that the Australian Cabinet will take a decision on the proposal in the light of the consultations on 24 August. Having regard to these time parameters it would appear appropriate that the Government aim for a paper bringing together the results of the New Zealand consultations and any feedback we have from Australia, and serving as a basis for a Government decision to be considered by the Cabinet Economic Committee on Tuesday, 17 August. It could then be referred to Cabinet for Monday, 23 August.
 
 
 
-_ [ABHS 950/Box 1228, 40/4/2 Part 4 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1228, 40/4/2 Part 4 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

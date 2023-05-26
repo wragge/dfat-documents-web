@@ -1,12 +1,17 @@
 ---
-title: "117 Summary of Proceedings of Council of Defence Meeting"
-volume: "Volume 2: 1939"
-doc_id: 454
+doc_date: '1939-07-05'
+doc_num: 117
+doc_order: 117
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA: AA 1971/216, 5 JULY 1939]'
+title: Summary of Proceedings of Council of Defence Meeting
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-07-05
+vol_title: 'Volume 2: 1939'
 ---
-
-# 117 Summary of Proceedings of Council of Defence Meeting
 
 Extracts 5 July 1939, 10 a.m.
 
@@ -48,7 +53,7 @@ Singapore was devoid of assistance from an effective Navy and would remain so un
 
 He said that the outline conveyed by the Chief of the General Staff as to the ineffectiveness of our coastal defences was most depressing and, in addition, many of our 6" guns appeared to be not fully effective. He particularly stressed the fact that he did not wish to reflect on anyone in authority for he stated that, when the present position was surveyed in the light of the situation three or four years ago, our position now was undoubtedly good, but nevertheless was not good enough. To his mind the Army was of first importance in view of the relative ineffectiveness of the Navy without the support of a squadron at Singapore and the deficiencies in the Air Force, but when he considered the Army strength it appeared that we had at present no military force outside of the Fixed Defences.
 
-_
+ _
 
 1 Captain M.W.S. Boucher.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA: AA 1971/216, 5 JULY 1939]_
+ _[AA: AA 1971/216, 5 JULY 1939]_

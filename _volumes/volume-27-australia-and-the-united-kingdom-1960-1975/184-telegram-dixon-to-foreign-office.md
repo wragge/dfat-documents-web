@@ -1,14 +1,17 @@
 ---
-title: "184 TELEGRAM, DIXON TO FOREIGN OFFICE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10049
+doc_date: '1962-06-14'
+doc_num: 184
+doc_order: 184
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 159/60]'
+title: TELEGRAM, DIXON TO FOREIGN OFFICE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-06-14
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 184 TELEGRAM, DIXON TO FOREIGN OFFICE
-
-UKNA: DO 159/60
 
 Brussels, 14 June 1962
 
@@ -33,3 +36,5 @@ I understand that it has been suggested by the Australian Government that Austra
 (e) Our judgment on whether to put matters to Working Parties would have to be taken with the Australians etc in mind. Thus lead and zinc, beef, and mutton would all have to go to Working Parties in order to satisfy the Australians, whereas, from the point of view of the negotiations themselves, reference of these subjects to a Working Party would be at best a waste of valuable time and at worst might further complicate the issues involved.
 
 5\. Although I understand how difficult it may be for Her Majesty’s Government to appear negative towards this Australian request at this time, I am afraid that it presents us with a real problem from the point of view of the negotiations. I therefore feel bound to record this delegation’s view that it would be very undesirable to put forward now a request for further Australian participation and to express the hope that, on balance, it may be found possible to persuade the Australian Government to drop the idea.
+
+[UKNA: DO 159/60]

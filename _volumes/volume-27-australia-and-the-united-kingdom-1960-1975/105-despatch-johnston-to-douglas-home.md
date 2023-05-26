@@ -1,20 +1,23 @@
 ---
-title: "105 DESPATCH, JOHNSTON TO DOUGLAS-HOME"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9970
+doc_date: '1970-08-04'
+doc_num: 105
+doc_order: 105
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/654]'
+title: DESPATCH, JOHNSTON TO DOUGLAS-HOME
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1970-08-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 105 DESPATCH, JOHNSTON TO DOUGLAS-HOME
-
-UKNA: FCO 24/654
 
 British High Commission, Canberra, 4 August 1970
 
 Confidential
 
-The Secretary of State for Defence visited Canberra from 30 July until 2 August as part of his tour to discuss the proposed five power defence arrangements in the Far East with the Commonwealth Governments concerned. A copy of Lord Carrington’s programme while he was in Canberra is enclosed, also the text of the communique issued after his meeting with Mr. Gorton and Australian Ministers.2
+The Secretary of State for Defence visited Canberra from 30 July until 2 August as part of his tour to discuss the proposed five power defence arrangements in the Far East with the Commonwealth Governments concerned. A copy of Lord Carrington’s programme while he was in Canberra is enclosed, also the text of the communique issued after his meeting with Mr. Gorton and Australian Ministers.[2](#f2)
 
 2\. His talks with the Australian Government were reported by the Secretary of State in my telegram No. 862 of 1 August, and I shall not duplicate that report here. In brief, the talks were highly successful. After a few characteristic growls from Mr. Gorton about our refusal to meet the Australian request that we should maintain the Anglo/Malaysian Defence Agreement in being, the Australian Government accepted our view that some political association was required instead, and that this could best take the shape of a consultative arrangement on a basis of equality between the five powers. As regards force levels, the Australian Government showed themselves pleased with what Lord Carrington proposed, and there was no suggestion whatever that in their view our forces would be unduly small. This fortunate result was largely due to the fact that when visiting Australia during the years of Opposition, the Prime Minister and you, Sir, and the Secretary of State for Defence, had all been most careful in public statements not to commit a Conservative Government to anything beyond a minimum military presence in the Far East. If our present Government had followed its predecessor and made promises in the defence field which it proved unable to carry out, the general credibility of the British in Australia would have been seriously undermined.
 
@@ -24,7 +27,7 @@ The Secretary of State for Defence visited Canberra from 30 July until 2 August 
 
 5\. In addition to his meeting with Australian Ministers Lord Carrington gave several interviews to the press and television. He made a successful speech to the National Press Club in Canberra, where he fielded questions with an adroitness rarely seen in this part of the world. As a result of Lord Carrington’s handling of the press I am sure that the general public as well as Australian Ministers now realise the seriousness of our commitment to the area.
 
-6\. There are complex discussions ahead at both official and Ministerial level to deal with command, control, air defence, real estate, the definition of subversion, etc., but in principle our proposals have been accepted. Moreover, given the more inforrnal nature of the arrangements now envisaged, there is cause for hope that it may be possible to find a forrn of words which would allow the Australians to extend their own commitment to cover East as well as West Malaysia without directly contradicting the limitations announced in Mr. Gorton’s speech of 25 February, 19693 and repeated by him so abrasively at the 1969 Five Power Defence Conference. During the next months, as our negotiations for entry into the European Communities proceed, we shall no doubt have our rough passages with the Australians. It is therefore timely and encouraging that during this period we shall be able to point to our co-operation on defence matters as a clear proof of our continued interest in the area. We have reason to be grateful to Lord Carrington and his team for having got us off to such an excellent start in this field.
+6\. There are complex discussions ahead at both official and Ministerial level to deal with command, control, air defence, real estate, the definition of subversion, etc., but in principle our proposals have been accepted. Moreover, given the more inforrnal nature of the arrangements now envisaged, there is cause for hope that it may be possible to find a forrn of words which would allow the Australians to extend their own commitment to cover East as well as West Malaysia without directly contradicting the limitations announced in Mr. Gorton’s speech of 25 February, 1969[3](#f3) and repeated by him so abrasively at the 1969 Five Power Defence Conference. During the next months, as our negotiations for entry into the European Communities proceed, we shall no doubt have our rough passages with the Australians. It is therefore timely and encouraging that during this period we shall be able to point to our co-operation on defence matters as a clear proof of our continued interest in the area. We have reason to be grateful to Lord Carrington and his team for having got us off to such an excellent start in this field.
 
 7\. I am sending copies of this despatch to the High Commissioners in Wellington, Kuala Lumpur, and Singapore, and to the Political Adviser to the Commander-in-Chief, Far East.
 
@@ -33,3 +36,5 @@ The Secretary of State for Defence visited Canberra from 30 July until 2 August 
 2 Carrington’s programme is not published; for the communique, see Document 104.
 
 3 See Document 103.
+
+[UKNA: FCO 24/654]

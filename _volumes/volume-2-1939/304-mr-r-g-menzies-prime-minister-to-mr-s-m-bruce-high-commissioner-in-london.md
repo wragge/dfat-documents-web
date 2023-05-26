@@ -1,12 +1,17 @@
 ---
-title: "304 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 641
+doc_date: '1939-10-21'
+doc_num: 304
+doc_order: 304
+naa_refs:
+- naa_barcode: 177779
+  naa_control_symbol: LEAGUE 20TH ASS 3
+  naa_series: A981
+  reference: '[AA: A981, L OF N, 20TH ASSEMBLY 3]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-21
+vol_title: 'Volume 2: 1939'
 ---
-
-# 304 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
 
 Cablegram 77 21 October 1939,
 
@@ -24,7 +29,7 @@ Your early comments on these preliminary views would be appreciated along with a
 
 MENZIES
 
-_
+ _
 
 1 See Document 248, note 5.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA: A981, L OF N, 20TH ASSEMBLY 3]_
+ _[AA: A981, L OF N, 20TH ASSEMBLY 3]_

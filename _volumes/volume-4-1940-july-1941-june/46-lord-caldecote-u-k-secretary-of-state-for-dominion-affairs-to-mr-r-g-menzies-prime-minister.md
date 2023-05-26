@@ -1,12 +1,18 @@
 ---
-title: "46 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1277
+doc_date: '1940-08-01'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 176213
+  naa_control_symbol: FAR 14 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 14A]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-01
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 46 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram M44 LONDON, 1 August 1940, 1.50 p.m.
 
@@ -28,10 +34,10 @@ Ambassador was informed in reply that we were considering the possibility of arr
 
 (3) Before considering further the suggestion in the preceding paragraph, His Majesty's Government in the United Kingdom would be grateful if they might receive urgently the views of the Dominion Governments upon them.
 
-_
+ _
 
 1 Dispatched 1 August. see file AA:A816, 19/304/422, ii.
 
 _
 
-_ [AA:A981, FAR EAST 14A]_
+ _[AA:A981, FAR EAST 14A]_

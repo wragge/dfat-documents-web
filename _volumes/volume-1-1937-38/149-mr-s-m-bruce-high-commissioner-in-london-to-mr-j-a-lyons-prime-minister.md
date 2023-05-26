@@ -1,12 +1,17 @@
 ---
-title: "149 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 148
+doc_date: '1938-03-21'
+doc_num: 149
+doc_order: 148
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-21
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 149 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram 45 LONDON, 21 March 1938, 7.38 p.m.
 
@@ -22,7 +27,7 @@ ACCELERATION OF REARMAMENT This will be strongly reiterated but unlikely any pro
 
 COLLECTIVE SECURITY Doubtful whether this point will be stressed.
 
-_
+ _
 
 1 Neville Chamberlain.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

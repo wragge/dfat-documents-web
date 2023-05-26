@@ -1,12 +1,17 @@
 ---
-title: "288 Watt to Department of External Affairs"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7003
+doc_date: '1948-07-08'
+doc_num: 288
+doc_order: 288
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1948, I.11067]'
+title: Watt to Department of External Affairs
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-07-08
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 288 Watt to Department of External Affairs
 
 Cablegram 231, MOSCOW, 8 July 1948, 7.12 p.m.
 
@@ -38,7 +43,7 @@ IMMEDIATE TOP SECRET
 
 9\. Are we standing fast on Berlin mainly for reasons of prestige, or because the exercise of Western power rights in Berlin is in fact vital to the continuance of Western influence in Germany as a whole and maintenance of democracy in Western Europe? Even if we answer affirmatively to the latter half of this question, have the Western Powers, for sound reasons, already given up all hope of top level discussions with the Russians on widest issues and all hope of any United Nations influence on the actions of the Soviet Government? To my mind these are the questions which require the most urgent consideration.[3]
 
-_ [1] The text of the note was conveyed by Noel-Baker to External Affairs in cablegram H282, dispatched 6 July 1948. The note protested the 'restrictive measures on transport' amounting to a blockade against the western sectors in Berlin. It insisted that 'in accordance with existing agreements' movement of traffic between the western zones and Berlin be fully restored. Negotiation, not duress, should be used to settle any existing disagreements between the United Kingdom and Soviet Union. The United States Government gave an identical note to the Soviet Ambassador in Washington and the French gave a note along similar lines to the Soviet Ambassador in Paris.
+ _[1] The text of the note was conveyed by Noel-Baker to External Affairs in cablegram H282, dispatched 6 July 1948. The note protested the 'restrictive measures on transport' amounting to a blockade against the western sectors in Berlin. It insisted that 'in accordance with existing agreements' movement of traffic between the western zones and Berlin be fully restored. Negotiation, not duress, should be used to settle any existing disagreements between the United Kingdom and Soviet Union. The United States Government gave an identical note to the Soviet Ambassador in Washington and the French gave a note along similar lines to the Soviet Ambassador in Paris.
 
 [2] A sign here indicates 'word apparently omitted'.
 
@@ -46,4 +51,4 @@ _ [1] The text of the note was conveyed by Noel-Baker to External Affairs in cab
 
 _
 
-_ [AA : A3195, 1948, I.11067]_
+ _[AA : A3195, 1948, I.11067]_

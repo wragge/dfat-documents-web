@@ -1,12 +1,17 @@
 ---
-title: "231 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 997
+doc_date: '1940-05-11'
+doc_num: 231
+doc_order: 231
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3153]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-11
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 231 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 77 WASHINGTON, 11 May 1940, 8.45 p.m.
 
@@ -24,7 +29,7 @@ The State Department has no evidence so far that Japan contemplates any southwar
 
 CASEY
 
-_
+ _
 
 1 U.S. Assistant Secretary of State.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3153]_
+ _[FA: A3195, 1.3153]_

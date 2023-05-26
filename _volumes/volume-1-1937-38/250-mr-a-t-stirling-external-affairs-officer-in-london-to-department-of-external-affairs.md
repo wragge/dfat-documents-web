@@ -1,14 +1,20 @@
 ---
-title: "250 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 249
+doc_date: '1938-09-09'
+doc_num: 250
+doc_order: 249
+naa_refs:
+- naa_barcode: 174711
+  naa_control_symbol: CZE 13 PART 1
+  naa_series: A981
+  reference: '[AA : A981, CZECHOSLOVAKIA 13]'
+title: Mr A. T. Stirling, External Affairs Officer in London, to Department of External
+  Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-09
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 250 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs
-
-## Cablegram 141 LONDON, 9 September 1938 U.S.S.R.
+Cablegram 141 LONDON, 9 September 1938 U.S.S.R.
 
 French Secretary of State for Foreign Affairs [1] recently asked Soviet Ambassador at Paris [2] what help Soviet would give in the case of a German attack on Czechoslovakia. Ambassador said he would inquire of Litvinoff [3] and later gave French Secretary of State for Foreign Affairs a reply in following manner which latter communicated to British Ambassador in Paris [4] on 6th September.
 
@@ -20,7 +26,7 @@ French Secretary of State for Foreign Affairs said that he felt that U.S.S.R. wa
 
 STIRLING
 
-_
+ _
 
 1 Georges Bonnet.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA : A981, CZECHOSLOVAKIA 13]_
+ _[AA : A981, CZECHOSLOVAKIA 13]_

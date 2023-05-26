@@ -1,12 +1,17 @@
 ---
-title: "127 Department of External Affairs to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1881
+doc_date: '1941-11-26'
+doc_num: 127
+doc_order: 128
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Department of External Affairs to Mr R. G. Casey, Minister to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-26
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 127 Department of External Affairs to Mr R. G. Casey, Minister to the United States
 
 Cablegram 1013 [1] CANBERRA, 26 November 1941
 
@@ -22,7 +27,7 @@ At present we are not a party to the Hull-Kurusu talks, but paragraphs 6 and 8 o
 
 1009 as well as this wire.
 
-_
+ _
 
 1 Repeated to the High Commissioner in the United Kingdom (S. M.
 
@@ -38,4 +43,4 @@ Bruce) as no. 361, for the information of the U.K. Govt.
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

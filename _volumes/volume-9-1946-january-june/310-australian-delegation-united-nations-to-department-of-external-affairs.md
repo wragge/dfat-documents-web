@@ -1,12 +1,17 @@
 ---
-title: "310 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3822
+doc_date: '1946-06-13'
+doc_num: 310
+doc_order: 310
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195 1946, 1.15373]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-13
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 310 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram United Nations 196 NEW YORK, 13 June 1946, 5.51 p.m.
 
@@ -32,7 +37,7 @@ Egypt although [latter] [3] reserving position as to eventual discussion in Asse
 
 Minister has made deep impression on Council and officials as well as on public and enhances Australia's prestige as upholder of Charter against extremist interpretations and in favour of powers of the Assembly.
 
-_
+ _
 
 1 See Document 288, paragraph 5.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A3195 1946, 1.15373]_
+ _[AA:A3195 1946, 1.15373]_

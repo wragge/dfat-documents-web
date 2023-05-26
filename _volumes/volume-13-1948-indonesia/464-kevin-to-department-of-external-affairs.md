@@ -1,14 +1,19 @@
 ---
-title: "464 Kevin to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5731
+doc_date: '1948-12-24'
+doc_num: 464
+doc_order: 464
+naa_refs:
+- naa_barcode: 550487
+  naa_control_symbol: 403/3/1/1 PART 20
+  naa_series: A1838
+  reference: '[AA:A1838, 403/3/1/1 xx]'
+title: Kevin to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-12-24
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
 
-# 464 Kevin to Department of External Affairs
-
-## Cablegram 510 NEW DELHI, 24 December 1948, 11.05 p.m.
+Cablegram 510 NEW DELHI, 24 December 1948, 11.05 p.m.
 
 My immediately preceding telegram.
 
@@ -18,8 +23,8 @@ Begins- I have asked several of my Indonesia colleagues to come here to discuss 
 
 Ends.
 
-_
+ _
 
 _
 
-_ [AA:A1838, 403/3/1/1 xx]_
+ _[AA:A1838, 403/3/1/1 xx]_

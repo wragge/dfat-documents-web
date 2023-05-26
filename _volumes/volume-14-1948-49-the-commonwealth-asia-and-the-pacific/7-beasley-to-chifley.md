@@ -1,12 +1,18 @@
 ---
-title: "7 Beasley to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5783
+doc_date: '1948-03-27'
+doc_num: 7
+doc_order: 7
+naa_refs:
+- naa_barcode: 635330
+  naa_control_symbol: 708/12 A
+  naa_series: A1838
+  reference: '[AA: A1838,708/12A]'
+title: Beasley to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-03-27
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 7 Beasley to Chifley
 
 Cablegram 53 LONDON, 27 March 1948, 12.23 p.m.
 
@@ -36,7 +42,7 @@ Having in mind the non-discrimination clause in last Loan Agreement and not yet 
 
 It means constant attention on our part and through our representative (Nimmo) on Sterling Area Statistical Committee plus acceptance of Cripps's offer to discuss with me at any time events as they arise. We hope we will be able to keep abreast of situation.
 
-_
+ _
 
 1 Upon reading this, Charley dispatched cablegram 30 asking Beasley to clarify Cripps's statement.
 
@@ -44,4 +50,4 @@ _
 
 _
 
-_ [AA: A1838,708/12A]_
+ _[AA: A1838,708/12A]_

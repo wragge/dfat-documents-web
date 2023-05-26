@@ -1,12 +1,18 @@
 ---
-title: "165 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1396
+doc_date: '1940-10-08'
+doc_num: 165
+doc_order: 165
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 26A]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 165 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 334 LONDON, [8] [1] October 1940, 5.35 p.m.
 
@@ -30,7 +36,7 @@ We feel sure that the Commonwealth and New Zealand Governments would welcome a p
 
 We are very glad to note from New Zealand Government's telegram 409 of 8th October [7] that the New Zealand Government approve of the proposal that the Conference should be at Singapore; we share their view that the conference should be held at the earliest possible date and we hope the Commonwealth Government will also be able to concur in the proposal without delay. [8]
 
-_
+ _
 
 1 Corrected from the Foreign Office copy in PRO: PO 371/24709.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 26A]_
+ _[AA:A981, FAR EAST 26A]_

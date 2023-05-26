@@ -1,14 +1,19 @@
 ---
-title: "10 Memorandum prepared for Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 10
+doc_date: '1937-02-10'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 176874
+  naa_control_symbol: IMP 145A PART 16
+  naa_series: A981
+  reference: '[AA : A981, IMPERIAL RELATIONS 145A]'
+title: Memorandum prepared for Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-02-10
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 10 Memorandum prepared for Delegation to Imperial Conference
-
-## Extract n.d. [after 10 February 1937]
+Extract n.d. [after 10 February 1937]
 
 THE UNITED STATES
 
@@ -26,7 +31,7 @@ Considerable interest has been displayed both in the Australian and American pre
 
 It is felt that the appointment of officers to centres of particular importance to Australia will give continuity to the policy of maintaining the closest and most friendly relations with all countries in the Pacific zone. It will also facilitate the provision by the Commonwealth Government of trained and experienced officers in international affairs and lay the foundation for any future representation of a higher status which the Government of the day may consider necessary. [2]
 
-1 A report, written by S. M. Bruce in 1932, has not been found, but its contents were referred to in a Cabinet submission from the External Affairs Department dated 8 July 1936 (AA: A981, EA Dept 152) and in a Cabinet submission from the Prime Minister's Department on the Commonwealth Office in New York (PM&amp;C: A2694, 10 December 1937). It appears from these submissions that Bruce advocated that a member of the External Affairs Department be attached to the staff of the British Embassy in Washington as a liaison officer. In 1932 Bruce was Minister resident in London; in 1933 he became High Commissioner in London.
+1 A report, written by S. M. Bruce in 1932, has not been found, but its contents were referred to in a Cabinet submission from the External Affairs Department dated 8 July 1936 (AA: A981, EA Dept 152) and in a Cabinet submission from the Prime Minister's Department on the Commonwealth Office in New York (PM&C: A2694, 10 December 1937). It appears from these submissions that Bruce advocated that a member of the External Affairs Department be attached to the staff of the British Embassy in Washington as a liaison officer. In 1932 Bruce was Minister resident in London; in 1933 he became High Commissioner in London.
 
 2 Memorandum prepared in Department of External Affairs.
 

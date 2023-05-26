@@ -1,20 +1,23 @@
 ---
-title: "44 MINUTE, BUNTING TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9909
+doc_date: '1965-11-23'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 1160345
+  naa_control_symbol: 1965/6595 PART 2
+  naa_series: A1209
+  reference: '[NAA: A1209, 1965/6595 PART 2]'
+title: MINUTE, BUNTING TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-11-23
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 44 MINUTE, BUNTING TO MENZIES
-
-NAA: A1209, 1965/6595 PART 2
 
 Canberra, 23 November 1965
 
 Top Secret
 
-****
+ ****
 
 Discussion with the British High Commissioner
 
@@ -22,17 +25,17 @@ I attach:–
 
   1. Mr. Wilson’s latest message—19th November;
   2. Your message of 22nd October, to which Mr. Wilson was responding;
-  3. Extracts from the Eastman/Hartnell/Bunting account on your meeting in London with Mr. Wilson and other Ministers at the House of Commons.1
+  3. Extracts from the Eastman/Hartnell/Bunting account on your meeting in London with Mr. Wilson and other Ministers at the House of Commons.[1](#f1)
 
 
 
-2\. I have included the third of these because I do not disregard the possibility that Johnston2 will have been furnished for his meeting with you with an account of the various discussions on Singapore which, for this purpose, began with your London meeting. Therefore a refresher for yourself may be useful. The important thing for present purposes is that although you agreed that it could be unwise to rely indefinitely on the use of Singapore, and that contingency planning, privately conducted, was therefore a prudent course, you made it clear that we want the British to stay in Singapore as long as they can. Mr. Wilson acknowledged that this was their intention.
+2\. I have included the third of these because I do not disregard the possibility that Johnston[2](#f2) will have been furnished for his meeting with you with an account of the various discussions on Singapore which, for this purpose, began with your London meeting. Therefore a refresher for yourself may be useful. The important thing for present purposes is that although you agreed that it could be unwise to rely indefinitely on the use of Singapore, and that contingency planning, privately conducted, was therefore a prudent course, you made it clear that we want the British to stay in Singapore as long as they can. Mr. Wilson acknowledged that this was their intention.
 
 3\. The particular reason for the High Commissioner’s call on you is to seek elaboration of that part of your message to Mr. Wilson which refers to the British staying in Singapore, even in adversity. Therefore I will deal with that first, though I realize that you need little reminding of it.
 
-4\. When Hicks and Mclntyre were in London,3 and again later in a message from Mr. Wilson of 25th September,4 there was reference to withdrawal ‘in good order’ and also to ‘no intention of being forced out of Singapore in a humiliating manner’. Throughout, there is considerable emphasis on this idea of respectable exit. This emphasis, notwithstanding other references to a more tenacious attitude, gave the impression to us that the British may be in the process of giving up the idea of staying in Singapore as long as possible.
+4\. When Hicks and Mclntyre were in London,[3](#f3) and again later in a message from Mr. Wilson of 25th September,[4](#f4) there was reference to withdrawal ‘in good order’ and also to ‘no intention of being forced out of Singapore in a humiliating manner’. Throughout, there is considerable emphasis on this idea of respectable exit. This emphasis, notwithstanding other references to a more tenacious attitude, gave the impression to us that the British may be in the process of giving up the idea of staying in Singapore as long as possible.
 
-5\. There was also the background that Enoch Powell5 had just spoken at the Conservative Party Conference, putting forward his neutralization theory—that the Western presence should be withdrawn from South-East Asia so that a natural balance of forces would come into existence.
+5\. There was also the background that Enoch Powell[5](#f5) had just spoken at the Conservative Party Conference, putting forward his neutralization theory—that the Western presence should be withdrawn from South-East Asia so that a natural balance of forces would come into existence.
 
 6\. It may be that what Mr. Wilson now seeks from you is not so much what you had in mind by suggesting staying in Singapore even in adversity, but what degree of adversity we would expect them to endure.
 
@@ -40,7 +43,7 @@ I attach:–
 
 ATTACHMENT D—NOTES FOR DISCUSSION WITH BRITISH HIGH COMMISSIONER ON RETENTION OF THE SINGAPORE BASE AND ASSOCIATED MATTERS
 
-_We should stay in Singapore ‘even in adversity’:_
+ _We should stay in Singapore ‘even in adversity’:_
 
 1\. We emphasize our apprehensions about China.
 
@@ -56,7 +59,7 @@ _We should stay in Singapore ‘even in adversity’:_
 
 7\. The important objective is mutual understanding over the base with Lee and his Government, even if this means giving a little ground on the formal wording of the Treaty.
 
-_Overall Strategic Considerations:_
+ _Overall Strategic Considerations:_
 
 8\. The future of the area depends largely on China, and it is for the global strategic objective of containing China that, in large part, the bases should be retained.
 
@@ -81,3 +84,5 @@ _Overall Strategic Considerations:_
 4 See attachment to Document 40.
 
 5 Conservative politician in the UK who resigned from the Shadow Cabinet in 1968 over immigration. He had strong views on national identity and Britain’s role in the world. He was opposed to entry into the EEC and dismissive of the Commonwealth. But in that he saw neutralisation as the solution to the problems of Southeast Asia, his views were similar to those of the Foreign Office in Britain.
+
+[NAA: A1209, 1965/6595 PART 2]

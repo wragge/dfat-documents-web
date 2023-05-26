@@ -1,14 +1,19 @@
 ---
-title: "128 Gilchrist to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4312
+doc_date: '1947-07-21'
+doc_num: 128
+doc_order: 128
+naa_refs:
+- naa_barcode: 197340
+  naa_control_symbol: PI47/1/1/7 PART 1
+  naa_series: A1068
+  reference: '[AA:A1068/1, P147/1/1/7, i]'
+title: Gilchrist to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-07-21
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
 
-# 128 Gilchrist to Burton
-
-## Minute CANBERRA, 21 July 1947
+Minute CANBERRA, 21 July 1947
 
 INDONESIAN SITUATION
 
@@ -26,7 +31,7 @@ The Foreign Office announced that British Government was always ready to place i
 
 From Graham Jenkins (Reuters and Argus correspondent) Dr. Gani and other Indonesian leaders have been arrested in Batavia. From Indonesian Radio 10 a.m. this morning Indonesian announcement that Dutch planes had appeared over Djokjakarta earlier this morning and circled the town at a low level. 'This provocative demonstration did not produce any Indonesian reaction.' Referring to the 'alleged outbreak of hostilities' Indonesian Radio said that Dutch military circles were apparently looking for a pretext for military campaign. 'The Indonesians will fight only if forced to defend their freedom.'
 
-_
+ _
 
 1 Overseas radio broadcasts were monitored by the 'Listening Post', pan of the Shortwave Division of the Department of Information.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A1068/1, P147/1/1/7, i]_
+ _[AA:A1068/1, P147/1/1/7, i]_

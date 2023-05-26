@@ -1,14 +1,19 @@
 ---
-title: "241 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 1: 1937-38"
-doc_id: 240
+doc_date: '1938-08-19'
+doc_num: 241
+doc_order: 240
+naa_refs:
+- naa_barcode: 177773
+  naa_control_symbol: LEAGUE 19TH ASS 2
+  naa_series: A981
+  reference: '[AA : A981, L. OF N. ASSEMBLIES, 19TH, ii]'
+title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-08-19
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 241 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 19 August 1938,
+Cablegram unnumbered 19 August 1938,
 
 Desire following view of Commonwealth Government be communicated to Dominions Office reference telegram B.185 of 30th July. [1] Application of principles of Covenant. His Majesty's Government in the Commonwealth of Australia has given careful consideration to proposals put forward in your telegram.
 
@@ -20,7 +25,7 @@ Commonwealth Government interprets United Kingdom proposal concerning Article XV
 
 LYONS
 
-_
+ _
 
 1 Document 234.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA : A981, L. OF N. ASSEMBLIES, 19TH, ii]_
+ _[AA : A981, L. OF N. ASSEMBLIES, 19TH, ii]_

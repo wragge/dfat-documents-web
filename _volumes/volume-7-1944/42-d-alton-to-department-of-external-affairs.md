@@ -1,12 +1,17 @@
 ---
-title: "42 D'Alton to Department of External Affairs"
-volume: "Volume 7: 1944"
-doc_id: 2689
+doc_date: '1944-02-05'
+doc_num: 42
+doc_order: 42
+naa_refs:
+- naa_barcode: 185309
+  naa_control_symbol: 1943/735/168
+  naa_series: A989
+  reference: '[AA:A989, 43/735/.68]'
+title: D'Alton to Department of External Affairs
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-05
+vol_title: 'Volume 7: 1944'
 ---
-
-# 42 D'Alton to Department of External Affairs
 
 Cablegram 18 WELLINGTON, 5 February 1944, 2.05 p.m.
 
@@ -28,7 +33,7 @@ Mr. Fraser doubted whether the Netherlands would accept an invitation to a confe
 
 D'ALTON
 
-_
+ _
 
 1 See Document 40.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/.68]_
+ _[AA:A989, 43/735/.68]_

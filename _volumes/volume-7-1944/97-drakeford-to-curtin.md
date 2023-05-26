@@ -1,14 +1,19 @@
 ---
-title: "97 Drakeford to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2744
+doc_date: '1944-03-27'
+doc_num: 97
+doc_order: 97
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 658]'
+title: Drakeford to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-27
+vol_title: 'Volume 7: 1944'
 ---
 
-# 97 Drakeford to Curtin
-
-## Letter CANBERRA, 27 March 1944
+Letter CANBERRA, 27 March 1944
 
 With reference to your mission abroad, I attach hereto a memorandum for your guidance and information on matters relating to Civil Aviation. This, as requested, is furnished in duplicate.
 
@@ -48,7 +53,7 @@ The policy of Internationalisation announced and supported by the Commonwealth a
 
 11\. Australia is in a position to create now an organisation which could establish all its internal airlines and expand them overseas and this organisation could be ready to do this immediately the war with Japan ends and probably sooner, because American aircraft will be obtainable even if British aircraft are not then available.
 
-_
+ _
 
 1 See Document 26.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 658]_
+ _[AA:A5954, BOX 658]_

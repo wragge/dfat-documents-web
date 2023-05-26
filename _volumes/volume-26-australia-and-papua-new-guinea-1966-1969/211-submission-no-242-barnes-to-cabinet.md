@@ -1,29 +1,33 @@
 ---
-title: "211 Submission No. 242, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9719
+doc_date: '1968-07-17'
+doc_num: 211
+doc_order: 211
+naa_refs:
+- naa_barcode: 3068609
+  naa_control_symbol: '242'
+  naa_series: A5868
+  reference: '[NAA: A5868, 242]'
+title: Submission No. 242, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-07-17
-barcode: 3068609
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 211 Submission No. 242, Barnes To Cabinet
 
 Canberra, 17 July 1968
 
 Confidential
 
-**Review of policy on Asian investment in Papua and New Guinea**
+ **Review of policy on Asian investment in Papua and New Guinea**
 
-_Background_
+ _Background_
 
-In Submission No. 320 on Policies for Private Investment in Papua and New Guinea of 30th June, 1967,1 I recommended that in view of the need for a substantial increase in private investment in the Territory consideration be given to easing the existing Commonwealth Government restrictions in Asian investment.
+In Submission No. 320 on Policies for Private Investment in Papua and New Guinea of 30th June, 1967,[1](#f1) I recommended that in view of the need for a substantial increase in private investment in the Territory consideration be given to easing the existing Commonwealth Government restrictions in Asian investment.
 
-2\. In Decision No. 418(M) of 19th July, 1967,2 Cabinet agreed that arrangements relating to Asian investment should be reviewed with a view to easing the restraints on investment from that source. Cabinet directed that the review should be undertaken by a Committee consisting of Prime Minister’s, Trade and Industry, Treasury, External Affairs and Territories Departments, consulting other Departments as necessary.
+2\. In Decision No. 418(M) of 19th July, 1967,[2](#f2) Cabinet agreed that arrangements relating to Asian investment should be reviewed with a view to easing the restraints on investment from that source. Cabinet directed that the review should be undertaken by a Committee consisting of Prime Minister’s, Trade and Industry, Treasury, External Affairs and Territories Departments, consulting other Departments as necessary.
 
-3\. The findings and recommendations of the Committee are set out in the attached report.3 The recommendations are supported by all the Departments represented on the Committee. I am in full agreement with these recommendations.
+3\. The findings and recommendations of the Committee are set out in the attached report.[3](#f3) The recommendations are supported by all the Departments represented on the Committee. I am in full agreement with these recommendations.
 
-_Committees recommendations_
+ _Committees recommendations_
 
 4\. The Committee recommends that existing Commonwealth Government restrictions on Asian investment in the Territory should be removed and that such investment should be treated in the same way and subject to the same guidelines and safeguards as investment from other foreign countries (paragraphs 11 to 17). I consider this recommendation soundly based in view of the political and economic developments that have taken place in Papua and New Guinea since the present policy on Asian investment was formulated in 1963/64. Private investment has a rapidly growing part to play in the development of the Territory. The proposed removal of restrictions will make it somewhat easier for the Territory to attract Asian investment, and in view of the tighter capital supply position in the leading capital exporting countries such as Britain and the United States of America this will be helpful in promoting the economic development of the Territory.
 
@@ -37,11 +41,11 @@ _Committees recommendations_
 
 9\. If Cabinet approves this submission I would arrange, in consultation with the Minister for External Affairs, for representatives of selected Asian countries to be informed of the change in the Government’s policy on Asian investment in the Territory.
 
-_Recommendation_
+ _Recommendation_
 
-10\. I support the recommendations of the Interdepartmental Committee as set out in paragraph 31 of the attached report 4 and submit them for Cabinet’s approval.
+10\. I support the recommendations of the Interdepartmental Committee as set out in paragraph 31 of the attached report [4](#f4) and submit them for Cabinet’s approval.
 
-[ [NAA: A5868, 242](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3068609) ]
+[NAA: A5868, 242]
 
 1 Document 130.
 
@@ -49,4 +53,4 @@ _Recommendation_
 
 3  Not printed. 
 
-4  These recommendations were substantively those set out above. 
+4  These recommendations were substantively those set out above.

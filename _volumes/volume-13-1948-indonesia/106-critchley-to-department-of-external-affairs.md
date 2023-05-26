@@ -1,12 +1,17 @@
 ---
-title: "106 Critchley to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5373
+doc_date: '1948-03-17'
+doc_num: 106
+doc_order: 106
+naa_refs:
+- naa_barcode: 216924
+  naa_control_symbol: '102'
+  naa_series: A10158
+  reference: '[AA:AA10158, 102]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-03-17
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 106 Critchley to Department of External Affairs
 
 Cablegram K93 BATAVIA, 17 March 1948
 
@@ -46,10 +51,10 @@ Both programs were referred to committees' composed of both delegations under Go
 
 Detailed questionnaires have been submitted to both parties regarding West Java and Madura developments and upon receipt of complete replies and assembly of other data, the Committee's reports thereon will be forwarded.
 
-_
+ _
 
 1 The main committees of the Conference between the Delegations of the Netherlands and the Republic of Indonesia were the Political Committee, the Economic and Financial Committee, the Social and Administrative Committee, and the Security Committee.
 
 _
 
-_ [AA:AA10158, 102]_
+ _[AA:AA10158, 102]_

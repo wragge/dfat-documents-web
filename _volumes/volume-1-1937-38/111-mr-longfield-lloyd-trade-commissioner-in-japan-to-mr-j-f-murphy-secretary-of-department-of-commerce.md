@@ -1,12 +1,18 @@
 ---
-title: "111 Mr Longfield Lloyd, Trade Commissioner in Japan, to Mr J. F. Murphy, Secretary of Department of Commerce"
-volume: "Volume 1: 1937-38"
-doc_id: 110
+doc_date: '1937-10-06'
+doc_num: 111
+doc_order: 110
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90B, i]'
+title: Mr Longfield Lloyd, Trade Commissioner in Japan, to Mr J. F. Murphy, Secretary
+  of Department of Commerce
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-10-06
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 111 Mr Longfield Lloyd, Trade Commissioner in Japan, to Mr J. F. Murphy, Secretary of Department of Commerce
 
 Memorandum [1] TOKYO, 6 October 1937
 
@@ -36,7 +42,7 @@ method (b) is diplomatically unobjectionable and should provide the readiest sol
 
 It is a considered opinion that the fulfilment of the Brassert- Japan Mining Agreement could have the practical effect of affording a foothold to Japan upon Australian territory for a very long time and the position is so exceedingly serious as to justify the compulsory cancellation of the Brassert scheme by any means whatsoever.
 
-_
+ _
 
 1 This memorandum was sent to W. R. Hodgson (Secretary, Department of External Affairs) by J. F. Murphy (Secretary, Department of Commerce) on 23 November 1937, together with a memorandum prepared in the Department of Commerce on the subject of Yampi Sound iron ore deposits (not printed; see AA : A981, Australia qua, i).
 
@@ -44,4 +50,4 @@ Murphy asked Hodgson to consider the matter in so far as its external political 
 
 _
 
-_ [AA : A981, AUSTRALIA 90B, i] LONGFIELD LLOYD_
+ _[AA : A981, AUSTRALIA 90B, i] LONGFIELD LLOYD_

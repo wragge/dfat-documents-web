@@ -1,12 +1,17 @@
 ---
-title: "17 Cablegram From Menzies to Spender"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8368
+doc_date: '1950-09-20'
+doc_num: 17
+doc_order: 17
+naa_refs:
+- naa_barcode: 11476448
+  naa_control_symbol: UN1950/01T
+  naa_series: A6366
+  reference: '[NAA : A6366, UN50/1 OUT]'
+title: Cablegram From Menzies to Spender
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1950-09-20
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 17 Cablegram From Menzies to Spender
 
 Cablegram, New York, 20 September 1950
 
@@ -18,10 +23,10 @@ At home, the economic clouds grow thicker, and I need not tell you that you are 
 
 With warm regards and appreciation your strenuous labours.[2]
 
-_ 1 Spender had left Australia by air on 6 August to represent Australia at the Fifth Session of the UN General Assembly in New York which began on 19 September. Spender had visited Rome, Geneva, Paris and London en route to New York.
+ _1 Spender had left Australia by air on 6 August to represent Australia at the Fifth Session of the UN General Assembly in New York which began on 19 September. Spender had visited Rome, Geneva, Paris and London en route to New York.
 
 2 Cablegram 513 to Washington of 14 September communicated media reports of comments attributed to Spender at a press conference in Washington to the effect that he had 'called for the creation of a Pacific Pact similar to the North Atlantic Pact. The group envisaged by Mr. Spender would include Australia, New Zealand, the Philippines and North and South American countries bordering on the Pacific Ocean. He said the Pact should bind the parties to mutually defensive action in the event of aggression against any one of them. Australia was prepared to accept its full responsibility in fighting aggression. The creation of a Pacific Pact would prevent communism from exploiting soft spots in the area. 'We feel that unless we stand together we will be destroyed separately''.
 
 _
 
-_ [NAA : A6366, UN50/1 OUT]_
+ _[NAA : A6366, UN50/1 OUT]_

@@ -1,12 +1,18 @@
 ---
-title: "152 Dixon to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2443
+doc_date: '1943-04-06'
+doc_num: 152
+doc_order: 152
+naa_refs:
+- naa_barcode: 853953
+  naa_control_symbol: '140'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,
+    FILE No. 4, 9/1943]'
+title: Dixon to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-04-06
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 152 Dixon to Curtin
 
 Cablegram S71 WASHINGTON, 6 April 1943, 6.33 p.m.
 
@@ -24,7 +30,7 @@ Franklin D. Roosevelt
 
 ENDS.
 
-_ 1 See Document 148, note 1.
+ _1 See Document 148, note 1.
 
 2 Evatt arrived in Washington on 10 April. His party included Mrs Evatt, W. S. Robinson, Dr H. C. Coombs and Dr J. W. Burton.
 
@@ -36,4 +42,4 @@ Evatt . . . 1943.
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 4, 9/1943]_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 4, 9/1943]_

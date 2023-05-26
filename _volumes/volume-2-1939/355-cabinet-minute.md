@@ -1,14 +1,19 @@
 ---
-title: "355 Cabinet Minute"
-volume: "Volume 2: 1939"
-doc_id: 692
+doc_date: '1939-11-13'
+doc_num: 355
+doc_order: 355
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A2697
+  reference: '[AA: A2697, VOL. 3B]'
+title: Cabinet Minute
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-13
+vol_title: 'Volume 2: 1939'
 ---
 
-# 355 Cabinet Minute
-
-## Minute 228 CANBERRA, 13 November 1939
+Minute 228 CANBERRA, 13 November 1939
 
 WAR AIMS The Prime Minister [1] read to Cabinet the reply of the British Government [2] to his cable on the war aims of the Commonwealth (31/10/39). [3] An appreciation of Sir Eric Phipps, Ambassador at Paris, was also read, indicating his views of the mental background of the French people on the matter of war aims. [4]
 
@@ -16,7 +21,7 @@ It was agreed that the British statement was too uncertain and that there were i
 
 It was agreed that the Prime Minister should, along the general lines indicated, prepare and despatch a cablegram to the United Kingdom. [5]
 
-_
+ _
 
 1 R.G. Menzies.
 
@@ -32,4 +37,4 @@ Campbell, UX. Charge d'Affaires in Paris.
 
 _
 
-_ [AA: A2697, VOL. 3B]_
+ _[AA: A2697, VOL. 3B]_

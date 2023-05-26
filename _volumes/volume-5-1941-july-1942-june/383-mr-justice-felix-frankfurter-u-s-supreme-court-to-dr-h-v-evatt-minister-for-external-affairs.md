@@ -1,11 +1,19 @@
 ---
-title: "383 Mr Justice Felix Frankfurter, U.S. Supreme Court, to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2137
+doc_date: '1942-02-27'
+doc_num: 383
+doc_order: 384
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL''S DEPT
+    FILE MI, MINISTERPERSONAL TELEGRAMS]'
+title: Mr Justice Felix Frankfurter, U.S. Supreme Court, to Dr H. V. Evatt, Minister
+  for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 383 Mr Justice Felix Frankfurter, U.S. Supreme Court, to Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram unnumbered WASHINGTON, 27 [February 1942]
 
@@ -19,7 +27,7 @@ On the basis of our candid friendship I should like to add a word about Casey [2
 
 He enjoys the complete confidence of all in authority here from the highest down for his zeal on behalf of his country, for his persuasiveness and discretion. I myself have had the best of opportunity for testing his qualities and I can assure you that he deserves your complete confidence.
 
-_ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
+ _
 
 1 Document 359.
 
@@ -27,4 +35,4 @@ _ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
 
 _
 
-_ [FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S_
+ _[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]_

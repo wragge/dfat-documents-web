@@ -1,14 +1,19 @@
 ---
-title: "379 Sir John Latham, Minister to Japan, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1610
+doc_date: '1941-04-02'
+doc_num: 379
+doc_order: 379
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3830,1941,829]'
+title: Sir John Latham, Minister to Japan, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-02
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 379 Sir John Latham, Minister to Japan, to Department of External Affairs
-
-## Cablegram 169 TOKYO, 2 April 1941, 6.55 p.m.
+Cablegram 169 TOKYO, 2 April 1941, 6.55 p.m.
 
 Vice-Minister [1] sent for me yesterday and gave me long message from Matsuoka [2] asking for my assistance to his appeal that Wilhelm Herman Solf be released from internment in Australia and either be allowed to return to Germany or to stay in Japan for duration. Appeal based on Matsuoka's affection for Solf's father former German Ambassador here. [3] If granted guaranteed no publicity here. Presume Australia will act according to British instructions as Self received from Great Britain.
 
@@ -20,7 +25,7 @@ I suggest, however, that in the first place you should direct me to reply that r
 
 LATHAM
 
-_
+ _
 
 1 Chuichi Ohashi.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A3830,1941,829]_
+ _[AA:A3830,1941,829]_

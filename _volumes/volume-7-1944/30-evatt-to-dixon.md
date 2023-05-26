@@ -1,12 +1,17 @@
 ---
-title: "30 Evatt to Dixon"
-volume: "Volume 7: 1944"
-doc_id: 2677
+doc_date: '1944-01-25'
+doc_num: 30
+doc_order: 30
+naa_refs:
+- naa_barcode: 1351827
+  naa_control_symbol: 265M
+  naa_series: A3300
+  reference: '[AA:A3300/T1, 1944, WAR: U.S.B.C. SPECIAL COMS TO THE PRESIDENT]'
+title: Evatt to Dixon
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-25
+vol_title: 'Volume 7: 1944'
 ---
-
-# 30 Evatt to Dixon
 
 Cablegram 105 CANBERRA, 25 January 1944, 11.40 p.m.
 
@@ -30,10 +35,10 @@ In the Australian press of 20th January a report is published of an interview wi
 
 JOHN CURTIN
 
-_
+ _
 
 1 See part 4 of Evatt's cablegram S22 of 3-4 April 1942 on file AA: A981, War 33, Attachment C.
 
 _
 
-_ [AA:A3300/T1, 1944, WAR: U.S.B.C. SPECIAL COMS TO THE PRESIDENT]_
+ _[AA:A3300/T1, 1944, WAR: U.S.B.C. SPECIAL COMS TO THE PRESIDENT]_

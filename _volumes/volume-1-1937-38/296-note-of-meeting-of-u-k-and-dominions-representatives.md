@@ -1,12 +1,17 @@
 ---
-title: "296 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 295
+doc_date: '1938-09-30'
+doc_num: 296
+doc_order: 295
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-30
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 296 Note of Meeting of U.K. and Dominions Representatives
 
 LONDON, 30 September 1938, 11.30 a.m.
 
@@ -30,7 +35,7 @@ MR MACDONALD said that he felt (and could say so as he was not now Secretary of 
 
 MR DULANTY remarked, amid general laughter (with reference to Mr Hughes' recent attack on the Dominions Office) 5 that it was a good achievement for an office that was not wanted!
 
-_
+ _
 
 1 3 October 1938.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

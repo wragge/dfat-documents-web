@@ -1,12 +1,17 @@
 ---
-title: "61 Fraser to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2708
+doc_date: '1944-03-01'
+doc_num: 61
+doc_order: 61
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989,43/125/5/6/1, ii]'
+title: Fraser to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 61 Fraser to Evatt
 
 Cablegram 39 WELLINGTON, 1 March 1944, 10.50 p.m.
 
@@ -26,7 +31,7 @@ I do, however, see some advantage for the reasons set out above in not publicizi
 
 Regards.
 
-_
+ _
 
 1 Document 58.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A989,43/125/5/6/1, ii]_
+ _[AA:A989,43/125/5/6/1, ii]_

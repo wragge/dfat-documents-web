@@ -1,13 +1,22 @@
 ---
-title: "41 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2332
+doc_date: '1942-09-08'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 242514
+  naa_control_symbol: '10'
+  naa_series: M104
+  reference: '[AA:M104, 10]'
+- naa_barcode: 853952
+  naa_control_symbol: '139'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,
+    FILE No. 3, 48/1942]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-08
-barcode: 242514
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 41 Churchill to Curtin
 
 Cablegram 594 [1] LONDON, 8 September 1942, 6.43 p.m.
 
@@ -33,7 +42,7 @@ I have consulted the Chiefs of Staff and the following are their views:-
 
 6\. Administrative plans and preparations for an emergency move of a portion of the Eastern Fleet capital ship and carrier strength to the SouthWest Pacific Area or, in certain circumstances, temporarily to the Atlantic and Mediterranean are, however, in train, and the A.C.N.B. [5] is being kept informed. [6]
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 2 Document 27.
 
@@ -137,7 +146,7 @@ Given these initial steps, the American O.W.I. [1] and the British Ministry of I
 
 It is essential to draw the peoples of the world into the process of discussion and this because out hope of actually achieving the Four Freedoms [2] will depend upon the peoples wanting them enough.
 
-[ [AA:M104, 10](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=242514) ]
+[AA:M104, 10]
 
 1 Office of War Information.
 
@@ -149,4 +158,4 @@ freedom from want and freedom from fear'.
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 3, 48/1942]_

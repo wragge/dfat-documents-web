@@ -1,14 +1,21 @@
 ---
-title: "17 Message from Muldoon to Fraser"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8887
+doc_date: '1979-05-10'
+doc_num: 17
+doc_order: 17
+naa_refs:
+- naa_barcode: 1389677
+  naa_control_symbol: 370/1/19/18 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19118, i]'
+title: Message from Muldoon to Fraser
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-05-10
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 17 Message from Muldoon to Fraser
-
-## 17 Message from Muldoon to Fraser1
+## 17 Message from Muldoon to Fraser[1](#f1)
 
 Wellington, 10 May 1979
 
@@ -16,7 +23,7 @@ RESTRICTED
 
 Begins:
 
-Thank you very much for your letter of 1 May 1979.2 Iwas very glad of the opportunity to hear Doug Anthony's thoughts when he was over here, on the economic and political environment which is likely to face both our countries in the 1980s, and to discuss with him in a general way the future of the Australia - New Zealand relationship. I found it a stimulating exchange.
+Thank you very much for your letter of 1 May 1979.[2](#f2) Iwas very glad of the opportunity to hear Doug Anthony's thoughts when he was over here, on the economic and political environment which is likely to face both our countries in the 1980s, and to discuss with him in a general way the future of the Australia - New Zealand relationship. I found it a stimulating exchange.
 
 Since the talks you and Brian Talboys had just over a year ago a number of arrangements have been made to open up dialogue and strengthen co-operation between us. I agree that the time has now come to make a broad reassessment of the longer term relationship between the two countries. I think that it is essential that we begin now to do some solid work on the options, so that we can make our choices in the light of the best information that is available.
 
@@ -28,9 +35,7 @@ Ends.
 
 ORIGINAL FOLLOWS BY BAG.
 
-_[NAA: A1838, 37011/19118, i]_
+ _[NAA: A1838, 37011/19118, i]_
 
   * 1 Conveyed through the Office of the High Commissioner for New Zealand in Canberra.
   * 2 Document 6. It was usual to send the text of a Prime Ministerial letter by cablegram to the Office of the High Commissioner with the request that it be passed to the Prime Minister. This sometimes resulted in a slight disparity in the dating of the letter. A signed copy of the letter was sent by bag.
-
-

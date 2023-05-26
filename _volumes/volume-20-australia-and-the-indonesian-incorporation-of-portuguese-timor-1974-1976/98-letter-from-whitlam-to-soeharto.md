@@ -1,12 +1,24 @@
 ---
-title: "98 Letter from Whitlam to Soeharto"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7937
+doc_date: '1975-02-28'
+doc_num: 98
+doc_order: 98
+naa_refs:
+- naa_barcode: 4151599
+  naa_control_symbol: 801/13/11/1 PART 7
+  naa_series: A10463
+  reference: '[NAA: Al0463, 801/13/ll/1, vii]'
+- naa_barcode: 4151560
+  naa_control_symbol: 3038/10/1/7 PART 1
+  naa_series: A1838
+  reference: '[Minute from Rowland to Whitlam, 27 February, on file NAA: Al838, 3038/10/1/7,
+    i.]'
+title: Letter from Whitlam to Soeharto
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-02-28
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 98 Letter from Whitlam to Soeharto
 
 Canberra, 28 February 1975
 
@@ -44,14 +56,12 @@ The UDT-FRETILIN proposals could offer, I suggest, a promising basis for close c
 
 Should you perceive the same possibilities as I do in this approach, I should be happy for such consultations as you might wish between our two Governments. Our Ambassador is ready to take part in discussions. I can assure you that, whatever solution may be found, Indonesia's interests will certainly continue to weigh very heavily in our own thinking.
 
-I have written to you at some length, Your Excellency, because I feel that the depth and importance of the relationship between our two countries is such that I owe it to you to expose our views fully. I hope that you will see value in the approach to Portuguese Timor which I describe, and will agree with me that it could offer to our two countries the opportunity to develop a further area of close and useful co-operation.1
+I have written to you at some length, Your Excellency, because I feel that the depth and importance of the relationship between our two countries is such that I owe it to you to expose our views fully. I hope that you will see value in the approach to Portuguese Timor which I describe, and will agree with me that it could offer to our two countries the opportunity to develop a further area of close and useful co-operation.[1](#f1)
 
 Yours sincerely
 
 GOUGH WHITLAM
 
-_[NAA: Al0463, 801/13/ll/1, vii]_
+ _[NAA: Al0463, 801/13/ll/1, vii]_
 
-  * 1 In submitting the final draft, Rowland proposed that the text of the letter be telegraphed to the Embassy in Jakarta so that it could be 'handed in' before the weekend. Woolcott was to arrive there with the signed copy on Monday 3 March, and was unlikely to be able to give it to Soeharto before 4 March. Despite JIO's assessment that prospects of immediate military action were 'nil', 'there are a few ominous seeming signs'. [Minute from Rowland to Whitlam, 27 February, on file NAA: Al838, 3038/10/1/7, i.] 
-
-
+  * 1 In submitting the final draft, Rowland proposed that the text of the letter be telegraphed to the Embassy in Jakarta so that it could be 'handed in' before the weekend. Woolcott was to arrive there with the signed copy on Monday 3 March, and was unlikely to be able to give it to Soeharto before 4 March. Despite JIO's assessment that prospects of immediate military action were 'nil', 'there are a few ominous seeming signs'. [Minute from Rowland to Whitlam, 27 February, on file NAA: Al838, 3038/10/1/7, i.]

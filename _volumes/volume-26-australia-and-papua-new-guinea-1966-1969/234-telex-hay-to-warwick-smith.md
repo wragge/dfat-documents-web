@@ -1,13 +1,17 @@
 ---
-title: "234 Telex, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9742
+doc_date: '1968-10-17'
+doc_num: 234
+doc_order: 234
+naa_refs:
+- naa_barcode: 5036516
+  naa_control_symbol: 1968/5430
+  naa_series: A452
+  reference: '[NAA: A452, 1968/5430]'
+title: Telex, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-10-17
-barcode: 5036516
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 234 Telex, Hay To Warwick Smith
 
 Port Moresby, 17 October 1968
 
@@ -15,13 +19,13 @@ Port Moresby, 17 October 1968
 
 Telegram dated 17th October from Administration broadcasting station Rabaul reads:
 
-> ‘At public meetings held near Rabaul last night one hundred New Guineans mainly Tolais unanimously elected Vin Tobaining as President of new political party. Party tentatively named Melanesian Independence Party.1 Party pledged to work constitutionally towards independence for New Guinea islands. Party has adopted frangipani2 as emblem to represent New Britain, New Ireland, Bougainville, the Admiralty group, and other islands within region.
+> ‘At public meetings held near Rabaul last night one hundred New Guineans mainly Tolais unanimously elected Vin Tobaining as President of new political party. Party tentatively named Melanesian Independence Party.[1](#f1) Party pledged to work constitutionally towards independence for New Guinea islands. Party has adopted frangipani[2](#f2) as emblem to represent New Britain, New Ireland, Bougainville, the Admiralty group, and other islands within region.
 
-> Party aims at next elections of House of Assembly to submit candidates for all of thirteen islands’ electorates. These candidates to press for referendum of people for or against independence not later than nineteen seventy five repeat 1975. Party envisages calling new country Melanesia which will be member of British Commonwealth of Nations with its own governor based in Rabaul and also will become full member United Nations Assembly. Party spokesman said party members understood widespread throughout New Guinea islands.3 This information issued in press statement from Tolai leaders also member of new party. Presently party has fifty financial membership’.
+> Party aims at next elections of House of Assembly to submit candidates for all of thirteen islands’ electorates. These candidates to press for referendum of people for or against independence not later than nineteen seventy five repeat 1975. Party envisages calling new country Melanesia which will be member of British Commonwealth of Nations with its own governor based in Rabaul and also will become full member United Nations Assembly. Party spokesman said party members understood widespread throughout New Guinea islands.[3](#f3) This information issued in press statement from Tolai leaders also member of new party. Presently party has fifty financial membership’.
 
-ABC midday radio report said two reasons given for formation of party—first, Moresby was too remote from the islands and the people there felt out on a limb, secondly, the islands people felt they had no real affinity with New Guinea mainland people from whom they regarded themselves as different.4
+ABC midday radio report said two reasons given for formation of party—first, Moresby was too remote from the islands and the people there felt out on a limb, secondly, the islands people felt they had no real affinity with New Guinea mainland people from whom they regarded themselves as different.[4](#f4)
 
-[ [NAA: A452, 1968/5430](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=5036516) ]
+[NAA: A452, 1968/5430]
 
 1 The party also became known as the Melanesian Independence Front.(MIF).
 

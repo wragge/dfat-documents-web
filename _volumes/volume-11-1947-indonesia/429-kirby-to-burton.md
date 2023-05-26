@@ -1,12 +1,17 @@
 ---
-title: "429 Kirby to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4613
+doc_date: '1947-11-20'
+doc_num: 429
+doc_order: 429
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1947, 1.22812]'
+title: Kirby to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-11-20
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 429 Kirby to Burton
 
 Cablegram 425 BATAVIA, 20 November 1947, 1.05 p.m.
 
@@ -26,7 +31,7 @@ Following is part two of my telegram. [1]
 
 11\. Stenographic assistance has just arrived from Singapore to my relief as I find insufficient time to keep you fully informed under present conditions. The staff are all working excellently under very trying conditions, but there will be a few breakdowns if the present pressure continues. As this is being ciphered your telegram 351 [6] has been received. Appreciate contents and after consideration will cable you thereon.
 
-_
+ _
 
 (1) Question: Do you wish the 'cease fire' order not only to mean an immediate cease fire but also both sides should stand fast and cease any move of any kind until negotiations between the two parties determine subsequent moves? Answer: Although we want this immediately, it is certainly not satisfactory to us other than as a first step urgently to be taken to commence implementing the Security Council resolution of November 1st.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [12]. Informal questions and answers by the Prime Minister._
+ _[12]. Informal questions and answers by the Prime Minister._

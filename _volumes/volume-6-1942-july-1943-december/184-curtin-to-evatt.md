@@ -1,12 +1,17 @@
 ---
-title: "184 Curtin to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2475
+doc_date: '1943-05-10'
+doc_num: 184
+doc_order: 184
+naa_refs:
+- naa_barcode: 185057
+  naa_control_symbol: 1944/715/5/2/2
+  naa_series: A989
+  reference: '[AA:A989, 43-44/715/5/2/2]'
+title: Curtin to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-10
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 184 Curtin to Evatt
 
 Cablegram SW22 CANBERRA, 10 May 1943
 
@@ -34,7 +39,7 @@ Should Russia negotiate a compromise peace with Germany, the fire and homogeneit
 
 appeared to me not only sound and proper but would also increase our status and influence. I feel that in the face of the Russian- Japanese pact that Australia now at war with Japan must keep Russia solid in the European war otherwise Japan need never fear Russia which is a present restraint upon her and while the fear persists lessens the strength the Japanese can project in her southern perimeter. [2]
 
-_
+ _
 
 1 Churchill and Roosevelt.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/715/5/2/2]_
+ _[AA:A989, 43-44/715/5/2/2]_

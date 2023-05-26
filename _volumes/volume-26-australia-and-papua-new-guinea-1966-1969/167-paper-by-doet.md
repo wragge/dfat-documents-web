@@ -1,16 +1,21 @@
 ---
-title: "167 Paper By Doet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9675
+doc_date: 1968-03
+doc_num: 167
+doc_order: 167
+naa_refs:
+- naa_barcode: 31698759
+  naa_control_symbol: 1970/4520
+  naa_series: A452
+  reference: '[NAA: A452, 1970/4520]'
+title: Paper By Doet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-03-18
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 167 Paper By Doet
 
 Canberra, undated
 
-**Points on Select Committee report2**
+ **Points on Select Committee report[2](#f2)**
 
 1\. Administrator felt that membership of the Nomination Committee should not preclude being Ministerial Member, e.g., can be member of Nominations Committee and Ministerial Member at the same time. Department does not feel that a Committee can nominate own members.
 
@@ -34,17 +39,17 @@ Canberra, undated
 
 11\. There should be express prohibition in an Ordinance conferring powers on a Ministerial Member; but that there should be no restriction on delegation.
 
-II._Additional points which have come up_
+II. _Additional points which have come up_
 
-1\. Dissolution—Administrator would like to consider points further.3
+1\. Dissolution—Administrator would like to consider points further.[3](#f3)
 
 2\. Number of Official Members to be ‘up to 10’.
 
 3\. Insert a power to assent to a part.
 
-4\. Insert a provision for message on priority of Government business.4
+4\. Insert a provision for message on priority of Government business.[4](#f4)
 
-[A452, 1970/4520]
+[NAA: A452, 1970/4520]
 
 1 That is, the Department of External Territories. The paper was neither signed nor dated.
 

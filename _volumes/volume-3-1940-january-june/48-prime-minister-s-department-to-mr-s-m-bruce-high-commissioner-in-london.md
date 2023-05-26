@@ -1,12 +1,17 @@
 ---
-title: "48 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 814
+doc_date: '1940-02-07'
+doc_num: 48
+doc_order: 48
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, 0.735]'
+title: Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-07
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 48 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 7 February 1940,
 
@@ -18,7 +23,7 @@ The Consul agreed that it would be wise to defer the proposed visit of the Milit
 
 As there is no immediate urgency it is proposed to follow this course.
 
-_
+ _
 
 1 Document 30.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA: A3196, 0.735]_
+ _[FA: A3196, 0.735]_

@@ -1,12 +1,17 @@
 ---
-title: "194 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 531
+doc_date: '1939-09-04'
+doc_num: 194
+doc_order: 194
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA:A981, GERMANY 83B, iii]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-04
+vol_title: 'Volume 2: 1939'
 ---
-
-# 194 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 405 LONDON, 4 September 1939, 6.48 p.m.
 
@@ -16,7 +21,7 @@ War Cabinet while too big and will doubtless be reduced later by the elimination
 
 BRUCE
 
-_
+ _
 
 1 Sir Percy Loraine.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA:A981, GERMANY 83B, iii]_
+ _[AA:A981, GERMANY 83B, iii]_

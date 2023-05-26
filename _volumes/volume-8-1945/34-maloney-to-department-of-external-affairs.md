@@ -1,12 +1,17 @@
 ---
-title: "34 Maloney to Department of External Affairs"
-volume: "Volume 8: 1945"
-doc_id: 3065
+doc_date: '1945-02-12'
+doc_num: 34
+doc_order: 34
+naa_refs:
+- naa_barcode: 188525
+  naa_control_symbol: IC45/6/2/1 PART 1
+  naa_series: A1066
+  reference: '[AA:A1066, IC45/6/2/i\1, i]'
+title: Maloney to Department of External Affairs
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-02-12
+vol_title: 'Volume 8: 1945'
 ---
-
-# 34 Maloney to Department of External Affairs
 
 Cablegram 29 Moscow, 12 February 1945, 7.15 p.m.
 
@@ -26,10 +31,10 @@ Dekanazov said that he would place the matter before his Government immediately 
 
 MALONEY
 
-_
+ _
 
 1 Dispatched 10 February. It advised that Molotov was unavailable because of the Yalta conference, and that Maloney would endeavour to present the note to Dekanazov, Assistant People's Commissar for Foreign Affairs of the Soviet Union. On file AA:A1066, IC45/6/2/1, i.
 
 _
 
-_ [AA:A1066, IC45/6/2/i\1, i]_
+ _[AA:A1066, IC45/6/2/i\1, i]_

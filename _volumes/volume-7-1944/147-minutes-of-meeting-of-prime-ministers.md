@@ -1,12 +1,17 @@
 ---
-title: "147 Minutes of Meeting of Prime Ministers"
-volume: "Volume 7: 1944"
-doc_id: 2794
+doc_date: '1944-05-12'
+doc_num: 147
+doc_order: 147
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A6712
+  reference: '[AA:A6712, 1944, TOP SECRET]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 147 Minutes of Meeting of Prime Ministers
 
 PMM(44) 13th Meeting (extracts) LONDON, 12 May 1944, 11 a.m.
 
@@ -96,7 +101,7 @@ In such circumstances, the right to free repatriation to the United Kingdom woul
 
 [matter omitted]
 
-_
+ _
 
 1 Documents on Australian Foreign Policy 1937-49, vol. VI, Document 293.
 
@@ -110,4 +115,4 @@ _
 
 _
 
-_ [AA:A6712, 1944, TOP SECRET]_
+ _[AA:A6712, 1944, TOP SECRET]_

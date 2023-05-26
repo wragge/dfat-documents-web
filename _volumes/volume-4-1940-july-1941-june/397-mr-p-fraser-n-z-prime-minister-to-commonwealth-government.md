@@ -1,12 +1,17 @@
 ---
-title: "397 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1628
+doc_date: '1941-04-09'
+doc_num: 397
+doc_order: 397
+naa_refs:
+- naa_barcode: 179238
+  naa_control_symbol: NEW C 5 PART 1
+  naa_series: A981
+  reference: '[AA: A981, NEW CALEDONIA 5A, i]'
+title: Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-09
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 397 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
 
 Cablegram 73 WELLINGTON, 9 April 1941, 11.55 p.m.
 
@@ -22,7 +27,7 @@ With reference to your telegrams 89 and 94. [1] The following are among the ques
 
 3\. It will be understood that the New Zealand Government have not allowed [7] their rendering such assistance as lay in their power to French Oceania.
 
-_
+ _
 
 1 AA: A3196, 1941, 0.3364 of 18 March and AA: A3196, 1941, 0.3599 of 22 March respectively.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA: A981, NEW CALEDONIA 5A, i]_
+ _[AA: A981, NEW CALEDONIA 5A, i]_

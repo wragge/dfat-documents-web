@@ -1,12 +1,17 @@
 ---
-title: "250 Memorandum by Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1481
+doc_date: '1941-01-13'
+doc_num: 250
+doc_order: 250
+naa_refs:
+- naa_barcode: 176213
+  naa_control_symbol: FAR 14 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 14A]'
+title: Memorandum by Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-13
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 250 Memorandum by Department of External Affairs
 
 Extract 13 January 1941
 
@@ -30,10 +35,10 @@ CONCLUSIONS 45. Even so, the degree of association between the French National C
 
 47\. Alternative (a) is not in question and at no time has it been, except as a possible consequence of the actions of the Vichy Government itself. On the other hand it does not seem that (b) has yet been clearly envisaged. Co-operation with de Gaulle has been accompanied by a genuine endeavour on the part of the United Kingdom Government to improve relations with Vichy, but the two objectives have so far been unrelated. It is a matter for consideration now whether events have not moved far enough to warrant some attempt to co-ordinate the two aims. If the actual assistance we are likely to get in the prosecution of the war from the Free French is weighed against the long term advantages of at least the benevolence of Metropolitan France, French North Africa, Syria and Indo-China, there can be little doubt which will count the more heavily. Certainly the first is not worth pursuing at the expense of the second.
 
-_
+ _
 
 1 Rene Ristelhueber.
 
 _
 
-_ [AA:A981, FAR EAST 14A]_
+ _[AA:A981, FAR EAST 14A]_

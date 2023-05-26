@@ -1,12 +1,18 @@
 ---
-title: "77 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1308
+doc_date: '1940-08-20'
+doc_num: 77
+doc_order: 77
+naa_refs:
+- naa_barcode: 176213
+  naa_control_symbol: FAR 14 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 14A]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-20
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 77 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 279 LONDON, 20 August 1940, 3 a.m.
 
@@ -24,7 +30,7 @@ Ambassador at Tokyo [3] urged that in view of torrents of abuse to which the Uni
 
 I have shown draft of this telegram to Bruce. [6]
 
-_
+ _
 
 1 See Document 63, note 2.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 14A]_
+ _[AA:A981, FAR EAST 14A]_

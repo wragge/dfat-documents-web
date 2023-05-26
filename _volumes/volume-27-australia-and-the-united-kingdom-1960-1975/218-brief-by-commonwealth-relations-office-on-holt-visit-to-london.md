@@ -1,23 +1,26 @@
 ---
-title: "218 BRIEF BY COMMONWEALTH RELATIONS OFFICE ON HOLT VISIT TO LONDON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10083
+doc_date: '1966-07-01'
+doc_num: 218
+doc_order: 218
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB 133/329]'
+title: BRIEF BY COMMONWEALTH RELATIONS OFFICE ON HOLT VISIT TO LONDON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-07-01
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 218 BRIEF BY COMMONWEALTH RELATIONS OFFICE ON HOLT VISIT TO LONDON
-
-UKNA: CAB 133/329
 
 London, 1 July 1966
 
 Confidential
 
-**Visit by the Australian Prime Minister to London  
+ **Visit by the Australian Prime Minister to London  
 Britain and the EEC: Talking Points**
 
-The question of British membership of the European Economic Community was covered very fully during the recent Trade Ministers’ Meeting, on 13–16 June. As the President of the Board of Trade1 explained, and as has been made clear in The Queen’s Speech and by Ministers in Parliament and outside, Britain would be ready to enter the Community provided essential British and Commonwealth interests were safeguarded.
+The question of British membership of the European Economic Community was covered very fully during the recent Trade Ministers’ Meeting, on 13–16 June. As the President of the Board of Trade[1](#f1) explained, and as has been made clear in The Queen’s Speech and by Ministers in Parliament and outside, Britain would be ready to enter the Community provided essential British and Commonwealth interests were safeguarded.
 
 2\. There is the political will, therefore, in Britain to join the Community; the main issue is whether it would be possible to negotiate the kinds of terms which would allow British membership under reasonable conditions.
 
@@ -34,3 +37,5 @@ During the recent Trade Ministers’ Meeting the Australian Minister of Trade, M
 3\. Mr McEwen is reported to have said at a Press Conference, after the recent Trade Ministers’ Meeting, that he thought that Britain was thinking in terms of years rather than months before she took the step of opening negotiations. When he saw the President of the Board of Trade he referred to the undertaking given by the President to Commonwealth Trade Ministers about keeping Commonwealth Governments informed of the progress of exploratory discussions. He said that he foresaw that it would be difficult for the British Government to be as communicative with the Commonwealth as a whole as it would be prepared to be bilaterally with Australia. He hoped therefore that it would be possible for the British Government to tell Australia bilaterally of significant developments of interest to Australia. The President assured Mr McEwen that the British Government would wish to keep in close touch with the Australian Government and that he did not see any difficulty about acceding to Mr McEwen’s suggestion.
 
 1  Douglas Jay. 
+
+[UKNA: CAB 133/329]

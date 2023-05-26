@@ -1,12 +1,17 @@
 ---
-title: "513 U.S. Department of State to Mr Nelson Trusler Johnson, U.S. Minister to Australia"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2267
+doc_date: '1942-06-01'
+doc_num: 513
+doc_order: 514
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FRANKLIN D. ROOSEVELT LIBRARY : P.S.F. SAFE FILE, BOX NO. 2. AUSTRALIA]'
+title: U.S. Department of State to Mr Nelson Trusler Johnson, U.S. Minister to Australia
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-01
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 513 U.S. Department of State to Mr Nelson Trusler Johnson, U.S. Minister to Australia
 
 Cablegram [189] [1] [WASHINGTON], 1 June 1942
 
@@ -18,7 +23,7 @@ QUOTE Because we face so many mutual problems across the Pacific, I think it wou
 
 FRANKLIN D. ROOSEVELT
 
-_ AUSTRALIA]
+ _
 
 1 Inserted from Johnson's letter to Cordell Hull (U.S. Secretary of State) of 21 July (in Franklin D. Roosevelt Library: P.S.F.
 
@@ -32,4 +37,4 @@ C. Smuts) to come to Washington. See Sir Owen Dixon's cablegram S61 of 26 June o
 
 _
 
-_ [FRANKLIN D. ROOSEVELT LIBRARY : P.S.F. SAFE FILE, BOX NO. 2._
+ _[FRANKLIN D. ROOSEVELT LIBRARY : P.S.F. SAFE FILE, BOX NO. 2. AUSTRALIA]_

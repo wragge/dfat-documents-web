@@ -1,18 +1,25 @@
 ---
-title: "237 Telegram from Templeton to Muldoon"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9106
+doc_date: '1982-03-11'
+doc_num: 237
+doc_order: 237
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Templeton to Muldoon
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-03-11
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 237 Telegram from Templeton to Muldoon
 
 Canberra, 11 March 1982
 
 No 679. CONFIDENTIAL IMMEDIATE
 
-**CER: Discussions with Doug Anthony and John Howard**
+ **CER: Discussions with Doug Anthony and John Howard**
 
 I was encouraged by the discussion I was able to have this morning with Doug Anthony, and John Howard. Although Doug did most of the talking, the fact that John Howard was present was also of some significance.
 
@@ -22,13 +29,11 @@ I was encouraged by the discussion I was able to have this morning with Doug Ant
   5. I rehearsed our arguments on both these issues, and we agreed that they, and probably dairy products, were the most likely issues to be left over for settlement at political meeting.
   6. Other issues we touched on included safeguards (okay to have them, but they must not be too all-embracing-presumably a reference to our wish to include import licensing within the safeguards arrangements.), Government purchasing (the Federal Government would continue to do what they could to help us on this, but it might not be much), and whiteware (a solution is foreseeable, there being only narrow differences remaining between the two sides).
   7. We also discussed the on-going timetable, and canvassed the possibility of Doug Anthony coming to NZ the week after the Permanent Heads meet (ie in week beginning 19 April). I undertook to check that timing with you. He will decide in the light of next week's Cabinet discussions.
-  8. The other matter was that of how much publicity should be given to the draft Heads of Agreement1 and when. There seemed to be a consensus between us that the DHOA should be published as soon after the Permanent Heads meeting as possible. An important point was that at that point there should be no square brackets or the like in the text, lest they be given the wrong emphasis in the media.
+  8. The other matter was that of how much publicity should be given to the draft Heads of Agreement[1](#f1) and when. There seemed to be a consensus between us that the DHOA should be published as soon after the Permanent Heads meeting as possible. An important point was that at that point there should be no square brackets or the like in the text, lest they be given the wrong emphasis in the media.
   9. All in all this was an encouraging meeting which presaged a favourable outcome for the discussions by the Australian Cabinet next week. If that indeed turns out to be so, we now need to refine our negotiating positions on Australia's two main areas of concern, import licensing and export incentives, in the near future. While Permanent Heads may not be able to resolve these and the few other 'stand-out' problems (eg dairy) the negotiating parameters do now need to be much more tightly drawn.
 
 
 
-_ [ABHS 950/Box 1228, 40/4/2 Part 2 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1228, 40/4/2 Part 2 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Document 139.
-
-

@@ -1,12 +1,18 @@
 ---
-title: "47 Kevin to Burton"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6216
+doc_date: '1949-01-07'
+doc_num: 47
+doc_order: 47
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Kevin to Burton
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-07
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 47 Kevin to Burton
 
 Cablegram 16 NEW DELHI, 7 January 1949, 9.50 p.m.
 
@@ -22,7 +28,7 @@ I think that I should also report that when I notified Bajpai yesterday of Austr
 
 Your telegrams 2 and 8 [3] have just been received and are being attended to.
 
-_
+ _
 
 1 See note 2 to Document 12.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

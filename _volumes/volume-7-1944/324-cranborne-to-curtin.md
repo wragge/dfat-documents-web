@@ -1,12 +1,17 @@
 ---
-title: "324 Cranborne to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2971
+doc_date: '1944-10-19'
+doc_num: 324
+doc_order: 324
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, E44/350/4/6]'
+title: Cranborne to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 324 Cranborne to Curtin
 
 Cablegram D1564 LONDON, 19 October 1944, 8.40 p.m.
 
@@ -28,7 +33,7 @@ Messages have been exchanged between Mr. Churchill and President Roosevelt regar
 
 8\. In anticipation of this event we are engaged in the preparation of a communication to be addressed by Mr. Duff Cooper to the French Minister for Foreign Affairs [3] on behalf of His Majesty's Government in the United Kingdom, the text of which will be communicated to you as soon as it is ready. Before sending final instructions to Mr. Duff Cooper we intend to show our draft to the State Department for their consideration.
 
-_
+ _
 
 1 Supreme Allied Commander, Allied Expeditionary Force, North-West Europe.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A989, E44/350/4/6]_
+ _[AA:A989, E44/350/4/6]_

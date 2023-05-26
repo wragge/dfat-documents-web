@@ -1,14 +1,17 @@
 ---
-title: "250 LETTER, DOWNER TO HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10115
+doc_date: '1967-11-28'
+doc_num: 250
+doc_order: 250
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NAA:MI002, 290]'
+title: LETTER, DOWNER TO HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-11-28
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 250 LETTER, DOWNER TO HOLT
-
-NAA:MI002, 290 
 
 London, 28 November 1967
 
@@ -28,7 +31,7 @@ As you can imagine, the atmosphere in the House was electric. The Benches were p
 
 What depresses me about the decision to devalue is that only strong, ruthless, hurtful, action by the Government will make it an effective remedy. Of this they give no promise. Harold Wilson continues to emphasise that there will be relief for those worst hit—the elderly, and other less fortunate sections of the community. This must imply some additional social payments. He is also adamant that there will be no cuts in expenditure on the Welfare State. He has said that there will be no reduction in allocations for education, schools, hospitals, and the like. All policy will be designed to achieve the goal of full employment. This is to be the lodestar.
 
-Simultaneously, Industry has received a few more buffets. Corporation tax is to be increased from 40% to 42%. The rebates to manufacturers of selective employment tax are withdrawn, except for industries in what are described as developing areas. Threats have been made about a close watch on increased dividends. There is no hint of a firmer policy towards some of the trade unions, for example the dockers and the railwaymen. Frank Cousins1 in his public utterances seems sulky and uncooperative.
+Simultaneously, Industry has received a few more buffets. Corporation tax is to be increased from 40% to 42%. The rebates to manufacturers of selective employment tax are withdrawn, except for industries in what are described as developing areas. Threats have been made about a close watch on increased dividends. There is no hint of a firmer policy towards some of the trade unions, for example the dockers and the railwaymen. Frank Cousins[1](#f1) in his public utterances seems sulky and uncooperative.
 
 Nor is there the slightest indication by the Government of any willingness to make it worthwhile for people to work harder by tax incentives. This is one of the strong points that the Conservatives have been plugging for months now. Indeed, they have come out with a series of specific pledges for tax reform. The Government, on their part, still seem to be thinking of higher taxation according to Socialist doctrinaire principles.
 
@@ -37,3 +40,5 @@ The defence cuts, although not very substantial, once more show the way the wind
 I hope I am wrong in my pessimistic feelings. If Wilson were a strong Prime Minister, a real National leader, all of us could entertain high hopes. After 3 years in office, when you consider his record of broken promises, and sharply changed attitudes, he emerges—regretfully—as a master of expediency, a tightrope dancer, a tempo riser, rather than a national figure. Either you or Bob could make devaluation work: Harold Wilson, unless he is assisted by adventitious circumstances, will not[...]
 
 1  General Secretary of the Transport and General Workers’ Union. 
+
+[NAA:MI002, 290]

@@ -1,14 +1,20 @@
 ---
-title: "164 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr F. Strahan, Secretary of Prime Minister's Department"
-volume: "Volume 1: 1937-38"
-doc_id: 163
+doc_date: '1938-03-25'
+doc_num: 164
+doc_order: 163
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr F.
+  Strahan, Secretary of Prime Minister's Department
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-25
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 164 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr F. Strahan, Secretary of Prime Minister's Department
-
-## Memorandum 25 March 1938,
+Memorandum 25 March 1938,
 
 I would invite the attention of the Prime Minister [1] and yourself to Circular Telegram B.73, Part 2 [2], in which it says the existing obligations of the British Government in connection with a possible attack on Czechoslovakia are comprised in (1) and (2). The latter (2) reads 'Their obligations as a signatory of the Treaty of Locarno as re-affirmed by the arrangement drawn up in London on 19th March, 1936.'
 
@@ -20,7 +26,7 @@ As this is a most important point, I feel that this note should go on your file 
 
 W. R. H[ODGSON]
 
-_
+ _
 
 1 J. A. Lyons.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

@@ -1,12 +1,18 @@
 ---
-title: "378 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2132
+doc_date: '1942-02-27'
+doc_num: 378
+doc_order: 379
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.8581]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-27
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 378 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram P54 LONDON, 27 February 1942, 3.20 a.m.
 
@@ -90,4 +96,4 @@ Cablegram 26 to Page repeated the text of the cablegram published as Document 33
 
 _
 
-_ [AA:A3195, 1942, 1.8581]_
+ _[AA:A3195, 1942, 1.8581]_

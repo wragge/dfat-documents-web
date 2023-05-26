@@ -1,22 +1,25 @@
 ---
-title: "465 MINUTE GRATTAN TO HICKMAN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10332
+doc_date: '1973-06-12'
+doc_num: 465
+doc_order: 465
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 15/1301]'
+title: MINUTE GRATTAN TO HICKMAN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1973-06-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 465 MINUTE GRATTAN TO HICKMAN
-
-UKNA: PREM 15/1301
 
 London, 12 June 1973
 
-**Australia Constitutional Issues**
+ **Australia Constitutional Issues**
 
-The Secretary of State has seen your revised brief and Lord Bridges’2 letter of 7 June. The Secretary of State has commented:–
+The Secretary of State has seen your revised brief and Lord Bridges’[2](#f2) letter of 7 June. The Secretary of State has commented:–
 
-> ‘I find it very difficult to accept the departmental view.3 The essence of a federation is a division of legislative powers and other rights between the centre and the States. If this is not done by consent it is tantamount to the UK Parliament modifying the federal structure which the Statute of Westminster explicitly said we would not do.
+> ‘I find it very difficult to accept the departmental view.[3](#f3) The essence of a federation is a division of legislative powers and other rights between the centre and the States. If this is not done by consent it is tantamount to the UK Parliament modifying the federal structure which the Statute of Westminster explicitly said we would not do.
 > 
 > Political expediency may argue the course proposed, but surely the States have the right by law to continue with Appeals to the Privy Council and one part of the federal set up (for that is what Canberra is) cannot change this. Nor, I would have thought, do the Federal Court have jurisdiction over the State courts in this matter. Is our argument expediency or law?’
 
@@ -35,3 +38,5 @@ The Secretary of State has seen your revised brief and Lord Bridges’2 letter o
 2 Lord Bridges, Private Secretary (Overseas Affairs) to Prime Minister, 1972–74.
 
 3 A delegation of Australian state premiers visited London in June 1973 for discussions with the UK authorities on the abolition of appeals to the Privy Council (see Document 466). Briefing the Prime Minister for a meeting, the South-West Pacific Department of the Foreign and Commonwealth Office advised that the UK should not support referring constitutional questions to the Privy Council. It was better that the matter, ‘which in substance is one for political decision as to our future relations with Australia’, should be dealt with as such. Advice to the states should be to look to the Australian courts rather than the UK Government or the Privy Council for the protection of their constitutional rights. Heath disagreed with the advice, as it conflicted with what he had told Whitlam at his meeting on 24 April (see Document 462). The Foreign Secretary shared the Prime Minister’s view.
+
+[UKNA: PREM 15/1301]

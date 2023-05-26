@@ -1,12 +1,17 @@
 ---
-title: "23 Hodgson to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3535
+doc_date: '1946-01-11'
+doc_num: 23
+doc_order: 23
+naa_refs:
+- naa_barcode: 587530
+  naa_control_symbol: 854/4/2
+  naa_series: A1838
+  reference: '[AA:A1838 T189, 854/4/21]'
+title: Hodgson to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-11
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 23 Hodgson to Evatt
 
 Cablegram 229 LONDON, 11 January 1946, 9.30 p.m.
 
@@ -28,7 +33,7 @@ Canadian delegate and I are agreed that both our claims on the grounds of princi
 
 6\. Today all items on the agenda up to N[o.] 11 election of Security Council were cleared before 5.30 p.m. and had it not been tacitly agreed beforehand that the elections would be postponed till Saturday morning they would have been held today. in consequence it is impossible to ask for another postponement. Both Fraser and I explored this possibility at the Commonwealth meeting this morning before your conversation. Your messages have all be[en] delivered mostly by hand with personal supplementary comments and your own good wishes conveyed. I can only assure you that the whole of the delegation and myself have worked and are working unremittingly at this vital task on a dignified level and with clean hands.
 
-_
+ _
 
 1 Document 21.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A1838 T189, 854/4/21_
+ _[AA:A1838 T189, 854/4/21]_

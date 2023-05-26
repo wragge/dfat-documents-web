@@ -1,12 +1,17 @@
 ---
-title: "227 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 564
+doc_date: '1939-09-15'
+doc_num: 227
+doc_order: 227
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA:CP 290/6, ITEM 1]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-15
+vol_title: 'Volume 2: 1939'
 ---
-
-# 227 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
 
 Cablegram unnumbered n.d. [c. 15 September 1939],
 
@@ -22,8 +27,8 @@ Do not hesitate to give me your views quite frankly but I feel very strongly tha
 
 MENZIES
 
-_
+ _
 
 _
 
-_ [AA:CP 290/6, ITEM 1]_
+ _[AA:CP 290/6, ITEM 1]_

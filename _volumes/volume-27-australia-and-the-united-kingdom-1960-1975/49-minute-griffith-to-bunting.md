@@ -1,20 +1,23 @@
 ---
-title: "49 MINUTE, GRIFFITH TO BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9914
+doc_date: '1966-01-19'
+doc_num: 49
+doc_order: 49
+naa_refs:
+- naa_barcode: 1160342
+  naa_control_symbol: 1965/6595 PART 3
+  naa_series: A1209
+  reference: '[NAA: A1209, 1965/6595 PART3]'
+title: MINUTE, GRIFFITH TO BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-01-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 49 MINUTE, GRIFFITH TO BUNTING
-
-NAA: A1209, 1965/6595 PART3
 
 Canberra, 19 January 1966
 
 Top Secret
 
-I accept the major premise of this paper1 that Britain should retain a base in South East Asia for as long as is practical to do so. It must be accepted that if confrontation declines, Britain will want to reduce her forces in South East Asia. This happened after the Malaya emergency.
+I accept the major premise of this paper[1](#f1) that Britain should retain a base in South East Asia for as long as is practical to do so. It must be accepted that if confrontation declines, Britain will want to reduce her forces in South East Asia. This happened after the Malaya emergency.
 
 2\. There has in my view been no development which suggests that an effective British military presence can be sustained in South East Asia from outside the area. The problem for us is that the British may wish to secure some negotiation which enables them to base a position on Australia and enable them to discount the requirement in 1970 to maintain a base in Singapore. The argumentation in the paper is appropriate to an Australian defence of the basic position that a Commonwealth base in South East Asia is needed to sustain the stability of the area and ensure effective Commonwealth support for SEATO plans.
 
@@ -35,3 +38,5 @@ I accept the major premise of this paper1 that Britain should retain a base in S
 10\. We should also consider the thesis that Mr. Wilson is just as keen on getting a position with Europe as the Conservative Party, but is using more concealed methods. This means for us that we should not be too keen to recognise the primary importance of British role in Europe. We should be prepared to say that we think that the real challenge is China and not Russia. If this is so, any world position that Britain has on defence must be biased to sustaining a maximum position on the Chinese periphery and particularly in South East Asia where at present Western military might is engaged. This is in effect what McNamara has said and I think we should come out solidly behind this as it is the major position taken by the Americans. It is the key presentational position of the Australian case both publicly and officially. The paper would do well to improve its presentation on this point. I regard it as primary. We have to achieve a real confrontation in the defence sector with British Eurocentric thinking.
 
 1  See Document 4 7. 
+
+[NAA: A1209, 1965/6595 PART3]

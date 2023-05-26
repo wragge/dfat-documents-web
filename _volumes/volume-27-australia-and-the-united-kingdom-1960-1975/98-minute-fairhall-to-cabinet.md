@@ -1,14 +1,17 @@
 ---
-title: "98 MINUTE, FAIRHALL TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9963
+doc_date: '1968-08-22'
+doc_num: 98
+doc_order: 98
+naa_refs:
+- naa_barcode: 3188732
+  naa_control_symbol: C470 PART 2
+  naa_series: A5619
+  reference: '[NAA: A5619, C470 PART 2]'
+title: MINUTE, FAIRHALL TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-08-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 98 MINUTE, FAIRHALL TO CABINET
-
-NAA: A5619, C470 PART 2
 
 Canberra, 22 August 1968
 
@@ -18,7 +21,7 @@ Top Secret
 
 The Strategic Basis of Australian Defence Policy—1968
 
-Attached is the Report of the Defence Committee: The Strategic Basis of Australian Defence Policy—1968. 1
+Attached is the Report of the Defence Committee: The Strategic Basis of Australian Defence Policy—1968. [1](#f1)
 
 2\. In the light of the conclusions come to by Ministers from their consideration of the Report, the Defence Department Machinery will proceed to the study of the size and composition of the Forces required, prepare a period defence programme for the future, and put to study matters that the Report proposes should be examined.
 
@@ -56,3 +59,5 @@ Attached is the Report of the Defence Committee: The Strategic Basis of Australi
 11\. Submitted for Cabinet’s consideration.
 
 1 See Document 99. 
+
+[NAA: A5619, C470 PART 2]

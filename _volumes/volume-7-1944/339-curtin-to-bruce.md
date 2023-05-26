@@ -1,12 +1,17 @@
 ---
-title: "339 Curtin to Bruce"
-volume: "Volume 7: 1944"
-doc_id: 2986
+doc_date: '1944-11-09'
+doc_num: 339
+doc_order: 339
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 590]'
+title: Curtin to Bruce
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-09
+vol_title: 'Volume 7: 1944'
 ---
-
-# 339 Curtin to Bruce
 
 Cablegram 170 CANBERRA, 9 November 1944
 
@@ -32,7 +37,7 @@ You will be aware that following upon the Prime Minister's discussions in London
 
 CURTIN
 
-_
+ _
 
 1 See Documents 124 and 288.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 590]_
+ _[AA:A5954, BOX 590]_

@@ -1,14 +1,20 @@
 ---
-title: "153 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 490
+doc_date: '1939-08-26'
+doc_num: 153
+doc_order: 153
+naa_refs:
+- naa_barcode: 176558
+  naa_control_symbol: GREA 8 PART 5
+  naa_series: A981
+  reference: '[AA: A981, GREAT BRITAIN 8B, v]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-26
+vol_title: 'Volume 2: 1939'
 ---
 
-# 153 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
-
-## Circular Cablegram B287 LONDON, 26 August 1939, 3.49 a.m.
+Circular Cablegram B287 LONDON, 26 August 1939, 3.49 a.m.
 
 Received 26 August 1939
 
@@ -36,7 +42,7 @@ Subsequently His Majesty's Ambassador received message from Ribbentrop [4] stati
 
 H.M. Ambassador is flying to London today (August 26th).
 
-_
+ _
 
 1 Adolf Hitler, German Chancellor.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [AA: A981, GREAT BRITAIN 8B, v]_
+ _[AA: A981, GREAT BRITAIN 8B, v]_

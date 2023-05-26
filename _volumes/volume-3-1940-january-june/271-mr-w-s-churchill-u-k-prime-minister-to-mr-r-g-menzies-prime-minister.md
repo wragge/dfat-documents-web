@@ -1,12 +1,17 @@
 ---
-title: "271 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1037
+doc_date: '1940-05-24'
+doc_num: 271
+doc_order: 271
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3546]'
+title: Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-24
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 271 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram M29 LONDON, 24 May 1940, 1.27 p.m.
 
@@ -28,7 +33,7 @@ I saw Weygand [6] yesterday, who is attempting to execute important operations i
 
 WINSTON CHURCHILL
 
-_
+ _
 
 1 Document 261.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3546]_
+ _[FA: A3195, 1.3546]_

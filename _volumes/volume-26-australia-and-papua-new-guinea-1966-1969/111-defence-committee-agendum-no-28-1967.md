@@ -1,19 +1,23 @@
 ---
-title: "111 Defence Committee Agendum No. 28/1967"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9619
+doc_date: '1967-05-26'
+doc_num: 111
+doc_order: 111
+naa_refs:
+- naa_barcode: 3125687
+  naa_control_symbol: 1966/4989
+  naa_series: A452
+  reference: '[NAA: A452, 1966/4989]'
+title: Defence Committee Agendum No. 28/1967
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-05-26
-barcode: 3125687
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 111 Defence Committee Agendum No. 28/1967
 
 Canberra, 26 May 1967
 
 Secret
 
-**Local defence forces in Papua/New Guinea**
+ **Local defence forces in Papua/New Guinea**
 
 The following is the text of a minute dated 25th May, 1967 from the Acting Secretary, Department of Defence on the above subject:—
 
@@ -29,9 +33,9 @@ The following is the text of a minute dated 25th May, 1967 from the Acting Secre
 
 The correspondence is forwarded for consideration by the Defence Committee.’
 
-_[matter omitted]_
+ _[matter omitted]_
 
-**Attachment A**
+ **Attachment A**
 
 ## LETTER, FRASER TO FAIRHALL
 
@@ -39,13 +43,13 @@ Canberra, 13 March.l967
 
 Secret
 
-You will recall that, as a result of Cabinet Submission 573 and Decision 653 of December 1964,1 the expansion of forces in Papua and New Guinea was approved to be increased from the existing figure of 185 Europeans and l,188 Pacific Islanders to a strength of 650 Europeans and 3,640 Pacific Islanders by the end of 1968.
+You will recall that, as a result of Cabinet Submission 573 and Decision 653 of December 1964,[1](#f1) the expansion of forces in Papua and New Guinea was approved to be increased from the existing figure of 185 Europeans and l,188 Pacific Islanders to a strength of 650 Europeans and 3,640 Pacific Islanders by the end of 1968.
 
 Since that time the build-up has proceeded to the extent of some 440 ARA and 2,000 Pacific Islanders. Following the introduction of National Service in 1965 and the increased build-up in Vietnam, with consequential demands for more experienced officers and non-commissioned officers, difficulty has been encountered in providing European staff of the desired calibre to raise 3 PIR and complete the programmed expansion within the time.
 
 Now that Indonesian confrontation has ended and the urgency for a build-up in Papua and New Guinea has lessened, it would be unwise to continue a recruitment rate of Pacific Islanders without adequate staff to ensure their effective assimilation into the Army and their training and subsequent employment.
 
-It is most desirable that the Army expansion rate within the Territory should match the available2 of ARA staff for it. On current indications, it appears that the approved strength cannot be achieved until December 1970 approximately, without seriously under-staffing the ARA element.
+It is most desirable that the Army expansion rate within the Territory should match the available[2](#f2) of ARA staff for it. On current indications, it appears that the approved strength cannot be achieved until December 1970 approximately, without seriously under-staffing the ARA element.
 
 It is proposed that, progressively during 1967, detachments of l and 2 PIR occupy the new barracks at Lae, thereby providing security for the area and forming the nucleus of the third battalion which then could be expanded to its full strength by December 1970, as more ARA officers and non-commissioned officers become available.
 
@@ -53,7 +57,7 @@ No changes to the works programme approved by Cabinet are proposed.
 
 Your approval to an extension of the expansion period from December 1968 to December 1970 is requested.
 
-**Attachment B**
+ **Attachment B**
 
 ## LETTER, BARNES TO FAIRHALL
 
@@ -83,13 +87,13 @@ This point is perhaps illustrated by the following passage in a draft J.I.C. pap
 
 It is, of course, true that in a number of countries during the past ten years the armed services have taken over control. In some cases the judgement may be that having regard to all the circumstances this has been for the benefit of the country. Nevertheless, this is not the sort of pattern we would wish to see develop in Papua and New Guinea and indeed such a development would mean that our efforts to promote stable democratic government there had failed.
 
-Another aspect of the P.I.R. situation is that there have been occasions where we have seen signs of dissatisfaction among its members which have raised doubts whether they could be relied upon even at the present time as an instrument of the civil power to help deal with an emergency situation, for example one arising out of general industrial unrest. You may have seen that in a submission to Cabinet last year regarding pay and service conditions for the P.I.R. the Minister for the Army referred to disturbances that had taken place among the P.I.R. and reported that the Commander in the Territory expected ‘serious trouble’ if a decision on pay rates were to be further delayed.3
+Another aspect of the P.I.R. situation is that there have been occasions where we have seen signs of dissatisfaction among its members which have raised doubts whether they could be relied upon even at the present time as an instrument of the civil power to help deal with an emergency situation, for example one arising out of general industrial unrest. You may have seen that in a submission to Cabinet last year regarding pay and service conditions for the P.I.R. the Minister for the Army referred to disturbances that had taken place among the P.I.R. and reported that the Commander in the Territory expected ‘serious trouble’ if a decision on pay rates were to be further delayed.[3](#f3)
 
 That particular matter raised the whole difficult question of the standards of rationing, housing etc. for members of the P.l.R. in relation to the standards enjoyed by several sections of the indigenous community.
 
 The rationing question is, of course, in the process of being reviewed, pursuant to a Cabinet direction, by an interdepartmental committee, but it occurs to me that other aspects of the question of standards such as housing might usefully be looked at having in mind the relationship of the P.I.R. to the rest of the community and the prospective Territory capacity to pay.
 
-Another matter which I suggest it would be useful to examine is the size of the defence force which the circumstances of the Territory might justify, including the size of the force Territory revenues could reasonably be expected to support after the attainment of self-government.4 In this connection the position in some newly-emerged countries seems to suggest that the present target for Papua and New Guinea of a military force of 3,500 may be disproportionately high in relation to the Territory’s population and prospective resources. Apart from military and economic considerations there may be considerations affecting Australian/Territory relationships that ought to be taken into account in decisions about the size of the Territory defence force.
+Another matter which I suggest it would be useful to examine is the size of the defence force which the circumstances of the Territory might justify, including the size of the force Territory revenues could reasonably be expected to support after the attainment of self-government.[4](#f4) In this connection the position in some newly-emerged countries seems to suggest that the present target for Papua and New Guinea of a military force of 3,500 may be disproportionately high in relation to the Territory’s population and prospective resources. Apart from military and economic considerations there may be considerations affecting Australian/Territory relationships that ought to be taken into account in decisions about the size of the Territory defence force.
 
 Whether the present target is still valid in the light of the present outlook on Indonesia is an aspect which I hope would also be considered.
 
@@ -101,9 +105,9 @@ Following this train of thought, I would like to suggest that a confidential rev
 
 I would be grateful if you would let me know whether you agree that such a review should be made. If so, we might then, with the Prime Minister’s concurrence, discuss the objectives of the review and the particular arrangements by which it should be carried out.
 
-I have not raised this matter with our colleagues the Minister for the Army and the Minister for the Navy,5 assuming that you will consult them as you think appropriate.6
+I have not raised this matter with our colleagues the Minister for the Army and the Minister for the Navy,[5](#f5) assuming that you will consult them as you think appropriate.[6](#f6)
 
-[ [NAA: A452, 1966/4989](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3125687) ]
+[NAA: A452, 1966/4989]
 
 1 Not printed.
 

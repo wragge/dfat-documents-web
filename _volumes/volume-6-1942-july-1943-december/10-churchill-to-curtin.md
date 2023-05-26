@@ -1,12 +1,17 @@
 ---
-title: "10 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2301
+doc_date: '1942-07-24'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-07-24
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 10 Churchill to Curtin
 
 Cablegram 532 [1] LONDON, 24 July 1942, 10.12 p.m.
 
@@ -134,7 +139,7 @@ would be necessary to fall back upon the expedient of making good
 
 wastage by breaking up ancillary units.
 
-_
+ _
 
 1 Sent through the U.K. Dominions Office.
 
@@ -142,7 +147,7 @@ _
 
 _
 
-_
+ _
 
 [AA:A4763]
 

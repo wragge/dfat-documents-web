@@ -1,12 +1,18 @@
 ---
-title: "312 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1078
+doc_date: '1940-05-30'
+doc_num: 312
+doc_order: 312
+naa_refs:
+- naa_barcode: 177376
+  naa_control_symbol: ITA 60 PART 4
+  naa_series: A981
+  reference: '[AA: A981, ITALY 60B]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-30
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 312 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram M32 LONDON, 30 May 1940, 4.15 a.m.
 
@@ -20,7 +26,7 @@ Only logical deduction to be drawn is that Signor Mussolini is awaiting the mome
 
 The situation therefore looks graver than at any time hitherto.
 
-_
+ _
 
 1 Italian Foreign Minister.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA: A981, ITALY 60B]_
+ _[AA: A981, ITALY 60B]_

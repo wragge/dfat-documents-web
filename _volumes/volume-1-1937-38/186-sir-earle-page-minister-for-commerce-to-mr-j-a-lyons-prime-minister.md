@@ -1,12 +1,17 @@
 ---
-title: "186 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 185
+doc_date: '1938-04-13'
+doc_num: 186
+doc_order: 185
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-04-13
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 186 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered ADEN, 13 April 1938, 4 p.m.
 
@@ -36,7 +41,7 @@ Finally as we see it the sooner the decision is announced the better; the less p
 
 PAGE
 
-_
+ _
 
 1 Document 181. it was actually sent on 7 April.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

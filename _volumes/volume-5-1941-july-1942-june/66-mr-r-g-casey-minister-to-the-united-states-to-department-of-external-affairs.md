@@ -1,12 +1,17 @@
 ---
-title: "66 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1820
+doc_date: '1941-09-11'
+doc_num: 66
+doc_order: 67
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, ii]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-11
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 66 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 734 WASHINGTON, 11 September 1941, 3.33 p.m.
 
@@ -20,7 +25,7 @@ British Charge d'Affaires [1] saw the Secretary of State [2] on September 8th. C
 
 CASEY
 
-_
+ _
 
 1 Sir Ronald I. Campbell.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, ii]_
+ _[AA: A981, JAPAN 185B, ii]_

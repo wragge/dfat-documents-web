@@ -1,12 +1,18 @@
 ---
-title: "369 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2123
+doc_date: '1942-02-23'
+doc_num: 369
+doc_order: 370
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.7066]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 369 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 34[A] LONDON, 23 February 1942, 11.11 p.m.
 
@@ -48,7 +54,7 @@ With regard to (a) the Americans have now offered to send a division to Australi
 
 BRUCE
 
-_
+ _
 
 1 Words in square brackets have been corrected/inserted from Bruce's copy on file AA:M100, February 1942.
 
@@ -62,4 +68,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.7066]_
+ _[AA:A3195, 1942, 1.7066]_

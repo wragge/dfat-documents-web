@@ -1,12 +1,17 @@
 ---
-title: "103 Evatt to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2750
+doc_date: '1944-03-29'
+doc_num: 103
+doc_order: 103
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 658]'
+title: Evatt to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-29
+vol_title: 'Volume 7: 1944'
 ---
-
-# 103 Evatt to Curtin
 
 Letter CANBERRA, 29 March 1944
 
@@ -56,10 +61,10 @@ Under the following headings are indicated what are regarded as the most importa
 
 [matter omitted]
 
-_
+ _
 
 1 On file AA:A5954, box 646. Evatt was Acting Minister for Supply and Shipping.
 
 _
 
-_ [AA:A5954, BOX 658]_
+ _[AA:A5954, BOX 658]_

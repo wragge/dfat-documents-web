@@ -1,14 +1,19 @@
 ---
-title: "365 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 3012
+doc_date: '1944-12-02'
+doc_num: 365
+doc_order: 365
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, 1.42935/36]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-02
+vol_title: 'Volume 7: 1944'
 ---
 
-# 365 Bruce to Curtin
-
-## Cablegram 150 LONDON, 2 December 1944, 1.29 p.m.
+Cablegram 150 LONDON, 2 December 1944, 1.29 p.m.
 
 Addressed to the Prime Minister.
 
@@ -32,7 +37,7 @@ Copland has now arrived in this country. Is it your wish that I should keep him 
 
 BRUCE
 
-_
+ _
 
 1 On file AA:M100, November 1944. It asked for information regarding Bruce's informal discussions with Sir Wilfred Eady, Joint Second Secretary, U.K. Treasury and member of the U.K.
 
@@ -44,4 +49,4 @@ delegation to the U.N. Monetary and Financial Conference at Bretton Woods.
 
 _
 
-_ [AA:A3195, 1944, 1.42935/36]_
+ _[AA:A3195, 1944, 1.42935/36]_

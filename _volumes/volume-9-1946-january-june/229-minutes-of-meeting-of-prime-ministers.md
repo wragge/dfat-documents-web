@@ -1,13 +1,17 @@
 ---
-title: "229 Minutes of Meeting of Prime Ministers"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3741
+doc_date: '1946-05-03'
+doc_num: 229
+doc_order: 229
+naa_refs:
+- naa_barcode: 694890
+  naa_control_symbol: '3'
+  naa_series: A6712
+  reference: '[AA:A6712, [3]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-03
-barcode: 694890
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 229 Minutes of Meeting of Prime Ministers
 
 PMM(46) 11th Meeting LONDON, 3 May 1946, 11 a.m.
 
@@ -103,7 +107,7 @@ Mr. Chifley 5. MR. ATTLEE expressed the regret of the Meeting that this was the 
 
 MR. CHIFLEY expressed his regret at being obliged to leave. He said that he had much appreciated the opportunity for consultation with his British Commonwealth colleagues, and extended his warm thanks to Mr. Attlee for the hospitality and courtesies extended to himself, Dr. Evatt and their staffs.
 
-_
+ _
 
 1 Document 230. The text of the Confidential Annex was not given in the copy cited here.
 
@@ -115,4 +119,4 @@ _
 
 _
 
-_ [ [AA:A6712, [3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=694890) ]_
+ _[AA:A6712, [3]]_

@@ -1,26 +1,29 @@
 ---
-title: "116 CABLEGRAM, FOREIGN AFFAIRS TO AUSTRALIAN EMBASSY, JAKARTA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9981
+doc_date: '1973-02-02'
+doc_num: 116
+doc_order: 116
+naa_refs:
+- naa_barcode: 1753970
+  naa_control_symbol: 677/1 PART 11
+  naa_series: A1838
+  reference: '[NAA: A1838, 677/1 PART 11]'
+title: CABLEGRAM, FOREIGN AFFAIRS TO AUSTRALIAN EMBASSY, JAKARTA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1973-02-02
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 116 CABLEGRAM, FOREIGN AFFAIRS TO AUSTRALIAN EMBASSY, JAKARTA
-
-NAA: A1838, 677/1 PART 11
 
 Canberra, 2 February 1973
 
 1071\. Confidential
 
-****
+ ****
 
 Prime Minister’s Visit
 
-Following is the text of the PM’s speech to the D.P.R.1
+Following is the text of the PM’s speech to the D.P.R.[1](#f1)
 
-_Begins:_
+ _Begins:_
 
 I am profoundly moved by the honour you have done me, and through me, my government and nation, in inviting me to address you. I do so now as a fellow parliamentarian.
 
@@ -46,7 +49,7 @@ In the subsequent weeks my government has made a number of decisions designed to
 
 The great theme of my Government in 1973 is this: it seems to us that an opportunity for a settlement in Indo-China and South East Asia generally, presented itself in 1954 after Korea, after Geneva, but that this opportunity was tragically lost. Now another opportunity presents itself. My Government is determined to do all in its power to ensure the fulfilment of this second and perhaps last opportunity for a settlement.
 
-Central to the failure of 1954 was the relationship—or rather lack of it—between the United States and China. I believe that in 1973, as in 1954, the American–China relationship is the key to a regional settlement. It is because of the potential importance of China to the region that my Government has acted swiftly to normalise the relations between Australia and the People’s Republic.2
+Central to the failure of 1954 was the relationship—or rather lack of it—between the United States and China. I believe that in 1973, as in 1954, the American–China relationship is the key to a regional settlement. It is because of the potential importance of China to the region that my Government has acted swiftly to normalise the relations between Australia and the People’s Republic.[2](#f2)
 
 Though it was the first and most publicised of our early initiatives, I do not want it thought that we regard recognition of the People’s Republic as the whole foundation, the centrepiece as it were, of my Government’s foreign policy. Relations between Australia and China are of great importance, but they are only part of our general objective of a better understanding with and between all the nations of our region.
 
@@ -54,7 +57,7 @@ My Government believes that it has a responsibility to take a generous part in a
 
 Beyond the immediate question of an Indo-China settlement there is the wider question of new regional arrangements for the new situation emerging beyond Viet Nam.
 
-Last month I visited New Zealand where a new Labor Government has also been elected. The New Zealand Prime Minister, Mr Kirk,3 and I expressed our intention of working with our Asian and Pacific neighbours in making adjustments to existing arrangements and seeking new forms of co-operation. We have already started to exchange ideas with our neighbours, and especially with Indonesia, to see if initiatives from Australia for a new regional organisation would in their view be timely or fruitful.
+Last month I visited New Zealand where a new Labor Government has also been elected. The New Zealand Prime Minister, Mr Kirk,[3](#f3) and I expressed our intention of working with our Asian and Pacific neighbours in making adjustments to existing arrangements and seeking new forms of co-operation. We have already started to exchange ideas with our neighbours, and especially with Indonesia, to see if initiatives from Australia for a new regional organisation would in their view be timely or fruitful.
 
 What we have in mind is an organisation genuinely representative of the region, without ideological overtones, conceived as an initiative to help free the region of the great power rivalries which have bedevilled its progress for so long, and which would be designed to insulate the region against ideological interference from the great powers.
 
@@ -99,3 +102,5 @@ Ends.
 2 Canada established diplomatic relations with the People’s Republic of China in October 1970, and Italy followed in November of the same year. China was admitted to the UN in October 1971. Australia established diplomatic relations with China in December 1972.
 
 3 Norman Kirk, Prime Minister of New Zealand, 1972–74.
+
+[NAA: A1838, 677/1 PART 11]

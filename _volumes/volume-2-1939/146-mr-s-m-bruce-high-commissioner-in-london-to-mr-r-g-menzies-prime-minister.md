@@ -1,12 +1,17 @@
 ---
-title: "146 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 483
+doc_date: '1939-08-23'
+doc_num: 146
+doc_order: 146
+naa_refs:
+- naa_barcode: 176522
+  naa_control_symbol: GER 72 PART 1
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 72B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-23
+vol_title: 'Volume 2: 1939'
 ---
-
-# 146 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 349 LONDON, 23 August 1939, 8.44 p.m.
 
@@ -24,7 +29,7 @@ In the latter event the effects of assistance by France and the United Kingdom t
 
 BRUCE
 
-_
+ _
 
 1 Circular cablegram B281 sent 23 August 1939, not printed (on file AA: A981, Germany 67, i).
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 72B, i]_
+ _[AA: A981, GERMANY 72B, i]_

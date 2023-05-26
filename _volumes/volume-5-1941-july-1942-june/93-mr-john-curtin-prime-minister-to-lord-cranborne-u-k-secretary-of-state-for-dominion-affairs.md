@@ -1,12 +1,18 @@
 ---
-title: "93 Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1847
+doc_date: '1941-10-30'
+doc_num: 93
+doc_order: 94
+naa_refs:
+- naa_barcode: 182725
+  naa_control_symbol: WAR 44 PART 1
+  naa_series: A981
+  reference: '[AA : A981, WAR 44]'
+title: Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-10-30
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 93 Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 708 [1] CANBERRA, 30 October 1941
 
@@ -22,7 +28,7 @@ Commonwealth War Cabinet has carefully Considered Circular M.341.
 
 CURTIN
 
-_
+ _
 
 1 Repeated to the N.Z., Canadian and South African Prime Ministers on 3 November as nos 449, 12 and 83 (see file AA : A1608, 0.41/1/2).
 
@@ -36,4 +42,4 @@ A2682, vol. 3 respectively.
 
 _
 
-_ [AA : A981, WAR 44]_
+ _[AA : A981, WAR 44]_

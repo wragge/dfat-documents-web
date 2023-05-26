@@ -1,12 +1,17 @@
 ---
-title: "37 Minutes of Eleventh Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 37
+doc_date: '1937-06-02'
+doc_num: 37
+doc_order: 37
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Minutes of Eleventh Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-02
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 37 Minutes of Eleventh Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 11 (extract) LONDON, 2 June 1937
 
@@ -16,10 +21,10 @@ MR LYONS said that the point of view of the Government of the Commonwealth of Au
 
 MR CASEY said that the attitude of the Commonwealth towards any question of giving up their Mandate in New Guinea or their share in the Mandate for Nauru had been clearly expressed by the Commonwealth Minister for External Affairs, Sir George Pearce, in the Commonwealth Senate a few months ago. [1] In short, the position of his Government was that they were opposed to any possibility of giving up New Guinea or Nauru. Sir George Pearce had said this and had given reasons for it. As regards Nauru a considerable percentage of the increased Australian wheat production was dependent on the retention of the Nauru Mandate by British countries. The Australian point of view was one of firm determination not to give up either Mandate.
 
-_
+ _
 
 1 Commonwealth Parliamentary Debates, vol. 149, PP. 119-23.
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

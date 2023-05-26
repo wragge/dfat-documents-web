@@ -1,0 +1,96 @@
+---
+doc_date: '1953-09-03'
+doc_num: 260
+doc_order: 260
+naa_refs:
+- naa_barcode: 942790
+  naa_control_symbol: 2080/13
+  naa_series: A1838
+  reference: '[NAA: A 1838, 2080/13]'
+title: Memorandum from Birch to Watt
+vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
+vol_id: 24
+vol_title: 'Volume 24: Australia and the Colombo Plan, 1949-1957'
+---
+
+New Delhi, 3 September 1953
+
+CONFIDENTIAL
+
+ **Japan's Membership of Colombo Plan Consultative Committee**
+
+I refer to your memorandum 475[1](#f1) of 20th August, (file 2086/3) regarding Japan's membership of the Consultative Committee.
+
+2\. We are not aware of any Japanese moves to revive the issue since the Karachi meeting was held, nor to our knowledge, has such a suggestion been made from any other quarter.
+
+ **Attachment**
+
+BACKGROUND PAPER ON JAPANESE PARTICIPATION
+
+There are obvious reasons why Japan may be expected to contribute to the Colombo Plan. She has the technical knowledge and experience needed by the underdeveloped Asian countries. She also has the industrial capacity to provide the technical equipment and capital goods needed throughout South and South-East Asia.
+
+Whether she can finance assistance to the underdeveloped countries is another question; and her participation in the Colombo Plan may be justified only—or in any event mainly—by her capacity and willingness to extend aid. On one or two occasions, Japanese representatives have declared Japan's readiness to make some contribution, but these declarations have been only in vague, general terms, involving no firm, precise commitment.
+
+Her capacity to extend aid will be determined principally by her balance-of-payments position. Except in the comparatively short term, her balance-of-payments position seems to be somewhat precarious, because its strength is dependent on the continuance of factors which are essentially impermanent. Twelve months ago, she had accumulated very large holdings of sterling, and exceptional dollar earnings arising especially from the Korean War had distorted what would seem to be the normal, long-term pattern of her trade. This, at any rate, was the view of United Kingdom experts in Japan. The British Embassy Economic Report No. 6 of 9th July, 1952, stated that, since the United Kingdom Sterling Payments Agreement with Japan was signed on 31 st August, 1951,
+
+'...Japan's sterling balances have increased from £38,000,000 to £125,000,000 the latter figure being the amount on 20th June, 1952. There has so far been no sign of a reversal of the tendency of Japan to export more to the sterling area than she imports from that area... Broadly speaking, Japan is trying to buy in the dollar area and sell in the sterling area and that she has been able to do so without running into a serious dollar deficit is due to the temporary and fortuitous circumstance of the war in Korea. Supplies and services to the U.S. troops engaged in the campaign and the heavy dollar expenditure in Japan of U.S. troops has served to cover Japan's trading deficits with the dollar area, with the result that Japan has made no serious effort to switch her purchases to the sterling area. Until she does so, there can be no real health in her economy'.
+
+One argument put forward by the United Kingdom in favour of Japanese participation then was that Japanese aid under the Colombo Plan would help ease the pressure on sterling. In the short term, this may have been so—provided of course Japan did not (as we have done) add to her exports by means of the Colombo Plan, instead of substituting Colombo Plan gifts for commercial exports. In the longer term, if Japan derived some commercial advantage from the Colombo Plan, pressure on sterling would be likely to be increased.
+
+In any event, the United Kingdom argument, based on a Japanese surplus of sterling, is now outmoded. 'Sterling has now become a hard enough currency to be able to look the dollar in the face in at least one very peculiar surrounding, namely in Japan's currency retention scheme'.[2](#f2) Reports are that sterling is so short that adequate allocations cannot be made even for the purchase of Australian wool. Sterling aid to Japan therefore now seems more necessary than Japanese aid to the sterling area.
+
+It is impossible to say conclusively that Japan would be able to make substantial financial contributions to the Colombo Plan between now and 1957. If she sees the prospect of political and commercial advantage from making a contribution, it is likely that she will make special efforts to do so.
+
+ _Attitude of other countries_
+
+Except for Australia, it seems that there may be no real opposition to Japanese participation. That seems to be the conclusion to be drawn from the informal discussions on the subject at the Karachi meeting.
+
+Especially if Japan can offer Asian countries substantial economic and/or technical aid, there seems little doubt that Asian countries would welcome her participation and that Australia would find it extremely difficult to oppose them. Clearly Asian countries already favour Japanese participation and the fact that they have not so far pressed their view may be due only to uncertainty about the material aid which will be forthcoming from Japan.
+
+Apart from the Asian countries, the United Kingdom would also support Japanese participation, apparently on the following three grounds:—
+
+It would increase the flow of scarce capital goods and raw materials to Colombo Plan recipients.
+
+(ii) It would reduce the pressure on sterling, since otherwise some Japanese capital goods and technical assistance would be paid for in sterling by Asian members of the Sterling Area. (As already indicated, this argument seems no longer valid.)
+
+(iii) It would increase the attractiveness of the Colombo Plan to Asian recipient governments, at a time when their interest in the Plan may be diminishing.
+
+The United States, although apparently believing that Japanese participation should not be rushed, would favour bringing Japan in at the right moment.
+
+New Zealand's view—surprisingly—has not been made clear. However, so far as can be gathered from the informal discussions which have so far taken place, it seems that she would not actively oppose Japanese participation—unless perhaps she were provoked by us.
+
+ _Australian policy_
+
+At the time of the Karachi meeting, Australian policy was to oppose or at least delay Japanese participation along the following lines:—
+
+There is a case for considering participation by France before Japan. (See comment on this point below).
+
+There might be justifiable protests from the Philippines and Indonesia at any move to encourage Japanese aid to other Asian countries while reparations claims are unsettled. (See comment on the reparations question below also).
+
+(iii) In the immediate future, there is no reason to suppose that Japan's balance-of-payments position would permit her to afford any tangible benefits to other participants.
+
+(Some comment has already been given above on Japan's balance-of-payments position. It may be argued that it is for Japan to decide what aid she can extend. If she commits herself to extend a stated amount and type of aid, that is likely to be decisive.)
+
+(iv) The question of Japanese participation might by kept under review in the twelve months up to March, 1953, rather than take any firm and final decision at the Karachi meeting.
+
+This attitude implied that Japanese participation could not be opposed by reference to anything fundamental in Australian policy. In theory, Australia might have opposed Japanese participation either on:
+
+(a) Political grounds; or for
+
+(b) Commercial reasons.
+
+Our political attitude to Japan has changed considerably since 1945. Leaving aside for the moment the continuing public hostility towards Japan in Australia, the communist threat, the Japanese Peace Treaty and new Treaty relations among Japan, the United States, Australia, and New Zealand have moved Japan nearer to the category of ally than that of enemy. (See, for example, Articles IV and V of the Security Treaty between Austalia, New Zealand, and the United States, together with Article I of the Security Treaty between the United States and Japan.) Any political encroachment or attempted domination by Japan in South and South-East Asia would justify—and no doubt bring forth—a change in Australia's present attitude towards Japan. But co-operative political relations between Japan and the countries of South and South-East Asia would be consistent with recent Australian policy. Indeed, to exclude Japan from co-operative political relations with the area closest to her would, unless and until Japan shows some tendency to revert to her pre-war politices,[3](#f3) operate directly against Australian policy to encourage Japan to become a useful and trusted member of the non-communist world.
+
+Even if Australia considered that Japanese participation should be opposed on political grounds, it might be difficult openly to declare our opposition on those grounds. To imply that Japan could use the Colombo Plan to secure political domination might imply that existing contributing countries could do the same. In any event, it seems it must be for the South and South-east Asian countries themselves to decide whether to risk domination by Japanese participation and that we cannot presume to take decisions for them.
+
+Especially in an exercise like the Colombo Plan, political and commercial considerations are closely linked. Japan must have a close commercial interest in South and South East Asia and, unless and until there is evidence that she is employing unfair commercial practices, she could not reasonably be denied commercial entry into that area. If Japan decides to contribute to the Colombo Plan, she will almost certainly have commercial advantage in mind and that consideration might even be uppermost. If Australia opposed Japanese participation in the Colombo Plan for commercial reasons, the direction of such a policy might be to drive [... ][4](#f4)
+
+[NAA: A 1838, 2080/13]
+
+1 The memorandum was addressed to the Australian Embassy in Tokyo. A copy was also sent to the High Commission in New Delhi for information and advice. It explained that at the time of the Karachi meeting of the Consultative Committee in March 1952 'there was a good deal of discussion about the possibility of bringing Japan into the Colombo Plan. There was also some evidence at that stage that Japan was itself eager to join the Plan, presumably as a contributing country. No formal discussion and no decision on Japanese membership was taken at the Karachi Meeting, largely because of doubts expressed by us when the matter was raised informally'. The question of Japanese membership did not appear on the agenda for the upcoming New Delhi meeting. The Department of External Affairs, however, advised that 'the matter is sufficiently important to guard against the contingency that it might be raised and to be prepared accordingly'. The memorandum asked for any information of Japan's current attitude towards membership, but stressed that: 'We do _not_ wish you to make any enquiries or take any action of any sort which might draw further attention to the question of Japan's membership, especially if the issue is, so far as you are aware, no longer a live one'.
+
+2 This quotation was cited as originating from _The Economist_ , 22 August 1953, p. 532.
+
+3 Presumably, this should read 'policies'.
+
+4 The end of this document, which is missing, presumably related to the common perception that if Western countries impeded access to Western markets Japan would be forced to build closer economic relations with communist countries such as China. See footnote 1, Document 278.

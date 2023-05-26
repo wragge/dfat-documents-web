@@ -1,14 +1,19 @@
 ---
-title: "213 Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce"
-volume: "Volume 1: 1937-38"
-doc_id: 212
+doc_date: '1938-06-02'
+doc_num: 213
+doc_order: 212
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-06-02
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 213 Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce
-
-## Cablegram unnumbered 2 June 1938,
+Cablegram unnumbered 2 June 1938,
 
 My telegram 25th May. [1]
 
@@ -38,7 +43,7 @@ The Commonwealth Government sincerely trusts that, in the light of the foregoing
 
 I may add that to the extent to which any individual Japanese interests are affected by the decision an offer of compensation has been made and is repeated. Ends.
 
-_
+ _
 
 1 Not printed; see Document 210, note 1.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

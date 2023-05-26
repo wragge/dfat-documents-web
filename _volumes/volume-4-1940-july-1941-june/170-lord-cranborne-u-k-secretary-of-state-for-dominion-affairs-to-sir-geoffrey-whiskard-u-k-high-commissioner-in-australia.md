@@ -1,12 +1,18 @@
 ---
-title: "170 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1401
+doc_date: '1940-10-10'
+doc_num: 170
+doc_order: 170
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 26A]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-10
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 170 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 338 LONDON, 10 October 1940, 9.25 p.m.
 
@@ -26,7 +32,7 @@ On the assumption that the above scheme is adopted, we should hope that discussi
 
 I should be glad if you would inform the Prime Minister [4] in the above sense and let me know his views.
 
-_
+ _
 
 1 Document 165.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 26A]_
+ _[AA:A981, FAR EAST 26A]_

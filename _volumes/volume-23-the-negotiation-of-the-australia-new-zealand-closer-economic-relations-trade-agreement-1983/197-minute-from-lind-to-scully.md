@@ -1,14 +1,21 @@
 ---
-title: "197 Minute from Lind to Scully"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9066
+doc_date: '1982-08-04'
+doc_num: 197
+doc_order: 197
+naa_refs:
+- naa_barcode: 11558959
+  naa_control_symbol: 1982/2594 PART 6
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 82/2594, vi]'
+title: Minute from Lind to Scully
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-08-04
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 197 Minute from Lind to Scully
-
-## Canberra, 4 August 1982
+Canberra, 4 August 1982
 
 ## CER Phasing Out of Export Incentives
 
@@ -30,7 +37,7 @@ Al Page is forwarding, by bag, a record of his discussion, but the key elements 
 
 if Australia seeks resolution of this question now, it could lock New Zealand in.
 
-Sir Laurie Francis wrote to the Minister on 20 May(1) advising that New Zealand could accept phasing from 1 April 1985 with 1988 as the terminal date. The Minister's reply(2) recalled that CAIINZMF had agreed that significant disparities in incentives should be phased out between 1 April 1985 and 30 June 1987 and stressed the importance of 1987 as a terminal date if the CER package was to be acceptable in Australia.
+Sir Laurie Francis wrote to the Minister on 20 May[(1)](#f1) advising that New Zealand could accept phasing from 1 April 1985 with 1988 as the terminal date. The Minister's reply[(2)](#f2) recalled that CAIINZMF had agreed that significant disparities in incentives should be phased out between 1 April 1985 and 30 June 1987 and stressed the importance of 1987 as a terminal date if the CER package was to be acceptable in Australia.
 
 Subsequently, Mr Muldoon and the Minister agreed on the telephone that performance-based incentives should be terminated in the 1987 tax year. We are not aware of any suggestion that, in agreeing to 1987, the offer of phasing lapsed, but we have no formal record nor personal knowledge of the conversation.
 
@@ -38,12 +45,10 @@ There was no specific references to phasing in the draft Heads of Agreement circ
 
 Cabinet and industry have been told by the Minister, in writing, that the export incentive arrangement involves phasing out from 1985, with the formula yet to be determined. If there is drawing back from this, it could be used to discredit the whole package and the integrity of the negotiations.
 
-I suggest we consider the situation again in the light of the expected announcement of 5 August. It may then be appropriate for you to ring Harry Clark on the matter.(3)
+I suggest we consider the situation again in the light of the expected announcement of 5 August. It may then be appropriate for you to ring Harry Clark on the matter.[(3)](#f3)
 
-_[NAA: A1313/113, 82/2594, vi]_
+ _[NAA: A1313/113, 82/2594, vi]_
 
   * 1 Document 243. 
   * 2 Document 191. 
-  * 3 Beneath his signature Lind added these words by hand: 'I have mentioned this matter to only a few people in Canberra. N. L.'. 
-
-
+  * 3 Beneath his signature Lind added these words by hand: 'I have mentioned this matter to only a few people in Canberra. N. L.'.

@@ -1,12 +1,17 @@
 ---
-title: "491 Embassy in Washington to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5758
+doc_date: '1948-12-28'
+doc_num: 491
+doc_order: 491
+naa_refs:
+- naa_barcode: 550487
+  naa_control_symbol: 403/3/1/1 PART 20
+  naa_series: A1838
+  reference: '[AA:A1838, 403/3/1, xx]'
+title: Embassy in Washington to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-12-28
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 491 Embassy in Washington to Department of External Affairs
 
 Cablegram 1320 WASHINGTON, 28 December 1948, 2.49 p.m.
 
@@ -24,10 +29,10 @@ He stressed the importance of not forgetting the main objectives viz. establishm
 
 He fully appreciated the unfortunate effect that Soviet initiative might have in South East Asia, but stressed that that was unfortunately only one of a number of considerations.
 
-_
+ _
 
 1 See Document 483 and note 3 thereto-
 
 _
 
-_ [AA:A1838, 403/3/1, xx]_
+ _[AA:A1838, 403/3/1, xx]_

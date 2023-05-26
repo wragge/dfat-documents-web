@@ -1,12 +1,19 @@
 ---
-title: "151 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7990
+doc_date: '1975-07-03'
+doc_num: 151
+doc_order: 151
+naa_refs:
+- naa_barcode: 4151602
+  naa_control_symbol: 801/13/11/1 PART 10
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/1111, x]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-07-03
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 151 Cablegram to Canberra
 
 Lisbon, 3 July 1975
 
@@ -27,10 +34,8 @@ A major area of potential disagreement between Indonesia and Portugal is the Lon
 
 ## Conclusion
 
-If events proceed smoothly Portugal will probably be prepared to stay in Timor for at least another three years. Earlier suggestions of up to eight years no longer seem realistic. (This appears to have been born[e] out by reports of the new draft law on Timor.) The actual time, despite whatever timetable is now agreed on, will probably depend on the gravity of Portugal's economic situation and the amount of assistance it receives in Timor from third countries. Timor policy is likely to remain in the hands of the moderates for the foreseeable future, unless decolonisation ceases to proceed smoothly, or unless overt action by Indonesia projects the issue into more prominence in Lisbon. 1
+If events proceed smoothly Portugal will probably be prepared to stay in Timor for at least another three years. Earlier suggestions of up to eight years no longer seem realistic. (This appears to have been born[e] out by reports of the new draft law on Timor.) The actual time, despite whatever timetable is now agreed on, will probably depend on the gravity of Portugal's economic situation and the amount of assistance it receives in Timor from third countries. Timor policy is likely to remain in the hands of the moderates for the foreseeable future, unless decolonisation ceases to proceed smoothly, or unless overt action by Indonesia projects the issue into more prominence in Lisbon. [1](#f1)
 
-_[NAA: A10463, 801/13/1111, x]_
+ _[NAA: A10463, 801/13/1111, x]_
 
-  * 1 In a marginal note Woolcott instructed Dan to pass on the substance of this cablegram personally to Tjan. 
-
-
+  * 1 In a marginal note Woolcott instructed Dan to pass on the substance of this cablegram personally to Tjan.

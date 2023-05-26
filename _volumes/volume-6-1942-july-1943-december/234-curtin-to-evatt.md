@@ -1,12 +1,17 @@
 ---
-title: "234 Curtin to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2525
+doc_date: '1943-07-03'
+doc_num: 234
+doc_order: 234
+naa_refs:
+- naa_barcode: 650980
+  naa_control_symbol: 652/2
+  naa_series: A5954
+  reference: '[DEFENCE: MP1217, BOX 652, DEFENCE OF PORTUGUESE TIMOR-STAFF CONVERSATIONS]'
+title: Curtin to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-07-03
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 234 Curtin to Evatt
 
 Cablegram L53 [1] CANBERRA, 3 July 1943
 
@@ -36,7 +41,7 @@ Without prejudice to any general post-war colonial settlement which may eventuat
 
 4\. I think you might also inform the United Kingdom Government that, if the scope of the proposed military conversations referred to in the anti-penultimate paragraph of the Aide-Memoire goes beyond immediate considerations in the Azores to general matters, the Commonwealth Government assumes that Australian special interest in Timor, both now and after the war, will receive proper consideration. [4]
 
-_ 1 Sent through the External Affairs Office in London.
+ _1 Sent through the External Affairs Office in London.
 
 2 See Document 233, note 1.
 
@@ -48,4 +53,4 @@ Hopkinson of the U.K. Embassy in Lisbon. Hopkinson reported that in reply: 'Dr. 
 
 _
 
-_ [DEFENCE: MP1217, BOX 652, DEFENCE OF PORTUGUESE TIMOR-STAFF CONVERSATIONS]_
+ _[DEFENCE: MP1217, BOX 652, DEFENCE OF PORTUGUESE TIMOR-STAFF CONVERSATIONS]_

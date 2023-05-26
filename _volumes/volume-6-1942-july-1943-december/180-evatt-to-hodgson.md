@@ -1,12 +1,17 @@
 ---
-title: "180 Evatt to Hodgson"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2471
+doc_date: '1943-05-06'
+doc_num: 180
+doc_order: 180
+naa_refs:
+- naa_barcode: 185057
+  naa_control_symbol: 1944/715/5/2/2
+  naa_series: A989
+  reference: '[AA:A989, 43-44/715/5/2/2]'
+title: Evatt to Hodgson
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-06
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 180 Evatt to Hodgson
 
 Cablegram E35 WASHINGTON, 6 May 1943
 
@@ -26,7 +31,7 @@ I therefore advise extreme caution.
 
 EVATT
 
-_
+ _
 
 1 Dispatched 6 May. On file AA:A989, 43-44/715/5/2/2. It included a copy of the cablegram from Bruce to Curtin published as Document 177.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/715/5/2/2]_
+ _[AA:A989, 43-44/715/5/2/2]_

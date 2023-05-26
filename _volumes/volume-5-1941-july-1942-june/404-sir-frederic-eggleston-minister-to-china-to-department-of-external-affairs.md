@@ -1,11 +1,17 @@
 ---
-title: "404 Sir Frederic Eggleston, Minister to China, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2158
+doc_date: 1942-03
+doc_num: 404
+doc_order: 405
+naa_refs:
+- naa_barcode: 855157
+  naa_control_symbol: '216'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION H, MILITARY SITUATION-CHUNGKING CABLES]'
+title: Sir Frederic Eggleston, Minister to China, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 404 Sir Frederic Eggleston, Minister to China, to Department of External Affairs
 
 Cablegram 128 CHUNGKING, n.d.
 
@@ -25,8 +31,8 @@ We discussed at length land system and finance for farmers though he was alive t
 
 He anticipated another Japanese attack on Changsha as an effort to prevent the sending of further Chinese troops to Burma.
 
-_ CABLES]
+ _
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION H, MILITARY SITUATION-CHUNGKING_
+ _[DEFENCE: SPECIAL COLLECTION H, MILITARY SITUATION-CHUNGKING CABLES]_

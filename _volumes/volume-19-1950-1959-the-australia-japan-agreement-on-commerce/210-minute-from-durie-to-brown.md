@@ -1,18 +1,23 @@
 ---
-title: "210 Minute From Durie To Brown"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7815
+doc_date: '1957-05-16'
+doc_num: 210
+doc_order: 210
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : MENZIES PAPERS MS4936/21/440, FOLDER 18]'
+title: Minute From Durie To Brown
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-05-16
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 210 Minute From Durie To Brown
-
-## 16th May, 1957
+16th May, 1957
 
 CANBERRA
 
-**Japanese Trade Agreement** The Cabinet Committee this morning approved with enthusiasm the Trade Agreement proposals and authorised Mr McEwen to convey the Government's response to the Japanese immediately.
+ **Japanese Trade Agreement** The Cabinet Committee this morning approved with enthusiasm the Trade Agreement proposals and authorised Mr McEwen to convey the Government's response to the Japanese immediately.
 
 One or two points are still to be rounded off, but no difficulty is expected in reaching agreement on these within the limits approved by the Committee.
 
@@ -38,7 +43,7 @@ He suggested that if our Prime Minister had any special views about the proposal
 
 My own judgment is that the Prime Minister would be quite content with the course of negotiations, but in view of his own discussions with Kishi, you might think it desirable to mention these matters to him at the first opportunity.
 
-_
+ _
 
 1 'Ad Hoc' Committee.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [NLA : MENZIES PAPERS MS4936/21/440, FOLDER 18]_
+ _[NLA : MENZIES PAPERS MS4936/21/440, FOLDER 18]_

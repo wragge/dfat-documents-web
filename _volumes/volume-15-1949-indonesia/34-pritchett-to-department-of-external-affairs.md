@@ -1,12 +1,18 @@
 ---
-title: "34 Pritchett to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6203
+doc_date: '1949-01-06'
+doc_num: 34
+doc_order: 34
+naa_refs:
+- naa_barcode: 216865
+  naa_control_symbol: '97'
+  naa_series: A10158
+  reference: '[AA : A10158/1, 7]'
+title: Pritchett to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-06
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 34 Pritchett to Department of External Affairs
 
 Cablegram 5 BATAVIA, 6 January 1949
 
@@ -24,7 +30,7 @@ Attempts to secure a clear mandate from the Commission to the Committee pending 
 
 He will see Tsiang and attempt to induce him to a more favourable attitude.
 
-_
+ _
 
 1 Document 14.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA : A10158/1, 7]_
+ _[AA : A10158/1, 7]_

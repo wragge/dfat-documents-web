@@ -1,12 +1,17 @@
 ---
-title: "108 Jacobsen to Moore"
-volume: "Volume 7: 1944"
-doc_id: 2755
+doc_date: '1944-04-07'
+doc_num: 108
+doc_order: 108
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, iv]'
+title: Jacobsen to Moore
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-04-07
+vol_title: 'Volume 7: 1944'
 ---
-
-# 108 Jacobsen to Moore
 
 Memorandum DG658 (extract) WASHINGTON, 7 April 1944
 
@@ -58,7 +63,7 @@ Should this letter reach you after Mr. Macgregor's departure, it would be apprec
 
 E. R. JACOBSEN
 
-_
+ _
 
 1 Not located.
 
@@ -80,4 +85,4 @@ _
 
 _
 
-_ [AA:A571, L41/915A, iv]_
+ _[AA:A571, L41/915A, iv]_

@@ -1,13 +1,18 @@
 ---
-title: "59 Mr A. W. Fadden, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1813
+doc_date: '1941-09-05'
+doc_num: 59
+doc_order: 60
+naa_refs:
+- naa_barcode: 206516
+  naa_control_symbol: E45/2/1
+  naa_series: A1608
+  reference: '[AA:A1608, E45/2/1, v]'
+title: Mr A. W. Fadden, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-05
-barcode: 206516
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 59 Mr A. W. Fadden, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 584 CANBERRA, 5 September 1941
 
@@ -33,7 +38,7 @@ Parliament is meeting at the middle of the month and it is my desire to make a s
 
 FADDEN
 
-_
+ _
 
 1 Winston Churchill.
 
@@ -51,4 +56,4 @@ _
 
 _
 
-_ [ [AA:A1608, E45/2/1, v](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=206516) ]_
+ _[AA:A1608, E45/2/1, v]_

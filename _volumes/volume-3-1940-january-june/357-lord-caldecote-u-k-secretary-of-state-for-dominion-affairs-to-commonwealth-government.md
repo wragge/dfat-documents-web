@@ -1,20 +1,26 @@
 ---
-title: "357 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1123
+doc_date: '1940-06-10'
+doc_num: 357
+doc_order: 357
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4084]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-10
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 357 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
-
-## Circular cablegram [C]38 [1] LONDON, 10 June 1940, 10.06 p.m.
+Circular cablegram [C]38 [1] LONDON, 10 June 1940, 10.06 p.m.
 
 MOST IMMEDIATE
 
 Official intimation received King of Italy will consider himself at war with Great Britain and France as from midnight tonight. [2]
 
-_
+ _
 
 1 The copy cited was numbered D38. The copy on file AA: A1608, M41/1/1, however, was numbered C38 and this appears to be correct.
 
@@ -22,4 +28,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4084]_
+ _[FA: A3195, 1.4084]_

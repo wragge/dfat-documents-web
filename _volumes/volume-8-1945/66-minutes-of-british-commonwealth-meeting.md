@@ -1,12 +1,17 @@
 ---
-title: "66 Minutes of British Commonwealth Meeting"
-volume: "Volume 8: 1945"
-doc_id: 3097
+doc_date: '1945-04-04'
+doc_num: 66
+doc_order: 66
+naa_refs:
+- naa_barcode: 441207
+  naa_control_symbol: '1'
+  naa_series: A7386
+  reference: '[AA : A7386, TOP SECRET, COPY No. 8]'
+title: Minutes of British Commonwealth Meeting
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-04-04
+vol_title: 'Volume 8: 1945'
 ---
-
-# 66 Minutes of British Commonwealth Meeting
 
 BCM(45) 2nd Meeting (extracts) LONDON, 4 April 1945, 3.30 p.m.
 
@@ -42,7 +47,7 @@ On the assumption, however, that the single-Power system would be perpetuated, U
 
 They felt that considerable changes would be necessary, and he was ready to circulate a list of these. Meantime, he would only refer to one or two alterations of major importance, which the United Kingdom wished to suggest:(1) Defence-The restrictions upon the establishment of military, air and naval bases, the erection of fortifications, and the organisation of native military forces were clearly obsolete and should be removed. Modern warfare had demonstrated the inter-dependence of neighbouring and even far- distant territories; for example, after the fall of Singgapore, we had found it necessary to take considerable defence measures in Tanganyika which it was very difficult, if not impossible, legally to reconcile with the Mandate provisions. The defence role of Mandated territories should be determined in relation to the world security plan and regional requirements.
 
-(2) The Open Door Policy-Quite a number of provisions, e.g., those requiring for all nationals of States Members of the League equal rights with the nationals of the Mandatory Power in respect of conduct of business, the open door economic provisions, &amp;c., were unfair in practice. Those provisions related to B Mandates and the same disabilities did not, of course, apply in the case of C Mandates, which could in effect be administered as parts of the territory of the Mandatory Power. In practice, the open door provisions had proved to be much more of a safeguard for those outside the Mandated territory than for its inhabitants, who received nothing in return. The foreign States who enjoyed the benefits of these provisions did not reciprocate. In the case of Tanganyika, he did not think that the position could be maintained locally if there was any suggestion of reverting to the pre-war situation regarding German immigration. He recalled the revelations which had been made of the manner in which the Germans had abused their position in Tanganyika.
+(2) The Open Door Policy-Quite a number of provisions, e.g., those requiring for all nationals of States Members of the League equal rights with the nationals of the Mandatory Power in respect of conduct of business, the open door economic provisions, &c., were unfair in practice. Those provisions related to B Mandates and the same disabilities did not, of course, apply in the case of C Mandates, which could in effect be administered as parts of the territory of the Mandatory Power. In practice, the open door provisions had proved to be much more of a safeguard for those outside the Mandated territory than for its inhabitants, who received nothing in return. The foreign States who enjoyed the benefits of these provisions did not reciprocate. In the case of Tanganyika, he did not think that the position could be maintained locally if there was any suggestion of reverting to the pre-war situation regarding German immigration. He recalled the revelations which had been made of the manner in which the Germans had abused their position in Tanganyika.
 
 (3) Impermanence of Existing Mandates-He felt that the main disadvantage of the existing system rested in the inevitable feeling of impermanence. He had been very much impressed, for example, by the position in Togoland and the Cameroons. These two small areas were, for practical purposes, administered as part of a larger colony. When capital expenditure was being considered, there was a natural inclination-and who could blame those concerned-to spend on permanent works in the area which was an integral part of the Empire and not in the Mandated portion. He felt that, somehow or another, it would have to be made clear that there should be no question of the Mandatory Power surrendering such territories.
 
@@ -220,7 +225,7 @@ There should be a later discussion between the countries concerned upon function
 
 [matter omitted]
 
-_
+ _
 
 1 On file AA:A1066, P45/153/2, i. In fact dispatched 29 March.
 
@@ -244,4 +249,4 @@ _
 
 _
 
-_ [AA : A7386, TOP SECRET, COPY No. 8]_
+ _[AA : A7386, TOP SECRET, COPY No. 8]_

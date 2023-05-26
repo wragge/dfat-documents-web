@@ -1,19 +1,23 @@
 ---
-title: "210 Submission No. 234, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9718
+doc_date: '1968-07-12'
+doc_num: 210
+doc_order: 210
+naa_refs:
+- naa_barcode: 3068575
+  naa_control_symbol: '234'
+  naa_series: A5868
+  reference: '[NAA: A5868, 234]'
+title: Submission No. 234, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-07-12
-barcode: 3068575
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 210 Submission No. 234, Barnes To Cabinet
 
 Canberra, 12 July 1968
 
 Confidential
 
-**Papua and New Guinea development programme**
+ **Papua and New Guinea development programme**
 
 This submission recommends endorsement of a five-year development programme for Papua and New Guinea and puts forward a suggested attitude by the Commonwealth Government towards the aid aspect of the programme.
 
@@ -21,7 +25,7 @@ This submission recommends endorsement of a five-year development programme for 
 
 Objectives Of Programme
 
-3\. In 1965 the Cabinet endorsed as a working basis for planning the economic development programme suggested by the 1964 Report of a Mission from the International Bank for Reconstruction and Development (Decision No. 885 of 21st April, 1965).1 This programme as a whole covered the five years from 1964/65 to 1968/69 (certain production programmes covered the ten years to 1973/74) and requires updating to take account of the Territory’s changing needs and opportunities.
+3\. In 1965 the Cabinet endorsed as a working basis for planning the economic development programme suggested by the 1964 Report of a Mission from the International Bank for Reconstruction and Development (Decision No. 885 of 21st April, 1965).[1](#f1) This programme as a whole covered the five years from 1964/65 to 1968/69 (certain production programmes covered the ten years to 1973/74) and requires updating to take account of the Territory’s changing needs and opportunities.
 
 4\. While the Mission’s original programme was confined largely to the development of the Territory’s agriculture, livestock and forest industries, the programme now proposed is wider in scope and spells out programmes for the various economic sectors in greater detail for the five year period 1968/69 to 1972/73. (Figures are given for agricultural livestock and forestry development up to 1974/75.) The overall programme and sectoral programmes will of course be subject to revision in the light of changes in circumstances.
 
@@ -45,7 +49,7 @@ Objectives Of Programme
 
 Content Of Programme
 
-8\. Key targets in the programme are set out in Attachment ‘A’.2
+8\. Key targets in the programme are set out in Attachment ‘A’.[2](#f2)
 
 _Major production programmes_
 
@@ -153,7 +157,7 @@ Beef Cattle Turnoff ($M)| 0.9| 1| 2.3| 20.6.
 Forestry Production ($M)| 10| 12| 25| 20.1  
 Manufacturing Output ($M)| 58| 69| 121| 15.8  
   
-_Other economic programmes_
+ _Other economic programmes_
 
 15\. Substantial growth is planned in service industries particularly _transport_ to cope with the expanded production programmes.
 
@@ -161,13 +165,13 @@ _Other economic programmes_
 
 17\. Rapid growth in _telecommunications_ will be achieved under the $14M programme now under way which will be financed partly from the recently negotiated $6.3M loan from the IBRD.
 
-_Social services_
+ _Social services_
 
 18\. In harmony with the recommendations of the 1964 I.B.R.D. Mission, the programme envisages that the standards and coverage of social services be related to the capacity and willingness of the local people to contribute towards them.
 
 19\. In _education_ priority will be given to secondary and tertiary education with special attention to technical and vocational training. The _health_ programme emphasises preventive medicine such as malaria control as against curative services. There will be a positive programme to make available facilities for population planning. It is expected that over the five years to 1972/73 the growth of population will be of the order of 2.6% per annum. With the continued improvement in the health of the population this could rise to around 2.8% in the late 1970’s.
 
-_Total programme_
+ _Total programme_
 
 20\. There is no satisfactory single measure which would express in quantitative terms what the success of the proposed programme would mean in terms of progress towards higher living standards and greater economic self-reliance. Much of the investment expenditure proposed in the programme will produce results in terms of increased production only after a period of years.
 
@@ -183,7 +187,7 @@ _Total programme_
 
 • Enlargement of the educated work force along with progressive increases in the employment of Papuans and New Guineans in the public service and private enterprise with expatriates being employed in key areas of Administration to the extent that qualified indigenes will not be available.
 
-23\. The possible impact of the programme on the economy as a whole is set out in Attachment ‘B’.3
+23\. The possible impact of the programme on the economy as a whole is set out in Attachment ‘B’.[3](#f3)
 
 24\. The programme will also expand the tax base of the Territory. At current levels of taxation, local revenue is projected to increase from $50M in 1967/68 to $80M in 1972/73. Revenues generated by the programme will be substantially greater when new plantings and other investment made during the plan period reach maturity after 1973.
 
@@ -193,13 +197,13 @@ _Total programme_
 
 Resources Required To Meet Targets
 
-_Private investment_
+ _Private investment_
 
 27\. Considerable investment, e.g. in oil and mineral exploration, can be expected to go ahead regardless of the level of government spending; other private investment will be related more closely to levels of-government expenditure.
 
 28\. Since 1963/64 private investment excluding new plantings (which as in Australia are not treated as investment for national accounting purposes) has been increasing at about $10M each year. It is considered that an increase of $10M (excluding the Bougainville copper project) in each year to 1972/73 could be achieved with a continuing programme of investment promotion and incentives.
 
-_Administration receipts_
+ _Administration receipts_
 
 29\. The following table shows projections of expenditure, local revenue and public loans. The figures of Commonwealth grant have been derived from these projections.
 
@@ -217,14 +221,14 @@ Administration Expenditure| 154.5| 100.0| 235.0| 100.0| 973.5| 100.0
 
 32\. The projections do not include revenues to be collected and expenditures to be borne by Local Government Councils. Over the plan period Councils will make an increasing contribution in the raising of revenue from local taxpayers (currently $1.7M) and in assuming responsibility for activities now financed by the Administration.
 
-33\. The programme as designed implies an increase in the _ Commonwealth grant_ of the order of 10% per annum from 1968/69. The rate reduces from 12.1% in 1968/69 and 12.6% in 1969/70 to 10.2% in 1971/72 and 9.3% in 1972/73. This increase compares with an average annual rate of increase of 11.4% over the last four years:
+33\. The programme as designed implies an increase in the _Commonwealth grant_ of the order of 10% per annum from 1968/69. The rate reduces from 12.1% in 1968/69 and 12.6% in 1969/70 to 10.2% in 1971/72 and 9.3% in 1972/73. This increase compares with an average annual rate of increase of 11.4% over the last four years:
 
-| %Increase| | | %Increase  
+|  %Increase| | | %Increase  
 ---|---|---|---|---  
 1964/65| 10.9| | 1966/67| 12.5  
 1965/66| 10.7| | 1967/68| 11.2  
   
-_Direct commonwealth expenditure_
+ _Direct commonwealth expenditure_
 
 34\. Net direct expenditure by Commonwealth departments and instrumentalities has been projected on the basis of present administrative arrangements and estimates by the agencies concerned:
 
@@ -234,7 +238,7 @@ _Direct commonwealth expenditure_
 1969/70| 22| 1972/73| 29  
 1970/71| 26| |   
   
-_Skilled manpower_
+ _Skilled manpower_
 
 35\. The programme envisages the addition to the Territory Public Service of about 2,000 overseas officers for new positions for which no local officers are expected to be available. Of these 1,450 officers will be required in professional and technical fields including 820 officers essential for the agricultural, livestock, forestry, education and works programmes. More than 500 positions now held by overseas officers are expected to be filled by local officers. Expatriate recruitment for general government services will be kept to a minimum.
 
@@ -258,7 +262,7 @@ Consultation Procedures And Commonwealth Commitment
 
 42\. In preparing this programme the Administration has paid close attention to expressions of native opinion and has been in consultation with private enterprise and Commonwealth authorities.
 
-43\. Subject to Cabinet’s approval it is proposed to consult the Administrator’s Executive Council and subject to the views of the Council seek endorsement of the broad basis of the programme by the House of Assembly. In accordance with Decision No 417(M) of 19th July, 1967, in relation to the grant to the Administration for 1967/68,4 and in harmony with the proposed attitude for the 1968/69 grant, the help from Australia towards the accelerated economic development of the Territory which is envisaged in the programme would be offered on the basis of the co-operation of the House of Assembly and the people of the Territory. As in the case of the budget it is proposed that in the event that the House of Assembly should attempt to vary the programme in a way unacceptable to the Government the intention would be that the amount of the grant and arrangements for Australian aid should be open to review.
+43\. Subject to Cabinet’s approval it is proposed to consult the Administrator’s Executive Council and subject to the views of the Council seek endorsement of the broad basis of the programme by the House of Assembly. In accordance with Decision No 417(M) of 19th July, 1967, in relation to the grant to the Administration for 1967/68,[4](#f4) and in harmony with the proposed attitude for the 1968/69 grant, the help from Australia towards the accelerated economic development of the Territory which is envisaged in the programme would be offered on the basis of the co-operation of the House of Assembly and the people of the Territory. As in the case of the budget it is proposed that in the event that the House of Assembly should attempt to vary the programme in a way unacceptable to the Government the intention would be that the amount of the grant and arrangements for Australian aid should be open to review.
 
 44\. The feasibility of the programme depends on the Commonwealth’s support primarily through the provision of grants to the Territory budget of the order indicated in paragraph 29.
 
@@ -268,7 +272,7 @@ Consultation Procedures And Commonwealth Commitment
 
 47\. The programme implies an increase, taking one year with another, of the order of 10 per cent per annum in the Commonwealth grant over the period of the programme. It is proposed that this be the order of magnitude of increase in the grant to be contemplated at this stage by the Commonwealth.
 
-_Proposed attitude_5
+ _Proposed attitude_[5](#f5)
 
 48\. It is proposed that the Government should reaffirm that it will continue to help towards greater economic development and greater economic self-reliance in the Territory.
 
@@ -286,9 +290,9 @@ _Proposed attitude_5
 
 Recommendation
 
-55\. I recommend endorsement of the proposed five year programme and Commonwealth support for it on the basis set out in paragraphs 48-54.6
+55\. I recommend endorsement of the proposed five year programme and Commonwealth support for it on the basis set out in paragraphs 48-54.[6](#f6)
 
-[ [NAA: A5868, 234](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3068575) ]
+[NAA: A5868, 234]
 
 1  Not printed. 
 
@@ -300,4 +304,4 @@ Recommendation
 
 5 During drafting, considerable debate occurred over the wording of the following section. Hay had been concerned at different points that Territories drafts ‘feel like a sledgehammer blow’ (telex 6059, Hay to Warwick Smith, 4 July 1968, NAA: A452, 1968/3566) and ‘might expose the Government unnecessarily to the suggestion that it is using its grant to influence the development of the political situation’—a perception that ‘could, inter alia, lead to difficulties here in getting endorsement of development programmes’ (telex 6127, Hay to Warwick Smith, 9 July 1968, ibid.). Hay gained some concessions (see telex 5229, Warwick Smith to Hay, 5 August 1968, and telex 5336, Gutman to Hay, 11 July 1968, ibid.), but DOET obtained Barnes’ support for a firm and explicit statement of respective Commonwealth and PNG responsibilities (submission, Gutman to Barnes, 6 July 1968, and telex 5229, Warwick Smith to Hay, ibid.). More generally, Hay cabled that he was anxious that Cabinet avoid a rigid policy prescription on the relationship between the grant and internal revenue (telex 5960, Hay to DOET, 1 July 1968, ibid.). He also affirmed the plan’s ‘figures [which] underline the long term nature of the movement towards viability. To my mind, this is realistic. It involves smaller strain on the machinery of government and {on the social and racial situation} [in] the Territory. It keeps up a steady pressure but means that any steeper rise in the pace of development must await localisation. This is reflected in an increased emphasis on training’ (loc. cit.).
 
-6  On 24 July, Cabinet ‘endorsed the proposed objectives and targets of the Papua New Guinea five-year development programme as a basis for planning and subject to a similar endorsement by the House of Assembly’. This was ‘on the understanding that such approval for planning purposes does not carry with it endorsement of any implied commitments for financial provisions’. Regarding attachment B, the Ministry felt that the estimates should not be published ‘at this stage and at least until there has been an opportunity to check the basis of the estimates with Treasury and the Commonwealth Bureau of Census and Statistics’. There was also an ‘understanding that any public statement to be made on the matter on behalf of the Government will be the subject of prior consultation with the Treasurer’ (decision no. 354 (M), NAA: A5868, 234). 
+6  On 24 July, Cabinet ‘endorsed the proposed objectives and targets of the Papua New Guinea five-year development programme as a basis for planning and subject to a similar endorsement by the House of Assembly’. This was ‘on the understanding that such approval for planning purposes does not carry with it endorsement of any implied commitments for financial provisions’. Regarding attachment B, the Ministry felt that the estimates should not be published ‘at this stage and at least until there has been an opportunity to check the basis of the estimates with Treasury and the Commonwealth Bureau of Census and Statistics’. There was also an ‘understanding that any public statement to be made on the matter on behalf of the Government will be the subject of prior consultation with the Treasurer’ (decision no. 354 (M), NAA: A5868, 234).

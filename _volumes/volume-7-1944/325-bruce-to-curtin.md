@@ -1,12 +1,17 @@
 ---
-title: "325 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2972
+doc_date: '1944-10-19'
+doc_num: 325
+doc_order: 325
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43-44/735/1009]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 325 Bruce to Curtin
 
 Cablegram 142A LONDON, 19 October 1944, 5.30 p.m.
 
@@ -62,7 +67,7 @@ The text is as follows-
 
 BRUCE
 
-_
+ _
 
 1 See Document 286, note 2.
 
@@ -96,4 +101,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/735/1009]_
+ _[AA:A989, 43-44/735/1009]_

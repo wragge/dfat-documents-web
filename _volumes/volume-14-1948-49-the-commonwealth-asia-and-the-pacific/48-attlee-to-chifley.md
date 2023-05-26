@@ -1,12 +1,18 @@
 ---
-title: "48 Attlee to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5824
+doc_date: '1949-08-16'
+doc_num: 48
+doc_order: 48
+naa_refs:
+- naa_barcode: 414241
+  naa_control_symbol: L1949/3/2/26
+  naa_series: A3318
+  reference: '[NAA: A3318, A49/3/2/26]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-08-16
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 48 Attlee to Chifley
 
 Cablegram 126 LONDON, 16 August 1949, 1.15 a.m.
 
@@ -16,8 +22,8 @@ I can certainly assure you of our full assistance in any request you make to the
 
 As to the timing of such a request, I think there would now be considerable advantage in not putting it forward until after the Washington talks. It is very likely that the reception of such an application by any member of the Sterling Area will be greatly influenced, if not determined, by the course of the Washington talks. As you probably know, the attitude of the American representative on the Fund is not at present sympathetic towards applications from members of the Sterling Area and it would be unfortunate if any application met with difficulties before the talks. I hope such a postponement will be agreeable to you.
 
-_
+ _
 
 _
 
-_ [A3318, A49/3/2/26]_
+ _[NAA: A3318, A49/3/2/26]_

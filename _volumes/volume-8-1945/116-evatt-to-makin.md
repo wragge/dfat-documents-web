@@ -1,12 +1,18 @@
 ---
-title: "116 Evatt to Makin"
-volume: "Volume 8: 1945"
-doc_id: 3147
+doc_date: '1945-06-18'
+doc_num: 116
+doc_order: 116
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, INWARDS FROM AUSTRALIAN DELEGATION SAN FRANCISCO
+    (AND LONDON), I.19885]'
+title: Evatt to Makin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-06-18
+vol_title: 'Volume 8: 1945'
 ---
-
-# 116 Evatt to Makin
 
 Cablegram SFC61 SAN FRANCISCO, 18 June 1945, 12.09 a.m.
 
@@ -20,7 +26,7 @@ It will therefore ultimately be necessary to appoint a separate Minister to Sant
 
 Under the circumstances it seems undesirable to seek agreement for Macgregor as Minister to Chile. The general question of the establishment of a Mission at Santiago de Chile can remain in abeyance until I return to Australia but I should like your personal reaction after full consideration. [2]
 
-_ FRANCISCO (AND LONDON), I.19885]
+ _
 
 1 Joaquin Fernandez Fernandez.
 
@@ -30,4 +36,4 @@ Duncan was to be appointed Australian Minister to Chile.
 
 _
 
-_ [AA : A3195, 1945, FOLDER, INWARDS FROM AUSTRALIAN DELEGATION SAN_
+ _[AA : A3195, 1945, FOLDER, INWARDS FROM AUSTRALIAN DELEGATION SAN FRANCISCO (AND LONDON), I.19885]_

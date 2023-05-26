@@ -1,12 +1,17 @@
 ---
-title: "34 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2681
+doc_date: '1944-01-27'
+doc_num: 34
+doc_order: 34
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/715/5/2, ii]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-27
+vol_title: 'Volume 7: 1944'
 ---
-
-# 34 Bruce to Curtin
 
 Cablegram 14A LONDON, 27 January 1944, 7.42 p.m.
 
@@ -34,7 +39,7 @@ With regard to the publication of these rumours the Prime Minister has sent a pe
 
 BRUCE
 
-_
+ _
 
 1 Cablegram 9[A] of 17 January, on file AA: A989, 44/715/5/2, ii.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:A989, 44/715/5/2, ii]_
+ _[AA:A989, 44/715/5/2, ii]_

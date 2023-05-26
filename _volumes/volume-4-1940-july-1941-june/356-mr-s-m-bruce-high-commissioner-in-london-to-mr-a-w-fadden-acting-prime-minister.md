@@ -1,14 +1,20 @@
 ---
-title: "356 Mr S. M. Bruce, High Commissioner in London, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1587
+doc_date: '1941-03-15'
+doc_num: 356
+doc_order: 356
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.4061]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr A. W. Fadden, Acting Prime
+  Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-15
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 356 Mr S. M. Bruce, High Commissioner in London, to Mr A. W. Fadden, Acting Prime Minister
-
-## Cablegram 194 LONDON, 15 March 1941, 2.51 p.m.
+Cablegram 194 LONDON, 15 March 1941, 2.51 p.m.
 
 Your telegram No. 1118, flour shipments to North China. [1] Matter has again been discussed with Ministry of Shipping.
 
@@ -16,10 +22,10 @@ Two considerations have influenced their decision. The first and most important 
 
 BRUCE
 
-_
+ _
 
 1 Document 346.
 
 _
 
-_ [AA:A3195, 1941, 1.4061]_
+ _[AA:A3195, 1941, 1.4061]_

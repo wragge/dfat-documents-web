@@ -1,12 +1,19 @@
 ---
-title: "140 Extract from Cablegram from Webster to Department of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9010
+doc_date: '1981-02-03'
+doc_num: 140
+doc_order: 140
+naa_refs:
+- naa_barcode: 1509882
+  naa_control_symbol: 370/1/19/18 PART 21
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, xxi]'
+title: Extract from Cablegram from Webster to Department of Foreign Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-02-03
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 140 Extract from Cablegram from Webster to Department of Foreign Affairs
 
 Wellington, 3 February 1981
 
@@ -31,4 +38,4 @@ This morning, Monday 2 February, the Prime Minister, Mr Muldoon, kindly consente
 
 
 
-_[NAA: A1838, 370/1119/18, xxi]_
+ _[NAA: A1838, 370/1119/18, xxi]_

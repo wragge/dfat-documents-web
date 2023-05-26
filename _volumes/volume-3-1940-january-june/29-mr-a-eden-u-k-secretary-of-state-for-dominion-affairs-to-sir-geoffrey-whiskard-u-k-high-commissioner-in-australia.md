@@ -1,12 +1,18 @@
 ---
-title: "29 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 795
+doc_date: '1940-01-24'
+doc_num: 29
+doc_order: 29
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.603]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard,
+  U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-24
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 29 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 15 LONDON, 24 January 1940
 
@@ -22,7 +28,7 @@ We feel that the Commonwealth Government will realise in the circumstances that 
 
 [2]
 
-_
+ _
 
 1 On 12 January 1940 the Secretary of the Prime Minister's Dept, Frank Strahan, wrote to the Official Secretary of the U.K. High Commission in Australia, R. R. Sedgwick, to ask if the U.K. Govt had any objection to Louis Dreyfus and Company shipping 25 000 tons of Australian wheat to Vladivostok for sale to the U.S.S.R.
 
@@ -32,4 +38,4 @@ Govt (see letter on file AA: A1608, H61/2/4). Whiskard's cablegram 13 (not found
 
 _
 
-_ [FA: A3195, 1.603]_
+ _[FA: A3195, 1.603]_

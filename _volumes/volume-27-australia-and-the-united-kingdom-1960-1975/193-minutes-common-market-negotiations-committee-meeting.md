@@ -1,24 +1,27 @@
 ---
-title: "193 MINUTES, COMMON MARKET NEGOTIATIONS COMMITTEE MEETING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10058
+doc_date: '1962-07-23'
+doc_num: 193
+doc_order: 193
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB 134/1512]'
+title: MINUTES, COMMON MARKET NEGOTIATIONS COMMITTEE MEETING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-07-23
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 193 MINUTES, COMMON MARKET NEGOTIATIONS COMMITTEE MEETING
-
-UKNA: CAB 134/1512
 
 London, 23 July 1962
 
 Confidential
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_2\. Commonwealth Temperate Foodstuffs_
+ _2\. Commonwealth Temperate Foodstuffs_
 
-The Committee had before them a note by the Lord Privy Seal (CMN (62) 44) on Commonwealth temperate foodstuffs.2
+The Committee had before them a note by the Lord Privy Seal (CMN (62) 44) on Commonwealth temperate foodstuffs.[2](#f2)
 
 THE LORD PRIVY SEAL said that it had become clear in the negotiations that the Six were not going to accept the specific arrangements we had proposed in our general paper on comparable outlets and in various commodity papers, and that, for the French at least, this was probably a breaking point. It seemed to him therefore that we should try to adapt the ideas put forward by the Six and modify them to give us the substance of our original proposals. There was not a great deal of difference between ourselves and the Six on worldwide commodity agreements, although the Six had not yet accepted that such agreements should cover access. We should be able to agree on a formula. Transitional arrangements, however, were extremely difficult, with access and terms of competition, including the future of Commonwealth preferences, being the main point at issue. The Six wanted Commonwealth preferences to go. They were prepared to give the Commonwealth a part of the intra-Community preference but this was much less than the preferences at present enjoyed by the Commonwealth on various commodities and was to disappear by the end of the transitional period. A middle way might be to phase Commonwealth preferences out by the end of the transitional period also. On access in terms of quantities, which the Six had shown great reluctance to envisage, he proposed to seek agreement that we should not have to apply quantitative restrictions against the Commonwealth for any particular commodity until Commonwealth exports to the United Kingdom in any year had reached traditional levels. The Six were likely to object and argue that a declaration of intention to follow a reasonable price policy—as they are ready to declare their intention of doing—would give sufficient assurance. The French feared that any quantitative arrangements might afford an opportunity for the Germans to reopen the common agricultural policy agreements reached with so much difficulty on 14th January, which French public opinion regarded as one of the most important advantages gained for France in the Community. If the Six were not willing to concede a quantitative assurance for the whole of the transitional period, we should try for a general clause to the effect that if there were a substantial decline in imports from Commonwealth below traditional levels, the Community would consult with the Commonwealth and take appropriate remedial measure. Finally, arrangements would have to be agreed for the so-called bridge: i.e. arrangements after 1970 in the event of world-wide commodity agreements not having been reached. The Six had said that, in the case of failure to reach commodity agreements with all the main supplying countries, they would be willing to negotiate with those countries who were prepared for such agreements. He would like to take this a step further and seek their agreement that they would be prepared to negotiate trade agreements with Canada, Australia and New Zealand on the principle they had already agreed for India, Pakistan and Ceylon.
 
@@ -48,7 +51,7 @@ The Committee:–
 
 > 1\. Approved, subject to the points made in discussion, the proposals outlined by the Lord Privy Seal for the next stage of the negotiations on the treatment of Commonwealth temperate foodstuffs.
 > 
-> 2\. Invited the Commonwealth Secretary, in consultation with the Lord Privy Seal, to arrange for the Commonwealth Governments concerned to be informed of the proposed procedure on the lines agreed in discussion.3
+> 2\. Invited the Commonwealth Secretary, in consultation with the Lord Privy Seal, to arrange for the Commonwealth Governments concerned to be informed of the proposed procedure on the lines agreed in discussion.[3](#f3)
 > 
 > 3\. Invited the Lord Privy Seal to report the position reached in the negotiations at their meeting on 30th July.
 
@@ -57,3 +60,5 @@ The Committee:–
 2 Document 192.
 
 3 Document 194.
+
+[UKNA: CAB 134/1512]

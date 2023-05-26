@@ -1,12 +1,19 @@
 ---
-title: "477 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2231
+doc_date: '1942-04-30'
+doc_num: 477
+doc_order: 478
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, CABLES TO AND FROM DR EVATT,
+    MARCH-MAY 1942]'
+title: Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-04-30
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 477 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram 390 LONDON, 30 April 1942, 11.55 p.m.
 
@@ -32,7 +39,7 @@ The whole of our tonnage is engaged to the utmost in transporting munitions to R
 
 6\. Nevertheless you may be sure that General MacArthur's recommendations will continue to be studied here, and I have also reported them to the President [5] in case he may feel able to take any further action. I am also looking forward to discussing the position with Dr. Evatt [6], who will soon be here. Ends.
 
-_ EVATT, MARCH-MAY 1942]
+ _
 
 1 Winston Churchill.
 
@@ -48,4 +55,4 @@ _ EVATT, MARCH-MAY 1942]
 
 _
 
-_ [FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, CABLES TO AND FROM DR_
+ _[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, CABLES TO AND FROM DR EVATT, MARCH-MAY 1942]_

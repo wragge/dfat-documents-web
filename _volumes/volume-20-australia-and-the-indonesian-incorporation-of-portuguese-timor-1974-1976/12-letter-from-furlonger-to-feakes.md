@@ -1,19 +1,25 @@
 ---
-title: "12 Letter from Furlonger to Feakes"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7851
+doc_date: '1974-07-03'
+doc_num: 12
+doc_order: 12
+naa_refs:
+- naa_barcode: 4151641
+  naa_control_symbol: '1'
+  naa_series: A11443
+  reference: '[NAA: A11443, [1]'
+title: Letter from Furlonger to Feakes
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-07-03
-barcode: 4151641
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 12 Letter from Furlonger to Feakes
 
 Jakarta, 3 July 1974
 
 TOP SECRET
 
-**Indonesia: Clandestine Operation in Portuguese Timor**
+ **Indonesia: Clandestine Operation in Portuguese Timor**
 
 Harry Tjan told Jan Arriens on 2 July that he intends to submit a paper to the President this week recommending that Indonesia mount a clandestine operation in Portuguese Timor to ensure that the territory would opt for incorporation into Indonesia. The paper will include a list of the specific actions that would be possible or required. These would include working through Catholic priests (some of whom are trained in Flores) and other indigenous contacts that exist between Kupang and Di1i. Tjan observed that in view of the rudimentary nature of political development in Portuguese Timor effective manipulation should not prove difficult. He mentioned that Indonesia had a clandestine operation of some sort going in Portuguese Timor during confrontation. The recently established political party favouring incorporation into Indonesia provided a ready-made starting point.
 
@@ -25,16 +31,14 @@ Tjan's extreme frankness indicates that the Indonesians are confident that we wo
 
 The information was elicited by some leading questioning in which Arriens stressed that in his personal view Timor would scarcely be a viable state, that he was aware of marked concern in Indonesian circles about the potential dangers of an independent Portuguese Timor, and that it seemed to him a relatively simple matter to do something about it. Tjan then revealed his intentions, but at no stage sought Australian cooperation. Nor was there any suggestion that we should be privy to Indonesia's activities in exchange for diplomatic cooperation.
 
-It is interesting to note the Indonesian preoccupation with Portuguese Timor which is now coming through to us-from Ali Murtopo, at the discussions1 last week (Arriens sent a report to McLennan),2 and now with Tjan. It is true that all these discussions were initiated on our side, but the Indonesians clearly decided to take the opportunity offered by them to try to take us along on a _realpolitik_ approach to the problem; and they are speaking surprisingly frankly. We are, in effect, being consulted. They clearly expect a response from our side: a failure to do so soon will be taken by them, I fear, as tacit agreement.
+It is interesting to note the Indonesian preoccupation with Portuguese Timor which is now coming through to us-from Ali Murtopo, at the discussions[1](#f1) last week (Arriens sent a report to McLennan),[2](#f2) and now with Tjan. It is true that all these discussions were initiated on our side, but the Indonesians clearly decided to take the opportunity offered by them to try to take us along on a _realpolitik_ approach to the problem; and they are speaking surprisingly frankly. We are, in effect, being consulted. They clearly expect a response from our side: a failure to do so soon will be taken by them, I fear, as tacit agreement.
 
 Although I recognise that there are sometimes evolving situations where policy is best left grey and obscure, I doubt that that is desirable in this case. In some respects now, I imagine, and certainly in some quarters, the Portuguese Government may be regarded as internationally more respectable than the Soeharto Government. It seems to me that, whilst we would doubtless prefer Indonesia to control the whole island, independence cannot be ruled out in all circumstances, and that the nature and extent of our support for Indonesia would need careful consideration. What domestic problems the Government would have to take into account you would be better able to judge than I.
 
-The Indonesians will expect the Prime Minister to be able to discuss the whole question but the prospects of a productive discussion would, I think, be enhanced if some of the issues involved could be identified more clearly in advance. Any guidance you can let us have would be very helpful3
+The Indonesians will expect the Prime Minister to be able to discuss the whole question but the prospects of a productive discussion would, I think, be enhanced if some of the issues involved could be identified more clearly in advance. Any guidance you can let us have would be very helpful[3](#f3)
 
-_[ [NAA: A11443, [1]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4151641) ]_
+ _[NAA: A11443, [1]]_
 
   * 1 Half a line has been expunged here.
   * 2 See Document 11.
   * 3 A handwritten marginal note by Woolcott, dated 11 July, reads: 'I think our policy should be one of discouraging a weak non-viable independent state and of encouraging (or at least simply favouring) association with Indonesia. But we shall need to go along with the freely (and fairly) expressed will of the people-and put this to the Minister. I think Sec. should see'.
-
-

@@ -1,13 +1,20 @@
 ---
-title: "56 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1810
+doc_date: '1941-09-02'
+doc_num: 56
+doc_order: 57
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, ii]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 56 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
-
-Cablegram 571 [1] CANBERRA, 2, September 1941
+Cablegram 571 [1] CANBERRA, 2 September 1941
 
 SECRET
 
@@ -17,7 +24,7 @@ His Majesty's Government in the Commonwealth of Australia concurs generally in t
 
 We find some difficulty in interpreting the term South West Pacific Area. In our view, the country most threatened by further aggression at the moment is Thailand, and it is not clear that the term does apply to Thailand. It may be that your intention is to leave this point deliberately obscure.
 
-_
+ _
 
 1 Repeated to the N.Z. [Acting] Prime Minister as no 336.
 
@@ -29,4 +36,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, ii]_
+ _[AA: A981, JAPAN 185B, ii]_

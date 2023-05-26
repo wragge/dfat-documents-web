@@ -1,12 +1,18 @@
 ---
-title: "73 Minutes of Meeting of Prime Ministers"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5849
+doc_date: '1949-04-27'
+doc_num: 73
+doc_order: 73
+naa_refs:
+- naa_barcode: 433708
+  naa_control_symbol: TS899/6/1 PART 1
+  naa_series: A1838
+  reference: '[AA: 1838/283, TS99/6/1, 1]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-04-27
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 73 Minutes of Meeting of Prime Ministers
 
 P.M.M. (49) 6th Meeting LONDON, 27 April 1949
 
@@ -50,10 +56,10 @@ In Asia certainly, and possibly in other countries also, military strength was n
 
 MR. ATTLEE thanked Mr. Fraser and expressed the appreciation of all the Ministers present for the assistance which had been given by officials of all Delegations and by the Secretariat.
 
-_
+ _
 
 1 For a report of the conference Burma see Document 221.
 
 _
 
-_ [AA: 1838/283, TS99/6/1, 1]_
+ _[AA: 1838/283, TS99/6/1, 1]_

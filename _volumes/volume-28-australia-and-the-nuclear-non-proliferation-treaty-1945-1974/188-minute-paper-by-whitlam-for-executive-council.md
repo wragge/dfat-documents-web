@@ -1,14 +1,19 @@
 ---
-title: "188 Minute Paper by Whitlam for Executive Council"
-volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
-doc_id: 10562
+doc_date: '1973-01-11'
+doc_num: 188
+doc_order: 188
+naa_refs:
+- naa_barcode: 1373499
+  naa_control_symbol: 919/10/5 PART 36
+  naa_series: A1838
+  reference: '[NAA: A1838; 919/10/5 part 36]'
+title: Minute Paper by Whitlam for Executive Council
+vol_full_title: 'Volume 28: Australia and the Nuclear Non-Proliferation Treaty, 1945–1974'
 vol_id: 28
-doc_date: 1973-01-11
+vol_title: 'Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974'
 ---
 
-# 188 Minute Paper by Whitlam for Executive Council
-
-## 188 Minute Paper by Whitlam1 for Executive Council
+## 188 Minute Paper by Whitlam[1](#f1) for Executive Council
 
 Canberra, 11 January 1973
 
@@ -24,7 +29,7 @@ Recommended for the approval of His Excellency the Governor-General in Council t
 
 ## Explanatory Memorandum
 
-The Treaty on the Non-Proliferation of Nuclear Weapons (NPT), a copy of which is attached,2 was drafted by the United States and the Soviet Union and, after consideration in the then Eighteen Nation Disarmament Committee, was submitted to the United nations in June 1968.
+The Treaty on the Non-Proliferation of Nuclear Weapons (NPT), a copy of which is attached,[2](#f2) was drafted by the United States and the Soviet Union and, after consideration in the then Eighteen Nation Disarmament Committee, was submitted to the United nations in June 1968.
 
 It was opened for signature on 1 July 1968.
 
@@ -70,9 +75,7 @@ The main obligations that Australia would undertake through becoming a Party to 
 
 The treaty-making power is vested in the Crown and in Australia is exercised by the Governor-General in Council. The attached Minute seeks the approval of the Council for Australia to ratify the Treaty described and for the Minister for Foreign Affairs to draw up and complete appropriate Instruments of Ratification for that purpose, to be deposited at London, Moscow, and Washington.
 
-_[NAA: A1838; 919/10/5 part 36]_
+ _[NAA: A1838; 919/10/5 part 36]_
 
   * 1 Edward Gough Whitlam, Prime Minister and Minister for Foreign Affairs.
   * 2 See Appendix II.
-
-

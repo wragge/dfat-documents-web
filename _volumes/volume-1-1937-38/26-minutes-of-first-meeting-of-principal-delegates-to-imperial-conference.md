@@ -1,12 +1,17 @@
 ---
-title: "26 Minutes of First Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 26
+doc_date: '1937-05-19'
+doc_num: 26
+doc_order: 26
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Minutes of First Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-05-19
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 26 Minutes of First Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 1 (extract) LONDON, 19 May 1937
 
@@ -62,7 +67,7 @@ He thought that the best course would be to consider on Friday whether anything 
 
 IT WAS AGREED that (1) the Principal Delegates should meet at noon on Friday, when Mr Eden would make a statement dealing with certain questions in detail, (2) that a decision whether or not the Principal Delegates should meet on Saturday morning should be deferred until it was seen what progress was made on Friday, (3) that a press communique in the terms of Appendix 1 [3] hereto should be issued.
 
-_
+ _
 
 1 R. J. Sandler.
 
@@ -72,4 +77,4 @@ _
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

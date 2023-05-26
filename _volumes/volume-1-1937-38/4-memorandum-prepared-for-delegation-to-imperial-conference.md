@@ -1,13 +1,19 @@
 ---
-title: "4 Memorandum prepared for Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 4
+doc_date: 1937-02
+doc_num: 4
+doc_order: 4
+naa_refs:
+- naa_barcode: 176877
+  naa_control_symbol: IMP 145A PART 19
+  naa_series: A981
+  reference: '[AA: A981, IMPERIAL RELATIONS 145A]'
+title: Memorandum prepared for Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 4 Memorandum prepared for Delegation to Imperial Conference
-
-## n.d.
+n.d.
 
 ## UNOCCUPIED ISLANDS IN THE VICINITY OF AUSTRALIA
 

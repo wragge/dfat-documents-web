@@ -1,12 +1,18 @@
 ---
-title: "25 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1256
+doc_date: '1940-07-12'
+doc_num: 25
+doc_order: 25
+naa_refs:
+- naa_barcode: 181151
+  naa_control_symbol: TRAD 87 PART 1
+  naa_series: A981
+  reference: '[AA: A981, TRADE 87B, i]'
+title: Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 25 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs
 
 Cablegram [370] [1] 12 July 1940,
 
@@ -32,7 +38,7 @@ R. G. MENZIES, PRIME MINISTER.' [7]
 
 Would be glad to receive your views on this proposal and nature of help and co-operation we can best furnish in the common interest as early as possible. [8]
 
-_
+ _
 
 1 There is some confusion over the numbering of this cablegram.
 
@@ -58,4 +64,4 @@ A981, New Caledonia 1, iii.
 
 _
 
-_ [AA: A981, TRADE 87B, i]_
+ _[AA: A981, TRADE 87B, i]_

@@ -1,12 +1,18 @@
 ---
-title: "265 Churchill to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2556
+doc_date: '1943-08-26'
+doc_num: 265
+doc_order: 265
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO,
+    1.35719]'
+title: Churchill to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-08-26
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 265 Churchill to Evatt
 
 Cablegram 235 [1] LONDON, 26 August 1943, 7.50 p.m.
 
@@ -32,7 +38,7 @@ Ends.
 
 I hope this will be satisfactory to you.
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 2 W. S. Robinson.
 
@@ -46,4 +52,4 @@ S. V. Smith, Churchill, Brendan Bracken and John D. Hickerson and Robert B. Stew
 
 _
 
-_ [FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.35719]_
+ _[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.35719]_

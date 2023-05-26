@@ -1,12 +1,17 @@
 ---
-title: "47 Minutes of Meeting to discuss Defence Questions"
-volume: "Volume 1: 1937-38"
-doc_id: 47
+doc_date: '1937-06-21'
+doc_num: 47
+doc_order: 47
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 197]'
+title: Minutes of Meeting to discuss Defence Questions
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-21
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 47 Minutes of Meeting to discuss Defence Questions
 
 Extract 2 WHITEHALL GARDENS, LONDON, 21 June 1937
 
@@ -78,7 +83,7 @@ SINGAPORE: DATE OF, COMPLETION OF DEFENCES
 
 SIR THOMAS INSKIP, referring to the question asked at the bottom of the first page of Paper No. C.O.S. 598, regarding the year in which it was hoped to complete the defences of Singapore, said that the answer was to be found in paragraph 314 of the Chiefs of Staff Review of the Far East (Paper No. C.O.S. 590). [3]
 
-_
+ _
 
 1 Document 42.
 
@@ -88,4 +93,4 @@ _
 
 _
 
-_ [DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 197]_
+ _[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 197]_

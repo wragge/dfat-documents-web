@@ -1,12 +1,19 @@
 ---
-title: "164 Submission to Cabinet Economic Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9033
+doc_date: '1981-03-13'
+doc_num: 164
+doc_order: 164
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission to Cabinet Economic Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-03-13
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 164 Submission to Cabinet Economic Committee
 
 Wellington, 13 March 1981
 
@@ -16,7 +23,7 @@ No 701. CONFIDENTIAL NEW ZEALAND EYES ONLY IMMEDIATE
 
 ### Introduction
 
-  1. Permanent Heads of Australian and New Zealand Trade Departments met in Wellington to discuss the state of the ANZCER negotiations following the Australian Cabinet's consideration of the Permanent Heads' Joint Report of December 1980.1 As expected, the Australian officials' attitude, which reflected the Cabinet's deliberations in Canberra, was significantly harder than the attitude displayed by them in December. It was particularly apparent in the discussions on two issues, export incentives and the elimination of import licensing in 'reasonable time'. Australian attitudes to New Zealand expectations, particularly with relation to dairy products and other agricultural commodities had also hardened following the Cabinet's consideration. This report outlines the major topics discussed by Permanent Heads and the positions reached on them. Further papers will be prepared giving detailed appraisals of the position of the two sides on the issues subject to continuing contention. This report is for the information of the Committee.
+  1. Permanent Heads of Australian and New Zealand Trade Departments met in Wellington to discuss the state of the ANZCER negotiations following the Australian Cabinet's consideration of the Permanent Heads' Joint Report of December 1980.[1](#f1) As expected, the Australian officials' attitude, which reflected the Cabinet's deliberations in Canberra, was significantly harder than the attitude displayed by them in December. It was particularly apparent in the discussions on two issues, export incentives and the elimination of import licensing in 'reasonable time'. Australian attitudes to New Zealand expectations, particularly with relation to dairy products and other agricultural commodities had also hardened following the Cabinet's consideration. This report outlines the major topics discussed by Permanent Heads and the positions reached on them. Further papers will be prepared giving detailed appraisals of the position of the two sides on the issues subject to continuing contention. This report is for the information of the Committee.
 
 
 
@@ -29,7 +36,7 @@ No 701. CONFIDENTIAL NEW ZEALAND EYES ONLY IMMEDIATE
 ### Topics Requiring Further Work
 
   3. A number of areas were identified by Australian Ministers as requmng further discussion, in some cases within somewhat more stringent parameters than previously agreed by officials. Although in some cases the Australian position was not in line with the negotiating brief of New Zealand Permanent Heads, it was agreed that further discussion to reveal the full extent of the differences could provide a basis for future agreement on these issues. The items were: 
-    1. THE FORMAT OF CATEGORY C.2 With the exception of whiteware, outlined below, Australia proposed the following treatment for goods so classified: 
+    1. THE FORMAT OF CATEGORY C.[2](#f2) With the exception of whiteware, outlined below, Australia proposed the following treatment for goods so classified: 
       1. where an item was the subject of an industry study, that its deferral from the normal phasing formula be limited to twelve months;
       2. where an item was not subject to such a study, that a specific time for its removal from Category C be detailed prior to the agreement coming into force, and the principles for such action stated explicitly.
 On (i) above, New Zealand Permanent Heads' attitudes remain unchanged in wishing to adhere to the time frame which the relevant industry commissions decide. This did not represent, in their view, a derogation from the principle of removing an item from Category C as quickly as possible. It was jointly agreed that the issue be further explored. On (i) above, New Zealand Permanent Heads' attitudes remain unchanged in wishing to adhere to the time frame which the relevant industry commissions decide. This did not represent, in their view, a derogation from the principle of removing an item from Category C as quickly as possible. It was jointly agreed that the issue be further explored.
@@ -53,10 +60,10 @@ Australia indicated that the package was open to detailed negotiation within the
 
   1. NEW ZEALAND  
 New Zealand Permanent Heads were unable to accept Australian proposals on the following two items. Further papers will be prepared on both of these issues:  
-[matter omitted]3
+[matter omitted][3](#f3)
   2. AUSTRALIA 
     1. _Dairy Products:_ Australian Permanent Heads stated that dairy exports from New Zealand would have to be controlled for as long as their industry stabilisation scheme was in place. They favoured an industry to industry arrangement which would be endorsed by the respective governments. For Australia, a formula approach in keeping with ANZCER rules seemed to be untenable. New Zealand Permanent Heads reiterated the need for all agriculture trade to be treated in like fashion to other trade in the ANZCER, although they did not totally rule out the possibility of some individual problems receiving attention. New Zealand could not agree to a formula which imposed a reduction on present access opportunities. The Australian position appeared, in their view, to place the New Zealand dairy industry in a position where it would be negotiating under duress, as the Australian industry would, in practice, have the power to veto any proposals put forward by the New Zealand industry. Australian officials did not dispute the logic of the New Zealand stance but said that political realities in Australia appeared to rule out Ministerial acceptance of a 'voluntary restraint' approach. They nevertheless acknowledged the critical importance of the dairy issue for New Zealand and undertook to take up with their Minister, Australia's approach to the issue.
-    2. _Other Agricultural Trade:_ Australia, it was stated, wished to see all export incentives removed for trade in horticultural products. Concern was also expressed that New Zealand monopoly suppliers represented a barrier to trade in the New Zealand market. New Zealand Permanent Heads reiterated their earlier reaction to the removal of export incentives, as outlined above. On monopoly suppliers, they stated that such monopolies existed for internal 'orderly marketing' reasons only. When purchasing outside New Zealand, with the exception of the undertaking to purchase bananas from the Pacific Islands, monopoly suppliers purchased at the best market prices available to them. Australia therefore stood an equal chance with other suppliers of products of interests to such monopolies. In the case of wheat, for example, Australia had proved to be the most competitive source for New Zealand. Australia requested further information on monopoly arrangements operating in New Zealand.
+    2.  _Other Agricultural Trade:_ Australia, it was stated, wished to see all export incentives removed for trade in horticultural products. Concern was also expressed that New Zealand monopoly suppliers represented a barrier to trade in the New Zealand market. New Zealand Permanent Heads reiterated their earlier reaction to the removal of export incentives, as outlined above. On monopoly suppliers, they stated that such monopolies existed for internal 'orderly marketing' reasons only. When purchasing outside New Zealand, with the exception of the undertaking to purchase bananas from the Pacific Islands, monopoly suppliers purchased at the best market prices available to them. Australia therefore stood an equal chance with other suppliers of products of interests to such monopolies. In the case of wheat, for example, Australia had proved to be the most competitive source for New Zealand. Australia requested further information on monopoly arrangements operating in New Zealand.
 
 
 
@@ -80,10 +87,8 @@ New Zealand Permanent Heads were unable to accept Australian proposals on the fo
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 35 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 35 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Document 139.
   * 2 Elsewhere referred to as Category 3.
   * 2 Two paragraphs concerning Australian Cabinet matters omitted in accordance with advice from the Australian Department of the Prime Minister and Cabinet.
-
-

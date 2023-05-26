@@ -1,14 +1,20 @@
 ---
-title: "29 Mr L. R. Macgregor, Government Trade Commissioner in North America, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1783
+doc_date: '1941-08-04'
+doc_num: 29
+doc_order: 30
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1941, 1.14260]'
+title: Mr L. R. Macgregor, Government Trade Commissioner in North America, to Mr R.
+  G. Menzies, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-04
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 29 Mr L. R. Macgregor, Government Trade Commissioner in North America, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram General 295 NEW YORK, 4 August 1941
+Cablegram General 295 NEW YORK, 4 August 1941
 
 Addressed to the Prime Minister, Mr. Menzies.
 
@@ -50,7 +56,7 @@ Fifthly, or whether we should ask you to telegraph the United Kingdom Government
 
 MACGREGOR
 
-_
+ _
 
 1 Australian representative on the British Purchasing Commission in the United States.
 
@@ -70,4 +76,4 @@ _
 
 _
 
-_ [AA : A3195, 1941, 1.14260]_
+ _[AA : A3195, 1941, 1.14260]_

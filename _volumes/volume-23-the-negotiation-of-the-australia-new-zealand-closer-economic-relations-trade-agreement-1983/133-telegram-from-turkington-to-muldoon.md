@@ -1,18 +1,25 @@
 ---
-title: "133 Telegram from Turkington to Muldoon"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9003
+doc_date: '1980-11-25'
+doc_num: 133
+doc_order: 133
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Turkington to Muldoon
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-11-25
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 133 Telegram from Turkington to Muldoon
 
 Canberra, 25 November 1980
 
 No 3660. CONFIDENTIAL IMMEDIATE
 
-## ANZCER Talks 25 November 19801
+## ANZCER Talks 25 November 1980[1](#f1)
 
 New Zealand stated its basic position that agricultural commodities should fall within the general CER arrangement. Australia raised several problems in this area.
 
@@ -31,8 +38,6 @@ There was an exchange of lists of deferred items. It was pointed out that the Ne
 
 Among the matters discussed were general safeguards to be incorporated in the agreement and industry rationalisation.
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 31 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 31 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Turkington had been participating in a meeting of the two countries' official-level Joint Working Party in Canberra.
-
-

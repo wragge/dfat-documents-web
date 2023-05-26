@@ -1,12 +1,18 @@
 ---
-title: "37 Admiral Sir Ragnar Colvin, First Naval Member, Naval Board, to Admiral Sir Roger Backhouse, U.K. First Sea Lord"
-volume: "Volume 2: 1939"
-doc_id: 374
+doc_date: '1939-03-14'
+doc_num: 37
+doc_order: 37
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : ADM 1/9831]'
+title: Admiral Sir Ragnar Colvin, First Naval Member, Naval Board, to Admiral Sir
+  Roger Backhouse, U.K. First Sea Lord
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-03-14
+vol_title: 'Volume 2: 1939'
 ---
-
-# 37 Admiral Sir Ragnar Colvin, First Naval Member, Naval Board, to Admiral Sir Roger Backhouse, U.K. First Sea Lord
 
 Cablegram 1700/14 MELBOURNE, 14 March 1939, 5 p.m.
 
@@ -30,10 +36,10 @@ Following comments on above proposals are offered (i) arrangements at (a) and/or
 
 Danger in effect of Bruce's views lies in Australia turning to military self dependence, which though in my opinion illusory and impossible, is attractive to uninstructed public opinion.
 
-_
+ _
 
 1 S.M. Bruce, High Commissioner in London, then in Australia for consultation.
 
 _
 
-_ [PRO : ADM 1/9831]_
+ _[PRO : ADM 1/9831]_

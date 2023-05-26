@@ -1,12 +1,17 @@
 ---
-title: "332 Chifley to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3844
+doc_date: '1946-06-28'
+doc_num: 332
+doc_order: 332
+naa_refs:
+- naa_barcode: 273925
+  naa_control_symbol: SPTS 1/5
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/5]'
+title: Chifley to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-28
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 332 Chifley to Evatt
 
 Cablegram A71 CANBERRA, 28 June 1946
 
@@ -24,10 +29,10 @@ MOST IMMEDIATE TOP SECRET AND PERSONAL
 
 CHIFLEY
 
-_
+ _
 
 1 Document 324.
 
 _
 
-_ [AA:A6494 T1, SPTS/1/5]_
+ _[AA:A6494 T1, SPTS/1/5]_

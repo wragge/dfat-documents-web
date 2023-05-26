@@ -1,14 +1,19 @@
 ---
-title: "191 Full Cabinet Submission by Chifley and Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2838
+doc_date: '1944-06-10'
+doc_num: 191
+doc_order: 191
+naa_refs:
+- naa_barcode: 227879
+  naa_control_symbol: VOLUME 11
+  naa_series: A2700
+  reference: '[AA:A2700, VOL. II]'
+title: Full Cabinet Submission by Chifley and Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-10
+vol_title: 'Volume 7: 1944'
 ---
 
-# 191 Full Cabinet Submission by Chifley and Evatt
-
-## Agendum 669 CANBERRA, 10 June 1944
+Agendum 669 CANBERRA, 10 June 1944
 
 INTERNATIONAL CONFERENCE PROPOSED INTERNATIONAL MONETARY FUND
 
@@ -62,7 +67,7 @@ J. B. CHIFLEY
 
 H. V. EVATT
 
-_
+ _
 
 1 A copy was attached to this submission. See also Document 120, note 3.
 
@@ -72,4 +77,4 @@ _
 
 _
 
-_ [AA:A2700, VOL. II]_
+ _[AA:A2700, VOL. II]_

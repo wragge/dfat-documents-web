@@ -1,12 +1,18 @@
 ---
-title: "409 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 746
+doc_date: '1939-12-06'
+doc_num: 409
+doc_order: 409
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 35]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-12-06
+vol_title: 'Volume 2: 1939'
 ---
-
-# 409 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
 
 Cablegram C66 LONDON, 6 December 1939, 9.45 p.m.
 
@@ -18,7 +24,7 @@ I think better that I should make no reference to people here on the subject of 
 
 CASEY
 
-_
+ _
 
 1 Document 408.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 35]_
+ _[AA: CP 290/6, ITEM 35]_

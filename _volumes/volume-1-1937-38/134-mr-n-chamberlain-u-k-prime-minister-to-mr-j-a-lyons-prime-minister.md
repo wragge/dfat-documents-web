@@ -1,12 +1,17 @@
 ---
-title: "134 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 133
+doc_date: '1938-03-11'
+doc_num: 134
+doc_order: 133
+naa_refs:
+- naa_barcode: 206813
+  naa_control_symbol: O51/1/1
+  naa_series: A1608
+  reference: '[AA : A1608, 051/1/1]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-11
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 134 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 11 March 1938, 8.25 p.m. [1]
 
@@ -38,7 +43,7 @@ In the course of next week I hope to despatch for your confidential information 
 
 NEVILLE CHAMBERLAIN
 
-_
+ _
 
 1 This cablegram was dispatched in two parts. Part one was sent at 8.25 p.m.; Part two, which began 'The task of reconditioning ....
 
@@ -52,4 +57,4 @@ was sent at midnight.
 
 _
 
-_ [AA : A1608, 051/1/1]_
+ _[AA : A1608, 051/1/1]_

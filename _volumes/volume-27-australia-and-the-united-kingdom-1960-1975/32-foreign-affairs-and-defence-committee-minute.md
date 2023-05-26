@@ -1,20 +1,23 @@
 ---
-title: "32 FOREIGN AFFAIRS AND DEFENCE COMMITTEE MINUTE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9898
+doc_date: '1965-08-26'
+doc_num: 32
+doc_order: 32
+naa_refs:
+- naa_barcode: 1565720
+  naa_control_symbol: 248/10/17
+  naa_series: A1945
+  reference: '[NAA: �A1945�, 248/10/17]'
+title: FOREIGN AFFAIRS AND DEFENCE COMMITTEE MINUTE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-08-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 32 FOREIGN AFFAIRS AND DEFENCE COMMITTEE MINUTE
-
-NAA: ‘A1945’, 248/10/17
 
 Canberra, 26 August 1965
 
 Secret
 
-****
+ ****
 
 Decision No. 1173 (FAD) Without Memorandum—Proposed Quadripartite Talks Arising from the Separation of Singapore and Malaysia
 
@@ -30,7 +33,7 @@ Its contents are not to be regarded as extending the role which the Australian d
 
 ATTACHMENT TO CABINET DECISION NO. 1173 (FAD)
 
-_Note of discussion_
+ _Note of discussion_
 
 It is impracticable for Australia to contemplate any actions or policies which are not designed in some sense to supplement those being followed by the two major stabilizing forces in the area, Britain and the United States. Keeping those two countries involved in Southeast Asia to the maximum possible extent is a major objective of Australian external affairs and defence policy for the area.
 
@@ -45,3 +48,5 @@ It is impracticable for Australia to contemplate any actions or policies which a
 6\. The Committee expressed concern at the possible implications of the thinking about longer term problems associated with the future ofSabah and Sarawak as revealed in a cable from the British Government to its High Commissioner in Malaysia (No. 2098 of 18th August). This suggested that the British Government may not wish to oppose an eventual decision in favour of the secession of Sabah and Sarawak, if the succession took place as part the processes of bringing Indonesian confrontation of Malaysia to an end, and was agreed to by all concerned in the Federation. It was felt that an early opportunity should be taken to make it clear to the British Government that, while it is difficult in the present confused situation to arrive at any firm conclusions about the best course to follow, the Australian Government is quite clear that it must reserve its position on future defence commitments in the area if Sabah and Sarawak should separate from Malaysia. Additionally, attention might at a suitable time be drawn to the danger that any indication from the British Government, however slight or indirect, that it could contemplate secession of these States, could lead to a defence commitment to them as independent States. In the Australian view, an altogether new situation would have arisen following the emergence of Sabah or Sarawak as independent States, and this would require a thorough re-examination of the commitments stemming from the Defence Agreement with Malaysia. Further problems would arise also if newly independent States of Sabah and Sarawak were to seek membership of the Commonwealth.
 
 7\. The Committee considered the possible next steps after the discussions in London. Following the return of the officials from the proposed meetings commencing on or about 3rd September, further official meetings might be necessary. At any rate when meetings at Ministerial level become appropriate—and these should not be too long delayed—it would be likely to be important for the venue to be Asia, and preferably Kuala Lumpur or Singapore. It would also be likely to be important to include in the discussions, then if not before, representatives from the area itself. The realities of the situation, as well as the appearances, suggest this.
+
+[NAA: ‘A1945’, 248/10/17]

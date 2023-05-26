@@ -1,12 +1,17 @@
 ---
-title: "242 Memorandum by Tange"
-volume: "Volume 7: 1944"
-doc_id: 2889
+doc_date: '1944-08-01'
+doc_num: 242
+doc_order: 242
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:CP10/1, BUNDLE 1, [13]'
+title: Memorandum by Tange
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 242 Memorandum by Tange
 
 WASHINGTON, 1 August 1944,
 
@@ -40,7 +45,7 @@ spokesmen [6] stepped in to stop the rot. Throughout the previous technical disc
 
 A. H. TANGE
 
-_
+ _
 
 1 Tange sent these supplementary notes with a covering letter to Hodgson. He emphasised that they did not constitute a formal report and that they were for departmental use only.
 
@@ -54,7 +59,7 @@ See the letter dated 1 August on file AA:CP10/1, bundle 1, [13].
 
 5 An unsigned and undated copy of 'The Bretton Woods Conference' is on the file cited in note 1.
 
-6 A marginal note read 'White &amp; Vinson'. Dr Fred M. Vinson, Director, U.S. Office of Economic Stabilization and Dr Harry D.
+6 A marginal note read 'White  & Vinson'. Dr Fred M. Vinson, Director, U.S. Office of Economic Stabilization and Dr Harry D.
 
 White were Vice-Chairman and Member, respectively, of the U.S.
 
@@ -76,4 +81,4 @@ Foreign Office and Member of the U.K. Delegation.
 
 _
 
-_ [AA:CP10/1, BUNDLE 1, [13]]_
+ _[AA:CP10/1, BUNDLE 1, [13]]_

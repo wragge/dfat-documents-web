@@ -1,12 +1,18 @@
 ---
-title: "452 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1683
+doc_date: '1941-05-12'
+doc_num: 452
+doc_order: 452
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA: A3830, 1941, 1157]'
+title: Mr A. T. Stirling, External Affairs Officer in London, to Department of External
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 452 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs
 
 Cablegram 320 LONDON, 12 May 1941, 7.10 p.m.
 
@@ -32,7 +38,7 @@ In view of the fact that Sautot for the time being holds the same position in Fr
 
 STIRLING
 
-_
+ _
 
 1 Dispatched 15 and 17 April respectively. They dealt with the Commonwealth Govt's opposition to the establishment of direct communications in cipher between General Charles de Gaulle, leader of the Free French movement (in London), and Henri Sauter, Free French Governor of New Caledonia. The Commonwealth Govt's opposition was based not only on a desire to remain closely in touch with developments in French Oceania (Free French cablegrams had hitherto been sent via Canberra) but also on a concern that the Japanese might have obtained a copy of the code brought to London by Andre Bayardelle, the former Secretary-General of New Caledonia. See file AA: A2937, Free France.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA: A3830, 1941, 1157]_
+ _[AA: A3830, 1941, 1157]_

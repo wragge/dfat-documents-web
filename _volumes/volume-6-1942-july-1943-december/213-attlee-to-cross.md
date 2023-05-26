@@ -1,12 +1,18 @@
 ---
-title: "213 Attlee to Cross"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2504
+doc_date: '1943-06-05'
+doc_num: 213
+doc_order: 213
+naa_refs:
+- naa_barcode: 855179
+  naa_control_symbol: '222'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, GLOBAL STRATEGY-DISCUSSIONS BETWEEN
+    ROOSEVELT AND CHURCHILL MAY 1943]'
+title: Attlee to Cross
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-06-05
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 213 Attlee to Cross
 
 Circular cablegram Z65 LONDON, 5 June 1943, 3.30 a.m.
 
@@ -70,6 +76,6 @@ Intensification of operations against enemy lines of communication.
 
 Summary ends.
 
-__
+ __
 
-_ [DEFENCE: SPECIAL COLLECTION II, GLOBAL STRATEGY-DISCUSSIONS BETWEEN ROOSEVELT AND CHURCHILL MAY 1943]_
+ _[DEFENCE: SPECIAL COLLECTION II, GLOBAL STRATEGY-DISCUSSIONS BETWEEN ROOSEVELT AND CHURCHILL MAY 1943]_

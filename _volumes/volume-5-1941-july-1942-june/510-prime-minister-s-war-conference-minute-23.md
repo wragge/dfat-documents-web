@@ -1,12 +1,18 @@
 ---
-title: "510 Prime Minister's War Conference Minute 23"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2264
+doc_date: '1942-06-01'
+doc_num: 510
+doc_order: 511
+naa_refs:
+- naa_barcode: 239455
+  naa_control_symbol: 474/1
+  naa_series: A5954
+  reference: '[AA:MP1217, BOX 474, DR M. V. EVATT ... VISIT TO UNITED KINGDOM AND
+    USA-1942]'
+title: Prime Minister's War Conference Minute 23
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-01
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 510 Prime Minister's War Conference Minute 23
 
 MELBOURNE, 1 June 1942
 
@@ -64,7 +70,7 @@ Churchill was only giving back to Australia part of her forces and one R.A.F. sq
 
 15\. Following a general discussion, the Prime Minister stated that he would submit the Commander-in-Chief's suggestions to the next meeting of the Advisory War Council. [7]
 
-_ AND USA-1942]
+ _
 
 1 Maj Gen Richard K. Sutherland.
 
@@ -82,4 +88,4 @@ _ AND USA-1942]
 
 _
 
-_ [AA:MP1217, BOX 474, DR M. V. EVATT ... VISIT TO UNITED KINGDOM_
+ _[AA:MP1217, BOX 474, DR M. V. EVATT ... VISIT TO UNITED KINGDOM AND USA-1942]_

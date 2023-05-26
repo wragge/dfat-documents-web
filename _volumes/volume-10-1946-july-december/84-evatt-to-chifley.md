@@ -1,14 +1,19 @@
 ---
-title: "84 Evatt to Chifley"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3932
+doc_date: '1946-08-24'
+doc_num: 84
+doc_order: 84
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.21110]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-08-24
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 84 Evatt to Chifley
-
-## Cablegram P186 PARIS, 24 August 1946, 4.05 p.m.
+Cablegram P186 PARIS, 24 August 1946, 4.05 p.m.
 
 MOST IMMEDIATE
 
@@ -46,7 +51,7 @@ It would help me if you would arrange with Bill Dickson [2] to give me as much b
 
 Mary Alice joins with me in sending you and Mrs. Chifley our most affectionate greetings and best wishes for a completely successful return.
 
-_
+ _
 
 1 J. M. Hewitt, Administrative Assistant to Evatt as Attorney General.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.21110]_
+ _[AA:A3195, 1946, 1.21110]_

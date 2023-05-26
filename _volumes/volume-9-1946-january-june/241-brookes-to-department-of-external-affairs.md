@@ -1,12 +1,17 @@
 ---
-title: "241 Brookes to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3753
+doc_date: '1946-05-12'
+doc_num: 241
+doc_order: 241
+naa_refs:
+- naa_barcode: 550316
+  naa_control_symbol: 401/3/10/2 PART 2
+  naa_series: A1838
+  reference: '[AA:A838/2, 401/3/10/2, ii]'
+title: Brookes to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-12
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 241 Brookes to Department of External Affairs
 
 Cablegram 79 BATAVIA, 12 May 1946
 
@@ -42,7 +47,7 @@ Regarding paragraph 5 of Sjahrir's letter, I have already sent you the text of t
 
 The G.O.C. has passed a copy of Sjahrir's letter, set out above to me, and is replying to Sjahrir to the effect that he has forwarded a copy to me and doubtless, I will inform the Commonwealth Government. Without specific instructions from you I shall not acknowledge the letter officially, but if questioned by Indonesians before receiving instructions from you I propose to inform them that I have signalled the letter to the Commonwealth Government.
 
-_
+ _
 
 1 Presumably cablegram, 26 (Document 220).
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A838/2, 401/3/10/2, ii]_
+ _[AA:A838/2, 401/3/10/2, ii]_

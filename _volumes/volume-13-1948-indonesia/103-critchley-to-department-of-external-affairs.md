@@ -1,12 +1,17 @@
 ---
-title: "103 Critchley to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5370
+doc_date: '1948-03-14'
+doc_num: 103
+doc_order: 103
+naa_refs:
+- naa_barcode: 550482
+  naa_control_symbol: 403/3/1/1 PART 16
+  naa_series: A1838
+  reference: '[AA:A1838, 403/3/111, xvi]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-03-14
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 103 Critchley to Department of External Affairs
 
 Cablegram K91 BATAVIA, 14 March 1948, 1 a.m.
 
@@ -16,7 +21,7 @@ Hatta has had long informal discussions with Van Mook yesterday, March 12th, and
 
 2\. Van Mook proposes that Republic promote an interim Government to be set up under his emergency powers in much the same way as provisional Government was appointed last Tuesday. Hatta considers appointment of provisional Government a stratagem on Van Mook's part to introduce idea of an interim Government, but there is nothing to justify hope that the interim Government which will be proposed by Republic will differ fundamentally from present Netherlands East Indies Government though Hatta raised the question of freedom of speech. Van Mook's comment was that there was too much unrest at present.
 
-_ Netherlands were thinking so that he could appropriately instruct his delegation for forthcoming talks. Representatives of both parties have now been appointed to all main committees and talks will begin next week.
+ _Netherlands were thinking so that he could appropriately instruct his delegation for forthcoming talks. Representatives of both parties have now been appointed to all main committees and talks will begin next week.
 
 [4]. As far as I can gather the informal talks have introduced no new elements into the situation.
 
@@ -24,4 +29,4 @@ _ Netherlands were thinking so that he could appropriately instruct his delegati
 
 _
 
-_ [3]. The purpose of talks was apparently to inform Hatta of way_
+ _[3]. The purpose of talks was apparently to inform Hatta of way_

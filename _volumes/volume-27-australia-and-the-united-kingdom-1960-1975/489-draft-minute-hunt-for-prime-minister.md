@@ -1,20 +1,23 @@
 ---
-title: "489 DRAFT MINUTE, HUNT FOR PRIME MINISTER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10356
+doc_date: '1974-11-27'
+doc_num: 489
+doc_order: 489
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1911]'
+title: DRAFT MINUTE, HUNT FOR PRIME MINISTER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1974-11-27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 489 DRAFT MINUTE, HUNT FOR PRIME MINISTER
-
-UKNA: FCO 24/1911
 
 Cabinet Office, London, 27 November 1974
 
 Confidential
 
-**Visit of Mr Whitlam**
+ **Visit of Mr Whitlam**
 
 I attach a proposed outline of objectives for your discussion with Mr Whitlam on 19th–20th December, together with an assessment of his objectives. I would suggest that at your first meeting it would be useful to concentrate discussion on four broad themes–
 
@@ -22,7 +25,7 @@ I attach a proposed outline of objectives for your discussion with Mr Whitlam on
 > 
 > (b) The EEC renegotiation.
 > 
-> (c) The development of d�tente and East/West relations generally.
+> (c) The development of détente and East/West relations generally.
 > 
 > (d) The Commonwealth Heads of Government Meeting at Kingston next April.
 
@@ -30,9 +33,9 @@ I attach a proposed outline of objectives for your discussion with Mr Whitlam on
 
 3\. I understand that this approach is likely to be acceptable to Mr. Whitlam (there appears now to be no suggestion that he should attend a full Cabinet meeting). If you are content, I will arrange for briefs on the lines set out below, including defensive material, to be available to you by 14th December.
 
-**Outline of Objectives for Prime Minister’s Meeting with Mr Whitlam 19th—20th December, 1974**
+ **Outline of Objectives for Prime Minister’s Meeting with Mr Whitlam 19th—20th December, 1974**
 
-_Section A: United Kingdom Objectives_
+ _Section A: United Kingdom Objectives_
 
 There is no single overriding objective on our side. Mr Whitlam will be coming on a wider European tour (including Brussels, Bonn and Moscow, but not Paris) and plans to spend Christmas here with his family. Our principal purpose should be–
 
@@ -48,7 +51,7 @@ There is no single overriding objective on our side. Mr Whitlam will be coming o
 > 
 > (6) To enquire about the development of Australian policies on natural resources (including producer co-operation) and on overseas investment in Australia, with a view to identifying possible fields for co-operation, especially in energy and notably in uranium procurement and uranium enrichment technology.
 > 
-> (7) To discuss the development of d�tente and related issues, and the extent to which the Russians are serious, in the particular context of Mr Whitlam’s visit to Moscow in January and the Prime Minister’s own proposed later visit there.
+> (7) To discuss the development of détente and related issues, and the extent to which the Russians are serious, in the particular context of Mr Whitlam’s visit to Moscow in January and the Prime Minister’s own proposed later visit there.
 > 
 > (8) To explain our thinking on future defence policy.
 > 
@@ -56,7 +59,7 @@ There is no single overriding objective on our side. Mr Whitlam will be coming o
 > 
 > (10) To explain our views on other international matters as appropriate, e.g. African questions especially Southern Africa, arms limitation, and nuclear matters generally.
 
-_Section B: Mr Whitlam’s Objectives_
+ _Section B: Mr Whitlam’s Objectives_
 
 Mr Whitlam will probably not wish to have a formal agenda. He may prefer, in addition to any larger meetings, to have relaxed and informal conversations with the Prime Minister. However, he has already said that he wants to raise the following two matters:
 
@@ -79,3 +82,5 @@ Mr Whitlam is also likely to want to:
 > (8) (possibly) explain Australia’s new visa requirements for United Kingdom nationals. There is no scope for any joint public activity (e.g. the signature of an agreement or announcement of some project).
 
 1 Sir John Hunt, UK Cabinet Secretary, 1973–79.
+
+[UKNA: FCO 24/1911]

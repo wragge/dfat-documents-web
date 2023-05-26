@@ -1,12 +1,17 @@
 ---
-title: "139 Burton to Hodgson"
-volume: "Volume 7: 1944"
-doc_id: 2786
+doc_date: '1944-05-07'
+doc_num: 139
+doc_order: 139
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, 1.17457/469/458]'
+title: Burton to Hodgson
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-07
+vol_title: 'Volume 7: 1944'
 ---
-
-# 139 Burton to Hodgson
 
 Cablegram unnumbered WASHINGTON, 7 May 1944, 1 a.m.
 
@@ -30,7 +35,7 @@ When at conference, Beasley won the admiration of most for straightforward manne
 
 (8) Please see contents this message is not known as Beasley does not wish anyone to know he had slight setback.
 
-_
+ _
 
 1 See Document 134, paragraph 6 and cablegram 387, dispatched 5 May, on file AA:A989, 44/1320/13/3.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA:A3195, 1944, 1.17457/469/458]_
+ _[AA:A3195, 1944, 1.17457/469/458]_

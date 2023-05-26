@@ -1,21 +1,25 @@
 ---
-title: "262 Paper By Bland"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9770
+doc_date: '1969-03-31'
+doc_num: 262
+doc_order: 262
+naa_refs:
+- naa_barcode: 1727617
+  naa_control_symbol: TS689/2 PART 4
+  naa_series: A1838
+  reference: '[NAA: A1838, 689/2 part 4]'
+title: Paper By Bland
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-03-31
-barcode: 1727617
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 262 Paper By Bland
 
 Canberra, 31 March 1969
 
 **Some observations on my visit to P.N.G.—16th to 22nd March, 1969**
 
-So many decisions the Government has to take in respect of the Territory and Australia’s relationships with it over a spectrum whose major elements include political, social, economic and military depend on a definitive assessment of the importance of the Territory to Australia. The Defence Department’s prime concern is with strategy and defence and already the Joint Staff is directing itself to these matters.1
+So many decisions the Government has to take in respect of the Territory and Australia’s relationships with it over a spectrum whose major elements include political, social, economic and military depend on a definitive assessment of the importance of the Territory to Australia. The Defence Department’s prime concern is with strategy and defence and already the Joint Staff is directing itself to these matters.[1](#f1)
 
-2\. If the conclusion is reached that the Territory is of critical importance to Australia, it becomes necessary that all elements of government in Australia should concert their efforts to encouraging a climate of opinion in the Territory which will lead to the Territorians being anxious to sustain a continuation of close relationships with Australia. The Defence Group of Departments has a powerful role to play on this.2
+2\. If the conclusion is reached that the Territory is of critical importance to Australia, it becomes necessary that all elements of government in Australia should concert their efforts to encouraging a climate of opinion in the Territory which will lead to the Territorians being anxious to sustain a continuation of close relationships with Australia. The Defence Group of Departments has a powerful role to play on this.[2](#f2)
 
 3\. I found on this visit no more clarity among the Administration people, the expatriates or the indigenes with whom I spoke than on earlier visits as to what the relationship between Australia and the Territory should be or as to when the question of independence would reach a climacteric point. There was concern about the views expressed by expatriate teachers at the University and about the possible influence of vocal graduates and under-graduates from the University. No one saw in sight at the moment the demagogue who could set a fire to the movement for independence.
 
@@ -25,7 +29,7 @@ So many decisions the Government has to take in respect of the Territory and Aus
 
 6\. No less than I urged in earlier years in respect of institutions in the industrial relations field, we have to develop and organise a military establishment appropriate to the future needs and circumstances of the Territory. This must not be cast on the image and form of Australia’s forces. If Australian forces are to be deployed to the Territory in post independence days, the ease of the task will depend on the political relationship then existing between the Territory and Australia: not on the shape and organisation of the Territory’s forces. At the moment the forces in the Territory are more an extension of the Australian forces than a response to the circumstances of the Territory. This is more markedly so in the case of the naval force which is an unashamed integral part of the R.A.N. The Army at least makes gestures of being a Territory force.
 
-7\. I formed a high opinion of the job the Army is doing with the P.I.R.I was equally relieved to find that the Commander3 and his senior officers subscribed to the points just made and others to which I will refer and were anxious to make adjustments which would set the Army element in the Territory in its proper context as a Territory, not an Australian force.
+7\. I formed a high opinion of the job the Army is doing with the P.I.R.I was equally relieved to find that the Commander[3](#f3) and his senior officers subscribed to the points just made and others to which I will refer and were anxious to make adjustments which would set the Army element in the Territory in its proper context as a Territory, not an Australian force.
 
 8\. Despite the comments made by indigene M.P.s and others, I see no reason to cavil at the standards of the Army accommodation at Goldie River, Taurama, Wewak and Lae, nor for being concerned about the standards of the married quarters accommodation we have provided for indigene personnel.
 
@@ -55,7 +59,7 @@ So many decisions the Government has to take in respect of the Territory and Aus
 
 15\. I am impressed by the desirability of involving the Territory Administration in the affairs of the Defence Force. Clearly too we must begin to educate the indigene parliamentarians in defence matters. Let me be clear—I am not suggesting that while the Territory stands in its present political relationship to Australia, Australia should abdicate responsibility for determining defence policy and plans for the forces in the Territory. While we retain such responsibility, if we are discreet in our approach, we can create a climate which will not compromise the long term association of the Territory’s Forces and Australia’s defence arrangements, if that proves possible under any political settlement between the two countries.
 
-16\. Increasingly it will be necessary for us to explain and to justify to the Territory’s Parliament what we are doing. As I mentioned recently in correspondence with Mr. Warwick Smith, not merely should the Commander attend, as needs be, the Administrator’s Executive Council; it would be desirable if from time to time the Minister for Defence, or Secretary to the Department of Defence or Chairman Chiefs of Staff Committee attend a Council Meeting.4
+16\. Increasingly it will be necessary for us to explain and to justify to the Territory’s Parliament what we are doing. As I mentioned recently in correspondence with Mr. Warwick Smith, not merely should the Commander attend, as needs be, the Administrator’s Executive Council; it would be desirable if from time to time the Minister for Defence, or Secretary to the Department of Defence or Chairman Chiefs of Staff Committee attend a Council Meeting.[4](#f4)
 
 17\. But with policy and the programme for development of the forces in the Territory resting for the time being with the Defence machinery in Canberra, it seems to me that the sensible thing to do is to make available to the Territory Administration by way of lump sum the annual funds required for defence including the maintenance and any capital works funds, leaving it to the Administration to arrange payments for pay, allowances, works, services etc., to vouch the payments and so on. In short, the civilian side of the defence force in the Territory covering administration of the defence force should be part of the Territory’s Administration, staffed by and part of the Territory’s Public Service, and subject to progressive indigenisation. To the extent that civilian personnel from the Defence Complex in Canberra were required, they would be seconded, on a phasing out basis, to the Territory Administration.
 
@@ -73,9 +77,9 @@ So many decisions the Government has to take in respect of the Territory and Aus
 
 (e) simplification of the trade structure was another suggestion.
 
-20\. Based on our latest intelligence assessments, it seems to me we can take some risks with the accelerated indigenisation of the P.I.R. With minimum Australian officering, the P.I.R. should be able to cope with the tasks that lie ahead. Unless the expensive Australian component and the overhead that goes with them, and the present over elaborate organisational arrangements,5 there is a real risk that we (let alone the Territory which ultimately must foot the bill) won’t be able to afford the extra battalion—given that the conclusion is that it is required on military grounds.
+20\. Based on our latest intelligence assessments, it seems to me we can take some risks with the accelerated indigenisation of the P.I.R. With minimum Australian officering, the P.I.R. should be able to cope with the tasks that lie ahead. Unless the expensive Australian component and the overhead that goes with them, and the present over elaborate organisational arrangements,[5](#f5) there is a real risk that we (let alone the Territory which ultimately must foot the bill) won’t be able to afford the extra battalion—given that the conclusion is that it is required on military grounds.
 
-21\. Postings of Australian officers to the P.I.R. are too short: the Army brief handed to the Minister6 and me acknowledged this and the unfortunate consequences for the indigenes. As well the present posting periods add avoidable costs. I formed the impressions as I moved around that—
+21\. Postings of Australian officers to the P.I.R. are too short: the Army brief handed to the Minister[6](#f6) and me acknowledged this and the unfortunate consequences for the indigenes. As well the present posting periods add avoidable costs. I formed the impressions as I moved around that—
 
 (a) some officers with the P.I.R. nearing their retiring ages would be content to remain on: there is surely no point in bringing them back to Australia to terminal postings or to postings with no further promotions ahead; and
 
@@ -83,7 +87,7 @@ So many decisions the Government has to take in respect of the Territory and Aus
 
 22\. Some random observations—
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 (c) I see virtue in extending the practice of sending companies of the P.I.R. on patrol beyond the mainland. One company was moving to Manus while we were in the Territory. Other patrols were planned for New Britain and Bougainville.
 
@@ -139,11 +143,11 @@ So many decisions the Government has to take in respect of the Territory and Aus
 
 34\. I was told at Wewak that D.C.A. is proposing to upgrade the Boram runways. We should find out without delay what is afoot to co-ordinate any thoughts we have for development of Boram for R.A.A.F. purposes.
 
-35\. I have written to A.S.C.0.7 about its pricing practices in canteens in the Territory. I find it odd in the extreme that A.S.C.O. should be charging the same prices for Australians and indigines disregarding the patent differentials in pay.
+35\. I have written to A.S.C.0.[7](#f7) about its pricing practices in canteens in the Territory. I find it odd in the extreme that A.S.C.O. should be charging the same prices for Australians and indigines disregarding the patent differentials in pay.
 
 36\. Interestingly, only once was the question of the P.I.R. pension scheme raised with me. Which is not to say that this matter must not be vigorously pursued.
 
-[ [NAA: A1838, 689/2 part 4](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1727617) ]
+[NAA: A1838, 689/2 part 4]
 
 1 Following the Cabinet decision of September 1968 that a review of the size of the PIR should be undertaken ‘as soon as possible’ (see Document 222), the Defence Committee had requested of the Joint Staff ‘a review of the overall position of the defence forces of Papua/New Guinea be undertaken not later than 1970’ (see Joint Staff Directive no. 29/1969, 6 March 1969, NAA: A1838, 689/2 part 4; for reference to the internal investigation already conducted by Defence, see footnote 2, Document 222). Warwick Smith was recorded in January as ‘most anxious that [the question of the PIR’s size] be handled on a broad basis i.e. he does not want the decision taken on purely defence grounds, it must have regard to economics and manpower’ (minute, Besley to Legge, 20 January 1969, NAA: A452, 1969/911 ). He thereafter discussed the matter with Bland on 10 February: ‘I said [to Bland] that we did not wish to be understood as belittling or decrying the need for adequate defence resources in the Territory. What we were aiming at at this stage was primarily procedural in that we wanted to ensure that at all stages of consideration of the various possibilities of structure, size etc. of defence forces in the Territory due weight was given to Territory civil considerations particularly the economic, social and political implications and requirements ... I said that on military questions we did not wish to try to tell the Defence people their own business but there may be some propositions which we would like to see carefully investigated and fully weighed e.g. a local militia, formations adapted to Papua and New Guinea terrain, people etc., and possibilities of the armed forces making substantial contributions to the civil economy after their military training requirements had been met ... Sir Henry indicated that in his own view the structure of the defence forces in Papua and New Guinea should be examined in the light of today’s strategy as distinct from the strategy of 1963 and with full regard to local Papua and New Guinea considerations’ (note for file by Warwick Smith, 11 February 1969, ibid.).
 

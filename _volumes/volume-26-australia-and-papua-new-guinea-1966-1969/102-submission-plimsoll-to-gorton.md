@@ -1,13 +1,17 @@
 ---
-title: "102 Submission, Plimsoll To Gorton"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9610
+doc_date: '1967-04-03'
+doc_num: 102
+doc_order: 102
+naa_refs:
+- naa_barcode: 545674
+  naa_control_symbol: 909/8/2 PART 3
+  naa_series: A1838
+  reference: '[NAA: A 1838, 909/8/2 part 3]'
+title: Submission, Plimsoll To Gorton
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-04-03
-barcode: 545674
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 102 Submission, Plimsoll To Gorton
 
 Canberra, 3 April 1967
 
@@ -54,9 +58,9 @@ The Australian administration of Papua/New Guinea and Nauru is already the subje
 
 8\. The Department of Territories has made strong representations with a view to having the first sentence (‘The Australian Government believes, that in certain circumstances, visiting missions can be of value‘) omitted. We would see no objection to deleting this sentence, particularly in view of the hardening attitude of Britain and the United States towards visiting missions to the Pacific Territories.
 
-9\. _It is recommended_ that the Australian representative on the committee of Twenty-Four be authorised to reply to the Chairman of Sub-Committee II in the terms proposed in paragraph 7 above but with the deletion of the first sentence.2
+9\. _It is recommended_ that the Australian representative on the committee of Twenty-Four be authorised to reply to the Chairman of Sub-Committee II in the terms proposed in paragraph 7 above but with the deletion of the first sentence.[2](#f2)
 
-[ [NAA: A 1838, 909/8/2 part 3](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=545674) ]
+[NAA: A 1838, 909/8/2 part 3]
 
 1 Acting Minister for External Affairs.
 

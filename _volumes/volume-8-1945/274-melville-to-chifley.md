@@ -1,14 +1,19 @@
 ---
-title: "274 Melville to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3305
+doc_date: '1945-09-29'
+doc_num: 274
+doc_order: 274
+naa_refs:
+- naa_barcode: 244399
+  naa_control_symbol: 1943/906 PART 7
+  naa_series: CP43/1
+  reference: '[AA : CP43/1, 1943/906, vii]'
+title: Melville to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-29
+vol_title: 'Volume 8: 1945'
 ---
 
-# 274 Melville to Chifley
-
-## Letter SYDNEY, 29 September 1945
+Letter SYDNEY, 29 September 1945
 
 You may remember that, when I reported to the Government on the Bretton Woods proposals [1], I was, on balance, in favour of their acceptance by Australia. That was on the assumption as stated in paragraphs 41 and 62 of my report (paragraphs 22 and 43, pages 6 and 7 of the printed documents) that the International Monetary Fund would not prevent us from imposing import restrictions to correct balance of payments difficulties.
 
@@ -20,7 +25,7 @@ I realise that, in the course of discussions, this particular provision may be a
 
 L. G. MELVILLE
 
-_
+ _
 
 1 See Documents on Australian Foreign Policy 1937-49, vol. VII, Document 260E.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA : CP43/1, 1943/906, vii]_
+ _[AA : CP43/1, 1943/906, vii]_

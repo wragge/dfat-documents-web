@@ -1,12 +1,18 @@
 ---
-title: "4 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1757
+doc_date: '1941-07-10'
+doc_num: 4
+doc_order: 4
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA : A981, FAR EAST 20B, i]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in the
+  United Kingdom
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-10
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 4 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom
 
 Cablegram 3649 (extract) CANBERRA, 10 July 1941
 
@@ -120,7 +126,7 @@ relevant portion of your telegram of 6th July, Circular D.399. [9]
 
 MENZIES
 
-_
+ _
 
 1 Lord Cranborne.
 
@@ -178,7 +184,7 @@ immediately apply all pressure at its command.
 
 _
 
-_
+ _
 
 [AA : A981, FAR EAST 20B, i]
 

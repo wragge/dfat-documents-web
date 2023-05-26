@@ -1,12 +1,17 @@
 ---
-title: "53 Letter, Barnes To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9561
+doc_date: '1966-07-27'
+doc_num: 53
+doc_order: 53
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A452
+  reference: '[NAA: A452, 1966/6185]'
+title: Letter, Barnes To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-07-27
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 53 Letter, Barnes To Hay
 
 Canberra, 27 July 1966
 
@@ -30,7 +35,7 @@ At the same time, until the Territory becomes self-governing the Administrator i
 
 It is the Administrator’s prime function to see that the policies of the Government as conveyed to him by the Minister or by the Secretary are effectively carried out.
 
-This requires that the Administrator shall have as complete as possible an understanding of Government policy intentions. For this he will rely on instructions and other communications, oral or written, received from the Minister either direct or through the Department of Territories and on discussions of policy issues with the Minister and the Secretary. It is the Secretary’s responsibility to advise the Administrator of the way in which Government policy should be interpreted in relation to any particular question.2
+This requires that the Administrator shall have as complete as possible an understanding of Government policy intentions. For this he will rely on instructions and other communications, oral or written, received from the Minister either direct or through the Department of Territories and on discussions of policy issues with the Minister and the Secretary. It is the Secretary’s responsibility to advise the Administrator of the way in which Government policy should be interpreted in relation to any particular question.[2](#f2)
 
 The Administrator in carrying out the day to day activities of the government of the Territory will do so within approved policies, individual formal Ministerial approval for particular policies being sought as required. This also applies to the introduction of official Bills in the House of Assembly.
 
@@ -64,7 +69,7 @@ The Administration Contracts Ordinance empowers the Administrator, or an officer
 
 To sum up, it might be said for present purposes that the Administrator’s main tasks are to maintain law and order; to contribute his suggestions and advice towards the formulation of policies with respect to political, economic and social advancement of the Territory and its people; and to carry out those policies in such a way, and in harmony with the Government’s longer term objectives in relation to the Territory, that the process of change is a smooth one and that a programme of balanced development can be progressively achieved without divisive effects.
 
-In appointing you as Administrator the Government demonstrates its confidence that in carrying out the task of the appointment you will be sensitive to the Government’s policy intentions whether broad or specific and assiduous in applying them in the spirit as well as in the letter.3
+In appointing you as Administrator the Government demonstrates its confidence that in carrying out the task of the appointment you will be sensitive to the Government’s policy intentions whether broad or specific and assiduous in applying them in the spirit as well as in the letter.[3](#f3)
 
 [NAA: A452, 1966/6185]
 

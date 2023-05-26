@@ -1,12 +1,19 @@
 ---
-title: "183 Extract from Record of Discussion between Fraser and Templeton"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9052
+doc_date: '1982-03-12'
+doc_num: 183
+doc_order: 183
+naa_refs:
+- naa_barcode: 3015526
+  naa_control_symbol: 1981/508 PART 5
+  naa_series: A1209
+  reference: '[NAA: A1209, 19811508, v]'
+title: Extract from Record of Discussion between Fraser and Templeton
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-03-12
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 183 Extract from Record of Discussion between Fraser and Templeton
 
 Canberra, 12 March 1982
 
@@ -40,6 +47,6 @@ On dairying, Mr Templeton said that the NZ Dairy Federation had been given clear
 
 The Prime Minister indicated his support for this proposal which may provide a solution to a very real problem.
 
-_[matter omitted]_
+ _[matter omitted]_
 
-_[NAA: A1209, 19811508, v]_
+ _[NAA: A1209, 19811508, v]_

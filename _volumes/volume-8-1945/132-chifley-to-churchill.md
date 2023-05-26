@@ -1,12 +1,17 @@
 ---
-title: "132 Chifley to Churchill"
-volume: "Volume 8: 1945"
-doc_id: 3163
+doc_date: '1945-07-17'
+doc_num: 132
+doc_order: 132
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2313]'
+title: Chifley to Churchill
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-07-17
+vol_title: 'Volume 8: 1945'
 ---
-
-# 132 Chifley to Churchill
 
 Cablegram 189 CANBERRA, 17 July 1945
 
@@ -68,7 +73,7 @@ Original programme 5,562,500 Plus a margin for additional urgent items, minor un
 
 CHIFLEY
 
-_
+ _
 
 1 Document 92.
 
@@ -86,4 +91,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 2313]_
+ _[AA : A5954, BOX 2313]_

@@ -1,20 +1,27 @@
 ---
-title: "84 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7923
+doc_date: '1975-02-13'
+doc_num: 84
+doc_order: 84
+naa_refs:
+- naa_barcode: 552297
+  naa_control_symbol: 49/2/1/1 PART 4
+  naa_series: A1838
+  reference: '[NAA: Al838, 49/21111, iv]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-02-13
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 84 Cablegram to Canberra
 
 Jakarta, 13 February 1975
 
 O.JA7640 SECRET AUSTEO PRIORITY
 
-**Portuguese Timor**
+ **Portuguese Timor**
 
-_Ref0.CH172733,_1_ O.LB711_
+ _Ref0.CH172733,_[1](#f1) _O.LB711_
 
 I had a discussion today on Portuguese Timor with Harry Tjan of the Centre for Strategic and International Studies. There were two matters of particular significance arising from this discussion.
 
@@ -31,8 +38,6 @@ I had a discussion today on Portuguese Timor with Harry Tjan of the Centre for S
 
 DAN
 
-_[NAA: Al838, 49/21111, iv]_
+ _[NAA: Al838, 49/21111, iv]_
 
   * 1 Document 80.
-
-

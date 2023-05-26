@@ -1,14 +1,19 @@
 ---
-title: "310 Blamey to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2957
+doc_date: '1944-10-04'
+doc_num: 310
+doc_order: 310
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 294]'
+title: Blamey to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-04
+vol_title: 'Volume 7: 1944'
 ---
 
-# 310 Blamey to Forde
-
-## Letter (extract) HEADQUARTERS, ALLIED LAND FORCES, SOUTHWEST
+Letter (extract) HEADQUARTERS, ALLIED LAND FORCES, SOUTHWEST
 
 PACIFIC AREA, 4 October 1944
 
@@ -24,7 +29,7 @@ From the Army point of view, Colonel Conlon has been dealing with all the variou
 
 T. A. BLAMEY
 
-_
+ _
 
 1 See Document 309.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 294]_
+ _[AA:A5954, BOX 294]_

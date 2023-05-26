@@ -1,12 +1,17 @@
 ---
-title: "367 Department of External Affairs to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3398
+doc_date: '1945-11-07'
+doc_num: 367
+doc_order: 367
+naa_refs:
+- naa_barcode: 140123
+  naa_control_symbol: 401/3/9/1/1 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838/2, 40,/3/9/1/1, i]'
+title: Department of External Affairs to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-11-07
+vol_title: 'Volume 8: 1945'
 ---
-
-# 367 Department of External Affairs to Evatt
 
 Cablegram 1658 CANBERRA, 7 November 1945
 
@@ -52,7 +57,7 @@ AUSTRALIAN NETHERLANDS RELATIONS
 
 7\. The Acting Minister wishes to indicate when presenting the note that he is passing copy to Minister External Affairs and Australian representative at Hague and to request that Netherlands Minister acquaints his Government with contents.
 
-_
+ _
 
 1 A note of the conversations held on 7-8 January is on file AA :
 
@@ -62,4 +67,4 @@ A1838/2, 401/3/2/3.
 
 _
 
-_ [AA : A1838/2, 40,/3/9/1/1, i]_
+ _[AA : A1838/2, 40,/3/9/1/1, i]_

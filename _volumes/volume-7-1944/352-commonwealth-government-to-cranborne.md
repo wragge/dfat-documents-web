@@ -1,12 +1,17 @@
 ---
-title: "352 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2999
+doc_date: '1944-11-18'
+doc_num: 352
+doc_order: 352
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 294]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 352 Commonwealth Government to Cranborne
 
 Cablegram 310 CANBERRA, 18 November 1944
 
@@ -44,7 +49,7 @@ Churchill is recorded as stating (page five of Minutes of 10th Meeting), that th
 
 12\. Meanwhile, we will be glad to receive from you when completed, the proposals referred to in your telegram of which we had received no previous advice from you. Had such advice been available, it would clearly have been a factor to be taken account of It is possible that a suitable opportunity for further discussion will come with consideration of the plans for world organisation. There were, of course, other more urgent matters discussed at Wellington between the Governments and no doubt we shall hear your comments on these in due course.
 
-_
+ _
 
 1 Document 347.
 
@@ -70,4 +75,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 294]_
+ _[AA:A5954, BOX 294]_

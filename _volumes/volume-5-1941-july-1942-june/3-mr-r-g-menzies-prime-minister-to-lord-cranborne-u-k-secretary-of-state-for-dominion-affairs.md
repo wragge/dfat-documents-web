@@ -1,12 +1,18 @@
 ---
-title: "3 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1756
+doc_date: '1941-07-10'
+doc_num: 3
+doc_order: 3
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 185B, i]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-10
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 3 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 430 (extract) [1] CANBERRA, 10 July 1941
 
@@ -64,9 +70,9 @@ shortly after, the outbreak of war with Japan. [6]
 
 MENZIES
 
-_
+ _
 
-1 This cablegram embodied decisions made by War Cabinet earlier 
+1 This cablegram embodied decisions made by War Cabinet earlier
 
 the same day (see minute 1176 in AA : A2673, vol. 7). It was 
 
@@ -126,7 +132,7 @@ Australian Foreign Policy 1937-49, voL IV, Documents 285, 287,
 
 _
 
-_
+ _
 
 [AA : A981, JAPAN 185B, i]
 

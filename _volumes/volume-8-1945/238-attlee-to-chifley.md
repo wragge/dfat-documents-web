@@ -1,12 +1,18 @@
 ---
-title: "238 Attlee to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3269
+doc_date: '1945-09-08'
+doc_num: 238
+doc_order: 238
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE.
+    D1157-3/7/45 to D2033-2/11/45, 1.28976]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-08
+vol_title: 'Volume 8: 1945'
 ---
-
-# 238 Attlee to Chifley
 
 Cablegram 364 LONDON, 8 September 1945, 2.37 p.m.
 
@@ -20,10 +26,10 @@ The removal of the British Pacific Fleet from Australia would of course mean a c
 
 Subject to your comments on this proposal, I suggest that the Admiralty should communicate accordingly with Admiral Fraser who would then take action in consultation with the Australian authorities. [1]
 
-_ 1 Chifley agreed that the proposed changes be carried out as suggested. See cablegram 304, dispatched 21 September, in AA :
+ _1 Chifley agreed that the proposed changes be carried out as suggested. See cablegram 304, dispatched 21 September, in AA :
 
 A5954, box 588.
 
 _
 
-_ [AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE. D1157-3/7/45 to D2033-2/11/45, 1.28976]_
+ _[AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE. D1157-3/7/45 to D2033-2/11/45, 1.28976]_

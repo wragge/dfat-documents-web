@@ -1,15 +1,19 @@
 ---
-title: "70 Submission 108 To Cabinet By Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7675
+doc_date: '1954-09-14'
+doc_num: 70
+doc_order: 70
+naa_refs:
+- naa_barcode: 4678856
+  naa_control_symbol: '108'
+  naa_series: A4906
+  reference: '[AA : A4906, VOLUME 4]'
+title: Submission 108 To Cabinet By Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-09-14
-barcode: 209114
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 70 Submission 108 To Cabinet By Menzies
-
-## 14th September, 1954
+14th September, 1954
 
 General Agreement on Tariffs and Trade Attached for consideration of Ministers are the following papers prepared by the Interdepartmental Committee.
 
@@ -79,10 +83,10 @@ Import Licensing 17. An interdepartmental submission has previously been circula
 
 19\. If either of these courses is taken, unilateral action presents fewer complications since bargaining (and the resultant acceptance of contractual obligations) in import licensing matters may lead to complications in administering import restrictions necessitated by the balance of payments.
 
-_ 1 Not published.
+ _1 Not published.
 
 2 Presumably Document 61.
 
 _
 
-_ [ [AA : A4906, VOLUME 4](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=209114) ]_
+ _[AA : A4906, VOLUME 4]_

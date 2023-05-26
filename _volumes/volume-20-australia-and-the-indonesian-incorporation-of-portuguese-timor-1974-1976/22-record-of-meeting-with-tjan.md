@@ -1,20 +1,27 @@
 ---
-title: "22 Record of Meeting with Tjan"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7861
+doc_date: '1974-08-21'
+doc_num: 22
+doc_order: 22
+naa_refs:
+- naa_barcode: 591530
+  naa_control_symbol: 49/2/1/1 PART 3
+  naa_series: A1838
+  reference: '[NAA: A1838, 49/2/111, iii]'
+title: Record of Meeting with Tjan
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-08-21
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 22 Record of Meeting with Tjan
 
 Canberra, 21 August 1974
 
 SECRET AUSTEO
 
-_Officers Present:_
+ _Officers Present:_
 
-Mr G. B. Feakes| First Assistant Secretary, South Asia Division  
+Mr G. B. Feakes|  First Assistant Secretary, South Asia Division  
 ---|---  
 Mr J. L. Lavett| Assistant Secretary, South East Asia Branch  
 Mr A. D. McLennan| Indonesia Section  
@@ -25,11 +32,11 @@ Indonesian Policy Towards Portuguese Timor-the View of the Palace Group
 Mr Feakes invited Mr Tjan to explain his view of Portuguese Timor.
 
   2. Mr Tjan said that he should be seen as a private citizen. Any view he might express on Portuguese Timor could not be taken as Indonesian foreign policy. His views were shared within his 'group['] (the Palace advisory group including Major-General Ali Moertopo) and had received the endorsement of the President. His point of view might eventually become official policy. But Indonesia's foreign policy towards Portuguese Timor had not been finally determined and there were divergent attitudes within the Indonesian Government. Tjan believed that the integration of Portuguese Timor into Indonesia would be in the best strategic interests of Indonesia and Australia and of the region as a whole. Independence for Portuguese Timor might lead to instability in the region by virtue of subsequent penetration by a power inimical to both our interests, such as the USSR or China, or by virtue of tribal rivalry and warfare which could conceivably follow the precipitate granting of independence by Portugal.
-  3. Mr Tjan said that he had put this view in a paper to President Soeharto. The President had expressed support for integration but had insisted that Indonesian policy should take account of two conditions. First, the incorporation of Portuguese Timor should not require a change in the constitution or the structure of the Indonesian state. It could not expect to be treated like a state within a federal system. Such an arrangement would undermine the constitutional principle of the unitary state and endanger national unity. It could be incorporated, however, as a special district (_daerah istimewa_) like Yogyakarta. The second condition was that the implementation of a policy of integration should not prejudice regional harmony. Indonesia must be seen to observe the wishes of the Timorese people. Tjan had told the President that Australia would be crucial in helping Indonesia to meet problems of public presentation. The President had since instructed Tjan to seek our help in encouraging the support of PNG, Portugal and the international community for the integration of Portuguese Timor into Indonesia. Tjan added that his visit had gained more urgency as a result of an Indonesian Foreign Ministry report from New York that the Portuguese were foreshadowing rapid decolonisation. Tjan said that the precipitate granting of independence to Portuguese Timor would be viewed with concern by Indonesia and might lead it to take action.
+  3. Mr Tjan said that he had put this view in a paper to President Soeharto. The President had expressed support for integration but had insisted that Indonesian policy should take account of two conditions. First, the incorporation of Portuguese Timor should not require a change in the constitution or the structure of the Indonesian state. It could not expect to be treated like a state within a federal system. Such an arrangement would undermine the constitutional principle of the unitary state and endanger national unity. It could be incorporated, however, as a special district ( _daerah istimewa_ ) like Yogyakarta. The second condition was that the implementation of a policy of integration should not prejudice regional harmony. Indonesia must be seen to observe the wishes of the Timorese people. Tjan had told the President that Australia would be crucial in helping Indonesia to meet problems of public presentation. The President had since instructed Tjan to seek our help in encouraging the support of PNG, Portugal and the international community for the integration of Portuguese Timor into Indonesia. Tjan added that his visit had gained more urgency as a result of an Indonesian Foreign Ministry report from New York that the Portuguese were foreshadowing rapid decolonisation. Tjan said that the precipitate granting of independence to Portuguese Timor would be viewed with concern by Indonesia and might lead it to take action.
 
 
 
-_ Foreign Affairs View_
+ _Foreign Affairs View_
 
   4. Mr Feakes proposed that he explain the views that had been developed within the Department of Foreign Affairs. He emphasised that he spoke only as an official and as an official of only one Department. He spoke to the following points prepared before the meeting:
     1. In the absence of ministerial decisions, we could not as officials of one Department of Government speak definitively. We had expected that the Prime Minister would discuss Portuguese Timor personally with President Soeharto. Our obvious interests in Timor provide us with a status in international discussion about the territory's future. The issue of the future of Portuguese Timor is one in which Australia and Indonesia should see the opportunity for co-operation.
@@ -46,25 +53,23 @@ _ Foreign Affairs View_
 
 
 
-_ [matter omitted]1_
+ _[matter omitted][1](#f1)_
 
-_ Indonesian access to Portuguese Timor_
+ _Indonesian access to Portuguese Timor_
 
   15. Tjan was asked how Indonesia could maintain publicly a policy of support for self-determination, which he had seemed to endorse earlier, while working towards integration. He replied that Indonesia wanted legal access to Portuguese Timor for political and cultural indoctrination on behalf of APODETI. (Indonesia was already providing aid and other consumer commodities to the province.) Indonesia wanted Australia to lobby the Portuguese and the international community in support of such access.
   16. It was pointed out that legitimate access of this kind could come within the terms of our earlier statement that progress towards self-determination should entail the development of greater awareness among the Timorese of their regional neighbours, including Indonesia. It would be important for Indonesia itself to raise this matter with the Portuguese. To this end Indonesia's diplomatic relations with Portugal should be fully restored. There was need also for expanded and better informed Indonesian diplomatic activity in Portuguese Timor. Precipitate Indonesian action was not necessary. There was considerable scope for careful and deliberate development of Indonesian interests. The development in recent years of cordial relations with PNG should be taken as the model in developing the confidence of the Timorese. Tjan was reminded of the indications we had received that the Portuguese were unaware of Indonesian interest in integration. Indonesia should not assume that their legitimate interests would be denied. He was warned again of the repercussions on Australian and international opinion of a crude Indonesian campaign in Portuguese Timor aimed at incorporation of the province by stealth.
 
 
 
-_ Discussions of Portuguese Timor during the Prime Minister's Visit to Indonesia_
+ _Discussions of Portuguese Timor during the Prime Minister's Visit to Indonesia_
 
   17. Tjan said that, at his suggestion, Portuguese Timor would come up in the talks between the Prime Minister and the President. He suggested that a different approach might be taken in some of the points we had earlier explained to him. The reference to Irian Jaya should be modified. Indonesia was sensitive about references to shortcomings in the Act of Free Choice. In Indonesian eyes, there had never been any doubt about Indonesian sovereignty over the province. The Act of Free Choice had been allowed to proceed in order to satisfy the international community. Moreover, it was the New Order which had allowed it. Soekamo had refused to accept international scrutiny. He suggested that our point about concern for international reactions be cast in terms of Indonesia's continued adherence to regional harmony and public disavowal of territorial ambitions. It would be important also to express our approach in terms of joint co-operative effort.
 
 
 
-_ [matter omitted]_
+ _[matter omitted]_
 
-_ [NAA: A1838, 49/2/111, iii]_
+ _[NAA: A1838, 49/2/111, iii]_
 
   * 1 Paragraphs omitted deal with Portuguese attitudes to deco1onisation of Timor, Horta's visit to Australia, Indonesian suspicion of Australia, Malik, discrimination against Apodeti and political detainees.
-
-

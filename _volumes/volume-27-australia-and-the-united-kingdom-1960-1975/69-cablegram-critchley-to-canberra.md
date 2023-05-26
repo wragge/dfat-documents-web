@@ -1,14 +1,17 @@
 ---
-title: "69 CABLEGRAM, CRITCHLEY TO CANBERRA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9934
+doc_date: '1967-05-16'
+doc_num: 69
+doc_order: 69
+naa_refs:
+- naa_barcode: 1160400
+  naa_control_symbol: 1966/7335 PART 4
+  naa_series: A1209
+  reference: '[NAA: A1209, 1966/7335 PART 4]'
+title: CABLEGRAM, CRITCHLEY TO CANBERRA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-05-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 69 CABLEGRAM, CRITCHLEY TO CANBERRA
-
-NAA: A1209, 1966/7335 PART 4
 
 Australian High Commission, London, 16 May 1967
 
@@ -29,3 +32,5 @@ United States embassy officials are pinning their hopes on the President being a
 6\. Irrespective of the foregoing I believe it will be important within the next month to persuade the British to agree to a continuing military presence somewhere in the Far East with the financial commitment for them that this would involve. Provided the political will to stay in the Far East remains there would be continuing opportunity to demonstrate that the present bases are more efficient and economical than bases elsewhere.
 
 1  T.K. Critchley, Senior External Affairs Representative, London, 1966–69. 
+
+[NAA: A1209, 1966/7335 PART 4]

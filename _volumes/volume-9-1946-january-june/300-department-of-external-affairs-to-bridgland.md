@@ -1,14 +1,19 @@
 ---
-title: "300 Department of External Affairs to Bridgland"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3812
+doc_date: '1946-06-10'
+doc_num: 300
+doc_order: 300
+naa_refs:
+- naa_barcode: 193723
+  naa_control_symbol: PI46/10/3
+  naa_series: A1067
+  reference: '[AA:A1067, P146/10/3]'
+title: Department of External Affairs to Bridgland
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-10
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 300 Department of External Affairs to Bridgland
-
-## Cablegram 378 CANBERRA, 10 June 1946
+Cablegram 378 CANBERRA, 10 June 1946
 
 Your memorandum 291 [1] raises important issues. These telegrams are essential to our work as they provide us by the quickest means with a range of background information from British posts all over the world which we cannot yet hope to do more than supplement in particular contexts from our own sources.
 
@@ -24,7 +29,7 @@ At the next meeting you should express our appreciation of the range of informat
 
 If the question of sharing costs is raised this aspect should be referred to us before any commitment is undertaken.'
 
-_
+ _
 
 1 Document 250.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A1067, P146/10/3]_
+ _[AA:A1067, P146/10/3]_

@@ -1,12 +1,17 @@
 ---
-title: "172 Bruce to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3203
+doc_date: '1945-08-10'
+doc_num: 172
+doc_order: 172
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 570]'
+title: Bruce to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-10
+vol_title: 'Volume 8: 1945'
 ---
-
-# 172 Bruce to Chifley
 
 Cablegram 125 LONDON, 10 August 1945, 2.39 p.m.
 
@@ -50,7 +55,7 @@ The views of the Australian Government on command of the British Commonwealth Fo
 
 Report Ends.
 
-_
+ _
 
 1 On file AA : A816, 31/301/349. It instructed Maj Gen C.E.M.
 
@@ -58,4 +63,4 @@ Lloyd, Adjutant-General, who was attending discussions in London on the reorgani
 
 _
 
-_ [AA : A5954, BOX 570]_
+ _[AA : A5954, BOX 570]_

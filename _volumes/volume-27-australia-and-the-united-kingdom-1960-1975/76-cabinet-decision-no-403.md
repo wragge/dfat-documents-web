@@ -1,14 +1,17 @@
 ---
-title: "76 CABINET DECISION NO. 403"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9941
+doc_date: '1967-07-04'
+doc_num: 76
+doc_order: 76
+naa_refs:
+- naa_barcode: 1728294
+  naa_control_symbol: TS691/1 PART 11
+  naa_series: A1838
+  reference: '[NAA:A1838, T5691/1 PART 11]'
+title: CABINET DECISION NO. 403
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-07-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 76 CABINET DECISION NO. 403
-
-NAA:A1838, T5691/1 PART 11
 
 Canberra, 4 July 1967
 
@@ -37,3 +40,5 @@ The Cabinet noted that information to hand suggested that the British Government
 > (c) that further consideration might be given to joining in the planning talks suggested by Britain, but on the basis of discussing means by which British ground forces might be retained—i.e. complementary to the submissions of the Government through the Prime Minister;
 > 
 > (d) that a reply in terms agreed by Cabinet should be sent to the New Zealand Prime Minister.
+
+[NAA:A1838, T5691/1 PART 11]

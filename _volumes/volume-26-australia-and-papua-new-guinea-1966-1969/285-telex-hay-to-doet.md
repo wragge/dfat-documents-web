@@ -1,19 +1,23 @@
 ---
-title: "285 Telex, Hay To Doet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9793
+doc_date: '1969-06-13'
+doc_num: 285
+doc_order: 285
+naa_refs:
+- naa_barcode: 3118054
+  naa_control_symbol: 1969/2608
+  naa_series: A452
+  reference: '[NAA: A452, 1969/2608]'
+title: Telex, Hay To Doet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-06-13
-barcode: 3118054
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 285 Telex, Hay To Doet
 
 Port Moresby, 13 June 1969
 
 4445\. Secret Priority 
 
-Webb and Brown returned from Djajapura midday today and report as follows. 1
+Webb and Brown returned from Djajapura midday today and report as follows. [1](#f1)
 
 Representatives of the provincial government of West Irian and the Administration of the Territory of Papua and New Guinea met at Djajapura on the 10th and 11th June 1969 and reached agreement on the following matters.
 
@@ -30,7 +34,7 @@ The first meeting between officers at these posts will be held on 25th June. Fut
 
 4\. Meetings between officials of West Irian and TPNG at Djajapura, Vanimo or Port Moresby may be arranged as necessary and at short notice. Normally however liaison will be maintained at a local level on the border. Mr Webb will return to Djajapura on 8th July to review progress on {proposals agreed} to.
 
-5\. Indonesian and Australian patrols were under orders not to cross the border and that2 they would not do so.
+5\. Indonesian and Australian patrols were under orders not to cross the border and that[2](#f2) they would not do so.
 
 6\. It was agreed that if the West Irian authorities had evidence of anti-Indonesian activity in Papua–New Guinea they would inform the TPNG authorities who would take appropriate action.
 
@@ -40,12 +44,12 @@ Agreement ends.
 
 Additionally for information General Sarwo Edhie supplied copy of a general order issued to all troops under his command forbidding them from crossing the border or being involved in border incidents.
 
-No statements will be made to press until authorised by you. Although regarding your 5816,3 you may wish to include some of this in the statement to the House of Assembly.
+No statements will be made to press until authorised by you. Although regarding your 5816,[3](#f3) you may wish to include some of this in the statement to the House of Assembly.
 
-[ [NAA: A452, 1969/2608](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3118054) ]
+[NAA: A452, 1969/2608]
 
 1  For background, see Document 266. 
 
 2  This word appears to be superfluous. 
 
-3  Not found. 
+3  Not found.

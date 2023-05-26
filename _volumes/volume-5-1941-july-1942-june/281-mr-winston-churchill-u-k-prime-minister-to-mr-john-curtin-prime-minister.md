@@ -1,12 +1,17 @@
 ---
-title: "281 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2035
+doc_date: '1942-01-19'
+doc_num: 281
+doc_order: 282
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.2352]'
+title: Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-19
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 281 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
 
 Cablegram Winch 10 LONDON, 19 January 1942, 4.20 a.m.
 
@@ -38,7 +43,7 @@ Meanwhile we are trying to make up by air power in the Mediterranean our lack of
 
 8\. We must not be dismayed or get into recrimination but remain united in true comradeship. Do not doubt my loyalty to Australia and New Zealand. I cannot offer any guarantees for the future and I am sure that great ordeals lie before us, but I feel hopeful as never before that we shall emerge safely and also gloriously from the dark valley.
 
-_
+ _
 
 1 Document 278.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.2352]_
+ _[AA:A3195, 1942, 1.2352]_

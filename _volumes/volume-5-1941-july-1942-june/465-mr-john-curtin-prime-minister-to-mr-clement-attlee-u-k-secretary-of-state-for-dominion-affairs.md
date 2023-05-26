@@ -1,12 +1,18 @@
 ---
-title: "465 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2219
+doc_date: '1942-04-14'
+doc_num: 465
+doc_order: 466
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT C]'
+title: Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-04-14
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 465 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 245 [1] CANBERRA, 14 April 1942
 
@@ -32,7 +38,7 @@ As their comrades have returned, the troops of the 9th Division cannot be retain
 
 CURTIN
 
-_
+ _
 
 1 The text of this cablegram was repeated to the Minister for External Affairs, Dr H. V. Evatt, then in Washington. Curtin also instructed the High Commissioner in the United Kingdom, S. M.
 
@@ -60,4 +66,4 @@ See cablegram 67A of 13 April on file AA:M100, April 1942. Bruce also reported t
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT C]_
+ _[AA:A981, WAR 33, ATTACHMENT C]_

@@ -1,13 +1,17 @@
 ---
-title: "94 REPORT BY JOINT PLANNING COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9959
+doc_date: '1968-03-01'
+doc_num: 94
+doc_order: 94
+naa_refs:
+- naa_barcode: 1725808
+  naa_control_symbol: TS677/3 PART 12
+  naa_series: A1838
+  reference: '[NAA: A1838, TS677/3 PART 12]'
+title: REPORT BY JOINT PLANNING COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 94 REPORT BY JOINT PLANNING COMMITTEE
-
-NAA: A1838, TS677/3 PART 12
 
 Canberra, March 1968
 
@@ -21,15 +25,15 @@ Strategic Basis of Australian Defence Policy, 1968
 
 2\. This study reviews the strategic basis of Australian defence policy. The study has been projected, as far as practicable, over a period up to 1977 to highlight likely trends in the strategic situation.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_Outlook for collective security_
+ _Outlook for collective security_
 
 30\. The United States is likely to remain the dominant allied military power in the area. Thus ANZUS will continue to be the key treaty in support of the defence of Australia, but its effectiveness will be conditioned by Australian support for United States policies in areas of common interest and by the demonstration of Australia’s willingness and capability to take action both for our own defence and as a contribution to the defence of South East Asia.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_General strategic concept_
+ _General strategic concept_
 
 36\. The development and maintenance of peace and stability in South East Asia and the containment of communist expansion in that area are the best means of ensuring the security of Australia and are therefore the essential aims of Australian defence strategy. For such a forward defence strategy Australia relies primarily upon collective security arrangements and should therefore be prepared, in conjunction with allies, to undertake military measures in South East Asia in support of these arrangements and to safeguard particular Australian defence interests. Australia’s contribution to treaty and collective defence arrangements must be, and be seen to be commensurate with Australian national interests and resources.
 
@@ -59,7 +63,7 @@ _General strategic concept_
 
 43\. Should the communists extend their control in South East Asia, any subsequent direct physical threat to Australia would take some years to develop. These years would have to be used, and may need to be anticipated, for the acquisition of long lead time items if Australian defence preparations are to be adequate when required. The worst situation which Australia might be required to meet on its own would be the development of a threat from Indonesia to Australia and its Territories, particularly along the lines of a Borneo-type confrontation in Papua/New Guinea. This could arise more quickly than a threat from an extension of communist control in South East Asia. Acquisition of long lead time items such as ships and aircraft and the development of the necessary infrastructure in the Papua/New Guinea area for this eventuality require high priority.
 
-_Situations short of limited war_
+ _Situations short of limited war_
 
 44\. Situations short of limited war for which Australia should be prepared to provide forces are:
 
@@ -79,7 +83,7 @@ _Situations short of limited war_
 
 48\. Australia’s policy of preserving friendly relations with Indonesia can better be achieved by speaking or negotiating from a position of strength in our own right. It is of particular importance that Australia maintains under demonstrable control at least an element of offensive capacity which Australia considers sufficient to deter Indonesia from actions inimical to Australian interests. By giving suitable publicity to the actions of such forces in appropriate situations the particular purpose of demonstrating their capability would be served. The ANZUS Treaty will remain a deterrent against overt aggression against Australia and its Territories.
 
-_Limited war_
+ _Limited war_
 
 49\. There are two limited war situations in which Australia could be involved. These are:
 
@@ -94,7 +98,7 @@ _Limited war_
 
 52\. Australia must be prepared to make a contribution to the defence of sea and air communications commensurate with Australian interests and obligations. However, the area of Australia and her Territories should receive priority over South East Asia in respect of Australian preparations for the defence of sea and air communications in limited war.
 
-_Reaction capability_
+ _Reaction capability_
 
 53\. As our potential enemies will have the initiative it is essential that Australian forces should have good intelligence and adequate mobility and flexibility for a fast and effective response.
 
@@ -104,14 +108,16 @@ _Reaction capability_
 
 56\. _War Reserves._ The necessity for a speedy response also emphasises the need for the provision in peace of war reserves from both our own and allied sources to sustain Australian forces in operations.
 
-_Nuclear capability_
+ _Nuclear capability_
 
 57\. Having regard to the present strategic situation and our treaty arrangements in which our most powerful allies have a nuclear capability, there is no current requirement for an Australian nuclear capability. In the longer term, with future advances in technology it might be possible to develop a credible capability, if required, to counter a serious threat of direct attack on Australia. Australian forces should have as far as possible a capability to operate in a nuclear environment in South East Asia and in the face of nuclear opposition. However, at least in the early part of the period under review, the main requirement is to concentrate on improving the strength and effectiveness of Australian forces using conventional weapons.
 
-_Conclusions_
+ _Conclusions_
 
 58\. A forward defence strategy based on collective security arrangements with allies will continue to provide the best assurance for the security of Australia and its Territories. Our political and defence policies should be such as to maintain with allies a credible forward defence posture in South East Asia while encouraging the countries of the area to co-operate in promoting security and stability.
 
 59\. Our forces must be shaped to provide a capability to act independently to deal with situations, directly threatening our territorial interests, in which we could not reasonably rely on receiving help from our allies. We must also remain capable of making an adequate, prompt and sustained contribution to allied forces in South East Asia in a wide range of situations, including limited war. The size of the Australian military contribution to the forward defence strategy should be determined primarily by the need to ensure that our contribution to treaty and defence arrangements is, and is seen to be, commensurate with out national interests and resources.
 
 60\. The development of forces to meet all stated contingencies simultaneously is not feasible and the forces deployed under the forward defence posture should be regarded as part of the independent capability. If two major contingencies for which Australia should be prepared develop concurrently, the allocation of available effort would have to be decided in consultation with allies, particularly the United States. The composition of the Australian independent capability must be kept under review to take account of developments in our immediate area of interest and, in particular, in Papua/New Guinea and Indonesia.
+
+[NAA: A1838, TS677/3 PART 12]

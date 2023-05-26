@@ -1,12 +1,18 @@
 ---
-title: "44 Mr J. A. Lyons, Prime Minister, to Sir George Pearce, Minister for External Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 44
+doc_date: '1937-06-10'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 232385
+  naa_control_symbol: '14'
+  naa_series: A2938
+  reference: '[FA : A2938, REGIONAL PACT]'
+title: Mr J. A. Lyons, Prime Minister, to Sir George Pearce, Minister for External
+  Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-10
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 44 Mr J. A. Lyons, Prime Minister, to Sir George Pearce, Minister for External Affairs
 
 Cablegram unnumbered LONDON, 10 June 1937
 
@@ -36,7 +42,7 @@ Until you receive some idea from me as to nature of any public announcement bein
 
 LYONS
 
-_
+ _
 
 1 Document 25.
 
@@ -60,4 +66,4 @@ _
 
 _
 
-_ [FA : A2938, REGIONAL PACT]_
+ _[FA : A2938, REGIONAL PACT]_

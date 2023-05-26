@@ -1,14 +1,19 @@
 ---
-title: "171 Legge to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4355
+doc_date: '1947-07-28'
+doc_num: 171
+doc_order: 171
+naa_refs:
+- naa_barcode: 197339
+  naa_control_symbol: PI47/1/1/5
+  naa_series: A1068
+  reference: '[AA:A1068/1, P147/1/1/5]'
+title: Legge to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-07-28
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
 
-# 171 Legge to Burton
-
-## Minute CANBERRA, 28 July 1947
+Minute CANBERRA, 28 July 1947
 
 SHORTWAVE
 
@@ -18,7 +23,7 @@ Mr. Barsdell reported that he had broadcast several times on Saturday in English
 
 3\. Dr. Leyser reports that he has now got a 24-hour cover [2] on what can be heard from Djokjakarta, Batavia and Hilversum. [3]
 
-_
+ _
 
 1 See Documents 149, 153, 163 and 169.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A1068/1, P147/1/1/5]_
+ _[AA:A1068/1, P147/1/1/5]_

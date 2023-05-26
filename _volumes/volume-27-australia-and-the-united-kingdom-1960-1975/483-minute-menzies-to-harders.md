@@ -1,24 +1,27 @@
 ---
-title: "483 MINUTE MENZIES TO HARDERS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10350
+doc_date: '1974-07-12'
+doc_num: 483
+doc_order: 483
+naa_refs:
+- naa_barcode: 12075298
+  naa_control_symbol: 1973/3262 PART 6
+  naa_series: A432
+  reference: '[NAA: A432, 1973/3262. PART 6]'
+title: MINUTE MENZIES TO HARDERS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1974-07-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 483 MINUTE MENZIES TO HARDERS
-
-NAA: A432, 1973/3262. PART 6
 
 Attorney-General’s Department, Canberra, 12 July 1974
 
 Confidential
 
-**Privy Council Appeals—British Note**
+ **Privy Council Appeals—British Note**
 
-I was reminded by Mr Emerton2 today that a note is due from us concerning the message received from the British. He expressed the strong personal view that we should continue to try to deal with the form of the Bill at official level.
+I was reminded by Mr Emerton[2](#f2) today that a note is due from us concerning the message received from the British. He expressed the strong personal view that we should continue to try to deal with the form of the Bill at official level.
 
-2\. The British note3 makes two points:
+2\. The British note[3](#f3) makes two points:
 
 > (1) that the British have given no commitment to legislate until the legislation has been enacted and litigated in Australia;
 > 
@@ -37,3 +40,5 @@ I was reminded by Mr Emerton2 today that a note is due from us concerning the me
 2 I. D. Emerton, Assistant Secretary, Department of the Prime Minister and Cabinet.
 
 3 See Document 482.
+
+[NAA: A432, 1973/3262. PART 6]

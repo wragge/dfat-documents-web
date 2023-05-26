@@ -1,12 +1,17 @@
 ---
-title: "135 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2782
+doc_date: '1944-05-06'
+doc_num: 135
+doc_order: 135
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, E43-44/970/54]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-06
+vol_title: 'Volume 7: 1944'
 ---
-
-# 135 Commonwealth Government to Cranborne
 
 Cablegram 107 [1] CANBERRA, 6 May 1944
 
@@ -18,7 +23,7 @@ As Portuguese envoy [3] is now reported to have completed investigations in Timo
 
 Salazar's [4] decision not to visit London for staff talks [5] and the arrangement with Japanese for inspection of Timor by Portuguese official, together with progress of events in South- West Pacific forces us to conclusion that Portugal hopes that Timor will be reoccupied without any military contribution or effort on her part. If this in fact eventuates, the failure of Portuguese to participate in the liberation of their own territory will raise the question of her capacity to act in any regional colonial arrangement.
 
-_
+ _
 
 1 Repeated to the N.Z. Prime Minister as no. 89.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A989, E43-44/970/54]_
+ _[AA:A989, E43-44/970/54]_

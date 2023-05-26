@@ -1,30 +1,36 @@
 ---
-title: "178 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 177
+doc_date: '1938-04-05'
+doc_num: 178
+doc_order: 177
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime
+  Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-04-05
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 178 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister
-
-## Letter SYDNEY, 5 April 1938
+Letter SYDNEY, 5 April 1938
 
 I have the honour to acknowledge the receipt of your letter of March 29th [1], in reply to my letter of March 26th [2], regarding the matter of iron ore.
 
 Having noted, with appreciation, your assurance that, in considering future action by the Commonwealth Government in regard to this question, full cognizance will be taken of the situation which already exists, and of the special circumstances surrounding the working of the deposits at Yampi Sound, I deem it opportune to bring under your notice the results of my inquiries relative to the circumstances in which the preparatory work for the development of the Koolan Island iron ore deposits was inaugurated and is now being carried on.
 
-I have studied the original Memorandum of Proposals, setting out in detail the proposals which were submitted early in 1936 by the leaseholders, Messrs H. A. Brassert &amp; Co. Ltd, London, to the Western Australian Government, and understand that the terms of these proposals have in no way been departed from, and were, in due course, approved.
+I have studied the original Memorandum of Proposals, setting out in detail the proposals which were submitted early in 1936 by the leaseholders, Messrs H. A. Brassert & Co. Ltd, London, to the Western Australian Government, and understand that the terms of these proposals have in no way been departed from, and were, in due course, approved.
 
 The submission of the Proposals was a matter of the greatest importance for many reasons, and had they not received the approval of the Government referred to, any attempt to develop Koolan Island iron ore deposits would have been immediately abandoned.
 
-May I draw your attention to the fact that the leases were to be developed by an Operating Company formed by Messrs H. A. Brassert &amp; Co. Ltd, and that loan capital to the extent mentioned in the Proposals was to be furnished by the Nippon Mining Co. Ltd, which loan capital (furnished for the reasons set out in the Proposals) became repayable to Nippon Mining Co. Ltd with interest, over a period of years.
+May I draw your attention to the fact that the leases were to be developed by an Operating Company formed by Messrs H. A. Brassert & Co. Ltd, and that loan capital to the extent mentioned in the Proposals was to be furnished by the Nippon Mining Co. Ltd, which loan capital (furnished for the reasons set out in the Proposals) became repayable to Nippon Mining Co. Ltd with interest, over a period of years.
 
 It is proper to mention here, that the development in question is an undertaking of considerable magnitude, capable of being handled economically only in enormous tonnages; this point was well known to all parties from the outset.
 
 Armed with the assurances so promptly given (and on many occasions since repeated), the Nippon Mining Co. Ltd felt itself at liberty to proceed with the utmost confidence, and to expend very large sums of money on the development of the deposits.
 
-Messrs H. A. Brassert &amp; Co. Ltd paid 35,000 for the leases, and also paid certain other preliminary expenses in the neighbourhood of 50,000-in all 85,000.
+Messrs H. A. Brassert & Co. Ltd paid 35,000 for the leases, and also paid certain other preliminary expenses in the neighbourhood of 50,000-in all 85,000.
 
 The Nippon Mining Co. Ltd has spent about 260,000, and also undertaken inescapable commitments amounting approximately to 300,000.
 
@@ -56,7 +62,7 @@ In view, therefore, of the huge vested interests, and vital issues involved, it 
 
 TORAO WAKAMATSU
 
-_
+ _
 
 1 Document 171.
 
@@ -66,4 +72,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

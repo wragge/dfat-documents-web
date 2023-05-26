@@ -1,14 +1,19 @@
 ---
-title: "177 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 514
+doc_date: '1939-09-01'
+doc_num: 177
+doc_order: 177
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP290/6, ITEM 27]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-01
+vol_title: 'Volume 2: 1939'
 ---
 
-# 177 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 1 September 1939, 8.20 p.m.
+Cablegram unnumbered 1 September 1939, 8.20 p.m.
 
 IMMEDIATE CLEAR THE LINE
 
@@ -16,7 +21,7 @@ Although overseas broadcast news most alarming [2] no advice yet received from B
 
 MENZIES
 
-_
+ _
 
 1 The copy in the Bruce papers gives this time of receipt (on file AA: M100, September 1939).
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA: CP290/6, ITEM 27]_
+ _[AA: CP290/6, ITEM 27]_

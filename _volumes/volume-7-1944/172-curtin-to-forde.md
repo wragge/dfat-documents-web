@@ -1,12 +1,17 @@
 ---
-title: "172 Curtin to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2819
+doc_date: '1944-05-28'
+doc_num: 172
+doc_order: 172
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 5]'
+title: Curtin to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-28
+vol_title: 'Volume 7: 1944'
 ---
-
-# 172 Curtin to Forde
 
 Cablegram 45 LONDON, 28 May 1944
 
@@ -42,7 +47,7 @@ As stated in the remarks on (c), this matter must be considered in relation to t
 
 CURTIN
 
-_
+ _
 
 1 Document 128.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 5]_
+ _[AA:A5954, BOX 5]_

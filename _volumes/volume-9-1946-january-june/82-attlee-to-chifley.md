@@ -1,12 +1,17 @@
 ---
-title: "82 Attlee to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3594
+doc_date: '1946-02-09'
+doc_num: 82
+doc_order: 82
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.3571]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-09
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 82 Attlee to Chifley
 
 Cablegram 47 LONDON, 9 February 1946, 5.43 p.m.
 
@@ -24,10 +29,10 @@ I know that you and Dr. Evatt will not mind my putting this suggestion which res
 
 This arrangement for joint representation is a new one, and we are all most anxious that it should be a complete success.
 
-_
+ _
 
 1 Presumably Document 45, which had been repeated to New Delhi as cablegram 36.
 
 _
 
-_ [AA:A3195, 1946, 1.3571]_
+ _[AA:A3195, 1946, 1.3571]_

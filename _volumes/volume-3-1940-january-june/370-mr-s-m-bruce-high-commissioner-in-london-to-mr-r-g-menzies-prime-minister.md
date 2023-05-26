@@ -1,12 +1,17 @@
 ---
-title: "370 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1136
+doc_date: '1940-06-13'
+doc_num: 370
+doc_order: 370
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, UNNUMBERED]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-13
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 370 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 412 LONDON, 13 June 1940, 2.25 a.m.
 
@@ -48,7 +53,7 @@ I am doing everything in my power to make United Kingdom Government face them an
 
 BRUCE
 
-_
+ _
 
 1 Winston S. Churchill.
 
@@ -70,4 +75,4 @@ _
 
 _
 
-_ [FA: A3195, UNNUMBERED]_
+ _[FA: A3195, UNNUMBERED]_

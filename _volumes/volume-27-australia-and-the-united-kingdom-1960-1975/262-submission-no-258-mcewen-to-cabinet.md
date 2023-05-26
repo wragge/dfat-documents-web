@@ -1,14 +1,17 @@
 ---
-title: "262 SUBMISSION NO. 258, MCEWEN TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10127
+doc_date: 1970-05
+doc_num: 262
+doc_order: 262
+naa_refs:
+- naa_barcode: 3195781
+  naa_control_symbol: C743 PART 2
+  naa_series: A5619
+  reference: '[NAA: A5619, C743 PART 2]'
+title: SUBMISSION NO. 258, MCEWEN TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1970-02-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 262 SUBMISSION NO. 258, MCEWEN TO CABINET
-
-NAA: A5619, C743 PART 2 
 
 Canberra, May 1970
 
@@ -18,7 +21,7 @@ Confidential
 
 The purpose of this Submission is to inform Ministers of the present situation of the negotiations for entry of the United Kingdom and other applicant countries, (Denmark, Norway and Ireland) into the European Economic Community and to consider the possible trade consequences and lines of future action for Australia.
 
-_The Present Situation_
+ _The Present Situation_
 
 2\. The British Government has stated that it will negotiate to enter the EEC provided that mutually fair terms can be identified and agreed. These negotiations will commence in June or July this year but it seems likely that the negotiations will not be pressed until after the British elections and could therefore run on even throughout 1971.
 
@@ -34,7 +37,7 @@ _The Present Situation_
 
 8\. We could again be faced with the argument used extensively in earlier negotiations that in the longer term Australia would benefit more from an economically strong Britain within the EEC than Britain outside the Community progressively more isolated and growing at a relatively slow rate. All our experience suggests that it would be an optimist indeed who could see prospects for non-primary exports replacing our current agricultural exports even in a strong industrial Britain.
 
-_Implications for Australian Trade_
+ _Implications for Australian Trade_
 
 9\. As indicated above, the effect on Australia’s export trade would be felt more on agricultural exports to Britain. There is a strong tendency to discount the effects because of the decline in the relative importance of agricultural exports in our total exports pattern and the decline in the share of those exports going to the United Kingdom.
 
@@ -50,7 +53,7 @@ _Implications for Australian Trade_
 
 15\. To sum up, the effect of the UK entry into the EEC would overall be very much less disruptive to Australian trade now than it would have been in 1960/61. However, the effect on particular industries such as sugar, dairy and fruit would create very serious problems particularly in the light of their current economic position.
 
-_Future Policy_
+ _Future Policy_
 
 16\. The attitude we adopted in 1961 and 1962 and have continued to maintain in relation to United Kingdom entry into the Community is that the decision on Britain joining is one for Britain alone but that important Australian trade interests (especially in the agricultural field) stand to be damaged. We tended in 1961 and 1962 to rely upon Britain to seek safeguards for our trade and although Australia made representations direct to the Six, these representations were based on our traditionat relationship with Britain. We also were unwilling at the time to specify which commodities we would regard as vital and for which we would seek some special provisions.
 
@@ -82,7 +85,7 @@ On the other hand there are elements within the Administration who are clearly d
 
 28\. On the occasion of the previous UK bid to join the Common Market, Cabinet appointed a Committee of Ministers with a subsidiary committee of officials, to keep a close watch on developments. I think we should appoint similar Committees now to cope with the issues as they arise in the forthcoming negotiations.
 
-_Recommendations_
+ _Recommendations_
 
 29\. I recommend that:–
 
@@ -164,25 +167,25 @@ Despite the reduction in Australia’s dependence on UK market, that market cont
 
 
 
-_Implications for Australia’s trade_
+ _Implications for Australia’s trade_
 
   * Studies have been made in relation to the principal items of our export trade to UK the results of which are summarised below 
     * total losses on these items in the UK market are likely to be of the order of $86m (2.7% of our total 1968/69 world exports)
 
 
 
-_Agricultural Products and Raw Materials_
+ _Agricultural Products and Raw Materials_
 
-| _Aust. Exports to UK 1968169_| _Estimated Loss_  
+|  _Aust. Exports to UK 1968169_|  _Estimated Loss_  
 ---|---|---  
-| _Value  
-$Am_| _% of  
+|  _Value  
+$Am_|  _% of  
 Total  
-Exports_| _Value  
-$Am_| _% of  
+Exports_|  _Value  
+$Am_|  _% of  
 Total  
 Exports_  
-_Commodities in which UK the Dominant Australian market_| | | |   
+ _Commodities in which UK the Dominant Australian market_| | | |   
 (45% or more of exports valued at  
 $A I m or more in 1968/69)| | | |   
 Beef or Veal, Canned or Bottled| 2.2| 62%| 1.1| 31%  
@@ -195,7 +198,7 @@ Canned or Bottled Fruit| | | |
 –Fruit Salad| 2.5| 47%| 1.2| 23%  
 –Other (excl pineapples)| 1.8| 65%| 0.9| 32%  
 | | Sub-Total| 43.2|   
-_Commodities in which UK still a Major Market_| | | |   
+ _Commodities in which UK still a Major Market_| | | |   
 (5%–45% of exports valued at  
 $A I m or more in 1968/69)| | | |   
 Cheese| 2.0| 14%| 2.0| 14%  
@@ -206,19 +209,19 @@ Sultanas| 5.4| 32%| 2.7| 16%
 Cane Sugar| 39.2| 34%| 8.0| 7%  
 Wine| 1.2| 35%| .8| 23%  
 | | Sub-Total| 24.5|   
-| _Aust. Exports to UK 1968/69_| _Estimated Loss___  
+|  _Aust. Exports to UK 1968/69_|  _Estimated Loss ___  
 ---|---|---  
-| _Value  
-$Am_| _% of  
+|  _Value  
+$Am_|  _% of  
 Total  
-Exports_| _Value  
-$Am_| _% of  
+Exports_|  _Value  
+$Am_|  _% of  
 Total  
 Exports_  
-_Manufactures_  
+ _Manufactures_  
 (All items where Aust. exports to UK  
 exceed $20,000)| 103.6| | 18.3|   
-_Of which_| | | |   
+ _Of which_| | | |   
 Gluten and gluten flour| 2.4| 70.6%| 2.4| 70.6%  
 Leather| 3.2| 72.1%| 1.6| 36.0%  
 Blooms, billets, etc of iron or steel| 1.5| 6.3%| .8| 3.4%  
@@ -228,33 +231,33 @@ Unworked zinc and zinc alloys| 3.1| 11.4%| 1.5| 5.5%
 Image projectors, etc| 1.0| 51.5%| .8| 41.2%  
 | | Losses/Grand Total| 86.0|   
   
-_Alternative Markets_
+ _Alternative Markets_
 
   * limited availability of alternative markets for the major commodities
 
-_Butter/Cheese_| very limited scope, some rise in unit returns possibly due to less EEC competition in third markets  
+ _Butter/Cheese_|  very limited scope, some rise in unit returns possibly due to less EEC competition in third markets  
 ---|---  
-_Canned Fruit_| limited scope, need to accept lower returns to compete  
-_Fresh Apples and  
+ _Canned Fruit_|  limited scope, need to accept lower returns to compete  
+ _Fresh Apples and  
 Pears_| active promotion could find alternative markets for probably half displacement  
-_Dried Fruits_| very limited scope  
-_Cereals_| difficult to find alternative soft wheat markets  
-_Sugar_| extremely limited, even assuming major revision of ISA BET’s  
-_Wine_| UK exports marginal to Aust. production; growing markets in NZ and Canada  
-_Eggs_| Some scope for increased sales in Japan (pulp), Middle East and Hong Kong  
-_Beef and Veal  
+ _Dried Fruits_|  very limited scope  
+ _Cereals_|  difficult to find alternative soft wheat markets  
+ _Sugar_|  extremely limited, even assuming major revision of ISA BET’s  
+ _Wine_|  UK exports marginal to Aust. production; growing markets in NZ and Canada  
+ _Eggs_|  Some scope for increased sales in Japan (pulp), Middle East and Hong Kong  
+ _Beef and Veal  
 (Canned or Bottled)_| Alternative markets not apparent  
-_Leather_| Little prospect for alternative markets  
+ _Leather_|  Little prospect for alternative markets  
   
-_Regional Impact in Australia_
+ _Regional Impact in Australia_
 
   * Significant repercussions likely for following major commodities
 
-_Butter/Cheese_| Victoria and Tasmania particularly hard hit; major exporters to UK  
+ _Butter/Cheese_|  Victoria and Tasmania particularly hard hit; major exporters to UK  
 ---|---  
-_Canned Fruit_| Serious for all producers but particularly MIA and South Australia  
-_Fresh Fruit_| Very serious for Tasmania and WA which are heavily dependent. on exports  
-_Dried Fruit_| Very serious effect on only significant producing area (Murray Valley)  
+ _Canned Fruit_|  Serious for all producers but particularly MIA and South Australia  
+ _Fresh Fruit_|  Very serious for Tasmania and WA which are heavily dependent. on exports  
+ _Dried Fruit_|  Very serious effect on only significant producing area (Murray Valley)  
   
 ATTACHMENT C
 
@@ -264,65 +267,67 @@ MAJOR MARKETS 1960/61 AND 1968/69
 1960/61| | %  
 1968/69  
 ---|---|---|---  
-_Meat_| | |   
+ _Meat_| | |   
 USA| 43.5| US| 66.9  
 UK| 36.7| UK| 9.0  
 Malaysia| 2.5| Japan| 7.0  
 Japan| 1.6| Canada| 7.6  
 | | Papua/NG| 2.0  
-_Dried fruit_| | |   
+ _Dried fruit_| | |   
 UK| 51.6| Canada| 30.6  
 Canada| 24.5| UK| 27.6  
 New Zealand| 10.1| New Zealand| 11.0  
 | | Germany FR| 10.1  
 | | USA| 4.0  
-_Canned fruit_| | |   
+ _Canned fruit_| | |   
 UK| 89.7| UK| 60.9  
 Canada| 4.3| Canada| 14.0  
 New Zealand| 2.6| Germany FR| 5.6  
 | | Ireland| 3.3  
 | | Netherlands| 3.2  
-_Fresh Fruit_| | |   
+ _Fresh Fruit_| | |   
 UK| 56.0| UK| 38.0  
 Sweden| 10.5| Germany FR| 14.5  
 Germany FR| 9.5| Singapore| 12.0  
 Malaysia| 7.8| Hong Kong| 5.0  
 New Zealand| 4.2| New Zealand| 5.0  
-_Butter_| | |   
+ _Butter_| | |   
 UK| 79.4| UK| 68.1  
 Singapore| 2.7| Singapore| 4.7  
 Ceylon| 2.4| Thailand| 3.4  
 Malaysia| 2.2| Malaysia| 3.2  
 Hong Kong| 2.0| Saudi Arabia| 2.8  
-_Cheese_| | |   
+ _Cheese_| | |   
 UK| 56.5| Japan| 23.9  
 Arabian States| 12.9| Saudi Arabia| 15.6  
 Philippines| 6.7| UK| 14.0  
 Iraq| 4.6| Philippines| 9.3  
 | | Iraq| 7.2  
 | | USA| 6.2  
-_Eggs and egg products_| | |   
+ _Eggs and egg products_| | |   
 UK| 76.9| UK| 32.5  
 Italy| 8.9| Japan| 45.5  
-_Sugar_| | |   
+ _Sugar_| | |   
 UK| 50.4| UK| 32.1  
 Canada| 23.0| Japan| 19.9  
 Japan| 10.8| USA| 19.0  
 New Zealand| 6.2| Malaysia| 7.3  
 Hong Kong| 4.7| Canada| 7.0  
-_Wheat &amp; flour_| | |   
+ _Wheat & flour_| | |   
 China (Mainland)| 20.9| Japan| 22.3  
 UK| 16.4| China (Mainland)| 20.8  
 Italy| 9.3| UK| 15.2  
 Japan| 7.2| Malaysia| 4.8  
 Iraq| 5.9| Ceylon| 2.9  
-_Other cereals_| | |   
+ _Other cereals_| | |   
 China (Mainland)| 22.0| Japan| 21.5  
 UK| 19.0| UK| 18.7  
 Italy| 17.6| Papua/NG| 9.7  
 Germany FR| 11.0| Netherlands| 8.4  
-_Wine_| | |   
+ _Wine_| | |   
 UK| 58.7| UK| 34.3  
 Canada| 7.9| Canada| 31.7  
 New Zealand| 6.2| Papua/NG| 9.6  
 | | New Zealand| 8.2
+
+[NAA: A5619, C743 PART 2]

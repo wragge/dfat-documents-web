@@ -1,14 +1,20 @@
 ---
-title: "300 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1531
+doc_date: '1941-02-15'
+doc_num: 300
+doc_order: 300
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941, 0.1986]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-15
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 300 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 97 [15 February 1941] [1],
+Cablegram 97 [15 February 1941] [1],
 
 My Government has recently given consideration to a combined Far Eastern Appreciation of the Australian Chiefs of Staff, February, 1941 [2], which is summarized hereunder:
 
@@ -94,7 +100,7 @@ Officers from each Service to be appointed Liaison duties in N.E.I.
 
 As it is desired plans be completed at forthcoming Singapore Conference showing complete naval plan for Far East including Forces necessary Indian Ocean and initial disposition of East Indies, China, Australian and New Zealand squadrons, if full information is not now available on this subject my Government strongly presses for supply of information sought in paragraph 2 of my telegram No. 87 of the 12th Feby. [5], on this subject. [6]
 
-_
+ _
 
 1 The date of dispatch has been taken from the copy received in London. See PRO:FO 371/27774.
 
@@ -112,4 +118,4 @@ Singapore Conference Report.
 
 _
 
-_ [AA:A3196, 1941, 0.1986]_
+ _[AA:A3196, 1941, 0.1986]_

@@ -1,12 +1,18 @@
 ---
-title: "147 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 146
+doc_date: '1938-03-20'
+doc_num: 147
+doc_order: 146
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A.
+  Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-20
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 147 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 20 March 1938
 
@@ -22,7 +28,7 @@ With regard to your reference to Abyssinia, we feel circumstances are not all re
 
 I most warmly appreciate in the circumstances of the present moment your expression of Australia's determination to co-operate with the United Kingdom and I am very grateful for your offer of consultation through Mr Bruce [4] on urgent questions as they develop. It is certainly our wish to consult with him to the fullest extent practicable and he had an opportunity to discuss the situation fully with the Foreign Secretary [5] and the Dominions Secretary [6] last Wednesday evening. [7] We shall continue to keep in close touch with him.
 
-_
+ _
 
 1 It is possible that the words 'from Prime Minister' have been omitted at this point.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

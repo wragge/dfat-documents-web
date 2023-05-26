@@ -1,12 +1,19 @@
 ---
-title: "536 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2290
+doc_date: '1942-06-30'
+doc_num: 536
+doc_order: 537
+naa_refs:
+- naa_barcode: 853951
+  naa_control_symbol: '138'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-S.W.P.A.
+    FILE NO. 2]'
+title: Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-30
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 536 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 349 CANBERRA, 30 June 1942
 
@@ -20,7 +27,7 @@ Following for the Prime Minister [1] from the Prime Minister.
 
 3\. There is the most urgent need for the three squadrons and the personnel will be idle until the equipment arrives. We wish to emphasize that the air strength of Australia without the Spitfire squadrons represents a great wastage of personnel and equipment, because of the superiority of the Japanese fighter aircraft over the American types that are at present being used against them. It is desired to develop our maximum striking power as early as possible to combat the Japanese both in offence and defence, and our air power will be greatly enhanced by the Spitfires.
 
-_ S.W.P.A. FILE NO. 2]
+ _
 
 1 Winston Churchill.
 
@@ -32,4 +39,4 @@ _ S.W.P.A. FILE NO. 2]
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-S.W.P.A. FILE NO. 2]_

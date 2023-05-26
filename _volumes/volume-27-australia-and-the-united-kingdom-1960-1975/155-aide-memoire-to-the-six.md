@@ -1,24 +1,27 @@
 ---
-title: "155 AIDE MEMOIRE TO THE SIX"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10020
+doc_date: '1961-09-04'
+doc_num: 155
+doc_order: 155
+naa_refs:
+- naa_barcode: 1669700
+  naa_control_symbol: VOLUME 6
+  naa_series: A3917
+  reference: '[NAA: A3917 VOLUME 6]'
+title: AIDE MEMOIRE TO THE SIX
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-09-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 155 AIDE MEMOIRE TO THE SIX
-
-NAA: A3917 VOLUME 6
 
 Canberra, 4 September 1961
 
 The decision of the United Kingdom Government to embark on negotiations for entry into the European Economic Community is of the greatest consequence not only to the United Kingdom and Western Europe but to countries outside Europe and not least to Australia. For Australia, it is one of the major decisions of our time, which could shape the pattern of our political as well as our trade relations for generations.
 
-2\. Many of the potential consequences of this decision are most welcome to Australia. We have long supported moves towards a strong Western Europe. We are, despite our geographical location, a Western European country not only by origin but also in our traditions and our culture. We believe that a strong Western Europe is one of the great pillars on which the security of the Free World should rest. The communique which was issued at the end of Mr Sandys’ discussions with the Australian Government last month recorded that Australian Ministers ‘saw merit in (European) unity since a continuing division in rival economic groups would be a source of danger and weakness, while a powerful and experienced group of free European nations can do so much to preserve the world’s peace’ .1
+2\. Many of the potential consequences of this decision are most welcome to Australia. We have long supported moves towards a strong Western Europe. We are, despite our geographical location, a Western European country not only by origin but also in our traditions and our culture. We believe that a strong Western Europe is one of the great pillars on which the security of the Free World should rest. The communique which was issued at the end of Mr Sandys’ discussions with the Australian Government last month recorded that Australian Ministers ‘saw merit in (European) unity since a continuing division in rival economic groups would be a source of danger and weakness, while a powerful and experienced group of free European nations can do so much to preserve the world’s peace’ .[1](#f1)
 
 3\. But our concern, and the concern of Western Europe itself must not be exclusively with any particular area but with the whole of the Free World. Consequently, the communique also referred to the emphasis by Ministers that ‘avoidance of a divided Western Europe should not be accomplished at the cost of division within the Commonwealth or elsewhere in the Free World’. We were therefore glad to note that, following the announcement of United Kingdom intention to negotiate, a number of European leaders decreared [sic] that they appreciated the need to maintain in full strength, the Commonwealth of Nations.
 
-4\. The economic effect for Australia of United Kingdom entry into the EEC could be most serious. These effects will need to be discussed in detail during the course of the United Kingdom’s negotiations with the EEC. It is Australia’s wish that, where our interests are directly affected, we should have the opportunity of participating directly in these negotiations to explain our interests and work out with the United Kingdom and EEC ways in which they might be protected. We expect to be taking up this question further with members of the EEC when arrangements for the negotiations are under consideration. However, before the detailed negotiations begin, the Australian Government would like to put before the ...2 Government certain broad considerations which, in the view of the Australian Government, all countries in the Atlantic Community should keep in mind.
+4\. The economic effect for Australia of United Kingdom entry into the EEC could be most serious. These effects will need to be discussed in detail during the course of the United Kingdom’s negotiations with the EEC. It is Australia’s wish that, where our interests are directly affected, we should have the opportunity of participating directly in these negotiations to explain our interests and work out with the United Kingdom and EEC ways in which they might be protected. We expect to be taking up this question further with members of the EEC when arrangements for the negotiations are under consideration. However, before the detailed negotiations begin, the Australian Government would like to put before the ...[2](#f2) Government certain broad considerations which, in the view of the Australian Government, all countries in the Atlantic Community should keep in mind.
 
 5\. Australia is an important outpost of the Western World. In the area east of Suez, it has a marked strategic significance. As a strong, dynamic, self-reliant country, as a member of SEATO and of ANZUS, we are a source of strength to the Western World, particularly in a ‘soft’ area containing many small and neutralist countries which are a prime target of communist ambitions and offer no strong resistance to communist penetration. The political and strategic value of Western allies in this part of the world is to be judged not only by their present power, but also in terms of their reliability, their influence, their example and their potential. Australia has supported the common Western cause positively and energetically many times in the past—during the Berlin airlift and later Berlin crises, in Korea, in Malaya, in our attitudes to the puppet regimes in East Germany and Hungary. In these and many other matters, we have made common cause with the Western World and have the right to be considered as an integral part of it. Our future contribution could be even greater.
 
@@ -37,3 +40,5 @@ The decision of the United Kingdom Government to embark on negotiations for entr
 1 Document 150.
 
 2 Each Australian embassy in Europe was instructed to insert the name of its respective country here.
+
+[NAA: A3917 VOLUME 6]

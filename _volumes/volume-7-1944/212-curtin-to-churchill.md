@@ -1,12 +1,18 @@
 ---
-title: "212 Curtin to Churchill"
-volume: "Volume 7: 1944"
-doc_id: 2859
+doc_date: '1944-07-04'
+doc_num: 212
+doc_order: 212
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941-45, FOLDER, OUTWARDS MOST SECRET AND TOP SECRET MASTER
+    SHEETS. JOHCU AND ARDEN, O.18038/42/43]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-04
+vol_title: 'Volume 7: 1944'
 ---
-
-# 212 Curtin to Churchill
 
 Cablegram Johcu 78 CANBERRA, 4 July 1944
 
@@ -28,7 +34,7 @@ MOST IMMEDIATE MOST SECRET AND PERSONAL FOR MR CHURCHILL
 
 CURTIN
 
-_ MASTER SHEETS. JOHCU AND ARDEN, O.18038/42/43]
+ _
 
 1 Curtin spoke with MacArthur on 26 and 27 June. See Document 206.
 
@@ -40,4 +46,4 @@ _ MASTER SHEETS. JOHCU AND ARDEN, O.18038/42/43]
 
 _
 
-_ [AA:A3196, 1941-45, FOLDER, OUTWARDS MOST SECRET AND TOP SECRET_
+ _[AA:A3196, 1941-45, FOLDER, OUTWARDS MOST SECRET AND TOP SECRET MASTER SHEETS. JOHCU AND ARDEN, O.18038/42/43]_

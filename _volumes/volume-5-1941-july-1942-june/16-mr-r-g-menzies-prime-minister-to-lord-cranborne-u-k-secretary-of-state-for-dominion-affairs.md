@@ -1,12 +1,18 @@
 ---
-title: "16 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1770
+doc_date: '1941-07-25'
+doc_num: 16
+doc_order: 17
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 185B, ii]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-25
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 16 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 477 [1] CANBERRA, 25 July 1941
 
@@ -20,7 +26,7 @@ His Majesty's Government in the Commonwealth of Australia earnestly hopes that y
 
 MENZIES
 
-_
+ _
 
 1 Repeated to the Canadian and South African Prime Ministers and to the N.Z. [Acting] Prime Minister as nos 5, 57 and 279; and to the Ministers to the United States and Japan as nos 80 and 8.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 185B, ii]_
+ _[AA : A981, JAPAN 185B, ii]_

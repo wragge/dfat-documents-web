@@ -1,12 +1,17 @@
 ---
-title: "367 Drakeford to Forde"
-volume: "Volume 7: 1944"
-doc_id: 3014
+doc_date: '1944-12-05'
+doc_num: 367
+doc_order: 367
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/13]'
+title: Drakeford to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-05
+vol_title: 'Volume 7: 1944'
 ---
-
-# 367 Drakeford to Forde
 
 Cablegram 19 CHICAGO, 5 December 1944, 4.43 a.m.
 
@@ -28,7 +33,7 @@ Consequently, you may think it essential to give this question further considera
 
 In the circumstances I should be glad of instructions as to whether I should sign document (c) or not. [5]
 
-_
+ _
 
 1 An unnumbered cablegram dated 1 December and bearing the handwritten annotation '16?' is on file AA:A989, 735/832/13.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A989, 44/735/832/13]_
+ _[AA:A989, 44/735/832/13]_

@@ -1,13 +1,17 @@
 ---
-title: "221 Minutes of Meeting of Prime Ministers"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3733
+doc_date: '1946-04-29'
+doc_num: 221
+doc_order: 221
+naa_refs:
+- naa_barcode: 694890
+  naa_control_symbol: '3'
+  naa_series: A6712
+  reference: '[AA:A6712, [3]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-29
-barcode: 694890
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 221 Minutes of Meeting of Prime Ministers
 
 PMM(46) 7th Meeting LONDON, 29 April 1946, 3.30 p.m.
 
@@ -57,8 +61,8 @@ He agreed with Dr. Evatt that, on the defence aspect, the new arrangements were 
 
 FIELD-MARSHAL SMUTS said that he hoped that Dr. Evatt and Mr. Nash were right in this view. He could not himself help wondering whether it would be possible to keep these territories permanently barred against immigration from China and Japan. There was, of course, no question of immigration from Japan at the moment, but eventually Japan would emerge from her present subjection. China was a Great Power and would herself be on the Trusteeship Council.
 
-_
+ _
 
 _
 
-_ [ [AA:A6712, [3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=694890) ]_
+ _[AA:A6712, [3]]_

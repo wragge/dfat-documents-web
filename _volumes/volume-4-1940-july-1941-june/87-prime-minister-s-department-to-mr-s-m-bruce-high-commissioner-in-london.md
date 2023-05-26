@@ -1,20 +1,25 @@
 ---
-title: "87 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1318
+doc_date: '1940-08-30'
+doc_num: 87
+doc_order: 87
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, [0.16217]'
+title: Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-30
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 87 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 30 August 1940,
+Cablegram unnumbered 30 August 1940,
 
 Canned fruits. Position in relation to unsold portion last pack is most embarrassing. Industry here knows that United Kingdom imported very large quantities canned fruits from United States in 1939-40 and then shut down on Australia. They consider Commonwealth Government indifferent to needs of industry. Unsold stocks are embarrassment to market and next canning season will present serious problem if no export outlet. Industry here repeats charges that United Kingdom advisers apparently more favourably disposed to imports from United States. Is it impossible to induce Food Ministry to reply to our request for undertaking not to import canned fruits from United States? [1] If they are prepared to do so will they revise policy regarding import from Australia.
 
 [2]
 
-_
+ _
 
 1 This request was contained in a cablegram dispatched to Bruce on 7 August and repeated in a cablegram dispatched on 29 August.
 
@@ -28,4 +33,4 @@ Ministry of Food would permit the entry of any canned fruit for which shipping s
 
 _
 
-_ [AA:A3196, 1940, [0.16217]_
+ _[AA:A3196, 1940, [0.16217]_

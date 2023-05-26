@@ -1,14 +1,17 @@
 ---
-title: "393 NOTE FOR FILE BY BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10259
+doc_date: '1972-08-14'
+doc_num: 393
+doc_order: 393
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA: A1209, 1971/9449 PART 2]'
+title: NOTE FOR FILE BY BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-08-14
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 393 NOTE FOR FILE BY BUNTING
-
-NAA: A1209, 1971/9449 PART 2 
 
 Canberra, 14 August 1972
 
@@ -53,3 +56,5 @@ The Prime Minister called me into his office about 12.30pm. The Minister for For
 20\. I said I mentioned it because the Prime Minister had asked. I still put the matter on the first point—the wisdom of having a Permanent Head in London as number two.
 
 21\. The Prime Minister said that he would not be prepared to sign the letter as I had drafted it but there could be a paragraph which left the matter for further determination.
+
+[NAA: A1209, 1971/9449 PART 2]

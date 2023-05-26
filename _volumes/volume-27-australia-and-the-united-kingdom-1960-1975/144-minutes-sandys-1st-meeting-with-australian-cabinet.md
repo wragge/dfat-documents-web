@@ -1,20 +1,23 @@
 ---
-title: "144 MINUTES, SANDYS’ 1ST MEETING WITH AUSTRALIAN CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10009
+doc_date: '1961-07-08'
+doc_num: 144
+doc_order: 144
+naa_refs:
+- naa_barcode: 584008
+  naa_control_symbol: 727/4/2 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 1]'
+title: MINUTES, SANDYS’ 1ST MEETING WITH AUSTRALIAN CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 144 MINUTES, SANDYS’ 1ST MEETING WITH AUSTRALIAN CABINET
-
-NAA: A1838, 727/4/2 PART 1
 
 Canberra, 8 July 1961
 
 Secret
 
-****
+ ****
 
 The United Kingdom and European Economic Community Consultations
 
@@ -22,7 +25,7 @@ The United Kingdom and European Economic Community Consultations
 
 2\. Mr Sandys agreed that it was convenient to consider the political and the economic aspects separately. It was agreed that at the first session the political aspects could be dealt with, followed in later sessions by consideration of the economic aspects. It might be appropriate at a later stage to have officials consider some of the more detailed effects of the United Kingdom’s entry into the European Community on Commonwealth Commodity trade.
 
-3\. Mr Sandys then summarised the United Kingdom’s view on the political considerations, a detailed statement of which is included in paragraphs 1 to 42 of the appendix to this record.2
+3\. Mr Sandys then summarised the United Kingdom’s view on the political considerations, a detailed statement of which is included in paragraphs 1 to 42 of the appendix to this record.[2](#f2)
 
 4\. Commenting on Mr Sandys’ statement, the Prime Minister referred to the distinction which Mr Sandys had drawn between the way in which the European Community might develop with the United Kingdom outside it and what might be expected if the United Kingdom were to join. He raised the question of whether economic development in the Community would not in fact mean more and more political cohesion until finally the Community would be regarded not as a group of a number of individual countries but rather as a single world power. He felt that there would be strong centripetal tendencies and asked whether these same influences would not operate with equal effect if the United Kingdom were also a member.
 
@@ -56,7 +59,7 @@ The United Kingdom and European Economic Community Consultations
 
 19\. As to the possibility of influencing France, which Mr McEwen had seriously questioned, Mr Sandys said that probably if the United Kingdom were negotiating with France alone, this would be impossible. But it must be remembered that the United Kingdom would be negotiating with the Six generally, and not with France alone.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 21\. In answer to further questions by Mr McEwen and Mr Hasluck, Mr Sandys said that he felt that as far as the political side goes the balance was much in favour of United Kingdom entry. The economic side brought up other considerations. But he felt convinced of the political wisdom. It was not a case of moving into closer association with Europe as a result of a declining Commonwealth position in the world; the Commonwealth and the United Kingdom role in the Commonwealth remained undiminished. He saw no conflict between the United Kingdom’s Commonwealth role and the European role it may decide to assume. On the contrary, membership of the European Economic Community would provide the United Kingdom with the opportunity to help shape events in line with Commonwealth ideas. The United Kingdom outside the Community would not be in a position to do this.
 
@@ -67,3 +70,5 @@ The meeting concluded at 1.05 pm.
 1 Sandys was accompanied in all of his meetings in Canberra by the British High Commissioner, Sir William Oliver, Sir Henry Lintott (CRO), Eric Roll (MAFF), Bill Hughes (Board ofTrade), and F. Mills (Private Secretary).
 
 2 See NAA: A1838, 727/4/2 part 1.
+
+[NAA: A1838, 727/4/2 PART 1]

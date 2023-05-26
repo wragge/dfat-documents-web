@@ -1,14 +1,17 @@
 ---
-title: "282 CABLEGRAM, DOWNER TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10147
+doc_date: '1971-06-10'
+doc_num: 282
+doc_order: 282
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: M1003
+  reference: '[NAA: M1003]'
+title: CABLEGRAM, DOWNER TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-10
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 282 CABLEGRAM, DOWNER TO MCMAHON
-
-NAA: M1003 
 
 London, 10 June 1971
 
@@ -18,7 +21,7 @@ London, 10 June 1971
 
 Last night at the Foreign Secretary’s annual Diplomatic Banquet amidst the splendours of Hampton Court I had a revealing, and highly spirited, discussion with Rippon, and a much friendlier one beforehand with Ted Heath.
 
-Rippon is angered by Anthony’s recent public statement that Britain has let Australia down in the negotiations.1 He was also highly critical of Bjelke-Petersen’s2 statement last week as it appeared in the Press here.
+Rippon is angered by Anthony’s recent public statement that Britain has let Australia down in the negotiations.[1](#f1) He was also highly critical of Bjelke-Petersen’s[2](#f2) statement last week as it appeared in the Press here.
 
 He was not complaining about the Australian Cabinet as such; their attitude had been reasonably understanding; it was Anthony and, he supposed, the views of the Country Party, to which he objected.
 
@@ -40,7 +43,7 @@ I observed that what worried me, and many of my countrymen, was the long term ef
 
 We concluded by a discussion on Anthony. I told Rippon Anthony was absolutely genuine, a man of high quality, no mere politician, who sincerely believed in the views he publicly expressed. Rippon asked me not to repeat this conversation to Anthony, but I will give him an outline when he arrives next week. In view of the foregoing, will you please protect all this.
 
-2\. Later in the evening, I encountered Fred Peart, who you will remember as a senior Minister in Wilson’s Government.3 Peart is an anti-Marketeer. He said that Rippon had had a rough time in the House during the afternoon from both sides. He added that at a meeting of the Parliamentary Labour Party that day it was clear that the Party was moving rapidly towards opposition to the terms as negotiated by Heath and Rippon. I asked him how he could reconcile this with the Roy Jenkins group,4 and the 100 Labour members who supported him. Peart replied that they were drifting away from their earlier position, and he believed that when the time came for the critical vote the Marketeers in the Labour Party would be reduced to 20.
+2\. Later in the evening, I encountered Fred Peart, who you will remember as a senior Minister in Wilson’s Government.[3](#f3) Peart is an anti-Marketeer. He said that Rippon had had a rough time in the House during the afternoon from both sides. He added that at a meeting of the Parliamentary Labour Party that day it was clear that the Party was moving rapidly towards opposition to the terms as negotiated by Heath and Rippon. I asked him how he could reconcile this with the Roy Jenkins group,[4](#f4) and the 100 Labour members who supported him. Peart replied that they were drifting away from their earlier position, and he believed that when the time came for the critical vote the Marketeers in the Labour Party would be reduced to 20.
 
 Peart has never been in favour of the EEC ‘You know where I stand’, he said. But there may well be a good deal of wishful thinking in these views.
 
@@ -53,3 +56,5 @@ Peart has never been in favour of the EEC ‘You know where I stand’, he said.
 3  Minister for Agriculture, Fisheries and Food, 1964–68. 
 
 4  Of pro-marketeers. 
+
+[NAA: M1003]

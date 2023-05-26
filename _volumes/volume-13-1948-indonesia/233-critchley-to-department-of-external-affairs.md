@@ -1,11 +1,17 @@
 ---
-title: "233 Critchley to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5500
+doc_date: '1948-09-05'
+doc_num: 233
+doc_order: 233
+naa_refs:
+- naa_barcode: 550484
+  naa_control_symbol: 403/3/1/1 PART 18
+  naa_series: A1838
+  reference: '[AA:A1838, 403/1/1, xviii]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 233 Critchley to Department of External Affairs
 
 Cablegram K154 [KALIURANG, 5] September 1948
 
@@ -39,7 +45,7 @@ and who are not keen on fus[ion] with the Communists.
 
 8\. Recent statements from The Hague make it appear unlikely that the Netherlands proposals will, in fact, be satisfactory. They suggest, for example, that the Dutch proposals for a Union will compromise Indonesian sovereignty. If the Republic rejects the Dutch proposals, there would then be a final opportunity for the Committee to take the initiative and make proposals for a settlement. I believe th[at] the Americans would come with us at that stage in making a last attempt to foster an agreeable basis.
 
-_
+ _
 
 1 See note 4 to Document 228. Cablegram K152 was also dispatched to the Australian Legation in The Hague via London on 27 August as Cablegram 78.
 
@@ -51,4 +57,4 @@ _
 
 _
 
-_ [AA:A1838, 403/1/1, xviii]_
+ _[AA:A1838, 403/1/1, xviii]_

@@ -1,14 +1,19 @@
 ---
-title: "131 Eggleston to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2422
+doc_date: '1943-03-03'
+doc_num: 131
+doc_order: 131
+naa_refs:
+- naa_barcode: 12083266
+  naa_control_symbol: 1944/305/2 PART 1
+  naa_series: A989
+  reference: '[AA:A989, 43-44/305/2, i]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-03-03
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 131 Eggleston to Evatt
-
-## Letter CHUNGKING, 3 March 1943 PERSONAL AND CONFIDENTIAL
+Letter CHUNGKING, 3 March 1943 PERSONAL AND CONFIDENTIAL
 
 I received your Telegram No. SC.6 [1] but I am afraid there has been some misunderstanding which must have occurred through the inadequacy of our telegrams in explaining the matter to you. In the circumstances, I considered it proper to send you my Telegram No. S.32 of the 28th February. [2] It is clearly the duty of a diplomat, if he believes that an instruction is given on a misunderstanding of the facts, to clear up this misunderstanding before proceeding.
 
@@ -58,7 +63,7 @@ What I am trying to avoid is the complication of the situation by suspicion and 
 
 F. W. EGGLESTON
 
-_ 1 Document 125.
+ _1 Document 125.
 
 2 On file AA:A989, 43/735/313. It suggested that the instructions contained in the second paragraph of Document 125 were based on a misconception of the situation and stressed the importance of the Commonwealth Govt renouncing all extraterritorial rights.
 
@@ -78,4 +83,4 @@ _ 1 Document 125.
 
 _
 
-_ [AA:A989, 43-44/305/2, i]_
+ _[AA:A989, 43-44/305/2, i]_

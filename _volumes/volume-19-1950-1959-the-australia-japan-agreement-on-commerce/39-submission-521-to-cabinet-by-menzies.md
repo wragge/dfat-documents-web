@@ -1,14 +1,19 @@
 ---
-title: "39 Submission 521 To Cabinet By Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7644
+doc_date: '1953-08-11'
+doc_num: 39
+doc_order: 39
+naa_refs:
+- naa_barcode: 4678665
+  naa_control_symbol: '521'
+  naa_series: A4905
+  reference: '[AA : A4905/1]'
+title: Submission 521 To Cabinet By Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-08-11
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 39 Submission 521 To Cabinet By Menzies
-
-## 11th August, 1953
+11th August, 1953
 
 Eighth Session of the Contracting Parties to G.A.T.T.
 
@@ -212,10 +217,10 @@ Section G.-Japanese Peace Treaty 30. Under the Japanese Peace Treaty Japan is ob
 
 However, such action is unlikely while the G.A.T.T. question is unresolved. This matter is mentioned here as providing relevant background to the G.A.T.T. issues but the Interdepartmental Committee considers that for the present a specific reply to Japan is not needed.
 
-_
+ _
 
 1 See Document 16.
 
 _
 
-_ [AA : A4905/1]_
+ _[AA : A4905/1]_

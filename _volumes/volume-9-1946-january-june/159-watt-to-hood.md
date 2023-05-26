@@ -1,12 +1,17 @@
 ---
-title: "159 Watt to Hood"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3671
+doc_date: '1946-04-01'
+doc_num: 159
+doc_order: 159
+naa_refs:
+- naa_barcode: 194073
+  naa_control_symbol: UN46/IT/1/1
+  naa_series: A1067
+  reference: '[AA:A1067, UN46/1T/1/1]'
+title: Watt to Hood
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-01
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 159 Watt to Hood
 
 Cablegram 220 CANBERRA, 1 April 1946
 
@@ -18,7 +23,7 @@ It would appear desirable to take some care, as regards Dominions Office Meeting
 
 Frank interchange of views from time to time may be valuable, but frequent meetings which might have effect of persistent pressure to secure complete agreement could become embarrassing.
 
-_
+ _
 
 1 Document 158.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A1067, UN46/1T/1/1]_
+ _[AA:A1067, UN46/1T/1/1]_

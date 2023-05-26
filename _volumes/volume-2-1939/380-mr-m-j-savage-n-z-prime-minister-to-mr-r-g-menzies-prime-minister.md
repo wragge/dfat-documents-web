@@ -1,12 +1,17 @@
 ---
-title: "380 Mr M.J. Savage, N.Z. Prime Minister, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 717
+doc_date: '1939-11-23'
+doc_num: 380
+doc_order: 380
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 35]'
+title: Mr M.J. Savage, N.Z. Prime Minister, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-23
+vol_title: 'Volume 2: 1939'
 ---
-
-# 380 Mr M.J. Savage, N.Z. Prime Minister, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered WELLINGTON, 23 November 1939, 3 a.m.
 
@@ -22,7 +27,7 @@ May I assure you that no troops will leave New Zealand until we are completely s
 
 PRIME MINISTER
 
-_
+ _
 
 1 Document 378.
 
@@ -36,4 +41,4 @@ the same afternoon. See AA: A981, New Zealand 1.
 
 _
 
-_ [AA: CP 290/6, ITEM 35]_
+ _[AA: CP 290/6, ITEM 35]_

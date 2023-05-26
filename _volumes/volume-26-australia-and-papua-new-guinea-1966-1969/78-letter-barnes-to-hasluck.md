@@ -1,17 +1,21 @@
 ---
-title: "78 Letter, Barnes To Hasluck"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9586
+doc_date: '1966-10-25'
+doc_num: 78
+doc_order: 78
+naa_refs:
+- naa_barcode: 546781
+  naa_control_symbol: 936/1/3
+  naa_series: A1838
+  reference: '[NAA: A1838, 936/1/3]'
+title: Letter, Barnes To Hasluck
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-10-25
-barcode: 546781
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 78 Letter, Barnes To Hasluck
 
 Canberra, 25 October 1966
 
-I have received the letter which you sent me on 7th July1 together with a copy of the report of the Sub-Committee of the Joint Committee on Foreign Affairs2 after its visit to Papua and New Guinea.3
+I have received the letter which you sent me on 7th July[1](#f1) together with a copy of the report of the Sub-Committee of the Joint Committee on Foreign Affairs[2](#f2) after its visit to Papua and New Guinea.[3](#f3)
 
 I would be glad if you would convey to the Committee my appreciation for their report. I concur with the views of the Committee in many respects but there are points of difference. In particular I do not agree that at the present stage of the economic and political development of Papua and New Guinea it is in the best interests of the Territory or of Australia to try to determine the ultimate constitutional goal or the precise form of association that may be appropriate.
 
@@ -19,13 +23,13 @@ It is, of course, extremely difficult during the course of a fortnight’s visit
 
 Nevertheless because the interest of the various organs of the United Nations, and of foreign countries, in the Territory is clearly growing, I am glad that the Sub-Committee of the Foreign Affairs Committee should have paid this visit to Papua and New Guinea.
 
-[ [NAA: A1838, 936/1/3](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=546781) ]
+[NAA: A1838, 936/1/3]
 
-**Bougainville copper: negotiations between the Commonwealth and CRA**
+ **Bougainville copper: negotiations between the Commonwealth and CRA**
 
-_Following talks of February and March, 1 Commonwealth and CRA representatives met in June, August and October to continue negotiations on an agreement to cover mining in Bougainville. 2 Dialogue was at times tense, with the company commenting in August that it had been ‘disappointed with the tenor of the discussions and felt that [CRA’s] high rate of past expenditure [on the island] had militated against good conditions ... [it] had regarded the whole negotiations as a package deal in which the value of the whole to the Territory should be considered ... It was felt that some of the terms suggested to them bore little evidence of realisation of this’. 3_
+ _Following talks of February and March,[1](#f_243_1) Commonwealth and CRA representatives met in June, August and October to continue negotiations on an agreement to cover mining in Bougainville. [2](#f_243_2) Dialogue was at times tense, with the company commenting in August that it had been ‘disappointed with the tenor of the discussions and felt that [CRA’s] high rate of past expenditure [on the island] had militated against good conditions ... [it] had regarded the whole negotiations as a package deal in which the value of the whole to the Territory should be considered ... It was felt that some of the terms suggested to them bore little evidence of realisation of this’. [3](#f_243_3)_
 
-_Negotiations were also affected by time constraints, with Warwick Smith explaining to Treasury that ‘We are under pressure to complete negotiations as early as possible in order to finalise all formalities including the passage of Territory legislation before the next Territory election in 1968’.4 Specifically, it was thought that agreement would have to be reached with CRA in time for a first and second reading of the draft in the House during March 1967. In the words of a Territories officer, this would avoid ‘seeming to “:steam roller” it through [the] House’ at the eleventh hour. 5_
+ _Negotiations were also affected by time constraints, with Warwick Smith explaining to Treasury that ‘We are under pressure to complete negotiations as early as possible in order to finalise all formalities including the passage of Territory legislation before the next Territory election in 1968’.[4](#f_243_4) Specifically, it was thought that agreement would have to be reached with CRA in time for a first and second reading of the draft in the House during March 1967. In the words of a Territories officer, this would avoid ‘seeming to “:steam roller” it through [the] House’ at the eleventh hour. [5](#f_243_5)_
 
 1  Hasluck asked Barnes for any views he might have on the report under reference (NAA: A1838, 561/6/1 0). 
 
@@ -41,4 +45,4 @@ _Negotiations were also affected by time constraints, with Warwick Smith explain
 
 4  Memorandum, DOT (Ahrens) to Treasury, 27 October 1966, NAA: A452, 1966/5530. 
 
-5  Minute, A. Geoghegan (Investigation Officer, Economic Policy Section, DOT) to I.R. Grigor (OIC, Economic Policy Section, DOT), October 1966 (exact date unknown), ibid. 
+5  Minute, A. Geoghegan (Investigation Officer, Economic Policy Section, DOT) to I.R. Grigor (OIC, Economic Policy Section, DOT), October 1966 (exact date unknown), ibid.

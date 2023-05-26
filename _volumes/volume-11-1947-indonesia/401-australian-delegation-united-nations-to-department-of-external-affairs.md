@@ -1,12 +1,17 @@
 ---
-title: "401 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4585
+doc_date: '1947-11-01'
+doc_num: 401
+doc_order: 401
+naa_refs:
+- naa_barcode: 550475
+  naa_control_symbol: 403/3/1/1 PART 12
+  naa_series: A1838
+  reference: '[AA:A1838/283, 403/3/1/1/, xii]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-11-01
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 401 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram UN1062 NEW YORK, 1 November 1947, 11.50 p.m.
 
@@ -42,7 +47,7 @@ Polish resolution was then put to vote. Poland and Soviet Union voted for; Unite
 
 Council then adjourned.
 
-_
+ _
 
 1 Document 402.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:A1838/283, 403/3/1/1/, xii]_
+ _[AA:A1838/283, 403/3/1/1/, xii]_

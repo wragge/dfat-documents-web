@@ -1,12 +1,17 @@
 ---
-title: "161 Draft Full Cabinet Submission by Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1392
+doc_date: '1940-10-07'
+doc_num: 161
+doc_order: 161
+naa_refs:
+- naa_barcode: 172905
+  naa_control_symbol: AUS 90 PART 2
+  naa_series: A981
+  reference: '[AA:A981, AUSTRALIA 90B,ii]'
+title: Draft Full Cabinet Submission by Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 161 Draft Full Cabinet Submission by Department of External Affairs
 
 7 October 1940
 
@@ -50,7 +55,7 @@ The export of scrap to Japan has shown an increase since May. The figures are as
 
 In other words, there are strong political reasons for Australia acting along parallel lines with the United Kingdom and United States Governments to ensure, in the present situation, that Japan is denied commodities vital for war purposes. [3]
 
-_
+ _
 
 1 See Documents on Australian Foreign Policy 1937-49, vol. III, Document 221, note 4.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [AA:A981, AUSTRALIA 90B,ii]_
+ _[AA:A981, AUSTRALIA 90B,ii]_

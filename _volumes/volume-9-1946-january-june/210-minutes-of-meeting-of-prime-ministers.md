@@ -1,14 +1,19 @@
 ---
-title: "210 Minutes of Meeting of Prime Ministers"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3722
+doc_date: '1946-04-25'
+doc_num: 210
+doc_order: 210
+naa_refs:
+- naa_barcode: 694890
+  naa_control_symbol: '3'
+  naa_series: A6712
+  reference: '[AA:A6712,[3]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-barcode: 694890
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 210 Minutes of Meeting of Prime Ministers
-
-PMM(46) 4th Meeting LONDON, 25 April 946, 3.30 p.m.
+PMM(46) 4th Meeting LONDON, 25 April 1946, 3.30 p.m.
 
 TOP SECRET
 
@@ -162,7 +167,7 @@ There was general agreement with this view.
 
 MR. CHIFLEY said that, as in the case of the memorandum on Organisation for Defence (P.M.M.(46)4), it would not be possible for Australian Ministers to commit themselves finally regarding any proposals without discussion with their advisers and fellow Ministers in Australia. Nevertheless, he agreed that further discussions would be of value in clearing the ground.
 
-_
+ _
 
 1 Document 207.
 
@@ -176,4 +181,4 @@ _
 
 _
 
-_ [ [AA:A6712,[3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=694890) ]_
+ _[AA:A6712,[3]]_

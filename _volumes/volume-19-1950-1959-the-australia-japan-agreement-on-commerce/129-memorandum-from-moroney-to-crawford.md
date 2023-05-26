@@ -1,14 +1,19 @@
 ---
-title: "129 Memorandum From Moroney To Crawford"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7734
+doc_date: '1956-05-15'
+doc_num: 129
+doc_order: 129
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A609
+  reference: '[AA : A609/1, 555/120/22]'
+title: Memorandum From Moroney To Crawford
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1956-05-15
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 129 Memorandum From Moroney To Crawford
-
-## 15th May, 1956
+15th May, 1956
 
 CANBERRA
 
@@ -36,10 +41,10 @@ SUGAR: The Japanese have arranged for the purchase of an additional 25,000 tons 
 
 The export sugar position is of course protected at the moment by the British Commonwealth Sugar Agreement.
 
-_
+ _
 
 1 Document 130.
 
 _
 
-_ [AA : A609/1, 555/120/22]_
+ _[AA : A609/1, 555/120/22]_

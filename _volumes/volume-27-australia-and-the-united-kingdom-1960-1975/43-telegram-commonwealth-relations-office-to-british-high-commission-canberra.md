@@ -1,14 +1,17 @@
 ---
-title: "43 TELEGRAM, COMMONWEALTH RELATIONS OFFICE TO BRITISH HIGH COMMISSION, CANBERRA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9908
+doc_date: '1965-11-19'
+doc_num: 43
+doc_order: 43
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 13/889]'
+title: TELEGRAM, COMMONWEALTH RELATIONS OFFICE TO BRITISH HIGH COMMISSION, CANBERRA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-11-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 43 TELEGRAM, COMMONWEALTH RELATIONS OFFICE TO BRITISH HIGH COMMISSION, CANBERRA
-
-UKNA: PREM 13/889
 
 London, 19 November 1965
 
@@ -16,7 +19,7 @@ London, 19 November 1965
 
 Please pass the following message with date 19 November from the Prime Minister to Sir Robert Menzies:
 
-Thank you for your message which your High Commissioner gave me on 22 October.1 I was glad to have such a considered statement of your personal views on our common defence interests.
+Thank you for your message which your High Commissioner gave me on 22 October.[1](#f1) I was glad to have such a considered statement of your personal views on our common defence interests.
 
 2\. Most certainly our Defence Review is being made in a world-wide context. We have recognised the vital importance of maintaining effective and relevant Western defence machinery for dealing with the threats which face us all outside Europe and, above all, in South East Asia, and for that reason we have taken many months over the Review.
 
@@ -29,3 +32,5 @@ Thank you for your message which your High Commissioner gave me on 22 October.1 
 6\. I am letting Holyoake and the Americans know of my reply.
 
 1  See Document 42.
+
+[UKNA: PREM 13/889]

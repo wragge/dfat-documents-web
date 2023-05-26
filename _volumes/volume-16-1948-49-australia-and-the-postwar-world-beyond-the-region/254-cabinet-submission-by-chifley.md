@@ -1,12 +1,17 @@
 ---
-title: "254 Cabinet Submission by Chifley"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6969
+doc_date: '1949-06-10'
+doc_num: 254
+doc_order: 254
+naa_refs:
+- naa_barcode: 227908
+  naa_control_symbol: VOLUME 38
+  naa_series: A2700
+  reference: '[AA : A2700, VOL. 38]'
+title: Cabinet Submission by Chifley
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1949-06-10
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 254 Cabinet Submission by Chifley
 
 Agendum 1608, CANBERRA, 10 June 1949
 
@@ -24,7 +29,7 @@ INTERNATIONAL ECONOMIC DEVELOPMENT PROGRAMME 1. The United Nations and five othe
 
 i. Australia supports the general principle of international organisations being responsible for allocating international aid and will participate in the programme, subject to various conditions about the size and nature of the commitments in finance and personnel, and the direction of the aid. Australian policy should be as set out below and as elaborated in more details in paragraph 8 (pages 5-11 inclusive) of the attached agreed inter-departmental report.
 
-ii. Australia will agree to contribute in 1950, in Australian currency or sterling or equivalent supplies and facilities, up to �200,000 towards the supplementary operational programmes of the United Nations and five specialised agencies listed[1], subject to ministerial reconsideration if the total assessments on Australia appear likely to exceed this figure.
+ii. Australia will agree to contribute in 1950, in Australian currency or sterling or equivalent supplies and facilities, up to £200,000 towards the supplementary operational programmes of the United Nations and five specialised agencies listed[1], subject to ministerial reconsideration if the total assessments on Australia appear likely to exceed this figure.
 
 iii. Australian representatives should stress the need for a reasonable allocation to the South Pacific and South East Asia areas to which Australia's contributions will be directed as far as practicable.
 
@@ -48,10 +53,10 @@ viii. If Australia has to supply personnel for work with international organisat
 
 (The attached document, agreed upon between the departments mentioned above, gives in greater detail the grounds of these recommendations).[2]
 
-_ [1] That is, the agencies listed in note 3 to Document 252 with the addition of the International Civil Aviation Organization.
+ _[1] That is, the agencies listed in note 3 to Document 252 with the addition of the International Civil Aviation Organization.
 
 [2] Cabinet discussed the agendum on 14 June, 26 July and 19 August 1949 but decided on each occasion to defer the matter. It does not appear to have been considered again by the Chifley Cabinet.
 
 _
 
-_ [AA : A2700, VOL. 38]_
+ _[AA : A2700, VOL. 38]_

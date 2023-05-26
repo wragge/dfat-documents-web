@@ -1,12 +1,18 @@
 ---
-title: "381 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2135
+doc_date: '1942-02-27'
+doc_num: 381
+doc_order: 382
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.8675]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-27
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 381 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram P56 LONDON, 27 February 1942, 4.27 p.m.
 
@@ -22,7 +28,7 @@ Following my P. 54 [1] I desire to comment on the points made in paragraph 10 of
 
 (4) My views on this question were expressed two years ago very plainly and they have not changed. Now, however, we have to face the facts that our Australian troops are just at the right spot and at the very moment to save a vital link in Australia's outer defences and lines of communication. While they do this important life-saving job for a month an offer is made to Australia to substitute the same number of American troops to take their place.
 
-_ American forces for Australia's defence.
+ _American forces for Australia's defence.
 
 (5) Everyone agrees that Australia is the main base and must be held. This point is proved beyond question in my P. 54. To hold Australia and use it as a main base, we must be able to get equipment and munitions out by every available route. For that reason not numerous geographical centres but Ceylon, the only refitting and refuelling base in the Indian Ocean, is vital to Australian and Empire defence.
 
@@ -54,4 +60,4 @@ PAGE
 
 _
 
-_ [3] A month later Australia would have both these Australian and_
+ _[3] A month later Australia would have both these Australian and_

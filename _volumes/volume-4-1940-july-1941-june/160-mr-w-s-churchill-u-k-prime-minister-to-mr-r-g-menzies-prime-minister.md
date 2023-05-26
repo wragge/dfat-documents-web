@@ -1,12 +1,17 @@
 ---
-title: "160 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1391
+doc_date: '1940-10-06'
+doc_num: 160
+doc_order: 160
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:DO 114/113]'
+title: Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-06
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 160 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 6 October 1940
 
@@ -16,7 +21,7 @@ I am deeply grateful for your generous message. [1] Forgive me if I responded to
 
 This should give a good chance to General Wilson [2], who is reputed a fine tactician, and the excellent troops he has. The Londoners are standing up magnificently to the bombing, but you can imagine the numerous problems which a ruthless attack like this upon a community of 8 million people creates for the administration. We are getting the better of our difficulties and I feel confident that the act of mass terror which Hitler has attempted will fail, like his magnetic mines and other deadly schemes. All good wishes personally for yourself
 
-_
+ _
 
 1 Document 158. On 8 October Bruce cabled to Menzies: 'I gather that your quite admirable cable has had an excellent effect.' See cablegram 894 On file AA:A1608, A41/1/1, xiv.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [PRO:DO 114/113]_
+ _[PRO:DO 114/113]_

@@ -1,20 +1,23 @@
 ---
-title: "195 MESSAGE, MENZIES TO SANDYS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10060
+doc_date: '1962-07-28'
+doc_num: 195
+doc_order: 195
+naa_refs:
+- naa_barcode: 584018
+  naa_control_symbol: 727/4/2 PART 3
+  naa_series: A1838
+  reference: '[NAA: A 1838, 727/4/2 PART 3]'
+title: MESSAGE, MENZIES TO SANDYS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-07-28
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 195 MESSAGE, MENZIES TO SANDYS
-
-NAA: A 1838, 727/4/2 PART 3
 
 Canberra, 28 July 1962
 
 Confidential
 
-It is apparent from your messages of the 23rd and 24th July, that you expect the negotiations with the Six to move pretty quickly now.1
+It is apparent from your messages of the 23rd and 24th July, that you expect the negotiations with the Six to move pretty quickly now.[1](#f1)
 
 We have noted your assessment of the prospects and possibilities. I do not wish to discuss that assessment in detail but there are some comments I wish to make about the situation as a whole.
 
@@ -28,12 +31,14 @@ It is apparent that the details of what your joining the Common Market will mean
 
 The same kind of principles I have referred to above in connection with world solutions could be spelled out to apply as a commitment in respect of individual commodity safeguards in the transitional period.
 
-Given a sufficient and satisfactory elaboration of principles to which you and the Six would be pledged in connection with both transitional and perrnanent solutions, it is possible that the question of preferences could in itself become of less importance. Given no such clear commitment to principles and objectives, any proposition of decalage2 could only be regarded as completely failing to protect our interests.
+Given a sufficient and satisfactory elaboration of principles to which you and the Six would be pledged in connection with both transitional and perrnanent solutions, it is possible that the question of preferences could in itself become of less importance. Given no such clear commitment to principles and objectives, any proposition of decalage[2](#f2) could only be regarded as completely failing to protect our interests.
 
-If you are able to emerge from these negotiations with a thoroughly satisfactory declaration of the intentions, principles and objectives of yourselves and the Six to which you and the Six are prepared to commit yourselves, then its effect, from our point of view, would be enhanced by American support—if they could be brought to support it strongly as offering a basis for ensuring safeguards for their trade problems. Recent talks which our officials have had with them suggest that this might be both possible and desirable.3
+If you are able to emerge from these negotiations with a thoroughly satisfactory declaration of the intentions, principles and objectives of yourselves and the Six to which you and the Six are prepared to commit yourselves, then its effect, from our point of view, would be enhanced by American support—if they could be brought to support it strongly as offering a basis for ensuring safeguards for their trade problems. Recent talks which our officials have had with them suggest that this might be both possible and desirable.[3](#f3)
 
 1 Document 194.
 
 2 From ‘decalage’, the French term used in the Brussels negotiations for phasing out Commonwealth preferences in the UK.
 
 3 Documents 199 and 200.
+
+[NAA: A 1838, 727/4/2 PART 3]

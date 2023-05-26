@@ -1,20 +1,27 @@
 ---
-title: "251 Submission by Norrish to Cooper"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9120
+doc_date: '1982-08-06'
+doc_num: 251
+doc_order: 251
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission by Norrish to Cooper
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-08-06
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 251 Submission by Norrish to Cooper
-
-## Wellington, 6 August 1982
+Wellington, 6 August 1982
 
 **South Pacific Forum: Discussions with Mr Street**
 
-  1. Although Mr Street was unable to accept your invitation to visit New Zealand prior to the Forum,1 it seems likely from the Forum programme that there will be time available, should either of you wish to discuss matters of current interest in the Australia/New Zealand bilateral relationship.
+  1. Although Mr Street was unable to accept your invitation to visit New Zealand prior to the Forum,[1](#f1) it seems likely from the Forum programme that there will be time available, should either of you wish to discuss matters of current interest in the Australia/New Zealand bilateral relationship.
   2. If that opportunity presents itself you may wish to draw upon the following material:
-    1. _Closer Economic Relations_
+    1.  _Closer Economic Relations_
 
 Officials have recommended to Mr Muldoon that, if time permits, he should review the state of play in CER with Mr Fraser. In particular we are concerned by reports that there may be a growing willingness on Mr Fraser's part, in response to pressure from State governments and parts of Australian industry, to extend the consultation process in Australia by a month (ie into early September) and perhaps for a further full round of negotiations after that, with the inference that some of the fundamental aspects of the package, notably terminal dates for import licensing and export incentives could be re-opened. As the Prime Minister has said already, the attitude of the New Zealand Government is that the Exposure Draft represents an agreed and balanced package to which New Zealand could contemplate only limited amendments arising from the consultation period. Furthermore we perceive certain dangers in stringing out the negotiating process. The proposed start-up date of 1 January 1983 could be jeopardised. This in turn could lead to increased pressure upon the Government and industry groups (many of which have come to accept CER as inevitable) to widen the exemptions, delays and deferrals from automatic CER coverage.
 
@@ -29,10 +36,8 @@ The Australian Cabinet is expected to focus again on CER in the second half of A
 
 
 
-_ [matter omitted]_
+ _[matter omitted]_
 
-_ [ABHS 950/Box 1228, 40/4/2 Part 5 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1228, 40/4/2 Part 5 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 The 13th meeting of the South Pacific Forum (now the Pacific Islands Forum) was held in Rotorua on 9 and 10 August 1982. Street was a member of the Australian delegation.
-
-

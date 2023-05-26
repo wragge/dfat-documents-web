@@ -1,14 +1,17 @@
 ---
-title: "316 DESPATCH, JOHNSTON TO COMMONWEALTH OFFICE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10182
+doc_date: '1966-11-15'
+doc_num: 316
+doc_order: 316
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 175/163]'
+title: DESPATCH, JOHNSTON TO COMMONWEALTH OFFICE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-11-15
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 316 DESPATCH, JOHNSTON TO COMMONWEALTH OFFICE
-
-UKNA: DO 175/163
 
 British High Commission, Canberra, 15 November 1966
 
@@ -21,3 +24,5 @@ Sydney Morning Herald, Canberra Times and Australian all carry leaders today on 
 3\. The Canberra Times points out that every country has an absolute right to decide its own immigration policy and Australia should be the last to question that principle. ‘No doubt some of the present complaints coming from Australians entering Britain would be averted by a bit more tact and a bit less officiousness on the one side and a little more understanding on the other.... It may be that the controls will have to be screwed tight until Britain has been able to digest the mass of coloured migrants already inside the country. It may be that if she enters the Common Market, or if her economy once more booms for other reasons she will labour and seek to import it again. Or perhaps before then she will simply find it impossible or impolitic to cling to the ideal of equal treatment for Commonwealth Nations. It will be a pity if she does. In the meantime, Sir Alexander Downer may be able to remove some of the administrative prickles from the system. We can at least expect that close relatives should not be made to feel like aliens in what they used to think of not long ago as almost their own land’.
 
 4\. The ‘Australian’ says that the Australians who are in Britain who are getting deportation jitters should have taken the trouble to study British Immigration Laws more closely. ‘Perhaps they did, but they could be forgiven for misunderstanding them. The only white people who know exactly where they stand are the Irish, who can come and go as they please: which seems illogical and unfair if the Commonwealth means anything at all. The situation would be more amusing if its consequences were not so serious: turning out two or 2000 Australians will inflame anti-British feelings here and, ultimately, work against our efforts to attract British emigrants. That this should happen because of a bureaucratic muddle—so useful in disguising a colour bar—is ridiculous. Precise qualifications for entry as a visitor, working holidaymaker and permanent resident should be set out clearly and given the widest publicity before the present unnecessary antagonism is aggravated further and the go home Poms signs start appearing’.
+
+[UKNA: DO 175/163]

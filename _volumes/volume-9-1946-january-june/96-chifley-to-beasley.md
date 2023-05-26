@@ -1,12 +1,17 @@
 ---
-title: "96 Chifley to Beasley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3608
+doc_date: '1946-02-18'
+doc_num: 96
+doc_order: 96
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 TI, SPTS/1/4]'
+title: Chifley to Beasley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-18
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 96 Chifley to Beasley
 
 Cablegram 25 CANBERRA, 18 February 1946
 
@@ -30,7 +35,7 @@ Evatt of 10th February. [6]
 
 CHIFLEY
 
-_
+ _
 
 1 Document 81.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:A6494 TI, SPTS/1/4]_
+ _[AA:A6494 TI, SPTS/1/4]_

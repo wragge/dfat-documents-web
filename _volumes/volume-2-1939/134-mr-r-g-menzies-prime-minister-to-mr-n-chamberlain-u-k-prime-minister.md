@@ -1,12 +1,17 @@
 ---
-title: "134 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 471
+doc_date: '1939-08-18'
+doc_num: 134
+doc_order: 134
+naa_refs:
+- naa_barcode: 176558
+  naa_control_symbol: GREA 8 PART 5
+  naa_series: A981
+  reference: '[AA: A981, GREAT BRITAIN 8B, v]'
+title: Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-18
+vol_title: 'Volume 2: 1939'
 ---
-
-# 134 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 
 Cablegram 81 [1] 18 August 1939,
 
@@ -22,7 +27,7 @@ Your anti-aggression pact and policy has so far succeeded. I do not need to tell
 
 MENZIES
 
-_
+ _
 
 1 The copy on the file cited is unnumbered. The number has been taken from a copy in the Department of External Affairs chronological series of cablegrams.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA: A981, GREAT BRITAIN 8B, v]_
+ _[AA: A981, GREAT BRITAIN 8B, v]_

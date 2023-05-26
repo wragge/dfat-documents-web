@@ -1,12 +1,17 @@
 ---
-title: "82 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2373
+doc_date: '1942-11-25'
+doc_num: 82
+doc_order: 82
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-11-25
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 82 Bruce to Curtin
 
 Cablegram 196[A] LONDON, 25 November 1942, 2.40 p.m.
 
@@ -34,7 +39,7 @@ One disturbing factor is emerging in this examination. I gather that the transpo
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 21 November. On file AA:A4763. It advised Curtin that the decision to return the 9th Division had been complicated by the N.Z. Govt's appeal for the return of its 2nd Division.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

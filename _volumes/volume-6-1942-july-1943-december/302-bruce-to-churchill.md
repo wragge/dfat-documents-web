@@ -1,12 +1,17 @@
 ---
-title: "302 Bruce to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2593
+doc_date: '1943-10-19'
+doc_num: 302
+doc_order: 302
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:PREM 4/50/11]'
+title: Bruce to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-10-19
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 302 Bruce to Churchill
 
 Letter LONDON, 19 October 1943
 
@@ -22,7 +27,7 @@ May I appeal to you to lend me a hand in carrying out my somewhat difficult job.
 
 S. M. BRUCE
 
-_
+ _
 
 1 The U.K., U.S. and Soviet Foreign Ministers met in Moscow between 19 and 31 October. See also the cablegrams and files cited in the notes to Document 290.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [PRO:PREM 4/50/11]_
+ _[PRO:PREM 4/50/11]_

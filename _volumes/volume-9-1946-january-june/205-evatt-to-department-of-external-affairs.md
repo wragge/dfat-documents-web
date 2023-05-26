@@ -1,13 +1,17 @@
 ---
-title: "205 Evatt to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3717
+doc_date: '1946-04-22'
+doc_num: 205
+doc_order: 205
+naa_refs:
+- naa_barcode: 193424
+  naa_control_symbol: P46/10/33/19
+  naa_series: A1067
+  reference: '[AA:A1067, P46/10/33/19, i]'
+title: Evatt to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-22
-barcode: 193424
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 205 Evatt to Department of External Affairs
 
 Cablegram E9 LONDON, 22 April 1946, 2.24 p.m.
 
@@ -23,7 +27,7 @@ It will be impossible for Ball to carry on business if every decision has to be 
 
 Please transmit Ball's reports to me in the first instance otherwise the situation will get completely out of hand. [4]
 
-_ 1 Documents 188 and 194 respectively.
+ _1 Documents 188 and 194 respectively.
 
 2 Document 124.
 
@@ -31,10 +35,10 @@ _ 1 Documents 188 and 194 respectively.
 
 4 A departmental reply on 25 April explained that cablegrams 171 and 177 had been drafted before Evatt's departure for London on 17 April, but were not seen by him 'owing to other pressing matters'.
 
-To save further delay the views of other governments had been sought in the period before Evatt could consider them in London&gt;
+To save further delay the views of other governments had been sought in the period before Evatt could consider them in London >
 
 Draft instructions to Ball had been forwarded for Evatt's approval (Document 203) before receipt of cablegram E9, and the Dept's action had seemed compatible with paragraph 1(iv) of cablegram 118 (Document 124). It promised that Ball's future reports would be transmitted immediately on receipt.
 
 _
 
-_ [ [AA:A1067, P46/10/33/19, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=193424) ]_
+ _[AA:A1067, P46/10/33/19, i]_

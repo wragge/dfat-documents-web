@@ -1,12 +1,17 @@
 ---
-title: "80 Eggleston to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2371
+doc_date: '1942-11-25'
+doc_num: 80
+doc_order: 80
+naa_refs:
+- naa_barcode: 237711
+  naa_control_symbol: 971/1943
+  naa_series: A4144
+  reference: '[AA:A4144, 971 (1941-43)]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-11-25
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 80 Eggleston to Evatt
 
 Letter CHUNGKING, 25 November 1942
 
@@ -26,7 +31,7 @@ Meanwhile, it would be better to talk of our 'immigration policy' and not a 'Whi
 
 [F. W. EGGLESTON]
 
-_ 1 See cablegram S149 (received in Canberra on 29 November) on file AA:A981, China 60B, ii. See also Document 106.
+ _1 See cablegram S149 (received in Canberra on 29 November) on file AA:A981, China 60B, ii. See also Document 106.
 
 2 See cablegram S146 (received in Canberra on 29 November) on the file cited in note 1.
 
@@ -40,4 +45,4 @@ _ 1 See cablegram S149 (received in Canberra on 29 November) on file AA:A981, Ch
 
 _
 
-_ [AA:A4144, 971 (1941-43)]_
+ _[AA:A4144, 971 (1941-43)]_

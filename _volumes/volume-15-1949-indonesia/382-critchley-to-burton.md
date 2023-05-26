@@ -1,14 +1,20 @@
 ---
-title: "382 Critchley to Burton"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6551
+doc_date: '1949-05-07'
+doc_num: 382
+doc_order: 382
+naa_refs:
+- naa_barcode: 247471
+  naa_control_symbol: 401/1/2/6 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838, 401/2/6, i]'
+title: Critchley to Burton
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-05-07
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 382 Critchley to Burton
-
-## Letter BATAVIA, 7 May 1949
+Letter BATAVIA, 7 May 1949
 
 Since the commencement of the current talks in Batavia, I have had little time for letter-writing. However, my telegrams (Nos K.298 to K. 309 [1]) give a full account of the exchanges between the parties since the commencement of the talks on 14 April, and you will have received by bag copies of all relevant Commission documents including the Republican working paper (document No.
 
@@ -58,7 +64,7 @@ Attachment 'E': Schedule showing development of exports from Indonesia during 19
 
 Attachment 'F' : Article from 'Warta Berita', Medan, 'Ali Budiardjo, strong man among the guerillas'. You will remember that I have previously referred to Ali Budiardjo's importance (see letter [12] to McIntyre dated 22nd March, page 1A.) Attachment 'G' : 'Dutch and Opium' by Quentin Pope.
 
-_
+ _
 
 1 Document 363 and 385.
 
@@ -86,4 +92,4 @@ _
 
 _
 
-_ [AA : A1838, 401/2/6, i]_
+ _[AA : A1838, 401/2/6, i]_

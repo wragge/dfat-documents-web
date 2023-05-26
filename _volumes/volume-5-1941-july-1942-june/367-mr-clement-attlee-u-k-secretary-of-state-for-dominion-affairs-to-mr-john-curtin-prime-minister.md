@@ -1,14 +1,20 @@
 ---
-title: "367 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2121
+doc_date: '1942-02-23'
+doc_num: 367
+doc_order: 368
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.7027]'
+title: Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 367 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
-
-## Cablegram 249 LONDON, 23 February 1942, 9.23 p.m.
+Cablegram 249 LONDON, 23 February 1942, 9.23 p.m.
 
 Your telegram 23rd February, 139. [1] Following for Prime Minister from Prime Minister. [2] Begins:
 
@@ -20,7 +26,7 @@ Your telegram 23rd February, 139. [1] Following for Prime Minister from Prime Mi
 
 4\. Of course, I take full responsibility for my action.
 
-_
+ _
 
 1 Document 366.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.7027]_
+ _[AA:A3195, 1942, 1.7027]_

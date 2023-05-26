@@ -1,20 +1,26 @@
 ---
-title: "489 Department of External Affairs to Mr A. T. Stirling, External Affairs Officer in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1720
+doc_date: '1941-06-07'
+doc_num: 489
+doc_order: 489
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA: A3831, 1941, UNNUMBERED]'
+title: Department of External Affairs to Mr A. T. Stirling, External Affairs Officer
+  in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 489 Department of External Affairs to Mr A. T. Stirling, External Affairs Officer in London
-
-## Cablegram 260 7 June 1941,
+Cablegram 260 7 June 1941,
 
 Reference telegram 400 [1] from High Commissioner [2] to Prime Minister. [3]
 
 There is a Polish Consulate-General in Sydney, but Consul-General Noskowski is not a career man, and we would welcome a Consul General de carriere. No Consulates, however, have been established in Canberra, and it is doubtful whether Consular functions of commercial and Polish citizen interests could be handled from there at present stage of capital development.
 
-_
+ _
 
 1 Document 486.
 
@@ -24,4 +30,4 @@ _
 
 _
 
-_ [AA: A3831, 1941, UNNUMBERED]_
+ _[AA: A3831, 1941, UNNUMBERED]_

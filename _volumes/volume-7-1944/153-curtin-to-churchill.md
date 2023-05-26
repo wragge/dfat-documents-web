@@ -1,14 +1,19 @@
 ---
-title: "153 Curtin to Churchill"
-volume: "Volume 7: 1944"
-doc_id: 2800
+doc_date: '1944-05-17'
+doc_num: 153
+doc_order: 153
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 5]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-17
+vol_title: 'Volume 7: 1944'
 ---
 
-# 153 Curtin to Churchill
-
-## Letter LONDON, 17 May 1944
+Letter LONDON, 17 May 1944
 
 THE AUSTRALIAN WAR EFFORT AND BRITISH COMMONWEALTH FORCES FOR THE FAR EAST
 
@@ -68,7 +73,7 @@ It is suggested that the foregoing matters be discussed at a meeting of you and 
 
 JOHN CURTIN
 
-_
+ _
 
 1 On file AA:A5954, box 5.
 
@@ -90,4 +95,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 5]_
+ _[AA:A5954, BOX 5]_

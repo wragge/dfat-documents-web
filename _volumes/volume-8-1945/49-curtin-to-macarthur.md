@@ -1,12 +1,17 @@
 ---
-title: "49 Curtin to MacArthur"
-volume: "Volume 8: 1945"
-doc_id: 3080
+doc_date: '1945-02-27'
+doc_num: 49
+doc_order: 49
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 2313]'
+title: Curtin to MacArthur
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-02-27
+vol_title: 'Volume 8: 1945'
 ---
-
-# 49 Curtin to MacArthur
 
 Letter CANBERRA, 27 February 1945
 
@@ -44,7 +49,7 @@ formations in that and the more advanced areas. In such event, the Air Officer C
 
 JOHN CURTIN Minister for Defence
 
-_
+ _
 
 1 Document 37.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 2313]_
+ _[AA:A5954, BOX 2313]_

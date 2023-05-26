@@ -1,12 +1,17 @@
 ---
-title: "284 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2931
+doc_date: '1944-09-14'
+doc_num: 284
+doc_order: 284
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS, FROM BRUCE, 1.33220/19/18]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-14
+vol_title: 'Volume 7: 1944'
 ---
-
-# 284 Bruce to Curtin
 
 Cablegram 113 LONDON, 14 September 1944, 6.36 p.m.
 
@@ -22,7 +27,7 @@ For this reason I must ask for option to purchase the material produced to last 
 
 We should expect further that at end of the period of five years (assuming that we have [materially] [2] exercised our option to purchase) your Government would discuss with us possibility of renewing option for some further period on the same terms. You will be aware that in asking your Government to undertake development of this source urgently we have been concerned solely with defence needs and in suggesting terms outlined above I have been assuming that there will be no question of use of the material for any other purpose. If, however, material acquired by us in accordance with this arrangement should be put to some use other than the military and strategic purposes which we have in mind it would be reasonable to re-open the price terms so that Commonwealth Government might participate in any benefits of non- military exploitation. When I opened this subject with Mr. Curtin 
 
-_ falling into undesirable hands and this remains and will, after the war, remain a primary concern. Although, therefore, I am prepared to agree on above lines to some limitation of the United Kingdom's option to acquire material I must ask your Government to undertake that whether or not material is being acquired by His Majesty's Government in accordance with any such arrangements Commonwealth Government would not allow any material to pass otherwise out of their effective control without prior consultation with His Majesty's Government in the United Kingdom.
+_falling into undesirable hands and this remains and will, after the war, remain a primary concern. Although, therefore, I am prepared to agree on above lines to some limitation of the United Kingdom's option to acquire material I must ask your Government to undertake that whether or not material is being acquired by His Majesty's Government in accordance with any such arrangements Commonwealth Government would not allow any material to pass otherwise out of their effective control without prior consultation with His Majesty's Government in the United Kingdom.
 
 In view of possible critical importance of this material to future peace of world I must urge necessity for such an undertaking irrespective of any arrangements which may be made from time to time for actual purchase by us. Ends.
 
@@ -38,4 +43,4 @@ BRUCE
 
 _
 
-_ [3] I stressed to him importance of preventing this material from_
+ _[3] I stressed to him importance of preventing this material from_

@@ -1,14 +1,20 @@
 ---
-title: "197 Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General in Sydney"
-volume: "Volume 1: 1937-38"
-doc_id: 196
+doc_date: '1938-05-17'
+doc_num: 197
+doc_order: 196
+naa_refs:
+- naa_barcode: 214766
+  naa_control_symbol: '89'
+  naa_series: AA1972/341
+  reference: '[AA : AA1972/341, BOX 6]'
+title: Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General
+  in Sydney
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-17
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 197 Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General in Sydney
-
-## Letter [1] 17 May 1938,
+Letter [1] 17 May 1938,
 
 With further reference to your letter of 11th April, 1938 [2], and to previous correspondence on the subject of iron ore, I have the honour to inform you that this matter has now received the fullest and most sympathetic consideration of the Government. The closest attention was given to the particular points raised in your letter of 5th April [3] and in that now under reply.
 
@@ -28,7 +34,7 @@ We sincerely trust that your Government will appreciate that the Commonwealth Go
 
 J. A. LYONS
 
-_
+ _
 
 1 This letter was posted and then retrieved from the mail and returned to the Prime Minister without being delivered to the Japanese Consul-General. For circumstances see Documents 199, 200.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA : AA1972/341, BOX 6]_
+ _[AA : AA1972/341, BOX 6]_

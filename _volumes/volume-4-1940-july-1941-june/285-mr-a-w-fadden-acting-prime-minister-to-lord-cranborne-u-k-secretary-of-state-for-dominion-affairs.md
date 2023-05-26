@@ -1,14 +1,20 @@
 ---
-title: "285 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1516
+doc_date: '1941-02-12'
+doc_num: 285
+doc_order: 285
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941, 0.1826]'
+title: Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of
+  State for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 285 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 87 12 February 1941,
+Cablegram 87 12 February 1941,
 
 Your cablegram No. 50 of 28th January [1] received through the United Kingdom High Commissioner [2]- Service advisers of His Majesty's Government in the Commonwealth of Australia have most carefully considered the views put forward in your telegram referring to the Singapore Conference Report.
 
@@ -54,7 +60,7 @@ In view of the important considerations set out in (a) to (d) above, my Governme
 
 The Commonwealth Government would be most grateful for the views of the United Kingdom Chiefs of Staff on these matters prior to the assembling of naval Commanders-in-Chief at Singapore.
 
-_
+ _
 
 1 See AA:A2671, 61/1941, Annex A. The essence of this cablegram is contained in Document 282.
 
@@ -62,4 +68,4 @@ _
 
 _
 
-_ [AA:A3196, 1941, 0.1826]_
+ _[AA:A3196, 1941, 0.1826]_

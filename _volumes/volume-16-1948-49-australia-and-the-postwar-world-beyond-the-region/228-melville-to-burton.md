@@ -1,12 +1,17 @@
 ---
-title: "228 Melville to Burton"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6943
+doc_date: '1948-05-18'
+doc_num: 228
+doc_order: 228
+naa_refs:
+- naa_barcode: 545360
+  naa_control_symbol: 701/8/1/1 A
+  naa_series: A1838
+  reference: '[AA : A1838, 701/8/1/1A]'
+title: Melville to Burton
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-05-18
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 228 Melville to Burton
 
 Letter, SYDNEY, 18 May 1948
 
@@ -32,8 +37,8 @@ PERSONAL AND CONFIDENTIAL
 
 12\. I am, however, sure that the programme of work which was set before the Sub-Commission is much too ambitious and that it is futile to expect it adequately to cover the whole of the ground.[1]
 
-_ [1] For Melville's report on the third session, see Document 234.
+ _[1] For Melville's report on the third session, see Document 234.
 
 _
 
-_ [AA : A1838, 701/8/1/1A]_
+ _[AA : A1838, 701/8/1/1A]_

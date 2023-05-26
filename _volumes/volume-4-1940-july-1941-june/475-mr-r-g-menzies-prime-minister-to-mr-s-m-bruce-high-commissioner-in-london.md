@@ -1,12 +1,17 @@
 ---
-title: "475 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1706
+doc_date: '1941-05-29'
+doc_num: 475
+doc_order: 475
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.7142]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-29
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 475 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 2649 29 May 1941 [1],
 
@@ -34,7 +39,7 @@ Kind regards. [4]
 
 MENZIES
 
-_
+ _
 
 1 The date of dispatch has been taken from Bruce's copy on file AA: M100, May 1941.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA: A3196, 1941, 0.7142]_
+ _[AA: A3196, 1941, 0.7142]_

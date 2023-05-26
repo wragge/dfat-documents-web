@@ -1,14 +1,21 @@
 ---
-title: "187 Report by Joint Working Party to Permanent Heads"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9056
+doc_date: '1982-04-08'
+doc_num: 187
+doc_order: 187
+naa_refs:
+- naa_barcode: 1389690
+  naa_control_symbol: 370/1/19/18 PART 27
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011119/18, xxvii]'
+title: Report by Joint Working Party to Permanent Heads
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-04-08
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 187 Report by Joint Working Party to Permanent Heads
-
-## 8 April 1982
+8 April 1982
 
 ## ANZ CER Joint Working Party Report to Permanent Heads
 
@@ -23,9 +30,9 @@ The following progress report sets out:
 
 ## BACKGROUND
 
-Australian and New Zealand Permanent Heads met in Wellington in December 1980 to consider the detailed studies and consultations undertaken by Working Parties. A further meeting of Permanent Heads was held in Wellington in March 1981. Arising from these meetings a report1 was prepared for Prime Ministers which detailed the objectives, principles and concepts on which possible new trading arrangements might be bas.ed, along with a draft Heads of Agreement for an arrangement to govern the economic and trading relationship.
+Australian and New Zealand Permanent Heads met in Wellington in December 1980 to consider the detailed studies and consultations undertaken by Working Parties. A further meeting of Permanent Heads was held in Wellington in March 1981. Arising from these meetings a report[1](#f1) was prepared for Prime Ministers which detailed the objectives, principles and concepts on which possible new trading arrangements might be bas.ed, along with a draft Heads of Agreement for an arrangement to govern the economic and trading relationship.
 
-The Joint Report of Permanent Heads revealed that a broad area of agreement had been reached among officials on the possible techniques and modalities for liberalising trade. Despite the broad area of consensus, Permanent Heads also isolated a number of key issues on which agreement had not proved possible. Since that Report there has been a Joint Ministerial review of the CER exercise,2 a meeting of Prime Ministers and several meetings of the Joint Working Party. As a result of those meetings there has been a narrowing of differences. Outstanding differences, and new issues which have emerged, will need to be considered by Permanent Heads.
+The Joint Report of Permanent Heads revealed that a broad area of agreement had been reached among officials on the possible techniques and modalities for liberalising trade. Despite the broad area of consensus, Permanent Heads also isolated a number of key issues on which agreement had not proved possible. Since that Report there has been a Joint Ministerial review of the CER exercise,[2](#f2) a meeting of Prime Ministers and several meetings of the Joint Working Party. As a result of those meetings there has been a narrowing of differences. Outstanding differences, and new issues which have emerged, will need to be considered by Permanent Heads.
 
 ## 1\. ISSUES REQUIRING RESOLUTION
 
@@ -84,9 +91,9 @@ New Zealand considers that the agreed anti-dumping procedures including the faci
 
 1.5 _Deferred Category:_ The product coverage in the deferred category is still under examination by both countries in accordance with the principles already agreed. Documentation defining the plan and schedule for the movement of products from the deferred category is attached (Annex 2).
 
-_Whitegoods:_ Negotiations are continuing on a special arrangement for whitegoods taking into account the special circumstances prevailing in that sector. A paper is attached (Annex 3).
+ _Whitegoods:_ Negotiations are continuing on a special arrangement for whitegoods taking into account the special circumstances prevailing in that sector. A paper is attached (Annex 3).
 
-_Steel:_ The conditions for treatment of steel under CER are the subject of continuing negotiation. A paper setting out the current position is attached (Annex 4).
+ _Steel:_ The conditions for treatment of steel under CER are the subject of continuing negotiation. A paper setting out the current position is attached (Annex 4).
 
 1.6 _Safeguards:_ the issue of safeguards in the context of adjustment to CER has not been resolved. An initial proposal by New Zealand and a response paper by Australia is attached for consideration by Permanent Heads (Annex 5).
 
@@ -108,34 +115,34 @@ New Zealand's position is that the question of export incentives on fish under C
 
 The JWP has reached agreement on the following issues:
 
-2.1 _Monopoly Import Items:_ Based on understandings reached at the Ministerial talks in May 1981,3 satisfactory solutions have been reached relating to New Zealand's monopoly purchasing arrangements for pineapples, bananas, citrus fruit and fresh grapes, wheat and wheat flour. These understandings are reflected in proposed amendments to the Joint Report of Permanent Heads (Annex 12).
+2.1 _Monopoly Import Items:_ Based on understandings reached at the Ministerial talks in May 1981,[3](#f3) satisfactory solutions have been reached relating to New Zealand's monopoly purchasing arrangements for pineapples, bananas, citrus fruit and fresh grapes, wheat and wheat flour. These understandings are reflected in proposed amendments to the Joint Report of Permanent Heads (Annex 12).
 
-2.2 _Sugar: _The existing measures governing the import of sugar (raw and refined), golden syrup and treacle into each country need not be disturbed.
+2.2 _Sugar:_ The existing measures governing the import of sugar (raw and refined), golden syrup and treacle into each country need not be disturbed.
 
-2.3 _Agricultural Support/Stabilisation Measures: _In addition to the special arrangements agreed in respect of existing measures, provision should be made to ensure that new schemes and amendments to existing schemes are consistent with the agreement.
+2.3 _Agricultural Support/Stabilisation Measures:_ In addition to the special arrangements agreed in respect of existing measures, provision should be made to ensure that new schemes and amendments to existing schemes are consistent with the agreement.
 
-2.4 _Dairy Products: _Industry-to-industry consultations have resulted in agreement on conditions under which dairy products will be traded within CER. Basically, the agreement is an extension of the current forms of co­ operation between the Australian and New Zealand dairy industries. An important feature of the agreement is that it proposes that the NAFTA quota on cheddar cheese be abolished and trade in cheddar would be absorbed within the overall level of cheese traded under the understanding. New Zealand will share in future growth in the Australian domestic market for cheese.
+2.4 _Dairy Products:_ Industry-to-industry consultations have resulted in agreement on conditions under which dairy products will be traded within CER. Basically, the agreement is an extension of the current forms of co­ operation between the Australian and New Zealand dairy industries. An important feature of the agreement is that it proposes that the NAFTA quota on cheddar cheese be abolished and trade in cheddar would be absorbed within the overall level of cheese traded under the understanding. New Zealand will share in future growth in the Australian domestic market for cheese.
 
 The JWP considers that the agreement reached represents an acceptable solution and should be endorsed by the two Governments. (A text of the agreement is contained in Annex 10.)
 
-2.5_Co-operation in Third Markets: _ Provision should be made for the encouragement of co-operation in third country markets.
+2.5 _Co-operation in Third Markets:_ Provision should be made for the encouragement of co-operation in third country markets.
 
 2.6 _Wine:_ Industry-to-industry discussions have resulted in agreement on conditions for the inclusion of wine within the CER. The CER formulae for liberalisation of tariff quotas would apply to the quota element as from 111/83. There would be limits on the use of this quota in respect of wine under $2 per litre. The liberalisation of the tariff element would be deferred until 1/1186. The tariff would be phased to free in 5 steps instead of the 6 provided for under the general CER formula.
 
 The Joint Working Party agreed that the industries had reached an acceptable solution. A copy of the industry report is attached (Annex 11).
 
-2.7 _Amendments to Joint Report of Permanent Heads:_ Since the last meeting of Permanent Heads in March 1981, officials have agreed a number of changes to the Joint Report4 designed to improve the meaning of the document. Many of these do not alter the Report in any substantive way while other changes involve the addition of new words or deletion of existing words. These are submitted to Permanent Heads for endorsement (Annex 12).
+2.7 _Amendments to Joint Report of Permanent Heads:_ Since the last meeting of Permanent Heads in March 1981, officials have agreed a number of changes to the Joint Report[4](#f4) designed to improve the meaning of the document. Many of these do not alter the Report in any substantive way while other changes involve the addition of new words or deletion of existing words. These are submitted to Permanent Heads for endorsement (Annex 12).
 
 2.8 _Explanatory Notes:_ As an aid to the future operation of the agreement the JWP is devising some explanatory notes. It is proposed that these would not form part of the Joint Report of Permanent Heads but should have the status of an agreed Joint Working Party document. Permanent Heads may wish to note the agreed texts relating to:
 
-  1. _Deflator:_ Agreement has been reached on the deflators which will be used to calculate access adjustments in real terms (Annex 13).
-  2. _Anti-dumping Arrangements:_ Agreement has been reached on procedures for handling anti-dumping actions under CER (Annex 14).
-  3. _Access Growth:_ Agreement has been reached on the means by which increases or decreases in global licences will be taken into account in determining such exclusive licences as may be necessary to ensure that access opportunities are increased by 10% per annum in real terms. Agreement has also been reached on the treatment of liberally licensed goods and second-hand goods (Annex 15).
-  4. _Transition from NAFTA:_ The JWP has discussed arrangements necessary to ensure a smooth transition from NAFTA to CER (Annex 16).
-  5. _Harmonisation of By-law and other Concessionary Import Provisions:_ Agreement has been reached that the harmonisation of or adjustment to by-law and other concessionary provisions may be desirable in particular cases to ensure that the objectives of CER, are met (Annex 17).
-  6. _Phasing Formula for Composite Duties:_ Agreement has been reached on the means by which the ad valorem equivalent of composite rates of duty will be determined in order that tariffs may be phased out consistent with the agreed formula (Annex 18).
-  7. _Rules of Origin: _Agreement has been reached on the rules of origin to be applied to trade under a CER (Annex 19).
-  8. _Sugar: _An explanatory note has been prepared specifying the sugars and sugar products covered by import controls which may be maintained by each country (Annex 20).
+  1.  _Deflator:_ Agreement has been reached on the deflators which will be used to calculate access adjustments in real terms (Annex 13).
+  2.  _Anti-dumping Arrangements:_ Agreement has been reached on procedures for handling anti-dumping actions under CER (Annex 14).
+  3.  _Access Growth:_ Agreement has been reached on the means by which increases or decreases in global licences will be taken into account in determining such exclusive licences as may be necessary to ensure that access opportunities are increased by 10% per annum in real terms. Agreement has also been reached on the treatment of liberally licensed goods and second-hand goods (Annex 15).
+  4.  _Transition from NAFTA:_ The JWP has discussed arrangements necessary to ensure a smooth transition from NAFTA to CER (Annex 16).
+  5.  _Harmonisation of By-law and other Concessionary Import Provisions:_ Agreement has been reached that the harmonisation of or adjustment to by-law and other concessionary provisions may be desirable in particular cases to ensure that the objectives of CER, are met (Annex 17).
+  6.  _Phasing Formula for Composite Duties:_ Agreement has been reached on the means by which the ad valorem equivalent of composite rates of duty will be determined in order that tariffs may be phased out consistent with the agreed formula (Annex 18).
+  7.  _Rules of Origin:_ Agreement has been reached on the rules of origin to be applied to trade under a CER (Annex 19).
+  8.  _Sugar:_ An explanatory note has been prepared specifying the sugars and sugar products covered by import controls which may be maintained by each country (Annex 20).
 
 
 
@@ -145,11 +152,9 @@ The Joint Working Party agreed that the industries had reached an acceptable sol
 
 2.11 _Exposure Draft:_ The JWP has agreed to circulate separately to Permanent Heads a draft prepared by Australia which could provide the basis for further work on a report covering public release of the CER package before final decisions are taken by the two Governments. The draft, presented as a report by officials, draws heavily on Part 1 of the Joint Report of Permanent Heads and envisages attaching the draft Heads of Agreement and appropriate annexes, e.g. Investment in the Financial Sector, joint industry understanding on dairy products. The JWP agreed to submit the draft to Permanent Heads for consideration and finalisation in the light of further discussion on outstanding issues.
 
-_[NAA: A1838, 37011119/18, xxvii]_
+ _[NAA: A1838, 37011119/18, xxvii]_
 
   * 1 Document 139. 
   * 2 See Document 170. 
   * 3 See Document 170. 
-  * 4 Document 139. 
-
-
+  * 4 Document 139.

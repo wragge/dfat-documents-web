@@ -1,14 +1,20 @@
 ---
-title: "430 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. McEwen, Minister for External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1196
+doc_date: '1940-06-24'
+doc_num: 430
+doc_order: 430
+naa_refs:
+- naa_barcode: 174152
+  naa_control_symbol: CONS 1 PART 3
+  naa_series: A981
+  reference: '[AA: A981, CONSULS 1A, iii]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J.
+  McEwen, Minister for External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-24
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 430 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. McEwen, Minister for External Affairs
-
-## Memorandum 24 June 1940,
+Memorandum 24 June 1940,
 
 Today the Consul-General for Japan called on me and raised the following questions:-
 
@@ -40,7 +46,7 @@ Mr. Akiyama was gratified with the stage that had been reached and said that at 
 
 W. R. H[ODGSON]
 
-_
+ _
 
 1 Sir Geoffrey Knox. See his unnumbered cablegram of 22 June 1940.
 
@@ -50,4 +56,4 @@ Following Hodgson's discussion with Akiyama, Australia sought clarification of t
 
 _
 
-_ [AA: A981, CONSULS 1A, iii]_
+ _[AA: A981, CONSULS 1A, iii]_

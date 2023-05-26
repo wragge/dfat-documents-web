@@ -1,12 +1,19 @@
 ---
-title: "177 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8015
+doc_date: '1975-08-22'
+doc_num: 177
+doc_order: 176
+naa_refs:
+- naa_barcode: 4151551
+  naa_control_symbol: 801/13/11/1 PART 11
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/1111, xi]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-08-22
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 177 Cablegram to Canberra
 
 Jakarta, 22 August 1975
 
@@ -14,9 +21,9 @@ O.JA1389 SECRET PRIORITY
 
 Portuguese Timor
 
-Ref O.CH2566071
+Ref O.CH256607[1](#f1)
 
-_[matter omitted]_
+ _[matter omitted]_
 
   7. In these circumstances I do not think that a failure to respond quickly to Yoga would be misinterpreted. What Yoga was looking for on 14 August was a particular response-namely­ and as he put it clearly to me-a response which would indicate Australian 'understanding' of Indonesia's intervention if this were to be decided. We would not have been prepared to give this then and Yoga would, in Javanese way, have taken absence of an immediate reply to reflect this inability. Moreover, events overtook Yoga's plan which, in retrospect, I believe was to secure the agreement, or at least agreement not to object to Indonesian intervention, of Australia, Japan, New Zealand, the United States and the other ASEAN countries. Yoga had in any case retreated somewhat from the position he had adopted with me and the Japanese Ambassador by the time he saw U.S. Ambassador Newsom.
   8. You have asked me for my ideas on the best way of responding to Yoga's request for Mr Whitlam's views and on what might be included in those views.
@@ -38,8 +45,6 @@ _[matter omitted]_
 
 WOOLCOTT
 
-_[NAA: A10463, 801/13/1111, xi]_
+ _[NAA: A10463, 801/13/1111, xi]_
 
-  * 1 The document is undated. 
-
-
+  * 1 The document is undated.

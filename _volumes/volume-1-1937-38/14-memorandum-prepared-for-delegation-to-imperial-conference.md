@@ -1,15 +1,19 @@
 ---
-title: "14 Memorandum prepared for Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 14
+doc_date: '1937-03-08'
+doc_num: 14
+doc_order: 14
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP4/3
+  reference: '[AA : CP 4/3, BUNDLE 1, ITEM 17]'
+title: Memorandum prepared for Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-03-08
-barcode: 243028
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 14 Memorandum prepared for Delegation to Imperial Conference
-
-## MELBOURNE, 8 March 1937
+MELBOURNE, 8 March 1937
 
 STRATEGICAL IMPORTANCE OF PACIFIC ISLANDS
 
@@ -61,4 +65,4 @@ ARCHDALE PARKHILL
 
 Minister for Defence
 
-[ [AA : CP 4/3, BUNDLE 1, ITEM 17](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=243028) ]
+[AA : CP 4/3, BUNDLE 1, ITEM 17]

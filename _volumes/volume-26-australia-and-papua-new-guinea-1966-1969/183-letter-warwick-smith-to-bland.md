@@ -1,17 +1,21 @@
 ---
-title: "183 Letter, Warwick Smith To Bland"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9691
+doc_date: '1968-05-17'
+doc_num: 183
+doc_order: 183
+naa_refs:
+- naa_barcode: 3125687
+  naa_control_symbol: 1966/4989
+  naa_series: A452
+  reference: '[NAA: A452, 1966/4989]'
+title: Letter, Warwick Smith To Bland
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-05-07
-barcode: 3125687
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
 
-# 183 Letter, Warwick Smith To Bland
+Canberra, 17 May 1968
 
-Canberra, l7 May 1968
-
-At the meeting between the Ministers for Defence, Army and Territories which was held in Mr. Fairhall’s office on 18th October, 1967,2 Mr. Barnes mentioned the need to bring about a relationship between the Army and the developing civil government of the Territory and it was agreed that this Department should take up with Army and Defence the procedures that should be followed under the new constitutional system.
+At the meeting between the Ministers for Defence, Army and Territories which was held in Mr. Fairhall’s office on 18th October, 1967,[2](#f2) Mr. Barnes mentioned the need to bring about a relationship between the Army and the developing civil government of the Territory and it was agreed that this Department should take up with Army and Defence the procedures that should be followed under the new constitutional system.
 
 The Papua and New Guinea Act has been amended to provide for seven elected members of the House to be appointed as Ministerial Members. These members will also be members of the Administrator’s Executive Council which will have an increased role in advising and assisting the Administrator over the whole range of Territory business.
 
@@ -25,7 +29,7 @@ In addition, the Force Commander might be asked to attend a meeting of the Admin
 
 I should be grateful to have your reactions to these suggestions.
 
-[ [NAA: A452, 1966/4989](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3125687) ]
+[NAA: A452, 1966/4989]
 
 1 In 1968, Bland was Secretary, Department of Defence.
 

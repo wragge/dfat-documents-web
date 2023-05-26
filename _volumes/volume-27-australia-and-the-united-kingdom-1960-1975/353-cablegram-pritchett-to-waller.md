@@ -1,26 +1,29 @@
 ---
-title: "353 CABLEGRAM,PRITCHETT TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10219
+doc_date: '1972-11-26'
+doc_num: 353
+doc_order: 353
+naa_refs:
+- naa_barcode: 552872
+  naa_control_symbol: 67/1/3 PART 6
+  naa_series: A1838
+  reference: '[NAA: Al838, 67/1/3 PART 6]'
+title: CABLEGRAM,PRITCHETT TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 353 CABLEGRAM,PRITCHETT TO WALLER
-
-NAA: Al838, 67/1/3 PART 6
 
 Australian High Commission, London, 26 November 1972
 
 19079\. Confidential
 
-**Immigration into Britain**
+ **Immigration into Britain**
 
 [...]
 
-2 The following is a record of conversations with Sir Bernard Braine, MP1 on 24 November.
+2 The following is a record of conversations with Sir Bernard Braine, MP[1](#f1) on 24 November.
 
-_Record_
+ _Record_
 
 3 Sir Bernard Braine telephoned me this morning.
 
@@ -93,3 +96,5 @@ I gave him no undertaking in this respect and again pointed out that I did not e
 4\. Please ensure that Sir Bernard’s position is fully protected.
 
 1  Conservative Member for South East Essex. 
+
+[NAA: Al838, 67/1/3 PART 6]

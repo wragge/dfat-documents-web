@@ -1,12 +1,18 @@
 ---
-title: "244 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1475
+doc_date: '1941-01-03'
+doc_num: 244
+doc_order: 244
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.0153]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-03
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 244 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 4 LONDON, 3 January 1941, 7.30 p.m.
 
@@ -22,7 +28,7 @@ United Kingdom Government would also agree to similar action in respect of matte
 
 We regret the delay on our part and hope that it may now be possible to give the proposed assurance to Sautot forthwith as de Gaulle is anxious that the recruits should proceed quickly.
 
-_
+ _
 
 1 Document 224.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA:A3195, 1941, 1.0153]_
+ _[AA:A3195, 1941, 1.0153]_

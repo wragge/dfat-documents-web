@@ -1,12 +1,17 @@
 ---
-title: "276 Churchill to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2923
+doc_date: '1944-09-11'
+doc_num: 276
+doc_order: 276
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 560]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-11
+vol_title: 'Volume 7: 1944'
 ---
-
-# 276 Churchill to Curtin
 
 Cablegram Winch 6 LONDON, 11 September 1944, 12.15 a.m.
 
@@ -22,10 +27,10 @@ We are now on our way to discuss the whole question of strategy for the war agai
 
 4\. I will let you know the result of our combined discussions at earliest. Every good wish.
 
-_
+ _
 
 1 Document 265.
 
 _
 
-_ [AA:A5954, BOX 560]_
+ _[AA:A5954, BOX 560]_

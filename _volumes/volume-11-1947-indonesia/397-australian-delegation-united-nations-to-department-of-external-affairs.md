@@ -1,12 +1,17 @@
 ---
-title: "397 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4581
+doc_date: '1947-10-29'
+doc_num: 397
+doc_order: 397
+naa_refs:
+- naa_barcode: 550475
+  naa_control_symbol: 403/3/1/1 PART 12
+  naa_series: A1838
+  reference: '[AA:A1838/283, 403/3/1/1/, xii]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-10-29
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 397 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram UN1047 NEW YORK, 29 October 1947, 10.07 [p.m.]
 
@@ -30,7 +35,7 @@ Advises the parties concerned, the Committee of Good Offices, and the Consular C
 
 Next meeting Friday morning and if no decision is then reached meeting will continue Friday afternoon.
 
-_
+ _
 
 1 See Document 375.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A1838/283, 403/3/1/1/, xii]_
+ _[AA:A1838/283, 403/3/1/1/, xii]_

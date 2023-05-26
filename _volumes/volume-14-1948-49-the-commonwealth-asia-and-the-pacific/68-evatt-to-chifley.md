@@ -1,12 +1,18 @@
 ---
-title: "68 Evatt to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5844
+doc_date: '1949-02-28'
+doc_num: 68
+doc_order: 68
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU : EVATT COLLECTION, CABLES-NEW DELHI-1945-49]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-02-28
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 68 Evatt to Chifley
 
 Cablegram Special El NEW DELHI, 28 February 1949, 8.55 p.m.
 
@@ -20,10 +26,10 @@ Nehru is very anxious for practical suggestions from me and is giving me documen
 
 [matter omitted]
 
-_
+ _
 
 1 See Document 79 2 The 'bank case' refers to litigation over the Chifley Government's attempt to legislate for the nationalization of banks.
 
 _
 
-_ [SFU : EVATT COLLECTION, CABLES-NEW DELHI-1945-49]_
+ _[SFU : EVATT COLLECTION, CABLES-NEW DELHI-1945-49]_

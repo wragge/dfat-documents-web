@@ -1,12 +1,18 @@
 ---
-title: "167 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1398
+doc_date: '1940-10-10'
+doc_num: 167
+doc_order: 167
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.7551]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-10
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 167 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 526 [10 October 1940] [1],
 
@@ -24,7 +30,7 @@ In regard to Z. 292 [8], relative possibility that the United States might find 
 
 MENZIES
 
-_
+ _
 
 1 Inserted from the Prime Minister's Dept outward cablegram register (AA:A3643, 1).
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.7551]_
+ _[AA:A3196, 1940, 0.7551]_

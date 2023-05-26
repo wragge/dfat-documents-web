@@ -1,14 +1,20 @@
 ---
-title: "204 Mr R. G. Menzies, Prime Minister, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1435
+doc_date: '1940-11-22'
+doc_num: 204
+doc_order: 204
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20B, i]'
+title: Mr R. G. Menzies, Prime Minister, to Sir Geoffrey Whiskard, U.K. High Commissioner
+  in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 204 Mr R. G. Menzies, Prime Minister, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
-
-## Letter CANBERRA, 22 November 1940
+Letter CANBERRA, 22 November 1940
 
 I have to inform you that the proposals put forward by your Government in cablegrams Z311 and Z312 dated October 19th and 20th [1] have received the consideration of the Commonwealth Government.
 
@@ -30,10 +36,10 @@ I have to inform you that the proposals put forward by your Government in cableg
 
 R. G. MENZIES
 
-_
+ _
 
 1 See Document 186, note 6.
 
 _
 
-_ [AA:A981, FAR EAST 20B, i]_
+ _[AA:A981, FAR EAST 20B, i]_

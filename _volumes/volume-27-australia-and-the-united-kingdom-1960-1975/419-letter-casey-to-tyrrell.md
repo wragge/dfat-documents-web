@@ -1,14 +1,17 @@
 ---
-title: "419 LETTER CASEY TO TYRRELL"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10285
+doc_date: '1967-05-09'
+doc_num: 419
+doc_order: 419
+naa_refs:
+- naa_barcode: 3054229
+  naa_control_symbol: 1967/7334
+  naa_series: A1209
+  reference: '[NAA: Al209, 1967/7334]'
+title: LETTER CASEY TO TYRRELL
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-05-09
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 419 LETTER CASEY TO TYRRELL
-
-NAA: Al209, 1967/7334
 
 Australia House, London, 9 May 1967
 
@@ -26,11 +29,11 @@ There was a good deal more said than this, and I asked that Bowden might write t
 
 Then I saw Harold Wilson, who told me (in respect of honours) that he was going to greatly reduce (if not entirely cut out) honours for political reasons, so far as Britain was concerned. He made no reference to this in any way concerning us, and I did not raise it.
 
-When I saw Michael Adeane soon after the above, I told him of my correspondence and talks with Bowden and Wilson on honours, although he took the point of view that this did not directly concern him. However, I had quite a reasonably good talk with him about the Crown and Republicanism. I said that there were the beginnings of Republicanism in Australia in quite recent years, but that I did not believe that it was yet at all important. He said that the situation in this regard in Canada appeared to be appreciably worse than it was in Australia.2 In speaking of the attitude towards the Crown in Australia, I said that I thought that there were the beginnings of some degree of apathy or even indifference, but again this was not very marked. This led me on to speaking of the content of The Queen’s Christmas and Birthday speeches on the radio and (sometimes) television.3 I asked who were consulted in respect of the content of these speeches. He gave me to understand that The Queen herself had an appreciable hand in it and that he ‘consulted’ others, without saying who they were. He gave me the impression that he personally did not have much of a hand in this. I said that I thought it would be a good thing if such speeches were made to contain appreciably more content in recent years. I think he realised this and said that it was not at all easy, as The Queen had to take into account the fact that anything that she said was heard in every country of the Commonwealth, which increased her difficulty in avoiding subjects that were in any way controversial. He then suggested that it might be a good thing to direct any particular one of her speeches to, say, Canada or Australia, although it would be broadcast in all Commonwealth countries. I said that a speech directed to, say, Canada would not be of particular interest to Australia or other Commonwealth countries. I then suggested that it might be worth consideration for The Queen to make a different speech to Canada or to Australia and to Britain and India and Pakistan, and say one speech to all the African Commonwealth countries—although I realise that this would put considerable additional burden on The Queen herself. He did not enthuse about this.
+When I saw Michael Adeane soon after the above, I told him of my correspondence and talks with Bowden and Wilson on honours, although he took the point of view that this did not directly concern him. However, I had quite a reasonably good talk with him about the Crown and Republicanism. I said that there were the beginnings of Republicanism in Australia in quite recent years, but that I did not believe that it was yet at all important. He said that the situation in this regard in Canada appeared to be appreciably worse than it was in Australia.[2](#f2) In speaking of the attitude towards the Crown in Australia, I said that I thought that there were the beginnings of some degree of apathy or even indifference, but again this was not very marked. This led me on to speaking of the content of The Queen’s Christmas and Birthday speeches on the radio and (sometimes) television.[3](#f3) I asked who were consulted in respect of the content of these speeches. He gave me to understand that The Queen herself had an appreciable hand in it and that he ‘consulted’ others, without saying who they were. He gave me the impression that he personally did not have much of a hand in this. I said that I thought it would be a good thing if such speeches were made to contain appreciably more content in recent years. I think he realised this and said that it was not at all easy, as The Queen had to take into account the fact that anything that she said was heard in every country of the Commonwealth, which increased her difficulty in avoiding subjects that were in any way controversial. He then suggested that it might be a good thing to direct any particular one of her speeches to, say, Canada or Australia, although it would be broadcast in all Commonwealth countries. I said that a speech directed to, say, Canada would not be of particular interest to Australia or other Commonwealth countries. I then suggested that it might be worth consideration for The Queen to make a different speech to Canada or to Australia and to Britain and India and Pakistan, and say one speech to all the African Commonwealth countries—although I realise that this would put considerable additional burden on The Queen herself. He did not enthuse about this.
 
 I then (with Adeane) reverted to honours and asked if it had ever been considered that The Queen might initiate a new Commonwealth Order, without knighthoods, for all the Commonwealth countries. He said that he did not believe that most of the ‘new’ Commonwealth countries would agree to accept such an honour. I said that I thought this might be discovered privately, although if any appreciable number of them did not accept it, it would of course not be politic to start it.
 
-He (Adeane) then spoke about the new Canadian honour4 and asked if we had ever considered a particular Australian honour. I said that I did not believe that we ever had, and that anyhow it did not appeal to me very much as it would not be a ‘Queen’s’ honour. He said that the new Canadian honour _was_ a Queen’s honour—and he imagined so also would be a distinctively Australian honour. I did not pursue this.
+He (Adeane) then spoke about the new Canadian honour[4](#f4) and asked if we had ever considered a particular Australian honour. I said that I did not believe that we ever had, and that anyhow it did not appeal to me very much as it would not be a ‘Queen’s’ honour. He said that the new Canadian honour _was_ a Queen’s honour—and he imagined so also would be a distinctively Australian honour. I did not pursue this.
 
 In speaking of The Queen’s televised Christmas and Birthday speeches, I suggested that it might be appropriate for her to speak against the background of a television screen on which the highlights of anything that she had done (at home and overseas) in the past year might be shown as she was speaking. He said they had done this once in a modified way but did not speak with any great enthusiasm about it.
 
@@ -44,7 +47,7 @@ When I told Garner about Adeane having said that he sought advice from ‘others
 
 I then said something about the position of State Governors in Australia and that at least some of them thought that they were not given sufficient importance in the scheme of things. He said he realised this. I said that I thought a little more attention might be given to keeping them rather more in the picture than they were at the present.
 
-I then saw Sir Charles Dixon5 at the Commonwealth Office, but the old boy has become frightfully old and infirm and is being retired from the Commonwealth Office in September. I am afraid he has ‘had it’.
+I then saw Sir Charles Dixon[5](#f5) at the Commonwealth Office, but the old boy has become frightfully old and infirm and is being retired from the Commonwealth Office in September. I am afraid he has ‘had it’.
 
 Nothing more of any consequence came out of my talk with Garner.
 
@@ -56,7 +59,7 @@ In the course of some of these talks I threw in my view that the present ‘East
 
 I think the above talks may have done some little good although it remains to be seen how much.
 
-If you think fit you can show this letter to John Bunting who may think it worthwhile showing to Mr. Holt prior to his visit to London in June.6
+If you think fit you can show this letter to John Bunting who may think it worthwhile showing to Mr. Holt prior to his visit to London in June.[6](#f6)
 
 I am sorry to inflict such a long letter on you but I thought it worthwhile to put all this down on paper while it was fresh in my mind.
 
@@ -75,3 +78,5 @@ I hope all goes well with you and the others.
 5 Formerly Assistant Under-Secretary of State for Dominion Affairs/Commonwealth Relations, 1940–48.
 
 6 Tyrrell sent a copy of this letter to Bunting on 18 May 1967 with a covering note which explained that besides honours, the letter made reference to other matters Tyrrell had asked Casey to talk about when he was in the UK. His note ended, ‘I think you will find it all interesting’.
+
+[NAA: Al209, 1967/7334]

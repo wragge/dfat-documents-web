@@ -1,20 +1,27 @@
 ---
-title: "74 Ministry of Foreign Affairs Internal Note"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8944
+doc_date: '1979-11-05'
+doc_num: 74
+doc_order: 74
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Ministry of Foreign Affairs Internal Note
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-11-05
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 74 Ministry of Foreign Affairs Internal Note
-
-## 74 Ministry of Foreign Affairs Internal Note1
+## 74 Ministry of Foreign Affairs Internal Note[1](#f1)
 
 Wellington, 5 November 1979
 
 Australia/New Zealand Economic Relations
 
-  1. The following is our record of the additional points proposed for study which are not covered in the 'Statement of Understanding'2 between Permanent Heads: 
+  1. The following is our record of the additional points proposed for study which are not covered in the 'Statement of Understanding'[2](#f2) between Permanent Heads: 
 
 ## Public Position Paper
 
@@ -38,9 +45,7 @@ Australia/New Zealand Economic Relations
 
 
 
-_[ABHS 950/Boxesl221-1226, 40/411 Part 22 Archives New Zealand/Te Whare Tohu Tuhituhinga O Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxesl221-1226, 40/411 Part 22 Archives New Zealand/Te Whare Tohu Tuhituhinga O Aotearoa, Head Office, Wellington]_
 
   * 1 Authorship uncertain; possibly drafted by Powles.
   * 2 Document 52.
-
-

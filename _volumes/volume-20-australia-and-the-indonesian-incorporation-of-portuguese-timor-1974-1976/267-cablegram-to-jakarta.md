@@ -1,12 +1,19 @@
 ---
-title: "267 Cablegram to Jakarta"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8105
+doc_date: '1975-10-17'
+doc_num: 267
+doc_order: 266
+naa_refs:
+- naa_barcode: 550931
+  naa_control_symbol: 3038/10/12/4 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 3038/10112/4, i]'
+title: Cablegram to Jakarta
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-10-17
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 267 Cablegram to Jakarta
 
 Canberra, 17 October 1975 2.30 p.m.
 
@@ -36,4 +43,4 @@ The soldiers said the five Australian television newsmen, three from Channel 7 i
 
 
 
-_NAA: A1838, 3038/10112/4, i]_
+ _[NAA: A1838, 3038/10112/4, i]_

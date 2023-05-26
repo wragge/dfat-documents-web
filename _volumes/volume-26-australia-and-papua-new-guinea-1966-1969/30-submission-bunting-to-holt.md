@@ -1,22 +1,27 @@
 ---
-title: "30 Submission, Bunting To Holt"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9538
+doc_date: '1966-03-15'
+doc_num: 30
+doc_order: 30
+naa_refs:
+- naa_barcode: 1340593
+  naa_control_symbol: C1724 PART 2
+  naa_series: A4940
+  reference: '[NAA: A4940, C 1724 part 2]'
+title: Submission, Bunting To Holt
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-03-15
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 30 Submission, Bunting To Holt
 
 Canberra, 15 March 1966
 
-A Submission about the long term future of New Guinea1 is on today’s Cabinet list. It is a big Submission and has only been circulated in the last few days. There may well be some munnurings about a subject of this importance and difficulty coming onto the list in a hurry.
+A Submission about the long term future of New Guinea[1](#f1) is on today’s Cabinet list. It is a big Submission and has only been circulated in the last few days. There may well be some munnurings about a subject of this importance and difficulty coming onto the list in a hurry.
 
-2\. The answer to give to that is that the Minister for External Affairs2 has to leave for India at the end of this week, that progress has to be made on the Submission before he returns, and that it is desirable to have a discussion with Mr. Hasluck present.
+2\. The answer to give to that is that the Minister for External Affairs[2](#f2) has to leave for India at the end of this week, that progress has to be made on the Submission before he returns, and that it is desirable to have a discussion with Mr. Hasluck present.
 
-3\. But having said that I now suggest to you that this really is too large a subject to be taken by Cabinet more or less on the run. I think that the Minister for Territories has put forward a very sensible proposal and that very likely it will tum out that it will be adopted. But this is not a matter for the Department of Territories on its own. In our departmental notes to you3 there is a suggestion for an Interdepartmental Committee which I believe is a good suggestion. But in my view, it would be even better to have a Committee of the Cabinet specially appointed, in which you draw on names rather than on portfolios so that a representative and thinking group of Ministers will apply their minds. A few very senior Ministers would be needed but then Ministers like Senator Gorton,4 Mr. Bury,5 Mr. Anthony,6 Mr. Chaney,7 Mr. Howson8 and Mr. Sinclair9 could be drawn upon.
+3\. But having said that I now suggest to you that this really is too large a subject to be taken by Cabinet more or less on the run. I think that the Minister for Territories has put forward a very sensible proposal and that very likely it will tum out that it will be adopted. But this is not a matter for the Department of Territories on its own. In our departmental notes to you[3](#f3) there is a suggestion for an Interdepartmental Committee which I believe is a good suggestion. But in my view, it would be even better to have a Committee of the Cabinet specially appointed, in which you draw on names rather than on portfolios so that a representative and thinking group of Ministers will apply their minds. A few very senior Ministers would be needed but then Ministers like Senator Gorton,[4](#f4) Mr. Bury,[5](#f5) Mr. Anthony,[6](#f6) Mr. Chaney,[7](#f7) Mr. Howson[8](#f8) and Mr. Sinclair[9](#f9) could be drawn upon.
 
-4\. In other words, I would suggest that you allow the discussion to run a certain distance in Cabinet this morning and then refer it to a Cabinet Committee with membership to be arranged by you.10
+4\. In other words, I would suggest that you allow the discussion to run a certain distance in Cabinet this morning and then refer it to a Cabinet Committee with membership to be arranged by you.[10](#f10)
 
 [NAA: A4940, C 1724 part 2]
 

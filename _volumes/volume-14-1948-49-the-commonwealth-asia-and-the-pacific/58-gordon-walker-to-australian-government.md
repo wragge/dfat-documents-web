@@ -1,12 +1,18 @@
 ---
-title: "58 Gordon Walker to Australian Government"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5834
+doc_date: '1948-04-13'
+doc_num: 58
+doc_order: 58
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: 3195, 1948, I.6222]'
+title: Gordon Walker to Australian Government
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-04-13
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 58 Gordon Walker to Australian Government
 
 Cablegram G10 (extract) LONDON, 13 April 1948, 5.27 p.m.
 
@@ -22,8 +28,8 @@ British Nationality Bill.
 
 3\. We should be reluctant to see complete disappearance of time honoured and well understood phrase 'British subject' and we think it likely that its general abandonment would not meet with favour in many quarters in this country and in other countries of the British Commonwealth. On the other hand if our understanding of the position as described in first sentence of paragraph 2 is correct we should not see any serious objection in principle to a change in the law so that citizens of the United Kingdom and colonies and of all the countries specified in clause 1 (2) of the Bill while possessing the status of British subjects could according to their individual preference be described either as 'British subjects' or as 'Commonwealth citizens'. We are advised that there would be no legal objection to this course.
 
-_
+ _
 
 _
 
-_ [AA: 3195, 1948, I.6222]_
+ _[AA: 3195, 1948, I.6222]_

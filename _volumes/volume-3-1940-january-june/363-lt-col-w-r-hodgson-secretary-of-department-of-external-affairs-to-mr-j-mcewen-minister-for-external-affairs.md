@@ -1,14 +1,20 @@
 ---
-title: "363 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. McEwen, Minister for External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1129
+doc_date: '1940-06-12'
+doc_num: 363
+doc_order: 363
+naa_refs:
+- naa_barcode: 174151
+  naa_control_symbol: CONS 1 PART 2
+  naa_series: A981
+  reference: '[AA: A981, CONSULS IA, ii]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J.
+  McEwen, Minister for External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-12
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 363 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. McEwen, Minister for External Affairs
-
-## Memorandum 12 June 1940,
+Memorandum 12 June 1940,
 
 ITALIAN CONSULS AND APOSTOLIC DELEGATE
 
@@ -42,7 +48,7 @@ II APOSTOLIC DELEGATE (1) In March, 1940, following upon representations from th
 
 (4) It is submitted for decision whether the Apostolic Delegate in Australia should continue to be accorded the privileges already granted by the Commonwealth Government in March as set out in paragraph (1) above. [7]
 
-_
+ _
 
 1 H. Hedinger.
 
@@ -62,4 +68,4 @@ In cablegram 408 of 12 June Stirling reported the U.K. Foreign Office's view tha
 
 _
 
-_ [AA: A981, CONSULS IA, ii]_
+ _[AA: A981, CONSULS IA, ii]_

@@ -1,12 +1,17 @@
 ---
-title: "110 Minute From Eckersley To Plimsoll"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7715
+doc_date: '1955-08-11'
+doc_num: 110
+doc_order: 110
+naa_refs:
+- naa_barcode: 1888222
+  naa_control_symbol: J3
+  naa_series: A10299
+  reference: '[AA : A10299/2, J3 JAPAN-AUSTRALIAN POLICY]'
+title: Minute From Eckersley To Plimsoll
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1955-08-11
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
-
-# 110 Minute From Eckersley To Plimsoll
 
 11th August, 1955
 
@@ -94,7 +99,7 @@ Overall Policy
 
 [AA : A10299/2, J3 JAPAN-AUSTRALIAN POLICY]
 
-_
+ _
 
 1 Document 67.
 
@@ -108,4 +113,4 @@ _
 
 _
 
-_ [8.] In recent discussions both the retiring Ambassador, Mr Nishi,_
+ _[8.] In recent discussions both the retiring Ambassador, Mr Nishi,_

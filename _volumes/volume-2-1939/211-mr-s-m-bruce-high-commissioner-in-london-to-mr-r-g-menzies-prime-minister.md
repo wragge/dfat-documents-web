@@ -1,14 +1,19 @@
 ---
-title: "211 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 548
+doc_date: '1939-09-07'
+doc_num: 211
+doc_order: 211
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA:A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-07
+vol_title: 'Volume 2: 1939'
 ---
 
-# 211 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
-
-## Cablegram 428 LONDON, 7 September 1939, 8.59 p.m.
+Cablegram 428 LONDON, 7 September 1939, 8.59 p.m.
 
 MOST IMMEDIATE
 
@@ -28,7 +33,7 @@ With regard to the question of allied strategy, I am sending you a separate cabl
 
 BRUCE
 
-_
+ _
 
 1 Not found, but see Document 200.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A981, WAR 45B, i]_
+ _[AA:A981, WAR 45B, i]_

@@ -1,12 +1,17 @@
 ---
-title: "312 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 649
+doc_date: '1939-10-28'
+doc_num: 312
+doc_order: 312
+naa_refs:
+- naa_barcode: 177779
+  naa_control_symbol: LEAGUE 20TH ASS 3
+  naa_series: A981
+  reference: '[AA: A981, L OF N, 20TH ASSEMBLY 3]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-28
+vol_title: 'Volume 2: 1939'
 ---
-
-# 312 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 594 LONDON, 28 October 1939
 
@@ -36,7 +41,7 @@ The French have all along agreed that meetings should be held at Geneva before t
 
 BRUCE
 
-_
+ _
 
 1 Document 304.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA: A981, L OF N, 20TH ASSEMBLY 3]_
+ _[AA: A981, L OF N, 20TH ASSEMBLY 3]_

@@ -1,12 +1,17 @@
 ---
-title: "38 Report for Imperial Conference of Technical Committee on Pacific Pact"
-volume: "Volume 1: 1937-38"
-doc_id: 38
+doc_date: '1937-06-08'
+doc_num: 38
+doc_order: 38
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Report for Imperial Conference of Technical Committee on Pacific Pact
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-08
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 38 Report for Imperial Conference of Technical Committee on Pacific Pact
 
 E (37) 33 LONDON, n.d. [between 2 and 8 June 1937]
 
@@ -42,7 +47,7 @@ United Kingdom The Hon. Sir Alexander Cadogan, Deputy Under-Secretary of State, 
 
 ALEXANDER CADOGAN (Chairman)
 
-_
+ _
 
 1 On 2 June 1937 the Principal Delegates to the Imperial Conference agreed that a committee should examine technical aspects of the Australian proposal for a regional pact in the Pacific. (See Document 36.) 2 See Document 33, note 9.
 
@@ -78,4 +83,4 @@ The Contracting Powers agree that, whenever a situation arises which in the opin
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

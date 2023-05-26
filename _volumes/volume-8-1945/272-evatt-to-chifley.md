@@ -1,12 +1,17 @@
 ---
-title: "272 Evatt to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3303
+doc_date: '1945-09-26'
+doc_num: 272
+doc_order: 272
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FSU : EVATT PAPERS, EVATT-OVERSEAS TRIPS-1945-CABLES-LONDON]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-26
+vol_title: 'Volume 8: 1945'
 ---
-
-# 272 Evatt to Chifley
 
 Cablegram EC29 LONDON, 26 September 1945, 10.45 p.m.
 
@@ -24,7 +29,7 @@ I understand that thorium may replace uranium as the best raw material and Austr
 
 I will approach the United Kingdom Government and will ask for the release of information to Australia and for permission for Professor Massey [5] or Professor Oliphant to go to Australia to communicate this information.
 
-_
+ _
 
 1 Professor of Physics, University of Birmingham, seconded to the Manhatten Project.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [FSU : EVATT PAPERS, EVATT-OVERSEAS TRIPS-1945-CABLES-LONDON]_
+ _[FSU : EVATT PAPERS, EVATT-OVERSEAS TRIPS-1945-CABLES-LONDON]_

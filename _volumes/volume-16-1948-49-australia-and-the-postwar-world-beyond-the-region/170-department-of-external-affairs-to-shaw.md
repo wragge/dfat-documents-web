@@ -1,12 +1,17 @@
 ---
-title: "170 Department of External Affairs to Shaw"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6885
+doc_date: '1949-07-19'
+doc_num: 170
+doc_order: 170
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU : EVATT COLLECTION, CABLES - TOKYO - 1946-49]'
+title: Department of External Affairs to Shaw
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1949-07-19
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 170 Department of External Affairs to Shaw
 
 Cablegram 221, CANBERRA, 19 July 1949, 3.30 p.m.
 
@@ -22,6 +27,6 @@ Your telegram 282 has been most helpful 2. At this stage we feel that report sho
 
 5\. Your final para. We see no reason to alter present arrangement whereby Jamieson as your alternate acts as delegate during your absence from Seoul.
 
-__
+ __
 
-_ [SFU : EVATT COLLECTION, CABLES - TOKYO - 1946-49]_
+ _[SFU : EVATT COLLECTION, CABLES - TOKYO - 1946-49]_

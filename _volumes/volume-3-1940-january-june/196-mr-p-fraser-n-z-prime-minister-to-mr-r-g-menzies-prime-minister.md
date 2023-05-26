@@ -1,12 +1,17 @@
 ---
-title: "196 Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 962
+doc_date: '1940-05-02'
+doc_num: 196
+doc_order: 196
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2875]'
+title: Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-02
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 196 Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered WELLINGTON, 2 May 1940, 12.28 a.m.
 
@@ -20,7 +25,7 @@ They have, however, seen telegram No. 192, addressed to you by the Prime Ministe
 
 This telegram is being repeated to the Prime Minister of the Commonwealth of Australia.
 
-_
+ _
 
 1 The first of these cablegrams is printed as Document 191. The second is listed in the Prime Minister's Dept outward cable register (FA: A3637) as dealing with convoy U.S.3, but no copy has been found.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [FA: A3195, 1.2875]_
+ _[FA: A3195, 1.2875]_

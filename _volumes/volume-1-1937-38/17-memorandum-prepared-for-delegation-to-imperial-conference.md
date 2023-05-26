@@ -1,12 +1,17 @@
 ---
-title: "17 Memorandum prepared for Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 17
+doc_date: '1937-03-10'
+doc_num: 17
+doc_order: 17
+naa_refs:
+- naa_barcode: 232376
+  naa_control_symbol: '5'
+  naa_series: A2938
+  reference: '[FA : A2938, THE FOREIGN SITUATION-MARCH 1937]'
+title: Memorandum prepared for Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-03-10
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 17 Memorandum prepared for Delegation to Imperial Conference
 
 LONDON, 10 March 1937
 
@@ -228,7 +233,7 @@ Close co-operation between the members of the British Commonwealth of Nations re
 
 The absence of liaison of any kind with South Africa remains a notable gap in Australia's information on Empire affairs. [31]
 
-_
+ _
 
 1 The 'Gentlemen's Agreement' of 2 January 1937 See below under Italy and also Document 13, note 1.
 
@@ -294,4 +299,4 @@ Officer, wrote a paper on the foreign situation. This was brought up to date in 
 
 _
 
-_ [FA : A2938, THE FOREIGN SITUATION-MARCH 1937]_
+ _[FA : A2938, THE FOREIGN SITUATION-MARCH 1937]_

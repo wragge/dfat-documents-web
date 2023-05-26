@@ -1,12 +1,17 @@
 ---
-title: "515 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1746
+doc_date: '1941-06-20'
+doc_num: 515
+doc_order: 515
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA: A981, FAR EAST 20B, i]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-20
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 515 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 457 WASHINGTON, 20 June 1941, 10.53 p.m.
 
@@ -28,10 +33,10 @@ Above makes one wonder whether any good purpose served by seeking discussions to
 
 CASEY
 
-_
+ _
 
 1 Dispatched 14 May. The number has been corrected from the Washington copy on file AA: A3300, 128.
 
 _
 
-_ [AA: A981, FAR EAST 20B, i]_
+ _[AA: A981, FAR EAST 20B, i]_

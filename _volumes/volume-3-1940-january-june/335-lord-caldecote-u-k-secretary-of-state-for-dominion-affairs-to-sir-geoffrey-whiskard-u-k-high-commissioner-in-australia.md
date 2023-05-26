@@ -1,12 +1,18 @@
 ---
-title: "335 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1101
+doc_date: '1940-06-04'
+doc_num: 335
+doc_order: 335
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: DO 114/113]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-04
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 335 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram unnumbered LONDON, 4 June 1940, 1.30 a.m.
 
@@ -22,7 +28,7 @@ Not until we have been able to clarify our equipment position in relation to the
 
 Please inform Prime Minister accordingly repeating expression of our gratitude for his reference to the readiness of the Commonwealth Government to pledge all their resources to victory.
 
-_
+ _
 
 1 See Document 284, note 3.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [PRO: DO 114/113]_
+ _[PRO: DO 114/113]_

@@ -1,14 +1,20 @@
 ---
-title: "240 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr J. McEwen, Minister for External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1006
+doc_date: '1940-05-15'
+doc_num: 240
+doc_order: 240
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[FA: A989, 43/300/3/46]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr J. McEwen,
+  Minister for External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 240 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr J. McEwen, Minister for External Affairs
-
-## Letter CANBERRA, 15 May 1940
+Letter CANBERRA, 15 May 1940
 
 Would you refer to the Commonwealth Government's despatch No. 125 of the 1st May [1] on the subject of Mr. Keith Officer's services as Australian Counsellor at His Majesty's Embassy at Washington? This despatch has crossed one which I have just received from my Government stating that His Majesty's Ambassador at Washington, in reporting on the presentation to the President of the United States [2] by the Rt. Hon. R. G. Casey of his letter of credence as Australian Minister to the United States, took the opportunity to express his warm appreciation of the services of Mr. Keith Officer in the above capacity. Lord Lothian wrote:
 
@@ -18,7 +24,7 @@ In addition to performing his special duties connected with Australia, Mr. Offic
 
 GEOFFREY WHISKARD
 
-_
+ _
 
 1 Not found.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [FA: A989, 43/300/3/46]_
+ _[FA: A989, 43/300/3/46]_

@@ -1,20 +1,23 @@
 ---
-title: "347 CABLEGRAM, PRITCHETT TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10213
+doc_date: '1972-11-21'
+doc_num: 347
+doc_order: 347
+naa_refs:
+- naa_barcode: 552872
+  naa_control_symbol: 67/1/3 PART 6
+  naa_series: A1838
+  reference: '[NAA: A1838, 6711/3 PART 6]'
+title: CABLEGRAM, PRITCHETT TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-21
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 347 CABLEGRAM, PRITCHETT TO WALLER
-
-NAA: A1838, 6711/3 PART 6
 
 London, 21 November 1972
 
 18843\. Confidential
 
-**Immigration to Britain**
+ **Immigration to Britain**
 
 We have been receiving numerous approaches from the Press, public men and the general public seeking comment or briefing on the new British immigration rules and the Australian attitude towards them in the light of the London Press campaign (still principally the Daily Express) and the Commons debate to-morrow, when the Government appears likely to face considerable criticism for alleged neglect and maltreatment of the old Commonwealth.
 
@@ -46,7 +49,7 @@ This comment has been principally concerned to explain the new rules, as we unde
 
 5\. These elements are all mixed-up together and form a potent emotional draught.
 
-It is not clear what has brought on the outcry, but the factors include a heightening of anti-EEC sentiment as the day of membership approaches, with a strong re–assertion, particularly from right-wing Tories, of ‘gut’ feelings about British identity: resentment about non-European immigration and especially the admission of the Ugandan Asians: 1 general feeling among Tory Back-benchers of dissatisfaction with the Government (for conduct inconsistent with Tory doctrine): and the, possibly impolitic, possibly unavoidable, introduction with effect from the same day of rules enlarging EEC rights and restricting Commonwealth rights.
+It is not clear what has brought on the outcry, but the factors include a heightening of anti-EEC sentiment as the day of membership approaches, with a strong re–assertion, particularly from right-wing Tories, of ‘gut’ feelings about British identity: resentment about non-European immigration and especially the admission of the Ugandan Asians: [1](#f1) general feeling among Tory Back-benchers of dissatisfaction with the Government (for conduct inconsistent with Tory doctrine): and the, possibly impolitic, possibly unavoidable, introduction with effect from the same day of rules enlarging EEC rights and restricting Commonwealth rights.
 
 Aitkin’s basically anti-EEC campaign in the Daily Express has certainly stimulated these feelings, stirred up constituencies and given emotions a form of expression.
 
@@ -93,3 +96,5 @@ It will be helpful to have guidance quickly, also for a meeting with the Agents-
 In drawing on this statement it will be necessary for us to indicate that we are not challenging it and accept the position described.
 
 1  On 4 August 1972, Uganda’s 70,000 Asians were expelled by President ldi Amin, who gave them ninety days to leave the country. Many of these people were holders of United Kingdom passports, and were subsequently admitted to Britain. 
+
+[NAA: A1838, 6711/3 PART 6]

@@ -1,14 +1,20 @@
 ---
-title: "53 Mr R. G. Menzies, Prime Minister, to Dr C. J. Pao, Chinese Consul-General in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1284
+doc_date: '1940-08-07'
+doc_num: 53
+doc_order: 53
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/2
+  reference: '[AA: CP290/2, 9]'
+title: Mr R. G. Menzies, Prime Minister, to Dr C. J. Pao, Chinese Consul-General in
+  Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 53 Mr R. G. Menzies, Prime Minister, to Dr C. J. Pao, Chinese Consul-General in Australia
-
-## Letter CANBERRA, 7 August 1940
+Letter CANBERRA, 7 August 1940
 
 I have to thank you for your recent letters [1] to me in which you inform me of your Government's instructions to you regarding an exchange of diplomatic representatives between China and Australia. As you were assured last month on behalf of my colleague, the Minister for External Affairs [2], the representations you have made on this subject have been under our close and sympathetic consideration.
 
@@ -22,10 +28,10 @@ I appreciate your offer to come to Canberra, and if this becomes desirable I sha
 
 [R. G. MENZIES]
 
-_ 1 Pao's letter of 24 June is printed as Document 431 in Documents on Australian Foreign Policy 1937-49, vol. III. His letters of 26 and 29 July and 5 August are on file AA:CP290/2, 9.
+ _1 Pao's letter of 24 June is printed as Document 431 in Documents on Australian Foreign Policy 1937-49, vol. III. His letters of 26 and 29 July and 5 August are on file AA:CP290/2, 9.
 
 2 John McEwen's letter of 2 July is on file AA:A981, Australia 162, i.
 
 _
 
-_ [AA: CP290/2, 9]_
+ _[AA: CP290/2, 9]_

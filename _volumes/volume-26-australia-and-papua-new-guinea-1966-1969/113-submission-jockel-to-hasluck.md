@@ -1,30 +1,35 @@
 ---
-title: "113 Submission, Jockel To Hasluck"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9621
+doc_date: '1967-05-30'
+doc_num: 113
+doc_order: 113
+naa_refs:
+- naa_barcode: 1509646
+  naa_control_symbol: 3036/14/1/6 PART 7
+  naa_series: A1838
+  reference: '[NAA: A 1838, 3036/14/l/6 part 7]'
+title: Submission, Jockel To Hasluck
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-05-30
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 113 Submission, Jockel To Hasluck
 
 Canberra, 30 May 1967
 
 SECRET
 
-**Refugees from West Irian**
+ **Refugees from West Irian**
 
-[matter omitted]1
+[matter omitted][1](#f1)
 
-5\. We obviously face a continuing and difficult problem. While the great majority of refugees are being returned because they are simply seeking better economic prospects, there is a continuing movement of persons who can make a claim to asylum on political and humanitarian grounds. Appendix II gives the breakdown of these people over a period of time and attempts some analysis of the pattern.2 The conclusion is reached in this analysis that large numbers are unlikely to be involved in further border crossings; but two things need to said about this conclusion. First, even small numbers cumulatively can create serious problems, as will be discussed. Secondly, it is difficult to foresee what will happen as the time for the act of self-determination approaches, or during its aftermath.
+5\. We obviously face a continuing and difficult problem. While the great majority of refugees are being returned because they are simply seeking better economic prospects, there is a continuing movement of persons who can make a claim to asylum on political and humanitarian grounds. Appendix II gives the breakdown of these people over a period of time and attempts some analysis of the pattern.[2](#f2) The conclusion is reached in this analysis that large numbers are unlikely to be involved in further border crossings; but two things need to said about this conclusion. First, even small numbers cumulatively can create serious problems, as will be discussed. Secondly, it is difficult to foresee what will happen as the time for the act of self-determination approaches, or during its aftermath.
 
 Australia’s moral and political right to take a restrictive attitude towards the granting of asylum will be somewhat strengthened if the act of self-determination takes place and is reasonably conducted, but this in itself will probably not dispose of the problem.
 
-6\. Appendix II shows that some 120 persons, with their dependents, have been granted permissive residence since 1963. This does not include any approvals for 1967, and it is evident that this year’s intake will be higher than the average of the last three years.3 Nearly all these people are politically motivated, and the more that come the greater is their capacity for trouble. When, for example, the Indonesian Ambassador visited Port Moresby recently he was met by a demonstration of 50 West lrianese. And, moreover, while each refugee is obliged to enter into an understanding that he will not engage in any political activities while in T.P.N.G., this obligation becomes more difficult to police as the numbers grow; we must assume that clandestine activities are going on and will develop. Some evidence is at hand in another submission of today’s date on ‘Correspondence from a West Irian Nationalist Organization’.4
+6\. Appendix II shows that some 120 persons, with their dependents, have been granted permissive residence since 1963. This does not include any approvals for 1967, and it is evident that this year’s intake will be higher than the average of the last three years.[3](#f3) Nearly all these people are politically motivated, and the more that come the greater is their capacity for trouble. When, for example, the Indonesian Ambassador visited Port Moresby recently he was met by a demonstration of 50 West lrianese. And, moreover, while each refugee is obliged to enter into an understanding that he will not engage in any political activities while in T.P.N.G., this obligation becomes more difficult to police as the numbers grow; we must assume that clandestine activities are going on and will develop. Some evidence is at hand in another submission of today’s date on ‘Correspondence from a West Irian Nationalist Organization’.[4](#f4)
 
 7\. As numbers grow, Indonesia’s attention is bound to be increasingly attracted. We know already that elements in the Indonesian Administration in West Irian are saying that their troubles are due to the fomenting of disorders from the other side of the border. We have been successful up to now in ensuring that matters are looked at rationally in Djakarta. But, while both Governments want to handle matters quietly and sensibly, there are difficult basic issues. Even if the Indonesians accept the fact that the internal dissidence in West Irian is not assisted from across the border, they could resent the fact that T.P.N.G. at present represents a sanctuary for those enaged in dissidence in West Irian; they could argue that the members of the dissident movement enjoy advantages because of the possibility of escape and refuge in T.P.N.G.
 
-8\. You have directed that we study the possibilities of recourse to the good offices of the United Nations High Commissioner.5 This might be a useful step. The present High Commissioner is well-placed to help with the Indonesian Government and it might help with Australian public opinion if the Government could point to his role. On the other hand, application of international principles and practices may not be in the interests of the Australian and Indonesian Governments. Application of international principles could well push Australia in the direction of accepting quite substantial numbers, not, it should be noted, into Australia itself but into a dependent territory—and thereby bring future problems for the Territory. If substantial numbers qualify for residence, we might in fact have to consider offering them residence in Australia and not T.P.N.G. At Appendix III is a note on the international position.6 It seems that there could well be a conflict between Australia’s interests over West Irian refugees and Australia’s adherence to the Protocol relating to the Status of Refugees. For us, it is not a question of the occasional refugee who has managed to evade a system of tight internal controls. Adherence to the Protocol might oblige us to take unlimited numbers of anti-Indonesian West lrianese who make their way across an unpoliced border. This question of adherence to the Protocol is at present a matter of inter-departmental consultation. 
+8\. You have directed that we study the possibilities of recourse to the good offices of the United Nations High Commissioner.[5](#f5) This might be a useful step. The present High Commissioner is well-placed to help with the Indonesian Government and it might help with Australian public opinion if the Government could point to his role. On the other hand, application of international principles and practices may not be in the interests of the Australian and Indonesian Governments. Application of international principles could well push Australia in the direction of accepting quite substantial numbers, not, it should be noted, into Australia itself but into a dependent territory—and thereby bring future problems for the Territory. If substantial numbers qualify for residence, we might in fact have to consider offering them residence in Australia and not T.P.N.G. At Appendix III is a note on the international position.[6](#f6) It seems that there could well be a conflict between Australia’s interests over West Irian refugees and Australia’s adherence to the Protocol relating to the Status of Refugees. For us, it is not a question of the occasional refugee who has managed to evade a system of tight internal controls. Adherence to the Protocol might oblige us to take unlimited numbers of anti-Indonesian West lrianese who make their way across an unpoliced border. This question of adherence to the Protocol is at present a matter of inter-departmental consultation. 
 
 9\. In the High Commissioner’s discussions with you the suggestion was made that the High Commissioner might send from Geneva to Port Moresby an appropriate senior officer of the Commission to discuss any particular cases that might be brought under his notice by the Administrator and to take responsibility on behalf of the Commission for accepting them as refugees. One practical difficulty here is the time factor. Procedures are already too slow. This new step could mean the lengthy passage of time during which the West Irianese refugee was allowed to stay in T.P.N.G. and in the nature of things ‘build up’ his right to remain. More important than this, however, is the problem of the High Commissioner’s representative seeking to apply formal standards of eligibility. The Australian and Indonesian Governments may have common interests in being rigorous and avoiding international scrutiny. For these reasons, we favour a careful, step by step development of our relationship with the High Commissioner. He has already been given statistical detail of the position. This could be continued. The step after that might be to discuss with him on a confidential basis and without commitment the special problems that we see and to invite any helpful suggestions he might have. However, before putting this before you as a recommendation we should prefer to await the outcome of the interdepartmental discussions on Australia’s attitude to adhering to the Protocol.
 
@@ -40,7 +45,7 @@ Australia’s moral and political right to take a restrictive attitude towards t
 
 (b) With respect to Indonesia, _it is recommended_ that we continue to keep the Indonesians broadly informed of the Australian policy of keeping the border crossing problem in low key and of returning as many West Irianese as is practicable. If the Indonesians start to show signs of asking for individuals to be sent back, our answer might be to counsel them against raising what could become difficult, formal issues affecting public opinion, inter-governmental relations and international agencies. We could point out that the United Nations High Commissioner for Refugees is already displaying an interest and that we are seeking to have him understand the special nature of the problem. We could remind the Indonesians that Australia has avoided concepts and principles like ‘political asylum’ and ‘persecution’ and that it is not in the interests of our two Governments for Australia to be put in the position of arguing its right (and even its duty) to grant political asylum.
 
-_[matter omitted]_7
+ _[matter omitted]_[7](#f7)
 
 [NAA: A 1838, 3036/14/l/6 part 7]
 

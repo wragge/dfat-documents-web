@@ -1,14 +1,19 @@
 ---
-title: "117 Minute From Crawford To Westerman"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7722
+doc_date: '1955-10-21'
+doc_num: 117
+doc_order: 117
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CRAWFORD PAPERS MS4514/9/33, TRADE POLICY: RELATIONS WITH JAPAN]'
+title: Minute From Crawford To Westerman
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1955-10-21
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 117 Minute From Crawford To Westerman
-
-## 21st October, 1955
+21st October, 1955
 
 CANBERRA
 
@@ -22,6 +27,6 @@ At the meeting [1] with the Japanese Ambassador and Mr Uyama, attended by Mr Mee
 
 (4) By private arrangement with Mr Tange, should questions relating to Japanese businessmen, Japanese banking or triangular relations with the United States come up, you would suggest deferment of the questions pending participation in the talks of an External Affairs representative.
 
-_ 1 See the penultimate paragraph of Document 115. The date of the meeting is unknown._
+ _1 See the penultimate paragraph of Document 115. The date of the meeting is unknown._
 
-_ [NLA : CRAWFORD PAPERS MS4514/9/33, TRADE POLICY: RELATIONS WITH JAPAN]_
+ _[NLA : CRAWFORD PAPERS MS4514/9/33, TRADE POLICY: RELATIONS WITH JAPAN]_

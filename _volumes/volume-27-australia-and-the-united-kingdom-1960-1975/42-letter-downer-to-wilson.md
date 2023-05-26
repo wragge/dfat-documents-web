@@ -1,14 +1,17 @@
 ---
-title: "42 LETTER, DOWNER TO WILSON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10296
+doc_date: '1965-10-22'
+doc_num: 42
+doc_order: 42
+naa_refs:
+- naa_barcode: 1160345
+  naa_control_symbol: 1965/6595 PART 2
+  naa_series: A1209
+  reference: '[NAA: A1209, 1965/6595 PART 2]'
+title: LETTER, DOWNER TO WILSON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-10-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 42 LETTER, DOWNER TO WILSON
-
-NAA: A1209, 1965/6595 PART 2
 
 Australia House, London, 22 October 1965
 
@@ -30,7 +33,7 @@ I have this morning received this message from Sir Robert Menzies which he asks 
 > 
 > But among our other problems, no less serious and, in truth, no less urgent, is the great question of defence in the south-east Asia region which was the subject of the Quadripartite Talks by officials last month.
 > 
-> We have had the reports of our representatives and your message of 25th September. 1
+> We have had the reports of our representatives and your message of 25th September. [1](#f1)
 > 
 > We are grateful for the message, and heartened by it, and we note its promise of further consultations in the light of your current defence review.
 > 
@@ -54,7 +57,7 @@ I have this morning received this message from Sir Robert Menzies which he asks 
 > 
 > Singapore and the Malaysian bases come most importantly into these considerations.
 > 
-> We talked about Singapore in London before the Malaysian split. Even then we recognised that we could not count on it remaining indefinitely available. Recent events between Singapore and Malaysia could mean that the elements of weakness in the Singapore tenure have become more pronounced. On this, we feel less pessimistic than some of your people. In particular, we do not reject the probability of being able to remain there effectively even after confrontation has ended. But the Singapore, and also the Malaysian bases are so pertinent to the defence of the area—in other words, to the defence against China—that in our view we should look towards means of staying, even in adversity, so that they may be retained as long as possible.2
+> We talked about Singapore in London before the Malaysian split. Even then we recognised that we could not count on it remaining indefinitely available. Recent events between Singapore and Malaysia could mean that the elements of weakness in the Singapore tenure have become more pronounced. On this, we feel less pessimistic than some of your people. In particular, we do not reject the probability of being able to remain there effectively even after confrontation has ended. But the Singapore, and also the Malaysian bases are so pertinent to the defence of the area—in other words, to the defence against China—that in our view we should look towards means of staying, even in adversity, so that they may be retained as long as possible.[2](#f2)
 > 
 > This is obviously not a view which relates only to confrontation, since even after the ending of confrontation, we must still look to a situation of continuing instability throughout South-East Asia, with the continuing vulnerability to external and internal pressures of its component States.
 > 
@@ -73,3 +76,5 @@ I have this morning received this message from Sir Robert Menzies which he asks 
 1 Published as the attachment to Document 40. 
 
 2 Healey minuted Wilson on this sentence in Menzies’ letter: ‘I believe you should take him up on this and force him to think it through. It is one thing for our allies to think that we should not get out of Singapore merely to save money; it is another for them to imply that we ought to stay there (and could stay there) regardless of the practical and political difficulties which will mount up against us if current trends continue’ (UKNA: PREM 13/889, Healey to Wilson, I November 1965).
+
+[NAA: A1209, 1965/6595 PART 2]

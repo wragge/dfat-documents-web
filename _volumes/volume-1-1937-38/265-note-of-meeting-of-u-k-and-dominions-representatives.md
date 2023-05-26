@@ -1,12 +1,17 @@
 ---
-title: "265 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 264
+doc_date: '1938-09-19'
+doc_num: 265
+doc_order: 264
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-19
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 265 Note of Meeting of U.K. and Dominions Representatives
 
 LONDON, 19 September 1938, 2.30 p.m.
 
@@ -38,7 +43,7 @@ There was considerable discussion on the situation. The principal points arising
 
 (5) The question was also raised whether acceptance by Czechoslovakia would not have been facilitated if the Soviet had been introduced into the present discussions, but it was explained that discussion with the Soviet would not have served any useful purpose and that the Czechoslovak Government were more likely to be influenced by the attitude of France.
 
-_
+ _
 
 1 Eduard Benes, President of Czechoslovakia.
 
@@ -52,4 +57,4 @@ A981, Czechoslovakia 13) 3 Neville Chamberlain.
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

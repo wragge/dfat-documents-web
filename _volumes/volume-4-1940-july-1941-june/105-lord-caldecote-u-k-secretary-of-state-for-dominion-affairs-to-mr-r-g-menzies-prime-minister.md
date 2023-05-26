@@ -1,12 +1,18 @@
 ---
-title: "105 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1336
+doc_date: '1940-09-06'
+doc_num: 105
+doc_order: 105
+naa_refs:
+- naa_barcode: 179222
+  naa_control_symbol: NEW C 1 PART 3
+  naa_series: A981
+  reference: '[AA:A981, NEW CALEDONIA 1, iii]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-06
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 105 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 326 LONDON, 6 September 1940, 3.02 p.m.
 
@@ -32,7 +38,7 @@ It is known here on reliable authority that the recent instructions from Vichy t
 
 5\. Apart from the encouraging effect of the arrival of the 'Adelaide' at Noumea on de Gaulle sympathizers (statement by High Commissioner for Western Pacific that between one-third and one- half of 'Dumont D'Urville' crew are pro de Gaulle is relevant in this connection) it would appear that the likelihood of adherence of New Caledonia to de Gaulle would be enhanced by economic pressure which might be put on the present Governor, and economic offers which can be made to de Gaulle's party on the lines of the Prime Minister's [14] letter of 27th August quoted in Dominions Office telegram No. 316 to Commonwealth Government [15] and in Colonial Office telegram to High Commissioner for the Western Pacific No. 142. [16] If Commonwealth decide to take such economic action, this might also be concerted with High Commissioner for Western Pacific as far as trade between New Caledonia and Western Pacific is concerned.
 
-_
+ _
 
 1 See Document 93, note 7, and Document 102, note 5.
 
@@ -46,7 +52,7 @@ _
 
 6 Governor of New Caledonia from 29 August.
 
-7 &amp; 8 Original marked 'groups mutilated'.
+7  & 8 Original marked 'groups mutilated'.
 
 9 Paul Vois. The agreement was in fact signed on 30 July.
 
@@ -66,4 +72,4 @@ _
 
 _
 
-_ [AA:A981, NEW CALEDONIA 1, iii]_
+ _[AA:A981, NEW CALEDONIA 1, iii]_

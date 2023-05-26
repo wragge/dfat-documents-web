@@ -1,14 +1,17 @@
 ---
-title: "368 MINUTE, AMERY TO HOME"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10234
+doc_date: '1972-12-12'
+doc_num: 368
+doc_order: 368
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1318]'
+title: MINUTE, AMERY TO HOME
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-12-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 368 MINUTE, AMERY TO HOME
-
-UKNA: FCO 24/1318
 
 London, 12 December 1972
 
@@ -46,3 +49,5 @@ Personal And Confidential
 7\. The definition of ‘British descent’ would present problems—but ‘grandparents and spouses’ would seem reasonable with a discretionary clause aimed to cover some of the early setters.
 
 8\. As I said earlier ‘the right of return’ concept does not solve the UKPH problem but it does take some of the sting out of the whole immigration issue by suggesting a way of keeping out black and brown immigrants, letting in ‘Kith and Kin’ on EEC terms and still preserving the multi-racial image of the Commonwealth.
+
+[UKNA: FCO 24/1318]

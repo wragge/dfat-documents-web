@@ -1,21 +1,25 @@
 ---
-title: "39 Notes On Statement By Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9547
+doc_date: '1966-04-18'
+doc_num: 39
+doc_order: 39
+naa_refs:
+- naa_barcode: 546858
+  naa_control_symbol: 936/5 PART 4
+  naa_series: A1838
+  reference: '[NAA: A1838, 936/5 part 4]'
+title: Notes On Statement By Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-04-18
-barcode: 546858
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 39 Notes On Statement By Barnes
 
 Canberra, 18 April 1966
 
 Confidential
 
-**Exploratory talks—constitutional development in Papua and New Guinea**
+ **Exploratory talks—constitutional development in Papua and New Guinea**
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 I am very glad to welcome you to this parliamentary building and to Canberra for our talks on constitutional development.
 
@@ -23,11 +27,11 @@ The talks we both understand are quite informal and purely exploratory. This mea
 
 The Government welcomes these talks because constitutional changes are important and serious matters. Constitutional development of the Territory can only go ahead on a sound footing if the people have an understanding and changes are to be made only if there is the clear support of the people. I think we all agree on this because constitutional changes can affect not only the future lives of the present people of the Territory but also the lives of their sons and grandsons and affect them in very important ways.
 
-Where constitutional development of the Territory affects Australia directly or indirectly the Government here will also have to take full account of the views of the Australian people. So the most careful enquiry and thought is necessary before constitutional changes can be made. You will recollect that when I met you in Port Moresby in Januarywe discussed matters concerning the future possible relationship of the Territory with Australia and you as a committee suggested to me that you wanted to know the Australian Government’s thinking before you went out to have discussions with the people2.
+Where constitutional development of the Territory affects Australia directly or indirectly the Government here will also have to take full account of the views of the Australian people. So the most careful enquiry and thought is necessary before constitutional changes can be made. You will recollect that when I met you in Port Moresby in Januarywe discussed matters concerning the future possible relationship of the Territory with Australia and you as a committee suggested to me that you wanted to know the Australian Government’s thinking before you went out to have discussions with the people[2](#f2).
 
 I suggested in those talks that the important thing in constitutional development at this stage was to aim at full internal self-government. You emphasised, however, that as a committee you wanted to know which roads were open to the Territory to travel so far as the long-term political future was concerned.
 
-Following our talk in Port Moresby I have had discussions with my Cabinet colleagues3 and in the course of our talks this week I will be explaining to you how the Government sees the position so far as it is concerned. My Ministerial colleagues will be glad to discuss particular aspects with you as opportunity offers.
+Following our talk in Port Moresby I have had discussions with my Cabinet colleagues[3](#f3) and in the course of our talks this week I will be explaining to you how the Government sees the position so far as it is concerned. My Ministerial colleagues will be glad to discuss particular aspects with you as opportunity offers.
 
 You have been thinking about what the long-term constitutional future of Papua and New Guinea will be so that you can know now what path or what direction should be followed in the meantime. You made it clear to me in our talks in Port Moresby that in talking about what the future position might be you were not suggesting that the rate of development should be hastened or accelerated. You said that a long time would be needed to get to the stage of internal self-government.
 
@@ -53,7 +57,7 @@ These are the kinds of things which the Government has had in mind and which hav
 
 I think it will help if I say now certain definite things about the Government’s views:—
 
-(a) The Government’s broad policy towards the Territory is self&amp;dash;determination.
+(a) The Government’s broad policy towards the Territory is self&dash;determination.
 
 (b) It is the Territory’s prerogative on its own decision and at its own time to regulate its constitutional progress.
 
@@ -83,7 +87,7 @@ It can be taken that Australia will assist towards financial independence by pro
 
 These are general considerations affecting the future. The Government, however, has concluded that as regards the long-term political future of the Territory insofar as Australia is concerned the decisions will need to be made in the future at the relevant time by the Australian Government of the day in the light of circumstances as they actually exist at that time.
 
-In the statement I made in the House of Representatives recently4 I said that the Government did not want to press constitutional changes on the people of the Territory which they did not want or for which they thought they were not ready. I also said that the Government would not refuse to make changes if there was strong and widespread support for change in the Territory. I made it clear that this is the Government’s attitude to the possibility of changes in the House of Assembly as well as the possibility of changes in the executive.
+In the statement I made in the House of Representatives recently[4](#f4) I said that the Government did not want to press constitutional changes on the people of the Territory which they did not want or for which they thought they were not ready. I also said that the Government would not refuse to make changes if there was strong and widespread support for change in the Territory. I made it clear that this is the Government’s attitude to the possibility of changes in the House of Assembly as well as the possibility of changes in the executive.
 
 I particularly want to draw your attention to the time table if it is desired to make any changes in the composition of the House of Assembly. I think you have already recognised that the steps that will need to be taken if changes are to be made in time for the 1968 elections will require very close attention to the time table.
 
@@ -125,7 +129,7 @@ I think from what the people of the Territory have said to me that they are anxi
 
 I have taken some time to show you the Government’s thinking in a broad way so that when we get on to more particular questions you will be able to understand more fully the Government’s view. In the same way if you as Committee Members would care to say anything on general lines that would indicate your thinking about these matters that would help us to understand your thoughts.
 
-[ [NAA: A1838, 936/5 part 4](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=546858) ]
+[NAA: A1838, 936/5 part 4]
 
 1 For context, see second paragraph, Document 38.
 

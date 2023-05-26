@@ -1,12 +1,19 @@
 ---
-title: "296 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8134
+doc_date: '1975-10-25'
+doc_num: 296
+doc_order: 295
+naa_refs:
+- naa_barcode: 4151609
+  naa_control_symbol: 801/13/11/5 PART 1
+  naa_series: A10463
+  reference: '[NAA: A10463, 801113/11/5, i]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-10-25
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 296 Cablegram to Canberra
 
 Jakarta, 25 October 1975, 4.20 p.m.
 
@@ -23,4 +30,4 @@ I saw General Adenan this morning, 25 October. I said that I was surprised to fm
 
 
 
-_[NAA: A10463, 801113/11/5, i]_
+ _[NAA: A10463, 801113/11/5, i]_

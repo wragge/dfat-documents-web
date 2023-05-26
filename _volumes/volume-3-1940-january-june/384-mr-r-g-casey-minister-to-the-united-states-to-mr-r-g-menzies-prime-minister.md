@@ -1,12 +1,17 @@
 ---
-title: "384 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1150
+doc_date: '1940-06-15'
+doc_num: 384
+doc_order: 384
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4326]'
+title: Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 384 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 123 WASHINGTON, 15 June 1940, 12 noon
 
@@ -20,7 +25,7 @@ I once again received the impression that the President is fully convinced of th
 
 CASEY
 
-_
+ _
 
 1 Document 380.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4326]_
+ _[FA: A3195, 1.4326]_

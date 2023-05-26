@@ -1,12 +1,18 @@
 ---
-title: "415 Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2169
+doc_date: '1942-03-17'
+doc_num: 415
+doc_order: 416
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, PAPERS ON 1942 OVERSEAS
+    MISSION, DR EVATTPERSONAL]'
+title: Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-17
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 415 Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States
 
 Cablegram 62 [1] CANBERRA, 17 March 1942, 7.25 p.m.
 
@@ -22,7 +28,7 @@ The Australian Government feels that his leadership of the Allied forces in this
 
 If this nomination is approved might I be informed of the text and time of any announcement. [4]
 
-_ OVERSEAS MISSION, DR EVATTPERSONAL]
+ _
 
 1 Repeated to the U.K. Prime Minister as no. Johcu 27. See Prime Minister's Dept outward cablegram register (AA:A3463, 4).
 
@@ -34,4 +40,4 @@ _ OVERSEAS MISSION, DR EVATTPERSONAL]
 
 _
 
-_ [FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, PAPERS ON 1942_
+ _[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, PAPERS ON 1942 OVERSEAS MISSION, DR EVATTPERSONAL]_

@@ -1,14 +1,20 @@
 ---
-title: "220 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 219
+doc_date: '1938-06-23'
+doc_num: 220
+doc_order: 219
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime
+  Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-06-23
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 220 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister
-
-## Letter SYDNEY, 23 June 1938
+Letter SYDNEY, 23 June 1938
 
 I have the honour to acknowledge the receipt of your letter of June 22nd [1], with further reference to the export of iron ore from Australia.
 
@@ -18,7 +24,7 @@ Before communicating to the Japanese Government the contents of your letter unde
 
 TORAO WAKAMATSU
 
-_
+ _
 
 1 See Document 219.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

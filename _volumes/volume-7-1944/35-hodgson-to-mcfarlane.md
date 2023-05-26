@@ -1,14 +1,19 @@
 ---
-title: "35 Hodgson to McFarlane"
-volume: "Volume 7: 1944"
-doc_id: 2682
+doc_date: '1944-01-28'
+doc_num: 35
+doc_order: 35
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/55/3/1]'
+title: Hodgson to McFarlane
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-28
+vol_title: 'Volume 7: 1944'
 ---
 
-# 35 Hodgson to McFarlane
-
-## Letter CANBERRA, 28 January 1944
+Letter CANBERRA, 28 January 1944
 
 Arising out of the forthcoming visit of Commonwealth officials to London [1], to take part in talks on international economic collaboration, there are certain aspects to which I am directed to invite your attention.
 
@@ -26,7 +31,7 @@ The Minister for External Affairs considers it desirable that in view of his res
 
 I would be glad, therefore, if you would be good enough to make arrangements with the Commonwealth Bank to this effect.
 
-_
+ _
 
 1 The discussions were held from 23 February to 21 March. L. G.
 
@@ -36,4 +41,4 @@ L. McDougall, F. H. Wheeler and E. McCarthy (Assistant Secretary (Marketing), Co
 
 _
 
-_ [AA:A989, 44/735/55/3/1]_
+ _[AA:A989, 44/735/55/3/1]_

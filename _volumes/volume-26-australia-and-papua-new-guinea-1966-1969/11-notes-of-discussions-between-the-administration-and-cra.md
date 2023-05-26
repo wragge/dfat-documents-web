@@ -1,22 +1,27 @@
 ---
-title: "11 Notes Of Discussions Between The Administration And CRA"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9520
+doc_date: '1966-02-10'
+doc_num: 11
+doc_order: 11
+naa_refs:
+- naa_barcode: 12031700
+  naa_control_symbol: 1967/1107
+  naa_series: A452
+  reference: '[NAA: A452, 1967/1107]'
+title: Notes Of Discussions Between The Administration And CRA
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-02-10
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 11 Notes Of Discussions Between The Administration And CRA
 
 Port Moresby, 8-10 February 1966
 
 Confidential
 
-_The present position and possible future development—_
+ _The present position and possible future development—_
 
 (A) BOUGAINVILLE AREA—GENERAL
 
-C.R.A. is interested in 200 square miles of country ... in Southern Bougainville. Ore occurs in four areas marked pink on the small map.2 The Company representatives confirmed that the results of prospecting to date had indicated the possibility of large scale operations, treating low grade ore to yield copper sulphide concentrate for export.
+C.R.A. is interested in 200 square miles of country ... in Southern Bougainville. Ore occurs in four areas marked pink on the small map.[2](#f2) The Company representatives confirmed that the results of prospecting to date had indicated the possibility of large scale operations, treating low grade ore to yield copper sulphide concentrate for export.
 
 Testing and feasibility studies covering the economics of the whole operation will take until the end of 1967 to complete. The Company expects to spend $2m. on this phase of the work in the next 12 months.
 
@@ -30,9 +35,9 @@ During the feasibility study, the staff requirements will be 120 Europeans plus 
 
 Because of the scale of the preliminary prospecting investigations and the range of the facilities required to develop the field, the Company requires, at an early date, assurances and guarantees from the Administration that land and services necessary to develop to the mining stage will be made available; such security is also necessary to enable contacts to be made with possible sources of loan capital. At this stage of the operation, C.R.A. can give indications of the type of facilities they will require but cannot give the specific location or the magnitude of their requirements.
 
-[matter omitted]3
+[matter omitted][3](#f3)
 
-[A452, 1967/1107]
+[NAA: A452, 1967/1107]
 
 1 The meeting was attended, inter alia, by Henderson, Groves, Wood, Espie and King. Ahrens attended for DOT.
 

@@ -1,12 +1,17 @@
 ---
-title: "14 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2305
+doc_date: '1942-08-02'
+doc_num: 14
+doc_order: 14
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1942, 1.30566]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-02
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 14 Bruce to Curtin
 
 Cablegram 121[A] LONDON, 2 August 1942, 7.50 p.m.
 
@@ -80,7 +85,7 @@ BRUCE
 
 _
 
-1 On file AA: M100, June 1942. It outlined Bruce's conception of 
+1 On file AA: M100, June 1942. It outlined Bruce's conception of
 
 his task as Accredited Representative of the Commonwealth Govt.
 
@@ -92,7 +97,7 @@ AA:M100, August 1942.
 
 _
 
-_
+ _
 
 [FA:A3195, 1942, 1.30566]
 

@@ -1,12 +1,19 @@
 ---
-title: "52 Statement of Understanding"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8922
+doc_date: '1979-11-03'
+doc_num: 52
+doc_order: 52
+naa_refs:
+- naa_barcode: 1509871
+  naa_control_symbol: 370/1/19/18 PART 10
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, x]'
+title: Statement of Understanding
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-11-03
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 52 Statement of Understanding
 
 Canberra, 3 November 1979
 
@@ -14,7 +21,7 @@ Canberra, 3 November 1979
 
 Talks in Wellington
 
-Following is text of 'Statement of Understanding between Permanent Heads' agreed in Wellington on 2 November. Please bring to the attention of the Minister. Begins:-1
+Following is text of 'Statement of Understanding between Permanent Heads' agreed in Wellington on 2 November. Please bring to the attention of the Minister. Begins:-[1](#f1)
 
 ## Australian - New Zealand Economic Co-operation Statement of Understanding between Permanent Heads
 
@@ -44,8 +51,6 @@ Following is text of 'Statement of Understanding between Permanent Heads' agreed
 
 
 
-_[NAA: A1838, 37011/19/18, x]_
+ _[NAA: A1838, 37011/19/18, x]_
 
-  * 1 The cablegram was sent to Peacock in Seoul. 
-
-
+  * 1 The cablegram was sent to Peacock in Seoul.

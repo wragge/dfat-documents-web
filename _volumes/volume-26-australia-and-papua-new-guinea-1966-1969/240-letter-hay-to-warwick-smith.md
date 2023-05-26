@@ -1,23 +1,27 @@
 ---
-title: "240 Letter, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9748
+doc_date: '1968-11-15'
+doc_num: 240
+doc_order: 240
+naa_refs:
+- naa_barcode: 4027881
+  naa_control_symbol: 1968/5429
+  naa_series: A452
+  reference: '[NAA: A452, 1968/5429]'
+title: Letter, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-11-15
-barcode: 4027881
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 240 Letter, Hay To Warwick Smith
 
 Port Moresby, 15 November 1968
 
 Confidential 
 
-The Minister might like to know that I have had discussions in the last few days on the Melanesian Independence Party with Mr. Ashton1 and Mr. Toliman, both of whom have recently been in Rabaul.
+The Minister might like to know that I have had discussions in the last few days on the Melanesian Independence Party with Mr. Ashton[1](#f1) and Mr. Toliman, both of whom have recently been in Rabaul.
 
 Both regard the new Party as potentially a force to be reckoned with and certainly one that should not be treated lightly.
 
-According to Mr. Ashton, the leading lights are Mr. Simpson, a Rabaul businessman, and Tomot,2 the Assistant Executive Officer to the Gazelle Peninsula Local Government Council. The latter had at one stage trained as a medical officer but had been eliminated from the course on the grounds of instability. He had a fixation about the Tolais not getting their fair share of Government money. He and persons like him amongst the Tolais were, therefore, very receptive to the kind of proposals which Simpson had been putting forward for his own purposes. He felt it essential for the Government to state its policy quite clearly on unity being the essential basis of economic planning and the Australian Government’s continued financial assistance to the Territory. He also advised that we quickly get out some factual statement on what the Administration in fact has done for the Gazelle as against what the Gazelle in fact contributes, through taxation and other means, to the central revenue. He said there was a kind of cargo cult attitude towards Government assistance which derived from a feeling that the Government had unlimited resources and it was only a question of the right means of getting at them. If one did not have the means, then this was due to Europeans keeping it from them. Mr. Ashton intends to look further into the basis of the support for the Party. He is attending a meeting to be held in Rabaul on 12th November, at which it is expected that the new Party’s full platform will be revealed.
+According to Mr. Ashton, the leading lights are Mr. Simpson, a Rabaul businessman, and Tomot,[2](#f2) the Assistant Executive Officer to the Gazelle Peninsula Local Government Council. The latter had at one stage trained as a medical officer but had been eliminated from the course on the grounds of instability. He had a fixation about the Tolais not getting their fair share of Government money. He and persons like him amongst the Tolais were, therefore, very receptive to the kind of proposals which Simpson had been putting forward for his own purposes. He felt it essential for the Government to state its policy quite clearly on unity being the essential basis of economic planning and the Australian Government’s continued financial assistance to the Territory. He also advised that we quickly get out some factual statement on what the Administration in fact has done for the Gazelle as against what the Gazelle in fact contributes, through taxation and other means, to the central revenue. He said there was a kind of cargo cult attitude towards Government assistance which derived from a feeling that the Government had unlimited resources and it was only a question of the right means of getting at them. If one did not have the means, then this was due to Europeans keeping it from them. Mr. Ashton intends to look further into the basis of the support for the Party. He is attending a meeting to be held in Rabaul on 12th November, at which it is expected that the new Party’s full platform will be revealed.
 
 Mr. Toliman said that the dissatisfaction which led to the formation of the Melanesian Independence Party was based on the following feelings:
 
@@ -39,7 +43,7 @@ Speaking on the Development Bank, Mr. Toliman said that the indigenous Tolais te
 
 It is expected that we shall find out more about the Melanesian Independence Party as a result of the meeting which is to beheld on 12th November.
 
-[ [NAA: A452, 1968/5429](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4027881) ]
+[NAA: A452, 1968/5429]
 
 1  O.I. Ashton.
 

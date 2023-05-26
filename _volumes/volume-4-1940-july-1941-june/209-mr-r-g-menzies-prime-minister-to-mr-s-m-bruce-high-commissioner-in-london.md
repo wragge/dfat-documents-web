@@ -1,12 +1,17 @@
 ---
-title: "209 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1440
+doc_date: '1940-11-26'
+doc_num: 209
+doc_order: 209
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.9359]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-26
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 209 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 1357 26 November 1940,
 
@@ -20,7 +25,7 @@ In our opinion the greatest efforts should be made with all urgency to persuade 
 
 MENZIES
 
-_
+ _
 
 1 Lord Cranborne.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.9359]_
+ _[AA:A3196, 1940, 0.9359]_

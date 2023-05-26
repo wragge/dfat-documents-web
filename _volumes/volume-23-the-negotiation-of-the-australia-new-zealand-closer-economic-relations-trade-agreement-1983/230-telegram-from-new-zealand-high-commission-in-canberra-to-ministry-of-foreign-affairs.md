@@ -1,18 +1,26 @@
 ---
-title: "230 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9099
+doc_date: '1981-10-01'
+doc_num: 230
+doc_order: 230
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-10-01
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 230 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 1 October 1981
 
 No 2976. CONFIDENTIAL NZEO PRIORITY
 
-**ANZCER: Prime Ministers Discussion at CHOGM**
+ **ANZCER: Prime Ministers Discussion at CHOGM**
 
 Trade (Lind) has given us a report of the discussion between Mr Muldoon and Mr Fraser on CER matters at CHOGM. His version is based on contact with Anderson who was present at the meeting.
 
@@ -25,4 +33,4 @@ Trade (Lind) has given us a report of the discussion between Mr Muldoon and Mr F
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 39 Archives New Zea1and/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 39 Archives New Zea1and/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

@@ -1,12 +1,17 @@
 ---
-title: "348 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 685
+doc_date: '1939-11-10'
+doc_num: 348
+doc_order: 348
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 348 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 642 LONDON, 10 November 1939, 8.40 p.m.
 
@@ -18,7 +23,7 @@ For your personal information I suspect this indefinite postponement is what is 
 
 BRUCE
 
-_
+ _
 
 1 Document 339.
 
@@ -32,4 +37,4 @@ See the Times, 6 November 1939, P.6.
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

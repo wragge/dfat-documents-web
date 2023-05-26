@@ -1,18 +1,24 @@
 ---
-title: "320 Evatt to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3351
+doc_date: '1945-10-16'
+doc_num: 320
+doc_order: 320
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN
+    MINISTERS'' CONFERENCE. 1.33053]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-16
+vol_title: 'Volume 8: 1945'
 ---
 
-# 320 Evatt to Chifley
-
-## Cablegram unnumbered LONDON, 16 October 1945, 5.45 p.m.
+Cablegram unnumbered LONDON, 16 October 1945, 5.45 p.m.
 
 While in London I have been particularly impressed with the importance of Australian participation in the obtaining and using of industrial and technical information from Germany. In this we are already at a disadvantage compared with the United Kingdom, Canada and the United States of America, who are actively engaged in the procurement and dissemination of such material. The general arrangements which have been set up for this purpose and of which we can take advantage are outlined in cable No. 10097 of 21st September [1] from the Deputy High Commissioner and in earlier cables. I would urge that you direct that immediate attention be given to this matter and I recommend strongly that the suggestions put forward in cable 10097 be adopted without delay. [2] I suggest that you consult W. H. Coulson, Australian Munitions Representative in London who is at present on a brief visit to Australia to report to his Department. He is fully informed of the present situation.
 
-_ FOREIGN MINISTERS' CONFERENCE. 1.33053]
+ _
 
 1 In AA : A3195, 1945, I.30500/16. It reported the setting up of the British Intelligence Objectives Subcommittee to examine and classify technical data received from the British occupation force in Germany.
 
@@ -20,4 +26,4 @@ _ FOREIGN MINISTERS' CONFERENCE. 1.33053]
 
 _
 
-_ [AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON._
+ _[AA : A3195, 1945, FOLDER, TO AND FROM DR. EVATT IN LONDON. FOREIGN MINISTERS' CONFERENCE. 1.33053]_

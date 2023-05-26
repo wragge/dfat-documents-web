@@ -1,16 +1,21 @@
 ---
-title: "204 Draft Minute By Unidentified Doet Officer"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9712
+doc_date: 1968-06
+doc_num: 204
+doc_order: 204
+naa_refs:
+- naa_barcode: 12071416
+  naa_control_symbol: 1968/2631
+  naa_series: A452
+  reference: '[NAA: A452, 1968/2631]'
+title: Draft Minute By Unidentified Doet Officer
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-01-23
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 204 Draft Minute By Unidentified Doet Officer
 
 Canberra, undated
 
-**Papua and New Guinea: arrangements for reference of bills to Department of External Territories**
+ **Papua and New Guinea: arrangements for reference of bills to Department of External Territories**
 
 Following discussions, it was agreed in 1964 with the Administrator that any proposal for an official Bill, which involves new principles, or principles which are not covered adequately by approved policy, will be referred to the Department for submission of policy issues to the Minister. It was also agreed that official Bills for Ordinances which are required to be reserved for the Governor-General’s pleasure together with money Bills, will combine to be forwarded for the Minister’s consideration _before_ introduction into the House of Assembly.
 
@@ -20,7 +25,7 @@ Following discussions, it was agreed in 1964 with the Administrator that any pro
 
 4\. It appears, therefore, that as no further agreement to the contrary has subsequently been reached, the department is entitled to expect that proposals for Bills involving new policy and copies of official Bills for Ordinances which are required to be reserved or money Bills will be forwarded for consideration prior to introduction of the legislation into the House.
 
-5\. The Administration did not adhere to the above named arrangements for the House of Assembly Meeting concluded last month.2
+5\. The Administration did not adhere to the above named arrangements for the House of Assembly Meeting concluded last month.[2](#f2)
 
 [NAA: A452, 1968/2631] 
 

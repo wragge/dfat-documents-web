@@ -1,14 +1,20 @@
 ---
-title: "313 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1544
+doc_date: '1941-02-22'
+doc_num: 313
+doc_order: 313
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1941, 0.2294]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 313 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 109 22 February 1941,
+Cablegram 109 22 February 1941,
 
 Your secret telegram 110 of 20th February. [1] Ship Warrant Scheme. Commonwealth Government quite appreciates that possibilities of securing co-operation of Japanese shipowners for this scheme should be fully tested.
 
@@ -20,7 +26,7 @@ Quite independently Commonwealth Government was considering whether it would be 
 
 It is noted from your telegram that Commonwealth authorities should use their own discretion in granting facilities other than for bunkers. You may rest assured that no measure of priority will be given in respect of these other facilities. Indeed our objective broadly speaking will be in the reverse direction.
 
-_
+ _
 
 1 Document 310.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA:A3196, 1941, 0.2294]_
+ _[AA:A3196, 1941, 0.2294]_

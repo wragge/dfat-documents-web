@@ -1,15 +1,19 @@
 ---
-title: "13 Memorandum prepared for Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 13
+doc_date: '1937-03-08'
+doc_num: 13
+doc_order: 13
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP4/3
+  reference: '[AA : CP4/3, BUNDLE 1, ITEM R. G. CASEY 2A]'
+title: Memorandum prepared for Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-03-08
-barcode: 243028
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 13 Memorandum prepared for Delegation to Imperial Conference
-
-## Extract MELBOURNE, 8 March 1937
+Extract MELBOURNE, 8 March 1937
 
 THE POLITICAL AND STRATEGICAL CONSIDERATIONS RELATING TO IMPERIAL AND LOCAL DEFENCE
 
@@ -23,4 +27,4 @@ While realizing Britain's world-wide interests, particularly in the maintenance 
 
 2 For a summary of the whole paper see Document 20.
 
-[ [AA : CP4/3, BUNDLE 1, ITEM R. G. CASEY 2A](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=243028) ]
+[AA : CP4/3, BUNDLE 1, ITEM R. G. CASEY 2A]

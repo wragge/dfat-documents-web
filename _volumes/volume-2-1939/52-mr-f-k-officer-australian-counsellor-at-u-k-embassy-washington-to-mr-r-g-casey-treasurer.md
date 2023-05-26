@@ -1,12 +1,18 @@
 ---
-title: "52 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Mr R.G. Casey, Treasurer"
-volume: "Volume 2: 1939"
-doc_id: 389
+doc_date: '1939-03-22'
+doc_num: 52
+doc_order: 52
+naa_refs:
+- naa_barcode: 235473
+  naa_control_symbol: '1'
+  naa_series: A3300
+  reference: '[FA: AA1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]'
+title: Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Mr R.G.
+  Casey, Treasurer
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-03-20
+vol_title: 'Volume 2: 1939'
 ---
-
-# 52 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Mr R.G. Casey, Treasurer
 
 Letter (extract) WASHINGTON, 22, March 1939
 
@@ -18,7 +24,7 @@ It is just because I believe that influence can be used so much for good that my
 
 F. KEITH OFFICER
 
-_
+ _
 
 1 Lt Col W.R. Hodgson, Secretary of Department of External Affairs.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [FA: AA1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]_
+ _[FA: AA1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]_

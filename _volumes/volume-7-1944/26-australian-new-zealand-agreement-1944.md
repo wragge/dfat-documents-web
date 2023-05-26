@@ -1,12 +1,17 @@
 ---
-title: "26 Australian - New Zealand Agreement 1944"
-volume: "Volume 7: 1944"
-doc_id: 2673
+doc_date: '1944-01-21'
+doc_num: 26
+doc_order: 26
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:AUSTRALIAN TREATY COLLECTION]'
+title: Australian - New Zealand Agreement 1944
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-21
+vol_title: 'Volume 7: 1944'
 ---
-
-# 26 Australian - New Zealand Agreement 1944
 
 CANBERRA, 21 January 1944
 
@@ -160,10 +165,10 @@ SIGNED on behalf of His SIGNED on behalf of His MAJESTY'S GOVERNMENT MAJESTY'S G
 
 PETER FRASER JOHN CURTIN F. JONES F. M. FORDE P. C. WEBB J. B. CHIFLEY C. A. BERENDSEN H. V. EVATT JOHN A. BEASLEY NORMAN J. O. MAKIN ARTHUR S. DRAKEFORD JOHN J. DEDMAN ED. J. WARD TOM D'ALTON
 
-_
+ _
 
 1 i.e. the Four Power Declaration.
 
 _
 
-_ [FA:AUSTRALIAN TREATY COLLECTION]_
+ _[FA:AUSTRALIAN TREATY COLLECTION]_

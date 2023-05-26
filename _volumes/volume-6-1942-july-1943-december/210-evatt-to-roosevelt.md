@@ -1,14 +1,20 @@
 ---
-title: "210 Evatt to Roosevelt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2501
+doc_date: '1943-06-03'
+doc_num: 210
+doc_order: 210
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FRANKLIN D. ROOSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT''S SECRETARY''S
+    FILE, BOX 32, PSF AUSTRALIA]'
+title: Evatt to Roosevelt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-06-03
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 210 Evatt to Roosevelt
-
-## Letter WASHINGTON, 3 June 1943
+Letter WASHINGTON, 3 June 1943
 
 On behalf of the Australian Government I thank you most sincerely for your continued assistance in connection with Mr. Curtin's proposal for equipping and developing the Royal Australian Air Force. Australia will be most grateful. Mr. Churchill's signal from abroad too was most satisfactory indeed. [1]
 
@@ -58,7 +64,7 @@ Conditions of operations in the Australian theatres call primarily for multi-eng
 
 6\. Transport (Seaplanes): The R.A.A.F. contains one Transport Squadron equipped with Flying Boats. This squadron was formed originally by taking Empire Boats from Qantas Empire Airways. The squadron is composed of personnel of long experience, who have done excellent work. Their equipment, however, has now been reduced to one boat only. This unit should be re-equipped as early as possible. The conditions of the area offer exceptional possibilities for the use of this type, especially during operations. [2]
 
-_ 1 Multi-seater.
+ _1 Multi-seater.
 
 2 Roosevelt replied on 11 June that the U.S. Govt was prepared to give Australia approximately 475 planes prior to the end of 1944, in addition to any previous commitments. Some planes, probably dive bombers and fighters, would be sent at once, but no definite commitments could be made at that time as to the types and delivery dates of the remainder. See letter in Franklin D.
 
@@ -66,4 +72,4 @@ Roosevelt Library: Roosevelt Papers, Map Room files, box 170, A16- 3 Warfare-Sou
 
 _
 
-_ [FRANKLIN D. ROOSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT'S SECRETARY'S FILE, BOX 32, PSF AUSTRALIA]_
+ _[FRANKLIN D. ROOSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT'S SECRETARY'S FILE, BOX 32, PSF AUSTRALIA]_

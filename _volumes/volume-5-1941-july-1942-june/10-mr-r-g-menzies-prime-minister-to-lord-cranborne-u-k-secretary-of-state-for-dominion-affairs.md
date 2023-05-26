@@ -1,16 +1,22 @@
 ---
-title: "10 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1764
+doc_date: '1941-07-20'
+doc_num: 10
+doc_order: 11
+naa_refs:
+- naa_barcode: 206516
+  naa_control_symbol: E45/2/1
+  naa_series: A1608
+  reference: '[AA : A1608, E45/2/1, V]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-barcode: 206516
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 10 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
+Cablegram 456 [1] CANBERRA, 20 July 1941
 
-Cablegram 456 [1] CANBERRA, 20 July 194I
-
-PERSONAL MOST SECRET &amp;amp; URGENT
+PERSONAL MOST SECRET &amp; URGENT
 
 For your Prime Minister [2] from Prime Minister.
 
@@ -60,18 +66,16 @@ to which we attach real and indeed urgent importance.
 
 MENZIES
 
-_
+ _
 
-1 Repeated to the Deputy Commander-in-Chief in the Middle East as 
-
-no. 15.
+1 Repeated to the Deputy Commander-in-Chief in the Middle East as no. 15.
 
 2 Winston Churchill.
 
 _
 
-_
+ _
 
-[ [AA : A1608, E45/2/1, V](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=206516) ]
+[AA : A1608, E45/2/1, V]
 
 _

@@ -1,12 +1,17 @@
 ---
-title: "200 Bevin to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3231
+doc_date: '1945-08-17'
+doc_num: 200
+doc_order: 200
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, INWARDS MOST SECRET MASTER SHEETS,1.26689]'
+title: Bevin to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-17
+vol_title: 'Volume 8: 1945'
 ---
-
-# 200 Bevin to Evatt
 
 Cablegram 217 LONDON, 17 August 1945, 9.08 p.m.
 
@@ -16,7 +21,7 @@ I have now gone into the circumstances in which the Potsdam Proclamation was iss
 
 I can only repeat our regret that the document was issued without previous communication with the Dominions Governments, but, as you will note, the circumstances were exceptional. The strictures in the last sentence of your telegram of the 28th July [2], seem to me quite unmerited. In the past seven months alone we have sent you nearly 1400 telegrams dealing with the Foreign Affairs.
 
-_
+ _
 
 1 Document 162.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA : A3195, 1945, FOLDER, INWARDS MOST SECRET MASTER SHEETS,1.26689]_
+ _[AA : A3195, 1945, FOLDER, INWARDS MOST SECRET MASTER SHEETS,1.26689]_

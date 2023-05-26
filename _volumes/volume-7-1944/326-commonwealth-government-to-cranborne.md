@@ -1,12 +1,17 @@
 ---
-title: "326 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2973
+doc_date: '1944-10-23'
+doc_num: 326
+doc_order: 326
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, E44/350/4/6]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-23
+vol_title: 'Volume 7: 1944'
 ---
-
-# 326 Commonwealth Government to Cranborne
 
 Cablegram 275 [1] CANBERRA, 23 October 1944
 
@@ -20,7 +25,7 @@ We welcome the proposal to recognise the present French administration as the Pr
 
 Duff Cooper.
 
-_
+ _
 
 1 Repeated to the N.Z. Prime Minister as no. 231.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A989, E44/350/4/6]_
+ _[AA:A989, E44/350/4/6]_

@@ -1,12 +1,17 @@
 ---
-title: "151 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 150
+doc_date: '1938-03-23'
+doc_num: 151
+doc_order: 150
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-23
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 151 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 
 Cablegram unnumbered 23 March 1938,
 
@@ -16,10 +21,10 @@ My colleagues and I have given careful consideration to matter of attitude to be
 
 LYONS
 
-_
+ _
 
 1 No record of these discussions has been located.
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

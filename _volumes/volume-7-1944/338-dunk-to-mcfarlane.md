@@ -1,12 +1,17 @@
 ---
-title: "338 Dunk to McFarlane"
-volume: "Volume 7: 1944"
-doc_id: 2985
+doc_date: '1944-11-06'
+doc_num: 338
+doc_order: 338
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, V]'
+title: Dunk to McFarlane
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-06
+vol_title: 'Volume 7: 1944'
 ---
-
-# 338 Dunk to McFarlane
 
 Cablegram 1080 [1] WASHINGTON, 6 November 1944, 11.06 p.m.
 
@@ -28,7 +33,7 @@ McFarlane from Dunk.
 
 7\. Re your paragraph 8, I think that it would be very unwise to raise here the question of limiting Reciprocal Aid. I am convinced that we will get substantial relief after the end of this year as a result of the transfer of United States Forces. In addition, I am satisfied that the United States Army here and in Australia will co-operate fully in the gradual reduction of demands for particular goods if we ask it, for reasons of local shortages, etc. I have mailed notes of conversation with General Edgerton 
 
-_ this.
+_this.
 
 8\. Keynes has marred [4] me (his term) a copy of the United Kingdom presentation on Stage II Lend-lease. It is a comprehensive and well prepared document on National economy balance sheet lines. As a case for assistance it is entirely convincing, but as a statement of financial facts rather depressing. Brigden and I have an appointment with him to-day for general discussion and will let you know if anything specific emerges.
 
@@ -44,4 +49,4 @@ _ this.
 
 _
 
-_ [3], United States Army International Division, which bear on_
+ _[3], United States Army International Division, which bear on_

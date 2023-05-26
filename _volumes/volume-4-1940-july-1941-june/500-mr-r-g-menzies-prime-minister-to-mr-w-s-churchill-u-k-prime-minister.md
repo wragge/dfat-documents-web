@@ -1,12 +1,17 @@
 ---
-title: "500 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1731
+doc_date: '1941-06-12'
+doc_num: 500
+doc_order: 500
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.7918]'
+title: Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 500 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
 
 Cablegram 363 12 June 1941,
 
@@ -36,7 +41,7 @@ I appreciate greatly your cablegram of 11th June [1] and the assurances in your 
 
 MENZIES
 
-_
+ _
 
 1 Document 497.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA: A3196, 1941, 0.7918]_
+ _[AA: A3196, 1941, 0.7918]_

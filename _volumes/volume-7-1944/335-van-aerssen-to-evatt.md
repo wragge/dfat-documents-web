@@ -1,14 +1,19 @@
 ---
-title: "335 Van Aerssen to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2982
+doc_date: '1944-11-03'
+doc_num: 335
+doc_order: 335
+naa_refs:
+- naa_barcode: 184631
+  naa_control_symbol: 1943/600/5/1/5
+  naa_series: A989
+  reference: '[AA:A989, 43-44/600/5/1/5]'
+title: Van Aerssen to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-03
+vol_title: 'Volume 7: 1944'
 ---
 
-# 335 Van Aerssen to Evatt
-
-## Letter MELBOURNE, 3 November 1944
+Letter MELBOURNE, 3 November 1944
 
 With reference to our correspondence ending with your letter of 5th April, no. 1429 [1], I have the honour to inform you that Dr.
 
@@ -40,7 +45,7 @@ van Mook has retained his portfolio as Minister of the Colonies, pending the res
 
 VAN AERSSEN BEYEREN
 
-_
+ _
 
 1 Document 107. The exchange of correspondence referred to is on file AA:A989, 43-44/600/5/1/5.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/600/5/1/5]_
+ _[AA:A989, 43-44/600/5/1/5]_

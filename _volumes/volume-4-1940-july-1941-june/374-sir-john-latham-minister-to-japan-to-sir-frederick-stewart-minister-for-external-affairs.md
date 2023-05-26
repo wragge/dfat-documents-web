@@ -1,12 +1,18 @@
 ---
-title: "374 Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Minister for External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1605
+doc_date: '1941-03-30'
+doc_num: 374
+doc_order: 374
+naa_refs:
+- naa_barcode: 176221
+  naa_control_symbol: FAR 21
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST21A]'
+title: Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Minister for
+  External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-30
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 374 Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Minister for External Affairs
 
 Dispatch S-35 (extracts) TOKYO, 30 March 1941
 
@@ -62,7 +68,7 @@ In February last several public statements were made on behalf of the Government
 
 J. G. LATHAM
 
-_
+ _
 
 1 For an account of Matsuoka's visit to Moscow, Berlin and Rome in March and April, 1941, see Arnold Toynbee and Veronica M. Toynbee (eds), Survey of International Affairs 1939-1946; The Initial Triumph of the Axis, London, 1958.
 
@@ -78,4 +84,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST21A]_
+ _[AA:A981, FAR EAST21A]_

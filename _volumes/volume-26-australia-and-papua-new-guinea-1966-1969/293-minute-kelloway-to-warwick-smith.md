@@ -1,21 +1,25 @@
 ---
-title: "293 Minute, Kelloway To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9801
+doc_date: '1969-07-09'
+doc_num: 293
+doc_order: 293
+naa_refs:
+- naa_barcode: 3121863
+  naa_control_symbol: 1970/460
+  naa_series: A452
+  reference: '[NAA: A452, 1970/460]'
+title: Minute, Kelloway To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-07-09
-barcode: 3121863
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 293 Minute, Kelloway To Warwick Smith
 
 Canberra, 9 July 1969
 
-**Steps in constitutional development**
+ **Steps in constitutional development**
 
 You directed me some time ago to prepare a paper on the steps which should be taken at our end preparatory to self-government and independence.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 4\. The general approach adopted is that preparation of Cabinet Papers should commence respectively—
 
@@ -33,7 +37,7 @@ This would involve prior discussion with other Departments in many cases and it 
 
 6\. If, however, you decide that the detail should be filled out with consideration of the substantive issues involved we will try to play it in the lowest possible key and keep discussion with other Departments to a minimum.
 
-**Attachment**
+ **Attachment**
 
 STEPS IN CONSTITUTIONAL DEVELOPMENT
 
@@ -41,7 +45,7 @@ This paper is an attempt to set out the steps which must be taken prior to TPNG 
 
 The paper is written on the assumption that there will be two defined stages in the Territory’s constitutional development, firstly self-government and secondly independence. For the purposes of the exercise, self-government is taken to mean the achievement of a government which in the terminology of the constitutional lawyers is sovereign within its powers. This means that like the Australian States or for that matter the Commonwealth itself it is supreme or sovereign in relation to a limited range of subjects. In the case ofthe Territory probably this range will be wider than the subjects assigned to an Australian State but the real point is not the range of subjects but the possession of unfettered power in relation to them.
 
-The second stage, independence, may be taken to mean that P&amp;NG will then possess most of the attributes of a state at international law. The definition, however, does not prejudge whether any special relationship between P&amp;NG and Australia may result in the situation in which the Territory does not exercise some of these powers of statehood.
+The second stage, independence, may be taken to mean that P&NG will then possess most of the attributes of a state at international law. The definition, however, does not prejudge whether any special relationship between P&NG and Australia may result in the situation in which the Territory does not exercise some of these powers of statehood.
 
 In practice it is obvious that the nature and form of self-government and of independent statehood will determine whether some of the questions discussed below arise at one stage or other or whether they arise at all. For example, a self-governing but not independent country can possess its own army as the Australian colonies did before federation. On the other hand an independent State could theoretically at least enter into arrangements with Australia which made it unnecessary for it to maintain its own defence forces. Since this paper is essentially an exercise in time limits its seems sensible to assume that self-government will involve the widest possible range of powers. This means that some of the questions considered as a prelude to self-government may not in fact need to be considered until self-government is achieved and consideration is being given to independence.
 
@@ -53,13 +57,13 @@ BEFORE SELF-GOVERNMENT
 
 Work out a constitution acceptable to TPNG and Australia.
 
-_Problems_
+ _Problems_
 
 • mode of formulation and agreement in TPNG e.g., by referendum, constitutional convention, etc;
 
-• whether any amendment of Australian constitution is necessary—depends on interpretation of section 122 of constitution1 and on the nature of the self-governing State’s relationship with Australia.
+• whether any amendment of Australian constitution is necessary—depends on interpretation of section 122 of constitution[1](#f1) and on the nature of the self-governing State’s relationship with Australia.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Preparation of Cabinet paper defining limits to which government is prepared to go. 4.0-3.5
 
@@ -79,13 +83,13 @@ _Suggested programme_
 
 Although most appointments would continue some new ones will probably be necessary—as a minimum there will probably be a Governor or High Commissioner but there could conceivably be others.
 
-Consideration of suitable appointees should begin as soon as the proposed constitution is provisionally accepted by the Australia Government—the time is therefore ...2 1.0–0.0
+Consideration of suitable appointees should begin as soon as the proposed constitution is provisionally accepted by the Australia Government—the time is therefore ...[2](#f2) 1.0–0.0
 
 3\. Legal System
 
 Make the necessary adjustments to the legal system.
 
-_Problems_
+ _Problems_
 
 • Powers now vested in Minister and Administrator mostly to be transferred to some authority in TPNG, say Governor-in-Council.
 
@@ -97,7 +101,7 @@ _Problems_
 
 The complexity of these questions makes it undesirable and perhaps in some cases impossible that they should be handled primarily by a Select Committee or Constitutional Convention.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Expert Committee on legal implications of self-government to prepare report, working in conjunction with Select Committee. 3.0–2.0
 
@@ -113,7 +117,7 @@ _Suggested programme_
 
 A decision needs to be taken on the future of the Commonwealth Departments and instrumentalities now operating in the Territory.
 
-_Problems_
+ _Problems_
 
 • In addition to Defence departments, Commonwealth and Reserve Banks and TAA (which are dealt with below) these are—
 
@@ -131,21 +135,21 @@ _Problems_
 
 \- O.T.C.
 
-\- C.S.l.R.0.3
+\- C.S.l.R.0.[3](#f3)
 
-\- P.S.B.4
+\- P.S.B.[4](#f4)
 
 • The nature and form of self-government adopted will have a substantial influence on whether these Commonwealth organisations continue operating in the Territory.
 
 • The Departments etc., concerned should be consulted well in advance of the constitutional drafting stage so that their views can be taken into account.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Some functions should probably be transferred to Administration well before self-government.
 
 • It is most desirable to build up a strong tradition of audit within the Administration. Examination of the possibility of setting up a TPNG Audit Office should commence _immediately._
 
-• The position in relation to DCA will also come under examination as a result of the UNDP Transport Survey.5
+• The position in relation to DCA will also come under examination as a result of the UNDP Transport Survey.[5](#f5)
 
 • DOET should work out its position on remaining departments. 6.0–5.0
 
@@ -155,7 +159,7 @@ _Suggested programme_
 
 Depending on the outcome of 4 above some Australian Government aspects may need to be transferred to the PNG Government.
 
-_Problems_
+ _Problems_
 
 • Determination of assets to be transferred.
 
@@ -163,7 +167,7 @@ _Problems_
 
 • Legal provisions involved.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Assets to be transferred to be determined and question of payment settled in conjunction with 4 above. 6.0–4.0
 
@@ -173,7 +177,7 @@ _Suggested programme_
 
 To protect Australian investments after self-government and to prevent any panic repatriation of capital.
 
-_Problems_
+ _Problems_
 
 • Select among alternative means of providing security e.g., by guarantee, agreement with PNG etc.
 
@@ -183,7 +187,7 @@ _Problems_
 
 Whatever scheme is adopted should be announced as early as possible to prevent a slackening of investment during the period when the constitution is under consideration.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Consideration of alternative in Department. 4.5–4.0
 
@@ -195,7 +199,7 @@ _Suggested programme_
 
 To define the citizenship of inhabitants of the Territory and migration rights between Australia and the Territory.
 
-_Problems_
+ _Problems_
 
 • Satisfactory definition of the citizenship of indigenous inhabitants.
 
@@ -205,9 +209,9 @@ _Problems_
 
 • Persons born in the Territory of Australian parents.
 
-• Control over government of Australians into PNG—vested in government of PNG (?)6
+• Control over government of Australians into PNG—vested in government of PNG (?)[6](#f6)
 
-_Suggested programme_
+ _Suggested programme_
 
 • Consultation with Department of Immigration. 5.0–4.0
 
@@ -217,7 +221,7 @@ _Suggested programme_
 
 To ensure the continuation of a viable service in the self-governing state and to protect the rights of Australians in the PNG Service.
 
-_Problems_
+ _Problems_
 
 • Self-government must mean full control of public service.
 
@@ -225,7 +229,7 @@ _Problems_
 
 It is possible that this problem may have been largely solved in advance by the creation of an Australian overseas service. If this has not been done—
 
-_Suggested programme_
+ _Suggested programme_
 
 • Department to work out position and perhaps obtain Cabinet approval to broad outlines. 5.5–5.0
 
@@ -237,13 +241,13 @@ _Suggested programme_
 
 To devise suitable financial arrangements for self-government.
 
-_Problems_
+ _Problems_
 
 • If PNG still heavily dependent on Australia[n] grant may seek some assurance of its continuation.
 
 • Australian Government probably unwilling to tie its hands in this way.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Departmental working paper. 5.0–4.5
 
@@ -255,29 +259,29 @@ _Suggested programme_
 
 To transfer to Australian custody records which are and should remain Australian property.
 
-_Problems_
+ _Problems_
 
 • To identify appropriate records.
 
 • To organise separation and eventual return to Australia.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Work on physical separation of these records[;] already begun (file 67 /7927).
 
 • This should continue.
 
-• Records should be returned to Australia over period ...7 5.0–0.0
+• Records should be returned to Australia over period ...[7](#f7) 5.0–0.0
 
 11\. Missions
 
 Missions may request some entrenched protection of their rights, especially right of entry for mission personnel.
 
-_Problems_
+ _Problems_
 
 • Any entrenchment may be considered. infringement of right of self-governing state.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Departmental examination of position. 5.5–5.0
 
@@ -289,13 +293,13 @@ _Suggested programme_
 
 To determine whether PNG remains part of the Australian currency and banking system.
 
-_Problems_
+ _Problems_
 
 • Use of Australian currency.
 
 • Application of Australiap banking legislation.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Study in Department. 5.5–5.0
 
@@ -307,13 +311,13 @@ _Suggested programme_
 
 To determine whether self-government indicates any change in existing provisions governing trade between PNG and Australia.
 
-_Problems_
+ _Problems_
 
 • Self-government probably means PNG has power to determine own tariff structure.
 
 • Need to determine whether this involves any change in Australian trade arrangements.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Study in Department. 5.0–4.5
 
@@ -325,7 +329,7 @@ _Suggested programme_
 
 To determine whether PNG should assume responsibility for own defence forces.
 
-_Problems_
+ _Problems_
 
 • Self-governing state, especially if obviously headed for independence, may wish to control own defence forces
 
@@ -337,7 +341,7 @@ _Problems_
 
 • Implications for defence of Australia.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Consideration in Department. 6.0–5.0
 
@@ -349,7 +353,7 @@ _Suggested programme_
 
 To achieve adequate demarcation and full ratification of the borders before self-government.
 
-_Problems_
+ _Problems_
 
 • West Irian border—better demarcation; ratification.
 
@@ -357,7 +361,7 @@ _Problems_
 
 • Both questions more difficult to handle after self-government.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Likely to be very long; drawn out.
 
@@ -367,15 +371,15 @@ _Suggested programme_
 
 To settle control of air services and facilities and ownership of airlines.
 
-_Problems_
+ _Problems_
 
 • DCA—see 4 above.
 
-• Whether self-governing PNG should/would allow TAA and ANA8 to operate on present basis.
+• Whether self-governing PNG should/would allow TAA and ANA[8](#f8) to operate on present basis.
 
 • This could conceivably involve the future ownership of TAA assets in PNG.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Will be affected by results of UNDP Transport Survey recommendation.
 
@@ -391,7 +395,7 @@ _Suggested programme_
 
 To ensure that the form of self-government is consistent with Australia’s obligations under the Trusteeship Agreement or else that the Agreement is discharged.
 
-_Problems_
+ _Problems_
 
 • Australia has certain obligations under Agreement e.g., to guarantee freedom of speech, assembly etc.
 
@@ -399,7 +403,7 @@ _Problems_
 
 • Problems could be solved if Agreement discharged at self-government but U.N. probably unwilling to do this before independence.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Consideration in Department and discussion with External Affairs. 5.0–4.0
 
@@ -447,13 +451,13 @@ Those outstanding will require consideration along the lines already set out. Th
 
 Legal machinery for achieving independence.
 
-_Problems_
+ _Problems_
 
 • mode of formulation and agreement in PNG;
 
 • whether any continuing association between PNG and Australia desired by either party.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Cabinet Paper defining Australian approach. 3.0–2.0
 
@@ -467,13 +471,13 @@ _Suggested programme_
 
 Defence relations between Australia and independent PNG.
 
-_Problems_
+ _Problems_
 
 • Whether any special defence arrangement desired and if so details;
 
 • Nature of arrangement e.g., agreement before or after independence.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Inter-departmental committee. 4.0–3.0
 
@@ -485,7 +489,7 @@ _Suggested programme_
 
 Whether Australia retains any special relationship with PNG in this field.
 
-_Problems_
+ _Problems_
 
 • Obligations of independent PNG under existing treaties and conventions.
 
@@ -493,7 +497,7 @@ _Problems_
 
 • Whether any treaty should be negotiated in conjunction with independence.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Discussion with External Affairs. 4.0–3.0
 
@@ -507,13 +511,13 @@ _Suggested programme_
 
 Termination of Trusteeship Agreement and sponsorship of PNG membership in U.N.
 
-_Problems_
+ _Problems_
 
 • No problems likely if independence involves complete separation from Australia.
 
 • May be difficulties at U.N. if any form of continuing association with Australia.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Declaration at Trusteeship Council by PNG head of government that arrangements for independence satisfactory. 0.5–0.0
 
@@ -523,19 +527,19 @@ _Suggested programme_
 
 To arrange membership in Commonwealth of Nations for independent PNG.
 
-_Problems_
+ _Problems_
 
 • Machinery only.
 
-_Suggested programme_
+ _Suggested programme_
 
 • Discussion with PNG Government. 1.0–0.5
 
-• Application to Commonwealth Secretariat ...9 after independence.
+• Application to Commonwealth Secretariat ...[9](#f9) after independence.
 
-[ [NAA: A452, 1970/460](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3121863) ]
+[NAA: A452, 1970/460]
 
-1 This reads: ‘The Parliament may make laws for the government of any territory surrendered by any State to and accepted by the Commonwealth, or of any territory placed by the Queen under the authority of and accepted by the Commonwealth, or otherwise acquired by the Commonwealth, and may allow the representation of such territory in either House of the Parliament to the extent and on the terms which it thinks fit’ (_Commonwealth parliamentary handbook 1968_, Canberra, 1968, p. 618).
+1 This reads: ‘The Parliament may make laws for the government of any territory surrendered by any State to and accepted by the Commonwealth, or of any territory placed by the Queen under the authority of and accepted by the Commonwealth, or otherwise acquired by the Commonwealth, and may allow the representation of such territory in either House of the Parliament to the extent and on the terms which it thinks fit’ ( _Commonwealth parliamentary handbook 1968_ , Canberra, 1968, p. 618).
 
 2 Ellipsis in originaL
 

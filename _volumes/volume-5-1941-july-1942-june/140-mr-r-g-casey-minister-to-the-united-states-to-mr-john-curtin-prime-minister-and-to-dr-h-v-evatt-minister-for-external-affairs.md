@@ -1,12 +1,18 @@
 ---
-title: "140 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1894
+doc_date: '1941-11-29'
+doc_num: 140
+doc_order: 141
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister,
+  and to Dr H. V. Evatt, Minister for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-29
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 140 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram 1053 WASHINGTON, 29 November 1941, 8.47 p.m.
 
@@ -32,7 +38,7 @@ I have been trying, through the only [reliable] third party that I know who is t
 
 CASEY
 
-_
+ _
 
 1 Words in square brackets have been inserted from the Washington copy on file AA : A3300,99.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

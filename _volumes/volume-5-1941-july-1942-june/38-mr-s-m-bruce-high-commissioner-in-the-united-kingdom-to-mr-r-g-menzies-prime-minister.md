@@ -1,12 +1,18 @@
 ---
-title: "38 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1792
+doc_date: '1941-08-08'
+doc_num: 38
+doc_order: 39
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 185B, ii]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-08
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 38 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 635 LONDON, 8 August 1941, 8.33 p.m.
 
@@ -50,10 +56,10 @@ After carefully weighing all the alternatives I believe (2) is the right one. Th
 
 BRUCE
 
-_
+ _
 
 1 Words in square brackets have been inserted from Bruce's copy on file AA : M100, August 1941.
 
 _
 
-_ [AA : A981, JAPAN 185B, ii]_
+ _[AA : A981, JAPAN 185B, ii]_

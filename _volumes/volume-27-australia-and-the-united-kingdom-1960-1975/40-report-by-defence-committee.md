@@ -1,26 +1,29 @@
 ---
-title: "40 REPORT BY DEFENCE COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9906
+doc_date: '1965-10-18'
+doc_num: 40
+doc_order: 40
+naa_refs:
+- naa_barcode: 1565722
+  naa_control_symbol: 248/10/20
+  naa_series: A1945
+  reference: '[NAA: A1945, 248/10/20]'
+title: REPORT BY DEFENCE COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-10-18
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 40 REPORT BY DEFENCE COMMITTEE
-
-NAA: A1945, 248/10/20
 
 Canberra, 18 October 1965
 
 Top Secret
 
-****
+ ****
 
 British Presence in South East Asia
 
-_Introduction_
+ _Introduction_
 
-Since the Quadripartite Meeting was held in London on the 3rd1 and 7th September 1965, it has become clear that the United Kingdom does not intend to initiate any negotiations toward ending confrontation but has left open the possibility of such negotiations if given a favourable opportunity. The United Kingdom has also indicated that there would be no reduction in the level of British forces and activity in the Malaysia/Singapore area so long as confrontation continues.
+Since the Quadripartite Meeting was held in London on the 3rd[1](#f1) and 7th September 1965, it has become clear that the United Kingdom does not intend to initiate any negotiations toward ending confrontation but has left open the possibility of such negotiations if given a favourable opportunity. The United Kingdom has also indicated that there would be no reduction in the level of British forces and activity in the Malaysia/Singapore area so long as confrontation continues.
 
 2\. The longer term however remains obscure. There are two main strands in British thinking, firstly the Defence Review which is directed towards the containment of defence expenditure within £2,000m. (in 1965 values) by 1969/70, requiring substantial cuts in defence commitments, and secondly their assessment of the durability of their tenure in the Singapore base. In the Australian and U.S. view this latter assessment tends to be unduly pessimistic and we suspect their reasoning is being unduly influenced by financial pressures.
 
@@ -28,7 +31,7 @@ Since the Quadripartite Meeting was held in London on the 3rd1 and 7th September
 
 4\. This paper draws attention to possible directions in which Australia could influence United Kingdom views on the long term problem of the United Kingdom retaining a military presence in South East Asia.
 
-_British Position in South East Asia_
+ _British Position in South East Asia_
 
 5\. Australia’s defence policy for a number of years has been based on a forward defence strategy to hold South East Asia thus providing depth for the defence of the Australian mainland and its island territories. The viability of this policy depends primarily on the maintenance of the U.S. commitment to South East Asia and the powerful contribution of forces by that country, but the continued presence of British forces and particularly the availability of bases in Singapore/Malaysia for use by forces of the ANZAM countries are most important elements of the policy. It should therefore be a primary objective of Australian defence policy that Britain continue to play a major part in the defence of South East Asia by maintaining commitments and an appropriate physical presence there, based on Singapore/Malaysia as long as possible and in the longer term by negotiating for base retention rights with appropriate maintenance and security elements.
 
@@ -42,7 +45,7 @@ _British Position in South East Asia_
 
 10\. Mr. Harold Wilson in his message to Sir Robert Menzies dated 25th September, 1965, wrote ‘naturally we have no intention of being forced out of Singapore in a humiliating manner’. This statement could be construed as indicating that, should an opportunity present itself, the United Kingdom would make an early withdrawal from Singapore/Malaysia to obviate any possibility of having to make a hasty withdrawal under adverse circumstances at a later date. If such a course were to be followed by the United Kingdom it must have a detrimental effect on the political and military stability of the whole area and would throw a grave burden on the other nations involved there. It would most certainly place Australia’s forward defence policy as at present conceived in jeopardy. The United Kingdom should continue to be made aware of the serious implications for the Western position in the area of a withdrawal and also of the Australian (and U.S.) view that a United Kingdom presence should be maintained in the area for as long as possible even though this brings with it the inherent risk of having to make a withdrawal under less favourable conditions.
 
-_Possible Australian Action_
+ _Possible Australian Action_
 
 11\. Australian efforts to convince the United Kingdom that she should continue to maintain a presence in the South East Asian area as long as possible are unlikely to be successful unless the arguments are backed by some tangible indication that Australia is prepared to be forthcoming to assist the United Kingdom and to examine the possibility of entering into co-operative arrangements when the British proposals in this regard are finally made known to us.
 
@@ -60,11 +63,11 @@ _Possible Australian Action_
 
 18\. It is pointed out that the deployment of United Kingdom forces to Australia in peacetime would give rise to the normal problems associated with the stationing of forces in an overseas country including command and control, jurisdiction and status of forces, and the use of such forces in delicate political circumstances, for example use of British forces for internal security duties in the British Pacific Islands territories. Moreover, the basing of British forces in Australia would raise the whole question of introducing to this country forces with a nuclear capability.
 
-_Consultations with the United States_
+ _Consultations with the United States_
 
 19\. It is essential that the United States should be kept fully informed and consulted as appropriate in any discussions affecting the future of the United Kingdom in the area and of any arrangements entered into with the United Kingdom. The awareness by the United States of Australia’s efforts to influence the United Kingdom to maintain her commitments on the mainland of South East Asia could strengthen the United States’ resolution to continue with her present policies in the area. Moreover, it is essential to take the United States fully into our confidence at all times in security arrangements affecting South East Asia in view of the paramount defence responsibilities of the United States for backing and support in situations which might develop.
 
-_Conclusions_
+ _Conclusions_
 
 20\. The following are our main conclusions:–
 
@@ -82,13 +85,13 @@ _Conclusions_
 > 
 > (g) The United States should be kept fully informed and consulted as appropriate in any discussions affecting the future of the United Kingdom in the area and any arrangements entered into with the United Kingdom.
 
-_NOTE:_ A copy of the message from Mr. Harold Wilson to Sir Robert Menzies dated the 25th September, 1965 is attached.
+ _NOTE:_ A copy of the message from Mr. Harold Wilson to Sir Robert Menzies dated the 25th September, 1965 is attached.
 
 MESSAGE FROM MR. HAROLD WILSON TO SIR ROBERT MENZIES DATED 25 SEPTEMBER 1965-QUADRIPARTITE TALKS
 
 By now you will have had reports on the talks about the consequences of the separation of Singapore from Malaysia which have recently been held between official representatives of the Governments of Australia and New Zealand, the United States and Britain. We had earlier agreed that these talks were to be purely exploratory and would not commit any of us—naturally no vital decisions had been made by us in advance of these talks, which we found extremely useful.
 
-2\. As you know from our talk on 1 July2 we have in the course of our current defence review taken into account that by 1970 we might no longer be able to count on the use of the Singapore base once confrontation had been ended, quite apart from any financial considerations which might also have to be taken into account in the review. It was the sudden separation of Singapore from Malaysia which made it necessary for us to start the processes of consultation with you and our other allies on our future military posture in the Far East earlier than we had expected and before the studies in our defence review had been completed. But it remains basic to our thinking that, even when confrontation has been ended Britain should continue to play a role in and make a military contribution to defence in the Far East, on the basis of allied co-operative arrangements.
+2\. As you know from our talk on 1 July[2](#f2) we have in the course of our current defence review taken into account that by 1970 we might no longer be able to count on the use of the Singapore base once confrontation had been ended, quite apart from any financial considerations which might also have to be taken into account in the review. It was the sudden separation of Singapore from Malaysia which made it necessary for us to start the processes of consultation with you and our other allies on our future military posture in the Far East earlier than we had expected and before the studies in our defence review had been completed. But it remains basic to our thinking that, even when confrontation has been ended Britain should continue to play a role in and make a military contribution to defence in the Far East, on the basis of allied co-operative arrangements.
 
 3\. I think it is clear from the talks and from the messages which have already been exchanged that while we all share the same aim, that is the defence of Western interests in the South East Asia region, there is some divergence of view about the means of attaining it. This divergence relates firstly to the expected durability of our tenure in the Singapore base, given the political and economic forces at play and the personalities involved—secondly, to the extent to which the separation of Singapore has affected both the fortitude of Malaysia and Singapore together in resisting Indonesian confrontation and our own ability to assist them—and the implications of this for pursuing possibilities of a negotiated settlement—and thirdly, as to the manner in which, dependent on the end of confrontation and the outcome of our defence review, our forces might be redeployed on a co-operative basis.
 
@@ -103,3 +106,5 @@ By now you will have had reports on the talks about the consequences of the sepa
 1 See Document 3 5.
 
 2 See Document 30.
+
+[NAA: A1945, 248/10/20]

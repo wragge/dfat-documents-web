@@ -1,21 +1,25 @@
 ---
-title: "77 Memorandum, Administration (Cleland) To Dot"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9585
+doc_date: '1966-10-24'
+doc_num: 77
+doc_order: 77
+naa_refs:
+- naa_barcode: 12030517
+  naa_control_symbol: 1966/5530 PART 1
+  naa_series: A452
+  reference: '[NAA: A452, 1966/5530]'
+title: Memorandum, Administration (Cleland) To Dot
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-10-24
-barcode: 12030517
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 77 Memorandum, Administration (Cleland) To Dot
 
 Port Moresby, 24 October 1966
 
-**Bougainville mineral prospecting dispute: operations of Conzinc Riotinto of Australia Limited**
+ **Bougainville mineral prospecting dispute: operations of Conzinc Riotinto of Australia Limited**
 
-Forwarded herewith are two copies of a paper prepared in the Department of Lands, Surveys and Mines, under date of 21st October, 1966, in which the prevailing circumstances at Panguna and the Kieta area are described, and suggestions made as to measures which might be taken to reduce the resistance being shown by landowners and other sectors of the local community against the present and proposed operations of Conzinc Riotinto of Australia Limited.1
+Forwarded herewith are two copies of a paper prepared in the Department of Lands, Surveys and Mines, under date of 21st October, 1966, in which the prevailing circumstances at Panguna and the Kieta area are described, and suggestions made as to measures which might be taken to reduce the resistance being shown by landowners and other sectors of the local community against the present and proposed operations of Conzinc Riotinto of Australia Limited.[1](#f1)
 
-2\. The conclusion to be drawn from this paper is that the existing local situation demands immediate relief unless there is an acceptance by the Government and the Administration of the risks of riots and suicides,2 with the consequent effects on international opinion and on the future prospects of foreign investment in the Territory. In view of the seriousness of the consequences for the Territory if the situation results in violence, or if the Company finds its position untenable, it is considered that the Administration must take the lead in seeking a solution.
+2\. The conclusion to be drawn from this paper is that the existing local situation demands immediate relief unless there is an acceptance by the Government and the Administration of the risks of riots and suicides,[2](#f2) with the consequent effects on international opinion and on the future prospects of foreign investment in the Territory. In view of the seriousness of the consequences for the Territory if the situation results in violence, or if the Company finds its position untenable, it is considered that the Administration must take the lead in seeking a solution.
 
 3\. Listed at paragraph 21 of the paper, and discussed in the paragraphs following thereafter, are various suggested measures which might be taken in an attempt to create a more favourable atmosphere. These measures are:
 
@@ -37,8 +41,8 @@ Forwarded herewith are two copies of a paper prepared in the Department of Lands
 
 6\. In the light of the circumstances outlined in the paper, would the Government give consideration to reviewing its policy on the matter of royalties? If it is decided to undertake such a review it would be important that the matter be finalised before the House considers the amending Bill to be presented at its November meeting.
 
-[ [NAA: A452, 1966/5530](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=12030517) ]
+[NAA: A452, 1966/5530]
 
 1  Not printed. 
 
-2  The report quoted a local Administration officer who had written: ‘I regard the threats of suicide as being quite serious. I would like it appreciated at a Headquarters level that I feel suicides are probable. I also feel that we may well have to use physical persuasion to remove people from drill rigs’. 
+2  The report quoted a local Administration officer who had written: ‘I regard the threats of suicide as being quite serious. I would like it appreciated at a Headquarters level that I feel suicides are probable. I also feel that we may well have to use physical persuasion to remove people from drill rigs’.

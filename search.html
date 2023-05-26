@@ -1,0 +1,145 @@
+---
+title: Search
+permalink: /search/
+layout: default
+custom-js:
+    - search
+    - moment
+    - pikaday
+    - url-search-params.min
+custom-css:
+    - pikaday
+---
+
+<form>
+    <div class="columns">
+        <div class="field column is-half">
+            <label class="label">Search for</label>
+            <div class="control">
+                <input id="query" class="input" type="text" placeholder="Enter keywords or a phrase">
+            </div>
+        </div>
+        <div class="field column is-narrow">
+            <label class="label">Search type</label>
+            <div class="control">
+                <div class="select">
+                    <select id="query_type">
+                        <option value="and">All words</option>
+                        <option value="or">Any words</option>
+                        <option value="phrase">Phrase</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="field column is-narrow">
+            <label class="label">Search in</label>
+            <div class="control">
+                <div class="select">
+                    <select id="fields">
+                        <option value="text">Titles and text</option>
+                        <option value="title">Titles only</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="field column is-narrow">
+            <label class="label">Volume</label>
+            <div class="control">
+                <div class="select">
+                    <select id="volume">
+                        <option value="" selected>All</option>
+                        {% for i in (1..28) %}
+                        <option value="{{i}}">
+                            {{i}}
+                        </option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="columns">
+        <div class="field column is-narrow">
+            <label class="label">Date from</label>
+            <div class="control">
+                <input id="start_date" class="input" type="text" placeholder="Enter a start date">
+            </div>
+        </div>
+        <div class="field column is-narrow">
+            <label class="label">Date to</label>
+            <div class="control">
+                <input id="end_date" class="input" type="text" placeholder="Enter an end date">
+            </div>
+        </div>
+        <div class="field column is-narrow">
+            <label class="label">NAA series</label>
+            <div class="control">
+                <input id="series" class="input" type="text" placeholder="Enter a series number">
+            </div>
+        </div>
+        <div class="field column is-narrow">
+            <label class="label">NAA barcode</label>
+            <div class="control">
+                <input id="barcode" class="input" type="text" placeholder="Enter a barcode number">
+            </div>
+        </div>
+        <div class="field column is-narrow">
+            <label class="label">Sort by</label>
+            <div class="select">
+                <select id="sort">
+                    <option value="score">Relevance</option>
+                    <option value="date">Date</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="field is-grouped">
+        <div class="control">
+            <button id="search_button" class="button is-link">Search</button>
+        </div>
+        <div class="control">
+            <button id="cancel_button" class="button is-link is-light">Clear</button>
+        </div>
+    </div>
+</form>
+<hr />
+<div class="columns is-8 is-variable">
+    <div class="column is-three-fifths">
+        <div id="results" class="content">
+            <p id='results-summary'></p>
+            <dl id="results-list" class="is-size-6">
+
+            </dl>
+            <nav class="pagination is-hidden is-left" role="navigation" aria-label="pagination">
+                <a class="pagination-previous">Previous page</a>
+                <a class="pagination-next">Next page</a>
+            </nav>
+        </div>
+    </div>
+    <div class="column sidebar is-hidden">
+        <h6 class="title is-6">Volume counts</h6>
+        <div class="">
+            <ul id="documents_per_volume" class="facet-list">
+
+            </ul>
+        </div>
+
+        <h6 class="title is-6">Year counts</h6>
+        <div class="">
+            <ul id="documents_per_year" class="facet-list">
+
+            </ul>
+        </div>
+
+        <h6 class="title is-6">NAA series counts</h6>
+        <div class="">
+            <ul id="documents_per_series" class="facet-list">
+
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+    var start_date = new Pikaday({ field: $('#start_date')[0], format: 'YYYY-MM-DD', defaultDate: new Date(1935, 0, 1)});
+    var end_date = new Pikaday({ field: $('#end_date')[0], format: 'YYYY-MM-DD'});
+</script>

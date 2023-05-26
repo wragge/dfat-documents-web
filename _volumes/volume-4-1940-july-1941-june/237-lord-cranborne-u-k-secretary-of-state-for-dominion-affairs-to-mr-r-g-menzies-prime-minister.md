@@ -1,14 +1,20 @@
 ---
-title: "237 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1468
+doc_date: '1940-12-28'
+doc_num: 237
+doc_order: 237
+naa_refs:
+- naa_barcode: 278888
+  naa_control_symbol: '26'
+  naa_series: A2937
+  reference: '[AA:A2937, CZECHOSLOVAKIA, vi]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-12-28
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 237 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
-
-## Letter 232 LONDON, 28 December 1940
+Letter 232 LONDON, 28 December 1940
 
 I have the honour to state that, following on the recognition of the Provisional Czechoslovak Government established in London, an enquiry has been received from that Government as to what steps should be taken to regularize the position of their consular representatives in the Dominions.
 
@@ -16,10 +22,10 @@ I have the honour to state that, following on the recognition of the Provisional
 
 3\. I should be glad to learn whether His Majesty's Government in the Commonwealth of Australia concur in a communication being addressed to the Provisional Czechoslovak Government in this sense, so far as Australia is concerned.
 
-_
+ _
 
 [AA:A2937, CZECHOSLOVAKIA, vi]
 
 _
 
-_ [CRANBORNE]_
+ _[CRANBORNE]_

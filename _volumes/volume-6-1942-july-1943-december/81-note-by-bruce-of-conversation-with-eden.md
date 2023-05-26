@@ -1,14 +1,19 @@
 ---
-title: "81 Note by Bruce of Conversation with Eden"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2372
+doc_date: '1942-11-25'
+doc_num: 81
+doc_order: 81
+naa_refs:
+- naa_barcode: 242450
+  naa_control_symbol: NOVEMBER 1942
+  naa_series: M100
+  reference: '[AA:M10,0 NOVEMBER 1942]'
+title: Note by Bruce of Conversation with Eden
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-11-25
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 81 Note by Bruce of Conversation with Eden
-
-## [LONDON], 25 November 1942
+[LONDON], 25 November 1942
 
 I went and had half an hour with Eden. He was looking very tired and worried and I am rather doubtful whether he will be able to stand the strain of his dual position of Leader of the House of Commons and Foreign Minister.
 
@@ -36,7 +41,7 @@ The impression Eden left on my mind was that he is developing all the time but b
 
 S.M.B.
 
-_ 1 This is probably a reference to Welles's speech of 7 November, which is summarised in note 1 to Document 86.
+ _1 This is probably a reference to Welles's speech of 7 November, which is summarised in note 1 to Document 86.
 
 2 See Documents 74 and 78.
 
@@ -50,4 +55,4 @@ Eisenhower, found it necessary, in order to gain the co-operation of the local p
 
 _
 
-_ [AA:M10,0 NOVEMBER 1942]_
+ _[AA:M10,0 NOVEMBER 1942]_

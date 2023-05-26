@@ -1,14 +1,19 @@
 ---
-title: "330 Burhop to Rivett"
-volume: "Volume 7: 1944"
-doc_id: 2977
+doc_date: '1944-10-28'
+doc_num: 330
+doc_order: 330
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 5]'
+title: Burhop to Rivett
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-28
+vol_title: 'Volume 7: 1944'
 ---
 
-# 330 Burhop to Rivett
-
-## Letter WASHINGTON, 28 October 1944
+Letter WASHINGTON, 28 October 1944
 
 Many thanks for your recent letter [1] and for the help you have given my wife in her efforts to get across to join me. I understand that she expects to leave at an early date and I won't be sorry to see the rest of my family again, I can assure you.
 
@@ -30,7 +35,7 @@ I am still finding the work here most interesting. I am now stationed in the 'de
 
 E. H. S. BURHOP
 
-_
+ _
 
 1 Not located.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [CSIRO ARCHIVES:SERIES 380, ITEM 5]_
+ _[CSIRO ARCHIVES:SERIES 380, ITEM 5]_

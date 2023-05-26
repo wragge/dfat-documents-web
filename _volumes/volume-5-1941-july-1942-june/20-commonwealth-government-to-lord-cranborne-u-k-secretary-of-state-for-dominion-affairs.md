@@ -1,14 +1,20 @@
 ---
-title: "20 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1774
+doc_date: '1941-07-28'
+doc_num: 20
+doc_order: 21
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA : A3196, 1941, 0.10720]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-28
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 20 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 479 [1] CANBERRA, [28 July 1941] [2]
+Cablegram 479 [1] CANBERRA, [28 July 1941] [2]
 
 MOST IMMEDIATE Your M. 174. [3] For our guidance we would appreciate advice as to your policy on import and export transactions to be permitted with respect to- (a) immediate difficulties arising out of transactions commenced before freezing order [4];
 
@@ -18,7 +24,7 @@ It is clear that United States Government contemplate continuance of some measur
 
 We are not sure to what extent the policy you have set out in your telegrams 418 and 419 (1940) subsequently amended, Z.311 and Z.312 
 
-_ joint Empire and United States action to freeze Japanese funds.
+_joint Empire and United States action to freeze Japanese funds.
 
 We do not know what policy you have in mind but if basis of policy is to permit export of goods to Japan equivalent in value to our vital needs of imports from Japan under war conditions, then our exports to Japan would be almost negligible as our imports from Japan for vital and essential needs would be comparatively small.
 
@@ -54,4 +60,4 @@ IV, Document 186.
 
 _
 
-_ [5], D.182 [6] (1941) as subsequently amplified, is affected by_
+ _[5], D.182 [6] (1941) as subsequently amplified, is affected by_

@@ -1,11 +1,18 @@
 ---
-title: "389 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1155
+doc_date: 1940-06
+doc_num: 389
+doc_order: 389
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, UNNUMBERED]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 389 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 180 LONDON, n.d.
 
@@ -25,7 +32,7 @@ At the same time we should be grateful if you could consider the possibility of 
 
 5\. Reference sub-paragraph (c) we should be most grateful if one extra Squadron of Hudsons and one Squadron of Wirraways could be provided, and concur in your view that these Squadrons should in that event be employed at Singapore where their presence would release R.A.F. Units most urgently required for service in the Middle East. If further Units become available they too could perform most valuable service in releasing R.A.F. Units from the Far East and India. Apart from these considerations, there is urgent need for trained personnel, flying and ground, and operational aircraft in the United Kingdom but we should not suggest that any steps possible to meet this need should be allowed to prejudice the Air Training Scheme.
 
-_
+ _
 
 1 R. G. Menzies.
 
@@ -33,4 +40,4 @@ _
 
 _
 
-_ [FA: A3195, UNNUMBERED]_
+ _[FA: A3195, UNNUMBERED]_

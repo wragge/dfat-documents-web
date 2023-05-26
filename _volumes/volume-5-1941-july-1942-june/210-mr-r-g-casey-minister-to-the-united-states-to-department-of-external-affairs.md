@@ -1,12 +1,17 @@
 ---
-title: "210 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1964
+doc_date: '1941-12-20'
+doc_num: 210
+doc_order: 211
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-20
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 210 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 1185 WASHINGTON, 20 December 1941, 2.49 1pP.m.
 
@@ -20,7 +25,7 @@ If Commonwealth Government can also induce Chinese, Netherlands and New Zealand 
 
 CASEY
 
-_
+ _
 
 1 See Document 188, note 3.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

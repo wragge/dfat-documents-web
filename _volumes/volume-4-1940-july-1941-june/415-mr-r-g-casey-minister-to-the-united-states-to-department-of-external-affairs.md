@@ -1,12 +1,17 @@
 ---
-title: "415 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1646
+doc_date: '1941-04-19'
+doc_num: 415
+doc_order: 415
+naa_refs:
+- naa_barcode: 176224
+  naa_control_symbol: FAR 25 PART 1
+  naa_series: A981
+  reference: '[AA: A981, FAR EAST 25B, i]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-19
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 415 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 295 WASHINGTON, 19 April 1941, 1.37 p.m.
 
@@ -32,7 +37,7 @@ Report of conversations book 2, appendix 7, paragraph I I and B.U.S. (J) (41) fo
 
 CASEY
 
-_
+ _
 
 1 Admiral Sir Ragnar Colvin, but see Document 355, note 2.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA: A981, FAR EAST 25B, i]_
+ _[AA: A981, FAR EAST 25B, i]_

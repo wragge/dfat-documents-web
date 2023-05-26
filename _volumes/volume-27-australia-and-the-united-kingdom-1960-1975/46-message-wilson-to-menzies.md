@@ -1,20 +1,23 @@
 ---
-title: "46 MESSAGE, WILSON TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9911
+doc_date: '1965-12-31'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 1836300
+  naa_control_symbol: 287/3/21
+  naa_series: A1945
+  reference: '[NAA: A1945, 287/3/21]'
+title: MESSAGE, WILSON TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-12-31
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 46 MESSAGE, WILSON TO MENZIES
-
-NAA: A1945, 287/3/21
 
 London, 31 December 1965
 
 Top Secret
 
-****
+ ****
 
 Washington Talks
 
@@ -42,7 +45,7 @@ You will wish to have from me an account of my talks in Washington with the Pres
 > 
 > We would expect to secure some significant overall savings in this area by leaving our base in Aden. We could not expect to retain it in the face of political developments, and in terms of cost effectiveness it was a negative asset owing to the relatively large resources required for maintaining local security and safeguarding the base itself. We should, however, continue to maintain our commitments in the Persian Gulf, where some strengthening of our forces would be needed as a result of the departure from the Aden base. We must be prepared to maintain our defence commitment to Kuwait and it is important for us to underpin Iran—a weakening of our position in the Gulf could lead to the dissolution of C.E.N.T.O. and possibly a re-orientation of Iran towards Russia. We are convinced that it had been right to secure in cooperation with the United States provision for new island facilities in the Indian Ocean.
 > 
-> (4) In the_ Far East_ considerable difficulties arise. We must assume that confrontation would be ended well before 1970, and our planning was based on this assumption. Thereafter it should be our aim to re-establish normal relations with Indonesia and to bring them into a position in which they could form a link in a system designed to contain Chinese expansion. At the same time relations between Malaysia and Singapore were likely to make our dependence on defence facilities in their countries increasingly hazardous, and it was still our judgement that we could not expect to hold them indefinitely. We had no intention of withdrawing precipitately, but we were convinced that we should now begin planning an alternative posture in the Far East area as a whole, and that it was urgent to start making preparations for substitute facilities, preferably in Australia. This might be based on the concept of some form of quadripartite arrangement to which we, the United States, Australia and New Zealand would contribute. We should need to put a limit on our own total liabilities in the area, and a careful burden-sharing exercise would therefore be needed in this context. We hoped that our partners would be prepared to carry the new capital expenditure which would be involved. I said that a possibility which we had ourselves not considered in detail but which might be worth looking at was to transfer our Polaris submarines East of Suez as part of our contribution to the defence of that area, provided that they were ‘internationalised’ by one means or another as we had proposed that they should be in a European context.
+> (4) In the _Far East_ considerable difficulties arise. We must assume that confrontation would be ended well before 1970, and our planning was based on this assumption. Thereafter it should be our aim to re-establish normal relations with Indonesia and to bring them into a position in which they could form a link in a system designed to contain Chinese expansion. At the same time relations between Malaysia and Singapore were likely to make our dependence on defence facilities in their countries increasingly hazardous, and it was still our judgement that we could not expect to hold them indefinitely. We had no intention of withdrawing precipitately, but we were convinced that we should now begin planning an alternative posture in the Far East area as a whole, and that it was urgent to start making preparations for substitute facilities, preferably in Australia. This might be based on the concept of some form of quadripartite arrangement to which we, the United States, Australia and New Zealand would contribute. We should need to put a limit on our own total liabilities in the area, and a careful burden-sharing exercise would therefore be needed in this context. We hoped that our partners would be prepared to carry the new capital expenditure which would be involved. I said that a possibility which we had ourselves not considered in detail but which might be worth looking at was to transfer our Polaris submarines East of Suez as part of our contribution to the defence of that area, provided that they were ‘internationalised’ by one means or another as we had proposed that they should be in a European context.
 > 
 > (5) The Caribbean
 > 
@@ -50,7 +53,7 @@ You will wish to have from me an account of my talks in Washington with the Pres
 > 
 > (6) The South Atlantic
 > 
-> We also propose to withdraw our Naval presence from this area. But we should hope to retain the Simonstown facilities.1
+> We also propose to withdraw our Naval presence from this area. But we should hope to retain the Simonstown facilities.[1](#f1)
 
 7\. I said that there was one general consideration which we should like the United States to have in mind in considering priorities—that was the need to contain expansion of the Chinese influence in Africa as well as in Asia.
 
@@ -65,3 +68,5 @@ You will wish to have from me an account of my talks in Washington with the Pres
 12\. I am sending a similar message to Holyoake. We are of course treating all these very delicate and vital issues arising from the Defence Review as matters of very special secrecy.
 
 1 The 1955 Simonstown Agreement afforded the UK naval facilities in South Africa. It lasted until June 1975.
+
+[NAA: A1945, 287/3/21]

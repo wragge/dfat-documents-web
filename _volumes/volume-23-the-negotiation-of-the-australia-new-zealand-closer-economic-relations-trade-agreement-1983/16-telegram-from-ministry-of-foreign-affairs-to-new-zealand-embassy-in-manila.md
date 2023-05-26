@@ -1,12 +1,19 @@
 ---
-title: "16 Telegram from Ministry of Foreign Affairs to New Zealand Embassy in Manila"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8886
+doc_date: '1979-05-10'
+doc_num: 16
+doc_order: 16
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Ministry of Foreign Affairs to New Zealand Embassy in Manila
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-05-10
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 16 Telegram from Ministry of Foreign Affairs to New Zealand Embassy in Manila
 
 Wellington, 10 May 1979
 
@@ -14,7 +21,7 @@ No 433. CONFIDENTIAL PRIORITY
 
 Australia/New Zealand Relations
 
-Please bring to Mr Templeton's attention before his meeting with Mr Fraser the following recent exchange of correspondence between Mr Fraser1 and MrMuldoon:
+Please bring to Mr Templeton's attention before his meeting with Mr Fraser the following recent exchange of correspondence between Mr Fraser[1](#f1) and MrMuldoon:
 
 ## Mr Muldoon's letter
 
@@ -24,8 +31,6 @@ Since the talks you and Brian Talboys had just over a year ago a number of arran
 
 This does not, of course, mean that we can shelve the immediate problems we have in the sensitive trade area. We must continue to work out specific solutions to ensure that the relationship does not go backwards while we are considering how best to move it ahead. The difficulties our delegation found in the last round of the NAFTA talks are themselves a clear sign that we must have a long and careful look at where we go from here. For all these reasons, I was pleased to hear that you are undertaking a study parallel to our own. The subject will certainly not be allowed to wither on the vine here. I do not wish to prejudge the conclusions of our studies nor of course the decisions that we may want to consider as a result. A good deal of thorough work will be needed but once we have had a chance to consider the results I will write to you about how we might continue our dialogue on this issue.
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 17 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 17 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 For Fraser's letter see Document 6.
-
-

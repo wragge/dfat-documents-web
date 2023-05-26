@@ -1,16 +1,21 @@
 ---
-title: "274 Chifley to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3786
+doc_date: '1946-05-28'
+doc_num: 274
+doc_order: 274
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(c)]'
+title: Chifley to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-28
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 274 Chifley to Evatt
 
 Letter (extract) CANBERRA, 28 May 1946
 
-PERSONAL &amp; CONFIDENTIAL
+PERSONAL & CONFIDENTIAL
 
 [matter omitted] [1]
 
@@ -20,7 +25,7 @@ While in Japan [2] I had a long talk with MacArthur, and I also took the opportu
 
 BEN CHIFLEY
 
-_
+ _
 
 1 The omitted portion concerned the dates of Evatt's return to Australia, and of Makin's departure for Washington, and a proposal for extensions to the Legation building in Washington.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(c)]_
+ _[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(c)]_

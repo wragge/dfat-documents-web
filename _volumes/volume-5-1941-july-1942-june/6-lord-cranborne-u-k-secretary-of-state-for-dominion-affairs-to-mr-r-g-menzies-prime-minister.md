@@ -1,12 +1,18 @@
 ---
-title: "6 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1759
+doc_date: '1941-07-12'
+doc_num: 6
+doc_order: 6
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA : A981, FAR EAST 20B, i]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-12
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 6 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram M149 LONDON, 12 July 1941, 11.17 p.m.
 
@@ -122,9 +128,9 @@ economic pressure would be applied. The next step would then be
 
 considered.
 
-_
+ _
 
-1 On file AA : A981, Indo-China 7, i. The original incorrectly 
+1 On file AA : A981, Indo-China 7, i. The original incorrectly
 
 referred to this cablegram as M126.
 
@@ -154,7 +160,7 @@ in Moscow on 13 April.
 
 _
 
-_
+ _
 
 [AA : A981, FAR EAST 20B, i]
 

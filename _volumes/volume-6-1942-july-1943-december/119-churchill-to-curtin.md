@@ -1,14 +1,19 @@
 ---
-title: "119 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2410
+doc_date: '1943-02-12'
+doc_num: 119
+doc_order: 119
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, 1.7096]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-02-12
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 119 Churchill to Curtin
-
-## Cablegram Winch 1 LONDON, 12 February 1943, 11 p.m.
+Cablegram Winch 1 LONDON, 12 February 1943, 11 p.m.
 
 You will remember that last August when, through our High Commissioner, I expressed the hope that it would be possible for you to pay a visit to this country, you said that you felt that it was not then practicable for you to leave Australia at least for a few months. [1]I hope that the position has changed in this respect and that you will now find it possible to pay a visit to this country. You may be certain of a very warm welcome here. I know very well the advantages for both sides which can only be obtained by personal discussion and there is much that I could discuss with you which cannot well be dealt with in telegrams.
 
@@ -16,7 +21,7 @@ I hope that even if you feel that you cannot come immediately, you will at any r
 
 CHURCHILL
 
-_
+ _
 
 1 See Cross's cablegram 1255 of 13 August 1942 in PRO:PREM 4/50/8.
 
@@ -24,4 +29,4 @@ Curtin had informed Cross that he did not wish to go to London while Australia w
 
 _
 
-_ [FA:A3195, 1943, 1.7096]_
+ _[FA:A3195, 1943, 1.7096]_

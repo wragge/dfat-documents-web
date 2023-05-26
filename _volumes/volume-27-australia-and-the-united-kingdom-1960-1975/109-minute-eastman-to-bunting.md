@@ -1,20 +1,23 @@
 ---
-title: "109 MINUTE, EASTMAN TO BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9974
+doc_date: '1971-05-24'
+doc_num: 109
+doc_order: 109
+naa_refs:
+- naa_barcode: 3166916
+  naa_control_symbol: CO1191
+  naa_series: A5882
+  reference: '[NAA: A5882, CO1191]'
+title: MINUTE, EASTMAN TO BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-05-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 109 MINUTE, EASTMAN TO BUNTING
-
-NAA: A5882, CO1191
 
 Canberra, 24 May 1971
 
 Secret
 
-****
+ ****
 
 The Strategic Basis of Australian Defence Policy, 1971
 
@@ -43,3 +46,5 @@ The Department of Foreign Affairs had a substantial part in the preparation of t
 > (c) Defence cooperation with Indonesia needs to be stepped up. The importance of Indonesia to Australia, the generally favourable prospects for stability in Indonesia, the lack of a foreseeable threat from there, their pressing needs, and comparisons with what we do for Malaysia and Singapore, all point to the conclusion in paragraph 167 (m). We and Defence are about to embark on an intensive study of this matter with a view to putting a submission to Ministers quite soon.
 
 1 In a covering note to Bunting, Eastman commented: ‘Although we understand that the Prime Minister has not yet given directions as to the circulation of Mr. Gorton’s submission on this subject [see Document 107] or as to the level of Ministerial handling of it, we assume that the Minister for Foreign Affairs will be involved in its consideration. We have therefore provided the Minister with the attached briefing note which we are copying to you for your information.’ Leslie Bury was Foreign Minister, March–August 1971.
+
+[NAA: A5882, CO1191]

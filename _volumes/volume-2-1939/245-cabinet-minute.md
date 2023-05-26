@@ -1,21 +1,29 @@
 ---
-title: "245 Cabinet Minute"
-volume: "Volume 2: 1939"
-doc_id: 582
+doc_date: '1939-09-26'
+doc_num: 245
+doc_order: 245
+naa_refs:
+- naa_barcode: 11279893
+  naa_control_symbol: 12/1939
+  naa_series: A2671
+  reference: '[AA:A2671,12/1939]'
+- naa_barcode: 11255689
+  naa_control_symbol: VOLUME 2
+  naa_series: A2697
+  reference: '[AA:A2697, VOL. 2]'
+title: Cabinet Minute
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-26
-barcode: 11279893
+vol_title: 'Volume 2: 1939'
 ---
 
-# 245 Cabinet Minute
-
-## Minute 194 MELBOURNE, 26 September 1939
+Minute 194 MELBOURNE, 26 September 1939
 
 DIRECTION OF THE WAR
 
 The Minister for Defence [1] circulated a memorandum dealing with machinery for the higher direction of the war. It was agreed that the War Cabinet, which should include such Ministers as the Prime Minister should direct, together with such Ministers as from time to time were co-opted, should deal with all matters in relation to the conduct of the war other than matters of major policy. Matters of major policy should be determined by the full Cabinet. [2]
 
-_
+ _
 
 1 G.A. Street.
 
@@ -139,10 +147,10 @@ C. Chart of Government Machinery for Higher Direction of War.
 
 G.A. STREET
 
-[ [AA:A2671,12/1939](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=11279893) ]
+[AA:A2671,12/1939]
 
 1 Not printed (on file AA:A2671, 12/1939).
 
 _
 
-_ [ [AA:A2697, VOL. 2](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=11279893) ]_
+ _[AA:A2697, VOL. 2]_

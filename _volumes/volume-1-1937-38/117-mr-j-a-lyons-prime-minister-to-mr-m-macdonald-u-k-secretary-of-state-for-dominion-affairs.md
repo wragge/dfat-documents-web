@@ -1,12 +1,18 @@
 ---
-title: "117 Mr J. A. Lyons, Prime Minister, to Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 116
+doc_date: '1937-12-30'
+doc_num: 117
+doc_order: 116
+naa_refs:
+- naa_barcode: 179194
+  naa_control_symbol: NETHE 52
+  naa_series: A981
+  reference: '[AA: A981, NEI 52]'
+title: Mr J. A. Lyons, Prime Minister, to Mr M. MacDonald, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-12-30
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 117 Mr J. A. Lyons, Prime Minister, to Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs
 
 Draft Cablegram [111] [1] n.d. [30 December 1937]
 
@@ -18,7 +24,7 @@ An informal approach to this end has been made to the Governor- General of the N
 
 In these circumstances, His Excellency the Governor-General would be pleased if you would arrange for his acceptance of this kind invitation to be conveyed to the Netherlands Government through the appropriate channel.
 
-_
+ _
 
 1 This cablegram is almost certainly a draft of No. 111 from the Prime Minister to the U.K. Secretary of State for Dominion Affairs of 30 December 1937, which is referred to in Hodgson to Hood, cablegram 5 of20 January 1938 (AA : A981, NEI 52). A handwritten note at the bottom of the draft cablegram reads: 'Gov.-Gen.
 
@@ -32,4 +38,4 @@ Hughes, 23 December 1937 (both on file AA : A981, NEI 52).
 
 _
 
-_ [AA: A981, NEI 52]_
+ _[AA: A981, NEI 52]_

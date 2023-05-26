@@ -1,12 +1,17 @@
 ---
-title: "49 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2696
+doc_date: '1944-02-12'
+doc_num: 49
+doc_order: 49
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43-44/950/8/3/1, ii]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 49 Cranborne to Commonwealth Government
 
 Cablegram 44 LONDON, 12 February 1944, 7 p.m.
 
@@ -26,7 +31,7 @@ Your telegram No. 31 Lend Lease. [1]
 
 6\. We understand that United Kingdom and Dominion Missions are maintaining close contact in regard to further list of proposals submitted by Foreign Economic Administration last week. [3] Although on certain of these proposals we have comments on points of detail, which we are instructing our Missions to bring to the notice of the United States authorities, we do not think that any important questions of principle arise. Matter becomes therefore one of dealing with individual items on their merits in the light of exchanges of views between the respective Missions in Washington.
 
-_
+ _
 
 1 Document 41.
 
@@ -38,4 +43,4 @@ The items referred to were shipments of capital goods and off- shore purchases.
 
 _
 
-_ [AA:A989, 43-44/950/8/3/1, ii]_
+ _[AA:A989, 43-44/950/8/3/1, ii]_

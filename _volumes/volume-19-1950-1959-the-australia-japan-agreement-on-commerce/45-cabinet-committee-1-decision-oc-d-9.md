@@ -1,14 +1,19 @@
 ---
-title: "45 Cabinet Committee [1] Decision Oc(D)9"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7650
+doc_date: '1953-10-16'
+doc_num: 45
+doc_order: 45
+naa_refs:
+- naa_barcode: 210034
+  naa_control_symbol: VOLUME 27
+  naa_series: A4933
+  reference: '[AA : A4933/XML, VOLUME 27]'
+title: Cabinet Committee [1] Decision Oc(D)9
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-10-16
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 45 Cabinet Committee [1] Decision Oc(D)9
-
-## 16th October, 1953
+16th October, 1953
 
 Japan and G.A.T.T.
 
@@ -24,9 +29,9 @@ It was agreed that (1) As far as Australia is concerned the Japanese application
 
 (4) The Prime Minister would convey the substance of this decision to Lord Swinton.
 
-_
+ _
 
-1 The Committe on Overseas Commercial Relations. Ministers present were Menzies (Chairman), O'Sullivan and McBride, with officials representing Departments of the Prime Minister, National Development, External Affairs, Commerce &amp; Agriculture, Trade &amp;
+1 The Committe on Overseas Commercial Relations. Ministers present were Menzies (Chairman), O'Sullivan and McBride, with officials representing Departments of the Prime Minister, National Development, External Affairs, Commerce & Agriculture, Trade &
 
 Customs and Treasury.
 
@@ -34,4 +39,4 @@ Customs and Treasury.
 
 _
 
-_ [AA : A4933/XML, VOLUME 27]_
+ _[AA : A4933/XML, VOLUME 27]_

@@ -1,14 +1,19 @@
 ---
-title: "54 Letter From O'sullivan To Mcleay"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7659
+doc_date: '1954-03-05'
+doc_num: 54
+doc_order: 54
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP553/1
+  reference: '[NAA: CP553/1/1, 194/B/10/35]'
+title: Letter From O'sullivan To Mcleay
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-03-05
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 54 Letter From O'sullivan To Mcleay
-
-## 5th March, 1954
+5th March, 1954
 
 I refer again to your letter of 26th January concerning Australia's commercial relations with Japan. [1] In the absence of a firm arrangement for discussion of this matter in Cabinet, I would like to offer the following comments.
 
@@ -26,7 +31,7 @@ Our officials are not at present empowered to discuss such matters of policy. Th
 
 To my mind, the important thing at this stage is to correct any Japanese misunderstandings as to the extent of the licensing relaxations on imports from Japan over the past year. Pending submission of the full report to Cabinet on our trading position with Japan, the Interdepartmental Committee is completing a formal reply to the two latest Japanese notes. The committee proposes to include in this reply adequate details of our progressive licensing relaxations during 1953 so that the Japanese Government will be left in no doubt that the relaxations have offered them considerable scope for a greater flow of trade from Japan to Australia.
 
-_
+ _
 
 1 See Document 50 paragragh 2.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [CP553/1/1, 194/B/10/35]_
+ _[NAA: CP553/1/1, 194/B/10/35]_

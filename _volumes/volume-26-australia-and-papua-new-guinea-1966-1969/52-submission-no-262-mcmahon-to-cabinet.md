@@ -1,19 +1,23 @@
 ---
-title: "52 Submission No. 262, Mcmahon To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9560
+doc_date: '1966-07-19'
+doc_num: 52
+doc_order: 52
+naa_refs:
+- naa_barcode: 1806744
+  naa_control_symbol: '262'
+  naa_series: A5841
+  reference: '[NAA: A5841, 262]'
+title: Submission No. 262, Mcmahon To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-07-19
-barcode: 1806744
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 52 Submission No. 262, Mcmahon To Cabinet
 
 Canberra, 19 July 1966
 
 Confidential
 
-**Treasury analysis of submission no. 349: Grant for Papua and New Guinea Administration1**
+ **Treasury analysis of submission no. 349: Grant for Papua and New Guinea Administration[1](#f1)**
 
 The Minister for Territories is seeking an initial Commonwealth grant of $72.9 million for the Administration of Papua and New Guinea in 1966–67. _This is $10.9 million or 17.6 per cent greater than the grant in 1965–66._ The figures for 1966-67 make no allowance for the basic wage increase but the Minister has foreshadowed that he may seek a supplementary grant towards the cost of this increase and an expected increase in local wages.
 
@@ -30,7 +34,7 @@ Grants to the Administration have increased as follows:—
 1965–66| 62.0| 6.0  
 1966–67 (Requested)| 72.9| 10.9  
   
-Last year, at this time, we decided on a grant of $62.0 million (Decision No. 1086(M))2 after considering two submissions one of which related to a special programme of recruitment and housing of overseas officers. The Ministry noted the Minister’ s recruitment and housing proposals but did not record a definite conclusion. In these circumstances it can hardly be implied, as is done in paragraph 6 of the present submission, that the Government has approved specific programmes for expatriate recruitment and special housing.
+Last year, at this time, we decided on a grant of $62.0 million (Decision No. 1086(M))[2](#f2) after considering two submissions one of which related to a special programme of recruitment and housing of overseas officers. The Ministry noted the Minister’ s recruitment and housing proposals but did not record a definite conclusion. In these circumstances it can hardly be implied, as is done in paragraph 6 of the present submission, that the Government has approved specific programmes for expatriate recruitment and special housing.
 
 The grant of $62.0 million to the Administration for 1965–66 enabled the Treasurer of the Territory to present to the House of Assembly last year a budget totalling $102.3 million of which the Commonwealth grant accounted for 61.5 per cent. We are now being asked to approve a grant of $72.9 million toward a total budget of $121.8 million. The proposed expenditure in 1966–67 is some 18 per cent greater than estimated expenditure of $103.4 million in 1965–66.
 
@@ -57,12 +61,12 @@ Although I appreciate that the needs of the Territory must inevitably make incre
 
 All in all, I think that at this stage we would be doing justice to the Territory’s claim on our bounty if we were to make a grant towards a budget based on a 10 per cent increase on actual expenditure in 1965–66 plus $5.26 million for the ‘special’ expenditures listed above. This would mean a Territory budget of $118.9 million for 1966–67. Since it is estimated that internal revenue and loan raisings will contribute $42 million and $6.94 million respectively, a grant of $69.96 million would be required. If we round this up to $70 million our contribution would be 59 per cent of a total budget of $119 million.
 
-I recommend approval of a grant of $70 million to the Territory Administration for 1966–67.3
+I recommend approval of a grant of $70 million to the Territory Administration for 1966–67.[3](#f3)
 
-[ [NAA: A5841, 262](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1806744) ]
+[NAA: A5841, 262]
 
 1  Document 47. 
 
 2  Not printed. 
 
-3  Cabinet accepted this recommendation on 20 July (Cabinet decision no. 370(M), NAA: A5841, 262). 
+3  Cabinet accepted this recommendation on 20 July (Cabinet decision no. 370(M), NAA: A5841, 262).

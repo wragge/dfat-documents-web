@@ -1,14 +1,20 @@
 ---
-title: "434 French Colony in Australia to General C. de Gaulle, 434 Leader of the Free French Movement"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1200
+doc_date: '1940-06-25'
+doc_num: 434
+doc_order: 434
+naa_refs:
+- naa_barcode: 176323
+  naa_control_symbol: FRA 3 PART 2
+  naa_series: A981
+  reference: '[AA: A981, FRANCE 3B, ii]'
+title: French Colony in Australia to General C. de Gaulle, 434 Leader of the Free
+  French Movement
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-25
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 434 French Colony in Australia to General C. de Gaulle, 434 Leader of the Free French Movement
-
-## Cablegram unnumbered 25 June 1940,
+Cablegram unnumbered 25 June 1940,
 
 [On learning that the French Government had accepted German terms for an armistice the U.K. Prime Minister, Winston S. Churchill, appealed to Frenchmen to support the Allied cause and General de Gaulle announced the formation of the French National Committee.
 
@@ -18,7 +24,7 @@ Without pretending to judge the decisions of the Bordeaux Government, Frenchmen 
 
 FRENCH COLONY IN AUSTRALIA
 
-_
+ _
 
 1 On file AA: A2671, 147/1940. It included copies of the Commonwealth Govt's cablegram 303 (Document 400) and the U.K.
 
@@ -26,4 +32,4 @@ Dominions Secretary's cablegram 187 (Document 415), together with extracts from 
 
 _
 
-_ [AA: A981, FRANCE 3B, ii]_
+ _[AA: A981, FRANCE 3B, ii]_

@@ -1,26 +1,31 @@
 ---
-title: "235 Telex, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9743
+doc_date: '1968-10-18'
+doc_num: 235
+doc_order: 235
+naa_refs:
+- naa_barcode: 12051990
+  naa_control_symbol: 1968/5647
+  naa_series: A452
+  reference: '[NAA: A452, 1968/5647]'
+title: Telex, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-10-18
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 235 Telex, Warwick Smith To Hay
 
 Canberra, 18 October 1968
 
 7497\. Unclassified Priority 
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 ... I am concerned that no repeat no indigenes are currently being trained to full professional levels in key areas such as agricultural science, forestry and veterinary science as [I] believe it important (a) intrinsically (b) for political reasons that some indigenes be qualified to take senior and top Administration posts in these fields as a matter of urgency. [I] recognise that only a handful will be needed in each category but the point is that present nil position is quite indefensible. Consider every endeavour should be made to place some scholarship holders in Australian universities in these fields commencing 1969. I would envisage only a few scholarships each year since numbers needed at full professional level should be small.
 
-[I] understand immediate difficulty for 1969 is dearth of school leaver matriculants to Australian standard qualified for science courses. In my view matter is of such urgency that we should canvass all possible sources for suitable scholarship [holders]1 to come to Australia in 1969—e.g. private secondary scholarship holders in Australia, science students at university, diplomates or advanced students from Vudal and Bulolo or even young teachers now teaching in Government or mission schools.
+[I] understand immediate difficulty for 1969 is dearth of school leaver matriculants to Australian standard qualified for science courses. In my view matter is of such urgency that we should canvass all possible sources for suitable scholarship [holders][1](#f1) to come to Australia in 1969—e.g. private secondary scholarship holders in Australia, science students at university, diplomates or advanced students from Vudal and Bulolo or even young teachers now teaching in Government or mission schools.
 
 The universities would have to be approached very soon to ensure availability of places and any special dispensation that may be needed for matriculation.
 
-Glad your early advice on acceptance this proposition in general and, if you agree, what specific action is possible for 1969.2
+Glad your early advice on acceptance this proposition in general and, if you agree, what specific action is possible for 1969.[2](#f2)
 
 [NAA: A452, 1968/5647]
 

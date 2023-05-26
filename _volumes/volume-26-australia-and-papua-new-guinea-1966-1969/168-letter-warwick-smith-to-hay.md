@@ -1,25 +1,29 @@
 ---
-title: "168 Letter, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9676
+doc_date: '1968-04-03'
+doc_num: 168
+doc_order: 168
+naa_refs:
+- naa_barcode: 31698759
+  naa_control_symbol: 1970/4520
+  naa_series: A452
+  reference: '[NAA: A452, 1970/4520]'
+title: Letter, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-04-03
-barcode: 31698759
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 168 Letter, Warwick Smith To Hay
 
 Canberra, 3 April 1968
 
-Enclosed are six copies of draft papers outlining suggested administrative principles for the operation of the Ministerial Member and Assistant Ministerial Member system which were prepared in discussion with Mr. Watkins during his recent visit to Canberra.1
+Enclosed are six copies of draft papers outlining suggested administrative principles for the operation of the Ministerial Member and Assistant Ministerial Member system which were prepared in discussion with Mr. Watkins during his recent visit to Canberra.[1](#f1)
 
 It is envisaged that the paper marked CWP/2 should be handed to Ministerial Members and Departmental Heads as the basis upon which the new system would operate. The final draft paper as settled between us would of course require the Minister’s approval before delivery.
 
 I would like to receive your comments on the papers and we could then give consideration to any particular aspects in the light of your comments.
 
-[_matter omitted_]2
+[ _matter omitted_ ][2](#f2)
 
-**Attachment**
+ **Attachment**
 
 CWP/1
 
@@ -141,7 +145,7 @@ Ministerial Members should conform to the accepted code of conduct normally appl
 
 • To co–operate with and tender advice to his Ministerial Member on all matters affecting the business and functions of the Department.
 
-(C)_Relationship between Departmental Head and Ministerial Member_
+(C) _Relationship between Departmental Head and Ministerial Member_
 
 (i) General
 
@@ -155,7 +159,7 @@ Ministerial Members should conform to the accepted code of conduct normally appl
 
 • In the functional area for which the Ministerial Member is responsible (on other than policy matters) he has the final decision—if there is a dispute as to whether the matter is a ‘Ministerial functional’ matter or a policy matter, this is decided by the Administrator;
 
-• A Departmental Head desiring to originate a policy proposal will clear same with the Administrator before discussing it with the Ministerial Member. _If not cleared_ it would not be discussed with the Ministerial Member. _If cleared_, the Departmental Head would then consult the Ministerial Member—if the latter approved in toto the policy matter would be submitted in the normal course for decision of the Administrator’s Executive Council. If the Ministerial Member did not approve the policy matter (together with the views of the Ministerial Member) would be referred to the Administrator for his decision—the final form of its submission to the Administrator’s Executive Council would then be determined by the Administrator after seeking the Minister for External Territories’ approval where appropriate;
+• A Departmental Head desiring to originate a policy proposal will clear same with the Administrator before discussing it with the Ministerial Member. _If not cleared_ it would not be discussed with the Ministerial Member. _If cleared_ , the Departmental Head would then consult the Ministerial Member—if the latter approved in toto the policy matter would be submitted in the normal course for decision of the Administrator’s Executive Council. If the Ministerial Member did not approve the policy matter (together with the views of the Ministerial Member) would be referred to the Administrator for his decision—the final form of its submission to the Administrator’s Executive Council would then be determined by the Administrator after seeking the Minister for External Territories’ approval where appropriate;
 
 • If a Ministerial Member desires to initiate a policy proposal he will request the Department to prepare the proposal in appropriate form;
 
@@ -165,7 +169,7 @@ Ministerial Members should conform to the accepted code of conduct normally appl
 
 • When the final form of the policy submission has been determined by the process indicated in the two preceding points the Administrator would decide where appropriate to put the policy to the Minister for External Territories either before or following its submission to the Administrator’s Executive Council.
 
-_The Role of the Administrator’s Executive Council_
+ _The Role of the Administrator’s Executive Council_
 
 • Apart from budgetary proposals (which are considered later) it is contemplated that the Administrator could consult the Council on all matters except those relating to defence, external affairs, the public service, constitutional matters and internal security (although at his discretion he could keep the Council informed on those matters). In urgent cases the Administrator would be able to act without the advice of the Council but would let the Council know as soon as possible of the action which he has taken;
 
@@ -177,7 +181,7 @@ _The Role of the Administrator’s Executive Council_
 
 • The composition of the Administrator’s Executive Council would require that the official members on the Council cover all Departments of the Administration not represented on the Council by Ministerial Members.
 
-_The role of Assistant Ministerial Members_
+ _The role of Assistant Ministerial Members_
 
 • Assistant Ministerial Members will be given specified functions within the Department to which they are appointed and in the carrying out of these specified functions they will be subject to the over-riding authority of the Permanent Head;
 
@@ -199,11 +203,11 @@ _The role of Assistant Ministerial Members_
 
 \- Liaison with representative public bodies.
 
-_The Estimate and budget_
+ _The Estimate and budget_
 
 • This is a continuing process running from January to entry of Bill into House of Assembly. There are certain stages.
 
-• Preliminary consultation will take place with the Administrator’s Executive Council on the overall shape of the Budget following some preliminary consultation between the Administrator and the Department of External Territories. Subsequently the Administrator’s Executive Council or a committee of it might discuss certain general propositions e.g. the amount of money to be spent on secondary or tertiary education on3 Works Programme (within the overall revenue likely to be available);
+• Preliminary consultation will take place with the Administrator’s Executive Council on the overall shape of the Budget following some preliminary consultation between the Administrator and the Department of External Territories. Subsequently the Administrator’s Executive Council or a committee of it might discuss certain general propositions e.g. the amount of money to be spent on secondary or tertiary education on[3](#f3) Works Programme (within the overall revenue likely to be available);
 
 • Detailed budget preparation would then take place including participation by Ministerial Members in preparation of Departmental estimates. Assistant Ministerial Members would be consulted Departmentally on matters within their responsibilities but would not come into the Administrator’s Executive Council deliberations;
 
@@ -215,7 +219,7 @@ _The Estimate and budget_
 
 • Any Supplementary Budget would go through the process outlined above.
 
-_Ancillary matters related to estimates and budget procedure_
+ _Ancillary matters related to estimates and budget procedure_
 
 (i) The Select Committee recommended the appointment by the House of a Budget Committee of five elected members to provide an additional link between the House and the Government in budgetary matters, and as a means by which members could channel budget proposals for reference to the Administrator’s Executive Council (via the Speaker to the Administrator) or the Ministerial Member representing the Department concerned.
 
@@ -225,9 +229,9 @@ It has now been suggested that the Budget Committee might be given the following
 
 • Given opportunity to put forward suggestions on the Estimates having regard to the provision made in the current year’s appropriations.
 
-(ii) Financial delegations—Ministerial Members could exercise financial delegations within the framework of the budget. Variations within allocations or for purpose, of any extent,4 would still be required to be approved by Treasury. Consideration will also have to be given to any form of financial delegation to a Ministerial Member which now rests with a Departmental Head.
+(ii) Financial delegations—Ministerial Members could exercise financial delegations within the framework of the budget. Variations within allocations or for purpose, of any extent,[4](#f4) would still be required to be approved by Treasury. Consideration will also have to be given to any form of financial delegation to a Ministerial Member which now rests with a Departmental Head.
 
-[ [NAA: A452, 1970/4520](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=31698759) ]
+[NAA: A452, 1970/4520]
 
 1 Watkins had visited Canberra in late March for discussions on the PNG Act (for reference to fact and purpose of visit, see telex 4008, Hay to DOET, 22 March 1968, NAA: A452, 1970/4520, and letter, Warwick Smith to Hay, 3 April 1968, ibid.). For context of Watkins’ visit, see Document 167.
 

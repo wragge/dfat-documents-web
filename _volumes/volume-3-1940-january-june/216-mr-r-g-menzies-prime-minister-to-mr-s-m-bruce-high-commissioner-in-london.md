@@ -1,12 +1,17 @@
 ---
-title: "216 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 982
+doc_date: '1940-05-08'
+doc_num: 216
+doc_order: 216
+naa_refs:
+- naa_barcode: 4212444
+  naa_control_symbol: 1940/10
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2808]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-08
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 216 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 8 May 1940,
 
@@ -24,7 +29,7 @@ Would be grateful if you could let me have your comments as early as possible.
 
 MENZIES
 
-_
+ _
 
 1 Minister without portfolio assisting the Minister for Commerce.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [FA: A3196, 0.2808]_
+ _[FA: A3196, 0.2808]_

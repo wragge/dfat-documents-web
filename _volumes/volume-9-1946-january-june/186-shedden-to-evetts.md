@@ -1,12 +1,17 @@
 ---
-title: "186 Shedden to Evetts"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3698
+doc_date: '1946-04-11'
+doc_num: 186
+doc_order: 186
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1797]'
+title: Shedden to Evetts
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-11
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 186 Shedden to Evetts
 
 Letter(extract) CANBERRA, 11 April 1946
 
@@ -30,7 +35,7 @@ scheme, it wished to do so with the knowledge and assurance that it would have a
 
 F.G.SHEDDEN
 
-_
+ _
 
 1 See Document 183.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 1797]_
+ _[AA:A5954, BOX 1797]_

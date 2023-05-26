@@ -1,24 +1,27 @@
 ---
-title: "45 TELEGRAM, JOHNSTON TO COMMONWEALTH RELATIONS OFFICE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9910
+doc_date: '1965-11-24'
+doc_num: 45
+doc_order: 45
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 13/889]'
+title: TELEGRAM, JOHNSTON TO COMMONWEALTH RELATIONS OFFICE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-11-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 45 TELEGRAM, JOHNSTON TO COMMONWEALTH RELATIONS OFFICE
-
-UKNA: PREM 13/889
 
 Canberra, 24 November 1965
 
 1428\. Priority Secret 
 
-After delivering Prime Minister’s message1 to Sir Robert Menzies on 20 November, I saw him today and spoke as instructed in your telegram No. 2977. Minister of External Affairs and Acting Minister of Defence were also present.
+After delivering Prime Minister’s message[1](#f1) to Sir Robert Menzies on 20 November, I saw him today and spoke as instructed in your telegram No. 2977. Minister of External Affairs and Acting Minister of Defence were also present.
 
 2\. Australian Prime Minister explained his view that we should stay in Singapore ‘even in adversity’ as meaning that we should not give up and go simply because there was criticism of the base. He was thinking particularly of our own concept of withdrawing in ‘good order’ which to his mind could lead us to withdraw before political conditions obliged us to do so. (Bunting has already emphasized Australian anxiety on this point to me, my telegram No. 1330 not repeated, and paragraph 5 [? grps. omitted]. I asked if this meant that in the Australian view we ought to stay in the base against the wishes of the Singapore Government. Sir R. Menzies and his colleagues replied that this was not their wish, but Mr. Hasluck added that he hoped we would stay on until the last possible moment ‘and then some’.
 
-3\. As regards the possible threats to the base which I had outlined, Sir R. Menzies admitted that they might2 arise but said that the Australian view was less pessimistic about them than our own. After all, it would be flatly against the interests of both Lee and the Tunku to demand the expulsion of British and Australian forces; they were therefore, in practice, unlikely to do so. I said that that would be correct if we were dealing with rational people; unfortunately, however, this was not the case. I had had some personal experience of military bases in the East,3 and knew how expert oriental peoples were at taking the bread out of their own mouths. Sir R. Menzies conceded this point and said that the peoples of the East were indeed masters of ‘elementary and juvenile humbug’.
+3\. As regards the possible threats to the base which I had outlined, Sir R. Menzies admitted that they might[2](#f2) arise but said that the Australian view was less pessimistic about them than our own. After all, it would be flatly against the interests of both Lee and the Tunku to demand the expulsion of British and Australian forces; they were therefore, in practice, unlikely to do so. I said that that would be correct if we were dealing with rational people; unfortunately, however, this was not the case. I had had some personal experience of military bases in the East,[3](#f3) and knew how expert oriental peoples were at taking the bread out of their own mouths. Sir R. Menzies conceded this point and said that the peoples of the East were indeed masters of ‘elementary and juvenile humbug’.
 
 4\. Mr. Hasluck said British withdrawal from Singapore would have a most unfavourable effect throughout India and South-East Asia, where an American strategic presence was not enough and a joint Anglo-American one was required. I said that I was interested that he should have quoted India, whose Government had just branded us as imperialists for setting up strategic facilities in certain Indian Ocean islands. Sir R. Menzies rejoined that what the Indian Government thought on these matters was very different from what they said.
 
@@ -41,3 +44,5 @@ C.R.O. please pass Kuala Lumpur 136, BHC Singapore 61, POLAD Singapore 116, Wash
 2 Emphasis throughout in original.
 
 3 Johnston had served in Japan ( 1939–42). in Egypt ( 1942–46), as Ambassador to Jordan ( 1956–60), and as Governor of Aden (1960–63).
+
+[UKNA: PREM 13/889]

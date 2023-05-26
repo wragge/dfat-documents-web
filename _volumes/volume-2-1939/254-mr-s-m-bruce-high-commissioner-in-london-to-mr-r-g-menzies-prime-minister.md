@@ -1,12 +1,17 @@
 ---
-title: "254 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 591
+doc_date: '1939-09-29'
+doc_num: 254
+doc_order: 254
+naa_refs:
+- naa_barcode: 176522
+  naa_control_symbol: GER 72 PART 1
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 72B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-29
+vol_title: 'Volume 2: 1939'
 ---
-
-# 254 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 511 LONDON, 29 September 1939, 8.02 p.m.
 
@@ -18,7 +23,7 @@ Method and character of such offensive was exhaustively considered and nature an
 
 BRUCE
 
-_
+ _
 
 1 Document 250. Bruce's notes of the meeting are on file AA: M100, September 1939.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 72B, i]_
+ _[AA: A981, GERMANY 72B, i]_

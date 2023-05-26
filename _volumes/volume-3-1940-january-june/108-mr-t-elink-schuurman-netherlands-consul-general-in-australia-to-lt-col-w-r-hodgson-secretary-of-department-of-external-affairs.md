@@ -1,14 +1,20 @@
 ---
-title: "108 Mr T. Elink Schuurman, Netherlands Consul-General in Australia, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 874
+doc_date: '1940-03-20'
+doc_num: 108
+doc_order: 108
+naa_refs:
+- naa_barcode: 179145
+  naa_control_symbol: NETHE 15 PART 2
+  naa_series: A981
+  reference: '[AA: A981, NEI 15, ii]'
+title: Mr T. Elink Schuurman, Netherlands Consul-General in Australia, to Lt Col W.
+  R. Hodgson, Secretary of Department of External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-20
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 108 Mr T. Elink Schuurman, Netherlands Consul-General in Australia, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs
-
-## Letter SYDNEY, 20 March 1940
+Letter SYDNEY, 20 March 1940
 
 By my letter No. L17/5524, of 18th December 1939 [1], I advised you of certain discussions between this Consulate General and the Department of Supply and Development concerning the possibility of supplying various war materials manufactured in Australia to the Netherlands Indies Defence Authorities.
 
@@ -18,7 +24,7 @@ Before taking this matter up with the Department of Supply and Development, I wo
 
 T. ELINK SCHUURMAN
 
-_
+ _
 
 1 On file AA: A981, NEI 15, i.
 
@@ -28,4 +34,4 @@ Following renewed representations by Blink Schuurman on 26 August 1940 War Cabin
 
 _
 
-_ [AA: A981, NEI 15, ii]_
+ _[AA: A981, NEI 15, ii]_

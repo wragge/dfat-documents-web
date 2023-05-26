@@ -1,12 +1,18 @@
 ---
-title: "211 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1965
+doc_date: '1941-12-21'
+doc_num: 211
+doc_order: 212
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:FO 371/28059]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-21
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 211 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 861 LONDON, 21 December 1941, 4.45 p.m.
 
@@ -56,7 +62,7 @@ Its loss would clearly be followed by that of the Netherlands East Indies and wo
 
 12\. A sub-committee of the Conference has outlined immediate plans and its recommendations following in part 2 of this message. [6]
 
-_
+ _
 
 1 U.K. Minister of State for Far Eastern Affairs resident in Singapore.
 
@@ -76,4 +82,4 @@ See Commonwealth Govt's cablegram 807 of 17 December to Cranborne (AA:A3196, 194
 
 _
 
-_ [PRO:FO 371/28059]_
+ _[PRO:FO 371/28059]_

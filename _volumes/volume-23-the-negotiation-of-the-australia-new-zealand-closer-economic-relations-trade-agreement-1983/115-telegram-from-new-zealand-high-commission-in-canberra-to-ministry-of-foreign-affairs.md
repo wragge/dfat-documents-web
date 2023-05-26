@@ -1,12 +1,20 @@
 ---
-title: "115 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8985
+doc_date: '1980-03-27'
+doc_num: 115
+doc_order: 115
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-03-27
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 115 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 27 March 1980
 
@@ -14,7 +22,7 @@ No 894. CONFIDENTIAL PRIORITY
 
 ## Australia/NZ Economic Relations
 
-Mr Nixon spoke at the opening of an agricultural field day in the Gippsland area (the dairying heartland of Victoria) on 21 March.1 On relations with New Zealand he said:
+Mr Nixon spoke at the opening of an agricultural field day in the Gippsland area (the dairying heartland of Victoria) on 21 March.[1](#f1) On relations with New Zealand he said:
 
 The dairying industry has, over the years, gone through many challenges and changes-some of which are, of course, continuing.
 
@@ -46,11 +54,9 @@ Ends
 
 5 There is no doubt that in this election year Mr Nixon will continue to make statements to assuage farmers' fears which at the same time may have the effect of arousing suspicions among the New Zealand public. In many ways the pressure is more on Mr Nixon than it is on Mr Anthony. His Victorian constituency is in a dairy farming area and his own position was threatened last year by a local Liberal Party move to contest the seat. It required Mr Fraser's intervention to prevent a Liberal/Country clash. It seems very much in our interests to avoid if possible any New Zealand reaction which would make it more difficult for Mr Nixon to keep the issue off the boil in coming months. If we can do this our negotiating position would be much stronger when the real bargaining begins.
 
-We shall report in a separate telegram on the general press reaction here to the Muldoon/Fraser communique.2
+We shall report in a separate telegram on the general press reaction here to the Muldoon/Fraser communique.[2](#f2)
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 26 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 26 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 This message replies to a query from officials in Wellington, who had seen press reports of Mr Nixon's speech.
   * 2 Document 93.
-
-

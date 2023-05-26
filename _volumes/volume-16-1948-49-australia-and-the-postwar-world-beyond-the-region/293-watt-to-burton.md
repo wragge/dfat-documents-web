@@ -1,12 +1,17 @@
 ---
-title: "293 Watt to Burton"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7008
+doc_date: '1948-08-05'
+doc_num: 293
+doc_order: 293
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1948, I.12650]'
+title: Watt to Burton
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-08-05
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 293 Watt to Burton
 
 Cablegram 270, MOSCOW, 5 August 1948, 7.46 p.m.
 
@@ -18,8 +23,8 @@ TOP SECRET AND PERSONAL
 
 3\. United States and United Kingdom Embassies, although far less isolated, have found it necessary to make similar personal contact on highest level at intervals no greater than six months.
 
-_ [1] A sign here indicates 'portion mutilated'.
+ _[1] A sign here indicates 'portion mutilated'.
 
 _
 
-_ [AA : A3195, 1948, I.12650]_
+ _[AA : A3195, 1948, I.12650]_

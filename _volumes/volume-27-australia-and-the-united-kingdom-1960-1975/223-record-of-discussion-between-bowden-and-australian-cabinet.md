@@ -1,14 +1,17 @@
 ---
-title: "223 RECORD OF DISCUSSION BETWEEN BOWDEN AND AUSTRALIAN CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10088
+doc_date: '1967-02-22'
+doc_num: 223
+doc_order: 223
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/5]'
+title: RECORD OF DISCUSSION BETWEEN BOWDEN AND AUSTRALIAN CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-02-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 223 RECORD OF DISCUSSION BETWEEN BOWDEN AND AUSTRALIAN CABINET
-
-UKNA: FCO 24/5 
 
 Canberra, 22 February 1967
 
@@ -16,9 +19,9 @@ Secret
 
 Mr Holt welcomed Mr Bowden and expressed appreciation of his undertaking the long journey to Australia for his visit. His action in doing so confirmed the close understanding which existed between the two countries.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_European Economic Community_
+ _European Economic Community_
 
 The COMMONWEALTH SECRETARY said that Britain had taken no decision to negotiate for entry. The Cabinet had, however, decided unanimously to undertake a series of probes in the capitals of the Six to discover whether the climate was right to start negotiations. The British Government had of course very much in mind the need for adequate safeguards for British agriculture, for the Commonwealth and for their EFTA partners. The probing so far had not been encouraging. General de Gaulle had pointed out that the Six were homogeneous but Britain was of a different nature. He had said that negotiations would be difficult but perhaps not impossible. In his view, if Britain joined it would become a different community. He had also suggested either something new and different or associate membership for Britain, but this would not be acceptable. The question was whether the five other members of the Community could put sufficient pressure on France. He did not think that this was true of West Germany.
 
@@ -32,4 +35,6 @@ Mr McMAHON said that Australia was concerned at the effect on her sterling balan
 
 Mr McEWEN said that the British Government would obviously like to enter the Community, and he recognised that it was a burdensome obligation for them to have to meet Commonwealth interests. He thought that world commodity arrangements provided an alternative to which the British Government had not yet paid sufficiently vigorous attention. Australia was engaged in discussions on cereals and dairy and meat agreements. He thought that possibly the British Government were holding back as a result of their experience over sugar, but their record over sugar was such as to entitle them to speak firmly to the United States and Japan. Japan was buying sugar at low world prices and then taxing it heavily.
 
-[_matter omitted_]
+[ _matter omitted_ ]
+
+[UKNA: FCO 24/5]

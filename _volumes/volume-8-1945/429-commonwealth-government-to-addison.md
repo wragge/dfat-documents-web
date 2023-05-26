@@ -1,14 +1,19 @@
 ---
-title: "429 Commonwealth Government to Addison"
-volume: "Volume 8: 1945"
-doc_id: 3460
+doc_date: '1945-12-04'
+doc_num: 429
+doc_order: 429
+naa_refs:
+- naa_barcode: 235819
+  naa_control_symbol: '346'
+  naa_series: A3300
+  reference: '[AA : A3300, 45/346]'
+title: Commonwealth Government to Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-12-04
+vol_title: 'Volume 8: 1945'
 ---
 
-# 429 Commonwealth Government to Addison
-
-## Cablegram 440 CANBERRA, 4 December 1945, 11 p.m.
+Cablegram 440 CANBERRA, 4 December 1945, 11 p.m.
 
 A review of the prospects for our balance of international payments following the cessation of the war emphasises the following adverse factors in the outlook for 1945/46 and 1946/47- (A) Our terms of trade are likely to be seriously adverse. Import prices (F.O.B.) are at present about 100% above pre-war. On the other hand export prices are up only about 35%. There is little prospect of an increase in wool and the contract prices for dairy produce and meat are fixed until the latter half of 1946.
 
@@ -34,8 +39,8 @@ In particular we would like advice on the following points affecting imports fro
 
 We would welcome your views on the general issues involved so that we may work towards a mutually beneficial solution of the problems and we should be glad to have the fullest information as to your own export policy and your prospects of substantially increasing exports to Australia in 1945/46 and 1946/47.
 
-_
+ _
 
 _
 
-_ [AA : A3300, 45/346]_
+ _[AA : A3300, 45/346]_

@@ -1,12 +1,18 @@
 ---
-title: "490 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6659
+doc_date: '1949-09-16'
+doc_num: 490
+doc_order: 490
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3094
+  reference: '[AA : A3094/1, 2/1]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-09-16
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 490 Critchley to Department of External Affairs
 
 Cablegram C13 THE HAGUE, 16 September 1949, 6.50 p.m.
 
@@ -34,10 +40,10 @@ Special attention has been directed this week to seeking an agreement on the Sta
 
 8\. The St[eeri]ng Committee (the heads of the three Delegations and the three members of the Commission) will meet privately and informally in Belgium this weekend. The Committee will review the overall activities and progress of the Conference to date, but in particular will seek to reach an agreement on the Union with a view to formalise the agreement in a Plenary meeting next week.
 
-_
+ _
 
 1 The word 'Statute' should presumably read 'status'.
 
 _
 
-_ [AA : A3094/1, 2/1]_
+ _[AA : A3094/1, 2/1]_

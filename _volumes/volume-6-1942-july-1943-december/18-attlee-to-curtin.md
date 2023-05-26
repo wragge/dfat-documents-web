@@ -1,12 +1,17 @@
 ---
-title: "18 Attlee to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2309
+doc_date: '1942-08-06'
+doc_num: 18
+doc_order: 18
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Attlee to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-06
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 18 Attlee to Curtin
 
 Cablegram 548 LONDON, 6 August 1942, 9 p.m.
 
@@ -30,7 +35,7 @@ not be aware of the very critical situation existing in the Middle East and the 
 
 As soon as the strategic requirements are defined, they will be presented to the Combined Chiefs of Staff on which body our representatives have instructions to ensure that the interests of the Dominions are adequately safeguarded.
 
-_
+ _
 
 1 Document 12.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

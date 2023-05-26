@@ -1,12 +1,19 @@
 ---
-title: "432 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8270
+doc_date: '1976-03-16'
+doc_num: 432
+doc_order: 431
+naa_refs:
+- naa_barcode: 4151547
+  naa_control_symbol: 801/13/11/1 PART 21
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/11/1. xxi]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-03-16
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 432 Cablegram to Canberra
 
 Jakarta, 16 March 1976
 
@@ -14,7 +21,7 @@ O.JA5415 SECRET AUSTEO ROUTINE
 
 ## East Timor-Self-Determination and Integration
 
-When I saw General Moerdani about the journalists over the weekend (our JA54141) he used the phrase 'after integration' on several occasions.
+When I saw General Moerdani about the journalists over the weekend (our JA5414[1](#f1)) he used the phrase 'after integration' on several occasions.
 
   2. I asked him whether, in using this phrase, he envisaged the early integration of East Timor with Indonesia. He clearly did and I asked the question merely to elicit his views on the subject.
   3. Moerdani said integration was inevitable. There was no alternative to it and it would take place this year.
@@ -35,8 +42,6 @@ When I saw General Moerdani about the journalists over the weekend (our JA54141)
 
 WOOLCOTT
 
-_[NAA: A10463, 801/13/11/1. xxi]_
+ _[NAA: A10463, 801/13/11/1. xxi]_
 
   * 1 16 March. Moerdani stated that he considered it 'improper' of the Australian Government to direct questions about the journalists killed in Balibo to the Indonesian Government which 'maintained that it was not involved in this matter which was properly the concern of the political parties in East Timor at that time and of Portugal'. Woolcott replied that it was appropriate for the Australian Government to seek an Indonesian response to allegations made by Martins against the Indonesian Government and indicated that he would follow up the matters with Yoga.
-
-

@@ -1,12 +1,17 @@
 ---
-title: "220 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 986
+doc_date: '1940-05-09'
+doc_num: 220
+doc_order: 220
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3078]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-09
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 220 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 9 May 1940, 9.55 p.m.
 
@@ -16,7 +21,7 @@ My telegram today. [1] By good chance, I sat next to Cross [2] at lunch today. A
 
 BRUCE
 
-_
+ _
 
 1 Document 219.
 
@@ -30,4 +35,4 @@ A1608, L37/1/5).
 
 _
 
-_ [FA: A3195, 1.3078]_
+ _[FA: A3195, 1.3078]_

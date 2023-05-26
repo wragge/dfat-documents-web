@@ -1,12 +1,17 @@
 ---
-title: "150 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1904
+doc_date: '1941-12-02'
+doc_num: 150
+doc_order: 151
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-02
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 150 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs
 
 Cablegram 521 TOKYO, 2 December 1941, 12.10 a.m.
 
@@ -30,10 +35,10 @@ My appreciation of the situation is:
 
 OFFICER 
 
-_ 1 Dispatched 28 November. On file AA : A981, Japan 178. 
+_1 Dispatched 28 November. On file AA : A981, Japan 178.
 
 2 Director of Naval Intelligence.
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

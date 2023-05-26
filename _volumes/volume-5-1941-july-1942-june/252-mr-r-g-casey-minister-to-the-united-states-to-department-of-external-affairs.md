@@ -1,12 +1,17 @@
 ---
-title: "252 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2006
+doc_date: '1942-01-03'
+doc_num: 252
+doc_order: 253
+naa_refs:
+- naa_barcode: 182741
+  naa_control_symbol: WAR 56
+  naa_series: A981
+  reference: '[AA:A981, WAR 56A]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-03
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 252 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 16 WASHINGTON, 3 January 1942, 2.11 a.m.
 
@@ -40,7 +45,7 @@ and whole remainder of the Pacific Ocean north and east of this area, red.
 
 13\. Tentative 'letter of instructions' has been telegraphed in its present form to General Wavell [4] for his comments and when finally drafted will be telegraphed to you. I understand, however, that this is unlikely to be within 36 hours.
 
-_
+ _
 
 1 John Curtin's cablegram to Churchill (which was a repeat of his no. 2 to Casey) is published as Document 247.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA:A981, WAR 56A]_
+ _[AA:A981, WAR 56A]_

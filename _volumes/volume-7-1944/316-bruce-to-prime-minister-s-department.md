@@ -1,12 +1,17 @@
 ---
-title: "316 Bruce to Prime Minister's Department"
-volume: "Volume 7: 1944"
-doc_id: 2963
+doc_date: '1944-10-12'
+doc_num: 316
+doc_order: 316
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS. FROM BRUCE, 1.36642]'
+title: Bruce to Prime Minister's Department
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 316 Bruce to Prime Minister's Department
 
 Cablegram 138A LONDON, 12 October 1944, 12.25 p.m.
 
@@ -24,7 +29,7 @@ The upshot of my conversation with Sir John Anderson was that he is consulting w
 
 BRUCE
 
-_ 1.36642]
+ _
 
 1 Document 274.
 
@@ -34,4 +39,4 @@ _ 1.36642]
 
 _
 
-_ [AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS. FROM BRUCE,_
+ _[AA:A3195, 1944, INWARDS MOST SECRET MASTER SHEETS. FROM BRUCE, 1.36642]_

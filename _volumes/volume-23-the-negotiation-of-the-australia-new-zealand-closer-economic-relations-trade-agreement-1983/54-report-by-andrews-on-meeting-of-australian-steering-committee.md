@@ -1,12 +1,19 @@
 ---
-title: "54 Report by Andrews on Meeting of Australian Steering Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8924
+doc_date: '1979-12-11'
+doc_num: 54
+doc_order: 54
+naa_refs:
+- naa_barcode: 1389681
+  naa_control_symbol: 370/1/19/18 PART 12
+  naa_series: A1838
+  reference: '[NAA: Al838, 37011/19118, xii]'
+title: Report by Andrews on Meeting of Australian Steering Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-12-11
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 54 Report by Andrews on Meeting of Australian Steering Committee
 
 Canberra, 11 December 1979
 
@@ -14,7 +21,7 @@ Australia - New Zealand Co-operation: Steering Committee
 
 The following are the main points that emerged from the meeting of the Steering Committee on Australia- New Zealand economic co-operation on 10 December.
 
-## Meeting with New Zealand Officials1
+## Meeting with New Zealand Officials[1](#f1)
 
   2. The Steering Committee was advised by Mr Flood (STR) that discussions with the New Zealand delegation would take the form of a full session on Wednesday with Thursday morning set aside for consultations with individual departmental counterparts and a return to full session discussions on Thursday afternoon. It was suggested that Foreign Affairs might wish to speak to Mr Beath. The Departments of National Development and Transport were asked to provide delegates for particular items on the Agenda. The other departments involved are expected to have a representative in attendance for all the discussions.
   3. A low-key exchange of views rather than striking initiatives was expected of the meeting. Nevertheless, there would have to be an indication of some progress otherwise momentum might be lost. Mr Flood raised the possibility of a joint report to be prepared by February. Another working level officials' meeting was expected to be necessary before February especially as it was not clear what progress the New Zealand side had made to date. There was some inconclusive discussion about the difficulties of preparing joint papers with the meeting unable to take a firm view until more was known of New Zealand's position.
@@ -24,7 +31,7 @@ The following are the main points that emerged from the meeting of the Steering 
 
 ## Working Group 1
 
-  5. Mr Waterman (Treasury) outlined Working Group 1's progress on the dynamic implications for Australia and New Zealand of various forms of closer economic association. A draft report is expected to be finalised early next week following another meeting of the Working Group on Friday. The main conclusion of the Report thus far is that any form of closer association should ensure that the benefits of more general trade liberalisation are not foregone and that costs of maintaining inefficient industries are minimised. The Group has looked at the main options identified by the Permanent Head's memorandum of understanding.2 There have been some difficulties in quantification so that the conclusions reached will be broad and generalised. lAC involvement has included a review of the possibility of contributing to the Report by using the Impact model, but it is not likely that the results will be meaningful. Mr Waterman felt that the draft report would be suitable for handing over to the New Zealanders.
+  5. Mr Waterman (Treasury) outlined Working Group 1's progress on the dynamic implications for Australia and New Zealand of various forms of closer economic association. A draft report is expected to be finalised early next week following another meeting of the Working Group on Friday. The main conclusion of the Report thus far is that any form of closer association should ensure that the benefits of more general trade liberalisation are not foregone and that costs of maintaining inefficient industries are minimised. The Group has looked at the main options identified by the Permanent Head's memorandum of understanding.[2](#f2) There have been some difficulties in quantification so that the conclusions reached will be broad and generalised. lAC involvement has included a review of the possibility of contributing to the Report by using the Impact model, but it is not likely that the results will be meaningful. Mr Waterman felt that the draft report would be suitable for handing over to the New Zealanders.
 
 
 
@@ -83,9 +90,7 @@ The following are the main points that emerged from the meeting of the Steering 
 
 
 
-_[NAA: Al838, 37011/19118, xii]_
+ _[NAA: Al838, 37011/19118, xii]_
 
   * 1 A Joint Working Group Meeting was to be held in Canberra on 12-13 December 1979. 
   * 2 Document 52.
-
-

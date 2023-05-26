@@ -1,12 +1,17 @@
 ---
-title: "479 Commonwealth Government to Fraser"
-volume: "Volume 8: 1945"
-doc_id: 3510
+doc_date: '1945-12-27'
+doc_num: 479
+doc_order: 479
+naa_refs:
+- naa_barcode: 273923
+  naa_control_symbol: SPTS 1/3
+  naa_series: A6494
+  reference: '[AA : A6494 T1, SPTS/1/3]'
+title: Commonwealth Government to Fraser
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-12-27
+vol_title: 'Volume 8: 1945'
 ---
-
-# 479 Commonwealth Government to Fraser
 
 Cablegram 285 CANBERRA, 27 December 1945
 
@@ -26,7 +31,7 @@ SECRET
 
 5\. Owing to Christmas break full expression Government's final view not possible but above represents first considered views. [2]
 
-_
+ _
 
 1 Document 460.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA : A6494 T1, SPTS/1/3]_
+ _[AA : A6494 T1, SPTS/1/3]_

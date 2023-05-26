@@ -1,12 +1,17 @@
 ---
-title: "176 War Cabinet Minute"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1407
+doc_date: '1940-10-17'
+doc_num: 176
+doc_order: 176
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A671, 217/1940]'
+title: War Cabinet Minute
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-17
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 176 War Cabinet Minute
 
 Minute 565 CANBERRA, 17 October 1940
 
@@ -40,7 +45,7 @@ in the Middle East, it was agreed that cotton fabrics should be made up in India
 
 4\. NETHERLANDS EAST INDIES In regard to the proposal of the Government of India to issue an invitation to the Government of the Netherlands East Indies to send representatives to the Conference as observers, a cablegram [6] had been sent agreeing to this proposal, subject to certain qualifications on the security aspect.
 
-_
+ _
 
 1 Incorrectly printed as 542 in the original. See Document 149.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A671, 217/1940]_
+ _[AA:A671, 217/1940]_

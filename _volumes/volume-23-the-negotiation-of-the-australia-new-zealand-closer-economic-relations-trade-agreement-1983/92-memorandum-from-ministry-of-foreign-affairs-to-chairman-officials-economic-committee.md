@@ -1,18 +1,26 @@
 ---
-title: "92 Memorandum from Ministry of Foreign Affairs to Chairman, Officials' Economic Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8962
+doc_date: '1980-03-17'
+doc_num: 92
+doc_order: 92
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Memorandum from Ministry of Foreign Affairs to Chairman, Officials' Economic
+  Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-03-17
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 92 Memorandum from Ministry of Foreign Affairs to Chairman, Officials' Economic Committee
-
-## Wellington, 17 March 1980
+Wellington, 17 March 1980
 
 ## Aus/NZ Economic Relations Draft Declaration And Communique
 
-In the brief for the Prime Minister the declaration and communique, and the public version of the Joint Permanent Heads Report, are seen as the main instruments, following the Muldoon/Fraser meeting, for establishing a clear direction to the A/NZ economic relationship. It is important that at this stage, while public opinion appears favourably disposed to a positive step forward, that we get the public signals right. The Australian draft communique does not seem to go far enough either in content, tone or language to meet this prescription. Significantly, it appears to have been written from a position several steps behind the point reached between Permanent Heads in Canberra.(1) Although the reports we have received suggest that the Australian Cabinet had no difficulty with the spirit underlining the draft declaration(2) prepared in Canberra, the Australian redraft of the communique, incorporating a much watered down version of the declaration, does not capture much of the spirit or, indeed, all of the substance. For example:
+In the brief for the Prime Minister the declaration and communique, and the public version of the Joint Permanent Heads Report, are seen as the main instruments, following the Muldoon/Fraser meeting, for establishing a clear direction to the A/NZ economic relationship. It is important that at this stage, while public opinion appears favourably disposed to a positive step forward, that we get the public signals right. The Australian draft communique does not seem to go far enough either in content, tone or language to meet this prescription. Significantly, it appears to have been written from a position several steps behind the point reached between Permanent Heads in Canberra.[(1)](#f1) Although the reports we have received suggest that the Australian Cabinet had no difficulty with the spirit underlining the draft declaration[(2)](#f2) prepared in Canberra, the Australian redraft of the communique, incorporating a much watered down version of the declaration, does not capture much of the spirit or, indeed, all of the substance. For example:
 
   1. the joint Canberra draft recognised the existence of a special economic relationship. In the latest Australian draft, all references to a special economic relationship are edited out (the closest the Australians get to this thought is the acknowledgement of the 'special nature of the Tasman relationship');
   2. in the Canberra draft, the Prime Ministers declare that a closer economic relationship will lead to stronger economic growth prospects for both countries. The latest draft is more conditional. '... Prime Ministers were of the opinion that .. . a closer trading relationship could offer the prospect of economic benefits for both countries'. This is a much weaker formulation;
@@ -25,9 +33,7 @@ In the brief for the Prime Minister the declaration and communique, and the publ
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 26 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 26 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 At their meeting on 25-26 February, see Document 66.
-  * 2 Document 67. 
-
-
+  * 2 Document 67.

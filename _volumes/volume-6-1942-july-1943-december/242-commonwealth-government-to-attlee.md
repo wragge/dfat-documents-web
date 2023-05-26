@@ -1,12 +1,17 @@
 ---
-title: "242 Commonwealth Government to Attlee"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2533
+doc_date: '1943-07-10'
+doc_num: 242
+doc_order: 242
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43-44/735/1009]'
+title: Commonwealth Government to Attlee
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-07-10
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 242 Commonwealth Government to Attlee
 
 Cablegram 174 [1], CANBERRA, 10 July 1943
 
@@ -22,7 +27,7 @@ We assume from the nature of the principles set out in your telegram under refer
 
 The Commonwealth Government has a strong interest in the future stability of Europe as an important factor in ensuring world peace. We also believe that the armistice period in Europe will impose one of the earliest and severest tests of the capacity of the United Nations to cooperate for post-war reconstruction, and in the proposed discussions we would urge that a high value be placed on the securing and maintaining of Anglo-Russian-American collaboration. It is also evident, for example, in the list of activities mentioned in paragraph (k) of D.365, that many of the practical administrative problems associated with post-war collaboration of the United Nations will be worked out initially in Europe. In all these matters, while we recognise the necessity for the regional handling of detailed administration, we would urge that whatever is done as regards Europe should be consistent with the maintenance of peace and the advancement of the human welfare of all regions of the world.
 
-_
+ _
 
 1 Repeated to the Canadian, N.Z. and South African Prime Ministers as nos 14, 115 and 89 respectively and to the Minister to the United States as no. 811.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/735/1009]_
+ _[AA:A989, 43-44/735/1009]_

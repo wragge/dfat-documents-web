@@ -1,13 +1,20 @@
 ---
-title: "415 Mr F.L. McDougall, Australian Representative at League of Nations Assembly, Geneva, to Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 752
+doc_date: '1939-12-12'
+doc_num: 415
+doc_order: 415
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 31]'
+title: Mr F.L. McDougall, Australian Representative at League of Nations Assembly,
+  Geneva, to Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
+vol_title: 'Volume 2: 1939'
 ---
 
-# 415 Mr F.L. McDougall, Australian Representative at League of Nations Assembly, Geneva, to Department of External Affairs
-
-## Cablegram unnumbered GENEVA, 12, December 1939, 5.15 p.m.
+Cablegram unnumbered GENEVA, 12, December 1939, 5.15 p.m.
 
 Your instructions [1] in close harmony with United Kingdom Government's policy.
 
@@ -19,10 +26,10 @@ Vote may be taken 13th December or 14th December. In view of the probable urgenc
 
 McDOUGALL
 
-_
+ _
 
 1 See Document 414.
 
 _
 
-_ [AA: CP 290/6, ITEM 31]_
+ _[AA: CP 290/6, ITEM 31]_

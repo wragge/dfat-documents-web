@@ -1,12 +1,18 @@
 ---
-title: "153 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1384
+doc_date: '1940-10-02'
+doc_num: 153
+doc_order: 153
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A100, OCTOBER 1940]'
+title: Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Mr
+  W. S. Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-02
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 153 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Mr W. S. Churchill, U.K. Prime Minister
 
 _
 
@@ -60,4 +66,4 @@ S. M. B[RUCE]
 
 _
 
-_ [LONDON], 2 October 1940_
+ _[LONDON], 2 October 1940_

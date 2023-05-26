@@ -1,12 +1,17 @@
 ---
-title: "316 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1547
+doc_date: '1941-02-21'
+doc_num: 316
+doc_order: 316
+naa_refs:
+- naa_barcode: 176224
+  naa_control_symbol: FAR 25 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 25B, i]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-21
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 316 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 151 WASHINGTON, 21 February 1941, 10.10 p.m.
 
@@ -72,7 +77,7 @@ Summary of United States staff committee's written reply will be telegraphed sho
 
 CASEY
 
-_
+ _
 
 1 Admiral Sir Ragnar Colvin.
 
@@ -84,4 +89,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 25B, i]_
+ _[AA:A981, FAR EAST 25B, i]_

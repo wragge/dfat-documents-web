@@ -1,14 +1,17 @@
 ---
-title: "463 LETTER REECE TO WHITLAM"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10330
+doc_date: '1973-05-11'
+doc_num: 463
+doc_order: 463
+naa_refs:
+- naa_barcode: 12076813
+  naa_control_symbol: 1973/3262 PART 1
+  naa_series: A432
+  reference: '[NAA: A432, 1973/3262 PART I]'
+title: LETTER REECE TO WHITLAM
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1973-05-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 463 LETTER REECE TO WHITLAM
-
-NAA: A432, 1973/3262 PART I
 
 Hobart, 11 May 1973
 
@@ -27,3 +30,5 @@ The situation has been reached at which, in the opinion of my Government, positi
 I also wish to inform you that, in view of the introduction in the House of Representatives yesterday of the Seas and Submerged Land Bill 1973, the Government of Tasmania has decided to petition Her Majesty The Queen to refer to the Judicial Committee of the Privy Council for hearing and consideration certain questions relating to legislative power to grant mining leases in respect of certain areas of seabed within three miles of the Tasmanian Coast.
 
 1 Eric Reece, Premier, Treasurer and Minister for Mines, Tasmania, from 1972.
+
+[NAA: A432, 1973/3262 PART I]

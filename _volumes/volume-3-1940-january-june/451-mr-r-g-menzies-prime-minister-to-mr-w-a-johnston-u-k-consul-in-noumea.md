@@ -1,13 +1,17 @@
 ---
-title: "451 Mr R. G. Menzies, Prime Minister, to Mr W. A. Johnston, U.K. Consul in Noumea"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1217
+doc_date: '1940-06-27'
+doc_num: 451
+doc_order: 451
+naa_refs:
+- naa_barcode: 170323
+  naa_control_symbol: 19/311/74
+  naa_series: A816
+  reference: '[AA: A816, 19/311/74, i]'
+title: Mr R. G. Menzies, Prime Minister, to Mr W. A. Johnston, U.K. Consul in Noumea
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-27
-barcode: 170323
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 451 Mr R. G. Menzies, Prime Minister, to Mr W. A. Johnston, U.K. Consul in Noumea
 
 Cablegram unnumbered 27 June 1940,
 
@@ -29,7 +33,7 @@ Representations regarding four ships held Newcastle have received favourable con
 
 PRIME MINISTER
 
-_
+ _
 
 1 Document 428.
 
@@ -37,4 +41,4 @@ _
 
 _
 
-_ [ [AA: A816, 19/311/74, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=170323) ]_
+ _[AA: A816, 19/311/74, i]_

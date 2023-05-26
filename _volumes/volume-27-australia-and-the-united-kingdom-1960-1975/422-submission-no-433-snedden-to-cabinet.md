@@ -1,24 +1,27 @@
 ---
-title: "422 SUBMISSION NO. 433-SNEDDEN TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10288
+doc_date: 1967-08
+doc_num: 422
+doc_order: 422
+naa_refs:
+- naa_barcode: 12249540
+  naa_control_symbol: VOLUME 14
+  naa_series: A5842
+  reference: '[NAA: A5842 VOLUME 14]'
+title: SUBMISSION NO. 433-SNEDDEN TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-08-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 422 SUBMISSION NO. 433-SNEDDEN TO CABINET
-
-NAA: A5842 VOLUME 14
 
 Canberra, August 1967
 
 Confidential
 
-**Use of the Word ‘British’ on Covers of Australian Passports**
+ **Use of the Word ‘British’ on Covers of Australian Passports**
 
 Australia is now the only country, other than the United Kingdom, which has on the cover of its national passports the word ‘British’. Australian passports have on the first inner page a second use of the word ‘British’ in the context ‘Australian Citizen and British Subject’. This is, of course, a correct description and will remain in its present position. This submission is concerned only with the word ‘British’ on the cover of the passport. It now appears in the context ‘British Passport’. I propose that the cover should simply state it to be ‘Australia’—‘Passport’.
 
-2\. The present passport cover appears as in ‘A’ (page 2). I propose that it should appear as in ‘B’ (putting aside the question of a form of print which will give greater clarity to the Coat of Arms ).1
+2\. The present passport cover appears as in ‘A’ (page 2). I propose that it should appear as in ‘B’ (putting aside the question of a form of print which will give greater clarity to the Coat of Arms ).[1](#f1)
 
 3\. The cover now also carries the Crown. That symbol will be retained as symbolic of our constitutional monarchy. The word ‘British’ is now, in Australian terms, inappropriate for use on passports and creates anomalies for the following reasons:
 
@@ -28,7 +31,7 @@ Australia is now the only country, other than the United Kingdom, which has on t
 > 
 > (iii) Australians holding ‘British passports’ expect that these should confer a right of entry into the United Kingdom for any purpose. The Commonwealth Immigrants Act, 1962 of the United Kingdom ended this. Australians going to Britain (especially if intending to work) have had to obtain entry permits. This Act has been more strictly administered in the past year. At the time of the Immigration check on arrival in Britain, Australians do not pass through the same check point as citizens of the United Kingdom and Colonies who are the only other persons holding passports with the words ‘British passport’;
 > 
-> (iv) All other Commonwealth countries have now dropped the word ‘British’ from their passport covers (A reproduction of the Canadian and New Zealand passport is annexed);2
+> (iv) All other Commonwealth countries have now dropped the word ‘British’ from their passport covers (A reproduction of the Canadian and New Zealand passport is annexed);[2](#f2)
 > 
 > (v) People in other (non-Commonwealth) countries tend to regard a ‘British’ document as one issued by the United Kingdom authorities (especially because of (i) above).
 
@@ -62,14 +65,16 @@ The removal of the word ‘British’ was opposed at the time by members of the 
 
 13\. I recommend that Cabinet approve the deletion of the word ‘British’ from the covers of Australian passports.
 
-_Note:_
+ _Note:_
 
 > (1) No legislation would be necessary; a statement in the House would be desirable;
 > 
-> (2) No extra cost would be incurred because the action to make the change would be associated with the need to print new stocks of passports.3
+> (2) No extra cost would be incurred because the action to make the change would be associated with the need to print new stocks of passports.[3](#f3)
 
 1 Illustrations not published.
 
 2 Annex not published.
 
 3 The Cabinet Legislation Committee minuted: ‘We find the Minister’s arguments for dropping the word "British" persuasive. There is, however, a question of timing. Following the issues of Britain’s application to join the E.E.C. and Defence Policy East of Suez, the change in the Australian passport might be interpreted as yet another weakening of the tie with the United Kingdom or even as a positive step by Australia to point this up. If comment of this sort seems likely to arise, it is a matter of judgement as to whether the proposed move at this stage is a good or bad one—or whether it can be presented as neutral.’ Cabinet approved submission no. 433 on 22 August 1967. It also indicated it might wish to drop the words ‘and British subject‘ from the first inner page of passports, and asked the Minister to submit a paper directed to this matter (NAA: A5842 volume 14, decision no. 517 on submission no. 433).
+
+[NAA: A5842 VOLUME 14]

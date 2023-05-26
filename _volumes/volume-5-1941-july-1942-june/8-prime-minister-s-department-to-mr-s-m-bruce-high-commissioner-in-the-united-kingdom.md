@@ -1,16 +1,22 @@
 ---
-title: "8 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in the United Kingdom"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1762
+doc_date: '1941-07-16'
+doc_num: 8
+doc_order: 9
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA : A3196, 1941, 0.9889]'
+title: Prime Minister's Department to Mr S. M. Bruce, High Commissioner in the United
+  Kingdom
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-16
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 8 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in the United Kingdom
 
 Cablegram 3769 [1],
 
-MOST SECRET &amp;amp; IMMEDIATE
+MOST SECRET &amp; IMMEDIATE
 
 CANBERRA, 16 July 1941
 
@@ -78,9 +84,9 @@ you might care to advance but frankly we are not convinced by
 
 those adduced in the cable under reply.
 
-_
+ _
 
-1 Repeated to the N.Z. Acting Prime Minister on 17 July as no. 
+1 Repeated to the N.Z. Acting Prime Minister on 17 July as no.
 
 263.
 
@@ -98,7 +104,7 @@ action recommended in circular cablegram M151.
 
 _
 
-_
+ _
 
 [AA : A3196, 1941, 0.9889]
 

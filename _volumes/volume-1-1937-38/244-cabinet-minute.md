@@ -1,20 +1,25 @@
 ---
-title: "244 Cabinet Minute"
-volume: "Volume 1: 1937-38"
-doc_id: 243
+doc_date: '1938-09-01'
+doc_num: 244
+doc_order: 243
+naa_refs:
+- naa_barcode: 32329507
+  naa_control_symbol: '413'
+  naa_series: A2694
+  reference: '[PM &C : A2694, 1 SEPTEMBER 1938, UNNUMBERED MINUTE]'
+title: Cabinet Minute
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-01
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 244 Cabinet Minute
-
-## Minute unnumbered CANBERRA, 1 September 1938
+Minute unnumbered CANBERRA, 1 September 1938
 
 INTERNATIONAL SITUATION (MR HUGHES [1])
 
 Cables from Secretary of State for Dominions, circular B206 and also cablegram of 30 August circular B205 were both read to Cabinet. [2] Further 7 points that Dr Benes should announce also read to Cabinet. Decided that a reply as presented and approved be forwarded to the Secretary of State for Dominion Affairs and that a statement be made to the press by the Prime Minister, Mr Lyons.
 
-_
+ _
 
 1 Minister for External Affairs.
 
@@ -22,4 +27,4 @@ _
 
 _
 
-_ [PM&amp;C : A2694, 1 SEPTEMBER 1938, UNNUMBERED MINUTE]_
+ _[PM &C : A2694, 1 SEPTEMBER 1938, UNNUMBERED MINUTE]_

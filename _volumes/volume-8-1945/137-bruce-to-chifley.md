@@ -1,12 +1,17 @@
 ---
-title: "137 Bruce to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3168
+doc_date: '1945-07-18'
+doc_num: 137
+doc_order: 137
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 453]'
+title: Bruce to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-07-18
+vol_title: 'Volume 8: 1945'
 ---
-
-# 137 Bruce to Chifley
 
 Cablegram 84A LONDON, 18 July 1945, 6.10 p.m.
 
@@ -28,10 +33,10 @@ Concurrently with insisting upon our right to be consulted, it will be necessary
 
 BRUCE
 
-_
+ _
 
 1 Documents 134,135 and 136.
 
 _
 
-_ [AA : A5954, BOX 453]_
+ _[AA : A5954, BOX 453]_

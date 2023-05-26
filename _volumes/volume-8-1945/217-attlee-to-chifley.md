@@ -1,12 +1,17 @@
 ---
-title: "217 Attlee to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3248
+doc_date: '1945-08-25'
+doc_num: 217
+doc_order: 217
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, INWARDS MOST SECRET MASTER SHEETS, 1.27578]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-25
+vol_title: 'Volume 8: 1945'
 ---
-
-# 217 Attlee to Chifley
 
 Cablegram 332 LONDON, 25 August 1945, 9.20 p.m.
 
@@ -20,8 +25,8 @@ You on your part will appreciate that Australia's participation in International
 
 As regards the question of Australian representation at the formal surrender of Japan we had it in mind on receipt of Dr. Evatt's statement of the 24th August [1] to issue a further public statement making clear the course of events and showing that we had fully supported Australia's request and that the criticisms made were unjustified. We have however decided to refrain from this in the interests of good relations between us and I would earnestly urge you to ensure that a similar restraint from public controversy is exercised in Australia.
 
-_ 1 In stressing Australian claims to a voice in the peace settlements Evatt had implied a lack of support from the Dominions Office. See Commonwealth Government, Digest of Decisions and Announcements, no. 106, pp. 6-7.
+ _1 In stressing Australian claims to a voice in the peace settlements Evatt had implied a lack of support from the Dominions Office. See Commonwealth Government, Digest of Decisions and Announcements, no. 106, pp. 6-7.
 
 _
 
-_ [AA : A3195, 1945, FOLDER, INWARDS MOST SECRET MASTER SHEETS, 1.27578]_
+ _[AA : A3195, 1945, FOLDER, INWARDS MOST SECRET MASTER SHEETS, 1.27578]_

@@ -1,12 +1,17 @@
 ---
-title: "269 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 606
+doc_date: '1939-10-07'
+doc_num: 269
+doc_order: 269
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-07
+vol_title: 'Volume 2: 1939'
 ---
-
-# 269 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 532 LONDON, 7 October 1939, 6.55 P.M.
 
@@ -18,7 +23,7 @@ The United Kingdom hope to send draft to you on Monday [2] for your consideratio
 
 BRUCE
 
-_
+ _
 
 1 See Document 267, note 1.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

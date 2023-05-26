@@ -1,12 +1,17 @@
 ---
-title: "28 Makin to Evatt"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3876
+doc_date: '1946-07-19'
+doc_num: 28
+doc_order: 28
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A4311
+  reference: '[AA:A4311, BOX 481]'
+title: Makin to Evatt
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-07-19
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 28 Makin to Evatt
 
 Cablegram A101 CANBERRA, 19 July 1946
 
@@ -32,7 +37,7 @@ Proceeds by referring to basic objectives of Trusteeship system set out in Chart
 
 (c) States Directly Concerned-Government may be asked to indicate those states it considers to fall within this category. The New Zealand Government has included France and as far as we can gather is unlikely to depart from that decision. I should be glad to secure confirmation of your view that France is not to be consulted by us as I feel there is a risk of misunderstanding with French with whom our relations have been so cordial, particularly in matters affecting the South Pacific.
 
-_
+ _
 
 1 This cablegram was sent to the Australian Embassy in Washington and forwarded to Evatt in New York.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A4311, BOX 481]_
+ _[AA:A4311, BOX 481]_

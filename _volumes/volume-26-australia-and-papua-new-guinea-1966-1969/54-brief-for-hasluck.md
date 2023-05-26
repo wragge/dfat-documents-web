@@ -1,25 +1,29 @@
 ---
-title: "54 Brief For Hasluck"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9562
+doc_date: '1966-07-28'
+doc_num: 54
+doc_order: 54
+naa_refs:
+- naa_barcode: 550890
+  naa_control_symbol: 3036/14/1 PART 5
+  naa_series: A1838
+  reference: '[NAA: A 1838, 3036/14/1 part 5]'
+title: Brief For Hasluck
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-07-28
-barcode: 550890
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 54 Brief For Hasluck
 
 Canberra, undated
 
 Confidential
 
-**West Irian and Papua New Guinea**
+ **West Irian and Papua New Guinea**
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 (ii) _West Irian exile organizations_
 
-There are two political organizations in the Netherlands set up by political leaders from West Irian who left the country before the Indonesian take-over. One is the Papuan National Front, chaired by Marcus Kaisiepo, a cousin of the present Governor of West Irian. The other is the Freedom Committee for West Irian, chaired by Nicolaas Jouwe. Jouwe was originally a member of the PNF but left because of personal differences with members of the PNF executive.2
+There are two political organizations in the Netherlands set up by political leaders from West Irian who left the country before the Indonesian take-over. One is the Papuan National Front, chaired by Marcus Kaisiepo, a cousin of the present Governor of West Irian. The other is the Freedom Committee for West Irian, chaired by Nicolaas Jouwe. Jouwe was originally a member of the PNF but left because of personal differences with members of the PNF executive.[2](#f2)
 
 The stated aims of both organizations are legitimate: they wish to attract international attention to developments in West Irian and to ensure that Indonesia fulfils her obligations under the 1962 agreement. Inevitably, however, their activities are bitterly anti-Indonesian and they maintain clandestine contacts with underground organizations in West Irian.
 
@@ -29,7 +33,7 @@ The Indonesians inevitably nurse some suspicions of our attitude to these organi
 
 The Australian Ambassador in The Hague recently informed Sadjarwo, his Indonesian colleague there, that you had rejected a request by Jouwe to be permitted to visit Australia. Sadjarwo said he thought this was a wise policy for us to adopt and commented that in his opinion exiles such as Jouwe were good people but misguided.
 
-It may be worth telling Malik3 that we have deliberately kept the exile organizations at a distance and have not allowed any of their members to visit Australia or Papua New Guinea.
+It may be worth telling Malik[3](#f3) that we have deliberately kept the exile organizations at a distance and have not allowed any of their members to visit Australia or Papua New Guinea.
 
 (iii) _Refugees from West Irian_
 
@@ -37,7 +41,7 @@ Since the Indonesians took over the administration in West Irian in May 1963, th
 
 Permissive residence in the Territory since that time has been granted to a total of 19 persons. In two cases these have concerned Indonesians ...
 
-All the other refugees accepted have been West Irianese. Only one official, Benjamin Tonenggo, a policeman from Merauke, has crossed into Papua New Guinea. He has since been convicted on criminal charges and is at present serving a two-year gaol sentence. Before his last conviction, you had decided that Tonenggo should be returned to West Irian. Though the Indonesians are certainly suspicious of the activities of West Irianese refugees in Papua New Guinea and try to intercept persons attempting to cross into the Territory, they probably recognize that we have attempted to maintain strict supervision over border crossings. They have also been told that we require refugees given residence in Papua New Guinea to refrain from all political activities, although this advice—originally given to Dr. Subandrio4 —may not be widely known.
+All the other refugees accepted have been West Irianese. Only one official, Benjamin Tonenggo, a policeman from Merauke, has crossed into Papua New Guinea. He has since been convicted on criminal charges and is at present serving a two-year gaol sentence. Before his last conviction, you had decided that Tonenggo should be returned to West Irian. Though the Indonesians are certainly suspicious of the activities of West Irianese refugees in Papua New Guinea and try to intercept persons attempting to cross into the Territory, they probably recognize that we have attempted to maintain strict supervision over border crossings. They have also been told that we require refugees given residence in Papua New Guinea to refrain from all political activities, although this advice—originally given to Dr. Subandrio[4](#f4) —may not be widely known.
 
 We have not had any substantial dialogue with the Indonesians on this subject for a long time and it might be useful for you to explain to Malik the general lines of our policy towards refugees, emphasising that only in cases where there are apparently genuine humanitarian reasons for allowing a person to remain in Papua New Guinea is this permitted, and the decision in such cases rests with you and the Minister for Territories.
 
@@ -47,11 +51,11 @@ You might say that it is in both Australian and Indonesian interests for our Gov
 
 At the time of the transfer of the administration of West Irian to Indonesia, Dr. Subandrio agreed that two groups of West Irianese students, who were studying in Port Moresby ... should complete their training at our expense.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 The Indonesians have no strong claims on any of these students. They came to Papua New Guinea while their homeland was still controlled by the Dutch, and the Indonesians have not contributed to their expenses. However, we did consult with the Indonesians about them in 1963 and thus have admitted a legitimate Indonesian interest in their future. There is of course an obvious need for trained personnel in West Irian. It was felt that the Indonesians should be consulted in this case because of our general policy that in all practical questions relating to West Irian, the Indonesians should see that we deal openly with them. If the Indonesians do eventually ask that the students should be returned, it is probable that at least some of them will refuse to go. If that situation arises we would hope that, by pointing out to the Indonesians the considerable unfavourable publicity in Australia likely to be touched off by any move to bring pressure to bear on the students and by stressing our mutual interest in not straining relations on minor issues such as this, the Indonesians could be brought to agree not to press the matter.
 
-(v) _New Guinea border5_
+(v) _New Guinea border[5](#f5)_
 
 Joint marking of the border between West Irian and Papua New Guinea began late in June and two of the seven agreed positions between the North Coast and the Star Mountains have now been determined and marked. The marking of position No. 3 in the Sekotchiau area should be completed by the time you visit Djakarta, and it is hoped to finish at least six of the positions by the end of September. Relations between the Indonesian and Australian teams have so far been excellent and we have assisted the Indonesians to a considerable extent with transport and fuel supplies.
 
@@ -71,9 +75,9 @@ You agreed in 1964 that we should explore the question of co-operation between t
 
 Indonesia has followed a policy of non-interference in respect of Papua New Guinea. While the reasons partly are found in Indonesian–Australian relationships generally, it seems reasonable to assume that they favour for the present a mutual ‘hands off’ policy. They are still uncertain about their grip on West Irian and do not wish, by interfering in Australian New Guinea, to stimulate counter-action from our side of the border. They are also sensitive about the repercussions in West Irian of progress in Papua New Guinea. For example, Drs Legowo (Secretary for West Irian Affairs to the Foreign Minister) recently told the Embassy in Djakarta how important it was from the Indonesian viewpoint that there should not be dramatic political advances in Papua New Guinea before 1969.
 
-This probably means that for the present the Indonesians are not looking for an appreciable widening of contacts and co-operation between the two halves of New Guinea, although Malik did say to an A.B.C. reporter that ‘the two countries shared a common responsibility and task in West Irian and New Guinea’. This way of putting things is at the least a refreshing change from the jargon of neo-colonialism and the way Malik cut through Indonesian inhibitions over joint work on the border also illustrates a practical and direct attitude. Perhaps we should be willing to show ourselves responsive to the principle of there being wider contacts between the two Administrations in New Guinea. In practice, any developments could be handled cautiously and kept on a small scale.6
+This probably means that for the present the Indonesians are not looking for an appreciable widening of contacts and co-operation between the two halves of New Guinea, although Malik did say to an A.B.C. reporter that ‘the two countries shared a common responsibility and task in West Irian and New Guinea’. This way of putting things is at the least a refreshing change from the jargon of neo-colonialism and the way Malik cut through Indonesian inhibitions over joint work on the border also illustrates a practical and direct attitude. Perhaps we should be willing to show ourselves responsive to the principle of there being wider contacts between the two Administrations in New Guinea. In practice, any developments could be handled cautiously and kept on a small scale.[6](#f6)
 
-[ [NAA: A 1838, 3036/14/1 part 5](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=550890) ]
+[NAA: A 1838, 3036/14/1 part 5]
 
 1  Hasluck announced on 3 August that he would visit Djakarta for a ‘few days’, beginning on 8 August. Alluding to changes in the Indonesian Government following the failed coup of late 1965 (see footnote 9, Document 12), Hasluck commented that ‘the Australian Government believed ... it would be very useful for him to take an early opportunity to meet the leaders of the new Government in Indonesia and to gain first-hand knowledge of their thinking about the future and about their current and long-term problems’ (cablegram 2304, DEA to Washington, NAA: A6366, JAI966/05T). Hasluck’s remarks came on the heels of strong indications by Djakarta that the ‘confrontation’ of Malaysia would soon be officially ended (see savingram 33, Djakarta to DEA, 28 July 1966, NAA: A6364, JA1966/0 IS). 
 
@@ -85,4 +89,4 @@ This probably means that for the present the Indonesians are not looking for an 
 
 5  See editorial note ‘Survey of the border between West Irian and PNG’. 
 
-6  In discussions on 9 August, Hasluck said to Malik that ‘East New Guinea would one day be independent and he thought would be well prepared and with its population would be capable of a genuine national existence’. Conversation subsequently moved to the New York Agreement (see paragraph 8,Document 12), which Malik said would be implemented by Indonesia (record of conversation between Hasluck and Malik, 9 August 1966, NAA: A 1838, 3034/10/1 part 28). H.M. Loveday, the Australian Ambassador to Indonesia, later wrote to Jackel that in January 1967 Malik had raised privately with Hasluck ‘the possibility of Australian assistance to Indonesia in West Irian, particularly on the training side, and ... of possible training in Papua/New Guinea’. Hasluck responded ‘frankly that the Government would not be prepared to have trainees from West Irian in Papua/New Guinea because of the potential political problems—and he enumerated these—which they could cause’. Hasluck told Loveday that he thought Malik ‘fully took this point’ (letter, Loveday to Jockel, 3 February 1968, NAA: A1838, 3034/10/1/4 part I). Hasluck was later described by Plimsoll as taking a ‘cautious’ view generally about exchanges between PNG and Irian: ‘He did not want opinion in any of the countries or territories concerned to get the impression that any close co-operation was likely to develop. Behind the idea of [previous] co-operation of the Dutch [with Australia] had been the notion of a possible ultimate common future for the two territories. But now the only course was for the two territories to go their separate ways’. Expressing a DEA view, Jockel felt that ‘we should be careful about pointing up relations with West Irian at this particular time’ because the ‘Territory may be heading for a lot of internal dissent and turmoil’ (minute, Jockel to J.M. Starey (Acting Head, Malaysia and Indonesia Section, DEA) and H.D. Anderson (Assistant Secretary, South-East Asia Branch, DEA), 28 March 1967, ibid.). 
+6  In discussions on 9 August, Hasluck said to Malik that ‘East New Guinea would one day be independent and he thought would be well prepared and with its population would be capable of a genuine national existence’. Conversation subsequently moved to the New York Agreement (see paragraph 8,Document 12), which Malik said would be implemented by Indonesia (record of conversation between Hasluck and Malik, 9 August 1966, NAA: A 1838, 3034/10/1 part 28). H.M. Loveday, the Australian Ambassador to Indonesia, later wrote to Jackel that in January 1967 Malik had raised privately with Hasluck ‘the possibility of Australian assistance to Indonesia in West Irian, particularly on the training side, and ... of possible training in Papua/New Guinea’. Hasluck responded ‘frankly that the Government would not be prepared to have trainees from West Irian in Papua/New Guinea because of the potential political problems—and he enumerated these—which they could cause’. Hasluck told Loveday that he thought Malik ‘fully took this point’ (letter, Loveday to Jockel, 3 February 1968, NAA: A1838, 3034/10/1/4 part I). Hasluck was later described by Plimsoll as taking a ‘cautious’ view generally about exchanges between PNG and Irian: ‘He did not want opinion in any of the countries or territories concerned to get the impression that any close co-operation was likely to develop. Behind the idea of [previous] co-operation of the Dutch [with Australia] had been the notion of a possible ultimate common future for the two territories. But now the only course was for the two territories to go their separate ways’. Expressing a DEA view, Jockel felt that ‘we should be careful about pointing up relations with West Irian at this particular time’ because the ‘Territory may be heading for a lot of internal dissent and turmoil’ (minute, Jockel to J.M. Starey (Acting Head, Malaysia and Indonesia Section, DEA) and H.D. Anderson (Assistant Secretary, South-East Asia Branch, DEA), 28 March 1967, ibid.).

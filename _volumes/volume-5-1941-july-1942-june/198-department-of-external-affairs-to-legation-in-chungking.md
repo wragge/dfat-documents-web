@@ -1,12 +1,17 @@
 ---
-title: "198 Department of External Affairs to Legation in Chungking"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1952
+doc_date: '1941-12-17'
+doc_num: 198
+doc_order: 199
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3831, 1941, 2543]'
+title: Department of External Affairs to Legation in Chungking
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-17
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 198 Department of External Affairs to Legation in Chungking
 
 Cablegram 32 CANBERRA, [C. 17 December 1941] [1]
 
@@ -28,7 +33,7 @@ Keep us fully informed of situation as our information sparse, especially regard
 
 Substance of above repeated to Washington and London.
 
-_
+ _
 
 1 Copies of this cablegram were circulated in Canberra on 17 December.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A3831, 1941, 2543]_
+ _[AA:A3831, 1941, 2543]_

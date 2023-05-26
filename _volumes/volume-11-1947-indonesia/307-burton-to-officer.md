@@ -1,12 +1,17 @@
 ---
-title: "307 Burton to Officer"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4491
+doc_date: '1947-09-01'
+doc_num: 307
+doc_order: 307
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A8108
+  reference: '[AA:A8108, 221/4/1, i]'
+title: Burton to Officer
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-09-01
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 307 Burton to Officer
 
 Cablegram 115 CANBERRA, 1 September 1947
 
@@ -22,7 +27,7 @@ Minister leaves 4th (September) for New York. He is candidate for Assembly Presi
 
 4\. I have not discussed this with the Minister but I feel confident that this is something you could do with great benefit to Australian-Dutch relations and to the United Nations faced now with most critical problems.
 
-_
+ _
 
 1 Words in square brackets (missing in the cablegram received at the Legation in The Hague) have been inserted from a draft copy of the cablegram on file AA:A1838/274, 854/10/4, iii.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A8108, 221/4/1, i]_
+ _[AA:A8108, 221/4/1, i]_

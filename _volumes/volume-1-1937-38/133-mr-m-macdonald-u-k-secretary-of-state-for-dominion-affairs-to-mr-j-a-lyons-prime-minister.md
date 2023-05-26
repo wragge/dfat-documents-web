@@ -1,12 +1,18 @@
 ---
-title: "133 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 132
+doc_date: '1938-03-10'
+doc_num: 133
+doc_order: 132
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL : PAGE 759]'
+title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A.
+  Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-10
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 133 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister
 
 Circular Cablegram B37 LONDON, 10 March 1938, 10.02 p.m.
 
@@ -22,7 +28,7 @@ Either the Prime Minister [2] or the Foreign Secretary will talk on similar line
 
 In his recent conversations with Herr Hitler (see my telegram Circular B. 36 of 7th March [3]) His Majesty's Ambassador at Berlin [4] informed the Chancellor in strict confidence of the gist of the foregoing. He was instructed to make it clear that His Majesty's Government in the United Kingdom have done all in their power and have indeed taken an unusual step in order to show their sincere desire to improve the atmosphere and to facilitate conversations with the German Government.
 
-_
+ _
 
 1 Viscount Halifax.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [ANL : PAGE 759]_
+ _[ANL : PAGE 759]_

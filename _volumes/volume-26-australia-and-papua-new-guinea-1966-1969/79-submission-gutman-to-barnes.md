@@ -1,17 +1,21 @@
 ---
-title: "79 Submission, Gutman To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9587
+doc_date: 1966-10
+doc_num: 79
+doc_order: 79
+naa_refs:
+- naa_barcode: 12030517
+  naa_control_symbol: 1966/5530 PART 1
+  naa_series: A452
+  reference: '[NAA: A452, 1966/5530]'
+title: Submission, Gutman To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-10-13
-barcode: 12030517
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 79 Submission, Gutman To Barnes
 
 Canberra, undated
 
-**Bougainville copper—discussions with C.R.A.**
+ **Bougainville copper—discussions with C.R.A.**
 
 Further discussions have been held with C.R.A. representatives regarding the principal provisions of a draft agreement on mining the Bougainville copper deposits.
 
@@ -38,7 +42,7 @@ Processing| \- feasibility report 6 years after commencement of production and f
 \- level of royalty and provisions on export duties not yet agreed upon.  
 ●| Three-year  
 Tax Holiday| \- C.R.A. regard as essential to assist raising of capital and repayments of borrowed funds  
-\- effect would be to postpone the write-off of capital for tax purposes and hence the payment of income tax1  
+\- effect would be to postpone the write-off of capital for tax purposes and hence the payment of income tax[1](#f1)  
 \- difficulties foreseen in discriminating in favour of company  
 \- general provision to permit tax holiday would require changes in Territory legislation  
 \- being examined by Department in conjunction with Administration.  
@@ -48,8 +52,6 @@ Tax Holiday| \- C.R.A. regard as essential to assist raising of capital and repa
 ●| Guarantees Against Expropriation| C.R.A. request insurance or other guarantees to protect investment against expropriation.  
 \- In view Commonwealth policy on investment insurance it is considered impracticable to meet C.R.A.’s request.  
   
-[ [NAA: A452, 1966/5530](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=12030517) ]
+[NAA: A452, 1966/5530]
 
-  * 1  CRA commented in the October meeting with Commonwealth officials that ‘Unless [the three year tax holiday and deferment of capital allowances] were settled in the company’s favour it was highly probable that no agreement could be signed’ (notes of meeting, 12-13 October 1966, NAA: A452, 1967/11 07). Treasury’s advice to Territories was uncompromising on these questions: ‘While some countries, including Canada, exempt from taxation income derived during the early years of the life of a mine, they may levy tax on these new enterprises long before the enterprise has regained its invested capital ... Under the income tax laws of Australia and the Territory of Papua and New Guinea, a company may remain free from income tax until all of its capital expenditure on necessary plant, development of mining property, and, in some instances, exploration has been allowed as deductions for income tax purposes ... The suggestion that the company should be allowed a three-year tax holiday and deferment of the capital allowances under Division 10 of the New Guinea Ordinance is seen as an attempt to get the best of both systems. Moreover, it is certainly not a balanced approach to taxation of the mining industry’ (memorandum, Treasury (Craik) to DOT, 24 October 1966, NAA: A452, 1966/5530). 
-
-
+  * 1  CRA commented in the October meeting with Commonwealth officials that ‘Unless [the three year tax holiday and deferment of capital allowances] were settled in the company’s favour it was highly probable that no agreement could be signed’ (notes of meeting, 12-13 October 1966, NAA: A452, 1967/11 07). Treasury’s advice to Territories was uncompromising on these questions: ‘While some countries, including Canada, exempt from taxation income derived during the early years of the life of a mine, they may levy tax on these new enterprises long before the enterprise has regained its invested capital ... Under the income tax laws of Australia and the Territory of Papua and New Guinea, a company may remain free from income tax until all of its capital expenditure on necessary plant, development of mining property, and, in some instances, exploration has been allowed as deductions for income tax purposes ... The suggestion that the company should be allowed a three-year tax holiday and deferment of the capital allowances under Division 10 of the New Guinea Ordinance is seen as an attempt to get the best of both systems. Moreover, it is certainly not a balanced approach to taxation of the mining industry’ (memorandum, Treasury (Craik) to DOT, 24 October 1966, NAA: A452, 1966/5530).

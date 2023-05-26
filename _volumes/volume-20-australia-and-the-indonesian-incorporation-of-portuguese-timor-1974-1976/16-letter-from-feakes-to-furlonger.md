@@ -1,23 +1,37 @@
 ---
-title: "16 Letter from Feakes to Furlonger"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7855
+doc_date: '1974-07-26'
+doc_num: 16
+doc_order: 16
+naa_refs:
+- naa_barcode: 550914
+  naa_control_symbol: 3038/10/1 PART 8
+  naa_series: A1838
+  reference: '[On file NAA: Al838, 303811011, viii.]'
+- naa_barcode: 4151641
+  naa_control_symbol: '1'
+  naa_series: A11443
+  reference: '[On file NAA: All443, [l]'
+- naa_barcode: 4151641
+  naa_control_symbol: '1'
+  naa_series: A11443
+  reference: '[NAA: A11443, [1]'
+title: Letter from Feakes to Furlonger
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-07-26
-barcode: 4151641
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 16 Letter from Feakes to Furlonger
 
 Canberra, 26 July 1974
 
 TOP SECRET
 
-**Portuguese Timor**
+ **Portuguese Timor**
 
-I am sorry to have delayed in replying to your letter of 3 July about Portuguese Timor.1 While you were on leave in Australia, John McCredie and I wrote to each other on that subject and you may be interested to have the following extract of what I had to say to him about our general outlook on Portuguese Timor.
+I am sorry to have delayed in replying to your letter of 3 July about Portuguese Timor.[1](#f1) While you were on leave in Australia, John McCredie and I wrote to each other on that subject and you may be interested to have the following extract of what I had to say to him about our general outlook on Portuguese Timor.
 
-_[matter omitted]_2
+ _[matter omitted] _[2](#f2)
 
 The information conveyed to Jan Arriens by Harry Tjan was most valuable, but I think that you would agree that we should not encourage the Indonesians in any way to talk to us along those lines. Australia could not afford to be associated with an Indonesian covert operation because of the risk of exposure, if for no other reason. Any hint of Australian involvement or even acquiescence would be damaging to the government's reputation overseas, to its domestic credibility and to the confidence in us of small countries, especially PNG. In terms of domestic opinion, there are enough problems in maintaining our present policy towards Indonesia without the complication of association with a doubtful operation in Timor which would scarcely be consistent with the government's support for self-determination in Portuguese colonial territories.
 
@@ -36,7 +50,7 @@ As I say policy towards Portuguese Timor is still being considered but the Prime
 
 You might be interested to see Alan Renouf's record of his conversation with Peter Wilenski.4
 
-_ [ [NAA: A11443, [1]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4151641) ]_
+ _[NAA: A11443, [1]]_
 
   * 1 Document 12.
   * 2 The first paragraph of Document 10, from 'My own feeling .. .', was repeated here.

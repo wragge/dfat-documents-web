@@ -1,12 +1,18 @@
 ---
-title: "353 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1584
+doc_date: '1941-03-13'
+doc_num: 353
+doc_order: 353
+naa_refs:
+- naa_barcode: 856265
+  naa_control_symbol: '278'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, MOVEMENTS OF US WAR VESSELS
+    IN PACIFIC]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-13
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 353 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 194 WASHINGTON, 13 March 1941, 6.55 p.m.
 
@@ -26,7 +32,7 @@ I said that undoubtedly Australia would wish to make some advance entertainment 
 
 CASEY
 
-_ VESSELS IN PACIFIC]
+ _
 
 1 Adviser on Political Relations, U.S. State Department.
 
@@ -36,4 +42,4 @@ _ VESSELS IN PACIFIC]
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, MOVEMENTS OF US WAR_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, MOVEMENTS OF US WAR VESSELS IN PACIFIC]_

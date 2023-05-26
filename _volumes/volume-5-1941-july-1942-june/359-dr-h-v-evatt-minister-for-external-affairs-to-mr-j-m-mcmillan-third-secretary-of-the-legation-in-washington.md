@@ -1,14 +1,21 @@
 ---
-title: "359 Dr H. V. Evatt, Minister for External Affairs, to Mr J. M. McMillan, Third Secretary of the Legation in Washington"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2113
+doc_date: '1942-02-22'
+doc_num: 359
+doc_order: 360
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL''S DEPT
+    FILE MI, MINISTERPERSONAL TELEGRAMS]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr J. M. McMillan, Third
+  Secretary of the Legation in Washington
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-22
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 359 Dr H. V. Evatt, Minister for External Affairs, to Mr J. M. McMillan, Third Secretary of the Legation in Washington
-
-## Cablegram [222] [1] CANBERRA, [22 February 1942, 5.05 a.m.]
+Cablegram [222] [1] CANBERRA, [22 February 1942, 5.05 a.m.]
 
 TO BE DECYPHERED BY MCMILLAN ALONE AND HANDED BY HIM TO MR JUSTICE FRANKFURTER [2] ALONE
 
@@ -62,7 +69,7 @@ Finally the party political possibilities occurred to a few anti- Labor opportun
 
 EVATT
 
-_ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
+ _
 
 1 Material in square brackets has been inserted from the Washington copy in U.S. Library of Congress: Frankfurter Papers, container 53, 'Herbert V. Evatt'.
 
@@ -88,7 +95,7 @@ _ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
 
 12 Director, Australian News and Information Bureau, New York.
 
-13 This is possibly a reference to Cecil Brown, who later in 1942 published a book entitled Suez to Singapore, of which Evatt was highly critical. See Evatt's cablegrams SL67 and SW102 of 27 October 1942 on External Affairs Dept file Spares, Drafts &amp; Master Sheets-Outwards 'Special' cables.
+13 This is possibly a reference to Cecil Brown, who later in 1942 published a book entitled Suez to Singapore, of which Evatt was highly critical. See Evatt's cablegrams SL67 and SW102 of 27 October 1942 on External Affairs Dept file Spares, Drafts  & Master Sheets-Outwards 'Special' cables.
 
 14 Minister to China.
 
@@ -96,4 +103,4 @@ _ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
 
 _
 
-_ [FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S_
+ _[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]_

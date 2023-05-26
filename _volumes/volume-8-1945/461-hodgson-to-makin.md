@@ -1,12 +1,17 @@
 ---
-title: "461 Hodgson to Makin"
-volume: "Volume 8: 1945"
-doc_id: 3492
+doc_date: '1945-12-17'
+doc_num: 461
+doc_order: 461
+naa_refs:
+- naa_barcode: 587482
+  naa_control_symbol: 852/9/1 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838 T189(sv), 852/9/1, i]'
+title: Hodgson to Makin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-12-17
+vol_title: 'Volume 8: 1945'
 ---
-
-# 461 Hodgson to Makin
 
 Cablegram 500 LONDON, 17 December 1945, 1.15 p.m.
 
@@ -24,10 +29,10 @@ There will certainly be some support for San Francisco but in an exhaustive ball
 
 I appreciate the discretion given me in case San Francisco is eliminated but frankly I have an open mind and would appreciate any views the government may have as soon as possible. [1]
 
-_
+ _
 
 1 An unexpected vote forced by the European group a week later narrowed the choice to a site east of the Mississippi. Hasluck represented Australia on an interim committee established to report on possible sites to the first General Assembly. See cablegram 12628, UN035, dispatched 24 December (in AA : A5954, box 1838).
 
 _
 
-_ [AA : A1838 T189(sv), 852/9/1, i]_
+ _[AA : A1838 T189(sv), 852/9/1, i]_

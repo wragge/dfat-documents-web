@@ -1,12 +1,17 @@
 ---
-title: "344 Bruce to Department of External Affairs"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2635
+doc_date: '1943-12-03'
+doc_num: 344
+doc_order: 344
+naa_refs:
+- naa_barcode: 184631
+  naa_control_symbol: 1943/600/5/1/5
+  naa_series: A989
+  reference: '[AA:A989, 43-44/600/5/1/5]'
+title: Bruce to Department of External Affairs
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-12-03
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 344 Bruce to Department of External Affairs
 
 Cablegram N39 LONDON, 3 December 1943, 6.46 p.m.
 
@@ -24,7 +29,7 @@ Matter having proceeded so far, it could only be re-opened by a formal reference
 
 BRUCE
 
-_
+ _
 
 1 Documents 330 and 334.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/600/5/1/5]_
+ _[AA:A989, 43-44/600/5/1/5]_

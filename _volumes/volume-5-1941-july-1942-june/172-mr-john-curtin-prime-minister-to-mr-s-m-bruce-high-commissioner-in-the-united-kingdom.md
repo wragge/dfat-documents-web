@@ -1,12 +1,18 @@
 ---
-title: "172 Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1926
+doc_date: '1941-12-08'
+doc_num: 172
+doc_order: 173
+naa_refs:
+- naa_barcode: 206151
+  naa_control_symbol: O41/1/2
+  naa_series: A1608
+  reference: '[AA:A1608,0.41/1/2]'
+title: Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the
+  United Kingdom
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-08
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 172 Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom
 
 Cablegram 7737 CANBERRA, 8 December 1941
 
@@ -16,7 +22,7 @@ Please submit to His Majesty a recommendation for the issue to Governor-General 
 
 JOHN CURTIN
 
-_
+ _
 
 1 Lord Cowrie.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA:A1608,0.41/1/2]_
+ _[AA:A1608,0.41/1/2]_

@@ -1,28 +1,33 @@
 ---
-title: "248 Paper By Galvin"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9756
+doc_date: 1968-12
+doc_num: 248
+doc_order: 248
+naa_refs:
+- naa_barcode: 12051975
+  naa_control_symbol: 1968/4602
+  naa_series: A452
+  reference: '[NAA: A452, 1968/4602]'
+title: Paper By Galvin
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-12-09
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 248 Paper By Galvin
 
 Canberra, undated
 
 Confidential
 
-**Visit of Brigadier General Sarwo Edhie to T.P.N.G.1**
+ **Visit of Brigadier General Sarwo Edhie to T.P.N.G.[1](#f1)**
 
 Brigadier-General Sarwo Edhie, Indonesian Military Commander of West Irian visited the Territory of Papua and New Guinea from Monday 9th December 1968 to Saturday 14th December 1968. He was accompanied by a party often officials (including three air crew).
 
-Considering the short notice available to the Administration; the recent press and House of Assembly interest in West Irian and West Irianese refugees in T.P.N.G.;2 the reports from Djakarta indicating that the purpose of the visit was to discuss border control;3 and the size of the party: the visit ran smoothly and was successful in conveying a picture of developments in T.P.N.G.
+Considering the short notice available to the Administration; the recent press and House of Assembly interest in West Irian and West Irianese refugees in T.P.N.G.;[2](#f2) the reports from Djakarta indicating that the purpose of the visit was to discuss border control;[3](#f3) and the size of the party: the visit ran smoothly and was successful in conveying a picture of developments in T.P.N.G.
 
-[_matter omitted_]4
+[ _matter omitted_ ][4](#f4)
 
 3\. _Sarwo Edhie_
 
-Peter Hastings (his letter to Minister for E.A. on 13-8-68) said ‘He is supposed to be clear thinking, progressive and clean handed. I, in fact, found him rather vain, a trifle arrogant and somewhat repressive. However he is nobody’s fool’.5 My impression is that he is probably all of these things. During the visit he showed many characteristics. He delighted in having his photograph taken and in the formal occasion e.g. military dinner, ceremonial parade where he was placed at centre stage and would perform much more than adequately as the tough, upright, fighting soldier leader of men{.Y}et simple courtesies pleased him (a cup of local coffee spontaneously made by an Australian volunteer serving as a local government clerk in Asaro) and simple uneducated leadership and hard work impressed him (John {A} kanai, New Guinea Local Government Councillor, entrepreneur and coffee grower, who marched him back and forth throughout his coffee plantation at Goroka). His vanity (pride) was hurt by some slight discourtesies—yet he understood clearly when small things have6 gone wrong (e.g. the usual plane delays and accommodation difficulties) through no real fault of anyone. He thought Somare a rather overbearing young man who should know more about a subject before being critical of those who at least know something of it.7 He considered Voutas an interesting if odd young man who really only wanted to practise his Indonesian.8 He showed considerable warmth towards Hunter but could not make up his mind about Hay.
+Peter Hastings (his letter to Minister for E.A. on 13-8-68) said ‘He is supposed to be clear thinking, progressive and clean handed. I, in fact, found him rather vain, a trifle arrogant and somewhat repressive. However he is nobody’s fool’.[5](#f5) My impression is that he is probably all of these things. During the visit he showed many characteristics. He delighted in having his photograph taken and in the formal occasion e.g. military dinner, ceremonial parade where he was placed at centre stage and would perform much more than adequately as the tough, upright, fighting soldier leader of men{.Y}et simple courtesies pleased him (a cup of local coffee spontaneously made by an Australian volunteer serving as a local government clerk in Asaro) and simple uneducated leadership and hard work impressed him (John {A} kanai, New Guinea Local Government Councillor, entrepreneur and coffee grower, who marched him back and forth throughout his coffee plantation at Goroka). His vanity (pride) was hurt by some slight discourtesies—yet he understood clearly when small things have[6](#f6) gone wrong (e.g. the usual plane delays and accommodation difficulties) through no real fault of anyone. He thought Somare a rather overbearing young man who should know more about a subject before being critical of those who at least know something of it.[7](#f7) He considered Voutas an interesting if odd young man who really only wanted to practise his Indonesian.[8](#f8) He showed considerable warmth towards Hunter but could not make up his mind about Hay.
 
 The teachers college and its students made a marked impression as did the dedicated Australian and Dutch (!) agricultural officer at the Papuan Livestock Station. He drank little, rarely smoked and at social gatherings did his duty well (if a little studied). Publicly, his comments and remarks were strictly in accordance with his brief. In private discussion with Europeans and indigenes who asked frank and sometimes awkward questions he gave an impression of honesty and frankness which was often disarmingly charming.
 
@@ -40,13 +45,13 @@ If the reception given to Sarwo Edhie at the Goroka Teacher’s College is any g
 
 5\. _Anti-Indonesian criticism_
 
-Reports of Sarwo Edhie’s arrival in the Territory and his press conference drew a public response from Benedictus Sarwom (West Irianese Permissive Resident in Port Moresby).9 At first Sarwo Edhie was inclined to issue a press statement but after consideration he agreed that the better course was to ignore Sarwom and his statement.
+Reports of Sarwo Edhie’s arrival in the Territory and his press conference drew a public response from Benedictus Sarwom (West Irianese Permissive Resident in Port Moresby).[9](#f9) At first Sarwo Edhie was inclined to issue a press statement but after consideration he agreed that the better course was to ignore Sarwom and his statement.
 
 Interestingly, although Sarwom is employed at the Gateway Hotel he made no attempt to contact the party nor were any public demonstrations held in Port Moresby or elsewhere. In Lae, Administration officials believed that a demonstration was likely, and informed the West Irianese concerned that to so demonstrate would not only breach terms of their permissive residence but would also embarrass the Administration and the Australian Government. In the end, no demonstration took place but a petition was received by the District Commissioner and passed to Sarwo Edhie.
 
-In Goroka, a West Irianese, Hendrickus Jokoe, an employee of the Bird of Paradise Motel where the group was staying was directed to other duties on the Motel Owner’s plantation for the period of the visit (The owner, Mr. Bob Gibbes, was known to Sarwo Edhie and {Rotty}10 and had flown Peter Hastings to West Irian earlier in the year).
+In Goroka, a West Irianese, Hendrickus Jokoe, an employee of the Bird of Paradise Motel where the group was staying was directed to other duties on the Motel Owner’s plantation for the period of the visit (The owner, Mr. Bob Gibbes, was known to Sarwo Edhie and {Rotty}[10](#f10) and had flown Peter Hastings to West Irian earlier in the year).
 
-Jokoe presented an unsigned petition to the District Commissioner. It too was passed to Sarwo Edhie.11
+Jokoe presented an unsigned petition to the District Commissioner. It too was passed to Sarwo Edhie.[11](#f11)
 
 These were the only clearly anti-Indonesian incidents that occurred during the visit. Although irritated by the Sarwom statement and the two petitions, Sarwo Edhie professed to be able to see them in perspective and not as something about which he should make a major issue. None the less, he expressed to me privately the thought that if we allow the West Irianese too free a {rein} we might be encouraging them to do more than simply write the occasional letter.
 
@@ -54,11 +59,11 @@ Maximum protective security was observed at all hotels during the visit. This po
 
 6\. _Some general conclusions_
 
-The visit allowed Sarwo Edhie and his party to see the developments occurring in T.P.N.G. They were impressed particularly in the Highlands, and privately and publicly stated their understanding of the major efforts being made by Australia and Australians in the Territory. Although there was little anti-Indonesian sentiment expressed, Sarwo Edhie, {Rot}ty and Supomo12 took on board our sensitivity to the views of indigenous leaders and the House of Assembly. They noted the presence of indigenous elected leaders at social functions and the place they hold in the overall Territory machinery of Government and in the forming of Territory public opinion.
+The visit allowed Sarwo Edhie and his party to see the developments occurring in T.P.N.G. They were impressed particularly in the Highlands, and privately and publicly stated their understanding of the major efforts being made by Australia and Australians in the Territory. Although there was little anti-Indonesian sentiment expressed, Sarwo Edhie, {Rot}ty and Supomo[12](#f12) took on board our sensitivity to the views of indigenous leaders and the House of Assembly. They noted the presence of indigenous elected leaders at social functions and the place they hold in the overall Territory machinery of Government and in the forming of Territory public opinion.
 
 The value of a reciprocal visit to West Irian was mentioned privately on a number of occasions by Sarwo Edhie—not only as a means of inter-Territorial co-operation, but also to improve understanding amongst elected Papuans and New Guineans of Indonesia’s policies. Two indigenous people he had in mind to visit West Irian were John Akanai, whose example would be useful in getting West Irianese to develop their land, and Michael Somare, who ‘needs to have his eyes opened’.
 
-Of the other visitors, only four seemed to be of any significance. Amos Indey13 as a West Irian indigene was used a little as a gimmick and although he must have realised this he seemed to recognise realistically that his country’s only chance was to remain with Indonesia and that he had a part to play in its development. Rotty, a charming, articulate, English speaking foreign service officer, was both interpreter and political adviser to Sarwo Edhie, and of great assistance to the writer of this report throughout the visit. Colonel Sa{nt}oso14 wrote many pages of notes presumably to prepare a {J.I.C.} type report on the Territory’s development. Colonel Supomo (Indonesian Embassy, Canberra) was the only other visitor of any significance. He will doubtless now consider himself the New Guinea expert at the Embassy.15
+Of the other visitors, only four seemed to be of any significance. Amos Indey[13](#f13) as a West Irian indigene was used a little as a gimmick and although he must have realised this he seemed to recognise realistically that his country’s only chance was to remain with Indonesia and that he had a part to play in its development. Rotty, a charming, articulate, English speaking foreign service officer, was both interpreter and political adviser to Sarwo Edhie, and of great assistance to the writer of this report throughout the visit. Colonel Sa{nt}oso[14](#f14) wrote many pages of notes presumably to prepare a {J.I.C.} type report on the Territory’s development. Colonel Supomo (Indonesian Embassy, Canberra) was the only other visitor of any significance. He will doubtless now consider himself the New Guinea expert at the Embassy.[15](#f15)
 
 [NAA: A452, 1968/4602]
 

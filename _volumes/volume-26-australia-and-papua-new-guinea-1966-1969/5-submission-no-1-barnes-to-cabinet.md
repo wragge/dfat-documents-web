@@ -1,22 +1,27 @@
 ---
-title: "5 Submission No. 1, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9514
+doc_date: '1966-01-27'
+doc_num: 5
+doc_order: 5
+naa_refs:
+- naa_barcode: 1803297
+  naa_control_symbol: '1'
+  naa_series: A5841
+  reference: '[NAA: A5841, I]'
+title: Submission No. 1, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-01-27
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 5 Submission No. 1, Barnes To Cabinet
 
 Canberra, 27 January 1966
 
 Confidential
 
-**Papuá New Guinea—constitutional development**
+ **Papuá New Guinea—constitutional development**
 
 1\. The purpose of this submission is to review briefly constitutional development in Papua and New Guinea since the establishment in 1964 of the House of Assembly and to seek approval for proposals in connection with possible further political and constitutional advance.
 
-_Present constitutional arrangements_
+ _Present constitutional arrangements_
 
 2\. In 1964 the House of Assembly was established in succession to the former Legislative Council by amendment of the Papua and New Guinea Act. The responsibility for the executive government of the Territory remains with the Commonwealth, and this responsibility is exercised through the Administrator appointed to administer the government of the Territory on behalf of the Commonwealth. There is a Territory public service, the members of which are responsible to the Minister. There is an Administrator’s Council established under the Papua and New Guinea Act to advise the Administrator. Except where an Ordinance requires the Administrator to seek the advice of the Administrator’s Council the matters on which he seeks the advice of the Council are for the Administrator’s own discretion.
 
@@ -26,13 +31,13 @@ _Present constitutional arrangements_
 
 5\. There is also an Under-Secretary system established from among elected members to understudy official members who act in the legislature in a role resembling that of ministers. Ten Under-Secretaries have been appointed. These are primarily training positions and do not involve the holders of the office in any responsibility for the administration of the departments represented in the House by the official members concerned.
 
-_Timing of next constitutional changes_
+ _Timing of next constitutional changes_
 
 6\. On 19th May, 1965, the House of Assembly appointed a Select Committee on Constitutional Development. The Committee comprises 11 elected and 3 official members and its terms of reference are ‘to consider ways and means of preparing and presenting, and to draft for the consideration of the House, a set of constitutional proposals to serve as a guide for future constitutional development in the Territory.’
 
-7\. In its recommendations the meeting of the Trusteeship Council of the United Nations held earlier this year1 made reference to the Select Committee and recommended that it should consider a wide range of constitutional matters and in particular the idea of a Ministerial Cabinet in which New Guineans should hold positions of responsibility. The Council expressed itself to believe that the ‘next step in constitutional development is to bridge the gap between a fully representative Parliament and a fully responsible Government’ and suggested that preparation for this transition should be one of the principal tasks of the Select Committee.
+7\. In its recommendations the meeting of the Trusteeship Council of the United Nations held earlier this year[1](#f1) made reference to the Select Committee and recommended that it should consider a wide range of constitutional matters and in particular the idea of a Ministerial Cabinet in which New Guineans should hold positions of responsibility. The Council expressed itself to believe that the ‘next step in constitutional development is to bridge the gap between a fully representative Parliament and a fully responsible Government’ and suggested that preparation for this transition should be one of the principal tasks of the Select Committee.
 
-8\. In an interim report to the House of Assembly on 26th November, 1965, the Select Committee stated that it is reasonable to suppose that the Australian Government will consider further changes in some aspects of the House of Assembly before the 1968 elections. Because of the time element the Committee said that if the House of Assembly is to advise the Australian Government on these matters it should do so by early 1967. Because of this the Committee wishes to report to the House of Assembly on those questions by the end of 1966; it plans to meet in January next year2 to consider possible constitutional changes before the next House of Assembly elections in 1968 and to consider the various ways of obtaining the opinion of the people on such changes. The report also referred to the important initial task of the Committee of formulating possible alternatives from which the people may choose their long-term future and to the desirability of having, after their January meeting, exploratory discussions with representatives of the Australian Government, particularly on the matter of the range of special relationships between the Territory and Australia.that would be acceptable to Australia. The Committee is to present its final report to the House of Assembly in 1967.
+8\. In an interim report to the House of Assembly on 26th November, 1965, the Select Committee stated that it is reasonable to suppose that the Australian Government will consider further changes in some aspects of the House of Assembly before the 1968 elections. Because of the time element the Committee said that if the House of Assembly is to advise the Australian Government on these matters it should do so by early 1967. Because of this the Committee wishes to report to the House of Assembly on those questions by the end of 1966; it plans to meet in January next year[2](#f2) to consider possible constitutional changes before the next House of Assembly elections in 1968 and to consider the various ways of obtaining the opinion of the people on such changes. The report also referred to the important initial task of the Committee of formulating possible alternatives from which the people may choose their long-term future and to the desirability of having, after their January meeting, exploratory discussions with representatives of the Australian Government, particularly on the matter of the range of special relationships between the Territory and Australia.that would be acceptable to Australia. The Committee is to present its final report to the House of Assembly in 1967.
 
 9\. Our stated policy is that changes in constitutional arrangements in the Territory will be made only after there has been full consultation with the people of the Territory to ascertain their views. The best indication whether there is a widespread support for particular proposals for changes is likely to come from the activities of the Select Committee and from the proceedings of the House of Assembly itself.
 
@@ -42,7 +47,7 @@ _Timing of next constitutional changes_
 
 12\. While this submission concerns only possible changes in 1968 in the present constitutional arrangements the Select Committee will also be considering ultimate constitutional arrangements for the Territory which, as it notes, will necessarily include its relationship with Australia. I propose to make a separate submission to Cabinet within the next few months regarding possible long-term relationships between the Territory" and Australia.
 
-_Development of a local executive_
+ _Development of a local executive_
 
 13\. The present constitutional arrangements give the indigenous people a real share in the process of making laws for the Territory. In practice they are taking very little share in the executive government. Partly this is a consequence of the low level of administrative capacity on the part of many of the elected members which has prevented the Under–Secretaries, with two or three exceptions, from being able to take an effective part in administration. In addition, the Administrator’s Council and the Parliamentary Under–Secretary system being advisory only in nature are not drawing the elected members sufficiently into the day-to-day processes of administration. If any changes are to be implemented after the 1968 elections, it is considered that they should be directed towards involving elected members more closely in administration both as the quickest way of increasing their capabilities and giving them a greater feeling of participation.
 
@@ -50,7 +55,7 @@ _Development of a local executive_
 
 (i) though the Commonwealth would progressively devolve its authority, in practice it would, short of self-government, retain final responsibility in the sense that it remains accountable for the administration of the Territory; and the Minister would retain the right to direct policy or to question any action;
 
-(ii) this devolution would not apply in relation to certain ‘reserved’ subjects—internal security, external affairs, defence, constitutional advance, law and information;3
+(ii) this devolution would not apply in relation to certain ‘reserved’ subjects—internal security, external affairs, defence, constitutional advance, law and information;[3](#f3)
 
 (iii) the need for a reasonable pace of constitutional development has to be balanced with the difficulty of maintaining standards of administration; progress needs to be evolutionary and educational but cannot await the availability of persons with full capacity to operate at normal standards of developed countries;
 
@@ -62,7 +67,7 @@ _Development of a local executive_
 
 If there is strong and widespread popular support in the Territory for development of something in the nature of ministerial responsibility for some elected members of the House of Assembly I consider it should prove possible to seek, through the Select Committee, to work out proposals consistent with the following principles—
 
-(vii) 4 the object of the changes should be to ensure that elected members of the legislature, within defined limits, in practice as well as in form, carry some responsibilities of a ministerial character;
+(vii) [4](#f4) the object of the changes should be to ensure that elected members of the legislature, within defined limits, in practice as well as in form, carry some responsibilities of a ministerial character;
 
 (viii) these ‘quasi–ministers’ or ministerial representatives would be responsible within defined limits for certain selected departments dealing with matters of immediate electoral concern such as Education, Health and Works (but not for ‘reserved’ departments such as Administrator’s Department, Law, Information, Police and Security);
 
@@ -80,9 +85,9 @@ If there is strong and widespread popular support in the Territory for developme
 
 COMPOSITION OF THE HOUSE OF ASSEMBLY
 
-_Special electorates_
+ _Special electorates_
 
-19\. The 1962 Select Committee of the Legislative Council5 recommended that the House should include’ 10 non-indigenous persons elected from the common roll as members from "reserved electorates"’ adding that ‘this provision should be revised before any election in 1967’. That Committee, although opposed in principle to any form of reserved seats and special racial rolls, felt it could not ignore the strong probability that no Europeans would be returned from a normal roll election; six Australians were, in fact, elected to open seats.
+19\. The 1962 Select Committee of the Legislative Council[5](#f5) recommended that the House should include’ 10 non-indigenous persons elected from the common roll as members from "reserved electorates"’ adding that ‘this provision should be revised before any election in 1967’. That Committee, although opposed in principle to any form of reserved seats and special racial rolls, felt it could not ignore the strong probability that no Europeans would be returned from a normal roll election; six Australians were, in fact, elected to open seats.
 
 20\. The reserved seats with a racial qualification provide an obvious point of criticism especially internationally.
 
@@ -96,7 +101,7 @@ SIZE OF THE HOUSE
 
 24\. The best course might be for an increase in membership of the House not to be opposed but for it to be suggested that this should be considered on rational principles designed to secure a balanced and effective distribution and not on any preconceived figure. It would also be desirable for it to be pointed out that any substantial increase of expenditure on the House of Assembly would mean a reduction elsewhere.
 
-_Official members_
+ _Official members_
 
 25\. The Trusteeship Council has recently reiterated the proposal for the total elimination of official as well as special seats in the House. The 1962 Visiting Mission recognised a need for some official representation and the 1965 Mission made no recommendation in this respect.
 
@@ -110,7 +115,7 @@ RECOMMENDATION
 
 (b) if there is strong support for changes in the present composition of the House of Assembly, the official attitude follow the lines set out in paragraphs 21, 24 and 26 above.
 
-**Attachment**
+ **Attachment**
 
 ILLUSTRATION OF ARRANGEMENTS UNDER WHICH ‘QUASI-MINISTERS’ MIGHT OPERATE
 
@@ -128,7 +133,7 @@ In considering the possibility of associating elected members with the executive
 
 (b) to change the statutory functions of the Administrator’s Council so that the Council becomes the principal policy body in the territory.
 
-_Parliamentary Secretaries_
+ _Parliamentary Secretaries_
 
 4\. It is proposed that as a first step, Parliamentary Secretaries should be appointed to a limited number of departments, viz. those concerned with providing social or essential services for the people, e.g. Departments of Health, Education, Posts and Telegraphs, Works. Departments directly related to economic development (Trade and Industry; Forestry; Agriculture, Stock and Fisheries; Lands and Mining) or which deal with matters having vital Australian responsibilities (Department of the Administrator, Police) or which it is considered for other reasons would remain outside the Parliamentary Secretary system (Law) would not at this stage be changed.
 
@@ -138,7 +143,7 @@ _Parliamentary Secretaries_
 
 7\. In the same way he would represent his Department in the Administrator’s Council (which would become rather more of an embryo Cabinet). In the House of Assembly he would defend his administration of his Department. As a member of the Administrator’s Council he should support or at least not publicly criticise or oppose policies or actions of the Administration.
 
-_Administrators Council_
+ _Administrators Council_
 
 8\. Apart from budgetary proposals (which are considered later) it is contemplated that the Administrator would consult the Council on all matters except those relating to defence, external affairs, the public service, constitutional matters and internal security (although at his discretion he could keep the Council informed on those matters). In urgent cases the Administrator would be able to act without the advice of the Council but would have to let the Council know as soon as possible of the action which he has taken.
 
@@ -146,11 +151,11 @@ _Administrators Council_
 
 10\. It is considered appropriate in the light of the changes proposed in respect of Parliamentary Secretaries that the composition of the Council should be changed so that it is restricted to those who bear executive responsibility, i.e. Parliamentary Secretaries, designated official members, and the Administrator. Members of the Administrator’s Council drawn from the elected members of the House of Assembly could be appointed by the Administrator but in so doing he would attempt to appoint members who would have the support of the House.
 
-_Under-Secretaries_
+ _Under-Secretaries_
 
 11\. The system of Under-Secretaries should continue to operate in respect of the economic group of departments but as the new office of Parliamentary Secretary would be provided for in the Papua and New Guinea Act, there would be advantages in providing also for the office of Under-Secretary in the same way.
 
-_The estimates_
+ _The estimates_
 
 12\. The Departmental Head would prepare his annual estimates of expenditure and, if there is a Parliamentary Secretary for that Department, submit them to the Parliamentary Secretary for agreement before forwarding them to the Territory Treasurer. The Treasurer’s draft Territory Estimates would be examined governmentally by a committee of officials before the draft Estimates are submitted to the Administrator’s Council for advice. After examination by the Council the Administrator would forward the draft Budget to the Minister, indicating the changes made on the advice of the Administrator’s Council, and giving his comments on any changes advised which he has not accepted. The preliminary draft Budget would be settled by the Minister at this stage. If the draft required revision following determination of the Commonwealth grant, the procedure of the Territory Treasurer submitting a revised Budget to the Council for advice would be followed again.
 

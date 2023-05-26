@@ -1,12 +1,17 @@
 ---
-title: "408 Addison to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3439
+doc_date: '1945-11-22'
+doc_num: 408
+doc_order: 408
+naa_refs:
+- naa_barcode: 273923
+  naa_control_symbol: SPTS 1/3
+  naa_series: A6494
+  reference: '[AA : A6494 T1, SPTS/1/3]'
+title: Addison to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-11-22
+vol_title: 'Volume 8: 1945'
 ---
-
-# 408 Addison to Chifley
 
 Cablegram D2138 LONDON, 22 November 1945, 8.20 p.m.
 
@@ -20,8 +25,8 @@ In connection with this approach Mr. Byrnes has informed us in strict confidence
 
 Please take steps to ensure that the strictest secrecy is ensured as regards this approach.
 
-_
+ _
 
 _
 
-_ [AA : A6494 T1, SPTS/1/3]_
+ _[AA : A6494 T1, SPTS/1/3]_

@@ -1,14 +1,24 @@
 ---
-title: "203 Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General in Sydney"
-volume: "Volume 1: 1937-38"
-doc_id: 202
+doc_date: '1938-05-18'
+doc_num: 203
+doc_order: 202
+naa_refs:
+- naa_barcode: 206663
+  naa_control_symbol: C47/1/4 PART 3
+  naa_series: A1608
+  reference: '[AA : A1608, C47/1/4, iii]'
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General
+  in Sydney
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-18
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 203 Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General in Sydney
-
-## Letter 18 May 1938,
+Letter 18 May 1938,
 
 With further reference to your letter of 11th April, 1938 [1], and to previous correspondence on the subject of iron ore, I have the honour to inform you that this matter has now received full and careful consideration by the Government. The closest attention was given to the particular points raised in your letter of 5th April [2] and in that now under reply.
 
@@ -28,7 +38,7 @@ We sincerely trust that the interests concerned will appreciate that the Commonw
 
 J. A. LYONS
 
-_
+ _
 
 1 Document 184.
 
@@ -36,7 +46,7 @@ _
 
 3 Document 171.
 
-4 Messrs H. A. Brassert &amp; Co. Ltd, a British firm of consultative engineers.
+4 Messrs H. A. Brassert  & Co. Ltd, a British firm of consultative engineers.
 
 Attachment
 
@@ -112,4 +122,4 @@ see AA : A1608, C47/1/4, iii]. For the original version of the report see AA : A
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

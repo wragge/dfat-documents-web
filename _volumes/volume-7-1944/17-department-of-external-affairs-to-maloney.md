@@ -1,20 +1,25 @@
 ---
-title: "17 Department of External Affairs to Maloney"
-volume: "Volume 7: 1944"
-doc_id: 2664
+doc_date: '1944-01-16'
+doc_num: 17
+doc_order: 17
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/715/5/2, ii]'
+title: Department of External Affairs to Maloney
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-16
+vol_title: 'Volume 7: 1944'
 ---
 
-# 17 Department of External Affairs to Maloney
-
-## Cablegram 9 CANBERRA, 16 January 1944
+Cablegram 9 CANBERRA, 16 January 1944
 
 Your S.3. [1] Thanks your telegram. Views expressed in paragraph 5 [2] are in accordance with conclusions we have reached. High Com missioner, London, has been requested to take up matter with Eden again and press for an early settlement by Polish Government. [3]
 
 Please inform Soviet Minister for Foreign Affairs [4] of our point of view and the action we are taking, intimating our desire, and, indeed, our objective, to promote a friendly settlement of the Polish question and to establish normal diplomatic relations as soon as possible.
 
-_
+ _
 
 1 Dispatched 11 January. On file AA:A989, 44/715/5/2, ii.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA:A989, 44/715/5/2, ii]_
+ _[AA:A989, 44/715/5/2, ii]_

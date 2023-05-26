@@ -1,12 +1,17 @@
 ---
-title: "369 Mr S. M. Brute, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1135
+doc_date: '1940-06-13'
+doc_num: 369
+doc_order: 369
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, [1.4205]'
+title: Mr S. M. Brute, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-13
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 369 Mr S. M. Brute, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 411 LONDON, 13 June 1940, [12.20 a.m.] [1]
 
@@ -18,7 +23,7 @@ The Prime Minister [2] returned from Paris and meeting later this evening to hea
 
 BRUCE
 
-_
+ _
 
 1 This cablegram was drafted on the evening of 12 June. The time of dispatch has been inserted from the copy on file AA: A41/1/1, x.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA: A3195, [1.4205] [3]]_
+ _[FA: A3195, [1.4205] [3]]_

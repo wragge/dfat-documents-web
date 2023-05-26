@@ -1,12 +1,17 @@
 ---
-title: "148 Evatt to Oldham for Laski"
-volume: "Volume 8: 1945"
-doc_id: 3179
+doc_date: '1945-08-01'
+doc_num: 148
+doc_order: 148
+naa_refs:
+- naa_barcode: 4203203
+  naa_control_symbol: 1945/37
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, O.19965]'
+title: Evatt to Oldham for Laski
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-01
+vol_title: 'Volume 8: 1945'
 ---
-
-# 148 Evatt to Oldham for Laski
 
 Cablegram 214 CANBERRA, 1 August 1945
 
@@ -30,7 +35,7 @@ Most affectionate greetings always.
 
 EVATT
 
-_
+ _
 
 1 Presumably a reference to Laski's remarks after the Labour party victory implying that Labour's foreign policy held more promise for other democracies than that of the previous government.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, O.19965]_
+ _[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, O.19965]_

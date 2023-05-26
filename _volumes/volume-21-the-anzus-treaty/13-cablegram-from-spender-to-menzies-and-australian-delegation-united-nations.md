@@ -1,12 +1,17 @@
 ---
-title: "13 Cablegram From Spender to Menzies and Australian Delegation, United Nations"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8364
+doc_date: '1950-07-26'
+doc_num: 13
+doc_order: 13
+naa_refs:
+- naa_barcode: 4185593
+  naa_control_symbol: '1'
+  naa_series: A11537
+  reference: '[NAA : A11537 [1]'
+title: Cablegram From Spender to Menzies and Australian Delegation, United Nations
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1950-07-26
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 13 Cablegram From Spender to Menzies and Australian Delegation, United Nations
 
 Cablegram, Canberra, 26 July 1950
 
@@ -30,6 +35,6 @@ This was announced just before the New Zealand Government stated publicly that i
 
 6\. Prior to the announcement, I endeavoured to reach you by telephone on the QUEEN MARY. As I was unable to do so, Fadden and I, who have had to act quickly, hope our decision will meet with your approval.
 
-__
+ __
 
-_ [NAA : A11537 [1]]_
+ _[NAA : A11537 [1]]_

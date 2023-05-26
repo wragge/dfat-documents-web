@@ -1,12 +1,18 @@
 ---
-title: "407 Mr R. G. Casey, Minister to the United States, to the Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2161
+doc_date: '1942-03-12'
+doc_num: 407
+doc_order: 408
+naa_refs:
+- naa_barcode: 182741
+  naa_control_symbol: WAR 56
+  naa_series: A981
+  reference: '[AA:A981, WAR 56A]'
+title: Mr R. G. Casey, Minister to the United States, to the Department of External
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-12
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 407 Mr R. G. Casey, Minister to the United States, to the Department of External Affairs
 
 Cablegram S6 WASHINGTON, 12 March 1942, 6.35 p.m.
 
@@ -24,7 +30,7 @@ General Brett may care to know privately that General Harmon (Deputy Chief of U.
 
 CASEY
 
-_
+ _
 
 1 Document 405.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA:A981, WAR 56A]_
+ _[AA:A981, WAR 56A]_

@@ -1,12 +1,17 @@
 ---
-title: "250 Dunk to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3281
+doc_date: '1945-09-17'
+doc_num: 250
+doc_order: 250
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 540]'
+title: Dunk to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-17
+vol_title: 'Volume 8: 1945'
 ---
-
-# 250 Dunk to Evatt
 
 Cablegram 233 CANBERRA, 17 September 1945
 
@@ -22,7 +27,7 @@ Concerning Italian-Yugoslav frontier following is additional commentary to outli
 
 3\. In regard to Trieste city as distinct from its Yugoslav- populated hinterland we have little to add to the United Kingdom proposals except that a joint Italian Yugoslav authority for day- to-day administration (Possibly an elective council) might be considered. Such an authority might be supervised by an International Commission drawing upon the experience, with suitable modifications, of the Tangier Convention.
 
-_
+ _
 
 1 Document 241.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 540]_
+ _[AA : A5954, BOX 540]_

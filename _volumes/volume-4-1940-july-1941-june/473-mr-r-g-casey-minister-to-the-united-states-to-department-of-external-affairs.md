@@ -1,12 +1,17 @@
 ---
-title: "473 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1704
+doc_date: '1941-05-27'
+doc_num: 473
+doc_order: 473
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 178A]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-27
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 473 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 384 WASHINGTON, 27 May 1941, 6.14 p.m.
 
@@ -32,7 +37,7 @@ Approach suggested in your telegram No. 47 from the Acting Prime Minister [7] ha
 
 CASEY
 
-_
+ _
 
 1 Dispatched 22 May. On file AA: A981, Far East 21A. It reported that the Japanese Ambassador to the United States, Admiral Kichisaburo Nomura, 'had opened the question of the possibility of reaching some agreement with the United States Government and of settling the China war on terms involving the independence of China, withdrawal of Japanese armies and no discrimination'.
 
@@ -54,4 +59,4 @@ State Department's policy of 'keeping the Japanese "guessing" 'I from our point 
 
 _
 
-_ [AA: A981, JAPAN 178A]_
+ _[AA: A981, JAPAN 178A]_

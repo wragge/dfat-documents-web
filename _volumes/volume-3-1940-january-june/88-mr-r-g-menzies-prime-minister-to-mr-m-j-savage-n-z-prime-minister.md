@@ -1,12 +1,17 @@
 ---
-title: "88 Mr R. G. Menzies, Prime Minister, to Mr M. J. Savage, N.Z. Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 854
+doc_date: '1940-03-04'
+doc_num: 88
+doc_order: 88
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, O.1301]'
+title: Mr R. G. Menzies, Prime Minister, to Mr M. J. Savage, N.Z. Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-04
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 88 Mr R. G. Menzies, Prime Minister, to Mr M. J. Savage, N.Z. Prime Minister
 
 Cablegram unnumbered 4 March 1940,
 
@@ -24,10 +29,10 @@ It is requested that this cablegram be treated with the greatest secrecy particu
 
 MENZIES
 
-_
+ _
 
 1 This suggestion was discussed by the New Zealand Govt but was not put into effect. See Documents Relating to New Zealand's participation in the Second World War 1939-45, vol. II (Wellington, 1951), pp. 1-15.
 
 _
 
-_ [FA: A3196, O.1301]_
+ _[FA: A3196, O.1301]_

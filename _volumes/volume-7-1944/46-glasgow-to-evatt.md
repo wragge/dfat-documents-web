@@ -1,12 +1,17 @@
 ---
-title: "46 Glasgow to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2693
+doc_date: '1944-02-12'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/125/5/6/1, ii]'
+title: Glasgow to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 46 Glasgow to Evatt
 
 Cablegram 34 OTTAWA, 12 February 1944, 1.30 p.m.
 
@@ -20,7 +25,7 @@ Canadians have now agreed to amend article 10 by substituting for the words 'the
 
 I feel that elimination of reference to tariffs and trade barriers is most satisfactory from our point of view and would strongly recommend that we now meet [Canadian] [3] desire for early signature of agreement. [4]
 
-_
+ _
 
 1 Document 43.
 
@@ -34,4 +39,4 @@ Robertson's (Canadian Under-Secretary of State for External Affairs) letter to G
 
 _
 
-_ [AA:A989, 43/125/5/6/1, ii]_
+ _[AA:A989, 43/125/5/6/1, ii]_

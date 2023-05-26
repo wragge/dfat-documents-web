@@ -1,12 +1,17 @@
 ---
-title: "396 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1162
+doc_date: '1940-06-17'
+doc_num: 396
+doc_order: 396
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4378]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 396 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 434 LONDON, 17 June 1940, 10.34 p.m.
 
@@ -28,7 +33,7 @@ With regard to an attack on United Kingdom apart from considerations in apprecia
 
 BRUCE
 
-_
+ _
 
 1 Sir Ronald Campbell.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4378]_
+ _[FA: A3195, 1.4378]_

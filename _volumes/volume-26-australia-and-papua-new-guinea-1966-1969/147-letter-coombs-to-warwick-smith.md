@@ -1,12 +1,17 @@
 ---
-title: "147 Letter, Coombs To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9655
+doc_date: '1967-11-07'
+doc_num: 147
+doc_order: 147
+naa_refs:
+- naa_barcode: 12042912
+  naa_control_symbol: 1967/7336
+  naa_series: A452
+  reference: '[NAA: A452, 1967/7336]'
+title: Letter, Coombs To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-11-07
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 147 Letter, Coombs To Warwick Smith
 
 Sydney, 7 November 1967
 
@@ -22,7 +27,7 @@ The balance of payments problem is, of course, far-ranging. The food industry is
 
 If you feel that it would be useful, I should be happy to have senior officers in our Papua and New Guinea Division confer with your people and, as required, with the Administration. You will recall that the Bank has collaborated directly in some previous enquiries with your Department and the Administration, including the Sugar Enquiry which had an import substitution aspect.
 
-I have sent a copy of this letter to the Administrator.2
+I have sent a copy of this letter to the Administrator.[2](#f2)
 
 [NAA: A452, 1967/7336]
 

@@ -1,22 +1,25 @@
 ---
-title: "460 FOREIGN AND COMMONWEALTH OFFICE RECORD OF MEETING WITH WHITLAM"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10327
+doc_date: '1973-04-24'
+doc_num: 460
+doc_order: 460
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1614]'
+title: FOREIGN AND COMMONWEALTH OFFICE RECORD OF MEETING WITH WHITLAM
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1973-04-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 460 FOREIGN AND COMMONWEALTH OFFICE RECORD OF MEETING WITH WHITLAM
-
-UKNA: FCO 24/1614
 
 London, 24 April 1973
 
 Confidential
 
-**Constitutional Issues**
+ **Constitutional Issues**
 
-1\. _Mr Whitlam_ explained his general intention that Australia should be seen to be fully independent internationally and mentioned relevant decisions reached in his discussions with The Queen. He then referred to the question of appeals from Australia to the Privy Council, which his Attorney General, Senator Murphy, had discussed in London in January.2
+1\. _Mr Whitlam_ explained his general intention that Australia should be seen to be fully independent internationally and mentioned relevant decisions reached in his discussions with The Queen. He then referred to the question of appeals from Australia to the Privy Council, which his Attorney General, Senator Murphy, had discussed in London in January.[2](#f2)
 
 2\. _Sir A Douglas Home_ said that our aim was to find a way of doing what the Australian Government wanted but by constitutionally proper means.
 
@@ -43,3 +46,5 @@ Confidential
 Commenting at the end of Whitlam’s visit but before a record had been made available of Heath’s private talk with the Australian Prime Minister (see Document 462), J.K. Hickman of the Foreign and Commonwealth Office South-West Pacific Department observed that while ‘the Whitlams’ visit to Windsor ‘went well’, ministerial talks were ‘a good deal less satisfactory’. Whitlam was ’evasive or unyielding on virtually all the matters which we wished to raise with him and the didactic way in which he explained his own general ideas did not much appeal to Ministers. He showed so little sign of movement on matters of importance to us that it was useless to raise even secondary matters .... In retrospect Ministers were frankly irritated by his great reluctance even to discuss Five Power Defence .... Although he was a genial and easy guest, I fear that Ministers will conclude that he is not a man with whom it is profitable to do business. We shall have to keep trying with him and hope eventually to reach a useful working relationship but it will need time, and perhaps some painful knocks, before Mr. Whitlam learns that it is necessary to give as well as take in international affairs’. (UKNA: FCO 24/1614, letter, Hickman to D.P. Aiers, British High Commission, Canberra, I May 1973).
 
 2 See Documents 440 and 441.
+
+[UKNA: FCO 24/1614]

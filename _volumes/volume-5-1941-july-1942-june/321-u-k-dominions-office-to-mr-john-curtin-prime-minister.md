@@ -1,12 +1,17 @@
 ---
-title: "321 U.K. Dominions Office to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2075
+doc_date: '1942-02-07'
+doc_num: 321
+doc_order: 322
+naa_refs:
+- naa_barcode: 232254
+  naa_control_symbol: '1'
+  naa_series: A2937
+  reference: '[AA:A2937, A.B.D.A. STRATEGIC AREA, 1941-1942]'
+title: U.K. Dominions Office to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-07
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 321 U.K. Dominions Office to Mr John Curtin, Prime Minister
 
 Cablegram 168 LONDON, 7 February 1942, 9.30 p.m.
 
@@ -38,7 +43,7 @@ It is the relation of all these that we have to concert.
 
 5\. I have remitted your paragraph 4 and its many sub-heads to the Chiefs of Staff Committee as it is largely technical. They will supply a memorandum which I will send you. Ends.
 
-_
+ _
 
 1 Winston Churchill.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:A2937, A.B.D.A. STRATEGIC AREA, 1941-1942]_
+ _[AA:A2937, A.B.D.A. STRATEGIC AREA, 1941-1942]_

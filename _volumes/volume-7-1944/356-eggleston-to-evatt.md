@@ -1,12 +1,17 @@
 ---
-title: "356 Eggleston to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 3003
+doc_date: '1944-11-21'
+doc_num: 356
+doc_order: 356
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 293]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-21
+vol_title: 'Volume 7: 1944'
 ---
-
-# 356 Eggleston to Evatt
 
 Letter (extracts) WASHINGTON, 21 November 1944
 
@@ -40,7 +45,7 @@ Continuing, the President said that he thought the Americans and the Australians
 
 F. W. EGGLESTON
 
-_
+ _
 
 1 Document 26.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 293]_
+ _[AA:A5954, BOX 293]_

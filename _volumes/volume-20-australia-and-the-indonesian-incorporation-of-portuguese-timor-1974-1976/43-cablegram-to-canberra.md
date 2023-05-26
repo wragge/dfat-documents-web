@@ -1,18 +1,25 @@
 ---
-title: "43 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7882
+doc_date: '1974-10-07'
+doc_num: 43
+doc_order: 43
+naa_refs:
+- naa_barcode: 4151555
+  naa_control_symbol: 801/13/11/1 PART 3
+  naa_series: A10463
+  reference: '[NAA: A10463, 801113/1111, iii]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-10-07
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 43 Cablegram to Canberra
 
 Lisbon, 7 October 1974
 
 O.LB439 SECRET ROUTINE
 
-**Timor**
+ **Timor**
 
 I had a useful and fairly frank exchange of views with the Secretary of State for Foreign Affairs (Campinos) today.
 
@@ -21,13 +28,13 @@ I had a useful and fairly frank exchange of views with the Secretary of State fo
   4. I asked Campinos about their talks with the Indonesians and about prospects for establishing diplomatic relations. On the latter point he said that nothing was settled. A senior Indonesian official (unnamed) would visit Lisbon shortly to discuss the matter, but the visit would be kept secret. On the first point, their talks so far had provided an opportunity to explain Portuguese thinking (presumably on the lines indicated above).
   5. Campinos said they had noted statements made in Jakarta after Mr Whitlam's visit and asked me for our assessment of the Indonesian position.  
 I said it was possible to detect differences in the views of Indonesian leaders on Timor but Indonesia did share a common concern with Australia that Timor should not become an area of political instability in the region. President Suharto also shares our view that an act of self determination in Timor would have to be internationally acceptable.
-  6. Campinos asked me about Australia's attitude. I said we were on common ground on the self-determination issue. Public opinion in Australia would react adversely to any suggestion of a 'deal' being arranged over the heads of the Timorese. Of the various options independence would be economically doubtful and carried political dangers. Association with Portugal meant a continued economic burden for Lisbon. We therefore considered that incorporation into Indonesia was probably in the best interests of all concerned and we would therefore welcome any such decision by the Timorese. But I stressed that the decision would have to be a genuine act of friendship.1
+  6. Campinos asked me about Australia's attitude. I said we were on common ground on the self-determination issue. Public opinion in Australia would react adversely to any suggestion of a 'deal' being arranged over the heads of the Timorese. Of the various options independence would be economically doubtful and carried political dangers. Association with Portugal meant a continued economic burden for Lisbon. We therefore considered that incorporation into Indonesia was probably in the best interests of all concerned and we would therefore welcome any such decision by the Timorese. But I stressed that the decision would have to be a genuine act of friendship.[1](#f1)
 
 
 
-_ [matter omitted]_
+ _[matter omitted]_
 
-_ Comment_
+ _Comment_
 
 You will note that there are significant difference[s] both in tone and content, between Campinos' views as outlined above and his talks with Indonesian officials as reported by Furlonger. At no stage did he indicate that he saw any virtue (on the contrary) in incorporation with Indonesia. The stress was on the point that it was a Portuguese problem and equally clear that he did not want any interference by Jakarta; even on the question of diplomatic relations 'nothing was decided'.
 
@@ -38,8 +45,6 @@ You will note that there are significant difference[s] both in tone and content,
 
 COOPER
 
-_ [NAA: A10463, 801113/1111, iii]_
+ _[NAA: A10463, 801113/1111, iii]_
 
   * 1 Presumably the word 'friendship' should have read 'free choice'.
-
-

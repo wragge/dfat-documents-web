@@ -1,27 +1,31 @@
 ---
-title: "69 Submission No. 453, Barnes To Cabinet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9577
+doc_date: '1966-09-19'
+doc_num: 69
+doc_order: 69
+naa_refs:
+- naa_barcode: 1807983
+  naa_control_symbol: '453'
+  naa_series: A5841
+  reference: '[NAA: A5841, 453]'
+title: Submission No. 453, Barnes To Cabinet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-09-19
-barcode: 1807983
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 69 Submission No. 453, Barnes To Cabinet
 
 Canberra, 19 September 1966
 
 Confidential
 
-**Papua and New Guinea—political relations with House of Assembly**
+ **Papua and New Guinea—political relations with House of Assembly**
 
 The purpose of this submission is to acquaint Cabinet of recent developments in political relations with the House of Assembly particularly with regard to the Territory budget and to seek Cabinet’s endorsement for a proposed attitude in these matters.
 
-_Select Committee on Constitutional Development_
+ _Select Committee on Constitutional Development_
 
-2\. The second interim report of the Constitutional Select Committee1 appointed by the House of Assembly was adopted by the House at its September meeting. The Committee reported that it was desirable that the elected members should as far as practicable assume some control over locally raised revenue. The Committee would be studying how this control should be exercised—whether by way of a separate local budget or by way of a budget committee working in conjunction with the Administration. The Committee would be seeking the views of the Administration on this question.2 (A separate submission takes up the question of changes in the composition of the House of Assembly recommended by the Committee.)3
+2\. The second interim report of the Constitutional Select Committee[1](#f1) appointed by the House of Assembly was adopted by the House at its September meeting. The Committee reported that it was desirable that the elected members should as far as practicable assume some control over locally raised revenue. The Committee would be studying how this control should be exercised—whether by way of a separate local budget or by way of a budget committee working in conjunction with the Administration. The Committee would be seeking the views of the Administration on this question.[2](#f2) (A separate submission takes up the question of changes in the composition of the House of Assembly recommended by the Committee.)[3](#f3)
 
-_Consultation in the framing of the budget_
+ _Consultation in the framing of the budget_
 
 3\. An elected member moved the following amendment to the motion for a second reading of the Appropriation Bill—
 
@@ -31,21 +35,21 @@ This refers to the possibility of greater participation in local financial matte
 
 4\. This motion was put without prior notice and without debate and was carried by a substantial majority. The adoption of this motion seems inconsistent with the endorsement by the House of Assembly of the Select Committee’s views on this matter (paragraph 2 above).
 
-_Reduction in budget item_
+ _Reduction in budget item_
 
-5\. In the committee stage of the Appropriation Bill an amendment was passed to reduce the item for recruitment expenses to the Territory Public Service from $250,000 to $200,000. This motion was carried by 28 votes to 26 with all 16 of the Australian elected members supporting the reduction. A majority of the native members supported the Government.4
+5\. In the committee stage of the Appropriation Bill an amendment was passed to reduce the item for recruitment expenses to the Territory Public Service from $250,000 to $200,000. This motion was carried by 28 votes to 26 with all 16 of the Australian elected members supporting the reduction. A majority of the native members supported the Government.[4](#f4)
 
-_Taxation Bill_
+ _Taxation Bill_
 
 6\. A Bill to bring lower income groups (i.e. Papuans and New Guineans) within the scope of income tax was introduced in June. At its September meeting the Administration proposed some amendments to meet suggestions and criticisms that had been made by elected members. The Budget then allowed for a revenue of $150,000 from this source. The House deferred consideration of the Bill until November to enable elected members to consult their electors on the effect of the several amendments.
 
-_Mining royalty_
+ _Mining royalty_
 
-7\. In June the House accepted against some opposition the Government view that royalties from minerals should accrue entirely to Territory revenue and not to the owner of the land.5 Maintenance of this principle is especially important in relation to the prospective large-scale copper mining project at Bougainville. At the September sitting the Elected Member for Bougainville introduced a Bill for payment to land-owners of 5 per cent of the mining royalties. This Bill will presumably be debated in November.
+7\. In June the House accepted against some opposition the Government view that royalties from minerals should accrue entirely to Territory revenue and not to the owner of the land.[5](#f5) Maintenance of this principle is especially important in relation to the prospective large-scale copper mining project at Bougainville. At the September sitting the Elected Member for Bougainville introduced a Bill for payment to land-owners of 5 per cent of the mining royalties. This Bill will presumably be debated in November.
 
-_The political issue_
+ _The political issue_
 
-8\. These developments indicate a growing desire on the part of the House of Assembly to assert itself. Other cases may be expected to arise as the political situation in the Territory moves forward (Cabinet considered some proposals relating to constitutional advancement in February 1966).6
+8\. These developments indicate a growing desire on the part of the House of Assembly to assert itself. Other cases may be expected to arise as the political situation in the Territory moves forward (Cabinet considered some proposals relating to constitutional advancement in February 1966).[6](#f6)
 
 9\. The particular matters referred to above reflect the wish of the House to have a more positive share by way of new procedures or arrangements in the making of financial decisions including the framing of the budget and to assert with force their views regarding the size of the Public Service in the Territory and the need for more emphasis to be given to the recruitment and training of local officers.
 
@@ -61,7 +65,7 @@ RECOMMENDATION
 
 (3) A substantial part of the present Australian aid to the Territory is directed to accelerated economic development. The Government is willing to help in this way if the help is wanted. The help can only be truly effective if based on the co-operation of the House of Assembly and the people of the Territory. If policies that are fundamental to accelerated development are rejected by the House of Assembly or by the people it would follow that the Government should re-examine the position including the level of Australian aid. The Territory’s need of Australia is greater than Australia’s need of the Territory.
 
-[ [NAA: A5841, 453](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1807983) ]
+[NAA: A5841, 453]
 
 1  See Document 67. 
 
@@ -73,4 +77,4 @@ RECOMMENDATION
 
 5  See editorial note ‘Changes to PNG mining legislation’. 
 
-6  Document 13. 
+6  Document 13.

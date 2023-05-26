@@ -1,22 +1,25 @@
 ---
-title: "417 LETTER JOHNSTON TO GARNER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10283
+doc_date: '1967-01-26'
+doc_num: 417
+doc_order: 417
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UK.NA: FCO 49/78]'
+title: LETTER JOHNSTON TO GARNER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-01-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 417 LETTER JOHNSTON TO GARNER
-
-UK.NA: FCO 49/78
 
 Canberra, 26 January 1967
 
 Confidential
 
-**Australian Attitudes towards the Monarchy**
+ **Australian Attitudes towards the Monarchy**
 
-You sent me a copy of your letter of 18 May last to Henry Lintott,2 about Canadian attitudes towards the Monarchy, and said that you would welcome any comments from me on the position in Australia.
+You sent me a copy of your letter of 18 May last to Henry Lintott,[2](#f2) about Canadian attitudes towards the Monarchy, and said that you would welcome any comments from me on the position in Australia.
 
 2\. I am sorry that we have been such a long time in reacting to your request. It is an important and delicate subject, and in order to get the emphasis right we needed time for thought and consultation with heads of posts. Then the visit of President Johnson loomed up, and it obviously made sense to take another look at the subject after that. We have now just had our yearly meeting of heads of posts in Canberra, which gave us an opportunity for final discussion with them.
 
@@ -24,7 +27,7 @@ You sent me a copy of your letter of 18 May last to Henry Lintott,2 about Canadi
 
 4\. I am sending copies of this letter to the High Commissioners in Ottawa and Wellington.
 
-_Enclosure_
+ _Enclosure_
 
 In trying to analyse Australian attitudes to the Monarchy, we need to distinguish between the Australians’ view of the institution, and their attitude to members of the Royal Family collectively and individually.
 
@@ -48,9 +51,9 @@ In trying to analyse Australian attitudes to the Monarchy, we need to distinguis
 
 11\. Attitudes to the Monarchy as an institution are not the same as attitudes to members of the Royal Family collectively and as individuals. There is still generally a warm and friendly interest, not however unmixed with criticism. Some rather tasteless cartoons in newspapers and satirical sketches on television have been appearing. During the later years of his Prime Ministership, Sir Robert Menzies, who was personally identified in Australian eyes with the Royal Family, was becoming unpopular in many quarters and some of his unpopularity may have affected the ‘image’ of Royalty. On the other hand, the television programmes, the women’s pages and magazines seem to be as full of reports of Royal happenings as are their equivalents in Britain. Portraits of The Queen are to be found in schools throughout the country and in many public offices. Loyal Societies, ranging from the Victoria League to the Boy Scouts, are still active, within their limitations. Most Australians still feel sincere affection and respect for Her Majesty.
 
-12\. Public response to Royal tours and visits varies according to their nature. Formal tours accompanied by ceremonial, with Royal visitors seen only in the distance, were enjoyed by Sir Robert Menzies3 and those in the upper echelons of Government and society; but some of the arrangements for them have been widely criticised on the grounds of expense, overformality, the ‘unreality’ of the Australia shown to the visitors, and disruption of traffic. On the other hand, ‘working visits’ such as those paid by H.R.H. Prince Philip, are not only not criticised, but positively welcomed. When one of the younger members of the Royal family comes to Australia and is seen to be enjoying himself (or herself) here there is especial gratification. Outstanding successes have been the visit of H.R.H. Princess Alexandra in 1959, and the recent visit by H.R.H. the Prince of Wales. The decision, reportedly taken at his own request, that the Prince of Wales should spend a second term at Geelong,4 pleased even those Australians normally indifferent to Royalty, and relaxed, informal photographs of His Royal Highness on holiday in New Guinea and the Eastern States made an excellent impression. The Queen Mother has her own special place in the hearts of most Australians.
+12\. Public response to Royal tours and visits varies according to their nature. Formal tours accompanied by ceremonial, with Royal visitors seen only in the distance, were enjoyed by Sir Robert Menzies[3](#f3) and those in the upper echelons of Government and society; but some of the arrangements for them have been widely criticised on the grounds of expense, overformality, the ‘unreality’ of the Australia shown to the visitors, and disruption of traffic. On the other hand, ‘working visits’ such as those paid by H.R.H. Prince Philip, are not only not criticised, but positively welcomed. When one of the younger members of the Royal family comes to Australia and is seen to be enjoying himself (or herself) here there is especial gratification. Outstanding successes have been the visit of H.R.H. Princess Alexandra in 1959, and the recent visit by H.R.H. the Prince of Wales. The decision, reportedly taken at his own request, that the Prince of Wales should spend a second term at Geelong,[4](#f4) pleased even those Australians normally indifferent to Royalty, and relaxed, informal photographs of His Royal Highness on holiday in New Guinea and the Eastern States made an excellent impression. The Queen Mother has her own special place in the hearts of most Australians.
 
-13\. _The Future_: President Johnson’s visit in October 1966 gave the Australians for the first time an opportunity to see for themselves the head of a major State who is also a politician. There can be no doubt that many of them liked what they saw: President Johnson’s mixture of majesty and campaigning folksiness was something quite new to Australians and had great impact. His apparent lack of respect for timing and protocol (and his consequent readiness to keep dignitaries waiting in order that he could chat with ordinary men and women in the crowd), were contrasted with the formality and rigid timing of some Royal tours. The visit also enabled Australians to envisage for themselves what it might be like to have a President, instead of a Governor-General and a (usually absent) Sovereign. On the whole, impressed though they were, the Australians were in no way convinced that republicanism was the right solution for them. Nor can it be said that Mr. Holt’s sweeping victory at the recent general election was in any way an endorsement of republicanism: the subject was not at issue politically.
+13\. _The Future_ : President Johnson’s visit in October 1966 gave the Australians for the first time an opportunity to see for themselves the head of a major State who is also a politician. There can be no doubt that many of them liked what they saw: President Johnson’s mixture of majesty and campaigning folksiness was something quite new to Australians and had great impact. His apparent lack of respect for timing and protocol (and his consequent readiness to keep dignitaries waiting in order that he could chat with ordinary men and women in the crowd), were contrasted with the formality and rigid timing of some Royal tours. The visit also enabled Australians to envisage for themselves what it might be like to have a President, instead of a Governor-General and a (usually absent) Sovereign. On the whole, impressed though they were, the Australians were in no way convinced that republicanism was the right solution for them. Nor can it be said that Mr. Holt’s sweeping victory at the recent general election was in any way an endorsement of republicanism: the subject was not at issue politically.
 
 14\. The same is likely to be true for the immediate future. None of the political parties at present forming the Government or Opposition in the State or Federal legislatures has republicanism in its platform. Any change in the Australian constitution would involve a referendum and it is extremely unlikely that an affirmative vote for ending the Monarchy will be a possibility for some time to come unless brought on by some action by Britain interpreted by Australians as a final rejection.
 
@@ -58,16 +61,18 @@ In trying to analyse Australian attitudes to the Monarchy, we need to distinguis
 
 16\. We must, however, expect a gradual introduction of more specifically Australian national symbols. There will certainly be pressure to ensure that future Governors-General (but not necessarily all State Governors) will be Australians, although an exception would always be made for a member of the Royal Family. Use of the Union flag beside the Australian National flag on public occasions may possibly decrease. There is already pressure for a specifically Australian National Anthem.
 
-17\. A recent book, ‘Australia and the Monarchy’, edited by Geoffrey Dutton5 (a prominent republican), has a final chapter by Peter Coleman, Editor of the traditionally republican Sydney weekly, ‘The Bulletin’, entitled ‘The Phoney Debate’. Mr. Coleman’s final paragraph is worth quoting in full:
+17\. A recent book, ‘Australia and the Monarchy’, edited by Geoffrey Dutton[5](#f5) (a prominent republican), has a final chapter by Peter Coleman, Editor of the traditionally republican Sydney weekly, ‘The Bulletin’, entitled ‘The Phoney Debate’. Mr. Coleman’s final paragraph is worth quoting in full:
 
 > ‘The significant republicans and monarchists have so much in common with and respect for each other—since both are Australians and nationalists first and foremost—that their fundamental differences are matters of detail and timing. They see no reason why they should mess up their understanding and tolerance, let alone why they should mess up Australia, by introducing dated foreign ideologies. They will surely see to it that the republican–monarchist debate does not become a real issue until the decision that will have to be made seems an obvious and natural one, involving the minimum of crisis. Otherwise, they will both have failed.’
 
 1 Sir Saville (‘Joe’) Garner, Permanent Under-Secretary of State, Commonwealth Office, 1962–68, and Head of the Diplomatic Service, 1965–68.
 
-2 Sir H. Lintott, UK High Commissioner to Canada, 1963–68. Later in the year, Lintott reported that Lester Pearson, Canada’s Prime Minister, believed the days of the monarchy in Canada were numbered; he intended to raise the future of the monarchy at Buckingham Palace during his visit to the UK in November 1967. In London, Garner described the news as ‘rather staggering’. According to Pearson’s own account, the Queen and Sir Michael Adeane, her Private Secretary between 1953 and 1972, received the news calmly. Adeane agreed thought should be given to the matter, while the Queen was anxious that the monarchy should not become prejudicial to Canadian unity or a source of division. (Letter, Lintott to Garner, 15 November 1967, published in _ESAC_, Part II, Document 270; copy at UKNA: FCO 49/107.)
+2 Sir H. Lintott, UK High Commissioner to Canada, 1963–68. Later in the year, Lintott reported that Lester Pearson, Canada’s Prime Minister, believed the days of the monarchy in Canada were numbered; he intended to raise the future of the monarchy at Buckingham Palace during his visit to the UK in November 1967. In London, Garner described the news as ‘rather staggering’. According to Pearson’s own account, the Queen and Sir Michael Adeane, her Private Secretary between 1953 and 1972, received the news calmly. Adeane agreed thought should be given to the matter, while the Queen was anxious that the monarchy should not become prejudicial to Canadian unity or a source of division. (Letter, Lintott to Garner, 15 November 1967, published in _ESAC_ , Part II, Document 270; copy at UKNA: FCO 49/107.)
 
 3 Menzies told Eric Harrison in 1959 that there was ‘a constant press clamour’ in Australia for more royal visits. The Prime Minister disagreed, for two reasons. ‘The first is that I would not wish to have a Royal visit every year, since I believe that such visits can be overdone. The Crown should not become too familiar or commonplace. As I do not need to tell you, an immense amount of work has to be done in relation to a Royal tour, and one does not desire that this should be too frequent an event. My own devotion to the Crown leads me constantly to the idea that formal Royal visits to Australia should be relatively rare and therefore on all occasions significant and stirring. Informal and limited visits for some specific purpose, and not involving inter-State organisation, may be, and I think are, in a different category’ (NAA: Al209, 1961/192, letter, Menzies to Harrison, 9 October 1959).
 
 4 From February to July 1966 Prince Charles spent two terms at Timbertop, an annexe of Melbourne’s Geelong Church of England Grammar School in the mountains 100 miles north of the city.
 
 5 Geoffrey Dutton, _Australia and the monarchy: a symposium_ (Melbourne, 1966).
+
+[UK.NA: FCO 49/78]

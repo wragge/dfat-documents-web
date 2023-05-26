@@ -1,0 +1,520 @@
+---
+doc_date: '1950-05-19'
+doc_num: 71
+doc_order: 71
+naa_refs:
+- naa_barcode: 238901
+  naa_control_symbol: 301/5 PART 1
+  naa_series: A5460
+  reference: '[NAA: A5460, 301/5]'
+title: Report of the Consultative Committee
+vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
+vol_id: 24
+vol_title: 'Volume 24: Australia and the Colombo Plan, 1949-1957'
+---
+
+Sydney, 19 May 1950
+
+SECRET
+
+ **Report of British Commonwealth Consultative Committee Sydney, 19th May, 1950**
+
+INTRODUCTION
+
+The Conference of Commonwealth Foreign Ministers at Colombo in January, 1950, recommended the establishment of a Consultative Committee, membership of which would be open to all Commonwealth Governments which wished to participate. The Committee had the following terms of reference:
+
+(i) to receive from Governments an indication of the action which they considered it feasible to take in response to the recommendations in Section A of the Resolutions[1](#f1) passed by that Conference;
+
+(ii) to approach the Governments of countries outside the Commonwealth interested in South and South-East Asia with a view to enlisting their collaboration;
+
+(iii) to examine the methods of co-ordinating development activities in South and South-East Asia, in association with international and regional organizations concerned with the object of raising the level of production and the standard of living in the area;
+
+(iv) to examine the desirability of promoting international commodity agreements for basic products, which would benefit the area and could be recommended for consideration under the Havana Charter;
+
+(v) to consider whether the economic development of under-developed countries of the area would be assisted by the drawing up of a co-ordinated plan of development and by the establishment of special machinery;
+
+(vi) to make recommendations to Governments.
+
+2\. The Consultative Committee met at Sydney from 15th to 19th May, 1950, under the Chairmanship of the Hon. P. C. Spender, K.C., M.P., Australian Minister for External Affairs. Besides Australia there were represented Canada, Ceylon, India, New Zealand, Pakistan and the United Kingdom.
+
+3\. The work of the Committee was in eight parts, as follows:—
+
+I. Preparation of a development programme.
+
+II. Technical assistance.
+
+III. Priority economic requirements.
+
+IV. Commodity agreements.
+
+V. Relations with non-Commonwealth Governments in the area in the preparation of the development programme.
+
+VI. Approach to United States of America and other countries interested in the area.
+
+VII. Organization.
+
+VIII. Future schedule of meetings.
+
+4\. Agreement was reached on a course of action, which is outlined in this report, and recommendations are made to Governments accordingly.
+
+PART I
+
+PREPARATION OF A DEVELOPMENT PROGRAMME
+
+1\. All Delegates agreed that the economic development of South and South-East Asia (referred to later in this report as 'the area') was politically and economically a matter of prime importance, that it was urgent to make a start on it as speedily as possible and that the scale of the problem was such that it was unlikely that the Commonwealth would be able from its own resources effectively to carry out this development.
+
+2\. It was agreed that a report should be prepared setting out the need for development, the development programmes of the countries in the area which might be expected to be completed over a period of six years ending 30th June, 1957 and the need for external assistance in order to carry out these programmes. It was agreed that a first and indispensable step was for each participating country in the area to prepare a realistic and comprehensive statement of its economic situation and development programme. This statement would be submitted by each country to the Committee through the Australian Government before 1st September, 1950, in accordance with a questionnaire by the Committee and attached to this report. (Appendix 'A').
+
+3\. In the preparation of their statements, it would be left to the countries themselves —
+
+(i) to initiate and state their own plan of development;
+
+(ii) to determine the priority of projects;
+
+(iii) to state the amount of assistance which they needed.
+
+The individual programmes would subsequently be examined by the Committee in order to clarify them and permit their assembly into a single report, but it should be made clear that each individual country would determine its programme of development to be included in the report and indicate the amount and type of aid which it required.
+
+4\. The following general considerations were raised by Delegates and agreed:—
+
+(i) the programme should be for a 6-year period ending 30th June, 1957. No project should be included in the submissions in the first instance which was not expected to be completed within that time;
+
+(ii) it was likely that the main limiting factors upon the programmes would be the inadequacy of external finance, internal finance and technical knowledge and facilities. The need of assistance under any or all of these three headings would be revealed in the programmes submitted;
+
+(iii) the programme should be strictly realistic in character, taking into account the limits which exist upon the rate of development of an under-developed country;
+
+(iv) it would be necessary for the plans of development of under-developed countries to provide a reasonable balance between industry and agriculture;
+
+(v) emphasis was laid upon the importance of maintaining a stable income to producers from the exports of primary products from the area and it was agreed that failure of demand outside the area for its primary products would seriously prejudice development.
+
+5\. It was agreed that, when the programmes had been submitted by the individual countries showing the most that they could do by their own efforts, the next stage would be the preparation of the report by the Committee. It would be necessary for the report to provide an authoritative and convincing statement, endorsed by the Governments concerned, of the needs and resources of the area. Commonwealth countries would then consider the position revealed by the report and would decide how much they would be able to contribute finance, technical assistance and otherwise in order to meet the deficiencies indicated in the programmes.
+
+6\. It would be necessary also to consider how the facilities of the United Nations and its Regional Commissions and Specialized Agencies could be used increasingly and more effectively in order to help meet the deficiencies and so enable the programmes to be carried out. It was agreed that whatever assistance was forthcoming from Commonwealth countries should be supplemental to any aid available from the sources indicated above which had the same objective, and should not duplicate existing machinery.
+
+7\. The position of the International Bank was regarded by Delegates as being of great importance in this connection, especially as its existing constitution and methods of operation had made it difficult for countries within the area to satisfy their financial requirements from it. Governments had already agreed in the Colombo Resolutions to support as high a priority as possible in the various Specialized Agencies for the needs of the area, and Delegates agreed that informal consultation should take place as appropriate in order to further this objective.
+
+8\. It was agreed that, before deciding whether a request for assistance should be made to the United States and other countries interested in the area, the possibilities of solving the problem by self-help and mutual help within the Commonwealth and within the area and by use of the United Nations and its Regional Commissions and Specialized Agencies should be explored and decisions taken.
+
+9\. Great importance was attached by all delegates to the preparation of these programmes and of the report according to a definite time-table which all Delegates agreed to recommend to their Governments. It was decided that the programmes must be submitted by the countries by 1st September and that meetings should subsequently take place in order that an approach to the United States could be made before the middle of November (see Part VIII of the report). The speed of this time-table was necessary both because of the political need to set in motion a broad and imaginative plan for mastering the economic problems of the area and also because of the United States legislative situation. Delegates recognized that, if it was impossible to get an assistance programme into the United States legislative programme for 1951, it would be unlikely that aid would be forthcoming before 1953.
+
+10\. It was agreed that an approach should be made to the non-Commonwealth countries in the area to invite them to associate themselves with the members of the Committee in a programme for the area. Considerations involved in this are dealt with in Part V of this report.
+
+PART II
+
+TECHNICAL ASSISTANCE
+
+1\. Consideration was given to the role of technical assistance in the economic development of the area. It was agreed that there was a serious lack of technicians and the means of training in the area, and further agreed that the supply of technicians in itself would not greatly increase production and standards of living in the area unless accompanied by financial assistance where required, supplies of capital goods, and social development, particularly in the realm of health and education in the broadest sense. Taking into account all relevant factors, the Committee agreed that there was urgent need for additional technical assistance supplementary to that provided by the United Nations and its Regional Commissions, Specialized Agencies and by individual countries, and that the Commonwealth should endeavour to the extent of its resources to supply this supplementary assistance.
+
+2\. It was agreed, therefore, to recommend to Governments:—
+
+(i) that a Commonwealth Technical Assistance Scheme should be established immediately, on the basis set out in Appendix 'B' to this report;
+
+(ii) that the scheme should be organized to provide assistance up to a maximum value of �8m. stg. Over the three years commencing 1st July, 1950;
+
+(iii) that each member Government should indicate as soon as possible the share of technical assistance which it would contribute towards the Scheme;
+
+(iv) that contributions under the Scheme by member Governments should, at the option of each contributing Government, comprise the provision in kind of the services of technical personnel to applicant countries, the training of personnel in their own countries, the payment of the cost of equipment and of any other costs, either in their own currency or in any other currency;
+
+(v) that assistance provided under the Scheme should be arranged on a bilateral basis by agreement between applicant countries and contributing countries in respect of each application for assistance, and that the terms and conditions upon which such assistance should be afforded should, in every case, be solely a matter for the Governments concerned;
+
+(vi) that Governments should, as soon as possible and from time to time, make available to the organization referred to in Part VII of this report and to any other cooperating country which desired it, statements of the availability of technical assistance, with the fullest particulars practicable.
+
+(vii) that Governments should use their best offices to ensure that countries of the area receive their fair share of all assistance available from the United Nations; its Regional Commissions' and Specialized Agencies' and extended schemes for technical assistance and from all other sources. Assistance granted by member countries under the Commonwealth Scheme would be supplementary to assistance available from other sources;
+
+(viii) that Governments should facilitate and encourage the release of experts, technicians and other personnel of their own countries for service under the Scheme, and make available to the utmost extent facilities for the training of personnel from applicant countries;
+
+(ix) that Governments should at the appropriate time make suitable arrangements to organize, supervise or co-ordinate activities in their own countries in relation to the Scheme and to maintain liaison with the organization referred to in Part VII of this report and with other co-operating countries;
+
+(x) that Governments should give due attention to publicity for the activities under the Scheme and use their best endeavours to encourage warm public support for the programme within their own countries.
+
+PART III
+
+PRIORITY ECONOMIC REQUIREMENTS
+
+1\. The information before the Committee about the economic position and needs of the non-Commonwealth countries in the area was necessarily incomplete. Indeed a purpose of the plan of campaign outlined in Part I of this report is to find out what the needs of the countries of the area really are with as much precision as practicable. Some of the countries of the area are already receiving assistance in some form from the Commonwealth, the United States of America, the United Nations, its Regional Commissions and Specialized Agencies or other sources. Nevertheless emergency needs may exist or may come to the notice of a Commonwealth Government at any time.
+
+2\. It was felt that priority economic requirements are likely to be predominantly in the sphere of technical equipment and essential consumer goods. These needs might be met either by the provision of credit facilities or by supplies of the goods needed to meet the emergency. It was agreed that it would be necessary for countries seeking such emergency aid to demonstrate the high priority of their requirements and that they could not finance them from their own resources or the other sources of assistance they were already receiving. It was also agreed that, in considering the grant of such assistance, Commonwealth countries would have to take account of their existing commitments and obligations, including those to other countries within the area.
+
+3\. It was decided that the manner in which Commonwealth countries might best assist countries in the area to meet emergency needs was a question which would require detailed and expert investigation and that it should be considered further as an urgent matter at a meeting of the Committee in London in the Autumn of 1950 (see Part VIII of this report).
+
+4\. It was considered that if, in the meantime, a request for emergency assistance in the form of credit or other supplies from any country in the area, including non- Commonwealth countries, were received by a Commonwealth Government, that Government, if it were satisfied that the assistance was required to meet an emergency need, would consider the request sympathetically, having regard to its existing commitments. The Government so approached would judge for itself whether, in the light of the particular circumstances, it would be desirable to bring other Commonwealth Governments into consultation in considering the request for such emergency aid.
+
+5\. It was agreed, therefore, to recommend to Governments:—
+
+(i) that, at the meeting of the Committee in London in the Autumn of 1950, the question of the provision of emergency aid to the countries of the area should be given as high a priority as possible on the Agenda;
+
+() that, pending further consideration in the Autumn of 1950 of the question of the provision of emergency aid, individual Commonwealth Governments should consider sympathetically, having regard to their existing commitments, any requests for emergency aid which they might receive from a country of the area, consulting other members of the Commonwealth as might seem appropriate in each particular case.
+
+PART IV
+
+COMMODITY AGREEMENTS
+
+1\. Having considered the recommendation B(iv) of the Colombo Conference on commodity agreements (see paragraph 1 of the Introduction to this report) the Committee concluded that a stable income to the producers from the export of their primary products was essential to the economic well-being of the countries of the area and that all possible steps should be taken to maintain, and where possible to expand, the markets for these products overseas and particularly in the dollar area. It was agreed that only after adequate investigation, commodity by commodity, could it be determined whether international commodity agreements in conformity with the terms of the Havana Charter would contribute to this aim of enabling the individual countries of the area to stabilize incomes of producers from exports of primary products and to maintain such exports and a high and expanding level.
+
+2\. Most of the commodities of major interest to the area are already receiving attention from, or are being kept under review by, inter-governmental organizations; and it is open to any Government having an interest in a particular commodity which might justifiably be examined with a view to establishing an international commodity agreement, to request the Secretary-General of the United Nations to set up a study group. It was recommended, however, that the Commonwealth Governments should keep the matter under review. Individual Commonwealth countries with an interest in a particular commodity may wish to report progress on any discussions directed towards setting up an international commodity agreement.
+
+3\. Bilateral commodity arrangements are primarily a matter for consideration by individual countries in the light of their own needs and circumstances. The information provided in connection with a country's development programme may give useful indications of the possibility of bilateral arrangements.
+
+4\. It was agreed, therefore, to recommend to Governments:—
+
+(i) that Commonwealth Governments, recognising the necessity for the countries of the area to stabilize incomes of producers from the exports of their products and to maintain such exports at a high and expanding level, should take such measures as are open to them to promote this aim;
+
+(ii) that the individual Commonwealth Governments in the area should keep under review, commodity by commodity, the extent to which international commodity agreements, in conformity with the Havana Charter, or other commodity arrangements might contribute to the economic well-being of the area;
+
+(iii) that Commonwealth Governments might usefully exchange information, through channels most convenient to them for this purpose, about any proposals, relevant to the two preceding recommendations, which they have in mind for the promotion of international commodity agreements or other arrangements for the marketing of their products.
+
+PARTV
+
+RELATIONS WITH NON-COMMONWEALTH COUNTRIES IN THE AREA IN THE PREPARATION OF THE DEVELOPMENT PROGRAMME
+
+1\. All Delegates agreed that is was desirable to associate non-Commonwealth countries in the area with the preparation of a report in the Autumn of 1950 on the lines indicated in Part 1 of the report. It had been the intention of the Colombo Conference that the action to be taken under its Resolutions should refer to 'South and South-East Asia' and should not deal with the Commonwealth countries in the area alone. It was fully recognized that the non-Commonwealth countries could make a substantial contribution to the development of the area as a whole, and it was agreed that in any approach to them emphasis should be laid upon this as well as upon their own needs.
+
+2\. The Committee was aware that this decision presented certain difficulties, both of organization and of technique. I t was recognized that the non-Commonwealth countries in the area might find some difficulty in producing programmes of the same technical standard as those which would be submitted by the Commonwealth countries which had much more experience in this kind of work. It was agreed that the time-table for preparation of the report for possible presentation to the United States was so urgent that the work should not be delayed because of any difficulty which non-Commonwealth countries might have in submitting their programmes in time in comprehensive form. It was considered, however, that these countries would be able to provide sufficient information to be fitted in with the programmes of the Commonwealth countries to enable a reasonably reliable assessment of the total needs of the area to be made.
+
+3\. It was agreed that the Governments of the non-Commonwealth countries in the area should be approached by the Australian Government on behalf of the Committee, the Australian Government acting in consultation with other Commonwealth Governments before the issue of any invitations.
+
+4\. These Governments, if they accepted the invitation to participate, would then be given the questionnaire referred to in Part I of this report and would be offered friendly help by the Commonwealth in the work of submitting a programme by 1st September. It was agreed that there would not be time to set up an organization to provide this help, but certain of the Delegates offered to recommend to their Governments to release a few officials familiar with programming to visit the capitals concerned and to give what help was possible. It was thought that four or five officials of this kind would be sufficient for this purpose and the United Kingdom Delegate offered to make the resources of the Commissioner-General for South-East Asia's organization at Singapore, (reinforced from London) available to help with this work. Other Delegates likewise offered to help in this way.
+
+5\. It was agreed that, in this element of the work, discussions should take place as necessary between the Commonwealth countries through the normal channels. It was agreed that the urgency was such that there was no time to await setting up of a new organization, although it was agreed that this might be subsequently necessary.
+
+6\. It was agreed that the non-Commonwealth countries should not be brought into the process of preparing a report until a relatively late stage. The programmes of the non- Commonwealth countries would be sent before 1st September to the Australian Government, which would circulate them to the other members of the Committee.
+
+7\. It was agreed that continuing consideration should be given to relations with international organizations in the area. It was agreed that the Australian Government should:—
+
+(i) inform ECAFE of the desire of the Commonwealth Governments to take advantage of information on the economic situation in South and South-East Asia which ECAFE has assembled; and
+
+(ii) invite the Executive Secretary to assist in providing information available to him when so requested by Commonwealth Governments or their representatives.
+
+PART VI
+
+APPROACH TO UNITED STATES AND OTHER COUNTRIES INTERESTED IN THE AREA
+
+1\. The Committee discussed the possible timing of a joint approach to the United States Government, enlisting their support for a programme of economic development in the area.
+
+2\. It was agreed that this was a matter of great delicacy in a rapidly changing situation and that it was impossible at present to lay down a firm time-table.
+
+3\. The United Kingdom Delegate expressed the view that it would be unwise to make a formal joint approach until the report on development had been prepared and there was a clear picture of the situation to put to the United States Government. The Delegates recognized, however, that the situation was a very fluid one and that action at an earlier stage might be desirable in certain circumstances.
+
+4\. Governments would maintain informal contacts with the United States Government on these matters in the manner which they considered most appropriate and the United Kingdom Government would advise the other Governments of the best opportunity, in their opinion, for a formal joint approach.
+
+5\. Consideration was given also to the possible association of France and Holland with the development programme. It was agreed that no formal joint approach should be made to these countries at present.
+
+PART VII
+
+ORGANISATION
+
+1\. In order to implement the new Commonwealth Technical Assistance Scheme (see Part II of this report) it was agreed that some new organization would be necessary. It was therefore, decided to recommend the establishment of a Bureau, which would have its offices in Colombo. The terms of reference of the Bureau in the field of technical assistance would be:
+
+(i) to receive statements of requirements for technical assistance within the area and to attempt to match them with availabilities in member countries;
+
+(ii) to enter into close relationships with the United Nations, its Regional Commissions and Specialized Agencies with a view to informing countries in the area of the resources of the United Nations in the field of technical assistance and assisting them in pressing their applications;
+
+(iii) to examine the obstacles, including considerations of expense, which now impede the flow of experts to underdeveloped countries and the placement of students and technicians from such countries in industries and educational and technical institutions abroad, and to make recommendations to the Committee on this problem.
+
+2\. Although it was agreed that the proposed organization would not be able to assist immediately in drawing up the programme for economic development, it was recognized that in all probability, at a later stage, there would be responsibilities in connection with the programme which would have to be assumed by some continuing organization of officials. It was suggested that these responsibilities might also be assumed by the Bureau to be established to deal with technical assistance. It would be for the proposed meeting of the Committee in the Autumn of 1950 to define the terms of reference of the Bureau in this further field.
+
+3\. There was agreement on the necessity for setting up at once some organization to assist in meeting the needs of countries in the area for technical assistance. On the other hand, it was felt that there were strong reasons for not determining the exact nature of the Bureau without awaiting further developments. It was highly important that skilled and sympathetic personnel should be obtained for the new posts to be created, and it might take a little time to secure the services of the most suitable candidates. It was further recognized that at the next meeting of the Committee in the Autumn of 1950 other countries might be added to its membership. For this reason also, it would be difficult to decide on the organization of the Bureau at this meeting of the Committee. It was therefore agreed that it should be left to the next meeting of the Committee to decide on the constitution of the Bureau.
+
+4\. In recognition, however, of the urgent need for immediate action it was agreed that a standing committee of the Committee should be established. Governments are recommended to nominate without delay either officials or other persons to serve as their representatives of the standing committee. The base of operations of the standing committee would be in Colombo. From there members or their representatives could visit, upon request, co-operating governments to assist them in exploring and defining their needs. The terms of reference of the standing committee would be:
+
+(i) to exercise until the next meeting of the Committee the functions proposed for the Bureau in the field of technical assistance;
+
+(ii) to recommend to Governments further administrative arrangements which it might be either necessary or desirable to institute before the next meeting of the Committee;
+
+(iii) to make recommendations to the Committee at its next meeting concerning the most appropriate constitution for the Bureau.
+
+5\. The Chairman of the standing committee may be authorised by it to arrange for the necessary small clerical staff and for the recruitment of any special officers which may be found to be necessary for the operation of the programme.
+
+6\. The Ceylon Delegation has agreed to recommend to its Government that it make advances to meet common costs. These advances would be repayable in agreed proportions in accordance with arrangements to be made at the meeting of the Committee in the Autumn of 1950.
+
+7\. The Committee, therefore, makes the following recommendations to Governments:
+
+(i) that a Bureau be established at the next meeting of the Committee to exercise the functions outlined in paragraphs 1-3 of Part VII of this report, and
+
+(ii) that a standing committee be established to exercise the functions outlined in paragraph 4 of Part VII of this report, and that the first meeting of the standing committee be convened by the Government of Ceylon to take place not later than 15th July, 1950.
+
+PART VIII
+
+SCHEDULE OF FUTURE MEETINGS
+
+1\. It was agreed that a series of meetings should take place in London in the Autumn of 1950.
+
+2\. It was agreed that the first stage should be a meeting of officials to examine the programmes which had been submitted by the Commonwealth and non-Commonwealth countries in the area, and such other matters as might be referred to them, and to prepare a draft report on the development programmes. This meeting would take place early in September.
+
+3\. The meeting of officials would be followed by a meeting of representatives of Governments which would consider, amongst other items:
+
+(i) priority economic requirements of the countries of the area (see Part III of this report);
+
+(ii) the report on the development programmes (see Part I of this report);
+
+(iii) assistance from Commonwealth countries;
+
+(iv) the most effective use of the resources of the United Nations, its Regional Commissions and Specialized Agencies;
+
+(v) the question of approaches to the United States and other Governments interested in the area (see Part VI of this report);
+
+(vi) the constitution and functions of the Bureau (see Part VII of this report).
+
+4\. It was contemplated that in the first instance there should be a meeting of Commonwealth representatives alone. There would then be a meeting including representatives of non-Commonwealth countries participating in the programme. The arrangements for the series of meetings would be the subject of prior consultation amongst Commonwealth Governments, possibly through their High Commissioners in London.
+
+5\. The meeting of Government representatives would be expected to begin towards the end of September in order that everything should be ready for an approach to the United States if this should prove desirable before the middle of November.
+
+EXTRACT OF RECOMMENDATIONS
+
+I. PREPARATION OF DEVELOPMENT PLAN
+
+It was agreed that a report should be prepared setting out the need for development, the development programmes of the countries in the area which might be expected to be completed over a period of six years ending 30th June, 1957, and the need for external assistance in order to carry out these programmes. It was agreed that a first and indispensable step would be for each participating country in the area to prepare a realistic and comprehensive statement of its economic situation and development programme. This statement would be submitted by each country to the Committee through the Australian Government before 1st September, 1950, in accordance with a questionnaire agreed by the Committee and attached to this report. (Appendix 'A').
+
+It was agreed that these individual programmes would be examined by the Committee in order to clarify them and permit their assembly into a single report which would provide an authoritative and convincing statement, endorsed by the Governments concerned, of the needs and resources of the area. Commonwealth countries would then consider the position revealed by the report and would decide how much they would be able to contribute in finance, technical assistance and otherwise in order to meet the deficiencies indicated in the programmes.
+
+It was agreed that whatever assistance was forthcoming from Commonwealth countries be supplemental to any aid available from the United Nations, its Regional Commissions and its Specialized Agencies which had the same objective and should not duplicate existing machinery.
+
+Great importance was attached to the preparation of the programmes and the report according to the agreed time-table (paragraph 9). (Summary of main decisions only in Part I of this report, pages 3 and 4.)
+
+II. TECHNICAL ASSISTANCE
+
+It was agreed to recommend to Governments:�
+
+(i) that a Commonwealth Technical Assistance Scheme should be established immediately, on the basis set out in Appendix 'B' to this report;
+
+(ii) that the scheme should be organized to provide assistance up to a maximum value of �8m. stg. over the three years commencing 1st July, 1950;
+
+(iii) that each member Government should indicate as soon as possible the share of technical assistance which it would contribute towards the scheme;
+
+(iv) that contributions under the scheme by member Governments should, at the option of each contributing Government, comprise the provision in kind of the services of technical personnel to applicant countries, the training of personnel in their own countries, the payment of the cost of equipment and of any other costs, either in their own currency or in any other currency;
+
+(v) that assistance provided under the scheme should be arranged on a bilateral basis by agreement between applicant countries and contributing countries in respect of each application for assistance, and that the terms and conditions upon which such assistance should be afforded should, in every case, be solely a matter for the Governments concerned;
+
+(vi) that Governments should, as soon as possible and from time to time, make available to the organization referred to in Part VII of this report and to any other cooperating country which desired it, statements of the availability of technical assistance, with the fullest particulars practicable.
+
+(vii) that Governments should use their best offices to ensure that countries of the area receive their fair share of all assistance available from the United Nations, its RegionalCommissions and Specialized Agencies' schemes and extended schemes for technical assistance and from all other sources. Assistance granted by member countries under the Commonwealth Scheme would be supplementary to assistance available from other sources;
+
+(viii) that Governments should facilitate and encourage the release of experts, technicians and other personnel of their own countries for service under the Scheme, and make available to the utmost extent facilities for the training of personnel from applicant countries;
+
+(ix) that Government should at the appropriate time make suitable arrangements to organize, supervise or co-ordinate activities in their own countries in relation to the Scheme and to maintain liaison with the organization referred to in Part VII of this report and with other co-operating countries;
+
+(x) that Governments should give due attention to publicity for the activities under the Scheme and use their best endeavours to encourage warm public support for the programme within their own countries. (Part II of this report, para. 2, pages 6 and 7).
+
+III. PRIORITY ECONOMIC REQUIREMENT
+
+It was agreed to recommend to Governments:—
+
+(i) that, at the meeting of the Committee in London in the Autumn of 1950, the question of the provision of emergency aid to the countries of the area should be given as high a priority as possible on the Agenda;
+
+(ii) that pending further consideration in the Autumn of 1950 of the question of the provision of emergency aid, individual Commonwealth Governments should consider sympathetically, having regard to their existing commitment, any requests for emergency aid which they might receive from a country of the area, consulting other members of the Commonwealth as might seem appropriate in each particular case. (Part 111 of this report, para. 5, page 8).
+
+IV. COMMODITY AGREEMENTS
+
+It was agreed to recommend to Governments:—
+
+(i) that Commonwealth Governments, recognizing the necessity for the countries of the area to stabilise the income of producers from the exports of their products and to maintain such exports at a high and expanding level, should take such measures as are open to them to promote this aim;
+
+(ii) that the individual Commonwealth Governments in the area should keep under review, commodity by commodity, the extent to which international commodity agreements, in conformity with the Havana Charter, or other commodity arrangements might contribute to the economic well-being of the area;
+
+(iii) that Commonwealth Governments might usefully exchange information, through channels most convenient to them for this purpose, about any proposals, relevant to the two preceding recommendations, which they have in mind for the promotion of international commodity agreements or other arrangements for the marketing of their products. (Part IV of this report, para. 4, page 10).
+
+V. RELATIONS WITH NON-COMMONWEALTH COUNTRIES IN THE AREA IN PREPARATION OF THE DEVELOPMENT PROGRAMME
+
+It was agreed that it was desirable to associate non-Commonwealth countries in the area with the preparation of a report in the Autumn of 1950 on the lines indicated in Part I of this report (pages 3 and 4). It was fully recognized that such countries could make a substantial contribution to the development of the area as a whole, and it was agreed that in any approach to them emphasis should be laid upon this as well as upon their own needs. It was agreed that the Governments of these countries should be approached by the Australian Government on behalf of the members of the Committee, the Australian Government acting in consultation with other Commonwealth Governments before the issue of any invitations. The non-Commonwealth Governments, if they accepted the invitation to participate, would then be given the questionnaire referred to in Part I of this report and would be offered friendly help by the Commonwealth in the work of submitting a programme by 1st September.
+
+It was agreed that the non-Commonwealth countries should not be brought into the process of preparing a report until a relatively late stage. The programmes of the non-Commonwealth countries would be sent before 2st [sic] September to the Australian Government, which would circulate them to the other members of the Committee.
+
+It was agreed that continuing consideration should be given to relations with international organizations in the area. It was agreed that the Australian Government should:—
+
+(i) inform ECAFE of the desire of the Commonwealth Governments to take advantage of information on the economic situation in South and South-East Asia which ECAFE has assembled; and
+
+(ii) invite the Executive Secretary to assist in providing information available to him when so requested by Commonwealth Governments or their representatives. (Summary of Part V of this report, pages 11 and 12).
+
+VI. APPROACH TO UNITED STATES AND OTHER COUNTRIES INTERESTED IN THE AREA
+
+Governments would maintain informal contacts with the United States Government, in connection with the programme of economic development in the area, in the manner which they considered most appropriate and the United Kingdom Government would advise the other Governments of the best opportunity, in their opinion, for a formal joint approach to the United States Government to enlist their support. It was agreed that no formal joint approach should be made to France or Holland at present. (Summary of Part VI of this report, page 13).
+
+VII. ORGANISATION
+
+It was agreed to recommend to Governments:—
+
+(i) that a Bureau be established at the next meeting of the Committee to exercise the functions outlined in paragraphs 1-3 of Part VII of this report;
+
+(ii) that a standing committee be established to exercise the functions outlined in paragraph 4 of Part VII of this report and that the first meeting of the standing committee be convened by the Government of Ceylon to take place not later than 15th July, 1950. (Part VII of this report, para. 7, page 15).
+
+VIII. SCHEDULE OF FUTURE MEETINGS.
+
+It was agreed that a series of meetings should take place in London in the Autumn of 1950. The first stage should be a meeting of officials of Commonwealth countries early in September to examine the programmes which had been submitted by the Commonwealth and non-Commonwealth countries in the area and such other matters as might be referred to them, and to prepare a draft report on the development programme. The meeting of officials would be followed towards the end of September by a meeting of representatives of Governments which would consider, amongst other items, the matters listed in paragraph 3 of Part VIII of this report (page 16). It was contemplated that in the first instance there should be a meeting of Commonwealth representatives alone; there would then be a meeting including representatives of non-Commonwealth countries participating in the programme. (Summary of Part VIII of this report, page 16).[2](#f2)
+
+QUESTIONNAIRE ON DEVELOPMENT
+
+APPENDIX 'A'
+
+PART I: THE NEED FOR DEVELOPMENT
+
+1\. The purpose of this section of the report would be to bring out, in very general terms, the need for development. Each country should submit a short descriptive statement of the state of Development, together with a brief description of the economic dislocation and damage caused by the war, and post-war disturbances, and the extent to which that dislocation and damage is now rectified.
+
+2\. It will be necessary to have a number of specific statistical facts, both in order to illustrate a summary of the state of Development and also in order to permit calculations to be made making comparison with the state of Development in more highly developed countries. A list of relevant specific facts is at Table D. Much of this information has already been made available, e.g. for E.C.A.F.E., so that the answering of parts of the questionnaire may consist of little more than a revision (or reproduction) of figures already prepared. It would not be expected that each country would be able to answer all the questions, but the more than (sic) can be answered, the better. Countries should complete this table only to the extent to which statistics are readily available.
+
+PART II: THE DEVELOPMENT PROGRAMMES OF THE INDIVIDUAL COUNTRIES.
+
+3\. A description is required of the development plans of each country, presented as a six-year programme, it should not be assumed that all the work will be completed within six years nor that the completion of the programme satisfies all the needs. When general figures are given, these should be assessed on the assumption that the rate of investment will continue after the six-year period; but only those projects which will be completed within six years should be listed. Thus, it would be desirable to state the point which would be reached by 1957, if the programme were carried through, in the specified fields indicated in Table D, and thus show the advancement of the state of development by that time, both in increased productivity and in the increased standard of living of the peoples.
+
+4\. The programme should show the relative priority attaching to each line of development, the objective of the programme in each country being to satisfy the most urgent economic needs within the six-year period.
+
+5\. The programme should take the widest possible view of development. It should not be confined to �projects� but should cover all aspects of economic development, including capital work, maintenance, and work carried out and financed by private enterprise (local and foreign) as well as work done by Government and nationalised agencies—in economist's phraseology, �gross investment". It is recognised that governments may find it difficult to assess private investment in countries which are based mainly on an agricultural economy, but any estimate of such investment which can be given will be of great value. It may be that countries will find it possible to give a total figure for private investment only, but where practicable it would be of advantage if such a figure could be divided into six parts as follows:—
+
+(i) Agriculture.
+
+(ii) Transport and Communications.
+
+(iii) Fuel and Power.
+
+(iv) Mining (other than coal).
+
+(v) Industry.
+
+(vi) Social Capital (housing, hospitals, schools, etc.).
+
+6\. Under each of these heads, there should be a description of the development envisaged, with a list and brief description of the main projects; the object of each such project and a note on the way in which it is intended that each should fit into the general development programme. A 'project' is understood to be a specific scheme of economic or social development carried out as a whole. The scale of the present development effort should be emphasised. Multi-purpose projects should be dealt with under 'agriculture' unless there are special reasons for showing them under another heading.
+
+7\. A description should be given of the way in which the programme as a whole will improve the long-term balance of payments of the country, and the general volume of trade between South and South-East Asia and the rest of the world. It is clearly undesirable that development plans should be undertaken during the period when external assistance is available that will become a burden when the aid ceases and some indication should given of how continuing commitments will be financed after aid ceases.
+
+8\. The programme should be realistic, in that it must be within the capacity of the country to carry out, given internal political stability and foreign assistance. It will greatly enhance the quality of the programme (and thus its value for the purpose of securing the objectives of the report) if clear evidence is presented on this point, e.g. the speed with which projects can be completed in the conditions of the country, the adequacy of transport facilities, the availability of technicians, the adequacy of living conditions for the workers, etc. The programme should show that the rate of development contemplated is realistic and feasible in the political, economic and social conditions ruling in the country.
+
+9\. It is important to get a clear idea of what would be the effect upon the development programme of failure to obtain the assistance which is required.
+
+10\. A description should be given of the administrative machinery by which the programme is carried out, e.g., is there a Government Department responsible for development? Does this Department's scope of activity extend to other Government-controlled services, such as the railways? Is there a development programme covering both Government-financed and privately-financed investment? Is there machinery for coordination of all forms of development planning? How are the priorities determined? If there is no organisation in existence at present, is there an intention to set one up and if so, of what kind?
+
+11\. Statistical material about the Development Programme should be provided in three classifications (which will, of course, overlap) and the illustrative form set out in Tables A and B are designed to cover each of these.
+
+ _Developmental commodities (Table A):_
+
+An estimate of total consumption and required imports in 1951/52 and in the programme period 1951-52 to 1956-57 of steel, non-ferrous metals, pig-iron, timber, cement, fertiliser, machinery and vehicles, coal and oil.
+
+This should not refer solely to requirements directly limited to Government Development Programmes but should cover the whole economy.
+
+Each country might add such other suitable developmental commodities which are of particular importance to its plan.
+
+ _Cost of development by public authorities (Table B):_
+
+An analysis of the total investment for the same periods, being the total cost of expenditure on all forms of capital development work undertaken by Public Authorities. Particulars should also be given of important individual projects showing the nature of the project, source of finance, date begun or to be begun, expenditure up to year 1951, expenditure still remaining and estimated completion table.
+
+PART III: ADEQUACY OF COMMONWEALTH RESOURCES
+
+12\. If the development programme is drawn up on a realistic physical basis in the sense indicated in paragraph 8, the limitations upon its effective execution are:—
+
+(i) External Finance.
+
+(ii) Internal Finance.
+
+(iii) Resources of technical expertise.
+
+13\. It should be assumed for this purpose that supplies of commodities are available to the extent required for each country's development programme provided that the internal financial resources are available to permit the programme to go forward and that the external financial resources are available to permit the necessary imports to purchased.
+
+ _External finance:_
+
+14\. It is necessary to draw up an estimate of the balance of payments for 1951/52 on the assumption that the development programme proceeds as in Part II. It is necessary to divide this balance of payments between dollar (U.S.A. and Canada) and non-dollar sources.
+
+15\. Actual figures should be shown for the year 1949; an estimate for 1950/51; an estimate for 1951/52. The estimate for 1950/51 should be on a 'forecast' basis related to the present external financial resources of the country, with no new United States aid. The estimate for 1951/52 assumes that assistance will be available from 1st July, 1951.
+
+16\. An indication should be given of the likely course of the balance of payments after 1951/52. For example, will the amount of required food imports rise or fall, and if so, by how much and over what period of time? Will increasing resources become available for export?
+
+17\. For purely statistical purposes in the provision of these estimates it should assumed that prices remain at the level of 1st July, 1950.
+
+18\. The resources known or forecast to be available for financing the current account deficit in 1951/52, e.g. loans from the International Bank and private investment, should be specified.
+
+19\. A form is set out in Table C.[3](#f3)
+
+ _Internal finance:_
+
+20\. In some countries the provision of internal finance for the development programme may present even more serious difficulty than the provision of external finance.
+
+21\. An account should therefore be given of the internal financial position of the country and of the extent to which it is considered that internal financial resources will be available, either by taxation or by local borrowing to meet the internal element in the cost of development as indicated in Table B. This should include information about the revenue and expenditure of both central and provincial authorities together with particulars of public debt.
+
+22\. The extent of detail of this account should depend upon the position of the individual country. I f external assistance is required in order to meet part of the internal cost of development, a detailed review is necessary of the Budgetary position, measures to combat inflation, the extent of savings and especially the methods of mobilising them, etc. If, on the other hand, it is felt that internal finance will be available up to the required extent, all that is necessary is to show the sources from which the internal finance is drawn, in a manner matching the particulars about internal cost given in Table B.
+
+23\. Producer countries which are desirous of entering commodity agreements within the scope of the Havana Charter may wish to mention the commodities in respect of which such agreements are desired, giving particulars. In any event, it would be valuable if all countries which are heavily dependent on the export of a few primary products could state their production and export surplus and have a passage in their report showing the importance of the price and demand for these products to their economy.
+
+ _Availability of technical expertise:_
+
+24\. A statement is required setting out the extent to which the country's own resources of technical expertise�ranging from highly-qualified specialists and administrators to foremen in factories and construction projects, and teachers for agricultural education services�are sufficient for the execution of the programme, and of other technical facilities such as Pilot plants which may be needed. Particular emphasis will, of course, be placed upon facilities for training the country's own nationals for this work. It is desirable to express the needs for technical assistance in quantitative form and to indicate both the sort of assistance which is required and its timing. This is a field in which resources are very scarce, even in the United States, and if practical action is to be taken, it will probably be necessary to organise training programmes over a considerable period of years in all parts of the world.
+
+ _Assistance within the Commonwealth:_
+
+25\. The replies to this questionnaire will indicate the amount and nature of assistance which the various countries will need in order to carry out their development programmes. All members of the Consultative Committee, whether putting forward development programmes or not, should consider the amount of assistance which they will be able to give, either to help to finance the balance of payments deficit resulting from the development programme, or in the provision of finance to help meet the internal finance parts of the programmer, or in the provision of technical assistance. The Committee should examine the possibility of solving these problems within the Commonwealth before asking others to contribute.
+
+26\. It is desirable also that the assistance given to each other by Commonwealth members and non-Commonwealth countries in this area since the end of the war should be placed on record, and members of the Committee should submit memoranda indicating the assistance which they have given to other Commonwealth members in this area and to other countries in this area during the last five years, in a form which would enable this to be presented as part of the report.
+
+This should include:—
+
+(i) Facilities for financing of balance of payments deficit;
+
+(ii) Inter-Governmental loans and grants;
+
+(iii) Subscriptions, e.g. U.N.R.R.A. for use in South-East Asia;
+
+(iv) Special efforts to produce scarce commodities.
+
+(v) Special allocations of scarce commodities;
+
+The purpose of collecting this information is to place on record the very substantial amount of intra-Commonwealth co-operation which has taken place to deal with the critical political and economic situation following the end of the war in the Far East.
+
+ _Use of United Nations agencies:_
+
+28\. Countries should specify those requirements of external finance, internal finance, and technical expertise which they could hope to secure through the machinery of United Nations and the specialised agencies.
+
+APPENDIX B
+
+ _Technical assistance_
+
+ _Illustrative outline prepared by Officials but not agreed in detail_
+
+1\. Technical assistance will include the following services:—
+
+(a) Training of personnel from the region in more highly developed countries where suitable instruction is available;
+
+(b) Provision of experts by more highly developed countries to assist in planning, development or reconstruction in countries in the region in the operation of agricultural, industrial governmental or other activities and in the training of personnel;
+
+(c) The provision of equipment necessary for the effective application of other forms of technical assistance;
+
+(d) The establishment, equipment, extension or endowment of training or other institutions in countries in the region.
+
+2\. Technical assistance will be granted on a bilateral basis, with the understanding that this basis includes the possibility of joint schemes where two or more applicant countries or two or more contributing countries are involved.
+
+3\. The negotiation of the terms and conditions upon which technical assistance is afforded by one country to another shall be determined by agreement between those countries.
+
+4\. Such agreement may provide terms of service, salary, allowances or other conditions for experts, and technicians lent by one country to another and of personnel being trained and the proportion, if any, of the cost of the whole service to be provided by the recipient country.
+
+5\. All applications for technical assistance under the Commonwealth Scheme will, in the first instance, be registered with the Bureau by the applicant country and all assistance granted by contributing countries by way of technical assistance will in like manner be registered by the Bureau.
+
+6\. Every member of the Commonwealth Consultative Committee will immediately supply to the Bureau a statement of the type of technical assistance which it can make available, with the fullest possible detail of the terms and conditions on which such assistance can be made available. Each member will continue from time to time and throughout the period during which the Bureau is operating, to supplement and correct such information.
+
+7\. It is a basic principle of technical assistance under the Commonwealth Scheme that it shall be in all cases supplementary to assistance available under any national, international or other programme operating in the region.
+
+8\. It will be the duty of the Bureau to establish liaison immediately with the United Nations and the specialised agencies, with the United States and with all other organisations or countries not members of the Commonwealth Consultative Committee which are presently affording technical assistance within the region or which may do so in the future.
+
+9\. On receipt of a request from any member, the Bureau will provide all information available in respect of technical assistance schemes whether within the Commonwealth or outside and in respect of United Nations, specialised agencies and the United States and other national schemes and will undertake to assist applicant member countries to present their claims, to document them and to press them if possible, to a successful conclusion 
+
+10\. Upon the request of any member country than an application for technical assistance should be considered, the Bureau will place that application before the Committee, together with all relevant information, including, a statement of the availability of technical assistance from other sources and the status of any application, to any of those sources, or, alternatively,
+
+11\. In respect of an application for technical assistance, the Bureau shall, as soon as necessary preliminary discussions with the applicant country have been completed, supply a copy of the application, together with all relevant information with regard to availability of resources, at the discretion of the Bureau or at the request of the applicant country either—
+
+(a) to all Members;
+
+(b) to one or more Members as nominated by-the applicant country, or
+
+(c) to such Members as have indicated the availability of the types of technical assistance appropriate to the application.
+
+12\. On receipt of every application for assistance each Member Government will endeavour to indicate at the earliest possible moment the assistance which it can supply in respect of the whole or any part of an application. Each Government which is able to supply any part of assistance required will forthwith advise the applicant country and the Bureau.
+
+13\. The Bureau will employ such experts, technical advisers and other staff as it may consider necessary for the efficient carrying out of its functions.
+
+14\. At any time on the request of a Member, the Bureau will endeavour to supply to that member, upon such terms and conditions as may be agreed upon between the Bureau and the member, the services of experts, technical advisers and others, where it is satisfied that such services cannot be obtained at the appropriate time from other sources and are necessary for the efficient fulfilment of any of the functions of the Bureau. The Bureau will organise the establishment of field missions to advise and assist any Member Governments on their request, where the Bureau is satisfied that such missions are necessary. As the occasion requires, the members of these field missions will be supplied by Member countries as technical assistants or may be engaged by the Bureau.
+
+15\. The Bureau will examine and investigate all obstacles or difficulties that reduce or prevent the availability of technical assistance, and shall its best endeavours to remove or ameliorate any obstacles or difficulties. In particular, the Bureau may, in agreement with Member countries, establish a model set of terms of service for experts lent to applicant countries and a model set of conditions upon which personnel from applicant countries can be trained in other countries.
+
+16\. The Bureau shall provide publicity for the activities under the Technical Assistance Scheme, and establish and maintain public relations throughout the area.
+
+[NAA: A5460, 301/5]
+
+1 See Document 19.
+
+2 A final communiqu� of the Consultative Committee noted that it had been decided 'to start immediately a programme based on action by the Commonwealth countries which have participated in the discussions', and a list of recommendations to be made to these Governments was included. For full text, see _Current Notes_ , vol. 21, 1950, pp. 350-1.
+
+3 Form not published.

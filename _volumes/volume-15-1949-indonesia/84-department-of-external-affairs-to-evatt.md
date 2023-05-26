@@ -1,14 +1,20 @@
 ---
-title: "84 Department of External Affairs to Evatt"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6253
+doc_date: '1949-01-15'
+doc_num: 84
+doc_order: 84
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A9420
+  reference: '[AA : A9420, 7]'
+title: Department of External Affairs to Evatt
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-15
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 84 Department of External Affairs to Evatt
-
-## Cablegram E14 CANBERRA, 15 January 1949
+Cablegram E14 CANBERRA, 15 January 1949
 
 INDONESIA
 
@@ -20,10 +26,10 @@ Shanahan, Assistant Secretary External Affairs, Wellington, will represent New Z
 
 Hood has been discussing with United States and Indian Representatives draft resolution for submission to Security Council today. In addition to laying down timetable for elections and transfer of sovereignty resolution would provide for progressive withdrawal of Dutch forces under United Nations supervision. Hood has been told resolution should go further and prescribe terms of settlement including powers and functions to be exercised by elected Assembly. New York Radio states Cuba also expected to submit proposal calling for immediate liberation of Republican leaders and acceptance of principle of self determination for Indonesian people.
 
-_
+ _
 
 1 Article 31 of the UN Charter states that '[a]ny member of the United Nations which is not a member of the Security Council may participate, without vote, in the discussion of any question brought before the Security Council whenever the latter considers that the interests of that Member are specially affected.
 
 _
 
-_ [AA : A9420, 7]_
+ _[AA : A9420, 7]_

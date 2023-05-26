@@ -1,12 +1,17 @@
 ---
-title: "63 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1294
+doc_date: '1940-08-11'
+doc_num: 63
+doc_order: 63
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, 1.6542]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-11
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 63 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 660 LONDON, 11 August 1940, 7.50 p.m.
 
@@ -30,7 +35,7 @@ In view of impossibility of forecasting developments in the Far East during the 
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 8 August. The Canberra draft (on file AA:A461, A703/1/2) was numbered 97, but the cablegram as received in London (on file AA: M100, August 1940) was numbered 96. It asked that urgent instructions should be sent to Sir Robert Craigie, U.K.
 
@@ -50,4 +55,4 @@ Ambassador to Japan, to obtain the Japanese Govt's formal approval of the appoin
 
 _
 
-_ [AA:A3195, 1940, 1.6542]_
+ _[AA:A3195, 1940, 1.6542]_

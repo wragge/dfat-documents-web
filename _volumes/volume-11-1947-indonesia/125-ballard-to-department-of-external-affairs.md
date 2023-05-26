@@ -1,12 +1,17 @@
 ---
-title: "125 Ballard to Department of External Affairs"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4309
+doc_date: '1947-07-20'
+doc_num: 125
+doc_order: 125
+naa_refs:
+- naa_barcode: 587545
+  naa_control_symbol: 854/10/4 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838/274, 845/10/4, i]'
+title: Ballard to Department of External Affairs
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-07-20
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 125 Ballard to Department of External Affairs
 
 Cablegram 239 BATAVIA, 20 July 1947, 11.40 p.m.
 
@@ -26,7 +31,7 @@ approximately two-thirds thereof, will be made available to the population in Re
 
 (3). I asked Schuurman whether in Dutch view the Linggadjati agreement would continue in existence after the commencement of operations, he said that he did not know but thought that Van Mook would make a statement on that point later. [3]
 
-_
+ _
 
 1 The statement denied any designs on the integrity of the Republic of Indonesia and affirmed the preparedness of the Netherlands Government to come to terms 'assuming that the Republic is supported by the majority of the population and by the ethnical elements composing it'. The Netherlands Government had no choice, however, the statement concluded, other than to resort to 'police measures ... designed to create conditions in the Republic under which the common man can once again hope to follow in freedom his lawful pursuits for his own benefit and for the good of the world at large, creating at the same time the conditions which must enable the principles embodied in the Linggadjati Agreement to come to full fruition'.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A1838/274, 845/10/4, i]_
+ _[AA:A1838/274, 845/10/4, i]_

@@ -1,12 +1,18 @@
 ---
-title: "207 Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1961
+doc_date: '1941-12-19'
+doc_num: 207
+doc_order: 208
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3830, 1941, 3539]'
+title: Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister
+  for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-19
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 207 Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram 63 SINGAPORE, 19 December 1941, 8.48 p.m.
 
@@ -28,7 +34,7 @@ Penang is already virtually abandoned but although this is widely known here com
 
 BOWDEN
 
-_
+ _
 
 1 In cablegram 56 of 15 December (on file AA:A1608, J39/2/1) Bowden had reported a lack of confidence in the military situation in Malaya.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA:A3830, 1941, 3539]_
+ _[AA:A3830, 1941, 3539]_

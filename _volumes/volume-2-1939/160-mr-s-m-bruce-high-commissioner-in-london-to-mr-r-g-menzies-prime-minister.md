@@ -1,12 +1,17 @@
 ---
-title: "160 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 497
+doc_date: '1939-08-28'
+doc_num: 160
+doc_order: 160
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP290/6, ITEM 27]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-28
+vol_title: 'Volume 2: 1939'
 ---
-
-# 160 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 362 LONDON, 28 August 1939, 6.55 p.m.
 
@@ -20,7 +25,7 @@ Parliament called for tomorrow. Arrangement arrived at with Labour and Liberal O
 
 BRUCE
 
-_
+ _
 
 1 See Document 161.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA: CP290/6, ITEM 27]_
+ _[AA: CP290/6, ITEM 27]_

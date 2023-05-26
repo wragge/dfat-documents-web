@@ -1,12 +1,18 @@
 ---
-title: "365 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 702
+doc_date: '1939-11-16'
+doc_num: 365
+doc_order: 365
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195]'
+title: Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to
+  Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-16
+vol_title: 'Volume 2: 1939'
 ---
-
-# 365 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Department of External Affairs
 
 Cablegram 78 WASHINGTON, 16 November 1939
 
@@ -20,7 +26,7 @@ Minister's object may have been no more than to stress lack of foundation for re
 
 OFFICER
 
-_
+ _
 
 1 Not found.
 
@@ -32,4 +38,4 @@ Bruce, High Commissioner, and R.G. Casey, Minister for Supply and Development.
 
 _
 
-_ [FA: A3195]_
+ _[FA: A3195]_

@@ -1,12 +1,17 @@
 ---
-title: "340 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2094
+doc_date: '1942-02-17'
+doc_num: 340
+doc_order: 341
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-17
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 340 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 299 WASHINGTON, 17 February 1942, 7.59 p.m.
 
@@ -32,7 +37,7 @@ MOST SECRET
 
 (11) Grateful for earliest possible reply as I believe this matter will be decided within very few days.
 
-_
+ _
 
 1 Franklin D. Roosevelt.
 
@@ -46,4 +51,4 @@ See Document 107, note 8.
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

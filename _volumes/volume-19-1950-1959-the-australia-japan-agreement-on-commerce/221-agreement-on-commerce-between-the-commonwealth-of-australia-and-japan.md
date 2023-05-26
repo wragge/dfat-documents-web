@@ -1,14 +1,19 @@
 ---
-title: "221 Agreement On Commerce Between The Commonwealth Of Australia And Japan"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7826
+doc_date: '1957-07-06'
+doc_num: 221
+doc_order: 221
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DFAT : AUSTRALIAN TREATY COLLECTION]'
+title: Agreement On Commerce Between The Commonwealth Of Australia And Japan
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-07-06
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 221 Agreement On Commerce Between The Commonwealth Of Australia And Japan
-
-## 6th July, 1957
+6th July, 1957
 
 HAKONE
 
@@ -60,8 +65,8 @@ J.M. McEWEN A.S. WATT For the Government of Japan:
 
 KISHI
 
-_
+ _
 
 _
 
-_ [DFAT : AUSTRALIAN TREATY COLLECTION]_
+ _[DFAT : AUSTRALIAN TREATY COLLECTION]_

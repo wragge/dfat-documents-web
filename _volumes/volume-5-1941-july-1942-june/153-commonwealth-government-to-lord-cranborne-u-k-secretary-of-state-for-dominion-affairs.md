@@ -1,12 +1,18 @@
 ---
-title: "153 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1907
+doc_date: '1941-12-02'
+doc_num: 153
+doc_order: 154
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-02
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 153 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 765 [1] CANBERRA, 2 December 1941
 
@@ -48,7 +54,7 @@ It is essential that in the event of Japanese attack on this territory, Britain 
 
 As we have asked, a decision should now be taken in relation to five above types of aggression. Of course, such decision will itself be subject to alteration in the event of change in international or strategic situation.
 
-_
+ _
 
 1 Repeated to the Minister to the United States as no. 136 and to the N.Z. Prime Minister as no. 509. The Prime Minister also instructed the High Commissioner in the United Kingdom to see the Dominions Office copy of this cablegram. See cablegram 7575 of 2 December (AA : A3196, 1941, 0.20471) 2 Document 143.
 
@@ -62,4 +68,4 @@ providing for Joint action in the war against Germany had been signed in Moscow 
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

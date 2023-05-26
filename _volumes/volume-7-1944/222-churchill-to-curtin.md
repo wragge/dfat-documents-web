@@ -1,12 +1,17 @@
 ---
-title: "222 Churchill to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2869
+doc_date: '1944-07-14'
+doc_num: 222
+doc_order: 222
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: no part 3
+  naa_series: A989
+  reference: '[AA:A989, 43/460/10/2, iii]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-14
+vol_title: 'Volume 7: 1944'
 ---
-
-# 222 Churchill to Curtin
 
 Cablegram Winch 2 LONDON, 14 July 1944, 9.40 p.m.
 
@@ -36,8 +41,8 @@ Please cable me of your views. I think the technical people are over-emphasising
 
 CHURCHILL
 
-_
+ _
 
 _
 
-_ [AA:A989, 43/460/10/2, iii]_
+ _[AA:A989, 43/460/10/2, iii]_

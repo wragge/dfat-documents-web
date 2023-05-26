@@ -1,12 +1,17 @@
 ---
-title: "4 Rivett to White"
-volume: "Volume 7: 1944"
-doc_id: 2651
+doc_date: '1944-01-05'
+doc_num: 4
+doc_order: 4
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 5]'
+title: Rivett to White
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-05
+vol_title: 'Volume 7: 1944'
 ---
-
-# 4 Rivett to White
 
 Letter MELBOURNE, 5 January 1944
 

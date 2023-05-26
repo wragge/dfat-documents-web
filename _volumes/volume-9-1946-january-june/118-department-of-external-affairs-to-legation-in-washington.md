@@ -1,12 +1,17 @@
 ---
-title: "118 Department of External Affairs to Legation in Washington"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3630
+doc_date: '1946-03-07'
+doc_num: 118
+doc_order: 118
+naa_refs:
+- naa_barcode: 587471
+  naa_control_symbol: 852/4/1/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838 T189, 852/4/1/1, 1]'
+title: Department of External Affairs to Legation in Washington
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-07
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 118 Department of External Affairs to Legation in Washington
 
 Cablegram 355 CANBERRA, 7 March 1946
 
@@ -24,8 +29,8 @@ Australia's representation on Security Council will be the Australian Minister f
 
 6\. Please also inform Secretary of State and indicate that pending final arrangements it is our understanding that Australian representatives and staff at the site will be accorded the same diplomatic privileges and status as the diplomatic representatives duly accredited to the United States Government.
 
-_
+ _
 
 _
 
-_ [AA:A1838 T189, 852/4/1/1, 1]_
+ _[AA:A1838 T189, 852/4/1/1, 1]_

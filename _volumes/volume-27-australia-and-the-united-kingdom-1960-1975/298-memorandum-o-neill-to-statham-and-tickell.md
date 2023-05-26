@@ -1,14 +1,17 @@
 ---
-title: "298 MEMORANDUM, O'NEILL TO STATHAM AND TICKELL"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10163
+doc_date: '1971-07-16'
+doc_num: 298
+doc_order: 298
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1055]'
+title: MEMORANDUM, O'NEILL TO STATHAM AND TICKELL
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-07-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 298 MEMORANDUM, O'NEILL TO STATHAM AND TICKELL
-
-UKNA: FCO 24/1055 
 
 London, 16 July 1971
 
@@ -16,9 +19,9 @@ Confidential
 
 **Australia and the EEC**
 
-I think Mr Rippon would like to see this letter from Sir M James in Canberra. 1 His conversation with Mr Anthony did not produce anything very new, but may I think have done some good. Two things in it are particularly interesting. First (last sentence of paragraph 3 of record), Mr Anthony’s admission that the fuss he is making is primarily directed to alarming Australian producers so as to make them take the necessary steps to diversify production. Second (last sentence of paragraph 4), Mr Anthony’s admission that it would be wiser to make the best rather than the worst of the undertaking about action to deal with ‘abrupt dislocation’.
+I think Mr Rippon would like to see this letter from Sir M James in Canberra. [1](#f1) His conversation with Mr Anthony did not produce anything very new, but may I think have done some good. Two things in it are particularly interesting. First (last sentence of paragraph 3 of record), Mr Anthony’s admission that the fuss he is making is primarily directed to alarming Australian producers so as to make them take the necessary steps to diversify production. Second (last sentence of paragraph 4), Mr Anthony’s admission that it would be wiser to make the best rather than the worst of the undertaking about action to deal with ‘abrupt dislocation’.
 
-2\. On the whole, it is difficult to refute the Australian case—such as it is. We had hoped to get clearer and more precise arrangements for running down third country supplies over the transitional period. We told Commonwealth representatives this, e.g. on 22 April.2 We did not give them much if any notice of the switch we felt obliged to make at the Ministerial meeting on 11 to 13 May when we had to accept the principle of Community preference from the start.
+2\. On the whole, it is difficult to refute the Australian case—such as it is. We had hoped to get clearer and more precise arrangements for running down third country supplies over the transitional period. We told Commonwealth representatives this, e.g. on 22 April.[2](#f2) We did not give them much if any notice of the switch we felt obliged to make at the Ministerial meeting on 11 to 13 May when we had to accept the principle of Community preference from the start.
 
 3\. Our offence, if it be one, is made worse in Mr Anthony’s eyes by the fact that he seems to have been told by representatives of the Six (paragraph 2 of the record) that ‘we had made virtually no effort to secure better arrangements for third country suppliers’. Unjust though it is, it is not uncharacteristic that representatives of the Six should have given Mr Anthony this impression; it was an easy way to get themselves off the hook, though it would have been fairer for them to have told Mr Anthony that the Community had made it absolutely clear to us that the acceptance of Community preference from the start was a sine qua non of agreement on agricultural transitional arrangements.
 
@@ -29,3 +32,5 @@ I think Mr Rippon would like to see this letter from Sir M James in Canberra. 1 
 1  Document 297. 
 
 2  Document 277. 
+
+[UKNA: FCO 24/1055]

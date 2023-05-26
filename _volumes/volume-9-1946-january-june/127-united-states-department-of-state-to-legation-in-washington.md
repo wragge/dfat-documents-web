@@ -1,12 +1,17 @@
 ---
-title: "127 United States Department of State to Legation in Washington"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3639
+doc_date: '1946-03-14'
+doc_num: 127
+doc_order: 127
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/4]'
+title: United States Department of State to Legation in Washington
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-14
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 127 United States Department of State to Legation in Washington
 
 Memorandum WASHINGTON, 14 March 1946
 
@@ -72,8 +77,8 @@ Attachment II 1. Definition of Admiralty Islands as a strategic area with bounda
 
 6\. The amendment, alteration, or termination of this Trusteeship agreement shall be only by unanimous agreement of the signatories (i.e. the states directly concerned), subject to the approval of the Security Council.
 
-_
+ _
 
 _
 
-_ [AA:A6494 T1, SPTS/1/4]_
+ _[AA:A6494 T1, SPTS/1/4]_

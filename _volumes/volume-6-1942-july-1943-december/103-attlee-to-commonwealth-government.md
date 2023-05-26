@@ -1,12 +1,17 @@
 ---
-title: "103 Attlee to Commonwealth Government"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2394
+doc_date: '1943-01-14'
+doc_num: 103
+doc_order: 103
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1608
+  reference: '[AA:A1608, H33/1/5]'
+title: Attlee to Commonwealth Government
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-01-14
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 103 Attlee to Commonwealth Government
 
 Cablegram 9 LONDON, 14 January 1943, 11.35 p.m.
 
@@ -24,10 +29,10 @@ SECRET
 
 6\. Should be grateful to learn what reply Commonwealth Government wish to be returned to Swiss Government's enquiry.
 
-_ 1 M. J. E. Jalenques was French Consul-in-Charge in London.
+ _1 M. J. E. Jalenques was French Consul-in-Charge in London.
 
 2 President of the Free French National Committee.
 
 _
 
-_ [AA:A1608, H33/1/5]_
+ _[AA:A1608, H33/1/5]_

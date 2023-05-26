@@ -1,14 +1,19 @@
 ---
-title: "118 Record of Meeting held at Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 455
+doc_date: '1939-07-11'
+doc_num: 118
+doc_order: 118
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: CAB 21/893]'
+title: Record of Meeting held at Dominions Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-07-11
+vol_title: 'Volume 2: 1939'
 ---
 
-# 118 Record of Meeting held at Dominions Office
-
-## LONDON, 11 July 1939 SECRET
+LONDON, 11 July 1939 SECRET
 
 THE SITUATION IN THE FAR EAST
 
@@ -50,7 +55,7 @@ THE HIGH COMMISSIONER FOR AUSTRALIA said that he was now clear as to what His Ma
 
 THE SECRETARY OF STATE FOR DOMINION AFFAIRS reiterated that no definite decision had as yet been taken on this point, and undertook to inform the Prime Minister of the desire which the High Commissioner for Australia had expressed to receive definite information as soon as it was available.
 
-_
+ _
 
 1 Sir Thomas Inskip.
 
@@ -74,4 +79,4 @@ _
 
 _
 
-_ [PRO: CAB 21/893]_
+ _[PRO: CAB 21/893]_

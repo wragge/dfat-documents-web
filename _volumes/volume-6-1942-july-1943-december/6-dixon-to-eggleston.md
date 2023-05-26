@@ -1,14 +1,19 @@
 ---
-title: "6 Dixon to Eggleston"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2297
+doc_date: '1942-07-13'
+doc_num: 6
+doc_order: 6
+naa_refs:
+- naa_barcode: 237670
+  naa_control_symbol: 608/1943
+  naa_series: A4144
+  reference: '[AA:A4144, 608 (1942-43)]'
+title: Dixon to Eggleston
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-07-13
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 6 Dixon to Eggleston
-
-## Letter WASHINGTON, 13 July 1942
+Letter WASHINGTON, 13 July 1942
 
 Many thanks for your letter of 10th June [1] enclosing your letter 
 
@@ -142,7 +147,7 @@ difficulties and the want of a solution.
 
 OWEN DIXON
 
-_
+ _
 
 1 Not found.
 
@@ -156,7 +161,7 @@ Representative in the United Kingdom) is on file AA:A4144, 608
 
 _
 
-_
+ _
 
 [AA:A4144, 608 (1942-43)]
 

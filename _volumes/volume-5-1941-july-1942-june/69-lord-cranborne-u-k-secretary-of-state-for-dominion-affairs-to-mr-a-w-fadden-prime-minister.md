@@ -1,12 +1,18 @@
 ---
-title: "69 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1823
+doc_date: '1941-09-14'
+doc_num: 69
+doc_order: 70
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.17883]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-14
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 69 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden, Prime Minister
 
 Cablegram 629 [1] LONDON, 14 September 1941, 7.42 p.m.
 
@@ -16,7 +22,7 @@ My telegram 549 of 7th August. [2]
 
 As you will have seen from my telegram 295 of 6th September [3], we have addressed a note to the Netherlands Minister [4] indicating the extent to which we feel able to meet the Netherlands Government's request for 'ratification' of the staff conversations held at Singapore earlier this year. [5] 2. It is thought that our note removes the obstacle [to] [6] making a specific approach to the Netherlands Government for authority for the despatch of Australian land units to Ambon and Koepang as soon as a further move is made by Japan. In view of developments in the situation both political and military which have taken place since receipt of your telegram 430 of 10th July [7] we should, before taking action in this sense, be glad to learn that it would be in accordance with the Commonwealth Government's wishes. If so we suggest that the formula should be 'whether the Netherlands Government would be prepared in principle to agree to the proposed move before the outbreak of hostilities with Japan in the event of a further deterioration in the situation'. [8]
 
-_
+ _
 
 1 Repeated to the N.Z. Prime Minister as no 363.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA:A3195, 1941, 1.17883]_
+ _[AA:A3195, 1941, 1.17883]_

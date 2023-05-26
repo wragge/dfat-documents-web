@@ -1,12 +1,17 @@
 ---
-title: "274 Note of Meeting of U.K. and Dominions 274 Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 273
+doc_date: '1938-09-24'
+doc_num: 274
+doc_order: 273
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: DO 114/94]'
+title: Note of Meeting of U.K. and Dominions 274 Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-24
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 274 Note of Meeting of U.K. and Dominions 274 Representatives
 
 Extracts LONDON, 24 September 1938, 8.30 p.m.
 
@@ -32,7 +37,7 @@ MR BRUCE thought that the dominant consideration in Australia would be fear of t
 
 It was clear that all the High Commissioners personally were in favour of the German proposals being accepted in the circumstances.
 
-_
+ _
 
 1 Not printed. See PRO: DO 114/94.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [PRO: DO 114/94]_
+ _[PRO: DO 114/94]_

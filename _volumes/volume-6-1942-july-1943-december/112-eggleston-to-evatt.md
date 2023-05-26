@@ -1,14 +1,19 @@
 ---
-title: "112 Eggleston to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2403
+doc_date: '1943-02-02'
+doc_num: 112
+doc_order: 112
+naa_refs:
+- naa_barcode: 237773
+  naa_control_symbol: 1943/NANKING PART 2
+  naa_series: A4231
+  reference: '[AA:A4231, NANKING, 1943]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-02-02
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 112 Eggleston to Evatt
-
-## Dispatch 66 CHUNGKING, 2 February 1943
+Dispatch 66 CHUNGKING, 2 February 1943
 
 During the period in which I have had the honour to act in China as His Majesty's Minister for the Commonwealth of Australia, I have had an opportunity of studying the situation in the Eastern theatre of war and the policies of various Pacific states. I have also seen the reactions of leaders of these states to the statements of war aims or peace objectives which have been issued.
 
@@ -242,7 +247,7 @@ Success will not be realised unless vested and sectional interests are checked a
 
 F. W. EGGLESTON
 
-_
+ _
 
 1 See Document 42, note 6.
 
@@ -254,4 +259,4 @@ _
 
 _
 
-_ [AA:A4231, NANKING, 1943]_
+ _[AA:A4231, NANKING, 1943]_

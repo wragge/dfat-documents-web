@@ -1,12 +1,18 @@
 ---
-title: "514 Mr R. G. Menzies, Prime Minister, to Lt Gen Sir Thomas Blamey, G.O.C. 2nd A.I.F. in the Middle East"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1745
+doc_date: '1941-06-21'
+doc_num: 514
+doc_order: 514
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.8383]'
+title: Mr R. G. Menzies, Prime Minister, to Lt Gen Sir Thomas Blamey, G.O.C. 2nd A.I.F.
+  in the Middle East
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-21
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 514 Mr R. G. Menzies, Prime Minister, to Lt Gen Sir Thomas Blamey, G.O.C. 2nd A.I.F. in the Middle East
 
 Cablegram 13 21 June 1941,
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA: A3196, 1941, 0.8383]_
+_[AA: A3196, 1941, 0.8383]_

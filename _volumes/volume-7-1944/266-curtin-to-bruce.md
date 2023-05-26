@@ -1,16 +1,21 @@
 ---
-title: "266 Curtin to Bruce"
-volume: "Volume 7: 1944"
-doc_id: 2913
+doc_date: '1944-09-01'
+doc_num: 266
+doc_order: 266
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 6]'
+title: Curtin to Bruce
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 266 Curtin to Bruce
 
 Cablegram 125 CANBERRA, 1 September 1944
 
-PERSONAL &amp; SECRET IMMEDIATE
+PERSONAL & SECRET IMMEDIATE
 
 Thank you for your cablegram No. 109 of 28th August [1] on the Dominions Office proposal in D.No. 1195 [2] for discussions on Defence co-operation.
 
@@ -28,7 +33,7 @@ In these circumstances and in the light of the above observations, I should be g
 
 CURTIN
 
-_
+ _
 
 1 Document 262.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 6]_
+ _[AA:A5954, BOX 6]_

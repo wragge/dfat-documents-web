@@ -1,12 +1,17 @@
 ---
-title: "195 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 532
+doc_date: '1939-09-05'
+doc_num: 195
+doc_order: 195
+naa_refs:
+- naa_barcode: 214768
+  naa_control_symbol: '108'
+  naa_series: AA1972/341
+  reference: '[AA:AA1972/341, Box 6, TELEGRAMS ... SEPTEMBER 1939]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-05
+vol_title: 'Volume 2: 1939'
 ---
-
-# 195 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 5 September 1939,
 
@@ -18,10 +23,10 @@ Unnecessary to emphasise the importance of secrecy since any suggestion at prese
 
 MENZIES
 
-_
+ _
 
 1 Document 194 2 Bruce replied on 7 September 1939 that he entirely agreed with Menzies's views and had stressed to the U.K. Government the absolute necessity of avoiding any suggestion of an expeditionary force (see Bruce's cablegram 422, on file AA:A981, War 45B).
 
 _
 
-_ [AA:AA1972/341, Box 6, TELEGRAMS ... SEPTEMBER 1939]_
+ _[AA:AA1972/341, Box 6, TELEGRAMS ... SEPTEMBER 1939]_

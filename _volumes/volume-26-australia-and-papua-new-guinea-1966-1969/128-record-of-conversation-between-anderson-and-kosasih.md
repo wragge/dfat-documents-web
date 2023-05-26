@@ -1,19 +1,23 @@
 ---
-title: "128 Record Of Conversation Between Anderson And Kosasih"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9636
+doc_date: '1967-06-27'
+doc_num: 128
+doc_order: 128
+naa_refs:
+- naa_barcode: 1727609
+  naa_control_symbol: 689/1 PART 3
+  naa_series: A1838
+  reference: '[NAA: A 1838, 689/1 part 3]'
+title: Record Of Conversation Between Anderson And Kosasih
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-06-27
-barcode: 1727609
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 128 Record Of Conversation Between Anderson And Kosasih
 
 Canberra, 27 June 1967
 
 Confidential
 
-In conversation at a social function, the Indonesian Ambassador said that he had greatly enjoyed his recent visit to Papua — New Guinea1 and had been impressed by the effort Australia was putting into the development of the Territory. There was no doubt that Australia was doing far more for the Territory than Indonesia was doing for West Irian. At the same time, the Ambassador wondered whether we were not doing too much. However much Australia put into the Territory, its efforts were bound to be criticized at the United Nations as inadequate, while the widening disparity between conditions in the Territory and conditions in West Irian could lead to a bigger influx of people leaving West Irian for the Territory. Some of these people, although having lower living standards, would have a higher political consciousness than the people on the Australian side, and could prove troublesome.
+In conversation at a social function, the Indonesian Ambassador said that he had greatly enjoyed his recent visit to Papua — New Guinea[1](#f1) and had been impressed by the effort Australia was putting into the development of the Territory. There was no doubt that Australia was doing far more for the Territory than Indonesia was doing for West Irian. At the same time, the Ambassador wondered whether we were not doing too much. However much Australia put into the Territory, its efforts were bound to be criticized at the United Nations as inadequate, while the widening disparity between conditions in the Territory and conditions in West Irian could lead to a bigger influx of people leaving West Irian for the Territory. Some of these people, although having lower living standards, would have a higher political consciousness than the people on the Australian side, and could prove troublesome.
 
 2\. I said that the Australian Government did not want to see any increase in the numbers of people seeking to enter the Territory from West Irian. As the Ambassador knew, the authorities in the Territory had turned back the great majority of the people who had tried to enter the Territory in recent months. It was in the interests of both our Governments to keep this movement within bounds and so far as possible to reduce it. But I did not think that a reduction in the present scale of Australian assistance to the Territory was practicable. It might be better to try reducing the gap by improving conditions in West Irian as Indonesia’s own economic position improved and perhaps with some degree of international assistance.
 
@@ -23,8 +27,8 @@ In conversation at a social function, the Indonesian Ambassador said that he had
 
 5\. General Kosasih mentioned his idea of an exchange of representatives of the respective administrations between Sukarnapura and Port Moresby, saying that they should be ‘technicians’ rather than government representatives as such. An Indonesian technician could learn a great deal in Port Moresby that would be of great benefit to the Administration in West Irian. (I was able to avoid commenting directly on this suggestion.) General Kosasih again said how much he had enjoyed his visit to Papua– New Guinea and that he would like to go again.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-[ [NAA: A 1838, 689/1 part 3](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1727609) ]
+[NAA: A 1838, 689/1 part 3]
 
 1 See Document 110.

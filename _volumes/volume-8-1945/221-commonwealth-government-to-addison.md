@@ -1,12 +1,17 @@
 ---
-title: "221 Commonwealth Government to Addison"
-volume: "Volume 8: 1945"
-doc_id: 3252
+doc_date: '1945-08-28'
+doc_num: 221
+doc_order: 221
+naa_refs:
+- naa_barcode: 4224457
+  naa_control_symbol: 1945/42
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.22349/50/1]'
+title: Commonwealth Government to Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-28
+vol_title: 'Volume 8: 1945'
 ---
-
-# 221 Commonwealth Government to Addison
 
 Cablegram 255 CANBERRA, 28 August 1945
 
@@ -26,7 +31,7 @@ Far Eastern Advisory Commission.
 
 3\. Clause VI of terms of reference (your D.1538) giving the right to terminate the Commission at the will of any one of the Four Powers is in our view unnecessary and unjustifiable. This is surely the veto carried to its most illogical conclusion.
 
-_
+ _
 
 1 Document 212.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.22349/50/1]_
+ _[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.22349/50/1]_

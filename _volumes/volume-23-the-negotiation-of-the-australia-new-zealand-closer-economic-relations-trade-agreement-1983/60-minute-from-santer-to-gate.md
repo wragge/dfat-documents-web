@@ -1,12 +1,19 @@
 ---
-title: "60 Minute from Santer to Gate"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8930
+doc_date: '1980-02-12'
+doc_num: 60
+doc_order: 60
+naa_refs:
+- naa_barcode: 1389687
+  naa_control_symbol: 370/1/19/18 PART 15
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, xv]'
+title: Minute from Santer to Gate
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-02-12
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 60 Minute from Santer to Gate
 
 Canberra, 12 February 1980
 
@@ -28,4 +35,4 @@ In view of the need to have Australian industry's concurrence to new development
 
 
 
-_[NAA: A1838, 370/1119/18, xv]_
+ _[NAA: A1838, 370/1119/18, xv]_

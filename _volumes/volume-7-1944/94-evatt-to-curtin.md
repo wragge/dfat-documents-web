@@ -1,14 +1,19 @@
 ---
-title: "94 Evatt to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2741
+doc_date: '1944-03-24'
+doc_num: 94
+doc_order: 94
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, Box 646]'
+title: Evatt to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-24
+vol_title: 'Volume 7: 1944'
 ---
 
-# 94 Evatt to Curtin
-
-## Letter CANBERRA, 24 March 1944
+Letter CANBERRA, 24 March 1944
 
 I have received your letter of 13th March, 1944 [1], regarding certain arrangements for the forthcoming conference of Prime Ministers in London.
 
@@ -46,7 +51,7 @@ I will be glad to have your views on the subject of this letter so that any nece
 
 H. V. EVATT
 
-_
+ _
 
 1 This letter referred to Cranborne's cablegram D335 of 5 March which suggested certain subjects for the agenda of the Prime Ministers' meeting. On file AA:A5954, box 646.
 
@@ -62,4 +67,4 @@ _
 
 _
 
-_ [AA:A5954, Box 646]_
+ _[AA:A5954, Box 646]_

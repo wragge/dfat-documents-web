@@ -1,14 +1,19 @@
 ---
-title: "41 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1272
+doc_date: '1940-07-30'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, 1.6060]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-30
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 41 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram unnumbered LONDON, 30 July 1940, 4.27 [p.m.]
+Cablegram unnumbered LONDON, 30 July 1940, 4.27 [p.m.]
 
 United Kingdom Food policy. My telegram 23rd July. [1] I have now received from Woolton 12] a considered reply [3] of which the following is a summary:-
 
@@ -32,7 +37,7 @@ No wish you should increase lard production but subject to prices prepared to ta
 
 I have advised Woolton that I have cabled summary to you, and pending your comments do not propose to reply to points he makes.
 
-_
+ _
 
 1 On file AA: AA1973/362, Box 46, item A39.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A3195, 1940, 1.6060]_
+ _[AA:A3195, 1940, 1.6060]_

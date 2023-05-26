@@ -1,12 +1,17 @@
 ---
-title: "7 Makin to Burton"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6722
+doc_date: '1948-09-08'
+doc_num: 7
+doc_order: 7
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1948, I.14599]'
+title: Makin to Burton
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-09-08
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 7 Makin to Burton
 
 Cablegram 1006, WASHINGTON, 8 September 1948, 7.17 p.m.
 
@@ -18,6 +23,6 @@ United States have not yet determined their course, but did not wish their silen
 
 It seems to the United States authorities that Dr. Evatt is only outstanding candidate available at present. However, position of the United States will not be determined until Delegation meets in Paris.
 
-__
+ __
 
-_ [AA : A3195, 1948, I.14599]_
+ _[AA : A3195, 1948, I.14599]_

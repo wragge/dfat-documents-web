@@ -1,12 +1,17 @@
 ---
-title: "201 Anderson to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2848
+doc_date: '1944-06-21'
+doc_num: 201
+doc_order: 201
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 3]'
+title: Anderson to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-21
+vol_title: 'Volume 7: 1944'
 ---
-
-# 201 Anderson to Curtin
 
 Message [LONDON], 21 June 1944
 
@@ -24,7 +29,7 @@ TOP SECRET
 
 6\. Whilst it is not at present proposed to acquire supplies of monazite for its thorium content it is important that it should not be allowed to fall into undesirable hands. I should therefore be grateful if you would let me know whether you think that steps could be taken either to control concessions to work these deposits or to regulate the export so that no undesirable destination could be fed even in small quantities. In choosing which method of control to follow it would of course be necessary to have regard to the desirability of taking this action as unobtrusively as possible.
 
-_
+ _
 
 1 Undated. On file AA:A461, C373/1/4, ii. A copy taken by Bruce, dated 15 May, is on file AA:M100, May 1944.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [CSIRO ARCHIVES:SERIES 380, ITEM 3]_
+ _[CSIRO ARCHIVES:SERIES 380, ITEM 3]_

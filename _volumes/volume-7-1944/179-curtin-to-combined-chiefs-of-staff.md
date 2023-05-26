@@ -1,12 +1,18 @@
 ---
-title: "179 Curtin to Combined Chiefs of Staff"
-volume: "Volume 7: 1944"
-doc_id: 2826
+doc_date: '1944-06-02'
+doc_num: 179
+doc_order: 179
+naa_refs:
+- naa_barcode: 1351791
+  naa_control_symbol: 265C
+  naa_series: A3300
+  reference: '[AA:A3300/TI, 1944 WAR:AUSTRALIAN EFFORT. DISCUSSIONS WITH COMBINED
+    CHIEFS OF STAFF]'
+title: Curtin to Combined Chiefs of Staff
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-02
+vol_title: 'Volume 7: 1944'
 ---
-
-# 179 Curtin to Combined Chiefs of Staff
 
 Memorandum WASHINGTON, 2 June 1944
 
@@ -58,10 +64,10 @@ Mr. Churchill emphasised that agreement to this action does not imply any commit
 
 9\. As Australia is in a sphere of American strategic responsibility, Mr. Churchill agreed that I should discuss the matter in Washington.
 
-_ COMBINED CHIEFS OF STAFF]
+ _
 
 1 Document 161.
 
 _
 
-_ [AA:A3300/TI, 1944 WAR:AUSTRALIAN EFFORT. DISCUSSIONS WITH_
+ _[AA:A3300/TI, 1944 WAR:AUSTRALIAN EFFORT. DISCUSSIONS WITH COMBINED CHIEFS OF STAFF]_

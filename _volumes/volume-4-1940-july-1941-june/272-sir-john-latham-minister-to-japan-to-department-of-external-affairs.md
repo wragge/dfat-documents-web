@@ -1,14 +1,19 @@
 ---
-title: "272 Sir John Latham, Minister to Japan, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1503
+doc_date: '1941-02-04'
+doc_num: 272
+doc_order: 272
+naa_refs:
+- naa_barcode: 176213
+  naa_control_symbol: FAR 14 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 14A]'
+title: Sir John Latham, Minister to Japan, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 272 Sir John Latham, Minister to Japan, to Department of External Affairs
-
-## Cablegram 68 TOKYO, 4 February 1941, 10.45 p.m.
+Cablegram 68 TOKYO, 4 February 1941, 10.45 p.m.
 
 Repeated to Washington 12; London 12.
 
@@ -36,7 +41,7 @@ In making the above recommendations I realize the many other preoccupations of t
 
 LATHAM
 
-_
+ _
 
 1 Dispatched 29 January. It reported rumours that Japan might demand bases at Camranh Bay in Indo-China and Songkhla in Thailand and suggested that if the rumours proved true he (Latham) should protest to the Japanese Vice Minister for Foreign Affairs, Chuichi Ohashi. See file AA:A981, Japan 185D, i.
 
@@ -58,4 +63,4 @@ Ambassador to Japan, Sir Robert Craigie, and, if it seemed appropriate, to ask O
 
 _
 
-_ [AA:A981, FAR EAST 14A]_
+ _[AA:A981, FAR EAST 14A]_

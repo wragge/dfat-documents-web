@@ -1,12 +1,17 @@
 ---
-title: "279 Minute, Rowland To Osborn"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9787
+doc_date: '1969-06-04'
+doc_num: 279
+doc_order: 279
+naa_refs:
+- naa_barcode: 1509648
+  naa_control_symbol: 3036/14/1/6 PART 8
+  naa_series: A1838
+  reference: '[NAA: Al838, 3036/14/1/6 part 8]'
+title: Minute, Rowland To Osborn
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-06-04
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 279 Minute, Rowland To Osborn
 
 Canberra, 4 June 1969
 
@@ -14,7 +19,7 @@ Secret
 
 **West Irian border**
 
-My understanding of where we got to at yesterday’s meeting with Territories is this. 1
+My understanding of where we got to at yesterday’s meeting with Territories is this. [1](#f1)
 
 Under existing legislation and ordinances the Administration has full power to detain illegal immigrants or to place restrictions on their residence, or to make them report to the police at regular intervals (both as conditions of temporary entry permit).
 
@@ -24,7 +29,7 @@ In practice, none of the West lrianese have shown a tendency to contest what the
 
 When a number of West Irianese cross the border, some will not stay and will go back very quickly, without ever having been questioned.
 
-Others will ask to stay. They will first be asked why they left West Irian. If they reply that they are freedom fighters and hate all Indonesians, they will be put into Yako reception centre (or other such centres)2 and kept there. The fortnight’s quarantine offers a convenient way of doing this {initially}; otherwise they could in fact be legally detained if necessary.
+Others will ask to stay. They will first be asked why they left West Irian. If they reply that they are freedom fighters and hate all Indonesians, they will be put into Yako reception centre (or other such centres)[2](#f2) and kept there. The fortnight’s quarantine offers a convenient way of doing this {initially}; otherwise they could in fact be legally detained if necessary.
 
 The meeting did not discuss what would happen to those who did not claim to be persecuted; but they would presumably simply be asked to return and put back across the border as soon as possible. Those who were received in the reception centre would then be sorted as quickly as possible, and identified political activists removed to Manus or some other centre further from the border.
 
@@ -38,7 +43,7 @@ It was accepted that the reception centres must not be open to the charge that t
 
 I think it was also accepted that we would not want to make matyrs by handing back to the Indonesians people who were declared political activists, whether from our own point of view (including that of the House of Assembly in TPNG) or from the point of view of the Indonesians: a system of neutralising such people by restrictive residence or even detention would be better.
 
-It was agreed the main problem related to the period from now until after the act of ascertainment: after it was over we could think again and face the problems that might then arise when we came to them.3
+It was agreed the main problem related to the period from now until after the act of ascertainment: after it was over we could think again and face the problems that might then arise when we came to them.[3](#f3)
 
 [NAA: Al838, 3036/14/1/6 part 8]
 
@@ -46,4 +51,4 @@ It was agreed the main problem related to the period from now until after the ac
 
 2  That is, centres in the border area. 
 
-3  A further DEA–Territories meeting was held on 11 July, during which the situation in the border camps and on Manus was discussed. The activities of specific permissive residents and activists was also reviewed. On the expiry of permits, the record reads: ‘[1] all permits expire at the end of 1969: better assessment of which should be renewed will be possible when some time after Act of Free Choice has elapsed. [2] probable that in time many West lrianese will return of their own accord when matters settle down in West Irian. [3] Mr. Burgess pointed out that Netherlands has negotiated with Indonesia about return of West Irianese now in Holland who were Dutch sympathisers: Australia might negotiate with Indonesia for return of West Irianese provided there were suitable guarantees of safety. [4] Mr. Hayes thought it unlikely that [the] hard core ... would move where their pension from the Dutch would cease’ (notes of meeting, NAA: A452, 1967/4460). 
+3  A further DEA–Territories meeting was held on 11 July, during which the situation in the border camps and on Manus was discussed. The activities of specific permissive residents and activists was also reviewed. On the expiry of permits, the record reads: ‘[1] all permits expire at the end of 1969: better assessment of which should be renewed will be possible when some time after Act of Free Choice has elapsed. [2] probable that in time many West lrianese will return of their own accord when matters settle down in West Irian. [3] Mr. Burgess pointed out that Netherlands has negotiated with Indonesia about return of West Irianese now in Holland who were Dutch sympathisers: Australia might negotiate with Indonesia for return of West Irianese provided there were suitable guarantees of safety. [4] Mr. Hayes thought it unlikely that [the] hard core ... would move where their pension from the Dutch would cease’ (notes of meeting, NAA: A452, 1967/4460).

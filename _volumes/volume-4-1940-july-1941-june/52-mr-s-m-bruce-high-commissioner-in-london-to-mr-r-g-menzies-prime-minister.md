@@ -1,12 +1,17 @@
 ---
-title: "52 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1283
+doc_date: '1940-08-06'
+doc_num: 52
+doc_order: 52
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR FAST 20B, i]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-06
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 52 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 641 LONDON, 6 August 1940, 6.09 p.m.
 
@@ -58,7 +63,7 @@ But is this so? Have either we or the Americans in the discussions that have tak
 
 BRUCE
 
-_
+ _
 
 1 U.K. Foreign Secretary.
 
@@ -72,4 +77,4 @@ _
 
 _
 
-_ [AA:A981, FAR FAST 20B, i]_
+ _[AA:A981, FAR FAST 20B, i]_

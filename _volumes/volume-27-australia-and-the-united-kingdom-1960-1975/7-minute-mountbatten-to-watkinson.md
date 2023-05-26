@@ -1,20 +1,23 @@
 ---
-title: "7 MINUTE, MOUNTBATTEN TO WATKINSON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9874
+doc_date: '1961-06-26'
+doc_num: 7
+doc_order: 7
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DEFE 7/ 1726]'
+title: MINUTE, MOUNTBATTEN TO WATKINSON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-06-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 7 MINUTE, MOUNTBATTEN TO WATKINSON
-
-UKNA: DEFE 7/ 1726
 
 London, 26 June 1961
 
 Secret
 
-****
+ ****
 
 Base Facilities in Australia
 
@@ -28,13 +31,13 @@ At your recent meetings with Mr. Townley, he emphasised that we should make an e
 > 
 > (c) A suitable fleet anchorage and the use of emergency naval repair facilities.
 > 
-> (d) An allocation of frontage on Cockburn Sound.2
+> (d) An allocation of frontage on Cockburn Sound.[2](#f2)
 > 
 > (e) Facilities for headquarters, communications, training areas, and accommodation and amenities to scale.
 > 
 > (f) Certain base repair and storage facilities which would probably include maintenance and servicing of guided missiles, aircraft third line servicing, and storage for nuclear weapons.
 
-3\. As you are aware, Mr. Townley has two reasons for urging H.M. Government to make an early bid for base facilities; first, the desirability of obtaining agreement in writing from the present Australian Government before the forthcoming elections,3 and secondly, the necessity of obtaining an allocation of frontage on Cockburn Sound which was already undergoing rapid development. We cannot judge the force of Mr. Townley’s arguments, but we see danger in pressing on too fast, for although our future security of tenure in Singapore may be in doubt, we have no intention of leaving the base until we are forced to do so. If we discuss alternatives to Singapore we might not only create a false impression as to our real desires, but might also prematurely set in motion the very thing which we wish to avoid. Accordingly, the timing of any submission to the Australian Government will need careful consideration.
+3\. As you are aware, Mr. Townley has two reasons for urging H.M. Government to make an early bid for base facilities; first, the desirability of obtaining agreement in writing from the present Australian Government before the forthcoming elections,[3](#f3) and secondly, the necessity of obtaining an allocation of frontage on Cockburn Sound which was already undergoing rapid development. We cannot judge the force of Mr. Townley’s arguments, but we see danger in pressing on too fast, for although our future security of tenure in Singapore may be in doubt, we have no intention of leaving the base until we are forced to do so. If we discuss alternatives to Singapore we might not only create a false impression as to our real desires, but might also prematurely set in motion the very thing which we wish to avoid. Accordingly, the timing of any submission to the Australian Government will need careful consideration.
 
 4\. No doubt you will wish to consult with the Secretary of State for the Colonies and the Secretary of State for Commonwealth Relations to decide the best manner in which to bring our requirements to the attention of the Australian Government. In this connection, we understand that the Commonwealth Relations Office intend to provide Mr. Sandys with a defensive brief for use during his forthcoming visit to Australia in case the question of base facilities should be raised by Mr. Townley.
 
@@ -45,3 +48,5 @@ At your recent meetings with Mr. Townley, he emphasised that we should make an e
 2  An inlet of the Indian Ocean on the coast of Western Australia, south of Perth. It extends south of the Swan River at Fremantle for 25 kilometres to Point Peron near Rockingham. 
 
 3  A federal election was held on 9 December 1961 and the Menzies Government was returned with a two-seat majority. 
+
+[UKNA: DEFE 7/ 1726]

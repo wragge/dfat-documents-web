@@ -1,12 +1,17 @@
 ---
-title: "184 Broadcast Message by Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 521
+doc_date: '1939-09-02'
+doc_num: 184
+doc_order: 184
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Broadcast Message by Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-02
+vol_title: 'Volume 2: 1939'
 ---
-
-# 184 Broadcast Message by Mr R.G. Menzies, Prime Minister
 
 2 September 1939, shortly after 3 a.m.
 
@@ -28,8 +33,8 @@ To dismiss the possibilities of settlement and to accompany acts of aggressive w
 
 If this crime has really been committed-as I fear it has-then the people of our race will go to war with a clear conscience, with confidence in the righteousness of their cause and with a feeling of absolute assurance that justice, reason, and honest dealing cannot be overthrown, and that we cannot be defeated in their defence.
 
-_
+ _
 
 _
 
-_ [REPORTED IN 'SYDNEY MORNING HERALD', 2 SEPTEMBER 1939, P. 17]_
+ _[REPORTED IN 'SYDNEY MORNING HERALD', 2 SEPTEMBER 1939, P. 17]_

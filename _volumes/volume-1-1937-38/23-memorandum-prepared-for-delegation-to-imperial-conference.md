@@ -1,12 +1,17 @@
 ---
-title: "23 Memorandum prepared for Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 23
+doc_date: '1937-05-11'
+doc_num: 23
+doc_order: 23
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A2938
+  reference: '[FA : A2938, THE FOREIGN SITUATION-MAY 1937]'
+title: Memorandum prepared for Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-05-11
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 23 Memorandum prepared for Delegation to Imperial Conference
 
 LONDON, 11 May 1937
 
@@ -42,7 +47,7 @@ U.S.A.
 
 8\. The present attitude of the United States in international affairs has been confirmed by the passage (April) of a new Neutrality Act in terms reasserting the mandatory function of the President in prohibiting the export of arms or munitions to belligerents. The Act represents something short of extreme isolationism, however, in its provisions allowing the President certain discretionary authority in prohibiting general exports to a belligerent. [8]
 
-_
+ _
 
 1 Sir Eric Phipps.
 
@@ -64,4 +69,4 @@ Leader of the Labour Party 1931-35; visited Hitler 19 April 1937 and Mussolini 8
 
 _
 
-_ [FA : A2938, THE FOREIGN SITUATION-MAY 1937]_
+ _[FA : A2938, THE FOREIGN SITUATION-MAY 1937]_

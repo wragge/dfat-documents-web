@@ -1,12 +1,17 @@
 ---
-title: "217 Curtin to Bruce"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2508
+doc_date: '1943-06-09'
+doc_num: 217
+doc_order: 217
+naa_refs:
+- naa_barcode: 4212689
+  naa_control_symbol: 1943/32
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.15601/25]'
+title: Curtin to Bruce
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-06-09
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 217 Curtin to Bruce
 
 Cablegram 86 CANBERRA, 9 June 1943
 
@@ -42,7 +47,7 @@ aspirations and ensure the security not only of Russia but of Europe generally. 
 
 (7) In substance I view with doubt any discussions having for their purport a semi-secret understanding with the Soviet about European partitioning on the lines of the Italian arrangements in the last war. And therefore I consider that we should treat Russia as a powerful Ally bound by the same general considerations which we put openly to the world.
 
-_ 1 Document 183.
+ _1 Document 183.
 
 2 See Document 183, note 4.
 
@@ -54,4 +59,4 @@ This in turn would encourage Soviet involvement in post-war co- operation with t
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.15601/25]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.15601/25]_

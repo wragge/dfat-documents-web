@@ -1,15 +1,19 @@
 ---
-title: "197 Submission 593 By Mcewen To Cabinet"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7802
+doc_date: '1957-04-03'
+doc_num: 197
+doc_order: 197
+naa_refs:
+- naa_barcode: 4714891
+  naa_control_symbol: '593'
+  naa_series: A4926
+  reference: '[AA : A4926, VOLUME 24]'
+title: Submission 593 By Mcewen To Cabinet
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-04-03
-barcode: 428852
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 197 Submission 593 By Mcewen To Cabinet
-
-## 3rd April, 1957
+3rd April, 1957
 
 CANBERRA
 
@@ -201,7 +205,7 @@ surplus arrangements or unfair trade practices by competitors;
 
 43\. Submitted for the information of Ministers in accordance with Cabinet Decision 203 of 21st May, 1956.
 
-_ 1 Document 135.
+ _1 Document 135.
 
 2 See Document 153.
 
@@ -211,4 +215,4 @@ _ 1 Document 135.
 
 _
 
-_ [ [AA : A4926, VOLUME 24](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=428852) ]_
+ _[AA : A4926, VOLUME 24]_

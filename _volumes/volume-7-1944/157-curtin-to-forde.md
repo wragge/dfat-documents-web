@@ -1,12 +1,17 @@
 ---
-title: "157 Curtin to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2804
+doc_date: '1944-05-18'
+doc_num: 157
+doc_order: 157
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 469]'
+title: Curtin to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 157 Curtin to Forde
 
 Cablegram 28 LONDON, 18 May 1944,12.40 a.m.
 
@@ -36,7 +41,7 @@ Our manpower position as I see it in the light of the discussions which I have h
 
 CURTIN
 
-_
+ _
 
 1 Document 128.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 469]_
+ _[AA:A5954, BOX 469]_

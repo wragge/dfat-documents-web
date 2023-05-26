@@ -1,12 +1,18 @@
 ---
-title: "204 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 541
+doc_date: '1939-09-06'
+doc_num: 204
+doc_order: 204
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: FO 371/23966]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
+  Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-06
+vol_title: 'Volume 2: 1939'
 ---
-
-# 204 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office
 
 Cablegram 184 (paraphrase) CANBERRA, 6 September 1939
 
@@ -18,7 +24,7 @@ Prime Minister [3] tells me that he warmly welcomes this proposal and that subje
 
 He feels that direct contact between the Dominions as well as with the United Kingdom will strengthen the political structure of the Empire and should be encouraged. He is particularly anxious to work in the closest possible touch with New Zealand.
 
-_
+ _
 
 1 S.M. Bruce, High Commissioner in London.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [PRO: FO 371/23966]_
+ _[PRO: FO 371/23966]_

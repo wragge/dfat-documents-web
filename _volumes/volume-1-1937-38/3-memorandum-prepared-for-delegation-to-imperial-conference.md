@@ -1,14 +1,19 @@
 ---
-title: "3 Memorandum prepared for Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 3
+doc_date: '1937-02-09'
+doc_num: 3
+doc_order: 3
+naa_refs:
+- naa_barcode: 232378
+  naa_control_symbol: '7'
+  naa_series: A2938
+  reference: '[FA: A 2938, GERMANY. QUESTION OF COLONIES]'
+title: Memorandum prepared for Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-02-09
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 3 Memorandum prepared for Delegation to Imperial Conference
-
-## Extract n.d. [before 9 February 1937 [1]]
+Extract n.d. [before 9 February 1937 [1]]
 
 GERMANY-QUESTION OF COLONIES
 

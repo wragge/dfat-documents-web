@@ -1,12 +1,17 @@
 ---
-title: "24 Commonwealth Government to Cranborne"
-volume: "Volume 8: 1945"
-doc_id: 3055
+doc_date: '1945-02-05'
+doc_num: 24
+doc_order: 24
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA: A5954, BOX 673]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-02-05
+vol_title: 'Volume 8: 1945'
 ---
-
-# 24 Commonwealth Government to Cranborne
 
 Cablegram 29 CANBERRA, 5 February 1945
 
@@ -20,7 +25,7 @@ We recognise the possibility of introducing certain safeguards as proposed by yo
 
 We regret therefore that the Australian Government cannot be a party to any arrangement with the Soviet Government which includes a provision such as that in paragraph 4 of your telegram. The only attitude which we feel it possible to take is that we expect and assume that on release Australian prisoners-of-war will automatically resume their military status and that the Soviet authorities will be ready to cooperate in arranging their immediate repatriation.
 
-_
+ _
 
 1 Document 22.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA: A5954, BOX 673]_
+ _[AA: A5954, BOX 673]_

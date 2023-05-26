@@ -1,26 +1,31 @@
 ---
-title: "244 Submission, Jockel To Hasluck"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9752
+doc_date: '1968-12-04'
+doc_num: 244
+doc_order: 244
+naa_refs:
+- naa_barcode: 583787
+  naa_control_symbol: 3034/10/1/4 PART 3
+  naa_series: A1838
+  reference: '[NAA: Al838, 3034/10/1/4 part 3]'
+title: Submission, Jockel To Hasluck
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-12-04
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 244 Submission, Jockel To Hasluck
 
 Canberra, 4 December 1968
 
 Confidential
 
-**Visit by Brigadier-General Sarwo Edhie to T.P.N.G.**
+ **Visit by Brigadier-General Sarwo Edhie to T.P.N.G.**
 
 You may not be familiar with the background of the subject which is briefly summarized below.
 
-2\. On 27th September, the Indonesian Minister for Internal Affairs, Basuki Rachmat, also at the time acting Foreign Minister, told Loveday that he was anxious to discuss with President Soeharto as soon as possible a proposal that the Military Commander of West Irian, General Sarwo Edhie, visit T.P.N.G. He said that he would like advance knowledge that this visit would in fact be acceptable to the Australian Government, and asked if we could reach an early favourable decision and let him know. This approach followed earlier indications, including a public statement by General Edhie himself, that the Indonesians would like such a visit to take place.1
+2\. On 27th September, the Indonesian Minister for Internal Affairs, Basuki Rachmat, also at the time acting Foreign Minister, told Loveday that he was anxious to discuss with President Soeharto as soon as possible a proposal that the Military Commander of West Irian, General Sarwo Edhie, visit T.P.N.G. He said that he would like advance knowledge that this visit would in fact be acceptable to the Australian Government, and asked if we could reach an early favourable decision and let him know. This approach followed earlier indications, including a public statement by General Edhie himself, that the Indonesians would like such a visit to take place.[1](#f1)
 
-3\. In a submission of 2nd October to the Acting Minister,2 the Department recommended that Loveday be instructed to reply along the lines that the Australian Government would be happy to arrange a visit by General Edhie in December if President Soeharto desired it to take place. The main paragraphs of that submission follow:—
+3\. In a submission of 2nd October to the Acting Minister,[2](#f2) the Department recommended that Loveday be instructed to reply along the lines that the Australian Government would be happy to arrange a visit by General Edhie in December if President Soeharto desired it to take place. The main paragraphs of that submission follow:—
 
-> As Military Commander of West Irian, General Edhie is the most important Indonesian Government figure in that Territory. This is because of both the predominant position of the Army in Indonesian affairs and also the leading role which the military has played in West Irian since Indonesia assumed control in 1963. The civilian Governor of West Irian,3 an indigenous West Irianese, is of little consequence. It is expected that General Edhie will remain in his present position for some time, and certainly over the period leading up to the ‘act of self-determination’ which Indonesia is obliged to carry out in West Irian before the end of 1969.
+> As Military Commander of West Irian, General Edhie is the most important Indonesian Government figure in that Territory. This is because of both the predominant position of the Army in Indonesian affairs and also the leading role which the military has played in West Irian since Indonesia assumed control in 1963. The civilian Governor of West Irian,[3](#f3) an indigenous West Irianese, is of little consequence. It is expected that General Edhie will remain in his present position for some time, and certainly over the period leading up to the ‘act of self-determination’ which Indonesia is obliged to carry out in West Irian before the end of 1969.
 
 > General Edhie is known to be well-disposed towards Australia and has spent a year at Queenscliff Staff College in 1964. (The Commandant of the College at the time, Brigadier Hunter, is now Commanding Officer of the Pacific Islands Regiment in T.P.N.G.) In subsequent years he has acquired a reputation for honesty and strong leadership and was the leading military commander in the Djakarta area in anti-communist operations after the September 1965 coup. He will be playing a key role in the events surrounding next year’s ‘act of self-determination’.
 
@@ -28,15 +33,15 @@ You may not be familiar with the background of the subject which is briefly summ
 
 > Our Ambassador in Djakarta has commented that there would be advantages in a visit by General Edhie to T.P.N.G., provided it is carried out fairly soon. If it is not undertaken soon it will become harder to arrange it later as the problems associated with carrying out the ‘act of self-determination’ will tend to make West Irian questions as a whole more sensitive politically as time goes on.
 
-> Departmentally we favour an early visit by General Edhie. While General Edhie would not be going to look into the question of West Irian refugees and similar matters of border control, the contacts he would have with Administration officials would assist in his gaining an appreciation of our point of view, of our good faith in the matter, and of our efforts to prevent difficulties and frictions arising between Australia and Indonesia on account of New Guinea matters. Furthermore, a tour of familiarization of T.P.N.G. (as well as being something which can be presented publicly as quite normal) could help him in his responsibilities in West Irian. It is important that the Indonesians appreciate the rate of development and the effort being put into T.P.N.G. An exposure to the realities of Australia’s development effort in T.P.N.G. could influence General Edhie to urge his own Government to do more for the development of West Irian. None of these reasons is compelling in itself, but they add up to a sufficient case for agreeing to the visit. Not the least important consideration is that the Indonesians at a high level are interested in the visit and we would not wish to put them off without good reason.4
+> Departmentally we favour an early visit by General Edhie. While General Edhie would not be going to look into the question of West Irian refugees and similar matters of border control, the contacts he would have with Administration officials would assist in his gaining an appreciation of our point of view, of our good faith in the matter, and of our efforts to prevent difficulties and frictions arising between Australia and Indonesia on account of New Guinea matters. Furthermore, a tour of familiarization of T.P.N.G. (as well as being something which can be presented publicly as quite normal) could help him in his responsibilities in West Irian. It is important that the Indonesians appreciate the rate of development and the effort being put into T.P.N.G. An exposure to the realities of Australia’s development effort in T.P.N.G. could influence General Edhie to urge his own Government to do more for the development of West Irian. None of these reasons is compelling in itself, but they add up to a sufficient case for agreeing to the visit. Not the least important consideration is that the Indonesians at a high level are interested in the visit and we would not wish to put them off without good reason.[4](#f4)
 
-4\. On 21st October, Loveday discussed the proposed visit with Malik, making the point that the visit would not be for the purpose of discussion of basic policy on the handling of the West Irianese refugee problem. Malik readily accepted this point and said that it was important to handle the visit correctly. He did not think that it should include the border areas. He thought it would be a very good idea for General Edhie to make the trip (the more facts people knew the better) and that he would strongly recommend the visit to President Soeharto.5
+4\. On 21st October, Loveday discussed the proposed visit with Malik, making the point that the visit would not be for the purpose of discussion of basic policy on the handling of the West Irianese refugee problem. Malik readily accepted this point and said that it was important to handle the visit correctly. He did not think that it should include the border areas. He thought it would be a very good idea for General Edhie to make the trip (the more facts people knew the better) and that he would strongly recommend the visit to President Soeharto.[5](#f5)
 
 5\. On 7th November, Malik told Loveday that it appeared unlikely that the visit could be made this year as General Edhie would be very busy following up indications that the two main rebels in West Irian were prepared to give themselves up. Malik said that he would let Loveday know if and when the visit to T.P.N.G. was convenient.
 
-6\. On 28th November, Loveday reported that despite Malik’s advice on 7th November, there were now indications at the Army level that Edhie was hoping to commence a visit to T.P.N.G. on 9th December. This was still tentative, as President Soeharto had not yet approved the visit, nor had formal advice through the Foreign Ministry been received. On 29th November, however, General Soepardjo of the Foreign Ministry6 told Loveday that the President had approved General Edhie’s visit to T.P.N.G. subject to final approval by the Army Commander. This was given on 2nd December.
+6\. On 28th November, Loveday reported that despite Malik’s advice on 7th November, there were now indications at the Army level that Edhie was hoping to commence a visit to T.P.N.G. on 9th December. This was still tentative, as President Soeharto had not yet approved the visit, nor had formal advice through the Foreign Ministry been received. On 29th November, however, General Soepardjo of the Foreign Ministry[6](#f6) told Loveday that the President had approved General Edhie’s visit to T.P.N.G. subject to final approval by the Army Commander. This was given on 2nd December.
 
-7\. The Administration has advised that it can handle a visit of about five days, commencing on 9th December, and including Port Moresby, Lae, Goroka and Wewak. The Embassy in Djakarta is discussing details of the visit with the Indonesians on this basis.7
+7\. The Administration has advised that it can handle a visit of about five days, commencing on 9th December, and including Port Moresby, Lae, Goroka and Wewak. The Embassy in Djakarta is discussing details of the visit with the Indonesians on this basis.[7](#f7)
 
 [NAA: Al838, 3034/10/1/4 part 3]
 

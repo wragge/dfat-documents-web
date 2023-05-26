@@ -1,20 +1,25 @@
 ---
-title: "275 Cabinet Submission by Evatt"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6990
+doc_date: '1948-06-14'
+doc_num: 275
+doc_order: 275
+naa_refs:
+- naa_barcode: 227879
+  naa_control_symbol: VOLUME 11
+  naa_series: A2700
+  reference: '[AA : A2700, VOL. 11]'
+title: Cabinet Submission by Evatt
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1947-07-01
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 275 Cabinet Submission by Evatt
 
 Agendum 695F, CANBERRA, [14] June 1948
 
 CONFIDENTIAL
 
-POST-UNRRA RELIEF Cabinet decided in May 1947[1] that Australia should join the International Refugee Organisation, and accordingly �8[6]0,000 was paid to cover our contribution for the financial year 1st July 1947 to 30th June 1948. Our contribution for 1948/49 is now becoming due and this raises the question of future relief contributions of Australia.
+POST-UNRRA RELIEF Cabinet decided in May 1947[1] that Australia should join the International Refugee Organisation, and accordingly £8[6]0,000 was paid to cover our contribution for the financial year 1st July 1947 to 30th June 1948. Our contribution for 1948/49 is now becoming due and this raises the question of future relief contributions of Australia.
 
-2\. On 12th May, 1947, Cabinet approved a contribution of �4m. to Post-UNRRA Relief[2] and in January of this year agreed that the allocation should be as follows:-
+2\. On 12th May, 1947, Cabinet approved a contribution of £4m. to Post-UNRRA Relief[2] and in January of this year agreed that the allocation should be as follows:-
 
 � (a) International Children's Emergency Fund 1,000,000 (b) International Refugee Organisation 860,000 (c) United Nations Educational, Scientific and Cultural Organisation 90,000 (d) General Post-UNRRA Relief 1,650,000 (e) Freight and contingencies in respect of (b), (c) and (d) 400,000 �4,000,000 3. The Trust Fund set up as a result of this decision will be committed in the next 2 or 3 months and it is now recommended that a further �2.5m. be contributed to Post-UNRRA Relief and that this should be allocated as follows:-
 
@@ -76,7 +81,7 @@ Recommendations 20. (a) That a second contribution be made by Australia to Post-
 
 (e) Prices. That export prices be charged on all goods procured on behalf of the Children's Fund and recipient countries under the general Post-UNRRA Scheme.[3]
 
-_ [1] See Volume 12, Document 75.
+ _[1] See Volume 12, Document 75.
 
 [2] See Volume 12, Document 75.
 
@@ -84,4 +89,4 @@ _ [1] See Volume 12, Document 75.
 
 _
 
-_ [AA : A2700, VOL. 11]_
+ _[AA : A2700, VOL. 11]_

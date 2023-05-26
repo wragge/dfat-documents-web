@@ -1,12 +1,17 @@
 ---
-title: "185 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 184
+doc_date: '1938-04-11'
+doc_num: 185
+doc_order: 184
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-04-11
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 185 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 11 April 1938, 5.52 p.m.
 
@@ -18,10 +23,10 @@ I am in touch with the British Government and the matter is being examined by th
 
 BRUCE
 
-_
+ _
 
 1 Document 181.
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

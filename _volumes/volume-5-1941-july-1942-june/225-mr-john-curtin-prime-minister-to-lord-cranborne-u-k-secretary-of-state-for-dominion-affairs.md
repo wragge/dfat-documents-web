@@ -1,12 +1,18 @@
 ---
-title: "225 Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1979
+doc_date: '1941-12-26'
+doc_num: 225
+doc_order: 226
+naa_refs:
+- naa_barcode: 181021
+  naa_control_symbol: TIM P 3 PART 1
+  naa_series: A981
+  reference: '[AA:A981, TIMOR (PORTUGUESE)3, i]'
+title: Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-26
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 225 Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 831 [1] CANBERRA, 26 December 1941
 
@@ -74,7 +80,7 @@ Because of our limited resources and our wide commitments it is not practicable 
 
 CURTIN
 
-_
+ _
 
 1 Repeated to the N.Z. Prime Minister as no. 554.
 
@@ -112,4 +118,4 @@ _
 
 _
 
-_ [AA:A981, TIMOR (PORTUGUESE)3, i]_
+ _[AA:A981, TIMOR (PORTUGUESE)3, i]_

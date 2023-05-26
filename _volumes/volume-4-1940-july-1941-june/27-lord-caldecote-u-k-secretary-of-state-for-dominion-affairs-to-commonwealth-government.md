@@ -1,12 +1,18 @@
 ---
-title: "27 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1258
+doc_date: '1940-07-17'
+doc_num: 27
+doc_order: 27
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1940, 1.5530 [6]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-17
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 27 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular cablegram D354 LONDON, 17 July 1940, 4.25 a.m.
 
@@ -28,7 +34,7 @@ Hong Kong. We were taking steps to ensure implementation of assurances given to 
 
 As a result of the fall of the Yonai Government, the present position is not clear.
 
-_
+ _
 
 1 AA: A3195, 1940, 1.5425.
 
@@ -44,4 +50,4 @@ _
 
 _
 
-_ [AA: A3195, 1940, 1.5530 [6]]_
+ _[AA: A3195, 1940, 1.5530 [6]]_

@@ -1,12 +1,18 @@
 ---
-title: "123 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6292
+doc_date: '1949-01-20'
+doc_num: 123
+doc_order: 123
+naa_refs:
+- naa_barcode: 274950
+  naa_control_symbol: 403/6/5/1 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838, 403/6/5/1]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-20
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 123 Critchley to Department of External Affairs
 
 Cablegram K252 BATAVIA, 20 January 1949, 2.45 p.m.
 
@@ -40,7 +46,7 @@ Your telegram 16. [1]
 
 (b) Guerilla activities. Guerilla units are active in all areas so that there are very few roads on which Dutch vehicles can safely travel except in armed convoys. A Military Observer team in Central Java reports that a convoy accompanied by Military Observers was ambushed on January 17th. There have been some reports that bridges repaired by day by the Dutch are destroyed by the guerillas each night.
 
-_
+ _
 
 1 In this cablegram, dispatched on 17 January, the Department of External Affairs requested information on the nature of Dutch administration of occupied territories, the state of relations between Republican guerillas and communists and the extent of the 'scorched earth' policy.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [AA : A1838, 403/6/5/1]_
+ _[AA : A1838, 403/6/5/1]_

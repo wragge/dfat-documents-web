@@ -1,12 +1,18 @@
 ---
-title: "383 Memorandum of Understanding"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6159
+doc_date: '1949-11-21'
+doc_num: 383
+doc_order: 383
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A687
+  reference: '[AA:A687, CE160/59/30, iii]'
+title: Memorandum of Understanding
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-11-21
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 383 Memorandum of Understanding
 
 TOKYO, 21 November 1949
 
@@ -34,10 +40,10 @@ Control and Development of Trade 8. Should any Participant have reason to believ
 
 The Sterling Area Working Party 9. The Participants recognize that the Sterling Area Working Party in Tokyo, with the notable inclusion of the Sterling Area Trade Co-ordinator, has performed a most useful function in bringing to their notice the general trends of trade and in dealing with day- to-day problems. They consider that with the experience of the past year to work from and with the improved system of accounts and records now in operation in General Headquarters, SCAP, the value of the Working Party will be increased; and they expect that the Working Party will be able to keep Japan's sterling trade under constant review and to draw the attention of the participating governments to any matters which appear to them to require intergovernmental consultation and action.
 
-_
+ _
 
 1 See Document 375, attachment thereto.
 
 _
 
-_ [AA:A687, CE160/59/30, iii]_
+ _[AA:A687, CE160/59/30, iii]_

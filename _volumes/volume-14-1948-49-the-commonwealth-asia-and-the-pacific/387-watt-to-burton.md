@@ -1,12 +1,18 @@
 ---
-title: "387 Watt to Burton"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6163
+doc_date: '1948-01-21'
+doc_num: 387
+doc_order: 387
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1948 1.1236]'
+title: Watt to Burton
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-01-21
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 387 Watt to Burton
 
 Cablegram 21 Moscow, 21 January 1948, 7.45 p.m.
 
@@ -24,7 +30,7 @@ Moreover, besides legalizing their own territorial acquisitions they probably wi
 
 Please advise.
 
-_
+ _
 
 1 Document 386.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA:A3195, 1948 1.1236]_
+ _[AA:A3195, 1948 1.1236]_

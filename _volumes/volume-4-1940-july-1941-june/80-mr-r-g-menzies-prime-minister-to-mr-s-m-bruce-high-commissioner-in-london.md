@@ -1,12 +1,17 @@
 ---
-title: "80 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1311
+doc_date: '1940-08-24'
+doc_num: 80
+doc_order: 80
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.6195]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-24
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 80 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 118 24 August 1940,
 
@@ -22,8 +27,8 @@ Before proceeding further with this suggestion would like to have your views as 
 
 MENZIES
 
-_
+ _
 
 _
 
-_ [AA:A3196, 1940, 0.6195]_
+ _[AA:A3196, 1940, 0.6195]_

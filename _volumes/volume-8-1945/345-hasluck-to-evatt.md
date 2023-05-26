@@ -1,12 +1,18 @@
 ---
-title: "345 Hasluck to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3376
+doc_date: '1945-10-26'
+doc_num: 345
+doc_order: 345
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU : EVATT COLLECTION, UNITED NATIONS-AUSTRALIAN LEGATION, WASHINGTON-CABLES-OCTOBER-NOVEMBER
+    1945]'
+title: Hasluck to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-26
+vol_title: 'Volume 8: 1945'
 ---
-
-# 345 Hasluck to Evatt
 
 Cablegram 56 LONDON, 26 October 1945, 11.24 a.m.
 
@@ -22,6 +28,6 @@ Therefore, I think their proposal to defer opening of Preparatory Commission is 
 
 Only remaining business of Executive is consideration of final form of recommendations regarding Headquarters and date of Preparatory Commission and we should conclude late on Saturday night.
 
-__
+ __
 
-_ [SFU : EVATT COLLECTION, UNITED NATIONS-AUSTRALIAN LEGATION, WASHINGTON-CABLES-OCTOBER-NOVEMBER 1945]_
+ _[SFU : EVATT COLLECTION, UNITED NATIONS-AUSTRALIAN LEGATION, WASHINGTON-CABLES-OCTOBER-NOVEMBER 1945]_

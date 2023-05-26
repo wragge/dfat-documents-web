@@ -1,26 +1,29 @@
 ---
-title: "56 REPORT BY OFFICIAL COMMITTEE OF CABINET DEFENCE AND OVERSEA POLICY COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9921
+doc_date: '1966-05-10'
+doc_num: 56
+doc_order: 56
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB 148/20]'
+title: REPORT BY OFFICIAL COMMITTEE OF CABINET DEFENCE AND OVERSEA POLICY COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-05-10
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 56 REPORT BY OFFICIAL COMMITTEE OF CABINET DEFENCE AND OVERSEA POLICY COMMITTEE
-
-UKNA: CAB 148/20
 
 London, 10 May 1966
 
 Secret
 
-****
+ ****
 
-Indo–Pacific Policy1
+Indo–Pacific Policy[1](#f1)
 
-_Western Policy_
+ _Western Policy_
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 29\. It is the aim of Western Policy to prevent Chinese control of the whole of South East Asia by the establishment of a bloc of satellites on the analogy of Stalin’s treatment of Eastern Europe in 1944–48. But there is still considerable argument about how this objective can best be achieved.
 
@@ -28,9 +31,9 @@ _Western Policy_
 
 31\. If the main threat in South East Asia is subversion, the best way to counter it is clearly to develop the region’s indigenous strength. But there are different views on how this can best be done. Economic aid will be vital but is not likely by itself to be enough. In South Viet Nam at present, the Americans are not formally allied to the local Government but have nevertheless decided that the only way of sustaining it is to commit large numbers of white troops to counter-insurgency operations on its behalf. Having taken this decision, they are not likely to be deflected by any general arguments which their allies can deploy. But it remains our own view that in the post-colonial atmosphere of South East Asia indigenous strength is more likely to develop effectively on a basis of non-alignment. The countries of South East Asia, individually or in association with one another, will have to progress towards a situation in which they live with the Communist and Western worlds alike, keeping on reasonable terms with both but avoiding satellite dependence on either. Our judgment is that the presence of Western forces on the Asian mainland hinders this development, by driving local nationalists into an unnatural alliance with local communists. But the manner and timing of Western military withdrawal are crucial. A premature withdrawal would leave behind a position of weakness ripe for exploitation by the Chinese Communists. A complete withdrawal from the Indo-Pacific area, leaving China as the only source of major military power, could fatally impair nationalist morale: countervailing Western forces will therefore need to remain available in the background.
 
-32\. For these reasons, present British thinking inclines to the view that Western interests are not best served by the maintenance of military alliances with mainland countries in South East Asia and the forward deployment of Western troops.2 We should prefer to work for a non-aligned South East Asia, with Western forces withdrawn to positions on the periphery. But we recognise that there can be no prospect of making progress in this direction while the United States’ heavy involvement in the Viet Nam war continues and grows heavier. In areas such as Indo-China and Thailand, where United States power is deployed and ours is not, it is the Americans who will effectively decide Western policy for the foreseeable future. Non-alignment could, however, come about with less upheaval on a somewhat narrower front involving only Indonesia, Malaysia and Singapore, where British power at present predominates. Even here, our freedom of action is limited by the importance which the Americans (and Australians) attach to our remaining in Singapore at least so long as the situation in Viet Nam remains unchanged. But we should never lose sight of the fact that our aim is to achieve a lasting settlement between Indonesia and Malaysia. In the long run, we regard this as more important than the retention of our Base in Singapore. We should not therefore object to the eventual emergence of Indonesia, Malaysia and Singapore as a non-aligned bloc, either by agreement among themselves after Confrontation ends or even as part of a phased programme agreed on in principle at the time that Confrontation is wound up.
+32\. For these reasons, present British thinking inclines to the view that Western interests are not best served by the maintenance of military alliances with mainland countries in South East Asia and the forward deployment of Western troops.[2](#f2) We should prefer to work for a non-aligned South East Asia, with Western forces withdrawn to positions on the periphery. But we recognise that there can be no prospect of making progress in this direction while the United States’ heavy involvement in the Viet Nam war continues and grows heavier. In areas such as Indo-China and Thailand, where United States power is deployed and ours is not, it is the Americans who will effectively decide Western policy for the foreseeable future. Non-alignment could, however, come about with less upheaval on a somewhat narrower front involving only Indonesia, Malaysia and Singapore, where British power at present predominates. Even here, our freedom of action is limited by the importance which the Americans (and Australians) attach to our remaining in Singapore at least so long as the situation in Viet Nam remains unchanged. But we should never lose sight of the fact that our aim is to achieve a lasting settlement between Indonesia and Malaysia. In the long run, we regard this as more important than the retention of our Base in Singapore. We should not therefore object to the eventual emergence of Indonesia, Malaysia and Singapore as a non-aligned bloc, either by agreement among themselves after Confrontation ends or even as part of a phased programme agreed on in principle at the time that Confrontation is wound up.
 
-_British Objectives_
+ _British Objectives_
 
 33\. Against this background, the proper objectives for Britain seem to emerge as follows:—
 
@@ -40,27 +43,27 @@ _British Objectives_
 
 (c) We should nevertheless not seek to conceal our different long-term views in discussion with the Americans and the Australians. We should always keep in mind that what we should like to see is some kind of gradual movement towards a non-aligned South East Asia. We may recognise that it is a distant prospect. But so far as we can we should avoid doing anything to make it more distant still.
 
-(d) In the Malaysian region where our power now predominates we should work for _modus vivendi_ between the three countries concerned. This will not only give Western policy a lead in the right direction. It will also much reduce the danger of our military deployment in the Indo-Pacific area costing us more than we can afford and will offer almost our only hope of escaping from the dilemma described in paragraph 12 above.3
+(d) In the Malaysian region where our power now predominates we should work for _modus vivendi_ between the three countries concerned. This will not only give Western policy a lead in the right direction. It will also much reduce the danger of our military deployment in the Indo-Pacific area costing us more than we can afford and will offer almost our only hope of escaping from the dilemma described in paragraph 12 above.[3](#f3)
 
 (e) Both while we remain in Singapore and after we leave it, we should ensure that our forces are structured and deployed in the Indo-Pacific area in a way that makes military sense in the light of the tasks which we believe will be the proper ones for them. Specifically we should be clear that these tasks should not include direct involvement either on the Asian mainland in counter-insurgency operations or in operations similar to our present involvement in Borneo; this does not of course exclude response to a clear case of aggression, nor indeed would it preclude a change in the policy of Western involvement in a particular case if we were forced to accept that this was essential.
 
 (f) In talking to our American and Australian allies we should aim:–
 
-(i) to pursue with our allies the concept of four power consultation and co-operation over all aspects of Indo-Pacific strategy and to secure the most satisfactory political arrangements which our allies will accept to support four power military co-ordination (see Annex B);4
+(i) to pursue with our allies the concept of four power consultation and co-operation over all aspects of Indo-Pacific strategy and to secure the most satisfactory political arrangements which our allies will accept to support four power military co-ordination (see Annex B);[4](#f4)
 
 (ii) to secure and implement agreement that alternative facilities for British forces should be prepared in Australia forthwith, so that we shall have somewhere to go when we leave Singapore;
 
 (iii) to persuade our allies that these facilities need not be so expensive if prepared alongside, and as part of, facilities which it will be desirable to prepare for their own use; but that the capital cost will have to be borne by them if it is not to come out of our overall financial limit.
 
-_Quadripartite Talks_
+ _Quadripartite Talks_
 
 34\. In the next round of quadripartite talks, which are likely to take place in May, we should be guided by the considerations in paragraph 33(b) (c) and (f) above (while walking warily as regards the financial point in paragraph 33(f)(iii) for the time being). To avoid giving the impression of being too obsessed with our own particular problems in the Indonesia–Malaysia region, we should begin with a general review of Western interests and prospects in other parts of the Indo-Pacific area. We can then lead on to questions of concerting four-power tactics towards Indonesia and of providing military facilities in Australia.
 
-35\. The draft paper at Appendix5 has been drawn up, in accordance with the foregoing, for use either as a United Kingdom paper for circulation in advance of the forthcoming quadripartite talks or (if a circulated paper is not desired) as the basis of a brief for the United Kingdom participants.
+35\. The draft paper at Appendix[5](#f5) has been drawn up, in accordance with the foregoing, for use either as a United Kingdom paper for circulation in advance of the forthcoming quadripartite talks or (if a circulated paper is not desired) as the basis of a brief for the United Kingdom participants.
 
 ANNEX A: THE TENABILITY OF THE SINGAPORE BASE
 
-_The British View_
+ _The British View_
 
 The British assessment of our prospects of continued tenure of the Singapore base is as follows:–
 
@@ -72,7 +75,7 @@ The British assessment of our prospects of continued tenure of the Singapore bas
 
 (d) Mr Lee must be regarded as an uncertain quantity; while he welcomes us at present he is opportunistic and would have no scruples in ejecting us (or in imposing restrictions on our use of the base) if it later suited him. It is quite possible that he will become more Afro-Asian in his outlook; in the face of economic distress he would almost certainly be replaced by someone more extreme. In any event the Singaporeans are likely to demand a steadily higher price for our tenancy, and might well seek to impose restrictions on our use of the base.
 
-_The American and Australian View_
+ _The American and Australian View_
 
 2\. Our two main allies have suggested or implied the following reasons why we should remain confident of being able to hold on to the base for a long time:–
 
@@ -92,17 +95,17 @@ _The American and Australian View_
 
 (viii) It is always possible that an old Malayan nightmare may be fulfilled by the local Chinese in Singapore and Malaysia taking over political control of a reunited Federation. A Malaysian government under Mr. Lee might from an ideological point of view be more hostile to Western bases than is the present Kuala Lumpur regime. But in practical terms it could be glad to retain British protection against the racial antipathy and resentment which it would certainly encounter from Indonesia.
 
-_Conclusions_
+ _Conclusions_
 
 3\. The uncertainties of South East Asia are notorious. The internal situation of Singapore and her neighbours, their relations with each other and their attitude to the Great Powers are all liable to kaleidoscopic changes which defy prediction and analysis. With so many unknowns, any forecasting that we or our allies may do is bound to be highly speculative. Neither side can hope to prove conclusively that their view is right. However much we may think that there is more realism and less wishful thinking in the British assessment, we cannot expect the Americans and Australians to find our arguments irresistible.
 
-4\. The task of reaching a consensus is made even harder by the fact that we each tend to exaggerate our forecasts in order influence the others. We suspect that the Americans and the Australians wish to keep us in Singapore even in what we would regard as undesirable circumstances (‘even in adversity’ was Sir R. Menzies’ tell-tale phrase);6 we therefore overstate our certainty that we shall not be able to stay even if we wished to do so. Conversely, the Americans and the Australians suspect us of preparing to ‘chicken out’, in circumstances which they would regard as likely to damage their interests; they therefore over-emphasize their view that there can be no possible question of our having to leave if we do not want to.
+4\. The task of reaching a consensus is made even harder by the fact that we each tend to exaggerate our forecasts in order influence the others. We suspect that the Americans and the Australians wish to keep us in Singapore even in what we would regard as undesirable circumstances (‘even in adversity’ was Sir R. Menzies’ tell-tale phrase);[6](#f6) we therefore overstate our certainty that we shall not be able to stay even if we wished to do so. Conversely, the Americans and the Australians suspect us of preparing to ‘chicken out’, in circumstances which they would regard as likely to damage their interests; they therefore over-emphasize their view that there can be no possible question of our having to leave if we do not want to.
 
 5\. In these circumstances, our best tactics with our allies will probably be to concentrate on the argument that, even on the most optimistic analysis, the outlook in Singapore is uncertain and the danger of our being compelled to evacuate the base at short notice cannot prudently be overlooked. Unless fall-back facilities are available somewhere else, i.e. in Australia, we shall have no choice but to go home altogether if that danger materialises. Optimists and pessimists can therefore agree on the need for such fall-back facilities to be prepared (and for the necessary funds to be provided). We have already had some success with this line of argument and should pursue it at the forthcoming quadripartite talks.
 
-**Britain’s financial crisis, 1966**
+ **Britain’s financial crisis, 1966**
 
-_By the end of the summer of 1966 Britain’s quest to find for itself an acceptable role East of Suez had been placed in a different context. in May 1966, a seamen’s strike brought Britain’s docks to a standstill. The strike lasted forty-seven days, ending at midnight on 1 July. Sterling came under significant pressure; Britain’s gold and dollar reserves showed a drop of £49 million in June. Critics within the Parliamentary Labour Party attacked government defence spending, the East of Suez commitment, and the failure to condemn US ‘aggression’ in Vietnam. Wilson rode out the storm, but the financial crisis over the summer of 1966 revealed fault lines within the Cabinet over whether devaluation was the solution. This was avoided in favour of a statutory six-month prices and incomes standstill, to be followed by another six months of severe restraint, and deflationary measures designed to cut domestic demand by £600 million and overseas spending on defence and foreign aid by £150 million. These measures provoked one ministerial resignation, that of Frank Cousins as Minister of Technology. Of greater significance, the volatile and unpredictable George Brown tendered his resignation (as he did on several occasions) but then changed his mind. Brown was appointed First Secretary of State and also Secretary of State for Economic Affairs, a department created when Labour came into office in 1964 to oversee planning and production. Brown favoured devaluation, expansionist economic policies, and entry into Europe. The deflationary package of the summer of 1966 dealt a fatal blow to his Department of Economic Affairs and demonstrated the extent to which the Treasury had regained full control over economic policy. Brown was moved in August 1966 to the Foreign Office, and Michael Stewart replaced him at the Department of Economic Affairs. For Wilson, the reshuffle appears to have been aimed at James Callaghan, the Chancellor. Callaghan had leaked to the press that he would take over at the Foreign Office and that the Department of Economic Affairs would be abolished. From the perspective of policy towards Europe, it suited Wilson to have Brown as Foreign Secretary. But in private conversation with Barbara Castle, then Minister for Transport, Brown was forthright in his views about Wilson being too beholden to Lyndon Johnson. Britain, he argued, should break the American commitment, leave troops in Germany, and remove them from East of Suez. Michael Palliser, one of Wilson’s Foreign Policy Private Secretaries, put it to the Prime Minister more delicately. ‘The Foreign Secretary’, he wrote, ‘is not entirely convinced of the validity of our present approach.’1_
+ _By the end of the summer of 1966 Britain’s quest to find for itself an acceptable role East of Suez had been placed in a different context. in May 1966, a seamen’s strike brought Britain’s docks to a standstill. The strike lasted forty-seven days, ending at midnight on 1 July. Sterling came under significant pressure; Britain’s gold and dollar reserves showed a drop of £49 million in June. Critics within the Parliamentary Labour Party attacked government defence spending, the East of Suez commitment, and the failure to condemn US ‘aggression’ in Vietnam. Wilson rode out the storm, but the financial crisis over the summer of 1966 revealed fault lines within the Cabinet over whether devaluation was the solution. This was avoided in favour of a statutory six-month prices and incomes standstill, to be followed by another six months of severe restraint, and deflationary measures designed to cut domestic demand by £600 million and overseas spending on defence and foreign aid by £150 million. These measures provoked one ministerial resignation, that of Frank Cousins as Minister of Technology. Of greater significance, the volatile and unpredictable George Brown tendered his resignation (as he did on several occasions) but then changed his mind. Brown was appointed First Secretary of State and also Secretary of State for Economic Affairs, a department created when Labour came into office in 1964 to oversee planning and production. Brown favoured devaluation, expansionist economic policies, and entry into Europe. The deflationary package of the summer of 1966 dealt a fatal blow to his Department of Economic Affairs and demonstrated the extent to which the Treasury had regained full control over economic policy. Brown was moved in August 1966 to the Foreign Office, and Michael Stewart replaced him at the Department of Economic Affairs. For Wilson, the reshuffle appears to have been aimed at James Callaghan, the Chancellor. Callaghan had leaked to the press that he would take over at the Foreign Office and that the Department of Economic Affairs would be abolished. From the perspective of policy towards Europe, it suited Wilson to have Brown as Foreign Secretary. But in private conversation with Barbara Castle, then Minister for Transport, Brown was forthright in his views about Wilson being too beholden to Lyndon Johnson. Britain, he argued, should break the American commitment, leave troops in Germany, and remove them from East of Suez. Michael Palliser, one of Wilson’s Foreign Policy Private Secretaries, put it to the Prime Minister more delicately. ‘The Foreign Secretary’, he wrote, ‘is not entirely convinced of the validity of our present approach.’[1](#f_168_1)_
 
 1 This report by UK officials was prepared for a quadripartite ministerial meeting taking place in Canberra on 30 June 1966 after a SEATO meeting. It was a survey of UK policy towards the entire Southeast Asia region. It was written after the events in Indonesia which brought General Suharto to power but before the Bangkok Agreement of August 1966 which brought a formal end to confrontation. The report reiterated that UK material interests in the region were not by themselves large enough to justify the cost of deploying UK forces in the area on any significant scale. To bring UK military expenditure in the area down from the existing level of £235 million to £186 million (at 1964 prices) required a substantial reduction of UK forces. The report acknowledged differences with both the US and Australia over the base at Singapore. ‘The Australians, unlike the Americans, are influenced not only by their present involvement in Viet Nam but also by what they see as the unchanging facts of geography. For the Americans, Singapore is in present circumstances a position of importance on the flank of their present battlefield in Viet Nam (and perhaps of a future battlefield in Thailand). For the Australians it is a permanent fortress guarding (or menacing) their own northern frontiers. They agree that we may be forced to give it up. But they see no virtue in our going before we are pushed.’ China, according to the report, posed no direct military threat to the region. Chinese policy was ‘opportunistic’ and China had no ‘sustained ambition’ to annex territory. Her aim was to ensure that her mainland neighbours in Southeast Asia ‘were sufficiently compliant to constitute no direct or indirect threat to her own security (as they would do, in her view, if they accept or provoke the intervention of Western forces on their soil).’ The full report is published in _ESAC,_ Part I, Document 15.
 
@@ -117,3 +120,5 @@ _By the end of the summer of 1966 Britain’s quest to find for itself an accept
 6 See Document 42.
 
 1 UKNA: PREM 13/1454, minute, 3 September 1966.
+
+[UKNA: CAB 148/20]

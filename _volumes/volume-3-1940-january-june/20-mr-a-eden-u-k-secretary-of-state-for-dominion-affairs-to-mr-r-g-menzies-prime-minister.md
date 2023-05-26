@@ -1,12 +1,18 @@
 ---
-title: "20 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 786
+doc_date: '1940-01-16'
+doc_num: 20
+doc_order: 20
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, [1.352]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-16
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 20 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram D27 LONDON, 16 January 1940, 10.40 a.m.
 
@@ -36,7 +42,7 @@ Subject to the above we are ready to promise as follows. If such an invitation w
 
 The King will realise that the value of the invitation will be seriously discounted from point of view of Belgium as well as ourselves unless the invitation is given in sufficient time to enable the British and French troops to secure a strategical advantage of position before any German attack begins.
 
-_
+ _
 
 1 On file AA: CP290/6, 51. The cablegram (dispatched on 15 January 1940) reported that French troops could no longer remain in an exposed position on the Belgian frontier and must either advance into Belgium or withdraw.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [FA: A3195, [1.352] [3]]_
+ _[FA: A3195, [1.352] [3]]_

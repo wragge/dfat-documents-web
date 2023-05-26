@@ -1,12 +1,17 @@
 ---
-title: "470 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1701
+doc_date: '1941-05-24'
+doc_num: 470
+doc_order: 470
+naa_refs:
+- naa_barcode: 182748
+  naa_control_symbol: WAR 61
+  naa_series: A981
+  reference: '[AA: A981, WAR 61B]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-24
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 470 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 363 LONDON, 24 May 1941, 3.44 p.m.
 
@@ -36,7 +41,7 @@ I have done everything in my power to press the above in all directions availabl
 
 BRUCE
 
-_
+ _
 
 1 Words in square brackets have been inserted from the London copy on file AA: M100, May 1941.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA: A981, WAR 61B]_
+ _[AA: A981, WAR 61B]_

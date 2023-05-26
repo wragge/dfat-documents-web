@@ -1,14 +1,17 @@
 ---
-title: "269 SPEECH BY RIPPON TO NATIONAL PRESS CLUB"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10134
+doc_date: '1970-09-10'
+doc_num: 269
+doc_order: 269
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 30/803]'
+title: SPEECH BY RIPPON TO NATIONAL PRESS CLUB
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1970-09-10
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 269 SPEECH BY RIPPON TO NATIONAL PRESS CLUB
-
-UKNA: FCO 30/803 
 
 Canberra, 10 September 1970
 
@@ -28,7 +31,7 @@ Of course Anglo-Australian ties, historical, practical, remain very strong: we h
 
 Australia has, like Europe, a great and indispensible friend in the United States of America and other good and valuable friends throughout the world. But it would surely not be in Australia’s long-term political, military, economic or cultural interest to see Europe, including Britain, decline into a collection of impotent, if reasonably prosperous, museum/tourist countries. The European Communities are determined to avoid this. They will develop and grow in coherence whether Britain joins them or not, but if Britain and the other applicants join them, then Europe has a far greater chance of renewed vigour, of contributing beneficially to the world at large.
 
-7\. Britain sees the European option not as a rejection of other friendships and loyalties but as an opportunity for European countries to increase their capacity for doing more for old and new friends elsewhere. This is not playing with words and the seriousness of the present British Government’s intentions are shown by their wish to retain with you and other Commonwealth partners a presence in Malaysia. Britain has not turned her back on Australia in economic terms either. Since 1947 Britain has invested more than Dollars 3,000 million in Australia, more than all other countries taken together. And even since certain restrictions were imposed on investment in 19661 private portfolio investment in Australia has remained at a very high level indeed. This is a fact of great significance. It shows that British people have faith and interest in Australia’s future.
+7\. Britain sees the European option not as a rejection of other friendships and loyalties but as an opportunity for European countries to increase their capacity for doing more for old and new friends elsewhere. This is not playing with words and the seriousness of the present British Government’s intentions are shown by their wish to retain with you and other Commonwealth partners a presence in Malaysia. Britain has not turned her back on Australia in economic terms either. Since 1947 Britain has invested more than Dollars 3,000 million in Australia, more than all other countries taken together. And even since certain restrictions were imposed on investment in 1966[1](#f1) private portfolio investment in Australia has remained at a very high level indeed. This is a fact of great significance. It shows that British people have faith and interest in Australia’s future.
 
 8\. At the same time we must realise that trading patterns have changed very substantially. Today Britain exports twice as much to Western Europe as to the whole of the Commonwealth and Western Europe is after all, not much larger than the Communities will be if Britain and the other applicants join. The present Communities alone are our largest and fastest growing market.
 
@@ -45,3 +48,5 @@ Australia has, like Europe, a great and indispensible friend in the United State
 14\. Australia has shown Britain that she can seize opportunities and adapt to circumstances yet remain true to her essential nature. I do not believe that you would wish Britain to show any less capacity for survival and development. I think that many of you agree with me that the right framework for our development is the enlarged European Communities. I noticed that a leader in the Canberra Times recognised this in an editorial on 1 July, the morning after the opening of our negotiations. The editorial said ‘Britain can hardly elect to stay outside the European mainstream’. I would not personally go quite as far as this because we shall not and cannot join the Communities if we do not get fair terms but I think the general sentiment is absolutely right.
 
 1  See note to Document 230.
+
+[UKNA: FCO 30/803]

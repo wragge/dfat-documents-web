@@ -1,16 +1,21 @@
 ---
-title: "117 Beasley to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3629
+doc_date: '1946-03-05'
+doc_num: 117
+doc_order: 117
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.5797]'
+title: Beasley to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-05
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 117 Beasley to Chifley
 
 Cablegram 50 LONDON, 5 March 1946, 4.08 p.m.
 
-SECRET &amp; PERSONAL
+SECRET & PERSONAL
 
 I visited the Foreign Office at the invitation of the Foreign Secretary for an informal discussion of the future food supply position. Lord Addison was present.
 
@@ -26,7 +31,7 @@ The Government here is concerned about India and the idea behind this proposal i
 
 For us I feel it will possibly have great advantages in markets for the future and it also lifts our status in that part of the world. Bevin's idea is that the arrangement might be considered out there rather than here in London so as to add to local advantages. You will best judge the value of Australian politics [3] if I may say it could have two aspects, firm market for farmers and good prospects for our secondary industries. [4]
 
-_
+ _
 
 1 Documents 31, 69, 80 and 111.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.5797]_
+ _[AA:A3195, 1946, 1.5797]_

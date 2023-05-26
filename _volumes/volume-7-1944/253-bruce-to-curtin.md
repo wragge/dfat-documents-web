@@ -1,12 +1,17 @@
 ---
-title: "253 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2900
+doc_date: '1944-08-22'
+doc_num: 253
+doc_order: 253
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/832/1, ii]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-22
+vol_title: 'Volume 7: 1944'
 ---
-
-# 253 Bruce to Curtin
 
 Cablegram 120A LONDON, 22 August 1944, 7.45 p.m.
 
@@ -24,7 +29,7 @@ In view of this possibility it is essential in my view that the meeting of Empir
 
 BRUCE
 
-_
+ _
 
 1 Cablegram D1185, dispatched 22 August. On file AA:A989, 43/735/832/1, ii.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/832/1, ii]_
+ _[AA:A989, 43/735/832/1, ii]_

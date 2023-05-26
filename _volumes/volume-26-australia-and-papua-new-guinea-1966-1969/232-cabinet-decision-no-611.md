@@ -1,21 +1,25 @@
 ---
-title: "232 Cabinet Decision No. 611"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9740
+doc_date: '1968-10-15'
+doc_num: 232
+doc_order: 232
+naa_refs:
+- naa_barcode: 3068609
+  naa_control_symbol: '242'
+  naa_series: A5868
+  reference: '[NAA: A5868, 242]'
+title: Cabinet Decision No. 611
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-10-15
-barcode: 3068609
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 232 Cabinet Decision No. 611
 
 Canberra, 15 October 1968
 
 Confidential
 
-**Submission no. 242—Review of policy on Asian investment in Papua and New Guinea 1**
+ **Submission no. 242—Review of policy on Asian investment in Papua and New Guinea[1](#f1)**
 
-The Cabinet agreed that a relaxation of the present restrictions on Asian investment in Papua and New Guinea would be appropriate, and it therefore adopted the recommendation that the present restrictions be removed and that investment from Asian countries be treated in the same way as investment from other foreign countries— i.e. in accordance with the guidelines set out in paragraph 8 of the Inter-departmental Committee’s report attached to the Submission. 2
+The Cabinet agreed that a relaxation of the present restrictions on Asian investment in Papua and New Guinea would be appropriate, and it therefore adopted the recommendation that the present restrictions be removed and that investment from Asian countries be treated in the same way as investment from other foreign countries— i.e. in accordance with the guidelines set out in paragraph 8 of the Inter-departmental Committee’s report attached to the Submission. [2](#f2)
 
 2\. However, the Cabinet indicated that it wished, as an extension of the policy now being pursued in respect of investment from foreign sources (again, see paragraph 8 of the Inter–departmental Committee’s report), to accord emphasis in the following fashion:—
 
@@ -31,7 +35,7 @@ The Cabinet agreed that a relaxation of the present restrictions on Asian invest
 
 6\. The Cabinet noted that Departments associated with the Inter-departmental Committee’s report and, as required other Departments, would be kept informed about all Asian investment proposals for Papua and New Guinea.
 
-[ [NAA: A5868, 242](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3068609) ]
+[NAA: A5868, 242]
 
 1 Document 211.
 

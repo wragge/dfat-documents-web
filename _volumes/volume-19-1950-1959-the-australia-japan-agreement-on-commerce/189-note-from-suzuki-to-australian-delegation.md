@@ -1,14 +1,19 @@
 ---
-title: "189 Note From Suzuki To Australian Delegation"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7794
+doc_date: '1957-02-08'
+doc_num: 189
+doc_order: 189
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUSTRALIA TRADE TALKS Pt ii]'
+title: Note From Suzuki To Australian Delegation
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-02-08
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 189 Note From Suzuki To Australian Delegation
-
-## 8th February, 1957
+8th February, 1957
 
 CANBERRA
 
@@ -52,7 +57,7 @@ It is therefore essential that we should be shown a very clear prospect of Japan
 
 I also think that from your point of view it is extremely important to start selling Australian soft wheat in Japan and to firmly establish your market there, now that American soft wheat is not given special priority. [2] In order to do so, I very much hope that you will be able to agree to the views of the Japanese Government I have just told you and to enter into a trade agreement along these lines. [3]
 
-_
+ _
 
 1 A marginal note probably in Crawford's hand reads' 'Not enough.
 
@@ -60,6 +65,6 @@ Does this include hard wheat?' 2 A marginal note against this sentence reads: 'W
 
 _
 
-_ [NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUSTRALIA TRADE TALKS Pt ii]
+ _[NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUSTRALIA TRADE TALKS Pt ii]
 
 _

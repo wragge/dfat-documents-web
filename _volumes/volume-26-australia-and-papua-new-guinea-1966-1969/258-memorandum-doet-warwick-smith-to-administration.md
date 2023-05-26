@@ -1,21 +1,25 @@
 ---
-title: "258 Memorandum, Doet (Warwick Smith) To Administration"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9766
+doc_date: '1969-02-28'
+doc_num: 258
+doc_order: 258
+naa_refs:
+- naa_barcode: 11340888
+  naa_control_symbol: 1969/1135
+  naa_series: A452
+  reference: '[NAA: A452, 1969/1135]'
+title: Memorandum, Doet (Warwick Smith) To Administration
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-02-28
-barcode: 11340888
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 258 Memorandum, Doet (Warwick Smith) To Administration
 
 Canberra, 28 February 1969
 
-**House of Assembly: second chamber**
+ **House of Assembly: second chamber**
 
-In our telex 768 of 29th January, 1969 your views were sought on the desirability, in the event that a Select Committee is established as a result of a motion by Arek,1 of getting the Committee to look at the question of a House of Review.2
+In our telex 768 of 29th January, 1969 your views were sought on the desirability, in the event that a Select Committee is established as a result of a motion by Arek,[1](#f1) of getting the Committee to look at the question of a House of Review.[2](#f2)
 
-2\. The purpose of this memorandum is to canvass the possibility of a second Chamber of the legislature to act in conjunction with the House of Assembly and thereby assist you in your consideration. This matter was discussed briefly with the Minister during the Administrator’s recent visit to Canberra when the Minister said that he saw some merit in a House of Review because of the volatile character of the House of Assembly and the importance of due accord and deliberation in legislation.3 A second Chamber based on a regional principle might also assist in promoting national unity.
+2\. The purpose of this memorandum is to canvass the possibility of a second Chamber of the legislature to act in conjunction with the House of Assembly and thereby assist you in your consideration. This matter was discussed briefly with the Minister during the Administrator’s recent visit to Canberra when the Minister said that he saw some merit in a House of Review because of the volatile character of the House of Assembly and the importance of due accord and deliberation in legislation.[3](#f3) A second Chamber based on a regional principle might also assist in promoting national unity.
 
 3\. Some notes on bi-cameral system possibilities for the Territory are attached as Appendix ‘A’ which sets out a general appreciation of the subject.
 
@@ -35,11 +39,11 @@ In our telex 768 of 29th January, 1969 your views were sought on the desirabilit
 
 11\. In considering this issue it is suggested that official members of the House of Assembly could canvass the question of a Second Chamber if a proposal is made for a further constitutional committee without any firm decision being reached as to whether such a cause should be proposed positively. If the House wishes to discuss constitutional issues then it would seem appropriate for it to consider the advantages and disadvantages of a second Chamber in depth including possibly visits to some Second Chambers in States, even if it were to come up with the conclusion that a unicameral system remained appropriate.
 
-**Attachment**
+ **Attachment**
 
-**SOME NOTES ON BI-CAMERAL LEGISLATURES AND THE POSSIBLE ADAPTATION OF A SYSTEM FOR PAPUA AND NEW GUINEA**
+ **SOME NOTES ON BI-CAMERAL LEGISLATURES AND THE POSSIBLE ADAPTATION OF A SYSTEM FOR PAPUA AND NEW GUINEA**
 
-_[matter omitted]_4
+ _[matter omitted]_[4](#f4)
 
 7\. _A second Chamber for Papua and New Guinea_
 
@@ -47,7 +51,7 @@ _[matter omitted]_4
 
 7.1.1 In Papua and New Guinea there are 15 regional electorates and 69 open electorates. A second Chamber could comprise the 15 regional Members but this number may be too small in proportion to a lower House of 69 even when a few official members (or perhaps nominated members) are included in the upper House.
 
-7.1.2 Using the ratio of 2: I (the Australian nexus),5 the upper House would comprise about 30 elected members. This would require an increase of 15 in the total number of elected members in both Houses and could be achieved by either doubling the existing number of regional representatives or providing for 15 (of the 30) members of the upper House to be indirectly elected. It is not mandatory of course to follow the nexus principle and an upper House of about 25 members compared to a lower House of about 75 (both including official members) could be adequate.
+7.1.2 Using the ratio of 2: I (the Australian nexus),[5](#f5) the upper House would comprise about 30 elected members. This would require an increase of 15 in the total number of elected members in both Houses and could be achieved by either doubling the existing number of regional representatives or providing for 15 (of the 30) members of the upper House to be indirectly elected. It is not mandatory of course to follow the nexus principle and an upper House of about 25 members compared to a lower House of about 75 (both including official members) could be adequate.
 
 7.1.3 Any method of selection of members of a Second Chamber seems acceptable provided it is a reasonable democratic method.
 
@@ -121,7 +125,7 @@ _[matter omitted]_4
 
 7.9.1 The President of the Australian Senate comes immediately after the Prime Minister.
 
-7.9.2 The style President1 may be appropriate for the Presiding Officer of a second Chamber in PNG. Although this style was used in the Legislative Council in PNG, this seems not to be valid and sufficient reason for not using it again.
+7.9.2 The style President[1](#f1) may be appropriate for the Presiding Officer of a second Chamber in PNG. Although this style was used in the Legislative Council in PNG, this seems not to be valid and sufficient reason for not using it again.
 
 7.9.3 The style may smack of autonomy but nevertheless helps to establish the relationship between two Chambers where in the House of Assembly the Presiding Officer is the Speaker.
 
@@ -149,7 +153,7 @@ _[matter omitted]_4
 
 • development towards a proven system of government and avoidance of a uni-cameral system, the end-results of which have often been arrogance, despotism and tyranny.
 
-• an avenue being presented by which delegation of powers from Port Moresby to the Districts or Regions might be pursued or achieved in that District of7 Regional autonomy in specified functions could answer complaints of centralisation of control while tending to concentrate activities of central legislature on broader issues affecting the Territory as a whole.
+• an avenue being presented by which delegation of powers from Port Moresby to the Districts or Regions might be pursued or achieved in that District of[7](#f7) Regional autonomy in specified functions could answer complaints of centralisation of control while tending to concentrate activities of central legislature on broader issues affecting the Territory as a whole.
 
 • substantial expenditure both capital and ordinary.
 
@@ -157,7 +161,7 @@ _[matter omitted]_4
 
 • wider appreciation of national issues while maintaining a forum for parochial views to be expressed.
 
-[ [NAA: A452, 1969/1135](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=11340888) ]
+[NAA: A452, 1969/1135]
 
 1 Arek was reported as saying in late January that the ‘establishment of a constitutional committee was very urgent’ (telex II 02, Hay to Warwick Smith, 14 February 1969, NAA: A452, 1969/1135). (Arek had recently returned from work experience with the Australian Mission in New York and from a tour of African states (for report, see memorandum, UNNY (Rogers) to DEA, 26 February 1969, NAA: A1838, 936/3/19 part 2).) Commenting on the report, Warwick Smith told Hay and Barnes that ‘It was possible that Arek had some helpful ideas in mind rather than accelerated advance of political development’ (notes on discussion between Barnes, Hay and Warwick Smith, 28 January 1969, NAA: A452, 1969/222).
 

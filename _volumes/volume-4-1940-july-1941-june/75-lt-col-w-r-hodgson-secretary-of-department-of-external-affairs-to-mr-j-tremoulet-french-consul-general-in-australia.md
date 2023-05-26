@@ -1,14 +1,20 @@
 ---
-title: "75 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. Tremoulet, French Consul-General in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1306
+doc_date: '1940-08-16'
+doc_num: 75
+doc_order: 75
+naa_refs:
+- naa_barcode: 179222
+  naa_control_symbol: NEW C 1 PART 3
+  naa_series: A981
+  reference: '[AA: A981, NEW CALEDONIA 1,iii]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J.
+  Tremoulet, French Consul-General in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-16
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 75 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. Tremoulet, French Consul-General in Australia
-
-## Letter CANBERRA, 16 August 1940
+Letter CANBERRA, 16 August 1940
 
 [The S.S. Commissaire Ramel, employed by the Compagnie des Messageries Maritimes on the Marseilles-Tahiti run, was requisitioned by the U.K. authorities in Suva on 24 July and sailed to Sydney. When arrangements had been made for the disposition of the crew (some were repatriated while others, despite Tremoulet's warnings, elected to continue serving on the ship) the Commissaire Ramel was taken over by the Shaw Savill Line. It was sunk in the Indian Ocean by the German raider Atlantis on 20 September 1940.]
 
@@ -18,7 +24,7 @@ I am directed by the Minister [2] to ask if you would be good enough to reply to
 
 W. R. HODGSON
 
-_
+ _
 
 1 Captain Georges Sabouret.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA: A981, NEW CALEDONIA 1,iii]_
+ _[AA: A981, NEW CALEDONIA 1,iii]_

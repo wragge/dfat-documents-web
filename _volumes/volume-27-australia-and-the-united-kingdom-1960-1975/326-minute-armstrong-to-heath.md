@@ -1,14 +1,17 @@
 ---
-title: "326 MINUTE, ARMSTRONG TO HEATH"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10192
+doc_date: '1971-01-30'
+doc_num: 326
+doc_order: 326
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM .15/442]'
+title: MINUTE, ARMSTRONG TO HEATH
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-01-30
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 326 MINUTE, ARMSTRONG TO HEATH
-
-UKNA: PREM .15/442
 
 London, 30 January 1971
 
@@ -19,3 +22,5 @@ I took up with the Home Office Mr Gorton’s point about the segregation of Brit
 I think we might have another go at this. It should not be beyond the wit of those in charge of Immigration Control to devise a method whereby the streams were divided at the check-point rather than before it was reached. We may be told that this is a non–starter; but we shall have established the point that this is to be taken seriously.
 
 1  Heath’s marginal note reads: ‘I agree. A solution really must be found quickly. Every other country has found one.’ 
+
+[UKNA: PREM .15/442]

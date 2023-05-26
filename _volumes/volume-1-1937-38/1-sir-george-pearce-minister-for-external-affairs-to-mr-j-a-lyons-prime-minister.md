@@ -1,14 +1,20 @@
 ---
-title: "1. Sir George Pearce, Minister for External Affairs, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 1
+doc_date: '1937-01-26'
+doc_num: 1
+doc_order: 1
+naa_refs:
+- naa_barcode: 257409
+  naa_control_symbol: BUNDLE 1/28
+  naa_series: CP290/6
+  reference: '[AA : CP 290/6, BUNDLE 1, ITEM 28]'
+title: Sir George Pearce, Minister for External Affairs, to Mr J. A. Lyons, Prime
+  Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-01-26
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 1. Sir George Pearce, Minister for External Affairs, to Mr J. A. Lyons, Prime Minister
-
-## Letter MELBOURNE, 26 January 1937, PERSONAL AND SECRET
+Letter MELBOURNE, 26 January 1937, PERSONAL AND SECRET
 
 Herewith I forward three copies of a memorandum that I have drafted re the proposal for a Dominions capital ship based on Singapore. I thought that perhaps you might wish to send a copy to Parkhill and Casey. [1] I have not mentioned the matter to Parkhill, but some time ago when Casey was speaking to me about the U.K. Govt proposed Defence Loan and the possibility of our sharing in it for Defence purposes, I mentioned the matter to him. 
 

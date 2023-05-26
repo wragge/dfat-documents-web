@@ -1,12 +1,18 @@
 ---
-title: "147 Dixon to Curtin and Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2438
+doc_date: '1943-03-29'
+doc_num: 147
+doc_order: 147
+naa_refs:
+- naa_barcode: 853953
+  naa_control_symbol: '140'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,
+    FILE No. 4, 9/1943]'
+title: Dixon to Curtin and Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-03-29
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 147 Dixon to Curtin and Evatt
 
 Cablegram S61 WASHINGTON, 29 March 1943, 3.13 a.m.
 
@@ -26,10 +32,10 @@ Ends.
 
 DIXON
 
-_ 1 See Document 139, note 1.
+ _1 See Document 139, note 1.
 
 2 The allocations provided for the dispatch of a further 715 aircraft to the South-West Pacific Area by 1 October. This would bring the Area's allocation to 144 heavy bombers, 171 medium bombers, 171 light bombers, 375 single-seat fighters, 50 multi- seat fighters, 84 Army cooperation aircraft, 234 transport aircraft and 48 photographic reconnaissance aircraft. No increase was made in the R.A.A.F.'s allocation, since it was considered it would be difficult enough for the R.A.A.F. to man the 45 squadrons already scheduled for development in 1943. See Dixon's cablegram S69 of 4 April on file AA:A3300, 258.
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 4, 9/1943]_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 4, 9/1943]_

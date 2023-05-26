@@ -1,12 +1,18 @@
 ---
-title: "279 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2033
+doc_date: '1942-01-17'
+doc_num: 279
+doc_order: 280
+naa_refs:
+- naa_barcode: 179108
+  naa_control_symbol: NETH 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, NETHERLANDS 20, i]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Dr H. V. Evatt,
+  Minister for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-17
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 279 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram 31 LONDON, 17 January 1942, 6.48 p.m.
 
@@ -20,7 +26,7 @@ All my enquiries indicated van Aerssen is a first class person.
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 13 January, On file AA:A981, Netherlands 20, i. It reported that the Netherlands Geer proposed to appoint Baron van Aerssen, previously Netherlands Minister to Iran, as Minister to Australia. It also instructed Bruce to inquire whether, in view of the changed political conditions in the Pacific, the Netherlands Govt would now accept an Australian representative of higher status than Consul-General in Batavia.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA:A981, NETHERLANDS 20, i]_
+ _[AA:A981, NETHERLANDS 20, i]_

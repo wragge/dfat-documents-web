@@ -1,13 +1,21 @@
 ---
-title: "2 Report on Talboys' Visit"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8872
+doc_date: '1978-04-01'
+doc_num: 2
+doc_order: 2
+naa_refs:
+- naa_barcode: 1389677
+  naa_control_symbol: 370/1/19/18 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, i]'
+title: Report on Talboys' Visit
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 2 Report on Talboys' Visit
-
-Canberra, April 19781
+Canberra, April 1978 [1](#fn1)
 
 Customs Union with New Zealand: General Briefing to Ministers and Possible Press Presentation
 
@@ -19,8 +27,6 @@ During his discussions with Australian Ministers, Mr Talboys outlined the econom
 
 
 
-_[NAA: A1838, 370/1119/18, i]_
+ _[NAA: A1838, 370/1119/18, i]_
 
   * 1 The document is undated. Talboys visited Australia during March 1978.
-
-

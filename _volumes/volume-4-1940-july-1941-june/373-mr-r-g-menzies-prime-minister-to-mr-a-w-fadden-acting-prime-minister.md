@@ -1,12 +1,17 @@
 ---
-title: "373 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1604
+doc_date: '1941-03-29'
+doc_num: 373
+doc_order: 373
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.4735]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-29
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 373 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram M35 LONDON, 29 March 1941, 1.30 p.m.
 
@@ -26,7 +31,7 @@ These are now improved if Yugoslavia goes as well as Churchill anticipates and T
 
 MENZIES
 
-_
+ _
 
 1 Document 370 (in fact dispatched 27 March).
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A3195, 1941, 1.4735]_
+ _[AA:A3195, 1941, 1.4735]_

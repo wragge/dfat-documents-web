@@ -1,14 +1,20 @@
 ---
-title: "346 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1112
+doc_date: '1940-06-06'
+doc_num: 346
+doc_order: 346
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: M1608
+  reference: '[AA: M1608, A41/1/5, ii]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Casey, Minister to
+  the United States
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-06
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 346 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Casey, Minister to the United States
-
-## Cablegram 19 LONDON, 6 June 1940, 12 noon
+Cablegram 19 LONDON, 6 June 1940, 12 noon
 
 During the week since sending my telegram No. 366 [1] my view has hardened that suggestion therein of declaration by the President [2] not fantastic but as well as being of incalculable benefit to the Allies probably most advantageous line of action both from the point of view of American people and the President himself.
 
@@ -40,7 +46,7 @@ I believe that the President's statement would evoke a response throughout the w
 
 BRUCE
 
-_
+ _
 
 1 Document 309.
 
@@ -56,4 +62,4 @@ The text printed here is taken from Menzies's copy because the message sent to C
 
 _
 
-_ [AA: M1608, A41/1/5, ii]_
+ _[AA: M1608, A41/1/5, ii]_

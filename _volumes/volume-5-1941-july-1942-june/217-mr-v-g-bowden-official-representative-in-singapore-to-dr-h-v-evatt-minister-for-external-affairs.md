@@ -1,12 +1,18 @@
 ---
-title: "217 Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1971
+doc_date: '1941-12-23'
+doc_num: 217
+doc_order: 218
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister
+  for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 217 Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram 73 SINGAPORE, 23 December 1941, 11.51 p.m.
 
@@ -24,7 +30,7 @@ Doubtful whether the visit of an Australian Minister can now have any effect as 
 
 BOWDEN
 
-_
+ _
 
 1 On 24 December Evatt dispatched copies of this cablegram and Bowden's cablegram 72 of 23 December (AA:A3830, 1941, 3857) to R.
 
@@ -36,4 +42,4 @@ The same day the Prime Minister, John Curtin, dispatched copies of cablegram 110
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

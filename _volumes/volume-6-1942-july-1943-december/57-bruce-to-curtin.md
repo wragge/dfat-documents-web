@@ -1,12 +1,17 @@
 ---
-title: "57 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2348
+doc_date: '1942-10-13'
+doc_num: 57
+doc_order: 57
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1942, 1.40820]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-10-13
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 57 Bruce to Curtin
 
 Cablegram 165[A] LONDON, 13 October 1942, 3.49 p.m.
 
@@ -24,10 +29,10 @@ That I should not have been afforded an opportunity to state the Australian poin
 
 BRUCE
 
-_
+ _
 
 1 See Document 15.
 
 _
 
-_ [FA:A3195, 1942, 1.40820]_
+ _[FA:A3195, 1942, 1.40820]_

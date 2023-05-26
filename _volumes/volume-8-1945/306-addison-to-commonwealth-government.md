@@ -1,12 +1,17 @@
 ---
-title: "306 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3337
+doc_date: '1945-10-11'
+doc_num: 306
+doc_order: 306
+naa_refs:
+- naa_barcode: 140132
+  naa_control_symbol: 402/8/1/1/1 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838/2, 402/8/1/1, i]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-11
+vol_title: 'Volume 8: 1945'
 ---
-
-# 306 Addison to Commonwealth Government
 
 Cablegram D1898 LONDON, 11 October 1945, 10.30 p.m.
 
@@ -38,7 +43,7 @@ Van Mook should work out with Admiral Mountbatten the terms in which any public 
 
 8\. Mr. Bevin undertook to inform his colleagues of the views which the Netherlands Minister had expressed.
 
-_
+ _
 
 1 Corrected according to AA : A3642, vol. 24, I.32526/43.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA : A1838/2, 402/8/1/1, i]_
+ _[AA : A1838/2, 402/8/1/1, i]_

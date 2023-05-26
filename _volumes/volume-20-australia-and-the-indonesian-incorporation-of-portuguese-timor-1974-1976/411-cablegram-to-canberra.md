@@ -1,12 +1,19 @@
 ---
-title: "411 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8249
+doc_date: '1976-01-30'
+doc_num: 411
+doc_order: 410
+naa_refs:
+- naa_barcode: 1505968
+  naa_control_symbol: 3038/13/10/1 PART 3
+  naa_series: A1838
+  reference: '[NAA: A1838, 3038/13/1011. iii]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-01-30
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 411 Cablegram to Canberra
 
 Jakarta, 30 January 1976
 
@@ -16,23 +23,23 @@ O.JA4537 SECRET AUSTEO PRIORITY
 
 ### For Birch (Singapore); Parsons (Kuala Lumpur); Nutter (Manila); Johnson (Bangkok); Shann (Tokyo)
 
-Since the Minister's visit to Jakarta during which he raised with the President and Malik the proposal that the Prime Minister might visit Bali at the end of the ASEAN Summit for talks with other ASEAN leaders and President Soeharto, we have had a number of indications from Indonesians, at various levels, that they are cool towards the idea.1
+Since the Minister's visit to Jakarta during which he raised with the President and Malik the proposal that the Prime Minister might visit Bali at the end of the ASEAN Summit for talks with other ASEAN leaders and President Soeharto, we have had a number of indications from Indonesians, at various levels, that they are cool towards the idea.[1](#f1)
 
-_[matter omitted]_
+ _[matter omitted]_
 
   7. Malik's former personal adviser, Alex Alatas, who has been very frank with us (and who is a good friend of Australia) told us recently that Indonesia's attitude to a visit to Bali by the Prime Minister at the end of the ASEAN Summit could not be disassociated from our present approach to Timor. Alatas said that although the subject had not been mentioned during the talks-and this was due to 'Javanese courtesy' despite protestations of frankness-our vote in the General Assembly for the resolution condemning Indonesia had not been forgotten. Also, although nobody would have told us officially, the Indonesians have expressed 'disappointment' in their discussions with each other that the Minister did not show more private support or public understanding for Indonesia's position than he had done during and since his visit. Alatas added that Indonesia resented being 'lectured' by other countries.
-  8. According to Alatas some of the President's advisers are arguing now that Indonesia should be less responsive towards Australia's interests while Australia continues to adopt a public position critical of Indonesia on a matter of great importance to it. Indonesia did not favour the possible future initiative in the United Nations which the Minister discussed in an exploratory way when he was here.2 (This subject is covered in our O.JA4520.)3 Whether or not they have a right to expect it, Indonesia hoped for a greater degree of understanding of its position, especially following Mr Fraser's message4 to the President during the period of the Caretaker Government, than it considers it has so far received. We also detect an increasingly unresponsive attitude to the more recent Australian statements on Timor.5 These command more Indonesian attention than usual because no other country seems to have made any recent statements at Ministerial level on the subject.
+  8. According to Alatas some of the President's advisers are arguing now that Indonesia should be less responsive towards Australia's interests while Australia continues to adopt a public position critical of Indonesia on a matter of great importance to it. Indonesia did not favour the possible future initiative in the United Nations which the Minister discussed in an exploratory way when he was here.[2](#f2) (This subject is covered in our O.JA4520.)[3](#f3) Whether or not they have a right to expect it, Indonesia hoped for a greater degree of understanding of its position, especially following Mr Fraser's message[4](#f4) to the President during the period of the Caretaker Government, than it considers it has so far received. We also detect an increasingly unresponsive attitude to the more recent Australian statements on Timor.[5](#f5) These command more Indonesian attention than usual because no other country seems to have made any recent statements at Ministerial level on the subject.
   9. There is also the complicating factor of the way in which Indonesia's attitude to Singapore has hardened since Razak's death and Indonesia's awareness ofthe personal links between the Prime Minister and Lee Kuan Yew. While this should not normally be an inhibiting factor, it is in the present situation in which Indonesia is suspicious of Singapore and certainly does not want other countries to see it through Singapore's eyes.
 
 
 
-_[matter omitted]_
+ _[matter omitted]_
 
   13. During Ali's visit to Singapore he had had a very frank discussion with K. C. Lee. Ali said that Indonesia was upset by Singapore's abstention in the General Assembly on Portuguese Timor. (To ensure that he got his point across Ali told K. C. Lee that Indonesia would not forget 'for two hundred years' what Singapore had done.) He had also conveyed Soeharto's views on the Kuala Lumpur 'mini summit'. At the Australia Day reception on 26 January Ali's private secretary, Lim Bian Kie spoke to the Singapore Ambassador, Rahim Ishak, along similar lines.
 
 
 
-_[matter omitted]_
+ _[matter omitted]_
 
   15. President Soeharto's interpreter, Widodo, asked me on 26th January whether Mr Peacock 'had understood the nuances' in the President's reply to Mr Peacock's question about the suggestion for a post-Bali meeting with Mr Fraser. (Soeharto did not answer the Minister directly but said the proposal would need to be discussed at the ASEAN Foreign Ministers' Meeting and that one problem could be commitments of some ASEAN leaders immediately after the Bali Summit.)
   16. Widodo 'dropped in' 20 minutes before the start of the Australia reception on his way from President's house to say he was not well and could not stay. He then asked the question about 'nuances'. Although we know Widodo well he normally does not discuss matters of substance unless under instructions. I asked Widodo directly if what we had heard from other sources was true, namely that the President had reservations about the proposals, either for a meeting with the Japanese, Australian and New Zealand Prime Ministers or for a meeting with the Australian Prime Minister only. Widodo said the President did in fact have reservations about both proposals.
@@ -46,12 +53,10 @@ _[matter omitted]_
 
 WOOLCOTT
 
-_[NAA: A1838, 3038/13/1011. iii]_
+ _[NAA: A1838, 3038/13/1011. iii]_
 
   * 1 See note 5 to Document 407.
   * 2 See Document 404.
   * 3 Document 410.
   * 4 Document 343.
   * 5 See note 1 to Document 409.
-
-

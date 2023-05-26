@@ -1,12 +1,18 @@
 ---
-title: "274 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 611
+doc_date: '1939-10-09'
+doc_num: 274
+doc_order: 274
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to
+  Lt Col W.R. Hodgson, Secretary of Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 274 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs
 
 Cablegram 61 WASHINGTON, 9 October 1939, 5.56 p.m.
 
@@ -20,10 +26,10 @@ A more urgent need is for much fuller publicity here as to our war effort and li
 
 OFFICER
 
-_
+ _
 
 1 Document 273.
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

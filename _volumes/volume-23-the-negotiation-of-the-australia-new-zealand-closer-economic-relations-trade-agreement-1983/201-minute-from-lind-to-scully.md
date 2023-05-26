@@ -1,20 +1,27 @@
 ---
-title: "201 Minute from Lind to Scully"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9070
+doc_date: '1982-08-16'
+doc_num: 201
+doc_order: 201
+naa_refs:
+- naa_barcode: 11558959
+  naa_control_symbol: 1982/2594 PART 6
+  naa_series: A1313
+  reference: '[NAA: A13131113, 82/2594, vi]'
+title: Minute from Lind to Scully
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-08-16
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 201 Minute from Lind to Scully
 
 Canberra, 16 August 1982
 
 CER-Phasing Out of Export Incentives
 
-Further to my earlier minute1 on this matter Al Page's report on his discussions with Ted Woodfield is attached.
+Further to my earlier minute[1](#f1) on this matter Al Page's report on his discussions with Ted Woodfield is attached.
 
-The issue having been uncorked I believe it important that it be mentioned in you next contact with Harry Clark (10 a.m. Tuesday 17/8)2
+The issue having been uncorked I believe it important that it be mentioned in you next contact with Harry Clark (10 a.m. Tuesday 17/8)[2](#f2)
 
   * it is potentially more destructive than forest products.
 
@@ -35,9 +42,7 @@ You might wish to approach it along the following lines:
 
 
 
-_[NAA: A13131113, 82/2594, vi]_
+ _[NAA: A13131113, 82/2594, vi]_
 
   * 1 Document 197.
   * 2 Words in brackets were handwritten.
-
-

@@ -1,12 +1,19 @@
 ---
-title: "214 Minute from Anderson to Anthony"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9083
+doc_date: '1982-10-21'
+doc_num: 214
+doc_order: 214
+naa_refs:
+- naa_barcode: 11558958
+  naa_control_symbol: 1982/2593 PART 8
+  naa_series: A1313
+  reference: '[NAA: Al313/113, 82/2593, viii]'
+title: Minute from Anderson to Anthony
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-10-21
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 214 Minute from Anderson to Anthony
 
 Canberra, 21 October 1982
 
@@ -42,7 +49,7 @@ We are hopeful that we can allay New Zealand concerns on countervailing by an as
 
 Exchanges are continuing on some other aspects of the package and it is our expectation that these can be agreed by officials.
 
-_Ministerial meeting_
+ _Ministerial meeting_
 
 New Zealand Permanent Heads have been left in no doubt that your forthcoming meeting with Mr Muldoon represents 'make or break' for CER
 
@@ -52,10 +59,8 @@ New Zealand Permanent Heads have been left in no doubt that your forthcoming mee
 
 As discussed with Mr Barker, we have informed New Zealand officials that you could be available for discussions with Mr Muldoon in Wellington on Thursday 28 October and for dinner at Vogel House that evening.
 
-A letter to the Prime Minister requesting approval to travel to Wellington and for use of a RAAF Special Purpose Aircraft is attached for your signature.1
+A letter to the Prime Minister requesting approval to travel to Wellington and for use of a RAAF Special Purpose Aircraft is attached for your signature.[1](#f1)
 
-_[NAA: Al313/113, 82/2593, viii]_
+ _[NAA: Al313/113, 82/2593, viii]_
 
   * 1 Anthony wrote 'Noted. Anthony 21 Oct 1982' on the document.
-
-

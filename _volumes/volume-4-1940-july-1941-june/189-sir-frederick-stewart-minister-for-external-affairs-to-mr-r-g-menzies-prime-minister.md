@@ -1,14 +1,20 @@
 ---
-title: "189 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1420
+doc_date: '1940-11-02'
+doc_num: 189
+doc_order: 189
+naa_refs:
+- naa_barcode: 179108
+  naa_control_symbol: NETH 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, NETHERLANDS 20, i]'
+title: Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-02
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 189 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister
-
-## Letter SYDNEY, 2 November 1940
+Letter SYDNEY, 2 November 1940
 
 With reference to telegram 921 from Mr. Bruce [1] conveying the proposal of the Netherlands Government for the exchange of diplomatic representatives between Holland and Australia, I desire to offer the following comments.
 
@@ -36,7 +42,7 @@ Would be glad if you would convey to Minister for Foreign Affairs [3] our apprec
 
 [F. STEWART]
 
-_
+ _
 
 1 Document 175.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [AA:A981, NETHERLANDS 20, i]_
+ _[AA:A981, NETHERLANDS 20, i]_

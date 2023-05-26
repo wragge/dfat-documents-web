@@ -1,12 +1,18 @@
 ---
-title: "54 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1808
+doc_date: '1941-08-31'
+doc_num: 54
+doc_order: 55
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.16523]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-31
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 54 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden, Prime Minister
 
 Cablegram 608 LONDON, 31 August 1941, 9.03 p.m.
 
@@ -24,7 +30,7 @@ You may communicate the above to your Cabinet. [5]
 
 CHURCHILL
 
-_
+ _
 
 1 Winston Churchill.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA:A3195, 1941, 1.16523]_
+ _[AA:A3195, 1941, 1.16523]_

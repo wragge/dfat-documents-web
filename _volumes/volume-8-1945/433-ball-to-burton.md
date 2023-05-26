@@ -1,12 +1,17 @@
 ---
-title: "433 Ball to Burton"
-volume: "Volume 8: 1945"
-doc_id: 3464
+doc_date: '1945-12-04'
+doc_num: 433
+doc_order: 433
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2273]'
+title: Ball to Burton
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-12-04
+vol_title: 'Volume 8: 1945'
 ---
-
-# 433 Ball to Burton
 
 Cablegram 2 SINGAPORE [1], 4 December 1945
 
@@ -14,7 +19,7 @@ SECRET
 
 I feel it undesirable to have two Political Representatives with S.E.A.C. dealing with Netherlands East Indies situation. Proud's accreditation to Supreme Commander gives him exclusive or paramount right to join Java policy conversations here. This automatically relegates me to subordinate and redundant position vis-a-vis British and destroys whatever possibility there may have been of my exercising influence. [2]
 
-_
+ _
 
 1 Ball departed Batavia at the beginning of December leaving Plumb and one cypher assistant for the time being. With the move of HQ SACSEA from Colombo to Singapore, further negotiations on the N.E.I. would be conducted there rather than in Java as previously.
 
@@ -22,4 +27,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 2273]_
+ _[AA : A5954, BOX 2273]_

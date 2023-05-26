@@ -1,14 +1,19 @@
 ---
-title: "354 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1120
+doc_date: '1940-06-10'
+doc_num: 354
+doc_order: 354
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4080]'
+title: Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-10
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 354 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
-
-## Cablegram 396 LONDON, 10 June 1940, 6.30 p.m.
+Cablegram 396 LONDON, 10 June 1940, 6.30 p.m.
 
 With reference to High Commissioner's telegram (most secret) to the Prime Minister of 8th June No. 392. [1] Following two paragraphs were inadvertently omitted and should now be inserted after the word ['Port Sudan']. (begins) British ships. [2] Dominions Office telegram D. 237 paragraph 4.
 
@@ -20,7 +25,7 @@ Egypt. Latest reports show position deteriorating badly in face of probability o
 
 BRUCE
 
-_
+ _
 
 1 On file AA: A1608, A41/1/1, x.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4080]_
+ _[FA: A3195, 1.4080]_

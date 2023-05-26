@@ -1,14 +1,17 @@
 ---
-title: "383 NOTE FOR FILE BY BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10249
+doc_date: '1972-05-08'
+doc_num: 383
+doc_order: 383
+naa_refs:
+- naa_barcode: 8301723
+  naa_control_symbol: 1971/9449 PART 1
+  naa_series: A1209
+  reference: '[NAA: A1209, 1971/9449 PART 1]'
+title: NOTE FOR FILE BY BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-05-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 383 NOTE FOR FILE BY BUNTING
-
-NAA: A1209, 1971/9449 PART 1
 
 Canberra, 8 May 1972
 
@@ -35,3 +38,5 @@ I spoke to Mr Bowen in Sydney on Thursday, 4 May, about ‘the Australia House�
 9\. I said even so, I would not want the Prime Minister to agree to it without there first being an opportunity for me to talk to him. I would not be able to do this before next week.
 
 10\. Mr Bowen took note of my suggestions for a redraft.
+
+[NAA: A1209, 1971/9449 PART 1]

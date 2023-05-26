@@ -1,14 +1,21 @@
 ---
-title: "144 Australian Dairy Farmers' Federation to Street"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9014
+doc_date: '1981-02-26'
+doc_num: 144
+doc_order: 144
+naa_refs:
+- naa_barcode: 1509882
+  naa_control_symbol: 370/1/19/18 PART 21
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, xxi]'
+title: Australian Dairy Farmers' Federation to Street
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-02-26
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 144 Australian Dairy Farmers' Federation to Street
-
-## Melbourne, 26 February 1981
+Melbourne, 26 February 1981
 
 I have attached for your information a copy of a submission outlining the ADFF's position in respect to the proposed closer economic relationship with New Zealand.
 
@@ -20,4 +27,4 @@ The attached submission explains the basis of the firm stand taken by the dairy 
 
 C.R. MANNERS Executive Director
 
-_[NAA: A1838, 370/1119/18, xxi]_
+ _[NAA: A1838, 370/1119/18, xxi]_

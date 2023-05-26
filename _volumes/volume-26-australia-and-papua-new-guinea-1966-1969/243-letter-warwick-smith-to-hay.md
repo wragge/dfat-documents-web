@@ -1,13 +1,17 @@
 ---
-title: "243 Letter, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9751
+doc_date: '1968-12-03'
+doc_num: 243
+doc_order: 243
+naa_refs:
+- naa_barcode: 12120443
+  naa_control_symbol: 1969/1157
+  naa_series: A452
+  reference: '[NAA: A452, 1969/1157]'
+title: Letter, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-12-03
-barcode: 32756524
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 243 Letter, Warwick Smith To Hay
 
 Canberra, 3 December 1968 .
 
@@ -15,17 +19,17 @@ Confidential
 
 Following their return from the Territory Dr Sinclair and Brigadier Campbell prepared some notes on the Bougainville situation. A copy of the paper is attached.
 
-The paper raises a number of points which require consideration for further action and these are listed in a separate attachment 1 The Minister is particularly interested in this and has enquired what steps are being taken to give effect to the suggestions made. I would be glad to have your views on the specific recommendations which might be submitted to the Minister for consideration. 2
+The paper raises a number of points which require consideration for further action and these are listed in a separate attachment [1](#f1) The Minister is particularly interested in this and has enquired what steps are being taken to give effect to the suggestions made. I would be glad to have your views on the specific recommendations which might be submitted to the Minister for consideration. [2](#f2)
 
-_[matter omitted]_
+ _[matter omitted]_
 
-**Attachment**
+ **Attachment**
 
 Notes On The Bougainville Situation
 
-_Separation movements generally_
+ _Separation movements generally_
 
-1\. Independence movements like the ‘Bougainville Referendum’ and the ‘Melanesian Independence Party’3 should not be regarded as wilful rebellion against the Administration. They are normal and predictable results of political education and growing sophistication of the people. If they did not occur the Administration would have failed in its efforts to make the people politically aware.
+1\. Independence movements like the ‘Bougainville Referendum’ and the ‘Melanesian Independence Party’[3](#f3) should not be regarded as wilful rebellion against the Administration. They are normal and predictable results of political education and growing sophistication of the people. If they did not occur the Administration would have failed in its efforts to make the people politically aware.
 
 2\. The assumed probable causes of these movements are:
 
@@ -37,7 +41,7 @@ c. conflict between the customary dispersion of native power systems into local 
 
 d. individual motivations: e.g., there is little doubt that Paul LAPUN’s political ambitions influenced his support of the referendum proposals. Similarly, there are grounds for suspicion that the economic goals of some expatriates influenced the Melanesian Independence move.
 
-_Causes specific to Bougainville_
+ _Causes specific to Bougainville_
 
 3\. In addition to those causes common to independence listed in para 2 above, those specific to Bougainville appear to fall under the following headings:
 
@@ -85,11 +89,11 @@ d. The advent of CRA has been a precipitating and not a causal factor. It has ha
 
 (2) knowledge of the presence of copper reinforces feelings of superiority over other parts of the Territory and induces the fantasy that the people can exploit this source of wealth.
 
-_ The Administration_
+ _The Administration_
 
 7\. Its Dilemma
 
-a. In an earlier report (1964 Follow Up Study on Mental Health of the Indigenes of TPNG)4 we commented
+a. In an earlier report (1964 Follow Up Study on Mental Health of the Indigenes of TPNG)[4](#f4) we commented
 
 > ‘Any administrative authority attempting to implement a process of cultural change in an immature preliterate social group is in the unenviable position of a parent attempting to guide a family of not very co-operative adolescents towards adulthood.
 
@@ -139,7 +143,7 @@ b. The Administration is strong in the latter and lamentably weak in the former.
 
 > ‘Yes, they understand us and talk to us from here (indicating the head) but they don’t understand us and talk to us’ from here (indicating the heart)’.
 
-c. Some DNA5 officers are skilled in both kinds of communication, vide the dramatic change that has occurred in the attitudes of the BUKA people over the past 4 years. The Administration would be well advised to identify such officers and ensure they fill key posts in BOUGAINVILLE.
+c. Some DNA[5](#f5) officers are skilled in both kinds of communication, vide the dramatic change that has occurred in the attitudes of the BUKA people over the past 4 years. The Administration would be well advised to identify such officers and ensure they fill key posts in BOUGAINVILLE.
 
 d. One further point on communication must be made. Native people are literal and pragmatic in their interpretation of the spoken word. They are incapable of understanding the fine shades of ‘implication’ used by Europeans. They do understand a firm ‘Yes’ or ‘No’. Diplomatic statements the Secretary makes, like ‘The referendum proposal will be given favourable consideration’ are interpreted as an agreement the referendum will be carried out. An audible speculation about ‘liking to build a road’ is interpreted to mean the road will be commenced immediately ... It is vital that no person in authority—Minister, Secretary, Administrator or Administration officer makes these kinds of statements.
 
@@ -151,11 +155,11 @@ b. We believe that this attitude can be countered only by permitting the senior 
 
 c. As an extension of the need for dispersed control the Government would do well to realise that the permissive benign, yet authoritative control required by the Territory as a whole can NOT be exercised from CANBERRA.
 
-_The Missions?_
+ _The Missions?_
 
-11\. The paper ‘The Bougainville Situation ’6 prepared by Ashton7 et al sets out adequately the position relating to the Missions. It is sufficient to comment that although the Missions still exert a powerful influence, the growing disenchantment of the people, the denominational differences between Missions and the internal disagreement in political attitudes within the Marist Mission all create lines of fission which can be exploited.
+11\. The paper ‘The Bougainville Situation ’[6](#f6) prepared by Ashton[7](#f7) et al sets out adequately the position relating to the Missions. It is sufficient to comment that although the Missions still exert a powerful influence, the growing disenchantment of the people, the denominational differences between Missions and the internal disagreement in political attitudes within the Marist Mission all create lines of fission which can be exploited.
 
-_C.R.A._
+ _C.R.A._
 
 12\. Role In Current Unrest
 
@@ -177,7 +181,7 @@ d. The success of this propaganda was aided by the attitudes of some Marist prie
 
 a. The BOUGAINVILLE people are NOT unanimous in their attitudes towards CRA. Their reactions vary widely according to location, status, age and education.
 
-b. Reasons for pro-CRA attitudes range from specific benefits—more roads, earn more money—to the generalised statement that CRA is ‘gut pela samting’ .8
+b. Reasons for pro-CRA attitudes range from specific benefits—more roads, earn more money—to the generalised statement that CRA is ‘gut pela samting’ .[8](#f8)
 
 c. Stated reasons for opposition to CRA are:—
 
@@ -203,21 +207,21 @@ d. A brief summary of area reactions are
 
 (2) ROVOVANA. Anti-CRA reasons (3), (4) and (8) balanced by pro-CRA attitudes.
 
-(3) NORTH &amp; SOUTH NASOR. Same anti-CRA reactions as GUAVA. Some pro-CRA sentiments.
+(3) NORTH & SOUTH NASOR. Same anti-CRA reactions as GUAVA. Some pro-CRA sentiments.
 
-(4) BUIN &amp; SIVAI. Anti-CRA attitudes (3, 4 and 6) outweighed by CRA support and disinterest.
+(4) BUIN & SIVAI. Anti-CRA attitudes (3, 4 and 6) outweighed by CRA support and disinterest.
 
 (5) NAGOVISI. Strong anti-CRA attitudes.
 
 (6) WAKUNAI. Evenly divided pro and anti-CRA.
 
-(7) BUKA PASSAGE &amp; BUKA. Generally pro-CRA.
+(7) BUKA PASSAGE & BUKA. Generally pro-CRA.
 
 14\. Cra Attitude Towards Native People
 
 a. CRA is taking [an] enlightened course in its relations with the people. It wishes to proceed with the project as quickly as possible, but in doing so is anxious that it disturbs the native situation as little as possible.
 
-b. It has sought expert advice from two anthropologists (OLIVER9 and NAYACAKALOU),10 is employing a psychologist from 1st January 1969, and cooperates with the Administration.
+b. It has sought expert advice from two anthropologists (OLIVER[9](#f9) and NAYACAKALOU),[10](#f10) is employing a psychologist from 1st January 1969, and cooperates with the Administration.
 
 c. The CRA submissions attached to the paper ‘BOUGAINVILLE Situation’ sets out the situation much as we saw it.
 
@@ -229,7 +233,7 @@ b. However, if it proceeds to exploit the copper deposits, its operations will e
 
 c. It may be accepted that CRA’s interests are _not_ altruistic.
 
-_Lines of fission in BOUGAINVILLE_
+ _Lines of fission in BOUGAINVILLE_
 
 16\. The greatest asset the Administration has in the manipulation of the BOUGAINVILLE situation is that the people are NOT united on practically every major issue. The most obvious lines of fission are—
 
@@ -246,9 +250,9 @@ This did NOT please the delegates who sent LAPUN a message to come by the next p
 
 B Religious
 
-(1) _Roman Catholic Missions v. Methodists &amp; SDA._11 These differences exist on political as well as religious grounds. SDA support the Administration, Methodists are more or less neutral, Marist priests while divided are generally anti-Administration, anti-CRA.
+(1) _Roman Catholic Missions v. Methodists & SDA._[11](#f11) These differences exist on political as well as religious grounds. SDA support the Administration, Methodists are more or less neutral, Marist priests while divided are generally anti-Administration, anti-CRA.
 
-(2) _Internal Marist differences._ Fr. O’SULLIVAN12 et al pro-Administration v. Fr. FINGLETON13 et al anti-Administration.
+(2) _Internal Marist differences._ Fr. O’SULLIVAN[12](#f12) et al pro-Administration v. Fr. FINGLETON[13](#f13) et al anti-Administration.
 
 (3) _Younger educated people (and probably others) v. the Church._ Members of the former group expressed opinions that people were becoming disillusioned with the Church both as a political force and as a spiritual comfort. This thinking tends to be supported by Bishop LEMAY’ s stated opinion that the Church would be out of BOUGAINVILLE within the next 10 years.
 
@@ -260,7 +264,7 @@ C. Social
 
 (3) People by areas pro-con referendum.
 
-_Action by the Administration_
+ _Action by the Administration_
 
 17\. It is our opinion that the whole BOUGAINVILLE situation is ready-made for the application of a psychological operation aimed at manipulating public attitudes in the Administration’ s favour. If undertaken this operation should include:
 
@@ -342,17 +346,17 @@ b. Topics to raise doubts
 
 (1) Real aims of LAPUN et al—personal aggrandizement v. good of the people.
 
-(2) 14
+(2) [14](#f14)
 
-(3) Competence and clear thinking of LAPUN et al—conflicting motions, common name for Territory v. Referendum for secession.15
+(3) Competence and clear thinking of LAPUN et al—conflicting motions, common name for Territory v. Referendum for secession.[15](#f15)
 
 (4) Real aims of RC Church—welfare of people v their political manipulation.
 
-_Warning_
+ _Warning_
 
-21\. The statements made in these notes do NOT have the oracular quality as those which emanated from DELPHI. They are merely the results of a bi-disciplinary analysis of the information available.16
+21\. The statements made in these notes do NOT have the oracular quality as those which emanated from DELPHI. They are merely the results of a bi-disciplinary analysis of the information available.[16](#f16)
 
-[ [NAA: A452, 1969/1157](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=32756524) ]
+[NAA: A452, 1969/1157]
 
 1  Not printed.
 

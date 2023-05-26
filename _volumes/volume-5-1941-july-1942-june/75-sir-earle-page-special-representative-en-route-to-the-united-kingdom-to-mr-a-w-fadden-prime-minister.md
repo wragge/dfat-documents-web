@@ -1,12 +1,18 @@
 ---
-title: "75 Sir Earle Page, Special Representative en route to the United Kingdom, to Mr A. W. Fadden, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1829
+doc_date: '1941-10-01'
+doc_num: 75
+doc_order: 76
+naa_refs:
+- naa_barcode: 4681179
+  naa_control_symbol: '2'
+  naa_series: CP290/8
+  reference: '[AA: CP290/8, BUNDLE 1]'
+title: Sir Earle Page, Special Representative en route to the United Kingdom, to Mr
+  A. W. Fadden, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-10-01
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 75 Sir Earle Page, Special Representative en route to the United Kingdom, to Mr A. W. Fadden, Prime Minister
 
 Cablegram unnumbered SINGAPORE, 1 October 1941, 4.23 p.m.
 
@@ -22,7 +28,7 @@ Owing to American Clipper engine breakdown at Guam am now leaving Singapore Satu
 
 PAGE
 
-_
+ _
 
 1 Alfred Duff Cooper, U.K. Chancellor of the Duchy of Lancaster, arrived in Singapore on 9 September on a mission to assess the strategic situation in the Far East. He was still there on 10 December when he was advised of his appointment (announced in the House of Commons on 19 December) as U.K. Minister of State for Far Eastern Affairs resident in Singapore. He retained his Chancellorship and presided over the Singapore War Council. He left Singapore on 13 January 1942 consequent upon General Sir Archibald Wavell's appointment to the post of Supreme Commander of the A.B.D.A. Area.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA: CP290/8, BUNDLE 1]_
+ _[AA: CP290/8, BUNDLE 1]_

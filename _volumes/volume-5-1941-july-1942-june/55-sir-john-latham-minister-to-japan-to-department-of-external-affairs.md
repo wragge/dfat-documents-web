@@ -1,12 +1,17 @@
 ---
-title: "55 Sir John Latham, Minister to Japan, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1809
+doc_date: '1941-09-01'
+doc_num: 55
+doc_order: 56
+naa_refs:
+- naa_barcode: 177620
+  naa_control_symbol: JAP 185 PART 2
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, ii]'
+title: Sir John Latham, Minister to Japan, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-01
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 55 Sir John Latham, Minister to Japan, to Department of External Affairs
 
 Cablegram 414 TOKYO, 1 September 1941, 3.55 p.m.
 
@@ -22,7 +27,7 @@ I would be glad to have any suggestions as to any other points I might make.
 
 LATHAM
 
-_
+ _
 
 1 Dispatched 25 and 27 August. On file AA:A981, Japan 185B, ii.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, ii]_
+ _[AA: A981, JAPAN 185B, ii]_

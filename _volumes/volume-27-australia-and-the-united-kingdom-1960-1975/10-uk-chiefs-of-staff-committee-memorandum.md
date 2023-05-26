@@ -1,14 +1,17 @@
 ---
-title: "10 UK CHIEFS OF STAFF COMMITTEE MEMORANDUM"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9877
+doc_date: '1962-01-09'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DEFE 5/123]'
+title: UK CHIEFS OF STAFF COMMITTEE MEMORANDUM
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-01-09
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 10 UK CHIEFS OF STAFF COMMITTEE MEMORANDUM
-
-UKNA: DEFE 5/123
 
 London, 9 January 1962
 
@@ -24,7 +27,7 @@ Introduction
 
 1\. The Prime Minister has re-defined the political assumptions on which our defence policy and strategy should be based and has directed that we should prepare, on the basis of these political assumptions, proposals for a revised strategy to secure the objectives of our defence policy in the next decade, making the best use of our limited resources.
 
-_General Assumptions_
+ _General Assumptions_
 
 2\. The Prime Minister’s general assumptions are as follows:–
 
@@ -62,7 +65,7 @@ _General Assumptions_
 
 (e) _Staging and Over-flying._ Similarly, we must expect increasing difficulty in securing the exercise of staging or over-flying rights for purposes which the Governments concerned are not in sympathy.
 
-_Objectives of Defence Policy_
+ _Objectives of Defence Policy_
 
 3\. The Prime Minister has given the following general objectives of our defence policy:–
 
@@ -94,25 +97,25 @@ Part IV– After the Sixties
 
 Part V– Financial Implications of the Proposed Strategy
 
-_[matter omitted]_
+ _[matter omitted]_
 
-_The Far East_
+ _The Far East_
 
 21\. Our objectives in the Far East, as recently confirmed by the Prime Minister, are firstly to prevent Communist, particularly Chinese Communist, expansion throughout the area by support of SEATO and other means, and secondly to preserve our links with Australia and New Zealand and to contribute to their forward defence. We also have a continuing commitment to maintain forces in Hong Kong and a traditional naval obligation to keep the High Seas free of pirates. It has now become clear that a Government of Greater Malaysia is likely to come about, but there is likely to be a period of transition before it will be able to assume full responsibility for internal security throughout the territories of Greater Malaysia and especially on the Malay/Thai border. We must therefore expect for some time to come to contribute to the internal security of the Greater Malaysia territories.
 
 22\. Apart from our independent contribution to the nuclear deterrent against China, most of the military commitments which derive from these objectives are shaped by SEATO plans. These plans require us to provide naval and air forces, with a nuclear and amphibious capability, and the United Kingdom element of the Commonwealth Brigade Group, for certain operations on the mainland of South East Asia. In addition we shall remain responsible, with our ANZAM partners, for the external defence of the territories composing Greater Malaysia and, directly, for Hong Kong and the South West Pacific territories. We are also committed by public declaration in 1953 to join with the other fifteen nations who took part in the United Nations Command in Korea to resolve promptly and in unison any unprovoked breach by the Communists of the Korean Armistice.
 
-_[matter omitted]_
+ _[matter omitted]_
 
 Strategic Stance We Foresee For The Seventies
 
-_General Concept_
+ _General Concept_
 
 119\. Despite the development and spread of automatic weapon systems, particularly weapons of mass destruction, we believe that conventional forces will still be required to achieve military objectives in circumstances short of global war. We shall continue to need to be able to deploy land forces overseas when required, but more speedily than at present, and to provide them with sea and air support. Air operations will increasingly be affected by improved forms of propulsion, vertical lift and space development. At sea, although for physical reasons the speed of transit is likely to be much as at present, we shall see greater emphasis on underwater movement and concealment, and the use of missiles.
 
 120\. So long as we continue to have commitments in the Middle or Far East we shall still need facilities on land, and a commensurate military presence, east of the Barrier. Only Australia can provide the security of tenure and industrial backing that we require here. We therefore see our eventual strategy as supported by two main bases—the United Kingdom and Australia.
 
-_The Sixties as a Period of Transition_
+ _The Sixties as a Period of Transition_
 
 121\. Meanwhile, we have been directed to assume the availability of facilities in the Arabian Peninsula and Singapore until 1970. For financial reasons we have not been able to recommend the provision during the Sixties of alternative facilities, including additional seaborne forces, strategic transport aircraft and bases in Australia. If for any reason political developments in either of these places compel us to withdraw before the middle-Seventies the lack of these alternative facilities will greatly complicate, and make for considerable delay in, the meeting of what are likely to be our residual commitments until they are provided. In particular, in view of the time it takes to build ships and to procure aircraft (particularly VC 10s) and the essential part played by Singapore in an interim strategy, the effect of the premature loss of the facilities there would be particularly crippling.
 
@@ -128,4 +131,6 @@ _The Sixties as a Period of Transition_
 > 
 > (e) The equipping and training of the RAF DF/GA reinforcement squadrons in the UK for dual role of ashore and carrier based support.
 
-_[matter omitted]_
+ _[matter omitted]_
+
+[UKNA: DEFE 5/123]

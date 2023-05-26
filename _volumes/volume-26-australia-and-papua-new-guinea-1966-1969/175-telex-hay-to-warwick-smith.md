@@ -1,12 +1,17 @@
 ---
-title: "175 Telex, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9683
+doc_date: '1968-04-23'
+doc_num: 175
+doc_order: 175
+naa_refs:
+- naa_barcode: 31698759
+  naa_control_symbol: 1970/4520
+  naa_series: A452
+  reference: '[NAA: A452, 1970/4520]'
+title: Telex, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-04-23
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 175 Telex, Hay To Warwick Smith
 
 Port Moresby, 23 April 1968
 
@@ -16,29 +21,29 @@ I have now had the opportunity of detailed discussions with Watkins on proposed 
 
 I have the following observations—
 
-(a) General approach should be to make minimum changes in legislation. Too much definition underlines what powers the Assembly has not got just as much as it clarifies powers which the Assembly has. This could be an invitation to the Assembly to seek more. It is preferable in my view not to enter into too many definitions. Amendments we do make should be as closely as possible related to the Select Committee report.1
+(a) General approach should be to make minimum changes in legislation. Too much definition underlines what powers the Assembly has not got just as much as it clarifies powers which the Assembly has. This could be an invitation to the Assembly to seek more. It is preferable in my view not to enter into too many definitions. Amendments we do make should be as closely as possible related to the Select Committee report.[1](#f1)
 
 (b) I accept need to include reference in amendments to both Ministerial Members and Assistant Ministerial Members.
 
-(c) From what Watkins tells me there is a virtual rewrite of Division (Administrator’s Council).2 This seems to me a pity. Section 19(1) needs only a change of name (which is of course needed throughout),3 no change needed in 19(2). (A) and (B) (C)4 needs amendment but suggest this be on lines consistent with Select Committee report e.g. eight elected members of the House of {whom} seven hold office as {Ministerial Members. No need to change 19(3) (4) (5) (6) (7) (8) or (9)5 of section 20}.6 If we are going to change section 20 we would have to make reference to function in Select Committee report. However in fact main work of Council is not going to be ‘advice’ but consultation. This course is now open but {could} be closed off by any amendment to this section.
+(c) From what Watkins tells me there is a virtual rewrite of Division (Administrator’s Council).[2](#f2) This seems to me a pity. Section 19(1) needs only a change of name (which is of course needed throughout),[3](#f3) no change needed in 19(2). (A) and (B) (C)[4](#f4) needs amendment but suggest this be on lines consistent with Select Committee report e.g. eight elected members of the House of {whom} seven hold office as {Ministerial Members. No need to change 19(3) (4) (5) (6) (7) (8) or (9)[5](#f5) of section 20}.[6](#f6) If we are going to change section 20 we would have to make reference to function in Select Committee report. However in fact main work of Council is not going to be ‘advice’ but consultation. This course is now open but {could} be closed off by any amendment to this section.
 
-(d) I agree there should be a division on ministerial officers7 and that number and portfolios of Ministerial Members should be as determined by Minister on recommendation of the Administrator. Consider appointment and designation of Assistant Ministerial Members should be left to Administrator as is now the case with Under Secretaries otherwise we shall {create} impression of more rather than less delegation by the Minister. Agree that Minister’s power to allot only part of a department’s function to a Minister should be put in ordinance. I am opposed to any attempt to define in ordinance functions of Ministerial Members. We can rest more satisfactorily on the vague wording of the Select Committee report. Agree that legislation should prohibit conferring of powers on Ministers by Territory ordinance (as distinct from delegation).
+(d) I agree there should be a division on ministerial officers[7](#f7) and that number and portfolios of Ministerial Members should be as determined by Minister on recommendation of the Administrator. Consider appointment and designation of Assistant Ministerial Members should be left to Administrator as is now the case with Under Secretaries otherwise we shall {create} impression of more rather than less delegation by the Minister. Agree that Minister’s power to allot only part of a department’s function to a Minister should be put in ordinance. I am opposed to any attempt to define in ordinance functions of Ministerial Members. We can rest more satisfactorily on the vague wording of the Select Committee report. Agree that legislation should prohibit conferring of powers on Ministers by Territory ordinance (as distinct from delegation).
 
-(e) Reference to Ministerial Appointments Committee should read Ministerial Nominations Committee. As committee is essentially a negotiating body definitions of quorum and what constitutes an agreement could well be avoided.8
+(e) Reference to Ministerial Appointments Committee should read Ministerial Nominations Committee. As committee is essentially a negotiating body definitions of quorum and what constitutes an agreement could well be avoided.[8](#f8)
 
 (f) I understand that section 56 will be amended to provide for the withholding of assent to part of an ordinance and that you agree with the necessity for a provision to enable urgent Administration business to be given priority.
 
-[NAA: A452, 1970/4520)
+[NAA: A452, 1970/4520]
 
-**Changes to the Papua and New Guinea Act**
+ **Changes to the Papua and New Guinea Act**
 
-_On 22 and 23 April, Territories requested the Cabinet Office to quickly push Barnes’ submission (Document 173) through Cabinet so that procedures involving amendments to the Act could be completed by the opening of the new House of Assembly on 4 June._1
+ _On 22 and 23 April, Territories requested the Cabinet Office to quickly push Barnes’ submission (Document 173) through Cabinet so that procedures involving amendments to the Act could be completed by the opening of the new House of Assembly on 4 June._[1](#f_490_1)
 
-_On 30 April, Cabinet approved the recommendations contained in the submission.2 On the first recommendation—that Government have authority to claim priority in the House for Administration business–Cabinet ‘recognised that this amendment might be criticised as running counter to the progress of independence for the House but concluded that, in the circumstances, it was a necessary reserve power. It felt that the position would be assisted if the Administrator could make opportunities for local consultation to explain the purpose of the measure’._
+ _On 30 April, Cabinet approved the recommendations contained in the submission.[2](#f_490_2) On the first recommendation—that Government have authority to claim priority in the House for Administration business–Cabinet ‘recognised that this amendment might be criticised as running counter to the progress of independence for the House but concluded that, in the circumstances, it was a necessary reserve power. It felt that the position would be assisted if the Administrator could make opportunities for local consultation to explain the purpose of the measure’._
 
-_Minor changes were made to the Act after Hay complained that its wording in parts negated drafting intentions and ‘the practice in the last year or so [which] has been to concentrate on informal consultation [with the AEC] as provided in [the] new [section] 19–3’.3 He recorded his ‘strong view that we should continue to operate predominantly under this section’._
+ _Minor changes were made to the Act after Hay complained that its wording in parts negated drafting intentions and ‘the practice in the last year or so [which] has been to concentrate on informal consultation [with the AEC] as provided in [the] new [section] 19–3’.[3](#f_490_3) He recorded his ‘strong view that we should continue to operate predominantly under this section’._
 
-_Excerpts of the amended sections of the Act relating to the AEC and ministerial functions read:_
+ _Excerpts of the amended sections of the Act relating to the AEC and ministerial functions read:_
 
 Part iv—The Executive Government ...
 
@@ -72,15 +77,15 @@ Division 2–The Administrator’s Executive Council
 
 (4) _The regulations may prescribe the procedure of the Council and, subject to the regulations, the procedure shall be as the Council determines ..._
 
-23— (1) _A member of the Council other than the Administrator shall, before entering on his duties as a member of the Council, make and subscribe an oath or affirmation in accordance with the form in the Eighth Schedule to this Act ...4_
+23— (1) _A member of the Council other than the Administrator shall, before entering on his duties as a member of the Council, make and subscribe an oath or affirmation in accordance with the form in the Eighth Schedule to this Act ...[4](#f_491_4)_
 
 Division 3—Ministerial Offices
 
-24— (1)_There shall be_
+24— (1) _There shall be_
 
 (a) _seven offices of ministerial member of the House of Assembly, of such respective designations as the Minister from time. to time determines; and_
 
-(b)_such number, being not more than ten, of offices of assistant ministerial member of the House of Assembly, and of such respective designations, as the Minister from time to time determines._
+(b) _such number, being not more than ten, of offices of assistant ministerial member of the House of Assembly, and of such respective designations, as the Minister from time to time determines._
 
 (2) _In respect of each ministerial office, the Minister shall determine, from time to time, the matters in respect of which the holder of the office is to perform the functions of a ministerial member or assistant ministerial member, as the case requires, being all or any of the matters to which the functions of a specified department of the Public Service relate._
 
@@ -106,13 +111,13 @@ Division 3—Ministerial Offices
 
 29— (1) _A person who is appointed to a ministerial office shall, before entering on the duties of office, make and subscribe an oath or affirmation in accordance with the form in the Ninth Schedule to this Act ..._
 
-_During a speech to parliament in which the changes were described in largely factual terms, Barnes said that they reflected the will of PNG s people and represented ‘an important advance on the side of the executive government’.5 He also reiterated the Governments belief that_
+ _During a speech to parliament in which the changes were described in largely factual terms, Barnes said that they reflected the will of PNG s people and represented ‘an important advance on the side of the executive government’.[5](#f_492_5) He also reiterated the Governments belief that_
 
-> _political development cannot be divorced from economic development ... Nor can the problems of achieving experience in administration and at both the political and Public Service level be overlooked. The acquisition of experience is not a process that lends itself to too much acceleration ... I emphasise the great importance which ... the Government attaches to securing an effective balance between political and economic development and to securing advance in both areas at a rate which will be tolerable in human terms–that is, tolerable to the people of the Territory who are called upon to make such adjustments._
+>  _political development cannot be divorced from economic development ... Nor can the problems of achieving experience in administration and at both the political and Public Service level be overlooked. The acquisition of experience is not a process that lends itself to too much acceleration ... I emphasise the great importance which ... the Government attaches to securing an effective balance between political and economic development and to securing advance in both areas at a rate which will be tolerable in human terms–that is, tolerable to the people of the Territory who are called upon to make such adjustments._
 
-_In reply, Leader of the Opposition Gough Whit/am condemned the amendments as carrying ‘gradualism to the point of imperceptibility’.6 He said that Barnes’ view of independence as being 20 to 30 years away was an ‘irrelevance’—and it was dangerous:_
+ _In reply, Leader of the Opposition Gough Whit/am condemned the amendments as carrying ‘gradualism to the point of imperceptibility’.[6](#f_492_6) He said that Barnes’ view of independence as being 20 to 30 years away was an ‘irrelevance’—and it was dangerous:_
 
-> _With greater humility and greater humanity more satisfactory progress might be made. The situation which is developing in Papua and New Guinea is one fraught with grave risks both for that country and·our own. The Administration is paternalistic, insensitive to the feelings and attitudes of the indigenous people, complacent and self–satisfied. Among the New Guineans themselves, and in particular among the more educated groups, there is a growing awareness of the Administrations stance and a growing resentment of that stance ... It may be said at this stage that the resentment is centred in the coastal towns and cities. If one looks at the whole history of independence in every country which has gained independence since the war, one will find that the views which have been born and fostered in the coastal cities have taken possession of the whole country._
+>  _With greater humility and greater humanity more satisfactory progress might be made. The situation which is developing in Papua and New Guinea is one fraught with grave risks both for that country and·our own. The Administration is paternalistic, insensitive to the feelings and attitudes of the indigenous people, complacent and self–satisfied. Among the New Guineans themselves, and in particular among the more educated groups, there is a growing awareness of the Administrations stance and a growing resentment of that stance ... It may be said at this stage that the resentment is centred in the coastal towns and cities. If one looks at the whole history of independence in every country which has gained independence since the war, one will find that the views which have been born and fostered in the coastal cities have taken possession of the whole country._
 
 1 Document 118.
 

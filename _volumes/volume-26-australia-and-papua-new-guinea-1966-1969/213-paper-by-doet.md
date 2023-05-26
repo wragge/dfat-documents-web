@@ -1,24 +1,29 @@
 ---
-title: "213 Paper By Doet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9721
+doc_date: '1968-07-22'
+doc_num: 213
+doc_order: 213
+naa_refs:
+- naa_barcode: 635353
+  naa_control_symbol: 3034/10/1/4/1
+  naa_series: A1838
+  reference: '[NAA: Al838, 3034/1011/4/1]'
+title: Paper By Doet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-07-22
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 213 Paper By Doet
 
 Canberra, 22 July 1968
 
 Top Secret
 
-**PNG/West Irian Border—contingency planning**
+ **PNG/West Irian Border—contingency planning**
 
-_Background_
+ _Background_
 
 The United Nations Mission led by Mr F. Ortiz-Sanz which has been appointed by the Secretary-General of the United Nations to assist in the arrangements for the exercise of self-determination by the people of West Irian is due to arrive in Sukanapura in mid August. 
 
-2\. On the basis of information received from a usually reliable source within the Territory the Administrator recently advised that the Papuan National Front2 was believed to be planning demonstrations for August 17th to coincide with the arrival of the Mission. He went on to say that—
+2\. On the basis of information received from a usually reliable source within the Territory the Administrator recently advised that the Papuan National Front[2](#f2) was believed to be planning demonstrations for August 17th to coincide with the arrival of the Mission. He went on to say that—
 
 • The Papuan National Front adherents are known to have some arms.
 
@@ -34,15 +39,15 @@ The United Nations Mission led by Mr F. Ortiz-Sanz which has been appointed by t
 
 4\. The handling of such a situation could prove to be beyond the capacity of the Administration’s own resources and it might become necessary to seek the assistance of the PIR. This would raise policy issues for consideration by the Departments of External Affairs and Defence.
 
-5\. Although the latest advice from the Administration is that as the Liberation3 Front fears reprisals it has issued instructions that large-scale disturbances previously planned are not to take place, it is considered that it would be unwise to ignore the possibility of the situation developing on the lines feared earlier, and that thought should be given at this stage to possible courses of action in that event.
+5\. Although the latest advice from the Administration is that as the Liberation[3](#f3) Front fears reprisals it has issued instructions that large-scale disturbances previously planned are not to take place, it is considered that it would be unwise to ignore the possibility of the situation developing on the lines feared earlier, and that thought should be given at this stage to possible courses of action in that event.
 
-_Assessment of likely developments_
+ _Assessment of likely developments_
 
-6\. The TIC's assessments which are in line with the above are given in Item 408 of MIS No. 5/684 and Item 418 of MIS No. 6/68.5 It would be helpful to have these assessments checked by External Affairs and the JIC in the light of the latest information available. The Administration has been asked to provide any further relevant information from sources within the Territory immediately it comes to hand.
+6\. The TIC's assessments which are in line with the above are given in Item 408 of MIS No. 5/68[4](#f4) and Item 418 of MIS No. 6/68.[5](#f5) It would be helpful to have these assessments checked by External Affairs and the JIC in the light of the latest information available. The Administration has been asked to provide any further relevant information from sources within the Territory immediately it comes to hand.
 
-_Courses of action _
+ _Courses of action_
 
-7\. On the assumption that any incursions by Indonesian forces would be motivated solely by a desire to apprehend West Irianese ‘rebels’ (i.e. that there would be no covert aggression as in a Pygmalion-type situation)6possible courses of action would seem to be:—
+7\. On the assumption that any incursions by Indonesian forces would be motivated solely by a desire to apprehend West Irianese ‘rebels’ (i.e. that there would be no covert aggression as in a Pygmalion-type situation)[6](#f6)possible courses of action would seem to be:—
 
 a. Diplomatic action with a view to—
 
@@ -54,7 +59,7 @@ b. Action by the Administration to try to handle any influx of West Irianese sol
 
 c. In the event of the situation developing beyond the Administration’s capacity to handle it, the assistance of the locally based Services (in particular the PIR) to be sought.
 
-_Contingency planning by the Administration_
+ _Contingency planning by the Administration_
 
 8\. As regards (b) above the Administration has been informed that as there can be no certainty of Government approval of Services’ assistance, plans must be made which include the possibility that the situation would have to be handled within its own resources.
 
@@ -68,19 +73,19 @@ iii. an influx of armed bands of Papuan Nationalists who might wish to use PNG a
 
 iv. incursions by Indonesian troops in pursuit of armed bands.
 
-10\. To assist consideration of the matter in Canberra the Administration has been asked to provide (in time for circulation before the inter-departmental meeting) the following information in relation to stages (i) to (iv) above:7—
+10\. To assist consideration of the matter in Canberra the Administration has been asked to provide (in time for circulation before the inter-departmental meeting) the following information in relation to stages (i) to (iv) above:[7](#f7)—
 
 i. maximum DDA and police strength which the Administration could dispose in border areas and maximum number of unarmed refugees that could be handled and cared for;
 
 ii. if the influx of unarmed refugees developed beyond (i), the kind of logistic and administrative assistance needed from the PIR;
 
-iii. the kind of action contemplated, using the Administration’s own resources (DDA staff and police) in such situations and the kind of assistance that might be required bearing in mind the need to minimise the likelihood of confrontation between Indonesian troops and the PIR on the border as stressed in paragraph 7 of your memorandum of 28th June.8
+iii. the kind of action contemplated, using the Administration’s own resources (DDA staff and police) in such situations and the kind of assistance that might be required bearing in mind the need to minimise the likelihood of confrontation between Indonesian troops and the PIR on the border as stressed in paragraph 7 of your memorandum of 28th June.[8](#f8)
 
-_Other aspects_
+ _Other aspects_
 
-11\. The Administration has also been asked to provide a copy of any instruction similar to the attached extract from PNG Comd Operational Instruction 1/679—Patrols and Operational Exercises relating to the handling of border incidents which may have been issued to PNG police.
+11\. The Administration has also been asked to provide a copy of any instruction similar to the attached extract from PNG Comd Operational Instruction 1/67[9](#f9)—Patrols and Operational Exercises relating to the handling of border incidents which may have been issued to PNG police.
 
-12\. In relation to paragraph 7 above (diplomatic action) it would be desirable for Administration officers to be fully briefed regarding the means of identifying any Indonesian Army detachments who may cross into our Territory. Presumably such briefing could be given by PNG Comd.10
+12\. In relation to paragraph 7 above (diplomatic action) it would be desirable for Administration officers to be fully briefed regarding the means of identifying any Indonesian Army detachments who may cross into our Territory. Presumably such briefing could be given by PNG Comd.[10](#f10)
 
 [NAA: Al838, 3034/1011/4/1]
 

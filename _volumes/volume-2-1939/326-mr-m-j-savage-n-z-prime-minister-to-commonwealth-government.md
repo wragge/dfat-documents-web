@@ -1,12 +1,17 @@
 ---
-title: "326 Mr M.J. Savage, N.Z. Prime Minister, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 663
+doc_date: '1939-11-05'
+doc_num: 326
+doc_order: 326
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA: A989, 43/735/143]'
+title: Mr M.J. Savage, N.Z. Prime Minister, to Commonwealth Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-05
+vol_title: 'Volume 2: 1939'
 ---
-
-# 326 Mr M.J. Savage, N.Z. Prime Minister, to Commonwealth Government
 
 Cablegram unnumbered WELLINGTON, 5 November 1939, 9.15 a.m.
 
@@ -60,7 +65,7 @@ ordered transit from war to peace economy, etc.
 
 M.J. SAVAGE
 
-_
+ _
 
 1 See Document 311, note 2.
 
@@ -74,4 +79,4 @@ _
 
 _
 
-_ [AA: A989, 43/735/143]_
+ _[AA: A989, 43/735/143]_

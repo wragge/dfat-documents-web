@@ -1,14 +1,19 @@
 ---
-title: "403 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1169
+doc_date: '1940-06-18'
+doc_num: 403
+doc_order: 403
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4433]'
+title: Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-18
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 403 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
-
-## Cablegram [443] [1] LONDON, 18 June 1940
+Cablegram [443] [1] LONDON, 18 June 1940
 
 MOST IMMEDIATE
 
@@ -32,7 +37,7 @@ My telegram No. 442. [2]
 
 BRUCE
 
-_
+ _
 
 1 The copy of this cablegram circulated in Canberra was numbered 433. The correct number has been taken from Bruce's file copy on AA: M100, June 1940. The time of dispatch was recorded as 10 a.m., but it appears more likely that it was sent at 10 p.m.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4433]_
+ _[FA: A3195, 1.4433]_

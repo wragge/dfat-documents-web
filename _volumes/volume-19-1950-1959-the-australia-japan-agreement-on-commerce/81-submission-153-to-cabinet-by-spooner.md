@@ -1,13 +1,17 @@
 ---
-title: "81 Submission 153 To Cabinet By Spooner"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7686
+doc_date: '1954-10-25'
+doc_num: 81
+doc_order: 81
+naa_refs:
+- naa_barcode: 4678874
+  naa_control_symbol: '153'
+  naa_series: A4906
+  reference: '[AA : A4906, VOLUME 6]'
+title: Submission 153 To Cabinet By Spooner
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-10-25
-barcode: 209116
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
-
-# 81 Submission 153 To Cabinet By Spooner
 
 25th October, 1954
 
@@ -87,7 +91,7 @@ This view is of course dependent on the decisions yet to be taken by the Governm
 
 (i) The most practical course appears to be one of informing Japan that the Government proposes to examine, with goodwill, ways and means of affording Japan greater opportunities to expand her export trade to Australia, and to follow a policy of progressively easing import restrictions on Japanese goods (especially discriminatory import restrictions) whenever developments under the proposed more liberal licensing arrangements reveal that special protection against Japan is unnecessary on particular products. In addition Japan could be accorded, on a non- contractual basis, m.f.n. tariff rates on as wide a range of goods as protective considerations (and possibly preference considerations) permit. After Australia has had actual experience in trading under the more liberal conditions, experience may show that a basis exists for a formal Tariff Agreement with Japan.
 
-_
+ _
 
 1 Documents 73 and 78.
 
@@ -95,4 +99,4 @@ _
 
 _
 
-_ [ [AA : A4906, VOLUME 6](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=209116) ]_
+ _[AA : A4906, VOLUME 6]_

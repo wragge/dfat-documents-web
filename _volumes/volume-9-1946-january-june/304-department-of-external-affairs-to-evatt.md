@@ -1,13 +1,19 @@
 ---
-title: "304 Department of External Affairs to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3816
+doc_date: '1946-06-12'
+doc_num: 304
+doc_order: 304
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(a)]'
+title: Department of External Affairs to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 304 Department of External Affairs to Evatt
-
-CANBERRA, 12 June 146, 8.30 a.m.
+CANBERRA, 12 June 1946, 8.30 a.m.
 
 Cablegram A39
 
@@ -31,7 +37,7 @@ Australia, however, is deeply interested in progress of these negotiations and w
 
 5\. As regards Kirby's suggestion that he should return quickly to Australia to give full background information we have informed him that we are in touch with you and would prefer him to remain in Batavia pending receipt your views. In meantime, we have arranged for Detective MacDermott to leave for Batavia on 16 June and hope to arrange for typist and assistant, for whom Kirby also asked, to leave Australia shortly. After discussions in Sydney, Burton advises that he has arranged for Brennan [4] to act as Kirby's assistant. This still leaves open, however, question of permanent representation in Batavia regarding which separate cable will be sent.
 
-_
+ _
 
 1 Dispatched 12 June to Evatt, it reported that subsequent cablegrams would contain Sjahfir's letter to Brookes (Document 291), the draft of Sjahrir's counter proposals (see Document 297, note 3), and Kirby's cablegrams 114 (Document 299), 116 and 117 of 11 June.
 
@@ -43,4 +49,4 @@ M. Brennan.
 
 _
 
-_ [SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(a)]_
+ _[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(a)]_

@@ -1,12 +1,17 @@
 ---
-title: "148 Curtin to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2795
+doc_date: '1944-05-16'
+doc_num: 148
+doc_order: 148
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 662]'
+title: Curtin to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-16
+vol_title: 'Volume 7: 1944'
 ---
-
-# 148 Curtin to Forde
 
 Cablegram 18 LONDON, 16 May 1944, 2.20 p.m.
 
@@ -50,7 +55,7 @@ It was hoped that these would be available before the discussions in Washington.
 
 CURTIN
 
-_
+ _
 
 1 On file AA:A816, 146/301/1, i.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 662]_
+ _[AA:A5954, BOX 662]_

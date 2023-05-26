@@ -1,12 +1,18 @@
 ---
-title: "159 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 158
+doc_date: '1938-03-24'
+doc_num: 159
+doc_order: 158
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A.
+  Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-24
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 159 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister
 
 Circular Cablegram B80 LONDON, 24 March 1938, 2.55 a.m.
 
@@ -34,10 +40,10 @@ Government that the policy of non-intervention, even though infractions of this 
 
 In the meanwhile H.M. Government in a spirit of complete impartiality have devoted their efforts to such humanitarian work as has been possible for the benefit of the Spanish people as a whole. They have greatly deplored the excesses committed during this strife as affecting the civilian population, and they have taken every opportunity which presented itself to convey to both sides their strong disapproval of the employment of such methods which have earned public condemnation and are contrary to the rules of international law. It will be within the recollection of the House that so recently as on March 18th last, I expressed in this House horror and disgust at the indiscriminate bombing which was being carried out at Barcelona at that time, and strong representations have since been made to Salamanca authorities on this matter in conjunction with the French Government. It is a matter of some satisfaction to note that though their representations have as yet met with no definite response, there has been no recurrence of bombing at Barcelona since their representations were made.
 
-_
+ _
 
 1 Document 154 2 On 15 August 1937 Britain and France pledged not to interfere in Spain, and announced a prohibition on the export or re-export of all armaments and materials of war, to be effective as soon as Germany, Italy, U.S.S.R. and Portugal adhered to the declaration.
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

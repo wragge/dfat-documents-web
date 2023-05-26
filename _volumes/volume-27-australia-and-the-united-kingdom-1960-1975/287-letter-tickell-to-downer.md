@@ -1,18 +1,21 @@
 ---
-title: "287 LETTER, TICKELL TO DOWNER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10152
+doc_date: '1971-06-24'
+doc_num: 287
+doc_order: 287
+naa_refs:
+- naa_barcode: 551428
+  naa_control_symbol: 727/4/2 PART 17
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 17]'
+title: LETTER, TICKELL TO DOWNER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 287 LETTER, TICKELL TO DOWNER
-
-NAA: A1838, 727/4/2 PART 17 
 
 London, 24 June 1971
 
-When Mr Anthony and Mr Rippon met last Friday morning1 it was apparent that there was some misunderstanding about the exact terms of the understanding we have with the Community about provision for measures to avoid disruption of trade in agricultural commodities with third countries during the transitional period.
+When Mr Anthony and Mr Rippon met last Friday morning[1](#f1) it was apparent that there was some misunderstanding about the exact terms of the understanding we have with the Community about provision for measures to avoid disruption of trade in agricultural commodities with third countries during the transitional period.
 
 It may now be useful if I let you have the precise terms of our understanding. In the negotiations in Brussels on 11–12 May, Mr Rippon made the following statement, which followed detailed exchanges with the Community:–
 
@@ -25,3 +28,5 @@ The Community drew attention to their expectation expressed at a previous meetin
 Mr Rippon would be most grateful if you could arrange for this to be passed to Mr Anthony.
 
 * 1  Document 285. 
+
+[NAA: A1838, 727/4/2 PART 17]

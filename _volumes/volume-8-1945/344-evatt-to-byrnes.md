@@ -1,14 +1,19 @@
 ---
-title: "344 Evatt to Byrnes"
-volume: "Volume 8: 1945"
-doc_id: 3375
+doc_date: '1945-10-26'
+doc_num: 344
+doc_order: 344
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA : A5471, A2]'
+title: Evatt to Byrnes
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-26
+vol_title: 'Volume 8: 1945'
 ---
 
-# 344 Evatt to Byrnes
-
-## Letter WASHINGTON, 26 October 1945
+Letter WASHINGTON, 26 October 1945
 
 I ask permission to address you on a matter of urgent importance.
 
@@ -30,8 +35,8 @@ On behalf of the Australian Government, I request that, if the establishment of 
 
 The matter is of such importance to Australia that I feel that this communication should be forwarded to you immediately.
 
-_
+ _
 
 _
 
-_ [AA : A5471, A2]_
+ _[AA : A5471, A2]_

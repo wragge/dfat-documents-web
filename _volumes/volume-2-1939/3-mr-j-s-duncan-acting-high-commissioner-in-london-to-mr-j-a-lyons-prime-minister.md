@@ -1,18 +1,24 @@
 ---
-title: "3 Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 340
+doc_date: '1939-01-06'
+doc_num: 3
+doc_order: 3
+naa_refs:
+- naa_barcode: 232338
+  naa_control_symbol: '163'
+  naa_series: A2937
+  reference: '[FA: A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]'
+title: Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-01-06
+vol_title: 'Volume 2: 1939'
 ---
-
-# 3 Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons, Prime Minister
 
 Cablegram 3 LONDON, 6 January 1939
 
 SECRET
 
-####  
+#### 
 
 Reference Dominions Office telegram, unnumbered, 24th December, regarding General Act for Pacific Settlement of International Disputes. [1] There seem to be differences of view between Ministers here. Some feel that denunciation would lend itself to misrepresentation and raise important political issue and that Government would be attacked for 'abandoning the buttresses of peace'. Others feel that changed attitude of nations in relation to Article XVI provides sufficient reason for denunciation. Former school feel that if war came General Act and Optional Clause would probably go by the board whether preliminary action had been taken or not and therefore that no action is necessary at present.
 
@@ -24,16 +30,14 @@ Hope this confidential information may be useful and will assist in formulating 
 
 DUNCAN
 
-_
+ _
 
 1 Documents on Australian Foreign Policy 1937-49, vol 1, Document 337. The cablegram was in fact numbered 126.
 
 _
 
-_
+ _
 
 [FA: A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]
 
 _
-
- 

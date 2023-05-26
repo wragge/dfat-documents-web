@@ -1,18 +1,25 @@
 ---
-title: "203 Memorandum from Moran to Scully"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9072
+doc_date: '1982-08-30'
+doc_num: 203
+doc_order: 203
+naa_refs:
+- naa_barcode: 11558962
+  naa_control_symbol: 1982/2334 PART 7
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 82/2334, vii]'
+title: Memorandum from Moran to Scully
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-08-30
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 203 Memorandum from Moran to Scully
 
 Canberra, 30 August 1982
 
 CONFIDENTIAL
 
-_CER_
+ _CER_
 
 Having had an intensive series of intra-Departmental meetings on the CER as well as comprehensive industry/State consultations, we are now arriving at a position where our views are crystalising.
 
@@ -22,7 +29,7 @@ We are also mindful that any one-sidedness inherent in CER stems from the operat
 
 The following outlines changes to the draft as circulated which we feel to be necessary.
 
-_Access_
+ _Access_
 
 We are of the view that the overview formula of 5% of the market or $NZ200,000 (whichever is the lesser) plus 10% real growth is inadequate. We see this as
 
@@ -52,7 +59,7 @@ The higher the start point, the fewer are likely to be the individual problems o
 
 
 
-_Allocation_
+ _Allocation_
 
 It is not acceptable that NZ industry would have access to 50% of EALs leaving the rest to be tendered. In our view such a provision would not generate rationalisation consistent with market forces
 
@@ -77,7 +84,7 @@ There is no symmetry between the Australian and NZ system and it is most unlikel
 
 These provisions would have to be tightly specified in the Heads of Agreement.
 
-_Export Incentives_
+ _Export Incentives_
 
 We are now of the view that NZ performance based incentives and suspensory loans would need to be phased out by March 1985 at the latest but that we might need to seek earlier removal for certain products
 
@@ -85,11 +92,11 @@ We are now of the view that NZ performance based incentives and suspensory loans
 
 
 
-_Safeguards_
+ _Safeguards_
 
 Broadly speaking we think the safeguards provisions are acceptable. We are of the view that a special purpose advisory body comprising one Australian and one New Zealander should be established and operate on an ad hoc basis (along the lines of the former Textiles Authority though not necessarily linked, formally or informally, to the IAC). Further definition is required to strictly limit the timing of the hearing of complaints, action permissible following receipt of the reports, etc.
 
-_Intermediate Goods_
+ _Intermediate Goods_
 
 There has been extremely slow progress in agreeing within the range of solutions to this issue, specific measures to be applied. To some degree there would appear to be a philosophical difference between ourselves and NZ
 
@@ -112,4 +119,4 @@ A further issue is the point at which a disability is recognised as being of suf
 
 One possibility could be that where an intermediate goods advantage is greater than 10% clear prima facie evidence of the potential trade deflection is constituted; where it is less than 5% there is a lack of such evidence. In between, a judgement is required based inter alia on the importance of transport costs and of price in a product's marketing.
 
-_[NAA: A1313/113, 82/2334, vii]_
+ _[NAA: A1313/113, 82/2334, vii]_

@@ -1,12 +1,19 @@
 ---
-title: "44 Submission to Cabinet Economic Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8914
+doc_date: '1979-08-16'
+doc_num: 44
+doc_order: 44
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission to Cabinet Economic Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-08-16
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 44 Submission to Cabinet Economic Committee
 
 Wellington, 16 August 1979
 
@@ -18,7 +25,7 @@ Australian - New Zealand Economic Cooperation: Progress Report
 
   1. This is to report on progress under the present initiative to investigate options for greater economic cooperation between Australia and New Zealand.
   2. The work currently under way has arisen from the recent discussions, statements and speeches by Ministers of both Governments who have expressed dissatisfaction with the present state of the economic relationship between the two countries and called for a full discussion of the alternatives for the future. This has culminated in the meeting of the Prime Ministers of both countries at the Commonwealth Heads of Government meeting in Lusaka. Those discussions set the scope of the present initiative in general terms and the timing for the next stages of discussions between officials and Ministers.
-  3. These recent activities follow on from the Nareen Declaration1 and the establishment of the Australian- New Zealand Businessmen's Council and the Australia- New Zealand Foundation. The discussions which the Prime Minister of New Zealand and others had with the Australian Deputy Prime Minister, Mr Anthony, in April underscored the problems with NAFTA trade negotiations. Also, the Australian invitation to New Zealand to make proposals for a fresh approach to developing the relationship2 were made at that time. Mr Anthony's views were subsequently reinforced in correspondence between the two Prime Ministers.
+  3. These recent activities follow on from the Nareen Declaration[1](#f1) and the establishment of the Australian- New Zealand Businessmen's Council and the Australia- New Zealand Foundation. The discussions which the Prime Minister of New Zealand and others had with the Australian Deputy Prime Minister, Mr Anthony, in April underscored the problems with NAFTA trade negotiations. Also, the Australian invitation to New Zealand to make proposals for a fresh approach to developing the relationship[2](#f2) were made at that time. Mr Anthony's views were subsequently reinforced in correspondence between the two Prime Ministers.
   4. The Prime Ministerial statement from the discussions in Lusaka lays the foundation of future analysis and discussion, and is recorded below: 
 
 > Following work that has been done in recent months by committees of officials in each country, it was agreed that further investigation would be made into broad areas of economic cooperation as well as specific fields where the two countries could work more closely together. The timetable was set for Australia and New Zealand officials to exchange information about the end of September and meet shortly thereafter. Following consideration of the results of that meeting by the respective Government, it was anticipated that the two Prime Ministers and other appropriate Ministers would meet to discuss the future direction of economic cooperation not later than February of next year.
@@ -72,7 +79,7 @@ CONFIDENTIAL
 
 ## Australian Attitudes
 
-It is difficult to assess Australian views on how they wish the relationship to develop. They are plainly frustrated with NAFTA negotiations and they do not see the relationship as equitable in its present form. New Zealand's continuing maintenance of import controls is perhaps the most fundamental objection. They have also in recent years complained about other imbalances built into the trading relationship through the inter-company agreements in Article 3:7 arrangements, for example, and at New Zealand's export incentives. It seems unlikely that these objections could be resolved by New Zealand offers to put more items on Schedule A and minor concessions on import controls. A more fundamental response from New Zealand may be required to offset this hardening of the Australian position and it is possible that Mr Anthony's initiative3 was, in part, intended to point this out. It may be that the supporters of a general lowering of Australian protection and an effort to boost its trade see the present relationship with New Zealand as inconsistent with this, particularly as Australian exports to New Zealand have been static. They may see Australia and New Zealand jointly adopting an outward looking trading strategy and improving the prospects for this by a closer internal relationship.
+It is difficult to assess Australian views on how they wish the relationship to develop. They are plainly frustrated with NAFTA negotiations and they do not see the relationship as equitable in its present form. New Zealand's continuing maintenance of import controls is perhaps the most fundamental objection. They have also in recent years complained about other imbalances built into the trading relationship through the inter-company agreements in Article 3:7 arrangements, for example, and at New Zealand's export incentives. It seems unlikely that these objections could be resolved by New Zealand offers to put more items on Schedule A and minor concessions on import controls. A more fundamental response from New Zealand may be required to offset this hardening of the Australian position and it is possible that Mr Anthony's initiative[3](#f3) was, in part, intended to point this out. It may be that the supporters of a general lowering of Australian protection and an effort to boost its trade see the present relationship with New Zealand as inconsistent with this, particularly as Australian exports to New Zealand have been static. They may see Australia and New Zealand jointly adopting an outward looking trading strategy and improving the prospects for this by a closer internal relationship.
 
 ## New Zealand's Objectives
 
@@ -120,12 +127,10 @@ The terms 'Economic Community' and 'Economic Union' can encompass various of the
 
 Until we have a clearer understanding of the Australian scene and have completed our consideration of the options it is premature to raise specific proposals. Whatever recommendations eventually emerge from our studies it is apparent that if any proposal is to succeed it will have to be expressed in more comprehensive terms than those which are presently occurring under NAFTA. The Government's restructuring policies including those in the recent Budget form the basis of a new approach to our relationship with Australia. In this connection we will have to recognise Australian concerns over New Zealand import licensing if we wish to bring about significant change. The possibilities for cooperation in the development of energy and other resources and for coordinated marketing of major export products may also have some promise.
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 19A Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 19A Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Document 1.
   * 2 See Document 15.
   * 3 See Document 15.
   * 4 Schedule B of the NAFTA was an intermediate arrangement to provide for partial participation in free trade provisions 'by way of quotes or duty free schedules on the basis of partial reciprocity'. 
   * 5 Article 3:7 allowed for the remission or reduction of duties on goods that were not duty free.
-
-

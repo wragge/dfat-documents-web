@@ -1,12 +1,19 @@
 ---
-title: "25 Letter from Godfrey to Scully and Flood"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8895
+doc_date: '1979-08-27'
+doc_num: 25
+doc_order: 25
+naa_refs:
+- naa_barcode: 1509863
+  naa_control_symbol: 370/1/19/18 PART 4
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, iv]'
+title: Letter from Godfrey to Scully and Flood
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-08-27
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 25 Letter from Godfrey to Scully and Flood
 
 Canberra, 27 August 1979
 
@@ -14,7 +21,7 @@ CONFIDENTIAL
 
 Australia - New Zealand Economic Relations
 
-Following the interdepartmental meeting last Wednesday 22 August to discuss the draft report on Australia- New Zealand Economic Relations1 and the future work programme and associated procedural arrangements I thought it would be helpful to set down on paper this Department's views, both in the broad and in relation specifically to the draft report.
+Following the interdepartmental meeting last Wednesday 22 August to discuss the draft report on Australia- New Zealand Economic Relations[1](#f1) and the future work programme and associated procedural arrangements I thought it would be helpful to set down on paper this Department's views, both in the broad and in relation specifically to the draft report.
 
 As I mentioned at the meeting, we are concerned about the clarity of the basic objectives of the exercise which we see reflected in the report as it stands. We see a need to give much greater precision to what are envisaged as the options. Such precision is needed, in particular, to define better the scope of Australia's national interest especially since consideration of closer economic co-operation with New Zealand goes beyond economic matters and embraces the totality of the relationship. It could well be that those other aspects of the relationship could assume a greater importance in Ministers' minds. In short, we need to develop some yardsticks against which benefit to Australia of the various options can be measured.
 
@@ -24,13 +31,11 @@ As far as the text of the draft paper is concerned we have confined our comments
 
 Paragraph 1.19 of the paper we feel should be deleted from the text. The point at issue is that currently under NAFTA it is these kinds of advantages (identified earlier in 1.14) for NZ industry, in addition to import licensing, that have constrained growth in freely traded goods under the Schedules. The problems therefore already exist under NAFTA and would be compounded by the introduction of (vaguely defined) full free trade conditions. We also find the reference to minimum margins of preference somewhat confusing as these exist already under the Preferences Agreement.
 
-On the question of establishment of an appropriate quantitative analytical framework we believe it is desirable that the skills and expertise of the Bureau of Industry Economics should be drawn on in this exercise...2
+On the question of establishment of an appropriate quantitative analytical framework we believe it is desirable that the skills and expertise of the Bureau of Industry Economics should be drawn on in this exercise...[2](#f2)
 
 I am forwarding copies of my letter to the other Departments who attended your inaugural interdepartmental meeting for their information.
 
-_[NAA: A1838, 37011/19/18, iv]_
+ _[NAA: A1838, 37011/19/18, iv]_
 
   * 1 Document 22.
   * 2A small portion of text concerning contact names and telephone numbers omitted.
-
-

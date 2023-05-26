@@ -1,19 +1,23 @@
 ---
-title: "106 Cabinet Decision No. 258"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9614
+doc_date: '1967-04-18'
+doc_num: 106
+doc_order: 106
+naa_refs:
+- naa_barcode: 1858753
+  naa_control_symbol: '187'
+  naa_series: A5842
+  reference: '[NAA: A5842, 187]'
+title: Cabinet Decision No. 258
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-04-18
-barcode: 1858753
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 106 Cabinet Decision No. 258
 
 Canberra, 18 April 1967
 
 Confidential
 
-**Submission no. 187—Territory of Papua and New Guinea: proposed Agreement on mining copper on Bougainville Island1**
+ **Submission no. 187—Territory of Papua and New Guinea: proposed Agreement on mining copper on Bougainville Island[1](#f1)**
 
 The Cabinet noted, and except as indicated below, endorsed the arrangements put forward in the submission for an agreement between the Papua and New Guinea Administration and a subsidiary of C.R.A. Limited for copper mining development at Bougainville Island. It noted that appropriate validating legislation in the form of an ordinance by the Papua and New Guinea Legislature will be necessary.
 
@@ -25,35 +29,35 @@ The Cabinet noted, and except as indicated below, endorsed the arrangements put 
 
 (ii) mining leases to be initially for 42 years and then two further terms of 21 years on the same terms and conditions except for royalty and rent: ancillary leases to be granted as reasonably required:
 
-(iii) royalty to be fixed at 1¼. per cent of F.O.B.2 value and rents at the rates prescribed:
+(iii) royalty to be fixed at 1¼. per cent of F.O.B.[2](#f2) value and rents at the rates prescribed:
 
-(iv) development to the stage of exporting copper concentrates to be completed within 5 years of the issue of a mining lease at a cost of not less than $25.3 (Including costs of exploration, etc.):
+(iv) development to the stage of exporting copper concentrates to be completed within 5 years of the issue of a mining lease at a cost of not less than $25.[3](#f3) (Including costs of exploration, etc.):
 
-v. no undertakings are to be required of the company in relation to further processing, but it is nevertheless to be an understanding with the company that it will pursue objectively a feasibility study into the establishment of smelting and refining:4
+v. no undertakings are to be required of the company in relation to further processing, but it is nevertheless to be an understanding with the company that it will pursue objectively a feasibility study into the establishment of smelting and refining:[4](#f4)
 
 (b) _Taxation_
 
 (i) a three year tax holiday:
 
-(ii) provisions as to write–off of capital expenditure should be such as to accord with the present interpretation of the income tax ordinance, but this matter will be open to re-examination after the Government considers the comparable Australian provision:5
+(ii) provisions as to write–off of capital expenditure should be such as to accord with the present interpretation of the income tax ordinance, but this matter will be open to re-examination after the Government considers the comparable Australian provision:[5](#f5)
 
 (iii) a profit sharing scheme providing for:—
 
-(a) an arrangement under which the company payments to the Administration will rise in stages over 4 years to 50 per cent of its adjusted taxable income (see paragraph 13(a) of the submission):6
+(a) an arrangement under which the company payments to the Administration will rise in stages over 4 years to 50 per cent of its adjusted taxable income (see paragraph 13(a) of the submission):[6](#f6)
 
-(b) a minimum annual payment by the company to Territory revenues (see paragraph 13(b) of the submission):7
+(b) a minimum annual payment by the company to Territory revenues (see paragraph 13(b) of the submission):[7](#f7)
 
-(c) a tax ceiling (i.e. an upper limit to the company’s tax liability) (see paragraph 13(c) of the submission):8
+(c) a tax ceiling (i.e. an upper limit to the company’s tax liability) (see paragraph 13(c) of the submission):[8](#f1)
 
-(d) royalty and municipal rates to be excluded from the tax ceiling (see paragraph 17 of the submission):9
+(d) royalty and municipal rates to be excluded from the tax ceiling (see paragraph 17 of the submission):[9](#f9)
 
-(e) the tax ceiling to rise each year by a small percentage (no more than 1 per cent) after 25 years up to a level not exceeding 66 per cent of adjusted taxable income (see paragraph 18 of the submission): 10
+(e) the tax ceiling to rise each year by a small percentage (no more than 1 per cent) after 25 years up to a level not exceeding 66 per cent of adjusted taxable income (see paragraph 18 of the submission): [10](#f10)
 
 (iv) binding of appropriate presently allowable deductions for tax purposes including deduction of 20 per cent of net income from copper mining:
 
 (v) exemption from major stamp duties and limited bindings on some present rates of import duties during the initial period of the company’s operations:
 
-(vi) the additional payments over and above normal tax rates should be imposed outside the general income tax and designated as ‘special additional tax’:11
+(vi) the additional payments over and above normal tax rates should be imposed outside the general income tax and designated as ‘special additional tax’:[11](#f11)
 
 (c) _Territory participation_
 
@@ -81,9 +85,9 @@ v. no undertakings are to be required of the company in relation to further proc
 
 (2) that satisfactory arrangements be made to ensure that the Commonwealth has no liability to the company upon ceasing to have authority over the executive and legislative acts of the Territory:
 
-(3) that the Minister for Territories be authorised to conclude the agreement on the above basis and exercise his discretion on other outstanding matters including those at annexure ‘E’12 of the submission. 13
+(3) that the Minister for Territories be authorised to conclude the agreement on the above basis and exercise his discretion on other outstanding matters including those at annexure ‘E’[12](#f12) of the submission. [13](#f13)
 
-[ [NAA: A5842, 187](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1858753) ]
+[NAA: A5842, 187]
 
 1 Document 100.
 

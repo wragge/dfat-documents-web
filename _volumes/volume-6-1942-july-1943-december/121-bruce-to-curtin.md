@@ -1,12 +1,18 @@
 ---
-title: "121 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2412
+doc_date: '1943-02-16'
+doc_num: 121
+doc_order: 121
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, FOLDER, MOST SECRET INWARDS MASTER SHEETS, EXCLUDING
+    SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.7541]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-02-16
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 121 Bruce to Curtin
 
 Cablegram 37[A] LONDON, 16 February 1943, 8.10 p.m.
 
@@ -100,7 +106,7 @@ The machinery we created in the League of Nations failed. The necessity of reali
 
 BRUCE
 
-_ 1 See Document 86, note 1.
+ _1 See Document 86, note 1.
 
 2 This is an incorrect reference to cablegram 205, which is published as Document 86.
 
@@ -114,4 +120,4 @@ _ 1 See Document 86, note 1.
 
 _
 
-_ [FA:A3195, 1943, FOLDER, MOST SECRET INWARDS MASTER SHEETS, EXCLUDING SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.7541]_
+ _[FA:A3195, 1943, FOLDER, MOST SECRET INWARDS MASTER SHEETS, EXCLUDING SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.7541]_

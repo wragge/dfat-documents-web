@@ -1,12 +1,17 @@
 ---
-title: "39 Minutes of Twelfth Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 39
+doc_date: '1937-06-03'
+doc_num: 39
+doc_order: 39
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Minutes of Twelfth Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-03
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 39 Minutes of Twelfth Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 12 (extracts) LONDON, 3 June 1937
 
@@ -74,7 +79,7 @@ MR CASEY, referring to Mr Chamberlain's remarks concerning a general settlement 
 
 MR EDEN said that we were in fact trying to get into direct contact with Germany on some of the points which had been mentioned. This information should be regarded as very confidential.
 
-_
+ _
 
 1 30 June 1930.
 
@@ -88,4 +93,4 @@ _
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

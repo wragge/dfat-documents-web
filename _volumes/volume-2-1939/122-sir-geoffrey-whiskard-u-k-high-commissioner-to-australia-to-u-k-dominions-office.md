@@ -1,12 +1,18 @@
 ---
-title: "122 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 459
+doc_date: '1939-07-18'
+doc_num: 122
+doc_order: 122
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: FO 372/3319]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
+  Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-07-18
+vol_title: 'Volume 2: 1939'
 ---
-
-# 122 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office
 
 Cablegram 135 (paraphrase) CANBERRA, 18 July 1939
 
@@ -16,10 +22,10 @@ My telegram No. 94 of 10th May. [1] Reports appearing in the press state that ow
 
 I made informal enquiries as to the authenticity of these reports and I was informed that Commonwealth Government have not as yet definitely decided when they will make an approach to you regarding proposed establishment of Legations but that they are in agreement with the United Kingdom Government's view that it would be more 'symbolic' if in the first instance they only proceeded with establishment of Legation at Washington.
 
-_
+ _
 
 1 Document 84.
 
 _
 
-_ [PRO: FO 372/3319]_
+ _[PRO: FO 372/3319]_

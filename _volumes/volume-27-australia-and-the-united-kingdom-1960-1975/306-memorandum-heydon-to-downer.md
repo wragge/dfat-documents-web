@@ -1,18 +1,21 @@
 ---
-title: "306 MEMORANDUM, HEYDON TO DOWNER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10172
+doc_date: '1962-04-16'
+doc_num: 306
+doc_order: 306
+naa_refs:
+- naa_barcode: 1986655
+  naa_control_symbol: 1970/95739
+  naa_series: A446
+  reference: '[NAA: A446, 1970/95739]'
+title: MEMORANDUM, HEYDON TO DOWNER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-04-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 306 MEMORANDUM, HEYDON TO DOWNER
-
-NAA: A446, 1970/95739
 
 Canberra, 16 April 1962
 
-****
+ ****
 
 Commonwealth Immigrants Act
 
@@ -46,3 +49,5 @@ going to England for employment are to be issued with work vouchers but as peopl
 6\. In order to have forms and instructions available at as many points as possible, we have been asked if stocks could be held by the passport sections in our State offices, which now hold supplies of United Kingdom passport application forms and forms for travel facilities of some other Commonwealth countries. Cabinet did not approve that Australian authorities should act as agents of the British Government to approve or refuse entry into Britain, but there may be no objection to offices simply having forms to be handed out to prospective travellers to England. It has been proposed also that forms might be available through the Labour and National Service Employment Offices. [...]
 
 7\. There seems to be no doubt that there will be criticism of the arrangements when they are announced by the British authorities. One way and another I think they have tried to meet our requests. There is little more we can do at present but later, if the procedures prove to be unsatisfactory, further representations may be considered, particularly to have work vouchers issued in Canberra.
+
+[NAA: A446, 1970/95739]

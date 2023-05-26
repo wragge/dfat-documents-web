@@ -1,14 +1,20 @@
 ---
-title: "192 Mr T. Elink Schuurman, Netherlands Consul-General in Sydney, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 191
+doc_date: '1938-04-22'
+doc_num: 192
+doc_order: 191
+naa_refs:
+- naa_barcode: 179190
+  naa_control_symbol: NETHE 48
+  naa_series: A981
+  reference: '[AA : A981, NEI 48]'
+title: Mr T. Elink Schuurman, Netherlands Consul-General in Sydney, to Lt Col W. R.
+  Hodgson, Secretary of Department of External Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-04-22
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 192 Mr T. Elink Schuurman, Netherlands Consul-General in Sydney, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs
-
-## Letter SYDNEY, 22 April 1938
+Letter SYDNEY, 22 April 1938
 
 You remember the articles in the 'Sydney Morning Herald' of 6th and 7th April 1938 regarding Anglo-Dutch defence co-operation. I telephoned to you and also had a talk since with Mathew [1] about them.
 
@@ -28,7 +34,7 @@ I am leaving on a fortnight's trip to New Zealand on the 29th but would be willi
 
 T. ELINK SCHUURMAN
 
-_
+ _
 
 1 Theobald Mathew, member of Department of External Affairs.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA : A981, NEI 48]_
+ _[AA : A981, NEI 48]_

@@ -1,35 +1,39 @@
 ---
-title: "162 Submission, Booker To Hasluck"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9670
+doc_date: '1968-02-20'
+doc_num: 162
+doc_order: 162
+naa_refs:
+- naa_barcode: 546684
+  naa_control_symbol: 935/2/4
+  naa_series: A1838
+  reference: '[NAA:A1838, 935/2/4]'
+title: Submission, Booker To Hasluck
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-02-20
-barcode: 546684
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 162 Submission, Booker To Hasluck
 
 Canberra, 20 February 1968
 
 Secret
 
-**Australian membership of the Committee of Twenty-four**
+ **Australian membership of the Committee of Twenty-four**
 
-_Purpose of submission_
+ _Purpose of submission_
 
 The purpose of this submission is to seek your direction on the question of Australia’s continued membership of the Committee of Twenty–four.
 
-_Background_
+ _Background_
 
-2\. Relevant previous submissions to you on this subject, together with a copy of a letter from the Minister for Territories, and relevant telegrams, are attached.1
+2\. Relevant previous submissions to you on this subject, together with a copy of a letter from the Minister for Territories, and relevant telegrams, are attached.[1](#f1)
 
-_Latest developments_
+ _Latest developments_
 
 3\. Recent developments are:
 
 (i) The Americans and the British have both decided to continue their membership on the Committee, but subject to certain conditions (stated below);
 
-(ii) The extremist Chairman of the Committee (Mr. Malecela of Tanzania) has been recalled from New York, and a relatively moderate Chairman has been appointed: Mr. Mestiri,2 Permanent Representative of Tunisia;
+(ii) The extremist Chairman of the Committee (Mr. Malecela of Tanzania) has been recalled from New York, and a relatively moderate Chairman has been appointed: Mr. Mestiri,[2](#f2) Permanent Representative of Tunisia;
 
 (iii) The British and the American representatives made strong criticisms at the beginning of the current meetings of the Committee’s work.
 
@@ -45,7 +49,7 @@ _Latest developments_
 
 5\. The American representative stated in the Committee that it was questionable whether there was room for effective and worthwhile participation by the United States, but that after careful consideration the United States would not at present withdraw but reserved the right to review the situation at any time.
 
-_Possible Australian withdrawal_
+ _Possible Australian withdrawal_
 
 6\. The subject for consideration now is whether, in view of these recent developments, Australia should withdraw in isolation. Arguments have been put to you previously concerning this matter, and you will recall that Mr. Shaw has recommended that, even if the United States and the United Kingdom do not withdraw, Australia should do so. The Minister for Territories supported that recommendation.
 
@@ -57,7 +61,7 @@ _Possible Australian withdrawal_
 
 (iii) If there is now a prospect that the Committee will adopt more reasonable attitudes it is in the general Western interest that we should co-operate with the U.S.A. and Britain in influencing the Committee in more constructive, responsible directions.
 
-(iv) The voting on the Papua – New Guinea resolution in the 1967 General Assembly,3 while not satisfactory from our viewpoint, was an improvement compared with 1966. By remaining on the Committee we might, given a more reasonable attitude on the part of the members, be able to gain better understanding of our policies and problems.
+(iv) The voting on the Papua – New Guinea resolution in the 1967 General Assembly,[3](#f3) while not satisfactory from our viewpoint, was an improvement compared with 1966. By remaining on the Committee we might, given a more reasonable attitude on the part of the members, be able to gain better understanding of our policies and problems.
 
 (v) If we alone left the Committee we might forfeit the sympathy, which at present seems to be growing, of our close Asian associates.
 
@@ -73,33 +77,33 @@ It is accordingly recommended that:—
 
 4) we keep the subject of our membership under review;
 
-5) our representative to be authorised to accept, at his discretion, membership of the Sub-Committee on Petitions (see paragraph 7 of telegram No.UN242 attached)4 if in his view we can exercise a moderating and constructive influence by so doing.5
+5) our representative to be authorised to accept, at his discretion, membership of the Sub-Committee on Petitions (see paragraph 7 of telegram No.UN242 attached)[4](#f4) if in his view we can exercise a moderating and constructive influence by so doing.[5](#f5)
 
-[ [NAA:A1838, 935/2/4](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=546684) ]
+[NAA:A1838, 935/2/4]
 
-**Territories: changes to the department and portfolio**
+ **Territories: changes to the department and portfolio**
 
-_Following the disappearance of Prime Minister Harold Holt, a new Liberal–Country Party Government was formed in January 1968 under the leadership of John Gorton. A number of changes were made to government at both the bureaucratic and executive levels. Among these were alterations to the administration of Australian territories—as explained by Governor–General Lord Casey during his speech at the opening of federal parliament:_
+ _Following the disappearance of Prime Minister Harold Holt, a new Liberal–Country Party Government was formed in January 1968 under the leadership of John Gorton. A number of changes were made to government at both the bureaucratic and executive levels. Among these were alterations to the administration of Australian territories—as explained by Governor–General Lord Casey during his speech at the opening of federal parliament:_
 
-> _My Government has decided to reconstitute the Department of Territories as the Department of External Territories so that it may have particular concentration on the Territory of Papua and New Guinea._
+>  _My Government has decided to reconstitute the Department of Territories as the Department of External Territories so that it may have particular concentration on the Territory of Papua and New Guinea._
 > 
-> _The responsibility for the Northern Territory will, except in certain respects ... be transferred to the Department of the Interior._1
+>  _The responsibility for the Northern Territory will, except in certain respects ... be transferred to the Department of the Interior._[1](#f_451_1)
 
-_Barnes became Minister for External Territories, responsible for a department of the same name and of which Warwick Smith remained Secretary._
+ _Barnes became Minister for External Territories, responsible for a department of the same name and of which Warwick Smith remained Secretary._
 
-_Whatever the party-political reasons for the reorganisation, it was justified by the Governor-General in terms that constituted one of the strongest official statements yet on the possibility of union between Australia and PNG:_
+ _Whatever the party-political reasons for the reorganisation, it was justified by the Governor-General in terms that constituted one of the strongest official statements yet on the possibility of union between Australia and PNG:_
 
-> _This [modification] is an indication of the recognition by the Government that the present problems and future destiny of the Northern Territory differ from those of Papua and New Guinea._
+>  _This [modification] is an indication of the recognition by the Government that the present problems and future destiny of the Northern Territory differ from those of Papua and New Guinea._
 > 
-> _The destiny of Papua and New Guinea is to become a self-governing country developed for independence if and when it is clearly demonstrated by the majority of the indigenous population that this is what they wish. My Government’s basic policy for Papua and New Guinea is therefore to develop it for self-determination._
+>  _The destiny of Papua and New Guinea is to become a self-governing country developed for independence if and when it is clearly demonstrated by the majority of the indigenous population that this is what they wish. My Government’s basic policy for Papua and New Guinea is therefore to develop it for self-determination._
 > 
-> _Whether some subsequent special relationship with Australia is worked out, and what such a special relationship might be, can only be worked out in the future between the then Government of a self-governing Papua and New Guinea and the then Government of Australia._
+>  _Whether some subsequent special relationship with Australia is worked out, and what such a special relationship might be, can only be worked out in the future between the then Government of a self-governing Papua and New Guinea and the then Government of Australia._
 > 
-> _But my Government believes that the development of Papua and New Guinea as a seventh State of Australia is fraught with difficulties, and that statehood, as against self-government, is not likely to be the outcome of development._2
+>  _But my Government believes that the development of Papua and New Guinea as a seventh State of Australia is fraught with difficulties, and that statehood, as against self-government, is not likely to be the outcome of development._[2](#f_451_2)
 
-_In private, Barnes was unhappy that Territories’ administrative capacity had been reduced, complaining to the Prime Minister that a decision to deprive Warwick Smith of a Deputy Secretary was taken ‘very quickly’ and would prejudice the ‘effective handling’ of ‘the Government’s policy of progressive advancement of the native people’ during which ‘many intricate and potentially critical situations will be encountered’3 A draft letter by Warwick Smith to the Chairman of the Public Service Board:—written later in the year—showed that the Secretary was similarly disenchanted with the new department’s lack of resources. He wrote of the ‘more or less arbitrary assessment [that] was made of the organisational requirements’ and of ‘serious and urgent ... deficiencies’.4 The letter also gave insight into Warwick Smith’s broad view of Australia’s task in the Territory:_
+ _In private, Barnes was unhappy that Territories’ administrative capacity had been reduced, complaining to the Prime Minister that a decision to deprive Warwick Smith of a Deputy Secretary was taken ‘very quickly’ and would prejudice the ‘effective handling’ of ‘the Government’s policy of progressive advancement of the native people’ during which ‘many intricate and potentially critical situations will be encountered’[3](#f451_3) A draft letter by Warwick Smith to the Chairman of the Public Service Board:—written later in the year—showed that the Secretary was similarly disenchanted with the new department’s lack of resources. He wrote of the ‘more or less arbitrary assessment [that] was made of the organisational requirements’ and of ‘serious and urgent ... deficiencies’.[4](#f_452_4) The letter also gave insight into Warwick Smith’s broad view of Australia’s task in the Territory:_
 
-> _Papua and New Guinea is in very great degree a ‘least-developed’ country. With the adoption and vigorous prosecution of the Five Year Development Programme, backed officially by the Commonwealth, the country is undergoing nothing short of a social, economic and political revolution. The winds of change are under forced draught. High pressure change [is] the order of the day—change from a colonial traditional/subsistence society and economy towards a modern self-governing, educated, sophisticated society and economy. The pace of change is dramatic, but continuing careful appraisal is required to ensure that the associated social strains and stresses do not outrun what is tolerable. Cargo cults, secession movements, excessive urban unemployment, bad race relations, strikes, riots, all have to be avoided or mitigated ... From another point of view, the Australian Government’s policy of aid, with its near-commitment of around $500 million in grants over the next five years could easily go seriously awry, its objectives could easily be defeated if one or more elements in the situation were badly handled. There is no necessary or natural connection between policy objectives and results ... in the Territory we are obviously concerned with the whole field of government ... the list of [functions] is almost inexhaustible ... Over and above all that, however; is the consideration that the position is never static. Over the whole field there is the fact that policies have continually to be reviewed and developed and adjusted to meet the imperatives of change ... It would be tempting to contemplate responsibilities of the Commonwealth Government in [PNG] being coped with by a small Department in Canberra, concerning itself only with ‘broad policy’ and with the duties of a secretariat. The Australian tradition towards the Territory, however, and indeed the whole requirement imposed by Government and public is one of very considerable involvement and the practical expression of this involvement is seen in the size of the Commonwealth grant to the Territory and the degree—almost unique in ‘colonial’ affairs—of Australian activity and interest in the Territory. If we took a hypothetical analogy with Britain, for example, and adjusting for population, we would find ourselves thinking of a British ‘colony’ of say 11 million people across the Channel ... with an annual British subvention of say $450 million (France and Algeria would have some resemblances).5 Further, the process of education, sophistication and development began in important areas of [PNG] much later than in many ex-dependent territories—indeed, on the Highlands since World War II—and in the climate of today has to be carried forward at a much greater pace than even a decade ago._
+>  _Papua and New Guinea is in very great degree a ‘least-developed’ country. With the adoption and vigorous prosecution of the Five Year Development Programme, backed officially by the Commonwealth, the country is undergoing nothing short of a social, economic and political revolution. The winds of change are under forced draught. High pressure change [is] the order of the day—change from a colonial traditional/subsistence society and economy towards a modern self-governing, educated, sophisticated society and economy. The pace of change is dramatic, but continuing careful appraisal is required to ensure that the associated social strains and stresses do not outrun what is tolerable. Cargo cults, secession movements, excessive urban unemployment, bad race relations, strikes, riots, all have to be avoided or mitigated ... From another point of view, the Australian Government’s policy of aid, with its near-commitment of around $500 million in grants over the next five years could easily go seriously awry, its objectives could easily be defeated if one or more elements in the situation were badly handled. There is no necessary or natural connection between policy objectives and results ... in the Territory we are obviously concerned with the whole field of government ... the list of [functions] is almost inexhaustible ... Over and above all that, however; is the consideration that the position is never static. Over the whole field there is the fact that policies have continually to be reviewed and developed and adjusted to meet the imperatives of change ... It would be tempting to contemplate responsibilities of the Commonwealth Government in [PNG] being coped with by a small Department in Canberra, concerning itself only with ‘broad policy’ and with the duties of a secretariat. The Australian tradition towards the Territory, however, and indeed the whole requirement imposed by Government and public is one of very considerable involvement and the practical expression of this involvement is seen in the size of the Commonwealth grant to the Territory and the degree—almost unique in ‘colonial’ affairs—of Australian activity and interest in the Territory. If we took a hypothetical analogy with Britain, for example, and adjusting for population, we would find ourselves thinking of a British ‘colony’ of say 11 million people across the Channel ... with an annual British subvention of say $450 million (France and Algeria would have some resemblances).[5](#f_452_5) Further, the process of education, sophistication and development began in important areas of [PNG] much later than in many ex-dependent territories—indeed, on the Highlands since World War II—and in the climate of today has to be carried forward at a much greater pace than even a decade ago._
 
 1 Shaw had been informed in December 1967 that the United States had decided to withdraw from the Committee. He recommended that Australia do likewise, essentially because of the Committee’s ‘extreme and tendentious’ activities. External Affairs strongly supported Shaw’s advice, adding that Australia could withdraw after the end of the 1967 session if the Americans implemented their decision. Australia would continue to submit reports to the Committee but would not necessarily attend meetings at which these would be examined. Hasluck approved the recommendations (submission, Booker to Hasluck, 14 December 1967, NAA: A1838, 935/2 part 19). However, at the end of January, Hasluck was informed that the US had had ‘second thoughts’ and that the British had ‘not been able to make up their minds’. At the same time, Barnes wrote to Hasluck underlining his strong agreement with a further recommendation by Shaw that Australia leave the Committee regardless of US or UK conclusions. The Department drafted a letter to Barnes which stated a preference for ‘rest[ing] for the present on the instructions already given ... namely that we should withdraw if the Americans do so’. In a marginal note of 31 January, Hasluck rejected the suggestion, and proposed instead that Australia might try to persuade its allies ‘to our own way of thinking ... My own disposition is still to withdraw even in isolation, unless you can produce better reasons for staying in’ (submission, Booker to Hasluck, 31 January 1968, ibid.; for earlier consultations with the US, UK and New Zealand on the Committee of Twenty-four, see Document 103).
 

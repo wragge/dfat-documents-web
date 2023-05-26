@@ -1,12 +1,17 @@
 ---
-title: "176 Embassy in Washington to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4024
+doc_date: '1946-10-24'
+doc_num: 176
+doc_order: 176
+naa_refs:
+- naa_barcode: 273925
+  naa_control_symbol: SPTS 1/5
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/5]'
+title: Embassy in Washington to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-10-24
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 176 Embassy in Washington to Department of External Affairs
 
 Cablegram 1466 WASHINGTON, 24 October 1946, 7.16 p.m.
 
@@ -18,10 +23,10 @@ Their idea is that the arrangement should be confined to ports having recognized
 
 The suggestion is being handled entirely between the State and Navy Departments, very few officials are privy to it, and there is nothing on paper about it. Emphasis is on informal recognition, without publicity, of continuity of a convenient administrative practice. The State Department have approached the United Kingdom and all Dominion representatives in Washington. We understand from the State Department that the United Kingdom authorities in London have agreed in principle, though the United Kingdom Naval representatives in Washington have not been informed of this. The State Department also advises that Canada and New Zealand have agreed. The State Department would like to know whether the arrangement meets with Australia's approval and whether we are prepared to make it fully reciprocal. Glad of early advice. [1]
 
-_
+ _
 
 1 Australia agreed to the proposal (Cablegram 1622, 21 November) and was prepared to make it fully reciprocal.
 
 _
 
-_ [AA:A6494 T1, SPTS/1/5]_
+ _[AA:A6494 T1, SPTS/1/5]_

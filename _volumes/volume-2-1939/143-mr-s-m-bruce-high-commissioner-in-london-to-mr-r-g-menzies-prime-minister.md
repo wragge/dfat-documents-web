@@ -1,12 +1,17 @@
 ---
-title: "143 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 480
+doc_date: '1939-08-23'
+doc_num: 143
+doc_order: 143
+naa_refs:
+- naa_barcode: 176558
+  naa_control_symbol: GREA 8 PART 5
+  naa_series: A981
+  reference: '[AA: A981, GREAT BRITAIN 8B, v]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-23
+vol_title: 'Volume 2: 1939'
 ---
-
-# 143 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 346 LONDON, 23 August 1939, 1.20 a.m.
 
@@ -20,7 +25,7 @@ My view of the position most serious, the only encouraging feature Japanese reac
 
 BRUCE
 
-_
+ _
 
 1 22 August 1939. Although this cablegram was sent on 23 August it must have been drafted the previous night.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA: A981, GREAT BRITAIN 8B, v]_
+ _[AA: A981, GREAT BRITAIN 8B, v]_

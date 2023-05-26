@@ -1,12 +1,18 @@
 ---
-title: "283 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2037
+doc_date: '1942-01-19'
+doc_num: 283
+doc_order: 284
+naa_refs:
+- naa_barcode: 637523
+  naa_control_symbol: WAR 41 PART 1
+  naa_series: A981
+  reference: '[AA:A981, WAR 41B]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-19
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 283 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram 72 LONDON, 19 January 1942, 2.16 p.m.
 
@@ -22,7 +28,7 @@ The Council would be assisted by a staff group of Dominion liaison officers in c
 
 The duties of the Council will be to focus and formulate views of the represented powers to the President [6], whose views will also be brought before the Council. This will not, of course, interfere with Earle Page's attending Cabinet as at present when Australian affairs are affected. Do you agree? Am also consulting Fraser [7] and the Netherlands Government.
 
-_
+ _
 
 1 Winston Churchill.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA:A981, WAR 41B]_
+ _[AA:A981, WAR 41B]_

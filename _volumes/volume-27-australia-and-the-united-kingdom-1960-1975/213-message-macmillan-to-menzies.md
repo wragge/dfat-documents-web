@@ -1,14 +1,17 @@
 ---
-title: "213 MESSAGE, MACMILLAN TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10078
+doc_date: '1963-02-01'
+doc_num: 213
+doc_order: 213
+naa_refs:
+- naa_barcode: 1051646
+  naa_control_symbol: C3368 PART 4
+  naa_series: A4940
+  reference: '[NAA: A4940, C3368 PART 4]'
+title: MESSAGE, MACMILLAN TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1963-02-01
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 213 MESSAGE, MACMILLAN TO MENZIES
-
-NAA: A4940, C3368 PART 4 
 
 London, 1 February 1963
 
@@ -23,3 +26,5 @@ We are determined to push ahead as vigorously as possible here with the policies
 I should very much welcome your views on all these problems. If you agree with my analysis I hope you could see your way to letting it be known that in your judgment the best way to maintain Commonwealth consultation at present is by means of close and continuing bilateral exchanges.
 
 I have sent rather similar messages to Holyoake and Diefenbaker.
+
+[NAA: A4940, C3368 PART 4]

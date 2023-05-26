@@ -1,14 +1,19 @@
 ---
-title: "6 Burton to Evatt"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6721
+doc_date: '1948-08-31'
+doc_num: 6
+doc_order: 6
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A9420
+  reference: '[FA : A9420, OUT E 1948-49]'
+title: Burton to Evatt
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-08-31
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
 
-# 6 Burton to Evatt
-
-## Cablegram E35, CANBERRA, 31 August 1948, 5.15 a.m.
+Cablegram E35, CANBERRA, 31 August 1948, 5.15 a.m.
 
 Following is a summary of the latest information re Presidency showing the attitude of member states:
 
@@ -26,10 +31,10 @@ China will support unless they believe that they should give support to a French
 
 The following is relevant to Arab States. Bernadotte[2] in message of 26th August expressed his gratitude for rapid and generous response of Government to appeal for relief for refugees in Palestine and neighbouring countries. Iran has made approach through London seeking support for election to Economic and Social Council and International Court. No reply has been despatched from here.
 
-_ [1] Jawaharlal Nehru, Indian Prime Minister and Minister of External Affairs and Commonwealth Relations.
+ _[1] Jawaharlal Nehru, Indian Prime Minister and Minister of External Affairs and Commonwealth Relations.
 
 [2] Count Folke Bernadotte, United Nations Mediator in Palestine.
 
 _
 
-_ [FA : A9420, OUT E 1948-49]_
+ _[FA : A9420, OUT E 1948-49]_

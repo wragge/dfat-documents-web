@@ -1,14 +1,21 @@
 ---
-title: "125 Letter from Douglas to Woodfield"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8995
+doc_date: '1980-07-29'
+doc_num: 125
+doc_order: 125
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Letter from Douglas to Woodfield
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-07-29
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 125 Letter from Douglas to Woodfield
-
-## Wellington, 29 July 1980
+Wellington, 29 July 1980
 
 ## Australia - New Zealand Closer Economic Relations
 
@@ -40,4 +47,4 @@ Secretary
 
 [Federation of Labour]
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 28 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 28 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

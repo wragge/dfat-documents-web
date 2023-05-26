@@ -1,22 +1,27 @@
 ---
-title: "156 Letter, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9664
+doc_date: '1968-02-02'
+doc_num: 156
+doc_order: 156
+naa_refs:
+- naa_barcode: 4027857
+  naa_control_symbol: 1968/932
+  naa_series: A452
+  reference: '[NAA: A452, 19681932]'
+title: Letter, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-02-02
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 156 Letter, Hay To Warwick Smith
 
 Port Moresby, 2 February 1968
 
-I mentioned to you during my recent visit to Canberra that I had received a letter from Sir Donald Cleland in which he suggests the establishment of a Commission, under the Commissions of Inquiry Ordinance, to study the future constitution of the Territory. The case for such a Commission is set out in Sir Donald’s letter of which I attach a copy.1 He also elaborates on its proposed functions and how it would fit in with further work by a House of Assembly select committee on the one hand and a constitutional convention on the other.
+I mentioned to you during my recent visit to Canberra that I had received a letter from Sir Donald Cleland in which he suggests the establishment of a Commission, under the Commissions of Inquiry Ordinance, to study the future constitution of the Territory. The case for such a Commission is set out in Sir Donald’s letter of which I attach a copy.[1](#f1) He also elaborates on its proposed functions and how it would fit in with further work by a House of Assembly select committee on the one hand and a constitutional convention on the other.
 
 My first reaction is that the less said about formal constitutions for the present, the better. Time is needed for the economic development of the Territory, essentially a long term process. If we encourage study of constitutions the likelihood is that this will stir tip interest in rapid political advancement.
 
 Of more weight perhaps is the consideration that the constitution should be a matter which the Territory itself initiates and draws up.
 
-On the other hand the report of the Select Committee2 envisages that a further stage in the consideration of constitutional matters will take place early in the life of the new House of Assembly.
+On the other hand the report of the Select Committee[2](#f2) envisages that a further stage in the consideration of constitutional matters will take place early in the life of the new House of Assembly.
 
 The concluding paragraphs suggest ‘the appointment of a further constitutional committee, which would continue the study of the constitutional advancement of Papua and New Guinea, including the question of a constitution and system of government best suited to the Territory’. We must expect the House to address itself to this matter before the end of 1968.
 
@@ -26,7 +31,7 @@ On balance I incline to the view that the Administration should take the initiat
 
 I should be glad of your views before making a formal submission.
 
-In the meantime I have advised Sir Donald that his proposal is under consideration and will in due course be brought to the Minister’s attention.3
+In the meantime I have advised Sir Donald that his proposal is under consideration and will in due course be brought to the Minister’s attention.[3](#f3)
 
 [NAA: A452, 19681932]
 

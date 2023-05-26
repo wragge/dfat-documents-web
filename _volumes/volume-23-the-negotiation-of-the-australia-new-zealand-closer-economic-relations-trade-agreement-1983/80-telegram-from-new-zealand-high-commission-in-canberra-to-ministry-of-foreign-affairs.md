@@ -1,12 +1,20 @@
 ---
-title: "80 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8950
+doc_date: '1980-01-18'
+doc_num: 80
+doc_order: 80
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-01-18
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 80 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 18 January 1980
 
@@ -26,7 +34,7 @@ The following is an attempt at a preliminary assessment of where the Australians
     2. They seem to be moving towards accepting that certain other conditions, notably taxation regimes, of an essentially domestic nature, could also be kept out of the equation (see (iv) below).
     3. They have accepted an exchange rate differential in NZ's favour. If we had a complete customs union, we would need to have some understandings about mechanisms for adjusting exchange rates but, far from suggesting some sort of parity, the Australians envisage further NZ devaluations (beyond inflation-related adjustments) to make NZ exporters more competitive. (It is perhaps worth noting here that the best study of this we have seen, NZIER paper No. 22 of 1977 shows that the exchange rate has been a primary trade creating factor over the period of NAFTA and that NZ trade has grown fastest when the difference has been widest following NZ devaluations.) The recent clarity of the Australian position on this, incidentally, negates the concerns we expressed in an earlier message.
     4. Tariffs comprise a key area and the Australians of course require comparability in a new trading relationship. A particular difficulty they focus on is the NZ manufacturers' advantage in being able to import raw and intermediate materials from third countries over very low tariffs, while Australian manufacturers must use protected domestic sources. Under a free trade area NZ would retain this advantage, and Australia would require compensating area content rules. Under a customs union, or hybrid which extended customs union principles into these areas, the Australians face real difficulties. The application of their own 'outward looking/internationally competitive' guideline clearly suggests they should lower their tariff on intermediate goods to the NZ level, and achieve equality that way. But that will be a most difficult decision and I and C officials, in particular, cannot contemplate it. They advocate the formula (now enshrined in working group II report) that the condition of a common external tariff based on the lower of the two 'would only apply to cases where an industry sector existed in both countries. Where it did not (we should adopt) a rate at that currently applying to the producing country.' However officials are not united on this and various options are being explored (see W.G. II pages 33-34 and 36-37). The main point here is that even in this critical area, the Australian position is probably negotiable.
-    5. Non-tariff barriers. Australian papers assume NZ's import licensing will have to go in any FTA or CU, yet their approach is not devoid of understanding of the difficulties NZ would have over this. They see the ab0lition of licensing against Australia only as substantially redirecting NZ supply to Australian sources, and acknowledge that it may be hard to maintain licensing satisfactorily against third countries once it is removed for Australia. Some alleviating suggestions have been made (see (VIII)1 below). 
+    5. Non-tariff barriers. Australian papers assume NZ's import licensing will have to go in any FTA or CU, yet their approach is not devoid of understanding of the difficulties NZ would have over this. They see the ab0lition of licensing against Australia only as substantially redirecting NZ supply to Australian sources, and acknowledge that it may be hard to maintain licensing satisfactorily against third countries once it is removed for Australia. Some alleviating suggestions have been made (see (VIII)[1](#f1) below). 
 
 It is premature to try to define what might be negotiable in this area: we wish neither to raise any expectations of Australian softness nor spread gloom over Australian inflexibility.
 
@@ -36,8 +44,6 @@ It is premature to try to define what might be negotiable in this area: we wish 
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 24 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 24 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
-  * 1 Apparently an error; the message ends after section VII. 
-
-
+  * 1 Apparently an error; the message ends after section VII.

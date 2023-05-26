@@ -1,12 +1,18 @@
 ---
-title: "82 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6251
+doc_date: '1949-01-14'
+doc_num: 82
+doc_order: 82
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2278]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-14
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 82 Critchley to Department of External Affairs
 
 Cablegram K249 BATAVIA, 14 January 1949, 5.45 p.m.
 
@@ -22,10 +28,10 @@ Committee will telegraph to the Security Council today, January 14th, the follow
 
 (d) The number of Dutch troops in newly occupied areas is insufficient to prevent roving bands of occupants from moving freely and from performing acts of sabotage such as the destruction of newly repaired bridges. The Dutch troops are also insufficient to maintain law and order in the towns and many Chinese merchants have suffered severely from looting.
 
-_
+ _
 
 1 The full text of this report, Document S/1212, is given in United Nations, Security Council Official Records, Fourth Year, Supplement for January, p.49.
 
 _
 
-_ [AA : A5954, BOX 2278]_
+ _[AA : A5954, BOX 2278]_

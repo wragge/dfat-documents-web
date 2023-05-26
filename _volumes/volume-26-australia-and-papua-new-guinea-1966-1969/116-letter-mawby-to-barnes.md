@@ -1,16 +1,21 @@
 ---
-title: "116 Letter, Mawby To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9624
+doc_date: '1967-06-06'
+doc_num: 116
+doc_order: 116
+naa_refs:
+- naa_barcode: 12042309
+  naa_control_symbol: 1967/3211
+  naa_series: A452
+  reference: '[NAA: A452, 1967/3211]'
+title: Letter, Mawby To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-06-06
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 116 Letter, Mawby To Barnes
 
 Melbourne, 6 June 1967
 
-Now that all questions have been resolved and the mining agreement for Bougainville Copper has just been signed,1 I would like to reply to your letter of 19th May2 and thank you for your part in bringing this matter to finality.
+Now that all questions have been resolved and the mining agreement for Bougainville Copper has just been signed,[1](#f1) I would like to reply to your letter of 19th May[2](#f2) and thank you for your part in bringing this matter to finality.
 
 Our task now, in anticipation of its ratification is to complete the job of proving up sufficient economic ore reserves and planning an operation which will be attractive enough financially to convince the Administration, prospective lenders and ourselves that we should invest the required capital in its development.
 
@@ -22,7 +27,7 @@ I was glad also to be assured that it would be the intention eventually to allow
 
 We also hope that despite apparent difficulties in financing, it will prove possible for the Administration to retain full beneficial ownership of the remaining shares until the appropriate time comes to also distribute them to the local people. We have always made our interests clear in this regard. We believe the prospect of a substantial Administration shareholding continuing through the early years will assist significantly towards arranging the substantial borrowings essential to the establishment of this project, and we hope that in turn this shareholding will provide rewarding dividends to the Administration and for Territory residents.
 
-I trust that the completion of this Agreement and its ratification by the House in Port Moresby will eventually prove to have been a significant development of3 the Territory. of Papua and New Guinea.
+I trust that the completion of this Agreement and its ratification by the House in Port Moresby will eventually prove to have been a significant development of[3](#f3) the Territory. of Papua and New Guinea.
 
 [NAA: A452, 1967/3211]
 

@@ -1,12 +1,17 @@
 ---
-title: "491 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1722
+doc_date: '1941-06-07'
+doc_num: 491
+doc_order: 491
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : PREM 4/43A/16]'
+title: Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 491 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
 
 Cablegram Winch unnumbered LONDON, 7 June 1941
 
@@ -20,7 +25,7 @@ It is all right your sending a telegram like your 344 [1] to me through the High
 
 W. S. C[HURCHILL]
 
-_
+ _
 
 1 Document 483.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [PRO : PREM 4/43A/16]_
+ _[PRO : PREM 4/43A/16]_

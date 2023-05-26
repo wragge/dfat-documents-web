@@ -1,12 +1,17 @@
 ---
-title: "149 TELEGRAM, SANDYS TO MACMILLAN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10014
+doc_date: '1961-07-11'
+doc_num: 149
+doc_order: 149
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: TELEGRAM, SANDYS TO MACMILLAN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 149 TELEGRAM, SANDYS TO MACMILLAN
 
 Canberra, 11 July 1961
 

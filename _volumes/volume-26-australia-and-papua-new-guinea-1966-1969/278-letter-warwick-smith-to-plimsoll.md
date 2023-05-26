@@ -1,19 +1,23 @@
 ---
-title: "278 Letter, Warwick Smith To Plimsoll"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9786
+doc_date: '1969-06-03'
+doc_num: 278
+doc_order: 278
+naa_refs:
+- naa_barcode: 3118054
+  naa_control_symbol: 1969/2608
+  naa_series: A452
+  reference: '[NAA: A452, 1969/2608]'
+title: Letter, Warwick Smith To Plimsoll
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-06-03
-barcode: 3118054
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 278 Letter, Warwick Smith To Plimsoll
 
 Canberra, 3 June 1969
 
 Confidential 
 
-I would like to expand a bit on our telephone talk about possible four-cornered, low-key middle-ranking-official discussions in Canberra with the Indonesians on border matters.1
+I would like to expand a bit on our telephone talk about possible four-cornered, low-key middle-ranking-official discussions in Canberra with the Indonesians on border matters.[1](#f1)
 
 The object of these talks would be to bring together Canberra/Djakarta/Djajapura and Port Moresby in order to work out some sort of ‘agreement’, such as ‘Agreed Outline of Border Procedures’ which would among other things provide for continuing liaison and the main object of which would be to ensure either by explicit understanding incorporated in the agreed minute or exchange of letters or by some agreed procedure for future use to keep the temperature down both in the Territory and in West Irian on the one hand and in Canberra and Djakarta on the other—to minimise if not completely avoid the possibility of armed clashes arising through cross-border raids (some perhaps retaliatory by West lrianese).
 
@@ -37,10 +41,10 @@ It is becoming Increasingly clear that present arrangements in the border area a
 
 It appears that border incidents will continue for several months and recent events have shown that we lack control on our side of the border: and we don’t think this can be remedied by calling on the police alone.
 
-We would be looking for an Australian delegation to include External Affairs, Territories and Defence, and Port Moresby, with the Indonesians supplying representatives from West Irian as well as Djakarta. I do not feel discussions like these in a wider context should affect the immediate proposal for a visit by a Territory officer to Djajapura2— indeed, they would grow out of the Djajapura (Webb and Watson) exercise.
+We would be looking for an Australian delegation to include External Affairs, Territories and Defence, and Port Moresby, with the Indonesians supplying representatives from West Irian as well as Djakarta. I do not feel discussions like these in a wider context should affect the immediate proposal for a visit by a Territory officer to Djajapura[2](#f2)— indeed, they would grow out of the Djajapura (Webb and Watson) exercise.
 
-[ [NAA: A452, 1969/2608](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3118054) ]
+[NAA: A452, 1969/2608]
 
 1  Following this discussion, Plimsoll had sent a message to Jockel suggesting that such a meeting might be held in mid-June (minute, Besley to Galvin, 31 May 1969, NAA: A452, 1969/2608). 
 
-2  See Document 266. 
+2  See Document 266.

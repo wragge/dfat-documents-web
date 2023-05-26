@@ -1,12 +1,17 @@
 ---
-title: "99 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department"
-volume: "Volume 3: 1940, January-June"
-doc_id: 865
+doc_date: '1940-03-13'
+doc_num: 99
+doc_order: 99
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.1708]'
+title: Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-13
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 99 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
 
 Cablegram 180 LONDON, 13 March 1940
 
@@ -18,10 +23,10 @@ Finland
 
 While no official confirmation of terms agreed on there appears little doubt but that press reports accurate. Undoubtedly the fact that Finland has to capitulate and accept such drastic terms will seriously affect Allies' prestige. Daladier [1] attempted last night in his not entirely unimaginative picture of what the Allies prepared do to assist Finland to minimize the effect but doubt if it or any other statement win do much to counteract unfortunate repercussions of the fact itself.
 
-_
+ _
 
 1 French Prime Minister.
 
 _
 
-_ [FA: A3195, 1.1708]_
+ _[FA: A3195, 1.1708]_

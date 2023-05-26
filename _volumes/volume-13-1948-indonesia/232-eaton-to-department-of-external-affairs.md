@@ -1,12 +1,17 @@
 ---
-title: "232 Eaton to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5499
+doc_date: '1948-09-03'
+doc_num: 232
+doc_order: 232
+naa_refs:
+- naa_barcode: 274950
+  naa_control_symbol: 403/6/5/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838, 403/6/5/1]'
+title: Eaton to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-09-03
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 232 Eaton to Department of External Affairs
 
 Cablegram 236 BATAVIA, 3 September 1948, 5.40 p.m.
 
@@ -22,7 +27,7 @@ This I consider doubtful as Sjahrir no longer has a popular following.
 
 3\. Opinion is divided as to whether Sukarno, Hatta, with the assistance of TNI can deal with the situation, or fall, and Republic turn optimistically to [Russian] [3] bloc in view of lack of settlement through agency of United Nations.
 
-_
+ _
 
 1 Dispatched on 2 September. It requested background information on the union of Communists and Socialists within the Republic.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A1838, 403/6/5/1]_
+ _[AA:A1838, 403/6/5/1]_

@@ -1,12 +1,18 @@
 ---
-title: "89 Evatt to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5865
+doc_date: '1948-10-26'
+doc_num: 89
+doc_order: 89
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A9420
+  reference: '[AA: A9420, 6]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-10-26
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 89 Evatt to Chifley
 
 Cablegram E21 LONDON, 26 October 1948, 1-50 p.m.
 
@@ -20,8 +26,8 @@ I would suggest early approval of plan by Cabinet and there is no reason why you
 
 [matter omitted]
 
-_
+ _
 
 _
 
-_ [AA: A9420, 6]_
+ _[AA: A9420, 6]_

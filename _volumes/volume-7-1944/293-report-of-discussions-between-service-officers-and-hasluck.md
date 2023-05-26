@@ -1,12 +1,17 @@
 ---
-title: "293 Report of Discussions between Service Officers and Hasluck"
-volume: "Volume 7: 1944"
-doc_id: 2940
+doc_date: '1944-09-20'
+doc_num: 293
+doc_order: 293
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1821]'
+title: Report of Discussions between Service Officers and Hasluck
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-20
+vol_title: 'Volume 7: 1944'
 ---
-
-# 293 Report of Discussions between Service Officers and Hasluck
 
 20 September 1944
 
@@ -78,7 +83,7 @@ Some of the objections to the Russian proposal would be- (a) International contr
 
 With regard to the whole of the proposals for an international air force, it is pointed out that a land-based international air force would not be effective as a striking force in the Pacific; and in such ocean areas, it would have to be carrier-borne.
 
-Sub-section C (Regional arrangements) is still not agreed upon by Britain, U.S. &amp; U.S.S.R., and calls for further examination (see also para. 7(b) above).
+Sub-section C (Regional arrangements) is still not agreed upon by Britain, U.S. & U.S.S.R., and calls for further examination (see also para. 7(b) above).
 
 Sub-section E, (Interim arrangements) calls for further examination, particularly in conjunction with Clause 15, of the Australia - New Zealand Agreement.
 
@@ -108,7 +113,7 @@ A. A. CONLON J. R. KERR Army Representatives
 
 V. S. VINCENT Air Representative
 
-_
+ _
 
 1 Document 26.
 
@@ -138,4 +143,4 @@ and Soviet drafts on the nature of a proposed international air force.
 
 _
 
-_ [AA:A5954, BOX 1821]_
+ _[AA:A5954, BOX 1821]_

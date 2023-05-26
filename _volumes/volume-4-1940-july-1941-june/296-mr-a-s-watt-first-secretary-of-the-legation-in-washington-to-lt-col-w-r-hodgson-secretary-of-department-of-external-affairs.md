@@ -1,12 +1,18 @@
 ---
-title: "296 Mr A. S. Watt, First Secretary of the Legation in Washington, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1527
+doc_date: '1941-02-13'
+doc_num: 296
+doc_order: 296
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 185B, i]'
+title: Mr A. S. Watt, First Secretary of the Legation in Washington, to Lt Col W.
+  R. Hodgson, Secretary of Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-13
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 296 Mr A. S. Watt, First Secretary of the Legation in Washington, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs
 
 Cablegram 120 WASHINGTON, 13 February 1941, 5.46 p.m.
 
@@ -30,7 +36,7 @@ We have had numerous press requests for information prompted by the statement is
 
 tonight. [5]
 
-_
+ _
 
 1 Document 292.
 
@@ -44,4 +50,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 185B, i]_
+ _[AA:A981, JAPAN 185B, i]_

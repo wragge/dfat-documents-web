@@ -1,19 +1,23 @@
 ---
-title: "196 Cablegram, Shaw To Canberra"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9704
+doc_date: '1968-06-04'
+doc_num: 196
+doc_order: 196
+naa_refs:
+- naa_barcode: 546809
+  naa_control_symbol: 936/3 PART 2
+  naa_series: A1838
+  reference: '[NAA: A1838, 936/3 part 2]'
+title: Cablegram, Shaw To Canberra
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-06-04
-barcode: 546809
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 196 Cablegram, Shaw To Canberra
 
 New York, 4 June 1968
 
 UN956. Confidential
 
-**Secretary-General**
+ **Secretary-General**
 
 The following points emerged in a conversation which I had with the Secretary-General at a lunch which he gave in honour of the Australian Prime Minister at headquarters on 31st May./
 
@@ -23,4 +27,4 @@ The following points emerged in a conversation which I had with the Secretary-Ge
 
 [matter omitted]
 
-[ [NAA: A1838, 936/3 part 2](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=546809) ]
+[NAA: A1838, 936/3 part 2]

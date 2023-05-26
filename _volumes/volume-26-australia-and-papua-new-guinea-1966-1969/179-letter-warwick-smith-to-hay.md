@@ -1,27 +1,31 @@
 ---
-title: "179 Letter, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9687
+doc_date: '1968-05-10'
+doc_num: 179
+doc_order: 179
+naa_refs:
+- naa_barcode: 31698760
+  naa_control_symbol: 1970/4521
+  naa_series: A452
+  reference: '[NAA: A452, 1970/4521]'
+title: Letter, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-05-10
-barcode: 31698760
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 179 Letter, Warwick Smith To Hay
 
 Canberra, 10 May 1968
 
-Following the discussions in Canberra on the 6th and 7th May1 I now attach a check list of conclusions reached and points for further action.
+Following the discussions in Canberra on the 6th and 7th May[1](#f1) I now attach a check list of conclusions reached and points for further action.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 Whilst I have assumed that the points as expressed in the attachment are a reasonable record I do of course expect that you will advise if there are any points on which your understanding is significantly at variance.
 
-**Attachment 1**
+ **Attachment 1**
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_Ministerial Members system_
+ _Ministerial Members system_
 
 (I) Role of Assistant Administrators
 
@@ -37,17 +41,17 @@ _Ministerial Members system_
 
 (III) Ministerial Members
 
-Principles in Departmental paper C. W.P.l (attachment I) adopted.2
+Principles in Departmental paper C. W.P.l (attachment I) adopted.[2](#f2)
 
-Department to reword last two points of composite C.W.P.2 paper (attachment 2) so as not to distinguish with regard to the sharing of authority with the Departmental Head with regard to the making of policy decisions and administrative decisions.3 There would be no reference to the I.D.C.C. in C.W.P.2.
+Department to reword last two points of composite C.W.P.2 paper (attachment 2) so as not to distinguish with regard to the sharing of authority with the Departmental Head with regard to the making of policy decisions and administrative decisions.[3](#f3) There would be no reference to the I.D.C.C. in C.W.P.2.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-**Attachment 2**
+ **Attachment 2**
 
 Composite C.W.P./2
 
-_Role of Ministerial Member_
+ _Role of Ministerial Member_
 
 (I) IN RELATION TO THE HOUSE OF ASSEMBLY
 
@@ -85,7 +89,7 @@ Represent his Department in the House by answering questions;
 
 • To co-operate with, and seek the advice of, the departmental head on matters related to the exercise of his functions.
 
-[ [NAA: A452, 1970/4521](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=31698760) ]
+[NAA: A452, 1970/4521]
 
 1 The file relating to the visit (1968/2705) appears to have been destroyed by DOET (see NAA: Al250, box 12).
 

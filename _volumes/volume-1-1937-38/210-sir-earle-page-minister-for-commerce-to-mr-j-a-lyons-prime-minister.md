@@ -1,12 +1,17 @@
 ---
-title: "210 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 209
+doc_date: '1938-05-25'
+doc_num: 210
+doc_order: 209
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-25
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 210 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 25 May 1938, 7.00 p.m.
 
@@ -22,7 +27,7 @@ We have considered your telegram 25th May [1] containing text of letter received
 
 PAGE
 
-_
+ _
 
 1 Not printed; See AA : A1608, C47/1/4, iii. Lyons asked the Australian Ministers in London to comment on the Japanese Consul- General's letter and to hand a copy of it to the U.K. Government.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

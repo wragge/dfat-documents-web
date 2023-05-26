@@ -1,28 +1,33 @@
 ---
-title: "140 Memorandum, Dot (Rose) To Dea"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9648
+doc_date: '1967-08-23'
+doc_num: 140
+doc_order: 140
+naa_refs:
+- naa_barcode: 32394756
+  naa_control_symbol: 1967/4226
+  naa_series: A452
+  reference: '[NAA: A452, 1967/4226]'
+title: Memorandum, Dot (Rose) To Dea
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-08-23
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 140 Memorandum, Dot (Rose) To Dea
 
 Canberra, 23 August 1967
 
-**United [Nations] Visiting Mission to the Trust Territories of Nauru and New Guinea 19681**
+ **United [Nations] Visiting Mission to the Trust Territories of Nauru and New Guinea 1968[1](#f1)**
 
-I wish to refer to my memorandum dated 28th July,2 and to telephone discussions between your Mr Wilson3 and Mr Rose of this Department.4
+I wish to refer to my memorandum dated 28th July,[2](#f2) and to telephone discussions between your Mr Wilson[3](#f3) and Mr Rose of this Department.[4](#f4)
 
-2\. The views expressed in cables UN.10165 and UN.10246 were conveyed to the Administrator of Papua and New Guinea. His views are set out in the attached telex message.
+2\. The views expressed in cables UN.1016[5](#f5) and UN.1024[6](#f6) were conveyed to the Administrator of Papua and New Guinea. His views are set out in the attached telex message.
 
 3\. This Department would prefer that the United Nations Visiting Mission does not visit New Guinea during the elections—and in any case would wish it to visit Nauru first.
 
 4\. We consider that the views expressed by the Administrator in Paragraphs l to 3 of the attached telex message are reasonable and would of course have to be accepted if the visit takes place during the elections. The Visiting Mission would have to understand that if it visited the Territory during the election, it would not be accorded treatment which visiting missions usually receive, that the election itself will have disrupted normal activities in the Territory and that the results of the poll will not be known until towards the end of March.
 
-5\. So far as the whispering vote is concerned,7 we would not wish to put ourselves on the defensive. We recognize it as essential and unavoidable and would think this should be stated in reply to any criticism which may be voiced. We should, however, be glad of your views on this aspect.
+5\. So far as the whispering vote is concerned,[7](#f7) we would not wish to put ourselves on the defensive. We recognize it as essential and unavoidable and would think this should be stated in reply to any criticism which may be voiced. We should, however, be glad of your views on this aspect.
 
-**Attachment**
+ **Attachment**
 
 TELEX, HAY TO DOT
 

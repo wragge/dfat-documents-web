@@ -1,18 +1,21 @@
 ---
-title: "229 PRESS STATEMENT BY MCEWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10094
+doc_date: '1967-05-07'
+doc_num: 229
+doc_order: 229
+naa_refs:
+- naa_barcode: 584041
+  naa_control_symbol: 727/4/2 PART 7
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 7]'
+title: PRESS STATEMENT BY MCEWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-05-07
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 229 PRESS STATEMENT BY MCEWEN
-
-NAA: A1838, 727/4/2 PART 7 
 
 London, 7 May 1967
 
-**British Proposal to Apply for Membership of the Common Market**
+ **British Proposal to Apply for Membership of the Common Market**
 
 Commenting on Mr Wilson’s announcement that Britain proposed to lodge an application for membership of the European Common Market, Mr McEwen, the Deputy Prime Minister of Australia and Minister for Trade and Industry, said today: ‘I accept as a declaration made in good faith the often-repeated words of Mr Wilson and the British Prime Ministers who preceded him that essential Commonwealth interests will be safeguarded but I, with all other Australians, must wait with real anxiety to learn what arrangements the British Government believes it can achieve which would avoid seriously affecting the course of trade between Australia and Britain.
 
@@ -75,3 +78,5 @@ Mr McEwen said, ‘Because the Kennedy Round is in train and because countries w
 ‘Nothing could restrict world trading opportunities more than if Britain, the world’s major food importer, were to move inside the same wall of protective devices as currently surrounds the Common Market.
 
 ‘If these protective devices were not modified on Britain’s entry, then trade between member countries of the enlarged Common Market would be freed, but at the same time, the rest of the world would be cut off from its traditional and greatest food outlet’, Mr McEwen said.
+
+[NAA: A1838, 727/4/2 PART 7]

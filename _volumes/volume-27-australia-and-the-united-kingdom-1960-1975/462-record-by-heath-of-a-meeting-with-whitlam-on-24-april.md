@@ -1,16 +1,19 @@
 ---
-title: "462 RECORD BY HEATH OF A MEETING WITH WHITLAM ON 24 APRIL"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10329
+doc_date: '1973-05-08'
+doc_num: 462
+doc_order: 462
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 15/1299]'
+title: RECORD BY HEATH OF A MEETING WITH WHITLAM ON 24 APRIL
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1973-05-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
 
-# 462 RECORD BY HEATH OF A MEETING WITH WHITLAM ON 24 APRIL
-
-UKNA: PREM 15/1299
-
-Cowes, 8 May 19731
+Cowes, 8 May 1973[1](#f1)
 
 Confidential
 
@@ -18,11 +21,11 @@ I had a talk for two hours with Mr Whitlam, beginning at 5 o’clock on Tuesday,
 
 Mr Whitlam throughout was relaxed and friendly. In our preliminary exchanges I said how glad I was to see him again and we much appreciated that he should come to London on a visit so soon after becoming Prime Minister of Australia. We had often met for a talk when we had both been in opposition and when he, as Leader of the Australian Opposition, had visited London since I had become Prime Minister. It was very useful now to have this further opportunity of a general discussion with him.
 
-Mr Whitlam replied by expressing his appreciation of all that was being done for him during his visit. (This he later repeated to me both during dinner at No. 10 and as we were leaving Westminster Abbey for the ANZAC Day Service at noon the next day, Wednesday, 25 April. He said that we had gone far further than was required by the ordinary courtesies of entertaining and looking after a visiting Commonwealth Prime Minister.) He recognised the timing of his visit was inconvenient for everybody in London but unfortunately it was unavoidable if he were to come at this time of the year at all. He went on to emphasise how much he and his wife had enjoyed staying at Windsor; that he had a very worthwhile talk with The Queen, and that he had particularly liked being shown the pictures and other treasures in the Castle. He mentioned that he was sorry that he had not felt able to accept either the Foreign Secretary’s or my own invitation for Easter weekend but he felt in need of a rest. Moreover as it was the first time he and his family had been together for ten years they felt they would like to spend it quietly in London, celebrating their 31st wedding anniversary on Easter Sunday. He went on to say that on Easter Monday afternoon they had just gone off for a private tour which included Kew, Strawberry Hill and the Pope’s Grotto.2 Alas 1 was not able to add to his funds of information about the two latter as I am not well acquainted with them.
+Mr Whitlam replied by expressing his appreciation of all that was being done for him during his visit. (This he later repeated to me both during dinner at No. 10 and as we were leaving Westminster Abbey for the ANZAC Day Service at noon the next day, Wednesday, 25 April. He said that we had gone far further than was required by the ordinary courtesies of entertaining and looking after a visiting Commonwealth Prime Minister.) He recognised the timing of his visit was inconvenient for everybody in London but unfortunately it was unavoidable if he were to come at this time of the year at all. He went on to emphasise how much he and his wife had enjoyed staying at Windsor; that he had a very worthwhile talk with The Queen, and that he had particularly liked being shown the pictures and other treasures in the Castle. He mentioned that he was sorry that he had not felt able to accept either the Foreign Secretary’s or my own invitation for Easter weekend but he felt in need of a rest. Moreover as it was the first time he and his family had been together for ten years they felt they would like to spend it quietly in London, celebrating their 31st wedding anniversary on Easter Sunday. He went on to say that on Easter Monday afternoon they had just gone off for a private tour which included Kew, Strawberry Hill and the Pope’s Grotto.[2](#f2) Alas 1 was not able to add to his funds of information about the two latter as I am not well acquainted with them.
 
 Getting down to business, Mr Whitlam said that the main subject that he wanted to discuss with me was the question of appeals from the Australian states to the Privy Council. In fact this was really the only reason why he had come on this visit to London. There were, of course, other related problems which he would mention to me but before doing so he would like to give me an account of his conversation with The Queen at Windsor and the conclusions they had reached.
 
-First, as to Her Majesty’s Style and Title in Australia, The Queen had agreed to delete specific mention of the United Kingdom. He had also asked Her to delete Defender of the Faith from Her Style and Title but The Queen expressed objection to this and he had therefore acquiesced in the retention of these words.3
+First, as to Her Majesty’s Style and Title in Australia, The Queen had agreed to delete specific mention of the United Kingdom. He had also asked Her to delete Defender of the Faith from Her Style and Title but The Queen expressed objection to this and he had therefore acquiesced in the retention of these words.[3](#f3)
 
 Secondly, he had agreed with Her Majesty that She would sign the formal appointment of Australian Ambassadors and High Commissioners to capitals but all the preceding work would be carried out by Canberra with the Governor General.
 
@@ -60,7 +63,7 @@ I said that I would be delighted to arrange for this to take place. On our side 
 
 I then asked Mr Whitlam which other of the remaining ‘relics of colonialism’ he wished to be abolished. The legislative burden at Westminster was very heavy and it would greatly ease our problem of finding legislative time to deal with these matters affecting Australia if we could embody all of them in one bill. I hoped therefore that we could have the whole field examined and we could take all the necessary action at once. I repeated that the British Government had no desire whatever to retain any of this legislation.
 
-Mr Whitlam replied that there were Sections 735 and 736 of the Merchant Shipping Act 1894 which limited the powers of the Australian States to legislate in respect of merchant shipping. This was no longer acceptable. Under present conditions shipping between the States can be covered by Canberra legislation but shipping along a State coast cannot. A few years ago a ship foundered off the Queensland coast with loss of life and it was then found that the compensation payable was limited by the United Kingdom legislation.4 This was very unsatisfactory and he wanted the limitations of the 1894 Merchant Shipping Act removed. He did not think this was controversial with the States and for this reason was not prepared to adopt the procedure agreed between the British Government and the previous Australian Administration. The Commonwealth Government would legislate at Canberra and act under the ‘request and consent’ procedure of the Statute at Westminster.
+Mr Whitlam replied that there were Sections 735 and 736 of the Merchant Shipping Act 1894 which limited the powers of the Australian States to legislate in respect of merchant shipping. This was no longer acceptable. Under present conditions shipping between the States can be covered by Canberra legislation but shipping along a State coast cannot. A few years ago a ship foundered off the Queensland coast with loss of life and it was then found that the compensation payable was limited by the United Kingdom legislation.[4](#f4) This was very unsatisfactory and he wanted the limitations of the 1894 Merchant Shipping Act removed. He did not think this was controversial with the States and for this reason was not prepared to adopt the procedure agreed between the British Government and the previous Australian Administration. The Commonwealth Government would legislate at Canberra and act under the ‘request and consent’ procedure of the Statute at Westminster.
 
 I then asked Mr Whitlam if there were any further matters to which, after some thought, he replied—no, he did not think there were.
 
@@ -78,4 +81,6 @@ At the end of our meeting we agreed that all that would be said to the press wou
 
 3 Having been shown a copy of Heath’s record, Charteris pointed out that in her discussion with Whitlam (see Documents 456–58), the Queen had agreed to the deletion of ‘Defender of the Faith’ from her Style and Title in Australia but had insisted on retaining, Whitlam agreeing, ‘By the Grace of God’ (UKNA: FCO 24/1614, Charteris to Bridges, 9 May 1973).
 
-4 On this compare Twomey, _The chameleon crown_, p. 15.
+4 On this compare Twomey, _The chameleon crown_ , p. 15.
+
+[UKNA: PREM 15/1299]

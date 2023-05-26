@@ -1,12 +1,17 @@
 ---
-title: "344 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 681
+doc_date: '1939-11-10'
+doc_num: 344
+doc_order: 344
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 344 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 10 November 1939, 12.05 a.m.
 
@@ -24,7 +29,7 @@ I should therefore be extremely grateful if you felt able to tell me more of wha
 
 We are most reluctant to make any difficulties, but we should view with great anxiety the prospect of the post of High Commissioner being vacant here for any length of time in the present conditions. I should perhaps add, on the chance that it may assist you in coming to your decision, that there are precedents for establishing a Legation with a Charge d'Affaires pending selections as to Minister.
 
-_
+ _
 
 1 This cablegram was sent via the U.K. Dominions Secretary.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

@@ -1,12 +1,17 @@
 ---
-title: "389 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1620
+doc_date: '1941-04-07'
+doc_num: 389
+doc_order: 389
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.5275]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 389 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram M44 LONDON, 7 April 1941, 4.35 p.m.
 
@@ -44,7 +49,7 @@ Further advice will be forwarded regarding Blamey's reference to the strength of
 
 I can assure you that the matters which are troubling you are constantly engaging my attention and discussions. Churchill is fully aware of the problem and is most helpful; but I do not doubt that whatever comes of it in the short run, this Greek campaign represents a sound and unavoidable decision, which must have valuable results in more than one country.
 
-_
+ _
 
 1 Document 385.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA: A3195, 1941, 1.5275]_
+ _[AA: A3195, 1941, 1.5275]_

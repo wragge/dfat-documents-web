@@ -1,13 +1,17 @@
 ---
-title: "46 SUBMISSION NO. 256, BARNES TO CABINET"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9554
+doc_date: '1966-07-04'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 1806744
+  naa_control_symbol: '262'
+  naa_series: A5841
+  reference: '[NAA: A5841, 262]'
+title: SUBMISSION NO. 256, BARNES TO CABINET
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-07-04
-barcode: 1806744
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 46 SUBMISSION NO. 256, BARNES TO CABINET
 
 Canberra, 4 July 1966
 
@@ -15,9 +19,9 @@ Top Secret
 
 **Papua and New Guinea—threat to internal security**
 
-The purpose of this submission is to report to Cabinet that there is some industrial unrest in Papua and New Guinea and to seek Cabinet’s endorsement of action contemplated should the unexpected but extreme situation occur in which the Police and if called out the Pacific Islands Regiment refuse to act to control disturbances. 1
+The purpose of this submission is to report to Cabinet that there is some industrial unrest in Papua and New Guinea and to seek Cabinet’s endorsement of action contemplated should the unexpected but extreme situation occur in which the Police and if called out the Pacific Islands Regiment refuse to act to control disturbances. [1](#f1)
 
-_Background_
+ _Background_
 
 2\. The situation has arisen out of the reconstruction of the Public Service under the 1963 Public Service Ordinance. The focal point of expressions of discontent in the Public Service is the level of salaries fixed for indigenes (Local Officers) which are lower than those applicable to expatriates (Overseas Officers).
 
@@ -25,7 +29,7 @@ _Background_
 
 4\. A claim by the Public Service Association on behalf of Local Officers of the Public Service is being considered by the Public Service Arbitrator. Because the Arbitrator was injured in an accident, proceedings have been delayed. They resumed on 21st June. Some expressions of discontent have been directed at this delay.
 
-_The situation_
+ _The situation_
 
 5\. Pertinent features of reports made from time to time over recent weeks by the Administrator and the Local Intelligence Committee for Papua and New Guinea include planned demonstrations by students (now reported to be deferred), some work stoppages within and without the Public Service in Port Moresby, Rabaul and Sogeri over wages, advocacy of and planning for strike action in the Public Service and amongst the Police both in Port Moresby and elsewhere, attempts by students to associate Police with planned action, and a recent demonstration by indigenous Army personnel over pay.
 
@@ -33,17 +37,17 @@ _The situation_
 
 > ‘Despite the fact that the announcement of the new pay scales for the Police and Army led to an immediate reduction in tension, the situation is still considered serious. Should unassigned cash in hand, as a result of the new wage rate, not measure up to expectations, the situation could deteriorate.’
 
-_The basic issue_
+ _The basic issue_
 
 7\. The disparity between salary levels for indigenous and expatriate public servants arises from the policy of fixing indigenous salary levels that meet basic needs and yet take account of the needs of the economy of the Territory. There is, of course, the further significant principle that persons employed by the Administration and in other ways by the Government should not become privileged groups when compared with those engaged in production.
 
 8\. While the Territory is moving towards political self-determination there exists the contradictory situation that it is becoming increasingly dependent on outside financial assistance. Nothing should be done, therefore, that will permanently accelerate this trend.
 
-9\. Public Service salaries must be financed from the funds available (from the Australian grant and local revenue) in competition with the heavy demands of expanded economic development programmes as well as expansion, at the expensive tertiary levels, of education and training.2 As an indication of the budgetary implications of changes in levels of salaries and conditions of service for indigenous Administration staff, the reconstruction of the Public Service cost an additional $2,000,000 in the financial year 1964/65; the recent approvals in respect of the police are expected to cost an additional $635,000 for pay and $1,000,000 in respect of housing for 1966/67;3 and in respect of 1965/66 it was estimated that indigenous staff of the Administration would be paid $10,200,000 but that if they were paid at expatriate rates, the cost would be, $41,800,000.
+9\. Public Service salaries must be financed from the funds available (from the Australian grant and local revenue) in competition with the heavy demands of expanded economic development programmes as well as expansion, at the expensive tertiary levels, of education and training.[2](#f2) As an indication of the budgetary implications of changes in levels of salaries and conditions of service for indigenous Administration staff, the reconstruction of the Public Service cost an additional $2,000,000 in the financial year 1964/65; the recent approvals in respect of the police are expected to cost an additional $635,000 for pay and $1,000,000 in respect of housing for 1966/67;[3](#f3) and in respect of 1965/66 it was estimated that indigenous staff of the Administration would be paid $10,200,000 but that if they were paid at expatriate rates, the cost would be, $41,800,000.
 
 10.Public Service salaries have a significant influence on the levels of pay outside the Public Service. If too high, levels of wages can have an adverse effect on the capacity of the Territory to market the primary products on which its economy depends.
 
-_The risk_
+ _The risk_
 
 11\. The greatest danger is that some demonstration will be organised and an irresponsible act by someone will spark off trouble. It is assessed that any civil disorder would develop along racial lines.
 
@@ -57,11 +61,11 @@ _The risk_
 
 14\. At this stage it is assessed that while indigenous Police are unlikely to join with other groups in demonstrations or incidents they might refuse to act against indigenous demonstrators.
 
-15\. On the basis of assessments of senior Army officers there is the possibility of serious trouble with Army personnel.4
+15\. On the basis of assessments of senior Army officers there is the possibility of serious trouble with Army personnel.[4](#f4)
 
-_Approach in handling the situation_
+ _Approach in handling the situation_
 
-16\. I have consulted with the Minister for Defence5 and our two departments have consulted informally.
+16\. I have consulted with the Minister for Defence[5](#f5) and our two departments have consulted informally.
 
 17\. At this stage it is not expected that a situation will arise that cannot be contained. Steps have been taken to minimise the possibility of disturbances and to cover the effect of any disturbance that might occur. These include warnings to students of disciplinary action if they demonstrate and the enactment of legislative provisions to give control over meetings and processions.
 
@@ -73,11 +77,11 @@ _Approach in handling the situation_
 
 21\. I consider that the situation must be dealt with by standing firm on the industrial front and living through any trouble that might develop as a consequence. The alternative of increasing salary levels under pressure would encourage further pressure and lead towards a: situation in which the burden of too high wage levels would render impossible the already difficult task of building up a degree of economic self-reliance in the Territory to match the trends in political development.
 
-_Recommendation:_
+ _Recommendation:_
 
 22\. I recommend that Cabinet approve that plans be prepared for the provision of military assistance as a last resort. (In this regard I envisage that the necessary proclamation by the Governor-General permitting the use of military personnel would be recommended on the basis of a special Cabinet approval, or if the emergency became too pressing, after consultation with the Prime Minister.)
 
-[ [NAA: A5841, 262](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1806744) ]
+[NAA: A5841, 262]
 
 1  Concerns over unrest in the army and police force were accompanied by fears that planning for civil disturbances was inadequate. In the first half of 1966, the Administration and Territories assessed that existing contingency plans and associated institutional structures were designed for a war situation and were ‘inappropriate for dealing with threats to security ... arising internally’ (note for file by J.L. Legge (Defence Liaison Officer, DOT), 5 April 1966, NAA: A452, 1966/2664). It was also thought that legislative provisions for internal action were insufficient (see minutes, Ballard to Swift, 1 June 1966 and undated, ibid.).
 

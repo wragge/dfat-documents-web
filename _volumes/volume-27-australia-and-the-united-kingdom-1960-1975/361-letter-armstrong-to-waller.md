@@ -1,14 +1,17 @@
 ---
-title: "361 LETTER, ARMSTRONG TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10227
+doc_date: '1972-12-19'
+doc_num: 361
+doc_order: 361
+naa_refs:
+- naa_barcode: 1966827
+  naa_control_symbol: 1973/95155
+  naa_series: A446
+  reference: '[NAA: A446, 1973/95155]'
+title: LETTER, ARMSTRONG TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-12-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 361 LETTER, ARMSTRONG TO WALLER
-
-NAA: A446, 1973/95155
 
 Canberra, 19 December 1972
 
@@ -25,7 +28,7 @@ As I see it, there are two main considerations needing to be reconciled:
 
 I naturally would not wish to seem to intervene too far in (a).
 
-My position in relation to (b) was set out in my letter to you dated 22 November (copy attached for convenience of reference).1
+My position in relation to (b) was set out in my letter to you dated 22 November (copy attached for convenience of reference).[1](#f1)
 
 To be even more specific, our new Government has not yet had an opportunity to consider and decide the future of our visa system, and in particular the manner in which it at present discriminates
 
@@ -43,3 +46,5 @@ In the light of these possibilities I would suggest it may be even more desirabl
 I do not see this as precluding discussion of marginal and essentially administrative points which Mr Pritchett in London has been describing in his telegrams in recent weeks and which you may consider it proper to raise within your Department’s responsibilities for the interests of Australians abroad.
 
 1  Document 349.
+
+[NAA: A446, 1973/95155]

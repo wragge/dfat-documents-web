@@ -1,12 +1,17 @@
 ---
-title: "48 Makin to Chifley and Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3560
+doc_date: '1946-01-23'
+doc_num: 48
+doc_order: 48
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 TI, SPTS/1/4]'
+title: Makin to Chifley and Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-23
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 48 Makin to Chifley and Evatt
 
 Cablegram 503 LONDON, 23 January 1946, 12.41 p.m.
 
@@ -28,7 +33,7 @@ TOP SECRET IMMEDIATE
 
 Fraser, New Zealand agrees fully with suggested course.
 
-_
+ _
 
 1 U.S. Assistant Secretary of State.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A6494 TI, SPTS/1/4]_
+ _[AA:A6494 TI, SPTS/1/4]_

@@ -1,14 +1,20 @@
 ---
-title: "11 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1765
+doc_date: '1941-07-21'
+doc_num: 11
+doc_order: 12
+naa_refs:
+- naa_barcode: 4136701
+  naa_control_symbol: 1941/21
+  naa_series: A3196
+  reference: '[AA : A3196, 1941, 0.10211]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-21
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 11 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
-
-## Cablegram 461 [1] CANBERRA, 21 July 1941
+Cablegram 461 [1] CANBERRA, 21 July 1941
 
 Your telegram 445 Lease-Lend. [2]
 
@@ -108,9 +114,9 @@ basis of commission or direct payment for services.
 
 We will advise as early as possible on further developments.
 
-_
+ _
 
-1 Repeated to the Government Trade Commissioner in North America 
+1 Repeated to the Government Trade Commissioner in North America
 
 as no. 2163.
 

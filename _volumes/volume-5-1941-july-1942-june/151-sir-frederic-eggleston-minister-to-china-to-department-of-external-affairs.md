@@ -1,12 +1,17 @@
 ---
-title: "151 Sir Frederic Eggleston, Minister to China, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1905
+doc_date: '1941-12-01'
+doc_num: 151
+doc_order: 152
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Sir Frederic Eggleston, Minister to China, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-01
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 151 Sir Frederic Eggleston, Minister to China, to Department of External Affairs
 
 Cablegram 20 CHUNGKING, 1 December 1941, 9.30 p.m.
 
@@ -16,10 +21,10 @@ Saw Minister for Foreign Affairs [1] and told him that according to information 
 
 Considered that the Japanese did not intend a fresh commitment and that America must remain firm and stick to the previously enunciated principles.
 
-_
+ _
 
 1 Dr Quo Tai-chi.
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

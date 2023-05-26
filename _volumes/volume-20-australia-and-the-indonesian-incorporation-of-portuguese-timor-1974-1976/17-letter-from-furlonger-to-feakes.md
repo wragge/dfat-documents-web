@@ -1,18 +1,25 @@
 ---
-title: "17 Letter from Furlonger to Feakes"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7856
+doc_date: '1974-07-30'
+doc_num: 17
+doc_order: 17
+naa_refs:
+- naa_barcode: 4151641
+  naa_control_symbol: '1'
+  naa_series: A11443
+  reference: '[NAA: All443, [1]'
+title: Letter from Furlonger to Feakes
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-07-30
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 17 Letter from Furlonger to Feakes
 
 Jakarta, 30 July 1974
 
 TOP SECRET
 
-Thank you for your letter of 26 July.1
+Thank you for your letter of 26 July.[1](#f1)
 
 I was particularly interested in what you wrote to John McCredie earlier in the year, since it seems to me that your thinking has changed a little since then. Am I right in thinking that we are now more neutral about the most desirable outcome of the plebiscite whereas formerly we saw the best result of an act of self-determination as union of Portuguese Timor with Indonesia, if it could be reasonably decently arranged?
 
@@ -22,9 +29,9 @@ I think that the very least that Soeharto would expect from us would be to share
 
 Could the Prime Minister not say that he shares the assessment that it would be in the interests of the region that Portuguese Timor unite with Indonesia? He could then go on to qualify this by saying that, in the modem world, self-determination cannot be ignored, and that there could be problems in bringing about union. This could in tum open up the question of independence and other options. But I think Soeharto would expect us to begin by seeking a shared assessment of what would be in the best interests of the region, if it is attainable.
 
-I am concerned that the President might indicate obliquely to Mr Whitlam that Indonesia is thinking of guiding developments in Portuguese Timor through covert activities. This is perhaps unlikely, but it is possible. Mr Whitlam would then have no option but to say no, as he could never be on the record as having even tacitly acquiesced to such a proposal. I think it is important that we forestall any such possibility. I note your point that we should not encourage the Indonesians to talk to us along these lines but I think that Arriens should talk to Tjan again before the Prime Minister comes here. When Tjan first conveyed this information to him,2 Arriens made the point that if a decision were taken about running a covert operation he doubted that we would wish to hear about it officially. I think Tjan has taken this point, but it might be as well to reiterate it with him so that the Indonesians would not be under any possible illusion that we might take a diplomatic initiative as our part of a deal in which they did the dirty work in Portuguese Timor.
+I am concerned that the President might indicate obliquely to Mr Whitlam that Indonesia is thinking of guiding developments in Portuguese Timor through covert activities. This is perhaps unlikely, but it is possible. Mr Whitlam would then have no option but to say no, as he could never be on the record as having even tacitly acquiesced to such a proposal. I think it is important that we forestall any such possibility. I note your point that we should not encourage the Indonesians to talk to us along these lines but I think that Arriens should talk to Tjan again before the Prime Minister comes here. When Tjan first conveyed this information to him,[2](#f2) Arriens made the point that if a decision were taken about running a covert operation he doubted that we would wish to hear about it officially. I think Tjan has taken this point, but it might be as well to reiterate it with him so that the Indonesians would not be under any possible illusion that we might take a diplomatic initiative as our part of a deal in which they did the dirty work in Portuguese Timor.
 
-I am not sure that I agree that the Indonesians underestimate the difficulties of a covert operation in Portuguese Timor and the risk of exposure. There are ample means at their disposal to influence developments in Portuguese Timor and they have obviously given a good deal of thought to this already (as Fisher's findings in Kupang confirm).3 Nor are they unaware of the risk of exposure; this is one thing holding them back.
+I am not sure that I agree that the Indonesians underestimate the difficulties of a covert operation in Portuguese Timor and the risk of exposure. There are ample means at their disposal to influence developments in Portuguese Timor and they have obviously given a good deal of thought to this already (as Fisher's findings in Kupang confirm).[3](#f3) Nor are they unaware of the risk of exposure; this is one thing holding them back.
 
 I am not sure that an operation would be undertaken largely out of OPSUS self-interest. The decision will have to be taken by the President, who will weigh all the relevant considerations. All the Indonesians we talk to indicate deep concern about the potential for instability in Portuguese Timor and do not disguise their preference for incorporation into Indonesia. There is no other body that could do this apart from OPSUS. Of course it would be a prestigious trick for OPSUS to take, but I think it is significant that the initiative for a covert operation has come from Harry Tjan and not from the person who would probably run it, Lim Bian Kie. Tjan's reasons in favour of such an operation coincide, I think, with those of the other relevant authorities such as BAKIN, and have very little to do with internal politics.
 
@@ -32,10 +39,8 @@ Apart from the imminence of the Prime Minister's visit, one other reason why I t
 
 I am attaching a summary record of Fisher's visit to Indonesian Timor from which you will see that preparations for a covert operation are well in hand. You will note also the emphasis on union with Indonesia.
 
-_ [NAA: All443, [1]]_
+ _[NAA: All443, [1]]_
 
   * 1 Document 16.
   * 2 See Document 12.
   * 3 See Document 18.
-
-

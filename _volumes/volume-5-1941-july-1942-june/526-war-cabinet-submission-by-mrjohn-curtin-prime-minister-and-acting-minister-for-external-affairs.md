@@ -1,12 +1,18 @@
 ---
-title: "526 War Cabinet Submission by MrJohn Curtin, Prime Minister and Acting Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2280
+doc_date: '1942-06-16'
+doc_num: 526
+doc_order: 527
+naa_refs:
+- naa_barcode: 7569136
+  naa_control_symbol: 270/1942
+  naa_series: A2671
+  reference: '[AA:A2671, 270/42]'
+title: War Cabinet Submission by MrJohn Curtin, Prime Minister and Acting Minister
+  for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-16
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 526 War Cabinet Submission by MrJohn Curtin, Prime Minister and Acting Minister for External Affairs
 
 Agendum 270/42 CANBERRA, 16 June 1942
 
@@ -54,7 +60,7 @@ That the conduct of political warfare against Japan should be under the control 
 
 J. CURTIN
 
-_
+ _
 
 1 Both cablegrams are on file AA:A816, 19/304/327.
 
@@ -70,4 +76,4 @@ _
 
 _
 
-_ [AA:A2671, 270/42]_
+ _[AA:A2671, 270/42]_

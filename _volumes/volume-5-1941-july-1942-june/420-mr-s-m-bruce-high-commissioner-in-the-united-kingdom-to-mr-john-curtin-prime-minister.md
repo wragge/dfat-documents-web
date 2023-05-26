@@ -1,12 +1,18 @@
 ---
-title: "420 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2174
+doc_date: '1942-03-18'
+doc_num: 420
+doc_order: 421
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.11269]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-18
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 420 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 48[A] LONDON, 18 March 1942, 10 p.m.
 
@@ -20,7 +26,7 @@ I would also suggest that you should urge New Zealand to do so as well, borrowin
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 17 March. On file AA:A2937, Far East position 1942.
 
@@ -30,4 +36,4 @@ Paragraph 9 suggested that Staff Officers from Australia, New Zealand, the Nethe
 
 _
 
-_ [AA:A3195, 1942, 1.11269]_
+ _[AA:A3195, 1942, 1.11269]_

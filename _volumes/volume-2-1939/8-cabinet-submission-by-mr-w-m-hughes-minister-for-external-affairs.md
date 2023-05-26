@@ -1,14 +1,19 @@
 ---
-title: "8 Cabinet Submission by Mr W.M. Hughes, Minister for External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 345
+doc_date: '1939-01-24'
+doc_num: 8
+doc_order: 8
+naa_refs:
+- naa_barcode: 178517
+  naa_control_symbol: LEAGUE REFO 1 PART 2
+  naa_series: A981
+  reference: '[AA: A981, L OF N, REFORM 1, 11]'
+title: Cabinet Submission by Mr W.M. Hughes, Minister for External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-01-24
+vol_title: 'Volume 2: 1939'
 ---
 
-# 8 Cabinet Submission by Mr W.M. Hughes, Minister for External Affairs
-
-## Agenda 15 24 January 1939,
+Agenda 15 24 January 1939,
 
 SEPARATION OF THE COVENANT OF THE LEAGUE FROM THE PEACE TREATY
 
@@ -28,7 +33,7 @@ It is submitted for consideration whether the Commonwealth Government should sig
 
 W.M. HUGHES
 
-_
+ _
 
 1 Not printed. See file AA: A981, L of N, 19th Assembly 1.
 
@@ -42,7 +47,7 @@ _
 
 _
 
-_
+ _
 
 [AA: A981, L OF N, REFORM 1, 11]
 

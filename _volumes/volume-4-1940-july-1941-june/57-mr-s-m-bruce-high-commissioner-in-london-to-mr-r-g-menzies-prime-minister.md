@@ -1,12 +1,17 @@
 ---
-title: "57 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1288
+doc_date: '1940-08-08'
+doc_num: 57
+doc_order: 57
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1940, 1.6456]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 57 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 652 LONDON, 8 August 1940
 
@@ -24,10 +29,10 @@ I undertook to convey his representations.
 
 BRUCE
 
-_
+ _
 
 1 Dr Quo Tai-chi.
 
 _
 
-_ [AA:A3195, 1940, 1.6456]_
+ _[AA:A3195, 1940, 1.6456]_

@@ -1,22 +1,25 @@
 ---
-title: "101 CABINET DECISION NO. 762"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9966
+doc_date: '1968-12-04'
+doc_num: 101
+doc_order: 101
+naa_refs:
+- naa_barcode: 3188732
+  naa_control_symbol: C470 PART 2
+  naa_series: A5619
+  reference: '[NAA: A5619, C470 PART 2]'
+title: CABINET DECISION NO. 762
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-12-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 101 CABINET DECISION NO. 762
 
 Canberra, 19 November and 4 December 1968
 
-NAA: A5619, C470 PART 2
-
 Top Secret
 
-****
+ ****
 
-Submission No. 306—The Strategic Basis of Australian Defence Policy, 19681
+Submission No. 306—The Strategic Basis of Australian Defence Policy, 1968[1](#f1)
 
 The Cabinet asked that it be understood from the outset that it saw the Report of the Defence Committee as a wide-ranging analysis containing viewpoints, stated or implied, going in many instances beyond the immediate question of the basis of Australian defence policy or of military commitments, and thus going beyond the range of total detailed endorsement. It would give general reactions but in the circumstances it did not feel it necessary or, for that matter, practicable in the present discussion to take up and debate the Report in full nor to put down such endorsement as might be read as endorsement of any or all of the particular viewpoints advanced. Further, it would not attempt re-drafting but might make comments on particular passages in order to make its own views clearer.
 
@@ -38,7 +41,7 @@ The Cabinet asked that it be understood from the outset that it saw the Report o
 
 9\. Having settled these propositions, and having endorsed paragraph 177 as amended, the Cabinet went on to indicate that it endorsed also paragraphs 178 and 179 of the Defence Committee Report, which read as follows:–
 
-[_matter omitted_]2
+[ _matter omitted_ ][2](#f2)
 
 As a gloss on the observation in paragraph 179 that the achievement of strategic flexibility would not carry the connotation that Australia would ‘necessarily’ have forces overseas continuously, the Cabinet observed that neither should it be assumed that forces would not remain continuously overseas.
 
@@ -58,15 +61,17 @@ ATTACHMENT TO DECISION NO. 762
 
 The following is the series of observations referred to in paragraph 15 ofthe decision:–
 
-_Paragraph 185:_| Considering the sentence ‘Given the most favourable circumstances, this readjustment period could be short, and thereafter Australian military deployments in South–East Asia would become unnecessary’, the Cabinet felt that its attitude would be more accurately and fully expressed, particularly since there might be other factors to be considered, by indicating that ‘Australian military deployments in South-East Asia could become unnecessary from a strictly military point of view’.  
+ _Paragraph 185:_|  Considering the sentence ‘Given the most favourable circumstances, this readjustment period could be short, and thereafter Australian military deployments in South–East Asia would become unnecessary’, the Cabinet felt that its attitude would be more accurately and fully expressed, particularly since there might be other factors to be considered, by indicating that ‘Australian military deployments in South-East Asia could become unnecessary from a strictly military point of view’.  
 ---|---  
-_Paragraph 189:_| Consonant with its earlier expression of views regarding the area of Australian involvement (see paragraph 6) the Cabinet preferred that the words ‘and Thailand’ be removed from the final sentence—considering that support was subsumed within the SEATO obligation.  
-_Paragraph 192:_| In sub-paragraph (b), the Cabinet noted that its commitments to Malaysia did not extend to East Malaysia—this was put not so that the question of involvement in a particular situation in East Malaysia could not be considered but so that the limit of _commitment_ would be clear.  
+ _Paragraph 189:_|  Consonant with its earlier expression of views regarding the area of Australian involvement (see paragraph 6) the Cabinet preferred that the words ‘and Thailand’ be removed from the final sentence—considering that support was subsumed within the SEATO obligation.  
+ _Paragraph 192:_|  In sub-paragraph (b), the Cabinet noted that its commitments to Malaysia did not extend to East Malaysia—this was put not so that the question of involvement in a particular situation in East Malaysia could not be considered but so that the limit of _commitment_ would be clear.  
 Although the further detail of paragraph 202 was noted in explanation of sub-paragraph (e) in the list of requirements for forces, the Cabinet indicated, on the ground that no special forces would be sought for the ‘other areas’ referred to, it did not wish to endorse the inclusion of this sub-paragraph.  
 As a general comment on the preamble, the Cabinet observed that the phrase ‘along with’ was to be read as conjunctive rather than additive.  
   
-[_matter omitted_]
+[ _matter omitted_ ]
 
 1 See Document 99.
 
 2 Not published here. See Document 99 for paragraphs 178 and 179.
+
+[NAA: A5619, C470 PART 2]

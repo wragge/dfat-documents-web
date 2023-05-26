@@ -1,12 +1,18 @@
 ---
-title: "397 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 734
+doc_date: '1939-11-30'
+doc_num: 397
+doc_order: 397
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 35]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-30
+vol_title: 'Volume 2: 1939'
 ---
-
-# 397 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
 
 Cablegram C55 LONDON, 30 November 1939, 9.10 p.m.
 
@@ -20,7 +26,7 @@ Propose therefore to catch following flying boat leaving Southampton on 11th Dec
 
 CASEY
 
-_
+ _
 
 1 Document 395.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 35]_
+ _[AA: CP 290/6, ITEM 35]_

@@ -1,14 +1,20 @@
 ---
-title: "350 Mr A.T. Stirling, External Affairs Officer in London, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 687
+doc_date: '1939-11-10'
+doc_num: 350
+doc_order: 350
+naa_refs:
+- naa_barcode: 280085
+  naa_control_symbol: '181'
+  naa_series: A2937
+  reference: '[FA: A2937, NETHERLANDS-POLITICAL]'
+title: Mr A.T. Stirling, External Affairs Officer in London, to Lt Col W.R. Hodgson,
+  Secretary of Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-10
+vol_title: 'Volume 2: 1939'
 ---
 
-# 350 Mr A.T. Stirling, External Affairs Officer in London, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs
-
-## Cablegram 644 LONDON, 10 November 1939
+Cablegram 644 LONDON, 10 November 1939
 
 Your telegram No.85. [1] Personal for Hodgson. Have discussed matter at both Foreign Office and War Cabinet Secretariat. View taken here is that on all present evidence Dutch would resist a German attack on Holland and would co-operate with Great Britain as allies. This would include if necessary co-operation in every way in dealing with German interests in Netherlands East Indies e.g. over seizure of German shipping. Presumably Dutch would have no difficulties in dealing with Germans in this sphere.
 
@@ -18,10 +24,10 @@ War Cabinet Secretariat would be glad to have details of specific questions whic
 
 STIRLING
 
-_
+ _
 
 1 Document 343.
 
 _
 
-_ [FA: A2937, NETHERLANDS-POLITICAL]_
+ _[FA: A2937, NETHERLANDS-POLITICAL]_

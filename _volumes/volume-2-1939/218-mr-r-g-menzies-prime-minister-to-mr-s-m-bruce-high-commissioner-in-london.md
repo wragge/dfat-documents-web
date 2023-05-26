@@ -1,12 +1,17 @@
 ---
-title: "218 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London"
-volume: "Volume 2: 1939"
-doc_id: 555
+doc_date: '1939-09-11'
+doc_num: 218
+doc_order: 218
+naa_refs:
+- naa_barcode: 242488
+  naa_control_symbol: 1938/39
+  naa_series: M103
+  reference: '[AA:M103, 1938-39]'
+title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-11
+vol_title: 'Volume 2: 1939'
 ---
-
-# 218 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
 
 Letter (extract) CANBERRA, 11 September 1939
 
@@ -30,7 +35,7 @@ Meanwhile, there is amazing unity of political opinion, both in Great Britain an
 
 ROBERT G. MENZIES
 
-_
+ _
 
 1 Adolf Hitler, German Chancellor.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:M103, 1938-39]_
+ _[AA:M103, 1938-39]_

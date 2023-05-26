@@ -1,12 +1,17 @@
 ---
-title: "86 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2377
+doc_date: '1942-12-03'
+doc_num: 86
+doc_order: 86
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1942, 1.48648/68/71]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-12-03
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 86 Bruce to Curtin
 
 Cablegram 205[A] LONDON, 3 December 1942, 7.39 p.m.
 
@@ -50,7 +55,7 @@ The above gives you an indication of the trend of thought here to which as far a
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 30 November. On file AA:M100, November 1942. It reported and endorsed a speech made by Sumner Welles on 7 November in which the latter urged that the essential principles of international political and economic relations in the post-war world should be agreed on in advance and fully supported by each one of the United Nations, rather than worked out hurriedly amid all the pressures of a peace conference at the end of the war.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [FA:A3195, 1942, 1.48648/68/71]_
+ _[FA:A3195, 1942, 1.48648/68/71]_

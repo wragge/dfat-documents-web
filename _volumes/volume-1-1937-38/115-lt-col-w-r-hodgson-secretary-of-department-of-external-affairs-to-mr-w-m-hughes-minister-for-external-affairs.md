@@ -1,12 +1,18 @@
 ---
-title: "115 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr W. M. Hughes, Minister for External Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 114
+doc_date: '1937-12-13'
+doc_num: 115
+doc_order: 114
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90B, i]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr W.
+  M. Hughes, Minister for External Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-12-13
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 115 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr W. M. Hughes, Minister for External Affairs
 
 Memorandum 13 December 1937,
 
@@ -24,7 +30,7 @@ This has not been before Cabinet previously.
 
 W. R. HODGSON
 
-_
+ _
 
 1 Senator A. J. McLachlan.
 
@@ -92,4 +98,4 @@ A statement of this kind would assist in meeting any future objection on the par
 
 _
 
-_ [AA : A981, AUSTRALIA 90B, i]_
+ _[AA : A981, AUSTRALIA 90B, i]_

@@ -1,12 +1,18 @@
 ---
-title: "66 Noel-Baker to Evatt"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5842
+doc_date: '1948-11-26'
+doc_num: 66
+doc_order: 66
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-MISC. CORRESPONDENCE (B)]'
+title: Noel-Baker to Evatt
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-11-26
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 66 Noel-Baker to Evatt
 
 Letter LONDON, 26 November 1948
 
@@ -36,8 +42,8 @@ I think that you will wish to know the progress that has been made in discussion
 
 8\. We have suggested to Pandit Nehru that it is of the very greatest importance to keep entirely secret both the line which discussions have taken and the existence of any difficulties, since otherwise serious embarrassment may be caused to him as well as to all of us. We understand that he fully appreciates this, and I know you also will agree as to its importance. We are not, in these circumstances, making any communication to Commonwealth Governments at present. I am sending similar letters to Fraser and Pearson.
 
-_
+ _
 
 _
 
-_ [SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-MISC. CORRESPONDENCE (B)]_
+ _[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-MISC. CORRESPONDENCE (B)]_

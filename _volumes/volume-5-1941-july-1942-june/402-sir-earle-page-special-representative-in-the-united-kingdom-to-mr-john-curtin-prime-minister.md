@@ -1,12 +1,18 @@
 ---
-title: "402 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2156
+doc_date: '1942-03-10'
+doc_num: 402
+doc_order: 403
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.10027, 1.10039]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-10
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 402 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram P64 LONDON, 10 March 1942, 2.32 a.m.
 
@@ -32,7 +38,7 @@ Australia would then become the principal overseas American front, and for that 
 
 PAGE
 
-_
+ _
 
 1 See Document 400, note 9.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.10027, 1.10039]_
+ _[AA:A3195, 1942, 1.10027, 1.10039]_

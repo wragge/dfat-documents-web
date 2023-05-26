@@ -1,12 +1,18 @@
 ---
-title: "171 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1402
+doc_date: '1940-10-13'
+doc_num: 171
+doc_order: 171
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.7640]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-13
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 171 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 535 13 October 1940,
 
@@ -20,7 +26,7 @@ High Commissioner, London [3], No. 625.
 
 Your telegram No. 338 of 10th October. [4] Commonwealth Government are in agreement with proposed plan for conversations in London and Washington. We welcome opportunity of attendance of our Service representatives at talks in London and have telegraphed Australian High Commissioner, London, who will make necessary arrangements. [5] As regards discussions in Washington, Australian staff delegation is to consist of Commodore Boucher [6] and Air Commodore Goble [7], who is at present at Ottawa. Major General Northcott [8] is also included in the Delegation, but as he is attending the Singapore Conference which opens on 22nd October he could not reach Washington before middle of November. Glad to have information of arrangements for Washington as soon as possible.
 
-_
+ _
 
 1 Peter Fraser.
 
@@ -42,4 +48,4 @@ McNamara and Colonel J. H. F. Pain would represent the Air Force and Army respec
 
 _
 
-_ [AA:A3196, 1940, 0.7640]_
+ _[AA:A3196, 1940, 0.7640]_

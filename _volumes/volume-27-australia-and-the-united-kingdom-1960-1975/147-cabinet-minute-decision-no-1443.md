@@ -1,20 +1,23 @@
 ---
-title: "147 CABINET MINUTE, DECISION NO. 1443"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10012
+doc_date: '1961-07-10'
+doc_num: 147
+doc_order: 147
+naa_refs:
+- naa_barcode: 1162909
+  naa_control_symbol: VOLUME 9
+  naa_series: A3917
+  reference: '[NAA:A3917 VOLUME 9]'
+title: CABINET MINUTE, DECISION NO. 1443
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-10
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 147 CABINET MINUTE, DECISION NO. 1443
-
-NAA:A3917 VOLUME 9
 
 Canberra, 10 July 1961
 
 Secret
 
-****
+ ****
 
 Without memorandum—United Kingdom and European Economic Community Consultations.
 
@@ -38,3 +41,5 @@ Without memorandum—United Kingdom and European Economic Community Consultation
     4. we have other apprehensions relating to sterling area arrangements.
 
 
+
+[NAA:A3917 VOLUME 9]

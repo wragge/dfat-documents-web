@@ -1,26 +1,29 @@
 ---
-title: "142 MEMORANDUM,WALKER TO TANGE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10007
+doc_date: '1961-07-04'
+doc_num: 142
+doc_order: 142
+naa_refs:
+- naa_barcode: 554532
+  naa_control_symbol: 727/4 PART 7
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4 PART 7]'
+title: MEMORANDUM,WALKER TO TANGE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 142 MEMORANDUM,WALKER TO TANGE
-
-NAA: A1838, 727/4 PART 7
 
 Australian Embassy, Paris, 4 July 1961
 
 Secret
 
-****
+ ****
 
 United Kingdom and the EEC
 
 [...]
 
-The following observations [...] although too late to be of assistance in preparing for the immediately pending discussions,1 may have some relevance to issues arising subsequently. [...] The UK Government seriously miscalculated in its original assessment of the potentialities of the Common Market, whose success is one of the most important developments in world history since the War. What we are now witnessing is a hurried attempt by the UK to redress her previous error before it is too late. In these circumstances it is not surprising that Australia should encounter difficulty in safeguarding our own interest in the UK market.
+The following observations [...] although too late to be of assistance in preparing for the immediately pending discussions,[1](#f1) may have some relevance to issues arising subsequently. [...] The UK Government seriously miscalculated in its original assessment of the potentialities of the Common Market, whose success is one of the most important developments in world history since the War. What we are now witnessing is a hurried attempt by the UK to redress her previous error before it is too late. In these circumstances it is not surprising that Australia should encounter difficulty in safeguarding our own interest in the UK market.
 
 3\. Whilst the UK decision to join the Common Market may be basically a political one, I think the strength of the economic pressures upon her are not always recognised. Already the UK lags in production and trade as compared with the Common Market; and seems to be drifting into one of her periodical currency crises. Not only is her industrial position menaced by the expected progress of European technique assisted by its enlarged market, but also, surely her very important invisible trade in financial and insurance services will decline as the Common Market develops without her.
 
@@ -30,13 +33,13 @@ The following observations [...] although too late to be of assistance in prepar
 
 6\. This brings me to a question that has greatly interested us here, namely, whether France really wants the UK in the Common Market, or not. Have French references to the need to preserve the Commonwealth been intended to discourage the UK? Have French expositions of the economic implications for the Commonwealth been designed to make the Commonwealth’s flesh creep, to the point of our trying hard to keep the UK outside? French views and attitudes towards the UK are by no means monolithic; but the dominant French position may well be somewhat as follows:– the Common Market can do without the UK; the entry of the UK would, however, bring additional strength (political and economic) to the Common Market _provided_ the UK conforms to the principles of the Common Market as now elaborated. (De Gaulle has recently said this publicly.) The crucial test is the common agricultural policy, because (a) this has always been the main stumbling block for the UK; and (b) the agricultural situation, long an important problem in France, has now expanded into the most pressing issue in domestic politics, to whose solution the common agricultural policy offers a useful contribution (especially if extended to the UK). This agricultural issue is, of course, the one that causes most difficulty for the UK in her relations with the Commonwealth. The French recognise that the latter is a real problem, but consider it is not _their_ problem. If the Commonwealth persuades the UK to stay out of the Common Market, this will not dim the Common Market’s own prospects, it may even simplify things, and increase France’s influence over her partners. So the French attitude is a relaxed one, which also suits the French negotiating position at the present stage.
 
-7\. Having all this in mind, I fear our hopes that the UK will be able to ‘exact concessions to take account of the interests of its EFTA partners and the Commonwealth’ (paragraph 9 of the Department’s paper)2 are illusory; there is little chance of the UK negotiating anything very useful for Australia, as she enters the Common Market. Indeed it now looks as though the UK aims no higher than to get acceptance by the EEC of a best endeavours clause; even this may be watered down in the course of negotiations. And after the UK is admitted to the Common Market she will continue to be pre-occupied with the problem of establishing her political position within the new framework, as well as with the particular problems of adjustment that will arise in her own domestic economy.
+7\. Having all this in mind, I fear our hopes that the UK will be able to ‘exact concessions to take account of the interests of its EFTA partners and the Commonwealth’ (paragraph 9 of the Department’s paper)[2](#f2) are illusory; there is little chance of the UK negotiating anything very useful for Australia, as she enters the Common Market. Indeed it now looks as though the UK aims no higher than to get acceptance by the EEC of a best endeavours clause; even this may be watered down in the course of negotiations. And after the UK is admitted to the Common Market she will continue to be pre-occupied with the problem of establishing her political position within the new framework, as well as with the particular problems of adjustment that will arise in her own domestic economy.
 
 8\. In the last few days there have been a number of expressions of opposition by the Commonwealth Governments to Britain joining the Common Market. This no doubt makes it easier for Australia to state very strongly our own concern, though we may well hesitate to advise the UK to drop the idea of joining, if it is clear that she is convinced that it is politically and economically necessary for her to join the EEC. Quite apart from the bitterness that would be engendered if the UK decided to go ahead in the face of strong opposition from us there is the question whether we, and the other Commonwealth countries, are prepared to accept responsibility for the consequences to the UK if she is persuaded against her own judgement to stay outside the Common Market in the interests of Commonwealth solidarity. Such a decision could only lead to a request by the UK that the Commonwealth offer compensatory advantages. Presumably the United Kingdom has already assessed the prospects that would be open to her in both the political and economic fields if she turned to the Commonwealth rather than an integrated Europe, as the mainstay of her future. Can we realistically argue that the prospects are very promising?
 
 9\. It seems to me, therefore, that either the UK will join, despite the opposition of many Commonwealth countries in the absence of adequate safeguards, or that she will be persuaded against this course, and will seek compensation in the Commonwealth and EFTA. The latter course seems less likely, but we may find it necessary to give some thought to its implications for Australia and the rest of the Commonwealth. On the assumption that the UK does decide to join, our immediate problem, as I see it, is to ensure that the damage to our market will be minimised to the greatest practicable degree. There is no hope of doing this, in my opinion, if we leave it to the UK to make the best deal she can, while we are limited to having our representatives in the next room during the negotiations (presumably sharing this arrangement with other Commonwealth advisers).
 
-10\. I think it is sound policy to endeavour to anticipate the situation that will arise once the UK has joined the Common Market, when we shall find it necessary to open up trade negotiations with the EEC because we cannot continue to import on our present scale if our export markets are substantially reduced. We should make it plain that if and when the UK decides to join the Common Market we shall wish to renegotiate our trading arrangements with all present and prospective members of the EEC, including the UK, with a view to maintaining trade in both directions, having regard to our positions as an importer and an exporter. We should also indicate that we wish to examine inter alia with the Common Market countries what the implications would be of our becoming associated with the EEC, and whether the provisions of Article 133 of the Rome Treaty would give us a basis for our necessary industrial development.3
+10\. I think it is sound policy to endeavour to anticipate the situation that will arise once the UK has joined the Common Market, when we shall find it necessary to open up trade negotiations with the EEC because we cannot continue to import on our present scale if our export markets are substantially reduced. We should make it plain that if and when the UK decides to join the Common Market we shall wish to renegotiate our trading arrangements with all present and prospective members of the EEC, including the UK, with a view to maintaining trade in both directions, having regard to our positions as an importer and an exporter. We should also indicate that we wish to examine inter alia with the Common Market countries what the implications would be of our becoming associated with the EEC, and whether the provisions of Article 133 of the Rome Treaty would give us a basis for our necessary industrial development.[3](#f3)
 
 11\. From informal talks with the French during Dr Westerman’s visit here last week it seems that they consider our participation desirable in the discussion of the UK’s arrangements for particular commodities under the Common Agricultural policy, because of our position as international suppliers. This fact, plus our role as a market for exports from the EEC including the UK, represents a certain (though limited) negotiating strength which only we ourselves can deploy. It will not be brought to bear at all on the negotiation of the conditions surrounding the UK’s admission to the Common Market unless we succeed in merging our own negotiations with those negotiations to the extent of presenting our own case and our own future attitudes towards trade with the EEC including the UK. We should seek UK support for such a procedure, but it is we ourselves who should demand it, in direct approaches to the Governments that are members of the EEC.
 
@@ -49,3 +52,5 @@ The following observations [...] although too late to be of assistance in prepar
 2 Walker is referring to an earlier External Affairs paper of May 1961. See NAA: A1838, 727/4/2 part 1, External Affairs paper, ‘The Implications for Australian Foreign Policy of United Kingdom Participation in the European Common Market’, May 1961.
 
 3 Article 133 in Part 4 of the treaty allowed for the ‘Association of Overseas Countries and Territories which have special relations with Belgium, France, Italy and the Netherlands’. This was explicitly intended to pertain to current or former colonies, and exclusively to developing countries. It was never taken seriously as an option for developed countries like Australia, Canada and New Zealand.
+
+[NAA: A1838, 727/4 PART 7]

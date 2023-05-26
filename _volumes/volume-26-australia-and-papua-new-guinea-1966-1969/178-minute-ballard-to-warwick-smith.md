@@ -1,23 +1,27 @@
 ---
-title: "178 Minute, Ballard To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9686
+doc_date: '1968-05-03'
+doc_num: 178
+doc_order: 178
+naa_refs:
+- naa_barcode: 31698760
+  naa_control_symbol: 1970/4521
+  naa_series: A452
+  reference: '[NAA: A452, 1970/4521]'
+title: Minute, Ballard To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-05-03
-barcode: 31698760
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 178 Minute, Ballard To Warwick Smith
 
 Canberra, 3 May 1968
 
-**Ministerial Members**
+ **Ministerial Members**
 
-At our discussion yesterday concerning Hay’s visit1 we took the view that time would be limited to such an extent that it would be impossible for you to discuss anything apart from the item relating to the role of Assistant Administrators and our differences concerning whether members of the Nominations Committee could also be nominated for Ministerial office.
+At our discussion yesterday concerning Hay’s visit[1](#f1) we took the view that time would be limited to such an extent that it would be impossible for you to discuss anything apart from the item relating to the role of Assistant Administrators and our differences concerning whether members of the Nominations Committee could also be nominated for Ministerial office.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-3\. I am ... concerned at a difference in emphasis which comes through the Administrator’s letter presenting a redraft of our proposals2 and it seems to me that it is necessary for you and the Administrator to reach some agreement on the broad approach if we are going to be able to progress in working out the details. The Administrator has in fact a much more restricted view of the functions that Ministerial Members should perform than at least I have.
+3\. I am ... concerned at a difference in emphasis which comes through the Administrator’s letter presenting a redraft of our proposals[2](#f2) and it seems to me that it is necessary for you and the Administrator to reach some agreement on the broad approach if we are going to be able to progress in working out the details. The Administrator has in fact a much more restricted view of the functions that Ministerial Members should perform than at least I have.
 
 4\. As I understand it he tells us that our papers were discussed in the I.D.C.C. and the revised version that has been sent down implies a substantial clipping of the powers of Ministerial Members and to a lesser extent to the Administrator’s Executive Council itself.
 
@@ -31,7 +35,7 @@ Our proposal that the decisions of a Ministerial Member would follow considerati
 
 In his covering letter the Administrator stressed the role of the I.D.C.C. as a body which will examine proposals before they go to the Administrator’s Executive Council. This is a complete change from his previous thinking which was that the I.D.C.C should gradually be phased out.
 
-In the covering paper it is stated ‘that the appropriate way to regulate the movement towards self-government is by giving Ministerial Members and Assistant Ministerial Members _communal_ rather than individual authority.’ This does not in my view accord with the recommendations of the Select Committee which had been approved by Cabinet. The only way this could be achieved would be by instructions being given under Section 25 of the Act3 which had the substantial effect of nullifying the section which is drafted to ensure that specific functions are given to Ministerial Members.
+In the covering paper it is stated ‘that the appropriate way to regulate the movement towards self-government is by giving Ministerial Members and Assistant Ministerial Members _communal_ rather than individual authority.’ This does not in my view accord with the recommendations of the Select Committee which had been approved by Cabinet. The only way this could be achieved would be by instructions being given under Section 25 of the Act[3](#f3) which had the substantial effect of nullifying the section which is drafted to ensure that specific functions are given to Ministerial Members.
 
 6\. It is our view that the Administration approach is likely to result in the same sort of farce as the Under-Secretary system. Broadly I feel that we will only hold the Ministerial Member system for any length of time if the Ministerial Members are given individual as well as communal authority. If when the authority is given to them they did not exercise it we lose nothing. If the expectations which these changes have engendered in peoples minds are frustrated by the Administration we can confidently expect that political forces which could be harnessed to the Ministerial Member system will go into opposition.
 
@@ -41,7 +45,7 @@ In the covering paper it is stated ‘that the appropriate way to regulate the m
 
 9\. I hope you can take the opportunity of having a discussion with the Administrator on the broad principles. I have been wondering whether the Administrator did himself redraft these papers. If he did he has changed his position.
 
-[ [NAA: A452, 1970/4521](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=31698760) ]
+[NAA: A452, 1970/4521]
 
 1 Hay was shortly due to visit Canberra.
 

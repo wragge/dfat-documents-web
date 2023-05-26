@@ -1,12 +1,19 @@
 ---
-title: "155 Dr H. V. Evatt, Minister for External Affairs, to Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Casey, Minister to the United States, and to Sir Frederic Eggleston, Minister to China"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1909
+doc_date: '1941-12-03'
+doc_num: 155
+doc_order: 156
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr S. M. Bruce, High Commissioner
+  in the United Kingdom, to Mr R. G. Casey, Minister to the United States, and to
+  Sir Frederic Eggleston, Minister to China
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-03
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 155 Dr H. V. Evatt, Minister for External Affairs, to Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Casey, Minister to the United States, and to Sir Frederic Eggleston, Minister to China
 
 Cablegram 369/1041/30 CANBERRA, 3 December 1941
 
@@ -30,7 +37,7 @@ Reference your 21. [2] We appreciate point of view contained therein. Views and 
 
 EVATT
 
-_
+ _
 
 1 U.S. Secretary of State.
 
@@ -40,4 +47,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

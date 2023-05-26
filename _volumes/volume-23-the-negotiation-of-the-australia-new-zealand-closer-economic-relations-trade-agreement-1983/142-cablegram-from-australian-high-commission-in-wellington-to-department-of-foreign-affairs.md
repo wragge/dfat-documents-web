@@ -1,12 +1,20 @@
 ---
-title: "142 Cablegram from Australian High Commission in Wellington to Department of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9012
+doc_date: '1981-02-05'
+doc_num: 142
+doc_order: 142
+naa_refs:
+- naa_barcode: 1509882
+  naa_control_symbol: 370/1/19/18 PART 21
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, xxi]'
+title: Cablegram from Australian High Commission in Wellington to Department of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-02-05
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 142 Cablegram from Australian High Commission in Wellington to Department of Foreign Affairs
 
 Wellington, 5 February 1981
 
@@ -14,7 +22,7 @@ Wellington, 5 February 1981
 
 ## A-N.Z.-C.E.R.
 
-At Tuesday's meeting of the Economic Committee of Cabinet, chaired by the P.M., Ministers discussed the draft Permanent Heads Report1 and side papers on export incentives, dairy products,2 government purchasing etc. Officials 'did not seek nor obtain any directions' from Ministers, the purpose of the exercise was to permit officials to obtain a better idea of Ministers' thinking on the issues.
+At Tuesday's meeting of the Economic Committee of Cabinet, chaired by the P.M., Ministers discussed the draft Permanent Heads Report[1](#f1) and side papers on export incentives, dairy products,[2](#f2) government purchasing etc. Officials 'did not seek nor obtain any directions' from Ministers, the purpose of the exercise was to permit officials to obtain a better idea of Ministers' thinking on the issues.
 
   2. From our discussions with a number of officials the main points arising from the Committee meeting are as follows: 
     1. Finance issues were not discussed.
@@ -28,7 +36,7 @@ At Tuesday's meeting of the Economic Committee of Cabinet, chaired by the P.M., 
 
 
 
-_[NAA: A1838, 37011/19/18, xxi]_
+ _[NAA: A1838, 37011/19/18, xxi]_
 
 1 Document 139.
 

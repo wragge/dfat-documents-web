@@ -1,12 +1,17 @@
 ---
-title: "155 Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1386
+doc_date: '1940-10-03'
+doc_num: 155
+doc_order: 155
+naa_refs:
+- naa_barcode: 176213
+  naa_control_symbol: FAR 14 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 14A]'
+title: Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-03
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 155 Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Government
 
 Cablegram 53 TOKYO, 3 October 1940, 4.50 p.m.
 
@@ -30,7 +35,7 @@ Conclusion of alliance between Japan Germany and Italy brings nearer possibility
 
 CRAIGIE
 
-_
+ _
 
 1 Assistant Government Commissioner in Japan.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 14A]_
+ _[AA:A981, FAR EAST 14A]_

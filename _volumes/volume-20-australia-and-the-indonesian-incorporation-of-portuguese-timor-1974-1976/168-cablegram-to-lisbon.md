@@ -1,12 +1,19 @@
 ---
-title: "168 Cablegram to Lisbon"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8006
+doc_date: '1975-08-16'
+doc_num: 168
+doc_order: 167
+naa_refs:
+- naa_barcode: 4151551
+  naa_control_symbol: 801/13/11/1 PART 11
+  naa_series: A10463
+  reference: '[NAA: Al0463, 801113/11/1, xi]'
+title: Cablegram to Lisbon
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-08-16
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 168 Cablegram to Lisbon
 
 Canberra, 16 August 1975
 
@@ -14,7 +21,7 @@ O.CH255533 SECRET ROUTINE
 
 Portuguese Timor
 
-RefO.JA1201, O.JA1233 1
+RefO.JA1201, O.JA1233 [1](#f1)
 
 ## For Ambassador
 
@@ -25,8 +32,6 @@ You will appreciate the importance of the information reported in the reference 
 
 
 
-_[NAA: Al0463, 801113/11/1, xi]_
+ _[NAA: Al0463, 801113/11/1, xi]_
 
-  * 1 Documents 166 and 167. 
-
-
+  * 1 Documents 166 and 167.

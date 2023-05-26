@@ -1,18 +1,25 @@
 ---
-title: "24 Brief for Whitlam"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7863
+doc_date: '1974-09-02'
+doc_num: 24
+doc_order: 24
+naa_refs:
+- naa_barcode: 4151555
+  naa_control_symbol: 801/13/11/1 PART 3
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/1111, iii]'
+title: Brief for Whitlam
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1974-09-02
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 24 Brief for Whitlam
 
 Canberra, 2 September 1974
 
 SECRET AUSTEO
 
-**Prime Minister's Visit to Indonesia-Portuguese Timor**
+ **Prime Minister's Visit to Indonesia-Portuguese Timor**
 
 During your forthcoming visit to Indonesia, President Soeharto will expect to receive an authoritative statement from you of Australia's attitude towards Portuguese Timor. A visit to Canberra between 20 and 22 August by Mr Harry Tjan of the Centre for Strategic and International Studies in Jakarta to sound out our thinking at official level confirmed earlier indications of the importance that President Soeharto attaches to this aspect of your visit. Mr Tjan is President Soeharto's principal adviser on Portuguese Timor.
 
@@ -22,7 +29,7 @@ During your forthcoming visit to Indonesia, President Soeharto will expect to re
   5. Given the prevailing Indonesian belief that the integration of Portuguese Timor into Indonesia would be in the interests of the region, the Indonesians' view of what might prejudice regional harmony could differ appreciably from our own. The presidential agency OPSUS ('Special Operations') has planned a covert political operation to persuade the people of Portuguese Timor to accept absorption into Indonesia. Agents to carry out the operation are already in place in Indonesian Timor. We believe that, during his visit to Canberra, we persuaded Harry Tjan to advise President Soeharto against proceeding with the operation before you visit Indonesia. 
   6. The importance of Portuguese Timor to Australia's interests stems from its location some 250 miles from Darwin, and near our resources zone and close to major shipping routes; its prospective influence on our relations with Indonesia and other regional neighbours, particularly PNG; its effect on opinion in Australia; and the status of Portuguese Timor as a poor and backward territory in process of decolonization. The future of the territory is inevitably of strategic interest to Australia, although the Defence Committee has not yet considered and defined the precise nature of that strategic interest nor placed it in the context of Australia's wider strategic interests in relations with Indonesia and the region as a whole. It is clear that we share a strategic interest with Indonesia in excluding any potentially hostile external influence from Portuguese Timor and in avoiding a situation in which developments in Portuguese Timor (including Indonesia's relations with it) have an unsettling effect on regional relations. We should aim with the Indonesians at maintaining a dialogue about the problem that Portuguese Timor represents in order to divert them from a forward policy in Timor that would place our other interests at risk. Our stance in the United Nations in support of the principle of self-determination, including in respect of Portugal's African territories, commits us to this principle in the case of Portuguese Timor. The principle should not exclude any of the three future options for Portuguese Timor outlined in paragraph 3 above. The economic backwardness of Portuguese Timor provides compelling humanitarian grounds for some Australian aid.
   7. Indonesia regards itself as the successor state to the Netherlands East Indies. By definition, this claim does not extend to Portuguese Timor. During Confrontation, the Indonesians made half-hearted efforts at subversion in Portuguese Timor but, at that time, and subsequently, they have made it clear that they make no legal claim to the territory. However, the Indonesians undoubtedly see Portuguese Timor as a geographical extension of their own territory, and, for cultural, ethnic and historical reasons, they consider that its inclusion in Indonesia is natural and desirable and would represent valid decolonization. They also have strategic anxieties about Portuguese Timor, which seem to us understandable. The Indonesians are concerned that an independent Portuguese Timor would be poor and weak, and that it would be prey to foreign influence hostile to Indonesia which would seek to use Portuguese Timor as a channel to threaten Indonesia's security and national unity. We believe that President Soeharto is likely to emphasise this strategic interest in his discussion with you and that he might invite you to agree that the inclusion of Portuguese Timor in Indonesia would be in the strategic interests of Australia and the region generally, as well as of Indonesia itself.
-  8. According to Harry Tjan's account, as set out in the attached record,1 Portuguese Timor has become an urgent issue for Indonesia, partly through misapprehension of Australia's attitude. Events such as the visit to Portuguese Timor by Australian officials in June (actually, for fact-finding purposes), the subsequent visit to Australia by Ramos Horta, who is the principal advocate of independence for Portuguese Timor, and widespread rumours that Australia intends to re-establish a consulate in Dili led the Indonesians to conclude that we were embarking on a forward policy in Portuguese Timor. According to Tjan, Adam Malik in particular embraced this view and in consequence has expressed antagonism towards Australia. Another factor which influenced the Indonesians' decision to plan a political operation in Portuguese Timor was the conviction that the Portuguese were on the point of abandoning Timor to the independence party. This belief arose from misunderstanding of a recent Portuguese statement in the United Nations. 
+  8. According to Harry Tjan's account, as set out in the attached record,[1](#f1) Portuguese Timor has become an urgent issue for Indonesia, partly through misapprehension of Australia's attitude. Events such as the visit to Portuguese Timor by Australian officials in June (actually, for fact-finding purposes), the subsequent visit to Australia by Ramos Horta, who is the principal advocate of independence for Portuguese Timor, and widespread rumours that Australia intends to re-establish a consulate in Dili led the Indonesians to conclude that we were embarking on a forward policy in Portuguese Timor. According to Tjan, Adam Malik in particular embraced this view and in consequence has expressed antagonism towards Australia. Another factor which influenced the Indonesians' decision to plan a political operation in Portuguese Timor was the conviction that the Portuguese were on the point of abandoning Timor to the independence party. This belief arose from misunderstanding of a recent Portuguese statement in the United Nations. 
   9. Against this background, we suggest that you could make the following points in your discussion with President Soeharto:
     1. Australia has no ambitions in Portuguese Timor. As demonstrated in PNG, our concern is to withdraw from colonial responsibilities. Nevertheless Australia must be concerned with the future of the territory because of its location close to Australia, its importance to Indonesia and the effects of its future disposition on other regional neighbours, particularly PNG.
     2. Australia appreciates Indonesia's grounds for strategic concern about Portuguese Timor and is itself concerned:
@@ -35,13 +42,11 @@ During your forthcoming visit to Indonesia, President Soeharto will expect to re
     7. You could suggest that Australia and Indonesia might coordinate an approach along these lines to Portugal. Such coordination could extend to the reopening of an Indonesian mission in Lisbon and Australian mission in Dili to facilitate understanding and increase pressure on the Portuguese to act responsibly in Timor.
     8. Australia hopes that Indonesia understands its interests in relation to Portuguese Timor. Australia has so far proceeded very cautiously but the government will come under increasing pressure to declare its attitude on Portuguese Timor. You could say that, having discussed Portuguese Timor with President Soeharto, you had in mind initiating steps towards developing Australia's bilateral relations with Portuguese Timor such as offering some scholarships for Timorese students and inviting a representative group of Timorese political leaders to visit Australia. You could usefully explain to President Soeharto that Ramos Horta's visit was at his own initiative and that he was deliberately kept at arms length, not leas[t] because we did not wish to give the impression of according priority in advance of an act of self-determination to Horta's advocacy of independence. You could encourage the Indonesians to adopt a similar approach to their relations with Portuguese Timor and emphasize the importance of breaking down the artificial barriers that have isolated the territory from its neighbours.
     9. You could conclude by saying that, underlying Australia's attitude, is the wish that Portuguese Timor should not become an obstacle to good relations between Australia and Indonesia. You would be worried if Australian public opinion became agitated about developments in Portuguese Timor or if they gave PNG grounds for concern. Differences may develop from time-to-time between Australia and Indonesia about Portuguese Timor because the interests of the two countries are not identical. This possibility makes it all the more important to keep closely in touch.
-  10. Our recent discussions with Harry Tjan did much to reduce misconceptions on both sides. We believe that the approach which we advocate would satisfy President Soeharto and would at the same time serve our interest in heading-off the Indonesians from over-hasty action that could disturb public opinion in Australia or confidence in PNG.2
+  10. Our recent discussions with Harry Tjan did much to reduce misconceptions on both sides. We believe that the approach which we advocate would satisfy President Soeharto and would at the same time serve our interest in heading-off the Indonesians from over-hasty action that could disturb public opinion in Australia or confidence in PNG.[2](#f2)
 
 
 
-_ [NAA: A10463, 801/13/1111, iii]_
+ _[NAA: A10463, 801/13/1111, iii]_
 
   * 1 There is no attachment to the cited copy. The reference may be to Document 22.
   * 1 Woolcott forwarded this copy to Furlonger after the meeting, noting that it was 'in the end agreed with Defence' and that Whitlam had read it on the plane to Jogjakarta. A handwritten comment by Furlonger reads: 'This was all very cautious, and rather different from the line the PM actually took'.
-
-

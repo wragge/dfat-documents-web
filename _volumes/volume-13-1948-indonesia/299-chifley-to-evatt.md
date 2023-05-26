@@ -1,12 +1,17 @@
 ---
-title: "299 Chifley to Evatt"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5566
+doc_date: '1948-11-03'
+doc_num: 299
+doc_order: 299
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1948, 0.15665]'
+title: Chifley to Evatt
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-11-03
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 299 Chifley to Evatt
 
 Cablegram Ego CANBERRA, 3 November 1948
 
@@ -34,7 +39,7 @@ Meantime, they are maintaining the blockade against the Republic, which is havin
 
 8\. I should be glad if you would take this matter up with the Foreign Secretary and the Secretary of State as soon as is convenient and advise me of their attitude, as we might have any day to make up our minds quickly as to what we should do.
 
-_
+ _
 
 1 Chapter 7 of the UN Charter (Articles 39-51) is concerned with 'Actions with Respect to Threats to the Peace, Breaches of the Peace and Acts of Aggression'.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:A3196, 1948, 0.15665]_
+ _[AA:A3196, 1948, 0.15665]_

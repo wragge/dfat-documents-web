@@ -1,12 +1,18 @@
 ---
-title: "109 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr A. T. Stirling, External Affairs Officer in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1340
+doc_date: '1940-09-08'
+doc_num: 109
+doc_order: 109
+naa_refs:
+- naa_barcode: 181151
+  naa_control_symbol: TRAD 87 PART 1
+  naa_series: A981
+  reference: '[AA:A981, TRADE 87B, i]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr A.
+  T. Stirling, External Affairs Officer in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 109 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr A. T. Stirling, External Affairs Officer in London
 
 Cablegram 140 8 September 1940,
 
@@ -20,7 +26,7 @@ Would be glad if you could ascertain what is in mind of United Kingdom authoriti
 
 HODGSON
 
-_
+ _
 
 1 Document 89.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA:A981, TRADE 87B, i]_
+ _[AA:A981, TRADE 87B, i]_

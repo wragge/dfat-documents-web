@@ -1,12 +1,18 @@
 ---
-title: "198 Shedden to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2489
+doc_date: '1943-05-26'
+doc_num: 198
+doc_order: 198
+naa_refs:
+- naa_barcode: 671591
+  naa_control_symbol: 295/18
+  naa_series: A5954
+  reference: '[DEFENCE: MP1217, BOX 295, RETENTION OF NEW ZEALAND DIVISION IN THE
+    MIDDLE EAST]'
+title: Shedden to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-26
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 198 Shedden to Curtin
 
 Minute 26 May 1943,
 
@@ -32,7 +38,7 @@ It may bring criticism from those abroad who do not get their own way or from a 
 
 F.G.S.
 
-_ 1 See Curtin's aide-memoire of 17 May on file Defence: MP1217, box 295, Retention of New Zealand division in the Middle East.
+ _1 See Curtin's aide-memoire of 17 May on file Defence: MP1217, box 295, Retention of New Zealand division in the Middle East.
 
 Berendsen transmitted the text of the aide-memoire to his own govt, commenting that Curtin 'obviously felt strongly on this matter as indicated by incidental remarks during the discussion.
 
@@ -44,4 +50,4 @@ For example QUOTE That is precisely the line that Churchill took with me and if 
 
 _
 
-_ [DEFENCE: MP1217, BOX 295, RETENTION OF NEW ZEALAND DIVISION IN THE MIDDLE EAST]_
+ _[DEFENCE: MP1217, BOX 295, RETENTION OF NEW ZEALAND DIVISION IN THE MIDDLE EAST]_

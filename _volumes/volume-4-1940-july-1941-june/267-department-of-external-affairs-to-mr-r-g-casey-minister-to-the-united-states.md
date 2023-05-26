@@ -1,12 +1,17 @@
 ---
-title: "267 Department of External Affairs to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1498
+doc_date: '1941-02-04'
+doc_num: 267
+doc_order: 267
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3831, 1941, 196]'
+title: Department of External Affairs to Mr R. G. Casey, Minister to the United States
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 267 Department of External Affairs to Mr R. G. Casey, Minister to the United States
 
 Cablegram 336 4 February 1941,
 
@@ -22,7 +27,7 @@ Your telegram 76 of 31st January. [1] We appreciate arrangements to inform us of
 
 3\. In regard to the discussions we lay great importance on the bases to the north and east of Australia, i.e., Suva, Port Moresby, Darwin, and possibly New Caledonia and New Hebrides and their defence. We consider this line to be the most favourable one for U.S. naval reinforcements to the Singapore area. Initial Japanese action might be to attempt to occupy such bases, and if successful would, it is considered, make the passage of U.S. naval forces extremely hazardous. It is of the utmost importance that naval, military and air steps should be taken to deny such action to the Japanese, and we would be grateful for any expression of views by the United Kingdom or U.S.A. Delegations which might be sounded out. This matter is of particular importance in view of the forthcoming discussions at Singapore. It is desired that Burrell [2] raise these points and submit the earliest possible advice.
 
-_
+ _
 
 1 Document 264.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A3831, 1941, 196]_
+ _[AA:A3831, 1941, 196]_

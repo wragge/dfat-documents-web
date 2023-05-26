@@ -1,12 +1,17 @@
 ---
-title: "430 Sir John Latham, Minister to Japan, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1661
+doc_date: '1941-04-25'
+doc_num: 430
+doc_order: 430
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA: A98 I, FAR EAST 20B, i]'
+title: Sir John Latham, Minister to Japan, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-25
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 430 Sir John Latham, Minister to Japan, to Department of External Affairs
 
 Cablegram 197 TOKYO, 25 April 1941, 12.15 p.m.
 
@@ -18,7 +23,7 @@ As now advised I am generally in accord with the views contained in your telegra
 
 LATHAM
 
-_
+ _
 
 1 On file AA: A981, Far East 20B, i. It requested an immediate reply to cablegram 112 (Document 391).
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA: A98 I, FAR EAST 20B, i]_
+ _[AA: A98 I, FAR EAST 20B, i]_

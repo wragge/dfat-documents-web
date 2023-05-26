@@ -1,14 +1,17 @@
 ---
-title: "491 LETTER, CHARTERIS TO BRIDGES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10358
+doc_date: '1974-12-06'
+doc_num: 491
+doc_order: 491
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1934]'
+title: LETTER, CHARTERIS TO BRIDGES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1974-12-06
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 491 LETTER, CHARTERIS TO BRIDGES
-
-UKNA: FCO 24/1934
 
 Buckingham Palace, 6 December 1974
 
@@ -43,3 +46,5 @@ We have always assumed that it would not be practical to run two systems of Hono
 I believe this is right in principle but it might just be possible to find some compromise by which those States which wished to receive British Decorations could continue to do so for a ‘phasing out’ period.
 
 I am sending a copy of this letter to John Curle.
+
+[UKNA: FCO 24/1934]

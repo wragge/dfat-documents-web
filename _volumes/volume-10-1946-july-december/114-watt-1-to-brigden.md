@@ -1,12 +1,17 @@
 ---
-title: "114 Watt [1] to Brigden"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3962
+doc_date: '1946-09-12'
+doc_num: 114
+doc_order: 114
+naa_refs:
+- naa_barcode: 235857
+  naa_control_symbol: '387'
+  naa_series: A3300
+  reference: '[AA:A3300/2, 46/387]'
+title: Watt [1] to Brigden
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-09-12
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 114 Watt [1] to Brigden
 
 Letter CANBERRA, 12 September 1946
 
@@ -90,7 +95,7 @@ Agreement (Transition Period). Now the position appears to be reversed and the t
 
 Recommendation Any attempt to curtail by means of the Trade Charter the right of countries who are Members of both the I.M.F. and the I.T.O. to use exchange restrictions during the transition period should be opposed by the Australian Delegation.
 
-_
+ _
 
 1 G. P. N. Watt, Deputy Secretary, Department of the Treasury.
 
@@ -102,4 +107,4 @@ _
 
 _
 
-_ [AA:A3300/2, 46/387]_
+ _[AA:A3300/2, 46/387]_

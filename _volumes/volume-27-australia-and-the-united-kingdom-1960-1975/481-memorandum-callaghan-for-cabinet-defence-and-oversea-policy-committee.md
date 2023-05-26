@@ -1,22 +1,25 @@
 ---
-title: "481 MEMORANDUM, CALLAGHAN FOR CABINET DEFENCE AND OVERSEA POLICY COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10348
+doc_date: '1974-05-30'
+doc_num: 481
+doc_order: 481
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: CAB 1481145]'
+title: MEMORANDUM, CALLAGHAN FOR CABINET DEFENCE AND OVERSEA POLICY COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1974-05-30
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 481 MEMORANDUM, CALLAGHAN FOR CABINET DEFENCE AND OVERSEA POLICY COMMITTEE
-
-UKNA: CAB 1481145
 
 London, 30 May 1974
 
 Confidential
 
-**Australia: Abolition of Appeals and References to the Privy Council**
+ **Australia: Abolition of Appeals and References to the Privy Council**
 
-1\. A Privy Council Appeals Abolition Bill (referred to below as the Australian Bill) was tabled in the Australian House of Representatives last summer. In it the Australian (Commonwealth) Government seek, in reliance on existing powers of the Commonwealth under the Constitution, to abolish both appeals from State Courts to the Judicial Committee of the Privy Council and the right of the Crown to make references (as opposed to appeals) on Australian matters to the Judicial Committee for an advisory opinion. The Bill also contains a request for similar British legislation to be introduced in accordance with the ‘request and consent’ procedure in section 4 of the Statute of Westminster. The intention, however, is to rely in the first instance on the Commonwealth’s own legislative powers. The Australian Bill gives effect to the Australian Government’s policy of strengthening its own position in Australia vis � vis the States; of reinforcing the powers of the Australian High Court; and also of getting rid of ‘anachronistic’ links between the States and the United Kingdom. The States have objected to the proposed legislation on grounds that the constitutional balance would be upset without their consent; not all the States, however, object to abolition of appeals in itself. Mr Whitlam has said that they will be able to challenge the legislation in the Australian High Court if they wish to do so. The Bill has not yet been taken further in the Australian Parliament, but it will be reintroduced in the new Parliament.
+1\. A Privy Council Appeals Abolition Bill (referred to below as the Australian Bill) was tabled in the Australian House of Representatives last summer. In it the Australian (Commonwealth) Government seek, in reliance on existing powers of the Commonwealth under the Constitution, to abolish both appeals from State Courts to the Judicial Committee of the Privy Council and the right of the Crown to make references (as opposed to appeals) on Australian matters to the Judicial Committee for an advisory opinion. The Bill also contains a request for similar British legislation to be introduced in accordance with the ‘request and consent’ procedure in section 4 of the Statute of Westminster. The intention, however, is to rely in the first instance on the Commonwealth’s own legislative powers. The Australian Bill gives effect to the Australian Government’s policy of strengthening its own position in Australia vis à vis the States; of reinforcing the powers of the Australian High Court; and also of getting rid of ‘anachronistic’ links between the States and the United Kingdom. The States have objected to the proposed legislation on grounds that the constitutional balance would be upset without their consent; not all the States, however, object to abolition of appeals in itself. Mr Whitlam has said that they will be able to challenge the legislation in the Australian High Court if they wish to do so. The Bill has not yet been taken further in the Australian Parliament, but it will be reintroduced in the new Parliament.
 
 2\. The Bill raises two fundamental constitutional issues which are:
 
@@ -24,9 +27,9 @@ Confidential
 > 
 > (b) even if the Commonwealth may properly do this, whether it would be proper for the British Government to accede to the request and consent knowing that the States object.
 
-3\. In 1973 UK Ministers decided to await the enactment of the legislation and the outcome of any proceedings concerning it in the High Court of Australia before indicating what response would be made to a request and consent for legislation at Westminster.1 In the opinion of the present Law Officers it would be desirable to maintain this course of action.
+3\. In 1973 UK Ministers decided to await the enactment of the legislation and the outcome of any proceedings concerning it in the High Court of Australia before indicating what response would be made to a request and consent for legislation at Westminster.[1](#f1) In the opinion of the present Law Officers it would be desirable to maintain this course of action.
 
-4\. If this course is adopted, however, there nevertheless remains a problem upon which a decision is now required. The problem arises from the fact that the Commonwealth Government invited the United Kingdom to comment on the technical suitability of the draft Bill to be introduced in the UK Parliament (paragraph 1 above: the Bill is referred to below as the Westminster Bill) so that it would be in a form appropriate for enactment by Parliament if United Kingdom Ministers felt able to comply with the request. Certain textual comments have been put to the Commonwealth Government, although it was clearly stated that this was being done without there being any commitment that legislation would automatically or necessarily be introduced at Westminster if a request were made. A copy of the Australian Bill is at Annex A2 together with two drafts of the Westminster Bill, the first as originally tabled by the Commonwealth Government and the second incorporating the amendments which, except for clause 3, have been jointly agreed with the Australians.
+4\. If this course is adopted, however, there nevertheless remains a problem upon which a decision is now required. The problem arises from the fact that the Commonwealth Government invited the United Kingdom to comment on the technical suitability of the draft Bill to be introduced in the UK Parliament (paragraph 1 above: the Bill is referred to below as the Westminster Bill) so that it would be in a form appropriate for enactment by Parliament if United Kingdom Ministers felt able to comply with the request. Certain textual comments have been put to the Commonwealth Government, although it was clearly stated that this was being done without there being any commitment that legislation would automatically or necessarily be introduced at Westminster if a request were made. A copy of the Australian Bill is at Annex A[2](#f2) together with two drafts of the Westminster Bill, the first as originally tabled by the Commonwealth Government and the second incorporating the amendments which, except for clause 3, have been jointly agreed with the Australians.
 
 5\. In the course of discussing these amendments it has emerged that clause 3 of the Westminster Bill, which amends section 4 of the Judicial Committee Act 1833 (a copy of which is at Annex B and by which the Crown may refer to the Judicial Committee for hearing or consideration any matters which it shall think fit) so far as it concerns Australian matters, may be unacceptable to the United Kingdom even if the rest of the Bill, dealing with appeals to Her Majesty in Council, were acceptable for enactment by the UK Parliament. The Government may wish to make representations about clause 3 of the Westminster Bill before further proceedings on the Privy Council Appeals Abolition Bill are taken in the Commonwealth Parliament.
 
@@ -73,3 +76,5 @@ ANNEX C
 1 See Document 466.
 
 2 Annexes A and Bare not published.
+
+[UKNA: CAB 1481145]

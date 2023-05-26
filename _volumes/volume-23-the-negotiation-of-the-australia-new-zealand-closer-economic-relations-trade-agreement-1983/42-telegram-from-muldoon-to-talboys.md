@@ -1,12 +1,19 @@
 ---
-title: "42 Telegram from Muldoon to Talboys"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8912
+doc_date: '1979-08-07'
+doc_num: 42
+doc_order: 42
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Muldoon to Talboys
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-08-07
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 42 Telegram from Muldoon to Talboys
 
 Lusaka, 7 August 1979 (from NZ CHOGM delegation)
 
@@ -14,7 +21,7 @@ No 024. CONFIDENTIAL
 
 Australia- New Zealand Relations
 
-For Talboys1 from Prime Minister
+For Talboys[1](#f1) from Prime Minister
 
 ## Australia- New Zealand Relations
 
@@ -28,8 +35,6 @@ We set a timetable for our work. I suggested to Fraser a ministerial meeting eit
 
 Fraser expressed again his concern that Australia should not appear to be making a big brother take-over, and that the initiative should therefore come from the New Zealand side. I told him I thought we had already dealt with this problem in New Zealand, which was where the potential sensitivity lay, and that to my recollection we had described the initiative simply as one which arose out of the difficulties of NAFTA. He wished, however, for a note-half a page or so-on the way we had presented it so that he could take the same line, and I undertook to give it to him before he left Lusaka. I do not have with me the papers, which would establish exactly what has been said each time the matter has been discussed, but I see no particular reason why we should cast ourselves, quite artificially, as the demandeur. Unless you have a contrary view, therefore, I propose to give him a note which expresses the impulse behind our present discussions simply as one which arose out of our ordinary negotiations.
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 19A Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 19A Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Talboys was Acting Prime Minister in Muldoon's absence.
-
-

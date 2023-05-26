@@ -1,12 +1,17 @@
 ---
-title: "310 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 1: 1937-38"
-doc_id: 309
+doc_date: '1938-10-28'
+doc_num: 310
+doc_order: 309
+naa_refs:
+- naa_barcode: 206859
+  naa_control_symbol: N51/1/6
+  naa_series: A1608
+  reference: '[AA : A1068, N51/1/6]'
+title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-10-28
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 310 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 28 October 1938,
 
@@ -20,7 +25,7 @@ If the Admiralty are unwilling to lose control of an existing ship, discuss poss
 
 LYONS
 
-_
+ _
 
 1 Admiral Sir Ragnar Colvin, British naval officer; First Naval Member, Commonwealth Naval Board and Chief of (Australian) Naval Staff, 1937-41.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA : A1068, N51/1/6]_
+ _[AA : A1068, N51/1/6]_

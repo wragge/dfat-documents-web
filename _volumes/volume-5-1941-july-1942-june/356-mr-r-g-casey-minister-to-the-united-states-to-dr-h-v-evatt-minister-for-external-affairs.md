@@ -1,14 +1,20 @@
 ---
-title: "356 Mr R. G. Casey, Minister to the United States, to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2110
+doc_date: '1942-02-21'
+doc_num: 356
+doc_order: 357
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr R. G. Casey, Minister to the United States, to Dr H. V. Evatt, Minister
+  for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-21
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 356 Mr R. G. Casey, Minister to the United States, to Dr H. V. Evatt, Minister for External Affairs
-
-## Cablegram 332 WASHINGTON, 21 February 1942, 4 a.m.
+Cablegram 332 WASHINGTON, 21 February 1942, 4 a.m.
 
 Following personal for Minister External Affairs from justice Frankfurter. [1]
 
@@ -20,7 +26,7 @@ I know that point of view of the President is taken in full light of the whole s
 
 CASEY
 
-_
+ _
 
 1 Associate Justice of the U.S. Supreme Court. He was a friend of Roosevelt and had met Evatt when the latter was a Justice of the High Court of Australia.
 
@@ -32,4 +38,4 @@ Roosevelt) of the contents of cablegram 35. The Commonwealth Govt agreed (cableg
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

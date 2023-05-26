@@ -1,12 +1,17 @@
 ---
-title: "152 Curtin to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2799
+doc_date: '1944-05-16'
+doc_num: 152
+doc_order: 152
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1153]'
+title: Curtin to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-16
+vol_title: 'Volume 7: 1944'
 ---
-
-# 152 Curtin to Forde
 
 Cablegram 24 LONDON, 16 May 1944, 9.55 p.m.
 
@@ -138,7 +143,7 @@ The Australian people have recently faced the stark realism of a perilous situat
 
 CURTIN
 
-_
+ _
 
 1 Dated 15 May. In AA:A6712,1944, Top Secret, PMM(44) 14th Meeting, annexe 1.
 
@@ -158,4 +163,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 1153]_
+ _[AA:A5954, BOX 1153]_

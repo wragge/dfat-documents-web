@@ -1,12 +1,19 @@
 ---
-title: "38 Report by Department of Transport"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8908
+doc_date: 1979-10
+doc_num: 38
+doc_order: 38
+naa_refs:
+- naa_barcode: 1509858
+  naa_control_symbol: 370/1/19/18 ANNEX 6
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011119/18, ANNEX 6]'
+title: Report by Department of Transport
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-04-11
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 38 Report by Department of Transport
 
 Canberra, [October 1979]1
 
@@ -94,8 +101,6 @@ Although Australia and New Zealand operate their own international airlines and 
 
 It is possible that closer co-operation could be developed between the two countries in the field of international aviation. It would be possible, for example, for one country to provide certain technical services or to mount certain air services on behalf of the other under some agreed arrangements. Clearly, however, such a suggestion would need to come from New Zealand for it to have any prospect of being accepted in practice.
 
-_[NAA: A1838, 37011119/18, ANNEX 6]_
+ _[NAA: A1838, 37011119/18, ANNEX 6]_
 
-  * 1 The document is undated. 
-
-
+  * 1 The document is undated.

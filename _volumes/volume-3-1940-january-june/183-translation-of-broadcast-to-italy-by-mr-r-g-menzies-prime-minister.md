@@ -1,12 +1,17 @@
 ---
-title: "183 Translation of Broadcast to Italy by Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 949
+doc_date: '1940-04-28'
+doc_num: 183
+doc_order: 183
+naa_refs:
+- naa_barcode: 278805
+  naa_control_symbol: '89'
+  naa_series: A2937
+  reference: '[AA: A2937, ITALY, vi]'
+title: Translation of Broadcast to Italy by Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-28
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 183 Translation of Broadcast to Italy by Mr R. G. Menzies, Prime Minister
 
 Extract SYDNEY, 28 April 1940
 
@@ -28,10 +33,10 @@ The second reason-our love of liberty and independence-will be readily understoo
 
 Thousands of people throughout the world have looked on with intelligent goodwill at the great constructive work carried out after the war by your leader Mussolini. We are aware that your problems, like our own, require solution through the arts of peace and industry not through the destructive arts of war. When we Australians think of Italy, we think of great Roman legislators, poets, religious and secular thinkers, sculptors, painters and musicians: in a word, Italy has made an immense contribution to the arts of peace, and has thus contributed largely to the culture of every country. Must all these things be destroyed? Must the clock of civilisation be put back? Must the future of mankind be governed only by brute force? We cannot think so, together with other British peoples, we are determined that this shall not happen. You are neutral, we are fighting: but we are convinced that these precious things which we have in common are of supreme importance and that we shall have your sympathy and your understanding. [1]
 
-_
+ _
 
 1 This talk inaugurated short wave broadcasts from Australia to Italy. Cablegrams exchanged between the External Affairs Dept and A. T. Stirling, External Affairs Officer in London, indicate that Menzies took steps to ensure that Mussolini was aware of his broadcast. (See Stirling's cablegrams 274 of 25 April 1940, 279 of 26 April and 300 of 3 May and the Department's unnumbered cablegram of 26 April on file AA: A2937, Italy, vi.)
 
 _
 
-_ [AA: A2937, ITALY, vi]_
+ _[AA: A2937, ITALY, vi]_

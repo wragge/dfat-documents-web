@@ -1,12 +1,18 @@
 ---
-title: "273 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 610
+doc_date: '1939-10-09'
+doc_num: 273
+doc_order: 273
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to
+  Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 273 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Department of External Affairs
 
 Cablegram 60 WASHINGTON, 9 October 1939, 5.35 p.m.
 
@@ -18,7 +24,7 @@ Here insert text of my immediately following telegram. [2]
 
 OFFICER
 
-_
+ _
 
 1 See Document 267, note 1.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

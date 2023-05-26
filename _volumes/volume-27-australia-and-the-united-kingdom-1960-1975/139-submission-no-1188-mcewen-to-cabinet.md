@@ -1,14 +1,17 @@
 ---
-title: "139 SUBMISSION NO. 1188, MCEWEN TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10004
+doc_date: '1961-07-01'
+doc_num: 139
+doc_order: 139
+naa_refs:
+- naa_barcode: 1162909
+  naa_control_symbol: VOLUME 9
+  naa_series: A3917
+  reference: '[NAA: A3917 VOLUME 9]'
+title: SUBMISSION NO. 1188, MCEWEN TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-01
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 139 SUBMISSION NO. 1188, MCEWEN TO CABINET
-
-NAA: A3917 VOLUME 9
 
 Canberra, 1 July 1961
 
@@ -21,7 +24,7 @@ Secret
 United Kingdom and the European Economic Community  
 Implications for Australia’s Trade
 
-_Australia’s Trade Interests_
+ _Australia’s Trade Interests_
 
 1\. This paper depicts only the trade background against which the impact upon Australian trade interests would have to be considered if the United Kingdom—which is Australia’s most important single market—decides to join with the European Economic Community (EEC or the Common Market). The paper does not therefore include any consideration of political questions or any analysis of policy problems or discussion of possible courses of policy.
 
@@ -33,7 +36,7 @@ _Australia’s Trade Interests_
 
 5\. Australia is an important market for the United Kingdom—until recently her largest single market—and now taking over 7% of her exports. Australia, Canada and New Zealand together (16%) take more of the United Kingdom’s exports than the countries of the EEC jointly (14%). The Commonwealth as a whole constitutes a market for the United Kingdom three times as big (42%) as the EEC countries (14%).
 
-_Australia’s Trade Relations with the United Kingdom_
+ _Australia’s Trade Relations with the United Kingdom_
 
 6\. Our trade relations with the United Kingdom are based on the United Kingdom/Australia Trade Agreement 1956 which was adapted from the 1932 Ottawa Agreement. According to the letter of the Agreement as it now stands (it is open to re-negotiation this year) it could, at any time after November, 1961, be terminated at six months’ notice. However, the Ottawa Agreement ran for over twenty years on a similar termination clause.
 
@@ -51,7 +54,7 @@ _Australia’s Trade Relations with the United Kingdom_
 
 13\. Apart from our formalised trade relations in the Trade Agreement and in the Meat and Sugar Agreements, there is a whole web of continuing intimate commercial relations with the United Kingdom based on frank discussions of problems in each other’s market. Mutual efforts are made to find common ground in international trade and commercial discussions and at times to support each other’s objectives in such organisations as the General Agreement on Tariffs and Trade, the International Wheat Agreement and the International Sugar Agreement. In recent discussions between officials in London the United Kingdom officials acknowledged that there will be far-reaching effects of their having to subscribe to the common commercial policy of the United Kingdom/EEC group, which will not only rule out future trade agreements between the United Kingdom and individual Commonwealth countries, but will also require them to adopt a common line in international forums dealing with trade questions.
 
-_The Treaty of Rome (effective 1958)_
+ _The Treaty of Rome (effective 1958)_
 
 14\. The Treaty of Rome, by which the EEC was established, is by no means solely a trade treaty. It includes provisions for harmonisation of social services, mobility of labour and other economic and social matters. A transitional period of from 12 to 15 years is provided for putting these provisions into effect.
 
@@ -59,7 +62,7 @@ _The Treaty of Rome (effective 1958)_
 
 16\. The levels of duty for the common external tariff have been established and programmes laid down for the necessary modification of the existing national tariffs to put it into effect. So far as concerns Australian exports, the rates of duty are free entry for wool and for ores and concentrates and moderate duties for metals. For agricultural products the rates set are high, but also have to be considered in conjunction with the _common agricultural policy_ described below.
 
-_The Common Agricultural Policy_
+ _The Common Agricultural Policy_
 
 17\. The agricultural chapter ofthe Treaty of Rome provides for a common agricultural policy to be established and to be put into effect by stages. The stated objectives of the common agricultural policy are to raise agricultural productivity and the standard of living of those engaged in agriculture, to stabilise markets, to guarantee supplies and to ensure reasonable prices to consumers.
 
@@ -77,7 +80,7 @@ _The Common Agricultural Policy_
 
 
 
-_European Free Trade Association (EFTA)_
+ _European Free Trade Association (EFTA)_
 
 22\. Following the collapse of her efforts at the end of 1958 to negotiate a Western Europe-wide industrial free trade area which would give her an association with the EEC, the United Kingdom in 1959, together with Austria, Denmark, Sweden, Norway, Switzerland and Portugal, set up the ‘European Free Trade Association’ (the ‘Seven’)—an industrial free trade area. Finland has lately associated with this group. The distinguishing features of EFTA are–
 
@@ -125,7 +128,7 @@ _The United Kingdom and the EEC_
 
 33\. The attachments set out the possible situation in respect of several of Australia’s important products.
 
-_Offsetting Considerations_
+ _Offsetting Considerations_
 
 34\. There are some offsetting considerations, but these vary from product to product. For products where there would be common prices under the common agricultural policy price competition would largely be ruled out. To the extent that imports are required and allowed trade may persist by virtue of long established trade connections and the reputation of the product. Where trade inside the group is free but production is protected by a high duty (e.g. canned fruit) the market reputation of the product may enable sales to continue at the cost of substantially lower returns.
 
@@ -135,7 +138,7 @@ _Offsetting Considerations_
 
 37\. Any offsetting advantages in relation to wool and metals would turn on whether the United Kingdom’s economic strength would be enhanced and also on whether any such increase in economic strength would significantly increase consumption of wool or metals compared with the position if the United Kingdom stayed out of the EEC. Apart from doubts about the economic effects already mentioned, on the United Kingdom joining the EEC, such evidence as we have does not point to any consistent pattern of growth in wool consumption as national income grows.
 
-_Alternative Markets_
+ _Alternative Markets_
 
 38\. For some of the products likely to be affected, e.g., canned fruits and butter, there are few discernible alternative markets of any significance. In a number of markets we are already vigorously seeking to expand our exports. In others great and expensive efforts on our part would be needed to develop trade in particular products and substantial changes in the existing market conditions and consumer tastes would be necessary before we could hope to ship goods in any quantity.
 
@@ -147,7 +150,7 @@ _Alternative Markets_
 
 42\. All in all, though under stress we would presumably be able to market some of the displaced products in other markets, perhaps with lower prices, there are certainly no easy or assured alternate outlets to be seen which would compensate for trade losses in Western Europe.
 
-_Safeguards for Australian Trade_
+ _Safeguards for Australian Trade_
 
 43\. The preceding analysis of effects of the United Kingdom joining with the EEC has been made on the assumption of her joining without qualification. Any safeguards for Australian trade would, it appears have to take the form of special arrangements negotiated with the EEC or ‘derogations’ from the present provisions of the Rome Treaty, acceptable to the present EEC members.
 
@@ -155,12 +158,14 @@ _Safeguards for Australian Trade_
 
 45\. The United Kingdom officials have said that they will only learn in negotiations with the EEC what special arrangements could be secured on account of the Commonwealth.
 
-46\. On the other hand, French officials have told our people in Paris that they could only agree to the United Kingdom joining the EEC if the United Kingdom accepted all the obligations of the Treaty of Rome including the common external tariff and the common agricultural policy.1
+46\. On the other hand, French officials have told our people in Paris that they could only agree to the United Kingdom joining the EEC if the United Kingdom accepted all the obligations of the Treaty of Rome including the common external tariff and the common agricultural policy.[1](#f1)
 
 47\. Since any safeguards for Australian trade would have to be secured by negotiation it is relevant to note that the United Kingdom has indicated to the EEC that, in the event of her joining, she would have no objection to her tariff preferences in the Commonwealth being negotiated between the EEC and the Commonwealth countries concerned.
 
-_Conclusion_
+ _Conclusion_
 
 48\. In the light of such advices as we have about the United Kingdom’s intentions in respect of safeguards for Australian trade and the discussions between the United Kingdom and Australian officials in London in the past ten days, the departmental assessment is that the United Kingdom’s entry into the EEC would have widespread adverse effects on our trade and quite significant adverse effects on the trade and economic side of Commonwealth relations.
 
 1 See Document 142.
+
+[NAA: A3917 VOLUME 9]

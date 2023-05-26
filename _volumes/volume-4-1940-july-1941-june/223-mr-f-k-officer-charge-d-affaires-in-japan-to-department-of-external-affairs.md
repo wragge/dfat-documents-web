@@ -1,12 +1,17 @@
 ---
-title: "223 Mr F. K. Officer, Charge d'Affaires in Japan, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1454
+doc_date: '1940-12-12'
+doc_num: 223
+doc_order: 223
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20B, i]'
+title: Mr F. K. Officer, Charge d'Affaires in Japan, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-12-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 223 Mr F. K. Officer, Charge d'Affaires in Japan, to Department of External Affairs
 
 Cablegram 9 TOKYO, 12 December 1940, 7.37 p.m.
 
@@ -28,7 +33,7 @@ I expect to be received by Vice Minister for Foreign Affairs in next day or two 
 
 OFFICER
 
-_
+ _
 
 1 Cablegrams 1 (238 to Washington) and 2 (239 to Washington) are printed as Documents 215 and 219. Cablegram 3 to Officer has not been found.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 20B, i]_
+ _[AA:A981, FAR EAST 20B, i]_

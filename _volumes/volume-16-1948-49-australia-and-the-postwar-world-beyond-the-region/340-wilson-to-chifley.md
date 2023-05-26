@@ -1,12 +1,17 @@
 ---
-title: "340 Wilson to Chifley"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7055
+doc_date: '1948-07-23'
+doc_num: 340
+doc_order: 340
+naa_refs:
+- naa_barcode: 635330
+  naa_control_symbol: 708/12 A
+  naa_series: A1838
+  reference: '[AA : A1838, 708/12A]'
+title: Wilson to Chifley
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-07-23
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 340 Wilson to Chifley
 
 Cablegram 876, WASHINGTON, 23 July 1948, 8.33 p.m.
 
@@ -16,10 +21,10 @@ I have made contact with Arthur Smithies who has just taken temporary charge of 
 
 2 Would also find useful any arguments - even tenuous ones - which Ryeeler's[2] boys can [pro]duce to demonstrate that ECA dollars spent in Australia would contribute more to European recovery than ECA dollars spent directly in United States.
 
-_ [1] Economic Cooperation Administration.
+ _[1] Economic Cooperation Administration.
 
 [2] Not identified.
 
 _
 
-_ [AA : A1838, 708/12A]_
+ _[AA : A1838, 708/12A]_

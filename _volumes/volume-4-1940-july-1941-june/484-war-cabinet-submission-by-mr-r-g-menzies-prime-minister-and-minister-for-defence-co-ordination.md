@@ -1,12 +1,19 @@
 ---
-title: "484 War Cabinet Submission by Mr R. G. Menzies, Prime Minister and Minister for Defence Co-ordination"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1715
+doc_date: '1941-06-04'
+doc_num: 484
+doc_order: 484
+naa_refs:
+- naa_barcode: 650976
+  naa_control_symbol: 633/11
+  naa_series: A5954
+  reference: '[DEFENCE: SPECIAL COLLECTION 1, BOX 633, PRIME MINISTER''S VISIT ABROAD,
+    1941. REVIEW OF DEFENCE POSITION IN THE PACIFIC. WAR CABINET AGENDUM NO. 195/1941]'
+title: War Cabinet Submission by Mr R. G. Menzies, Prime Minister and Minister for
+  Defence Co-ordination
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 484 War Cabinet Submission by Mr R. G. Menzies, Prime Minister and Minister for Defence Co-ordination
 
 Agendum 195/1941 (extracts) 4 June 1941
 
@@ -62,7 +69,7 @@ In a long war it is not known what changes may take place in these directions, w
 
 R. G. MENZIES
 
-_ ABROAD, 1941. REVIEW OF DEFENCE POSITION IN THE PACIFIC. WAR CABINET AGENDUM NO. 195/1941]
+ _
 
 1 Document 400.
 
@@ -80,4 +87,4 @@ For War Cabinet's consideration of this Agendum see War Cabinet Minute 1137 of 1
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION 1, BOX 633, PRIME MINISTER'S VISIT_
+ _[DEFENCE: SPECIAL COLLECTION 1, BOX 633, PRIME MINISTER'S VISIT ABROAD, 1941. REVIEW OF DEFENCE POSITION IN THE PACIFIC. WAR CABINET AGENDUM NO. 195/1941]_

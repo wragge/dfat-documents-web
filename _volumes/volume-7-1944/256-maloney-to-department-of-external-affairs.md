@@ -1,12 +1,17 @@
 ---
-title: "256 Maloney to Department of External Affairs"
-volume: "Volume 7: 1944"
-doc_id: 2903
+doc_date: '1944-08-23'
+doc_num: 256
+doc_order: 256
+naa_refs:
+- naa_barcode: 185057
+  naa_control_symbol: 1944/715/5/2/2
+  naa_series: A989
+  reference: '[AA:A989, 43-44/715/5/2/2]'
+title: Maloney to Department of External Affairs
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-23
+vol_title: 'Volume 7: 1944'
 ---
-
-# 256 Maloney to Department of External Affairs
 
 Cablegram 176 [1] MOSCOW, 23 August 1944, 7.45 P.M.
 
@@ -26,10 +31,10 @@ We do not propose taking any further action in connexion with the Polish represe
 
 MALONEY
 
-_
+ _
 
 1 Repeated to London as no. 40.
 
 _
 
-_ [AA:A989, 43-44/715/5/2/2]_
+ _[AA:A989, 43-44/715/5/2/2]_

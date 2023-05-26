@@ -1,12 +1,18 @@
 ---
-title: "180 Mr R. G. Menzies, Prime Minister, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1411
+doc_date: '1940-10-22'
+doc_num: 180
+doc_order: 180
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.7958]'
+title: Mr R. G. Menzies, Prime Minister, to Mr R. G. Casey, Minister to the United
+  States
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 180 Mr R. G. Menzies, Prime Minister, to Mr R. G. Casey, Minister to the United States
 
 Cablegram 14 22 October 1940,
 
@@ -24,7 +30,7 @@ Air Board are sending their appreciation of the air situation to Air Vice-Marsha
 
 MENZIES
 
-_
+ _
 
 1 Document 177.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.7958]_
+ _[AA:A3196, 1940, 0.7958]_

@@ -1,13 +1,17 @@
 ---
-title: "91 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1845
+doc_date: '1941-10-26'
+doc_num: 91
+doc_order: 92
+naa_refs:
+- naa_barcode: 206516
+  naa_control_symbol: E45/2/1
+  naa_series: A1608
+  reference: '[AA : A1608, E45/2/1, V]'
+title: Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-10-26
-barcode: 206516
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 91 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
 
 Cablegram Winch 1 LONDON, 26 October 1941, 12.20 p.m.
 
@@ -29,7 +33,7 @@ Russian resistance is still strong especially in front of Moscow and Winter is n
 
 CHURCHILL
 
-_
+ _
 
 1 See Document 77, note 4.
 
@@ -41,4 +45,4 @@ _
 
 _
 
-_ [ [AA : A1608, E45/2/1, V](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=206516) ]_
+ _[AA : A1608, E45/2/1, V]_

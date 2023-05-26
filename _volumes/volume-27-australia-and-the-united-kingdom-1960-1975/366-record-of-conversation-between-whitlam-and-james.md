@@ -1,20 +1,23 @@
 ---
-title: "366 RECORD OF CONVERSATION BETWEEN WHITLAM AND JAMES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10232
+doc_date: '1972-12-20'
+doc_num: 366
+doc_order: 366
+naa_refs:
+- naa_barcode: 552880
+  naa_control_symbol: 67/1/3 PART 7
+  naa_series: A1838
+  reference: '[NAA: A1838, 67/1/3 PART 7]'
+title: RECORD OF CONVERSATION BETWEEN WHITLAM AND JAMES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-12-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 366 RECORD OF CONVERSATION BETWEEN WHITLAM AND JAMES
-
-NAA: A1838, 67/1/3 PART 7 
 
 Canberra, 20 December 1972
 
 Secret
 
-The High Commissioner who called on instructions and at his own request referred to the bout de papier he had earlier left with Sir Keith Waller.2 The Prime Minister said that he had seen the bout de papier and discussed it with Sir Keith Waller. He said he thought that the proposals looked too lofty—especially that for consultations at senior ministerial level. He would prefer informal discussions between officials. The Prime Minister said that he had two things in mind in coming to this point of view:– firstly, there was clearly a dispute in the Commons between the Labour and Conservative Parties and within the Conservative Party itself on this question. He did not want the Australian Government’s attitude to be drawn into British political controversy. The second consideration was that he did not want any impression to arise that Australia was so akin to Britain that we should automatically become involved in solving Imperial legacies. He was aware that the British Government faced a number of problems arising out of the disintegration of its former empire and the Prime Minister thought the most helpful thing Australia could do in such a situation would be to adhere firmly to the line that the solution of these problems was essentially a British responsibility. The Prime Minister was insistent that people abroad must not get the impression that Australia had any responsibility for Britain’s colonial aftermath.
+The High Commissioner who called on instructions and at his own request referred to the bout de papier he had earlier left with Sir Keith Waller.[2](#f2) The Prime Minister said that he had seen the bout de papier and discussed it with Sir Keith Waller. He said he thought that the proposals looked too lofty—especially that for consultations at senior ministerial level. He would prefer informal discussions between officials. The Prime Minister said that he had two things in mind in coming to this point of view:– firstly, there was clearly a dispute in the Commons between the Labour and Conservative Parties and within the Conservative Party itself on this question. He did not want the Australian Government’s attitude to be drawn into British political controversy. The second consideration was that he did not want any impression to arise that Australia was so akin to Britain that we should automatically become involved in solving Imperial legacies. He was aware that the British Government faced a number of problems arising out of the disintegration of its former empire and the Prime Minister thought the most helpful thing Australia could do in such a situation would be to adhere firmly to the line that the solution of these problems was essentially a British responsibility. The Prime Minister was insistent that people abroad must not get the impression that Australia had any responsibility for Britain’s colonial aftermath.
 
 2\. He sympathised with Britain’s problem arising from its earlier ‘open door’ policy of entry by British Citizens from Commonwealth countries. While he did not want Australia’s attitude towards immigration questions to result in Australia’s being regarded as the South Africa of the Antipodes, he thought it rational and natural for people already settled in Australia to decide who should immigrate here.
 
@@ -26,8 +29,10 @@ The High Commissioner who called on instructions and at his own request referred
 
 6\. The Prime Minister said that some of the actions he envisaged might be regarded by some as anti-British. For his part he might not intend to publicise them in this way. He intended to cut down on a lot of monarchical paraphernalia. Australia and Australians must grow up a bit more. Some of our past associations with Britain, e.g. in Malaysia and Hong Kong, had been more to Britain’s benefit than ours. However, he thought it best for him not to profess these views or protest too much concern but rather to take it coolly. The High Commissioner said he hoped that relations would return to an even keel. On the immigration question, Britain had to avoid any charges of discrimination on grounds of colour. He said there was a dilemma between strong feelings of kinship for Australians and the need to convince the coloured Commonwealth that there was no discrimination. He appreciated that it went against the grain for Australians to ‘walk through some other gate’. Immigration, therefore, was an irritant. He said that he thought that the purely confidential officials’ discussions, to which Mr Kirk had agreed, should assist and wondered if these might take place in early or mid–January. The Prime Minister said that he agreed with this and that the timing could be worked out between the officials concerned. As far as Lord Carrington was concerned he would be prepared to discuss the immigration question privately, informally and without commitment.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 1  Mr R.S. Laurie from the Department of Foreign Affairs also attended. 
 
 2  Document 365. 
+
+[NAA: A1838, 67/1/3 PART 7]

@@ -1,12 +1,17 @@
 ---
-title: "149 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1903
+doc_date: '1941-12-02'
+doc_num: 149
+doc_order: 150
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 35/1010, iii]'
+title: Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-02
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 149 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
 
 Cablegram Johcu 5 CANBERRA, [2 December 1941] [1]
 
@@ -20,7 +25,7 @@ If in addition the President could be got to the point of giving effect to your 
 
 CURTIN
 
-_
+ _
 
 1 Inserted from the Prime Minister's Dept outward cablegram register (AA : A3643, 3).
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [PRO : DO 35/1010, iii]_
+ _[PRO : DO 35/1010, iii]_

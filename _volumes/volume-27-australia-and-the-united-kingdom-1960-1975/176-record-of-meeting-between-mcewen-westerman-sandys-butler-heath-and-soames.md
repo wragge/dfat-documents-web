@@ -1,24 +1,27 @@
 ---
-title: "176 RECORD OF MEETING BETWEEN MCEWEN, WESTERMAN, SANDYS, BUTLER, HEATH AND SOAMES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10041
+doc_date: '1962-04-18'
+doc_num: 176
+doc_order: 176
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 159/58]'
+title: RECORD OF MEETING BETWEEN MCEWEN, WESTERMAN, SANDYS, BUTLER, HEATH AND SOAMES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-04-18
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 176 RECORD OF MEETING BETWEEN MCEWEN, WESTERMAN, SANDYS, BUTLER, HEATH AND SOAMES
-
-UKNA: DO 159/58
 
 London, 18 April 1962
 
 Confidential
 
-****
+ ****
 
 Britain, Australia and the European Economic Community
 
-_Mr Sandys_ opened the discussion by saying that it was clear that the problems involved by Australia’s wheat trade would not be solved during the present talks. However, they had been a most valuable analysis of the position and had brought about a better understanding, he hoped, on both sides. Certainly British Ministers were better acquainted with the Australian position and Mr McEwen’s arguments had made a profound impact upon them.
+ _Mr Sandys_ opened the discussion by saying that it was clear that the problems involved by Australia’s wheat trade would not be solved during the present talks. However, they had been a most valuable analysis of the position and had brought about a better understanding, he hoped, on both sides. Certainly British Ministers were better acquainted with the Australian position and Mr McEwen’s arguments had made a profound impact upon them.
 
 2\. Summing up the British position, _Mr Sandys_ said that British Ministers understood that Australia was not satisfied with the working of the 1957 Agreement and would like it to be accepted as the basis for any future arrangements. (Here Mr McEwen dissented, on the ground that what Australia wanted was something like the intention of the 1957 Agreement and not the _de facto_ result of it).
 
@@ -32,7 +35,7 @@ _Mr Sandys_ opened the discussion by saying that it was clear that the problems 
 
 7\. The British representatives would be prepared to support Dr Westerman on quantity. They would also say that they would like to discuss with the Six how disruption by dumping could be prevented.
 
-8\. _Mr Sandys_ said, however, that he must emphasize that anything on the lines of the Baumgartner plan1 would be unacceptable to Britain on balance of payments grounds and he urged that the Australian Government should avoid identifying themselves with it, since, if they did, we should then be obliged to dissociate ourselves from them on this matter. We hoped that Dr Westerman could say that the Baumgartner plan would pose difficulties for the big importers. Both Australian and British representatives might be prepared to say that they should welcome the exploration of the problems with the Six.
+8\. _Mr Sandys_ said, however, that he must emphasize that anything on the lines of the Baumgartner plan[1](#f1) would be unacceptable to Britain on balance of payments grounds and he urged that the Australian Government should avoid identifying themselves with it, since, if they did, we should then be obliged to dissociate ourselves from them on this matter. We hoped that Dr Westerman could say that the Baumgartner plan would pose difficulties for the big importers. Both Australian and British representatives might be prepared to say that they should welcome the exploration of the problems with the Six.
 
 9\. _Mr McEwen_ said that it should be remembered that Dr Westerman would not have a great deal of time to continue discussions in London. As to the suggestion that he should take a given line in the first round of his talks, what chance was there of his having a further discussion? Would the British Government support the idea that Australia should have further opportunities of addressing the Six? If Dr Westerman’s presentation was to be a once-and-for-all opportunity he could not refrain from stating Australia’s problem as a whole. (The Lord Privy Seal interjected that we had it in mind to await developments on this point).
 
@@ -71,3 +74,5 @@ _Mr Sandys_ opened the discussion by saying that it was clear that the problems 
 26\. _Mr McEwen_ then took his leave.
 
 1 See note to Document 172.
+
+[UKNA: DO 159/58]

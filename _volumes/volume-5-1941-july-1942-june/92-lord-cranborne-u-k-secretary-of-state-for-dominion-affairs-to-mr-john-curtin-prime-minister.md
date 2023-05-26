@@ -1,12 +1,18 @@
 ---
-title: "92 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1846
+doc_date: '1941-10-28'
+doc_num: 92
+doc_order: 93
+naa_refs:
+- naa_barcode: 182725
+  naa_control_symbol: WAR 44 PART 1
+  naa_series: A981
+  reference: '[AA : A981, WAR 44]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-10-28
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 92 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Circular cablegram M341 LONDON, 28 October 1941, 12.55 a.m.
 
@@ -48,7 +54,7 @@ Furthermore, if war were declared on Roumania and Hungary the Greek and Yugo-Sla
 
 8\. Identical action by all British Commonwealth Governments is clearly necessary and we should therefore be glad of the views of your Government at the earliest possible moment. We are also obtaining the views of the United States Government.
 
-_
+ _
 
 1 U.K. Ambassador to the U.S.S.R.
 
@@ -66,4 +72,4 @@ _
 
 _
 
-_ [AA : A981, WAR 44]_
+ _[AA : A981, WAR 44]_

@@ -1,12 +1,17 @@
 ---
-title: "389 Burton to Embassy in Moscow"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7104
+doc_date: '1948-10-02'
+doc_num: 389
+doc_order: 389
+naa_refs:
+- naa_barcode: 3340924
+  naa_control_symbol: 1580/1/1/3 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838, 1580/1, I]'
+title: Burton to Embassy in Moscow
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-10-02
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 389 Burton to Embassy in Moscow
 
 Cablegram 143, CANBERRA, 2 October 1948
 
@@ -20,8 +25,8 @@ Co-ordination of arrangements with British and other Commonwealth missions is de
 
 3\. You should of course, where possible, keep record of documents etc. destroyed.
 
-_ [1] Word inserted from draft copy.
+ _[1] Word inserted from draft copy.
 
 _
 
-_ [AA : A1838, 1580/1, I]_
+ _[AA : A1838, 1580/1, I]_

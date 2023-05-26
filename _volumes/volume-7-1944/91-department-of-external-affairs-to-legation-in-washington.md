@@ -1,12 +1,17 @@
 ---
-title: "91 Department of External Affairs to Legation in Washington"
-volume: "Volume 7: 1944"
-doc_id: 2738
+doc_date: '1944-03-23'
+doc_num: 91
+doc_order: 91
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 606]'
+title: Department of External Affairs to Legation in Washington
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-23
+vol_title: 'Volume 7: 1944'
 ---
-
-# 91 Department of External Affairs to Legation in Washington
 
 Cablegram 390 CANBERRA, 23 March 1944
 
@@ -28,7 +33,7 @@ Later information suggests that scope of London talks may be enlarged.
 
 6\. The whole subject of oil, both in its political and supply aspects, is of deep concern to us and we also regard future of Middle Eastern region as of vital interest. You are asked to watch the position closely and we should be glad to receive any further information that may be available regarding the background of proposed talks and the lines on which they are intended to proceed. Any general information likely to be useful in a general examination here of future of petroleum industry will also be useful.
 
-_
+ _
 
 1 Cablegram D218 on file AA:A989, 44/735/850.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 606]_
+ _[AA:A5954, BOX 606]_

@@ -1,12 +1,17 @@
 ---
-title: "261 Ballard to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4109
+doc_date: '1946-11-29'
+doc_num: 261
+doc_order: 261
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838/2, 403/3/1/1, iiiA]'
+title: Ballard to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-11-29
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 261 Ballard to Department of External Affairs
 
 Cablegram 276 BATAVIA, 29 November 1946, 9.05 p.m.
 
@@ -22,8 +27,8 @@ The Secretary of the Indonesian Department of External Affairs and one of his co
 
 5\. The whole matter has not yet been considered by Cabinet. They would be very receptive of any ideas you wish to have transmitted at the proper time. Have you any instructions?
 
-_
+ _
 
 _
 
-_ [AA:A1838/2, 403/3/1/1, iiiA]_
+ _[AA:A1838/2, 403/3/1/1, iiiA]_

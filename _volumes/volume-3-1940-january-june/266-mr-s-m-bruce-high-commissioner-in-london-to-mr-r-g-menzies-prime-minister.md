@@ -1,12 +1,17 @@
 ---
-title: "266 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1032
+doc_date: '1940-05-23'
+doc_num: 266
+doc_order: 266
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3530]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-23
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 266 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 23 May 1940, 9.29 p.m.
 
@@ -22,7 +27,7 @@ For the above reasons I feel postponement desirable. If, however, you consider h
 
 BRUCE
 
-_
+ _
 
 1 See Document 216. Menzies reiterated his intention to send McBride to London in an unnumbered cablegram dispatched to Bruce on 21 May 1940 (on file AA: CP290/6, 67).
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3530]_
+ _[FA: A3195, 1.3530]_

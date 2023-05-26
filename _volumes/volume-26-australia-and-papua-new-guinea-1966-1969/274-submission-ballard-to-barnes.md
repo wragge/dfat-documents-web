@@ -1,19 +1,23 @@
 ---
-title: "274 Submission, Ballard To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9782
+doc_date: '1969-05-23'
+doc_num: 274
+doc_order: 274
+naa_refs:
+- naa_barcode: 3118091
+  naa_control_symbol: 1969/2889
+  naa_series: A452
+  reference: '[NAA: A452, 1969/2889]'
+title: Submission, Ballard To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-05-23
-barcode: 3118091
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 274 Submission, Ballard To Barnes
 
 Canberra, 23 May 1969
 
-**Papua and New Guinea: Gazelle Peninsula—protest march**
+ **Papua and New Guinea: Gazelle Peninsula—protest march**
 
-Following a march through Rabaul of between 5,000 and 10,000 persons on Friday 16th May1 a number of resolutions referring to the establishment of the Gazelle Local Government Council as multi-racial and signed by Mr. Melchior Tomot as Secretary to the meeting held before the march were presented by Mr. O. Tammur to the District Commissioner. In summary these resolutions which have been numbered a–h stated:
+Following a march through Rabaul of between 5,000 and 10,000 persons on Friday 16th May[1](#f1) a number of resolutions referring to the establishment of the Gazelle Local Government Council as multi-racial and signed by Mr. Melchior Tomot as Secretary to the meeting held before the march were presented by Mr. O. Tammur to the District Commissioner. In summary these resolutions which have been numbered a–h stated:
 
 2\. (a) No committee was set up to explain the implications of a multi-racial council, the Tolais were not consulted, the people were surprised to hear their council has been undemocratically proclaimed multi-racial.
 
@@ -23,7 +27,7 @@ Following a march through Rabaul of between 5,000 and 10,000 persons on Friday 1
 
 • the proclamation made by a minority of officials;
 
-• the proclamation transgresses the _UNO. charter_;
+• the proclamation transgresses the _UNO. charter_ ;
 
 • the Administration should not quote _the U.N. charter_ because House of Assembly has disapproved of U.N.’s excessive vigilance over the Territory’s affairs.
 
@@ -49,7 +53,7 @@ Following a march through Rabaul of between 5,000 and 10,000 persons on Friday 1
 
 • natives do not benefit from 5 year plan—only expatriates.
 
-• Group fears rule by white planters—offer of $60,000 shows corruption is possible.2
+• Group fears rule by white planters—offer of $60,000 shows corruption is possible.[2](#f2)
 
 • native ex-servicemen are not receiving same benefits as Australian exservicemen.
 
@@ -63,7 +67,7 @@ Following a march through Rabaul of between 5,000 and 10,000 persons on Friday 1
 
 • proclamation should be revoked.
 
-• Members of Group wonder who were originators of multi-racial council. Some councillors claim3 did not know implications—where are we going?
+• Members of Group wonder who were originators of multi-racial council. Some councillors claim[3](#f3) did not know implications—where are we going?
 
 •Group confidently affirm 90% of mixed races do not like multi-racial councils.
 
@@ -75,7 +79,7 @@ Following a march through Rabaul of between 5,000 and 10,000 persons on Friday 1
 
 • Tolai council was first ever proclaimed—Tolai people should have had precedence in establishing a multi-racial council.
 
-• Government proclaimed other councils first4 people less sophisticated than Tolais—could not see disadvantages of multi-racial councils.
+• Government proclaimed other councils first[4](#f4) people less sophisticated than Tolais—could not see disadvantages of multi-racial councils.
 
 • wrong to force Tolais with no experience of government into multi-racial council.
 
@@ -83,7 +87,7 @@ Following a march through Rabaul of between 5,000 and 10,000 persons on Friday 1
 
 • Proclamation should be revoked—old council should be restored.
 
-3\. The Department has sought an assessment of the result of the elections. It has also asked for the Administration’s reaction to a proposal to re-introduce legislation making possible the acquisition of unused freehold land. It also proposes to ask the Administration’s reaction to the press suggestion that the agitation relates more to Oscar Tammur’s political activities than to any real sense of grievance.5
+3\. The Department has sought an assessment of the result of the elections. It has also asked for the Administration’s reaction to a proposal to re-introduce legislation making possible the acquisition of unused freehold land. It also proposes to ask the Administration’s reaction to the press suggestion that the agitation relates more to Oscar Tammur’s political activities than to any real sense of grievance.[5](#f5)
 
 4\. The Administration has now advised—
 
@@ -97,7 +101,7 @@ Following a march through Rabaul of between 5,000 and 10,000 persons on Friday 1
 
 • I will keep you informed.
 
-[ [NAA: A452, 1969/2889](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3118091) ]
+[NAA: A452, 1969/2889]
 
 1  See Document 271. 
 

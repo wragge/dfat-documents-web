@@ -1,14 +1,19 @@
 ---
-title: "5 Memorandum prepared for Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 5
+doc_date: '1936-09-11'
+doc_num: 5
+doc_order: 5
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP4/2
+  reference: '[AA: CP 4/2, BUNDLE 2, ITEM 35]'
+title: Memorandum prepared for Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1936-09-11
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 5 Memorandum prepared for Delegation to Imperial Conference
-
-## 11 September 1936 [1]
+11 September 1936 [1]
 
 ## REFORM OF THE COVENANT OF THE LEAGUE OF NATIONS
 

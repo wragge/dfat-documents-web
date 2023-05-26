@@ -1,14 +1,19 @@
 ---
-title: "27 Memorandum From Randall To Meere"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7632
+doc_date: '1953-05-29'
+doc_num: 27
+doc_order: 27
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP553/1
+  reference: '[AA : CP553/1/1, 194/B/10/35]'
+title: Memorandum From Randall To Meere
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-05-29
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 27 Memorandum From Randall To Meere
-
-## 29th May, 1953
+29th May, 1953
 
 CANBERRA
 
@@ -28,10 +33,10 @@ Subsequent improvement in our overall balance of payments position enabled us in
 
 3\. Copies of this memorandum are being forwarded to Departments of External Affairs and Commerce and Agriculture.
 
-_
+ _
 
 1 Document 25.
 
 _
 
-_ [AA : CP553/1/1, 194/B/10/35]_
+ _[AA : CP553/1/1, 194/B/10/35]_

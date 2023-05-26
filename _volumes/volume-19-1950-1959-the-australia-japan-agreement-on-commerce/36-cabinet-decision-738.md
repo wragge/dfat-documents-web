@@ -1,14 +1,19 @@
 ---
-title: "36 Cabinet Decision 738"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7641
+doc_date: '1953-07-02'
+doc_num: 36
+doc_order: 36
+naa_refs:
+- naa_barcode: 4678630
+  naa_control_symbol: '470'
+  naa_series: A4905
+  reference: '[AA : A4905/1, VOLUME 19]'
+title: Cabinet Decision 738
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-07-02
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 36 Cabinet Decision 738
-
-## 2nd July, 1953
+2nd July, 1953
 
 Submission No. 470-Import Policy The Acting Prime Minister referred to the exchange of cables between himself and the Prime Minister on the matter of relaxation of import restrictions. [1]
 
@@ -38,7 +43,7 @@ But we have made no firm decision pending the submission of these points to you 
 
 Would be glad of early reply as I think the best time to make an announcement, if we are to make it, is within the next couple of days.' [2]
 
-_
+ _
 
 1 On 24 June Fadden sought the opinion of Menzies and O'Sullivan on Ministers' view that as international reserves were increasing substantially and exports exceeded imports by some 200 million per annum, Australia was certain to attract international criticism if import controls were not relaxed. Menzies replied on 30 June (Cablegram 2339) that he and O'Sullivan agreed relaxation was desirable and practicable, but any announcement during their absence would suggest the decision was a response to overseas pressure.
 
@@ -48,4 +53,4 @@ A4905/1, VOLUME 19.
 
 _
 
-_ [AA : A4905/1, VOLUME 19]_
+ _[AA : A4905/1, VOLUME 19]_

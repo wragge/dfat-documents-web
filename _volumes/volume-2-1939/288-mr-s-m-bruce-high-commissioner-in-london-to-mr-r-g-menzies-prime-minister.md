@@ -1,12 +1,17 @@
 ---
-title: "288 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 625
+doc_date: '1939-10-12'
+doc_num: 288
+doc_order: 288
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-12
+vol_title: 'Volume 2: 1939'
 ---
-
-# 288 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 552 LONDON, 12 October 1939, 8.19 p.m.
 
@@ -24,7 +29,7 @@ I registered this protest because the rush on the present occasion could have be
 
 BRUCE
 
-_
+ _
 
 1 See Document 267, note 1.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

@@ -1,20 +1,23 @@
 ---
-title: "132 MESSAGE, MACMILLAN TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9997
+doc_date: '1961-05-17'
+doc_num: 132
+doc_order: 132
+naa_refs:
+- naa_barcode: 584008
+  naa_control_symbol: 727/4/2 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 1]'
+title: MESSAGE, MACMILLAN TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-05-17
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 132 MESSAGE, MACMILLAN TO MENZIES
-
-NAA: A1838, 727/4/2 PART 1
 
 London, 17 May 1961
 
 Secret
 
-I sent you a message on April 15 about the bearing of my talks in Washington on the problem of the Six and the Seven.1 Since then there has been a good deal of speculation in this country about the possibility of the United Kingdom joining the European Economic Community—the Six—and I thought I ought to let you know exactly where matters stand.
+I sent you a message on April 15 about the bearing of my talks in Washington on the problem of the Six and the Seven.[1](#f1) Since then there has been a good deal of speculation in this country about the possibility of the United Kingdom joining the European Economic Community—the Six—and I thought I ought to let you know exactly where matters stand.
 
 I need not go again into the background or explain the political dangers which I see unless some arrangement can be made to heal the present economic divisions in Europe. I believe that this is in the real interests not only of Europe but of the whole free world and especially of the Commonwealth. But it is only on the basis of that belief that we could enter or create a larger European community. Of course all this will depend on the progress which we can get. When we have a better idea about this we shall all have to weigh up together our estimate of the balance of future strength in the world.
 
@@ -22,6 +25,8 @@ We are now engaged in looking at and examining the implications if Britain and s
 
 We have still not been able to make a complete assessment of the situation although some of our informal discussions have got us on a little further. When we have finished our own examination here in the United Kingdom and before we reach any decision I will consult you again. At that stage we shall have to consider how best our consultation can be made most effective.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 1 Document 128.
+
+[NAA: A1838, 727/4/2 PART 1]

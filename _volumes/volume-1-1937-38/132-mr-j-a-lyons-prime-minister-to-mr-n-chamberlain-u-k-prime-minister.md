@@ -1,12 +1,17 @@
 ---
-title: "132 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 131
+doc_date: '1938-03-10'
+doc_num: 132
+doc_order: 131
+naa_refs:
+- naa_barcode: 206813
+  naa_control_symbol: O51/1/1
+  naa_series: A1608
+  reference: '[AA : A1608, 051/1/1]'
+title: Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-10
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 132 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 
 Cablegram unnumbered 10 March 1938,
 
@@ -16,8 +21,8 @@ Condensed reports of your speech on 8th March on Defence which have appeared in 
 
 LYONS
 
-_
+ _
 
 _
 
-_ [AA : A1608, 051/1/1]_
+ _[AA : A1608, 051/1/1]_

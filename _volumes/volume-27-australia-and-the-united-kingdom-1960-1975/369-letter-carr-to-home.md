@@ -1,20 +1,23 @@
 ---
-title: "369 LETTER, CARR TO HOME"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10235
+doc_date: '1972-12-22'
+doc_num: 369
+doc_order: 369
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1318]'
+title: LETTER, CARR TO HOME
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-12-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 369 LETTER, CARR TO HOME
-
-UKNA: FCO 24/1318
 
 London, 22 December 1972
 
 Personal And Confidential
 
-**Immigration**
+ **Immigration**
 
 1\. Thank you for sending me Julian Amery’s interesting ideas .about the possible future shape of our immigration policy. I have read his paper with interest.
 
@@ -27,3 +30,5 @@ Personal And Confidential
 5\. Apart from the question whether one could go outside the Commonwealth with a concession of this kind, there is the different point of how far back in time it would be right to go. We have had to look at this question on a number of occasions in the last few years, and have always concluded that it would not be safe to go further back than grandparents. This is because if one goes back to an earlier generation the case for admission is then dependent on proof of birth at a date before central registration of births was introduced in the United Kingdom, and so the parish registers are the only source of evidence. We do not think that this would be workable. Provided that one does not go back further than grandparents it is easy to make a quick check with Somerset House, even while a passenger is held up at a port, and the evidence cannot be forged, or at any rate not in a way which is not open to speedy discovery. But if we were dependent upon parish registers cases could not be dealt with promptly and we believe that forgery would be less difficult.
 
 6\. These are the reasons, as I see them, why it would be unwise to go wider than the Commonwealth, or further back than grandparents, in any concession that we might make.
+
+[UKNA: FCO 24/1318]

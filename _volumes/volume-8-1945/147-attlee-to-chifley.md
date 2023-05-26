@@ -1,12 +1,17 @@
 ---
-title: "147 Attlee to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3178
+doc_date: '1945-07-29'
+doc_num: 147
+doc_order: 147
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 588]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-07-29
+vol_title: 'Volume 8: 1945'
 ---
-
-# 147 Attlee to Chifley
 
 Cablegram 267 LONDON, 29 July 1945, 8.20 p.m.
 
@@ -38,7 +43,7 @@ I earnestly beg you to consider the following proposal which seems to us to offe
 
 The Royal Marine engineers would be used as far as possible in self contained units so as to avoid problems arising from civil and uniformed labour working side by side.
 
-_
+ _
 
 1 Document 132.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 588]_
+ _[AA : A5954, BOX 588]_

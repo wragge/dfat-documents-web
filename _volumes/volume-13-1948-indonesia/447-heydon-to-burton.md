@@ -1,12 +1,17 @@
 ---
-title: "447 Heydon to Burton"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5714
+doc_date: '1948-12-23'
+doc_num: 447
+doc_order: 447
+naa_refs:
+- naa_barcode: 587532
+  naa_control_symbol: 854/4/3
+  naa_series: A1838
+  reference: '[AA:A838, 854/4/3, ii]'
+title: Heydon to Burton
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-12-23
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 447 Heydon to Burton
 
 Cablegram 4527 LONDON, 23 December 1948, 5.110 p.m.
 
@@ -18,8 +23,8 @@ United Kingdom authorities fear that in the event of India refusing transit to K
 
 2\. When informally asked Australian view, I replied that Government's attitude would depend on the Security Council action but even without action by the Council I thought Australia would generally dislike taking any action to circumvent such Indian decision which would be regarded as legitimate.
 
-_
+ _
 
 _
 
-_ [AA:A838, 854/4/3, ii]_
+ _[AA:A838, 854/4/3, ii]_

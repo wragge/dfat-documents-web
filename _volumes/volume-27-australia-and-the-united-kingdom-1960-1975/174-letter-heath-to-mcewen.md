@@ -1,17 +1,21 @@
 ---
-title: "174 LETTER, HEATH TO MCEWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10039
+doc_date: '1962-04-06'
+doc_num: 174
+doc_order: 174
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 159/58]'
+title: LETTER, HEATH TO MCEWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
 
-# 174 LETTER, HEATH TO MCEWEN
+London, 6 April 1962
 
-UKNA: DO 159/58
-
-London, 6 April l962
-
-I was glad of the opportunity of a talk with you before you left for the Continent.1 I look forward to fuller discussions with you on your return in the middle of April. In the meantime I will be turning over in my mind what you said to me, and also what you wrote in your letter of March 23, which I received on my return from Ottawa.2
+I was glad of the opportunity of a talk with you before you left for the Continent.[1](#f1) I look forward to fuller discussions with you on your return in the middle of April. In the meantime I will be turning over in my mind what you said to me, and also what you wrote in your letter of March 23, which I received on my return from Ottawa.[2](#f2)
 
 There is one point in your letter which I should like to answer straight away. There is certainly no reason for you to believe that we would not fully reveal to you our thoughts on matters of such great significance for your country. Nor has it ever crossed my mind that I could not do so in full confidence or that you would regard our preliminary ideas as firm promises. You can only assume that we have been keeping our thoughts from you if you believe that we have worked out our own proposals in greater detail than we have disclosed to you. This is not the case, for reasons which have been explained and, I thought, understood.
 
@@ -26,3 +30,5 @@ I hope that you will fully understand from this letter not only that we have bee
 1 Document 172.
 
 2 Document 173.
+
+[UKNA: DO 159/58]

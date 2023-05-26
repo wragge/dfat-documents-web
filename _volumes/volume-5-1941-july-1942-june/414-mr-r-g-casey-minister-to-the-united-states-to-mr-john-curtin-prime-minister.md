@@ -1,12 +1,17 @@
 ---
-title: "414 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2168
+doc_date: '1942-03-15'
+doc_num: 414
+doc_order: 415
+naa_refs:
+- naa_barcode: 176565
+  naa_control_symbol: GREA 13
+  naa_series: A981
+  reference: '[AA:A981, GREAT BRITAIN 13B]'
+title: Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-15
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 414 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister
 
 Cablegram S10 WASHINGTON, 15 March 1942, 7.06 p.m.
 
@@ -38,7 +43,7 @@ My personal good wishes to you in your great task.
 
 CASEY
 
-_
+ _
 
 1 In PRO: DO 35/1009 i.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA:A981, GREAT BRITAIN 13B]_
+ _[AA:A981, GREAT BRITAIN 13B]_

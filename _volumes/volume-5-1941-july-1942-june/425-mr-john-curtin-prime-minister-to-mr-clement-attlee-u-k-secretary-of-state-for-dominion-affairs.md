@@ -1,12 +1,18 @@
 ---
-title: "425 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2179
+doc_date: '1942-03-20'
+doc_num: 425
+doc_order: 426
+naa_refs:
+- naa_barcode: 232273
+  naa_control_symbol: '47'
+  naa_series: A2937
+  reference: '[AA:A2937, FAR EAST POSITION 1942]'
+title: Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-20
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 425 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 209 [1] CANBERRA, 20 March 1942, 4.30 a.m.
 
@@ -50,7 +56,7 @@ General Brett of the United States army has already been appointed to command th
 
 CURTIN
 
-_
+ _
 
 1 Repeated to the N.Z. Prime Minister as no. 97.
 
@@ -72,4 +78,4 @@ Roosevelt's proposals for the organisation of commands in the Pacific and Indian
 
 _
 
-_ [AA:A2937, FAR EAST POSITION 1942]_
+ _[AA:A2937, FAR EAST POSITION 1942]_

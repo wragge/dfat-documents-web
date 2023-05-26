@@ -1,13 +1,17 @@
 ---
-title: "380 MEMORANDUM BY BOSWELL"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10246
+doc_date: '1971-10-01'
+doc_num: 380
+doc_order: 380
+naa_refs:
+- naa_barcode: 8301723
+  naa_control_symbol: 1971/9449 PART 1
+  naa_series: A1209
+  reference: '[NAA:A1209, 1971/9449 PART 1]'
+title: MEMORANDUM BY BOSWELL
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 380 MEMORANDUM BY BOSWELL
-
-NAA:A1209, 1971/9449 PART 1 
 
 **Australian High Commission, London, undated [October 1971]**
 
@@ -24,3 +28,5 @@ Foreign Affairs’ comments tend to assume that the relationship with Britain is
 5\. The role of the British High Commissioner in London is that of a political figure who has access to the highest policy-makers in the British Government. He is chosen, as it were, to be one of their number and not merely for qualities as an accredited diplomat. Although the professional diplomatic outreach of the Office of a High Commissioner may be criticised he performs and is chosen for his role as the man who moves into the inner circles of political London. There is no comparable facility available to any of our ambassadors anywhere in the world.
 
 6\. It can be argued that our relations with the United States are conducted too much as a diplomatic exercise, that power is dispensed not so much by the State Department but by the major congressional committees and the lobbies and interests that bear upon them. It can be held with reason that by conducting our relations with the United States purely as a diplomatic exercise we fail to reach the centres of power and influence in the United States where decisions affecting us are being framed. This is the reverse side of the coin to London.
+
+[NAA:A1209, 1971/9449 PART 1]

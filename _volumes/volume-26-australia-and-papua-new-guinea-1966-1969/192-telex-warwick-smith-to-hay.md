@@ -1,23 +1,27 @@
 ---
-title: "192 Telex, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9700
+doc_date: '1968-05-31'
+doc_num: 192
+doc_order: 192
+naa_refs:
+- naa_barcode: 31698760
+  naa_control_symbol: 1970/4521
+  naa_series: A452
+  reference: '[NAA: A452, 1970/4521]'
+title: Telex, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-05-31
-barcode: 31698760
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 192 Telex, Warwick Smith To Hay
 
 Port Moresby, 31 May 1968
 
 284/4600. Unclassified Priority Personal
 
-Your 5313.1
+Your 5313.[1](#f1)
 
 1\. Have again gone through the document with the Minister who has reviewed it from the point of view of flexibility. He is satisfied it is adequately flexible.
 
-2\. My own references to flexibility in our earlier discussions were directed to ideas like the use of regulations and determinations as compared with this approval of arrangements under section 25 which gives utmost flexibility and facility for change.2
+2\. My own references to flexibility in our earlier discussions were directed to ideas like the use of regulations and determinations as compared with this approval of arrangements under section 25 which gives utmost flexibility and facility for change.[2](#f2)
 
 3\. Attorney-General’s Department consider a document of this kind is suitable under section 25.
 
@@ -27,7 +31,7 @@ Your 5313.1
 
 6\. Immediately following message translates previous text of arrangements as approved by Minister into form which we here regard as appropriate for publication. There is not intended to be any difference at all of substance and preceding paragraph refers only to matters of substance on which glad your urgent advice.
 
-[ [NAA: A452, 1970/4521](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=31698760) ]
+[NAA: A452, 1970/4521]
 
 1 Document 191.
 

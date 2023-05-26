@@ -1,12 +1,17 @@
 ---
-title: "246 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2537
+doc_date: '1943-07-19'
+doc_num: 246
+doc_order: 246
+naa_refs:
+- naa_barcode: 4224099
+  naa_control_symbol: 1943/40
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS 0.19543-19544]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-07-19
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 246 Curtin to Churchill
 
 Cablegram 181 [1] CANBERRA, 19 July 1943
 
@@ -30,7 +35,7 @@ Reference your 177 [2], I would be glad if you could advise me more definitely o
 
 CURTIN
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 2 Document 245.
 
@@ -44,4 +49,4 @@ _ 1 Sent through the U.K. Dominions Office.
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS 0.19543-19544]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS 0.19543-19544]_

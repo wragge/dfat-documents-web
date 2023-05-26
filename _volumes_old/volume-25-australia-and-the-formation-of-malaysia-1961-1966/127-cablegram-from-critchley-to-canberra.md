@@ -1,0 +1,44 @@
+---
+doc_date: '1963-10-11'
+doc_num: 127
+doc_order: 124
+naa_refs:
+- naa_barcode: 12055859
+  naa_control_symbol: KL1963/07
+  naa_series: A6364
+  reference: '[NAA: A6364, KL1963/07]'
+title: Cablegram from Critchley to Canberra
+vol_full_title: 'Volume 25: Australia and the Formation of Malaysia, 1961–1966'
+vol_id: 25
+vol_title: 'Volume 25: Australia and the Formation of Malaysia, 1961–1966'
+---
+
+Kuala Lumpur, 11 October 1963
+
+702\. Secret Guard
+
+ **Malaysia**
+
+My 698.[1](#f1)
+
+Baldwin spoke to me this morning (October 10) about his talk with the Tunku yesterday and confirmed that he was satisfied that the Tunku would not agree to Tripartite talks now. His account suggests a milder approach than the Tunku had described. He made no reference to the problem of defending Malaysia other than to say that he had warned the Tunku of the dangers of escalation.
+
+2\. I spoke along the lines of my telegram 694.[2](#f2) Baldwin was in general agreement but queried whether it was wise to let matters rest when there was a risk that attitudes might harden and when Sukarno might be provoked to take or be obliged by public pressures to take an extreme course that would result in mounting hostilities.
+
+3\. I argued that—
+
+(a) Indonesia appeared to be carefully limiting its actions, extreme though they were;
+
+(b) Any concessions would only encourage the Indonesians in their policy of confrontation;
+
+(c) Talks could weaken Malaysia�s position but could not get anywhere until Indonesia was prepared to accept Malaysia as an independent neighbour;
+
+(d) Any assurances by Indonesia about her border activities would mean little in the present circumstances.
+
+Baldwin agreed and said he had put all these points to Washington.
+
+[NAA: A6364, KL1963/07]
+
+1 9 October, in which Critchley reported that the Tunku had told him that Baldwin had been instructed to ask him to agree to a tripartite meeting at official level in Bangkok. When he had stressed that he was not prepared to agree to this, the Tunku said that Baldwin had intimated that Malaysia could end up being dependent on the US for its defence, given its own small military capability, and that Britain would be unable to defend it should the communists help the Indonesians.
+
+2 Document 126.

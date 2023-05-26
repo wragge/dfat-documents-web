@@ -1,12 +1,17 @@
 ---
-title: "97 Addison to Beasley"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4281
+doc_date: '1947-06-24'
+doc_num: 97
+doc_order: 97
+naa_refs:
+- naa_barcode: 140132
+  naa_control_symbol: 402/8/1/1/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838/278, 402/8/1/1/1 i]'
+title: Addison to Beasley
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-06-24
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 97 Addison to Beasley
 
 Letter LONDON, 24 June 1947
 
@@ -44,7 +49,7 @@ I think you will agree that these passages in the telegrams can have left no dou
 
 In conclusion I would repeat that we here, both in the Foreign Office and Dominions Office, are fully conscious of the importance of events in Indonesia to Australia, and most anxious not only to receive any information which the Commonwealth authorities may have about the situation there (such as you mentioned on Friday that they had) but also to give full weight, in framing United Kingdom policy, to the Australian Government's views.
 
-_
+ _
 
 1 See Document 96.
 
@@ -74,4 +79,4 @@ No Australian record of his discussions with Evatt has been located.
 
 _
 
-_ [AA:A1838/278, 402/8/1/1/1 i]_
+ _[AA:A1838/278, 402/8/1/1/1 i]_

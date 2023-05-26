@@ -1,14 +1,19 @@
 ---
-title: "423 High Commissioner's Office in London to Prime Minister's Department"
-volume: "Volume 2: 1939"
-doc_id: 760
+doc_date: '1939-12-20'
+doc_num: 423
+doc_order: 423
+naa_refs:
+- naa_barcode: 177779
+  naa_control_symbol: LEAGUE 20TH ASS 3
+  naa_series: A981
+  reference: '[AA: A981, L OF N, 20TH ASSEMBLY 3]'
+title: High Commissioner's Office in London to Prime Minister's Department
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-12-20
+vol_title: 'Volume 2: 1939'
 ---
 
-# 423 High Commissioner's Office in London to Prime Minister's Department
-
-## Cablegram unnumbered LONDON, 20 December 1939, 10.02 p.m.
+Cablegram unnumbered LONDON, 20 December 1939, 10.02 p.m.
 
 Your telegram 19th December League of Nations Assembly. [1] In budget discussion McDougall [2] stressed need for further reduction in Secretariat expenses particularly in regard to political activity. Chairman of Supervisory Commission announced that in addition to 33 1/3% cut in total expenditure, whole staff of Secretariat and of International Labour Office had voluntarily agreed to accept cut ranging from 2% on lowest salary up to 20% on highest allowance. No definite estimate of this saving was available but will probably exceed 1,000,000 Swiss francs.
 
@@ -20,7 +25,7 @@ In council election there was no contest. South Africa, Bolivia, Finland elected
 
 McDougall realised you would have liked fuller information from Geneva but owing to extreme rapidity of procedure and the fact that he was alone could not send more adequate message.
 
-_
+ _
 
 1 Not printed (on file AA: A981, L of N, 20th Assembly 3). It requested a summary of discussions on the League budget and Council elections and of the final proceedings in the Finnish dispute.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A981, L OF N, 20TH ASSEMBLY 3]_
+ _[AA: A981, L OF N, 20TH ASSEMBLY 3]_

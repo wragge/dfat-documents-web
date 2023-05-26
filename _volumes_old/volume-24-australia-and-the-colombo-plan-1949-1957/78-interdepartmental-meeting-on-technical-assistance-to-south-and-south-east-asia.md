@@ -1,0 +1,121 @@
+---
+doc_date: '1950-07-18'
+doc_num: 78
+doc_order: 78
+naa_refs:
+- naa_barcode: 481164
+  naa_control_symbol: 708/9/5 PART 1
+  naa_series: A1838
+  reference: '[NAA: A 1838, 708/9/5 part 1]'
+title: Interdepartmental Meeting on Technical Assistance to South and South East Asia
+vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
+vol_id: 24
+vol_title: 'Volume 24: Australia and the Colombo Plan, 1949-1957'
+---
+
+Canberra, 18 July 1950
+
+An inter-departmental meeting was held at the Melbourne office of the Department of External Affairs on 18th July, 1950. The following Departments were represented:
+
+ _External Affairs_  
+Mr. A.H. Tange.  
+Mr. H.W. Bullock.
+
+ _Commerce & Agriculture_  
+Mr. F.W. Bulcock (Director of Agriculture)  
+Mr. G. Warwick-Smith.
+
+ _C.S.I.R.O._  
+Mr. G.A. Cook. (Secretary)
+
+ _Labour & National Service_  
+Mr. H. Bland (Asst. Secretary)  
+Mr. E.P. Eltham (Director of Technical Training)  
+Mr. Mackenzie.
+
+ _Ministry of National Development_  
+Mr. Silken.
+
+ _Public Service Board_  
+Mr. Collings.
+
+ _Commonwealth Office of Education_  
+Mr. A.J.A. Nelson.
+
+2\. Mr. Tange outlined the events which had led up to the British Commonwealth Technical Assistance Scheme. He explained that a Standing Committee of the Consultative Committee would commence in Colombo on July 24th at which Australia would be represented by Mr. T.K. Critchley of the Department of External Affairs assisted by Mr. A.J.A. Nelson of the Commonwealth Office of Education.
+
+3\. Mr. Tange explained that Mr. Nelson who was present, would be leaving for Colombo in a few days and the purpose for which the inter-departmental meeting had been called was to enable Mr. Nelson to get some background information on inter-departmental opinion concerning the type of technical assistance which would be useful to the area and what type of technical assistance Australia would be able to provide.
+
+4\. Mr. Tange said he thought departmental representatives should address themselves to the following aspects of technical assistance:—
+
+(1) Fundamental Science & Research
+
+(2) Technical Training (L. & N.S.)
+
+(3) Education (C.O.E.)
+
+(4) Agriculture (Director of Agriculture)
+
+(5) Fitting Asian students into industrial establishments (Ministry of National Development).
+
+5\. Mr. Nelson briefly referred to what was already being done in the field of fellowships under existing schemes. He said that his office was making a number of enquiries into different fields which seemed promising. He said that the ad hoc course will probably loom larger than before. Much could be done in Australia by organising special seminars. He explained by way of example, a plan for a librarian seminar which a group of Sydney librarians were prepared to organise. He said that Australia could probably usefully provide consultants in the following fields:—
+
+(a) Text book writing.
+
+(b) Devising school curricula.
+
+(c) Correspondence school systems.
+
+6\. There was considerable scope for Australia to organise pilot projects of an educational nature in the countries concerned.
+
+7\. There was a great need in those countries for basic educational materials, i.e. blackboards, pencils, chalks, paper, maps, laboratory equipment. Australia should be in a position to supply considerable quantities of them.
+
+8\. Mr. Bulcock said that that the greatest need in South and South-East Asia in the field of Agriculture is for the fundamental 'know-how'. Australia had a great deal to contribute in this field but there were certain warnings which he wished to sound. In the first place, Queensland was the only area in Australia comparable to the area of South and South-East Asia in which agricultural colleges existed. Queensland experience with Asians studying Agriculture had not so far been a happy one. The educational standards of students to whom fellowships had been awarded in the past, had not been high enough. These educational standards should be high enough to enable them to conform with the standards for entry into the recognised educational institutions. Unless this were the case, they were too much trouble and did not absorb the teaching. This placed a great strain on Gatton College and the School of Agriculture at the Brisbane University. These institutions were already overburdened enough. This comment concerning Asian students had been strongly voiced at a recent meeting of State Directors of Agriculture.
+
+9\. Mr. Bulcock said that he thought that one of the most effective courses might be for Australia in conjunction with other British Commonwealth countries to provide the funds, organisation and staff for an institution in the area which could train both Agricultural Teachers and Agricultural Technicians. Mr. Bulcock said he did not think it would be too difficult to recruit an outstanding man to head the institution. A staff of enthusiastic juniors could be recruited to assist him.
+
+10\. Mr. Bulcock stressed that the emphasis should be on teaching the peoples of South and South-East Asia the very fundamentals of agriculture, the things which result in a greater yield per acre. Elementary techniques of agriculture which the Australian farmer takes for granted have not yet been taught to many of the farmers in the area. This includes such simple things as when to sow seed and how to sow it, when to use a spade and how to use it etc.
+
+11\. Addressing himself to the problem of recruitment for agricultural experts to take up assignments in the area, Mr. Bulcock said that it would be possible now to determine the prospective range of technicians which Australia would be able to supply but not the numbers. He suggested that we advertise and ask people who are willing to accept positions in South and South-East Asia to submit their names for inclusion in a register.
+
+12\. Mr. Bulcock also warned of the danger of the Commonwealth scheme overlapping with the work being done or intended to be done by the United Nations and also pointed out that such agencies would also be competing for the services of Australian experts.
+
+13\. Mr. Bland (Labour & National Services) was critical of the fact that the Commonwealth had decided to establish special machinery at Colombo to deal with the problem of technical assistance. He said that it seemed most incongruous to him that at a time when it was policy to endeavour to suppress the 'empire building' of United Nations agencies the Commonwealth had decided to set up special machinery which seemed at first glance to be duplication. He warned of the dangers of the Commonwealth scheme overlapping with similar work being done in the area by United Nations agencies. It would be most undesirable if there should be competitive bidding for personnel by the United Nations Agencies and the Colombo bureau. He also warned against any optimism, that Australia would be in a position to supply any great numbers of experts. It was important that Australia should not enter into any large commitments in this respect. He stressed the great shortage of experts which existed in Australia at present. Australia's own developmental plans were being hampered by shortage of experts. He said that in his opinion the Colombo bureau should not be staffed by personnel from the Department of External Affairs but by personnel thoroughly familiar with the labour position in Australia.
+
+14\. In reply, Mr. Tange said that the Colombo Bureau in the form now envisaged was not the creation of the Australian Government nor did Australia have any great enthusiasm for it. However, it had been agreed to by ministers rather hurridly in Sydney. The Australian proposals at Sydney had been altogether different but Australia's views had not prevailed.
+
+15\. As to the question of overlapping, Mr. Tange said that South and South East Asia would certainly get a share of technical assistance under the United Nations expanded programme of global technical assistance. However, it is the Australian view that there is room for a supplementary programme. It is still doubtful what the size of this supplementary programme will be. It will depend upon the extent to which the region will be able to absorb technical assistance. The size of the Commonwealth contribution is still doubtful.
+
+16\. Under the Commonwealth scheme it will probably be necessary to look for fields which the United Nations and other sources of technical assistance wont touch e.g. endowment of institutions, cash assistance of one sort or another.
+
+17\. Mr. Silken (Ministry of National Development) addressed himself to the question of introducing Asian trainees into Australian industry. He said that Australian industrialists would probably not want to be troubled with Asians, particularly if they were potential competitors. Australian industry had enough trouble training all the employees they needed for themselves.
+
+18\. Another factor to be considered was that many of the leaders of Australian industry cannot make their policy decisions in Australia. Policy in regard to the training of Asians would in many cases be a matter for decision by the parent organisation abroad. Trouble with the unions could also be anticipated.
+
+19\. Mr. Eltham (Labour and National Service) said that it was not practicable to carry out training of Asians in Australia at the tradesman and artisan level. He reiterated the points he had made in a written statement to the Department of External Affairs prior to the Sydney Conference.
+
+20\. He said that he had since been in touch with Directors of Technical Education in the various states. They had indicated that they would be prepared to make facilities available for members of the education departments, or the South and South-East Asian countries who wished to study the Australian system. They were also willing to permit some of their more senior officers to return with them to their own countries to assist them to put into operation the aspects of the Australian system which appealed to them.
+
+21\. Mr. Bland referred to the suggestion made by Mr. Bulcock for the compilation of a register of experts. He said he thought this was unnecessary. It would be better to use the employment service of the Department of Labour and National Service. This service already had a considerable amount of experience in meeting requests from other governments for the services of technical experts. It was agreed that this question would be followed up by correspondence subsequently between the Department of External Affairs and the Department of Labour and National Service.
+
+22\. Mr. Bulcock said there was a prolific field to be explored in the way of Demonstrations which Australia might be able to provide. He gave as an example the subject of pest control. He pointed out that Australian scientific knowledge of this question was as advanced as that of any other part of the world. He had in mind that by a joint effort by other departments e.g. C.S.I.R.O. supplying the scientific knowledge, another Department supplying the necessary chemicals, the Department of Agriculture supplying the technicians, a complete demonstration unit could be established.
+
+23\. Mr. Bulcock said that another possibility which should be explored was that of the British Commonwealth scheme supplying the 'missing component' in existing United Nations schemes. He gave as an example the campaign against Rinderpest being carried out in South East Asia by FAO. The limitations of the FAO Rinderpest campaign are essentially limitations of finance which the Commonwealth might be able to provide.
+
+24\. The same may be said of the FAO Rice Commission. Australia obviously cannot supply rice technicians but if there are any outstanding problems concerning rice which the FAO wishes to explore the Commonwealth, under its scheme, might find it possible to build up the budget to the necessary amount.
+
+25\. Mr. Cook (C.S.I.R.O.) said that his organisation was prepared to render all the assistance it possibly could but he was doubtful whether very much could be done at this stage for the area in the field of pure science and research. C.S.I.R.O. was prepared to make facilities available for Asian students to study in C.S.I.R.O. research laboratories but he doubted the value of this. His experience had been that Asians likely to come would not be of a sufficiently high standard to profit from it. In addition C.S.I.R.O. could send its own scientists to the area to study how certain problems actually exist there.
+
+26\. Mr. Bullock asked Mr. Collings whether the Public Service Board would be able to organise a Seminar in the field of Public Administration. Mr. Collings said he would look into this.
+
+27\. Mr. Bulcock said that increasing resistance was developing among State Directors of Agriculture to requests for Asian students to receive training in their Departments. They took the view that their Agriculture Departments were not training institutions. He suggested the need for a high level approach to the State Governments seeking their cooperation on this and other aspects of the technical assistance programme. This could be done by letter from the Prime Minister to the State Premiers. It might even be desirable to make this a matter for discussion at the next 'Premiers' Conference'.
+
+28\. In concluding the meeting Mr. Tange said that in exploring the question of technical assistance resources further he thought it was necessary to take a fairly elastic view of the aid which Australia could give. In considering any particular field the criteria should be:— 
+
+(a) Is it practicable and worth while?
+
+(b) Can we afford it?
+
+29\. It was decided that each of the Departments represented at the meeting should submit to the Department of External Affairs by 26th July, a paper confirming and supplementing the views expressed at the meeting so that these could be sent to the Australian delegation at Colombo.
+
+[NAA: A 1838, 708/9/5 part 1]

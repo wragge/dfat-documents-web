@@ -1,12 +1,20 @@
 ---
-title: "77 Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8947
+doc_date: '1979-11-29'
+doc_num: 77
+doc_order: 77
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Ministry of Foreign Affairs to New Zealand High Commission in
+  Canberra
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-11-29
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 77 Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra
 
 Wellington, 29 November 1979
 
@@ -34,4 +42,4 @@ A/NZ Economic Relation[s]
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 22 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 22 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

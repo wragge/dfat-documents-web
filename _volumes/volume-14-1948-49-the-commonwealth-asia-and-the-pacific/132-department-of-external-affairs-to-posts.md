@@ -1,14 +1,20 @@
 ---
-title: "132 Department of External Affairs to Posts"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5908
+doc_date: '1949-11-10'
+doc_num: 132
+doc_order: 132
+naa_refs:
+- naa_barcode: 550145
+  naa_control_symbol: 381/3/1/2 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838/283, 381/3/1/2, 1]'
+title: Department of External Affairs to Posts
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-11-10
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
 
-# 132 Department of External Affairs to Posts
-
-## Cablegram unnumbered CANBERRA, 10 November 1949, 7.45 p.m.
+Cablegram unnumbered CANBERRA, 10 November 1949, 7.45 p.m.
 
 The following was released to the Press 7 p.m. E.S.T. 10th November.
 
@@ -26,10 +32,10 @@ The meeting was given full reports of recent discussions which took place in Sin
 
 Already the Australian Government has introduced relief, scholarship schemes [1] and extended its representation. The objective of policy is maximum economic development, higher living standards, and the orderly growth of political autonomy and democratic institutions throughout the area. This is regarded as the best means of establishing a firm basis for lasting friendly relations between Australia and the British Commonwealth nations and the countries of South-East Asia. Australian commercial and strategic interests depend on the maintenance and extension of such friendly relations. Such relations are regarded as the best bulwark against any extremist or disruptive developments.'
 
-_
+ _
 
 1See Document 155.
 
 _
 
-_ [AA:A1838/283, 381/3/1/2, 1]_
+ _[AA:A1838/283, 381/3/1/2, 1]_

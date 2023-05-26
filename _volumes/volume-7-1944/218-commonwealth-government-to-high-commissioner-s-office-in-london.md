@@ -1,12 +1,17 @@
 ---
-title: "218 Commonwealth Government to High Commissioner's Office in London"
-volume: "Volume 7: 1944"
-doc_id: 2865
+doc_date: '1944-07-10'
+doc_num: 218
+doc_order: 218
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 672]'
+title: Commonwealth Government to High Commissioner's Office in London
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-10
+vol_title: 'Volume 7: 1944'
 ---
-
-# 218 Commonwealth Government to High Commissioner's Office in London
 
 Cablegram 6724 CANBERRA, 10 July 1944
 
@@ -24,10 +29,10 @@ Further if an exclusively American exchange were negotiated, undesirable reactio
 
 We are of opinion that the proposal should only be proceeded with if Australians are included and if it is considered that there is a reasonable chance of the negotiations being successful: of this latter, however, we ourselves are very doubtful. If they are proceeded with merely as a form of psychological warfare and if the fact that they were proceeding became known without the reason for them, the effect on the public here would be equally bad.
 
-_
+ _
 
 1 Document 215.
 
 _
 
-_ [AA:A5954, BOX 672]_
+ _[AA:A5954, BOX 672]_

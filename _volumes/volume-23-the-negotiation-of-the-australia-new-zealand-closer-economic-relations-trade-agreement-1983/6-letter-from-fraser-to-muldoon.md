@@ -1,14 +1,21 @@
 ---
-title: "6 Letter from Fraser to Muldoon"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8876
+doc_date: '1979-04-30'
+doc_num: 6
+doc_order: 6
+naa_refs:
+- naa_barcode: 1389677
+  naa_control_symbol: 370/1/19/18 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, i]'
+title: Letter from Fraser to Muldoon
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-04-30
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 6 Letter from Fraser to Muldoon
-
-## Canberra, 30 April 1979
+Canberra, 30 April 1979
 
 I was pleased to get a report from Doug Anthony on his visit to New Zealand and in particular on the interesting discussion he had with you on the nature of longer term relations between our two countries. In many ways I see this as a continuing development of the positive discussions which I had with Brian Talboys in March of last year. I was very pleased to learn that the subject of our longer term relationship had been broached in your discussions, albeit in a very preliminary way, because it is only too easy to promote debate on the New Zealand - Australian relationship in contemporary, often sterile terms.
 
@@ -16,4 +23,4 @@ I share Doug Anthony's general perceptions of the circumstances which will proba
 
 I understand that you have already put the matter of our longer term relationship to study and we propose taking complementary action here. I will be following developments with considerable interest. In the meantime, I wanted you to know of my attitude towards what I see as a mutually beneficial initiative that should not be allowed to wither on the vine, but, rather, taken forward with due speed.
 
-_[NAA: A1838, 370/1119/18, i]_
+ _[NAA: A1838, 370/1119/18, i]_

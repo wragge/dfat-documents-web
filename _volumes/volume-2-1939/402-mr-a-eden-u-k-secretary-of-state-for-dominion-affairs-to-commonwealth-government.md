@@ -1,12 +1,17 @@
 ---
-title: "402 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 739
+doc_date: '1939-12-02'
+doc_num: 402
+doc_order: 402
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-12-02
+vol_title: 'Volume 2: 1939'
 ---
-
-# 402 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 161 LONDON, 2 December 1939, 5.48 p.m.
 
@@ -20,7 +25,7 @@ It would be in accordance with recognised practice that the charge d'affaires sh
 
 At a subsequent stage when His Majesty's Government in the Commonwealth of Australia have decided upon the name of the Minister to be appointed, the appropriate procedure would be that the name should first be submitted to His Majesty for approval, before steps are taken to secure the agreement of the United States Government.
 
-_
+ _
 
 1 King George VI.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

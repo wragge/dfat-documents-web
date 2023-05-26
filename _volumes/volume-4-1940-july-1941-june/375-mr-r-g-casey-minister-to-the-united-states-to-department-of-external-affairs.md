@@ -1,12 +1,17 @@
 ---
-title: "375 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1606
+doc_date: '1941-03-31'
+doc_num: 375
+doc_order: 375
+naa_refs:
+- naa_barcode: 176221
+  naa_control_symbol: FAR 21
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 21A]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-03-31
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 375 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 241 WASHINGTON, 31 March 1941, 6.26 p.m.
 
@@ -32,7 +37,7 @@ Sumner Welles expressed high regard for the Dutch Minister for Foreign Affairs [
 
 CASEY
 
-_
+ _
 
 1 Admiral Kichisaburo Nomura.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 21A]_
+ _[AA:A981, FAR EAST 21A]_

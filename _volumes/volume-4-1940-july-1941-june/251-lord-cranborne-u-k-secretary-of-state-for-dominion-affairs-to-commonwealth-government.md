@@ -1,12 +1,18 @@
 ---
-title: "251 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1482
+doc_date: '1941-01-19'
+doc_num: 251
+doc_order: 251
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.0927]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-01-19
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 251 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 29 LONDON, 19 January 1941, 12.05 a.m.
 
@@ -100,10 +106,10 @@ We hope that the Commonwealth, New Zealand and Union Governments will be prepare
 
 In order that the organisation may be set in motion without delay, the United Kingdom Government would be glad to have a very early expression of the views of the Governments of the Commonwealth, New Zealand and Union on the proposals set out in this telegram.
 
-_
+ _
 
 1 See Document 295, note 2. Other words in square brackets have been inserted from the London file copy in PRO:DO 114/112.
 
 _
 
-_ [AA:A3195, 1941, 1.0927]_
+ _[AA:A3195, 1941, 1.0927]_

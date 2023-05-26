@@ -1,14 +1,20 @@
 ---
-title: "120 Department of External Affairs to Posts"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3968
+doc_date: '1946-09-17'
+doc_num: 120
+doc_order: 120
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. MISC.FILES,
+    AMM 35A]'
+title: Department of External Affairs to Posts
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-09-17
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 120 Department of External Affairs to Posts
-
-## Memorandum 62 CANBERRA, 17 September 1946
+Memorandum 62 CANBERRA, 17 September 1946
 
 DESPATCHES
 
@@ -42,8 +48,8 @@ Despatches should be marked according to their Security classification, viz., Mo
 
 A. S. WATT Acting Secretary
 
-_ MISC.FILES, AMM 35A]
+ _
 
 _
 
-_ [FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN._
+ _[FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. MISC.FILES, AMM 35A]_

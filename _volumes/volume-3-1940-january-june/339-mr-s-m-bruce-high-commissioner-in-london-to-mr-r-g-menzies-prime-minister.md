@@ -1,12 +1,17 @@
 ---
-title: "339 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1105
+doc_date: '1940-06-04'
+doc_num: 339
+doc_order: 339
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3880]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-04
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 339 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram [382] [1] (extract) LONDON, 4 June 1940, 9.05 p.m.
 
@@ -20,7 +25,7 @@ With a Clemenceau [3] the French could be relied on-without, I have grave doubts
 
 BRUCE
 
-_
+ _
 
 1 The number has been taken from Bruce's file copy on AA: M100, June 1940.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3880]_
+ _[FA: A3195, 1.3880]_

@@ -1,12 +1,17 @@
 ---
-title: "394 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1160
+doc_date: '1940-06-17'
+doc_num: 394
+doc_order: 394
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4347]'
+title: Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 394 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 125 WASHINGTON, 17 June 1940, 12.20 a.m.
 
@@ -18,7 +23,7 @@ On re-reading my telegram No. 124 [1] I think I should amplify to you arguments 
 
 CASEY
 
-_
+ _
 
 1 Document 387.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4347]_
+ _[FA: A3195, 1.4347]_

@@ -1,22 +1,25 @@
 ---
-title: "308 LETTER, BROOKE TO HARRISON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10174
+doc_date: '1962-11-07'
+doc_num: 308
+doc_order: 308
+naa_refs:
+- naa_barcode: 577105
+  naa_control_symbol: 1531/171 PART 1
+  naa_series: A1838
+  reference: '[NAA:A1838, 1531/171 PART 1]'
+title: LETTER, BROOKE TO HARRISON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-11-07
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 308 LETTER, BROOKE TO HARRISON
-
-NAA:A1838, 1531/171 PART 1
 
 London, 7 November 1962
 
-****
+ ****
 
 Entry of Australian Citizens into Britain
 
-Thank you for your letter of 19th October about the operation of the Commonwealth Immigrants Act in regard to Australians.1
+Thank you for your letter of 19th October about the operation of the Commonwealth Immigrants Act in regard to Australians.[1](#f1)
 
 The British Government made it clear, when the legislation was going through Parliament, that they were most reluctant to introduce a measure which restricted the traditional right of all Commonwealth citizens to come to this country. As the Minister now responsible for the administration of the Act, I can assure you that it is my intention to see that it is operated liberally and with proper discretion.
 
@@ -33,3 +36,5 @@ I am grateful to you for writing to me, and I hope you will not hesitate to let 
 When a difficult case arises, we shall do all we can to resolve the problem within the general framework of the Act and the voucher scheme; but I know you will appreciate that we must apply the Act fairly and impartially as between citizens of the various countries of the Commonwealth and be seen to be so applying it.
 
 1  Document 307. 
+
+[NAA:A1838, 1531/171 PART 1]

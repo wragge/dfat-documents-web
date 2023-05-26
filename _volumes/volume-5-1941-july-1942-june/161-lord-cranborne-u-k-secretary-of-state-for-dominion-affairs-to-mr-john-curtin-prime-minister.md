@@ -1,12 +1,18 @@
 ---
-title: "161 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1915
+doc_date: '1941-12-05'
+doc_num: 161
+doc_order: 162
+naa_refs:
+- naa_barcode: 177621
+  naa_control_symbol: JAP 185 PART 3
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 185B, iii]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-05
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 161 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Circular cablegram M423 LONDON, 5 December 1941, 3.38 p.m.
 
@@ -16,7 +22,7 @@ Following for the Prime Minister:-
 
 NETHERLANDS EAST INDIES In view of President Roosevelt's attitude as indicated in Paragraph 7 of my Circular M-412 [1] and confirmed by Para. 6 of my Circular M-421 [2] and in face of the present Japanese threat, we feel that we should now go beyond the previous oral assurance given to the Dutch (my Circular M.295 of 6th September [3]). We are therefore communicating with them today proposing a military understanding whereby each party would undertake to co-operate immediately to the fullest extent of its available resources in the event of other party being forced to take military action to repel an attack upon any of its territories in the Far East. We are adding that we have reason to believe that our views are shared by His Majesty's Governments in the Commonwealth of Australia and New Zealand and that if the Netherlands Government are prepared to enter into such an understanding with us we will at once suggest to those Governments that they should also participate. The text of the note will be telegraphed as soon as possible. [4] President Roosevelt is being advised of the communication which we are making to the Netherlands Government and informed that we feel sure that he will agree that the Dutch should from now on be brought fully into our discussions of measures to be taken to counter further Japanese moves.
 
-_
+ _
 
 1 Dispatched 2 December. On file AA:A981,Japan 185B, iii.
 
@@ -30,4 +36,4 @@ Paragraph 7 described Roosevelt's attitude thus: 'in the case of any direct atta
 
 _
 
-_ [AA:A981, JAPAN 185B, iii]_
+ _[AA:A981, JAPAN 185B, iii]_

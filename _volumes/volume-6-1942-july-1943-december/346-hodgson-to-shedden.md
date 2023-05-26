@@ -1,14 +1,24 @@
 ---
-title: "346 Hodgson to Shedden"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2637
+doc_date: '1943-12-09'
+doc_num: 346
+doc_order: 346
+naa_refs:
+- naa_barcode: 239331
+  naa_control_symbol: 294/1
+  naa_series: A5954
+  reference: '[DEFENCE: MP1217, BOX 294, AUSTRALIAN-NEW ZEALAND CONFERENCE, JANUARY
+    1944]'
+- naa_barcode: 185309
+  naa_control_symbol: 1943/735/168
+  naa_series: A989
+  reference: '[AA:A989, 43/735/168]'
+title: Hodgson to Shedden
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-12-09
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 346 Hodgson to Shedden
-
-## Memorandum CANBERRA, 9 December 1943
+Memorandum CANBERRA, 9 December 1943
 
 The proposed Conference with New Zealand has now been postponed until January as it has proved impossible to arrange mutually convenient dates in December. [1]
 
@@ -36,7 +46,7 @@ Desirable forms of mutual assistance as contribution towards maintenance of peac
 
 W. R. HODGSON
 
-_ 1 See Evatt's Note to Berendsen of 1 December. The N.Z. Govt had proposed that the conference be held from 13 to 18 December, but Evatt pointed out that this would conflict with the Australian Labor Party Conference in Sydney. On 9 December J. D. L. Hood of the External Affairs Dept prepared a letter to W. J. Garnett of the U.K. High Commission in Canberra advising him of plans for the conference, but on Evatt's instructions that 'no communication to the U.K. need be made at this stage' this letter was not dispatched. Evatt issued a public statement about the conference on 28 December and mentioned that he hoped that' . . . after it is held it will be possible to hold, also in Australia, a wider conference consisting of accredited representatives of all powers with territorial interests in the South-West Pacific'. All documents cited in this note are on file AA:A989, 43/735/168.
+ _1 See Evatt's Note to Berendsen of 1 December. The N.Z. Govt had proposed that the conference be held from 13 to 18 December, but Evatt pointed out that this would conflict with the Australian Labor Party Conference in Sydney. On 9 December J. D. L. Hood of the External Affairs Dept prepared a letter to W. J. Garnett of the U.K. High Commission in Canberra advising him of plans for the conference, but on Evatt's instructions that 'no communication to the U.K. need be made at this stage' this letter was not dispatched. Evatt issued a public statement about the conference on 28 December and mentioned that he hoped that' . . . after it is held it will be possible to hold, also in Australia, a wider conference consisting of accredited representatives of all powers with territorial interests in the South-West Pacific'. All documents cited in this note are on file AA:A989, 43/735/168.
 
 2 The draft agenda is published as an Attachment to this Document.
 
@@ -102,4 +112,4 @@ Statement of conclusions.
 
 _
 
-_ [DEFENCE: MP1217, BOX 294, AUSTRALIAN-NEW ZEALAND CONFERENCE, JANUARY 1944]_
+ _[DEFENCE: MP1217, BOX 294, AUSTRALIAN-NEW ZEALAND CONFERENCE, JANUARY 1944]_

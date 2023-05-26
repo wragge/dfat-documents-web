@@ -1,12 +1,17 @@
 ---
-title: "440 Departmental Memorandum for Mr J. McEwen, Minister for External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1206
+doc_date: '1940-06-26'
+doc_num: 440
+doc_order: 440
+naa_refs:
+- naa_barcode: 179222
+  naa_control_symbol: NEW C 1 PART 3
+  naa_series: A981
+  reference: '[AA: A981, NEW CALEDONIA 1, iii]'
+title: Departmental Memorandum for Mr J. McEwen, Minister for External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-26
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 440 Departmental Memorandum for Mr J. McEwen, Minister for External Affairs
 
 26 June 1940
 
@@ -50,7 +55,7 @@ The wisest course at the moment would seem to be to endeavour to get the United 
 
 Accordingly the following telegram to the Australian Minister at Washington [3] is attached for consideration.
 
-_
+ _
 
 1 On file AA: A1608, A41/1/1, x. See also Document 438, note 1.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [AA: A981, NEW CALEDONIA 1, iii]_
+ _[AA: A981, NEW CALEDONIA 1, iii]_

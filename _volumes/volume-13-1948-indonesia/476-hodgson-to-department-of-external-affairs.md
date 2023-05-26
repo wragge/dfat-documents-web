@@ -1,12 +1,17 @@
 ---
-title: "476 Hodgson to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5743
+doc_date: '1948-12-26'
+doc_num: 476
+doc_order: 476
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838, 854/10/4/3, iii]'
+title: Hodgson to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-12-26
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 476 Hodgson to Department of External Affairs
 
 Cablegram 292 PARIS, [26 December 1948], 6.50 p.m.
 
@@ -30,7 +35,7 @@ D. Extent of Dutch compliance with the cease-fire order (which was of immediate 
 
 E. Concrete suggestions as to the action the Council might take at once- (1) to make its clear condemnation of the Dutch effective by preservation of the Republic as a unit, and (2) to embark on steps for a settlement of the dispute possibly by giving greater powers to G.O.C.
 
-_
+ _
 
 1 Document 468.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A1838, 854/10/4/3, iii]_
+ _[AA:A1838, 854/10/4/3, iii]_

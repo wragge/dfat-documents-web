@@ -1,12 +1,18 @@
 ---
-title: "426 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2180
+doc_date: '1942-03-19'
+doc_num: 426
+doc_order: 427
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.11420]'
+title: Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-19
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 426 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram 326 LONDON, 19 March 1942, 9.20 p.m.
 
@@ -20,7 +26,7 @@ Following for Prime Minister from Prime Minister:-
 
 I cannot reconcile your public statement as reported here with your Johcu 26. [1] I have met most fully the conditions you there suggested by telling Casey that he should do all that is necessary and take whatever time is required to make Dr. Evatt [2] thoroughly acquainted with the situation. I do not therefore understand the tone and substance of your statement and I shall be forced to quote your telegram to me above-mentioned, unless in some way or other you can clear up the situation.
 
-_
+ _
 
 1 Document 413.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.11420]_
+ _[AA:A3195, 1942, 1.11420]_

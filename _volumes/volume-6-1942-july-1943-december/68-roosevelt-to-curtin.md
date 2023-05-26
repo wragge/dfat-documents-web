@@ -1,12 +1,17 @@
 ---
-title: "68 Roosevelt to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2359
+doc_date: '1942-10-28'
+doc_num: 68
+doc_order: 68
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Roosevelt to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-10-28
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 68 Roosevelt to Curtin
 
 Dispatch [310740] [1] WASHINGTON, [28 October 1942, 7.30 p.m.]
 
@@ -36,4 +41,4 @@ See cablegram 180[A] on file AA:A4763.
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

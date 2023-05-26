@@ -1,11 +1,17 @@
 ---
-title: "235 Australian Delegation, Economic and Social Council, to Australian Government"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6950
+doc_date: '1949-08-01'
+doc_num: 235
+doc_order: 235
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, I.11407]'
+title: Australian Delegation, Economic and Social Council, to Australian Government
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 235 Australian Delegation, Economic and Social Council, to Australian Government
 
 Cablegram 114, GENEVA, [1] August 1949, 11.14 p.m.
 
@@ -19,8 +25,8 @@ IMMEDIATE RESTRICTED
 
 4\. As the matter may come suddenly grateful for your immediate views on - (a) type of resolution E.C.O.S.O.C. might adopt, and (b) whether Australia should sponsor resolution which might be misinterpreted in Australia as implying apprehension over possible imminence of unemployment.
 
-_ [1] The World Federation of Trade Unions, which had consultative status with the Economic and Social Council, had submitted to the Council a list of specific counter-measures against unemployment.
+ _[1] The World Federation of Trade Unions, which had consultative status with the Economic and Social Council, had submitted to the Council a list of specific counter-measures against unemployment.
 
 _
 
-_ [AA : A3195, I.11407]_
+ _[AA : A3195, I.11407]_

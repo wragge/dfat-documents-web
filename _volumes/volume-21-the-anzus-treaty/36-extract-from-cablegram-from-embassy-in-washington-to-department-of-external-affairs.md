@@ -1,12 +1,18 @@
 ---
-title: "36 Extract From Cablegram From Embassy in Washington to Department of External Affairs"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8387
+doc_date: '1951-01-18'
+doc_num: 36
+doc_order: 36
+naa_refs:
+- naa_barcode: 246863
+  naa_control_symbol: 250/7/10 PART 1
+  naa_series: A1838
+  reference: '[NAA : A1838 250/7/10, i]'
+title: Extract From Cablegram From Embassy in Washington to Department of External
+  Affairs
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1951-01-18
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 36 Extract From Cablegram From Embassy in Washington to Department of External Affairs
 
 Extract, Washington, 18 January 1951
 
@@ -16,6 +22,6 @@ Extract, Washington, 18 January 1951
 
 (f) If the Dulles mission came to Australia they would also visit the Philippines and possibly New Zealand. In the event of a visit to New Zealand proving impracticable they might suggest that New Zealand be represented at the talks in Australia.
 
-__
+ __
 
-_ [NAA : A1838 250/7/10, i]_
+ _[NAA : A1838 250/7/10, i]_

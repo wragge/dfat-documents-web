@@ -1,12 +1,17 @@
 ---
-title: "54 Eggleston to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3566
+doc_date: '1946-01-25'
+doc_num: 54
+doc_order: 54
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 TI, SPTS/1/4]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-25
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 54 Eggleston to Evatt
 
 Dispatch 9/46 WASHINGTON, 25 January 1946
 
@@ -44,7 +49,7 @@ It is noteworthy that throughout all the recent debate there has been scarcely a
 
 Meanwhile, a sub-committee of the House of Representatives Naval Affairs Committee is at present touring all United States naval establishments in the Pacific. Among its duties, according to its Chairman, Representative Rivers of South Carolina, is that of reviewing the findings of the earlier Naval Affairs Sub-Committee which reported last August and whose report was later sent to the Department. The investigations of this sub-committee are expected to have an important effect on the ultimate selection by the United States Government of the bases in which it wishes to remain in sole charge.
 
-_
+ _
 
 1 Document 25 was repeated to Washington as cablegram 69.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA:A6494 TI, SPTS/1/4]_
+ _[AA:A6494 TI, SPTS/1/4]_

@@ -1,12 +1,17 @@
 ---
-title: "328 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1094
+doc_date: '1940-06-01'
+doc_num: 328
+doc_order: 328
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3803]'
+title: Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-01
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 328 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 107 WASHINGTON, 1 June 1940, 5.52 p.m.
 
@@ -18,7 +23,7 @@ It is painful to me and no doubt to you and the British Government how slow opin
 
 CASEY 
 
-_ 1 Document 307.
+_1 Document 307.
 
 2 U.K. Ambassador to the United States.
 
@@ -26,4 +31,4 @@ _ 1 Document 307.
 
 _
 
-_ [FA: A3195, 1.3803]_
+ _[FA: A3195, 1.3803]_

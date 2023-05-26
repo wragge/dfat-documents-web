@@ -1,12 +1,17 @@
 ---
-title: "112 Commonwealth Government to Cranborne"
-volume: "Volume 8: 1945"
-doc_id: 3143
+doc_date: '1945-06-16'
+doc_num: 112
+doc_order: 112
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2253]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-06-16
+vol_title: 'Volume 8: 1945'
 ---
-
-# 112 Commonwealth Government to Cranborne
 
 Cablegrams 158, 159 CANBERRA, 16 June 1945
 
@@ -32,7 +37,7 @@ It is the duty of the Production Executive to consider Allied proposals in relat
 
 3\. The Government has given full consideration to the proposal that 4,000 Portuguese troops should be received, trained and maintained in Australia to participate in the liberation of Timor, but it is averse to undertaking a further commitment to provide requirements for this force, having regard to existing commitments on Australian resources.
 
-_
+ _
 
 1 On file AA : A1838, 377/3/3/3. It asked for a reply to the matters raised in Document 55, 2 Defence Committee Minute 181/1945, 15 May.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 2253]_
+ _[AA : A5954, BOX 2253]_

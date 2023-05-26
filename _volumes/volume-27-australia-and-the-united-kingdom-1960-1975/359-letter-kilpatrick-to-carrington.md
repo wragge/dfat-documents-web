@@ -1,14 +1,17 @@
 ---
-title: "359 LETTER, KILPATRICK TO CARRINGTON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10225
+doc_date: '1972-11-29'
+doc_num: 359
+doc_order: 359
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1317]'
+title: LETTER, KILPATRICK TO CARRINGTON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-29
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 359 LETTER, KILPATRICK TO CARRINGTON
-
-UKNA: FCO 24/1317 
 
 Melbourne, 29 November 1972
 
@@ -25,3 +28,5 @@ We trust too that the opportunity will be taken by the British Government to rad
 If we can be of any assistance to your Society in pooling your ideas and ours for consideration by the British Government as to what can be done to alleviate this grave mutual problem, we will gladly assist.
 
 An early answer would be appreciated, and I would be grateful for your advice as to whether we may publish this letter and your reply both in Australia and in Britain.
+
+[UKNA: FCO 24/1317]

@@ -1,24 +1,31 @@
 ---
-title: "122 Submission from Groser to Norrish"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8992
+doc_date: '1980-06-20'
+doc_num: 122
+doc_order: 122
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission from Groser to Norrish
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-06-20
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 122 Submission from Groser to Norrish
-
-## Wellington, 20 June 1980
+Wellington, 20 June 1980
 
 ## A/NZ Economic Relations: Progress Report
 
-  1. The exercise on closer economic relations with Australia has produced a huge volume of paperwork and a language all of its own. It has produced some results too. The purpose of this briefing note is to give you a picture of the overall 'state of play' and the role the Ministry has played in the exercise.1
+  1. The exercise on closer economic relations with Australia has produced a huge volume of paperwork and a language all of its own. It has produced some results too. The purpose of this briefing note is to give you a picture of the overall 'state of play' and the role the Ministry has played in the exercise.[1](#f1)
   2. The history of the exercise has some obvious sign-posts: Nareen (March 1978), the agreement between Mr Anthony and the Prime Minister (April1979) that we should have a fresh look at the economic relationship; clear public statements, first by Mr Anthony then by Mr [Hugh] Templeton, indicating the NAFTA had run out of steam (Spring 1979); the meeting between Mr Fraser and Mr Muldoon at Lusaka (August 1979) which commissioned official studies of the options. This was then followed by a series of middle-level official and Permanent Head meetings. Finally, the two Prime Ministers met in Wellington on 20 March 1980.
-  3. A copy of the communique and annex2 from their meeting is attached. The annex, although rather technical, is the more important document in that it describes the approach both Governments consider to be the most promising. It spells out, in unusually frank terms, the way in which the two countries can achieve substantially free trade in seven years.
+  3. A copy of the communique and annex[2](#f2) from their meeting is attached. The annex, although rather technical, is the more important document in that it describes the approach both Governments consider to be the most promising. It spells out, in unusually frank terms, the way in which the two countries can achieve substantially free trade in seven years.
   4. The core of the agreement is trade. There is nothing in the agreement that the NAFTA could not theoretically achieve, but the practical effect of the agreement is to tum the NAFTA on its head: everything is 'in' (including agriculture) unless specifically nominated for 'deferral'. Its procedures are to be automatic-not relying on administrative discretion. Most important of all, unlike the NAFTA, it tackles the issues of access head on (not just tariffs). It also has provisions for 'harmonisation' of policies that distort trade (export incentives, for example).
   5. The main deficiency of the agreement is the lack of a timetable to continue the studies and implement the results. New Zealand wanted one; Mr Fraser did not. The main problem is that the two elections are no longer synchronised: Australia will have its election late this year, ours in 1981. The danger is that the exercise, which officials will be trying to bring to a conclusion in the period immediately following the Australian elections (November) will not maintain the political (and bureaucratic) momentum it has developed if it has to be put to one side until the New Zealand election is over. On both sides of the Tasman officials are at present working through an extensive work programme fleshing out the detailed implications of the approach endorsed by the two Prime Ministers in March.
   6. The next step is to review the progress of this work at the NAFTA meeting in Canberra on August 12-13. This will be a non-negotiating meeting: a stocktaking of conclusions. We hope Ministers will discuss the political and timing problems too.
-  7. In theory, neither New Zealand nor Australia has committed itself to anything. But as each checkpoint since Nareen has been passed, it becomes increasingly unlikely that we could return to the NAFTA status quo. In a recent address to an important public seminar in Auckland,3 Fred Turnovsky has called the Prime Ministers' meeting 'an irreversible political commitment to closer economic relations.'
+  7. In theory, neither New Zealand nor Australia has committed itself to anything. But as each checkpoint since Nareen has been passed, it becomes increasingly unlikely that we could return to the NAFTA status quo. In a recent address to an important public seminar in Auckland,[3](#f3) Fred Turnovsky has called the Prime Ministers' meeting 'an irreversible political commitment to closer economic relations.'
   8. There are, of course, a number of difficulties, in addition to the timing problem, that require careful attention. First, the key to the exercise is the 'deferred' (exemptions) list. Both sides want to keep it short. This will not be easy to achieve within New Zealand. The Australian list can be very short but include almost all the items of significant export interest to New Zealand­ cheese, whiteware, carpets for example. In addition to the important and more obvious trade and foreign policy arguments for a closer economic relationship, New Zealand is looking to this exercise for long term 'restructuring' reasons. But the political defence of the arrangement, when it begins to bite, will undoubtedly be the ability of the Government to point to the creation of direct and meaningful export opportunities. Second, there is evidence to suggest that Mr Fraser's personal commitment to the exercise is not great. The Australian commitment came first and foremost from Mr Anthony and second from a raft of Australian Permanent Heads with a strong A/NZ orientation. Finally, the usual catalogue of NAFTA difficulties has reached new heights. It is a delicate exercise to keep these two strands in the economic relationship separate. The NAFTA difficulties provide further evidence of the inability of the current NAFTA framework to deal with trading problems as they arise.
   9. This conceptual problem of trying to keep the two strands (NAFTA and the wider exercise) separate has come to a head on cheese. All cheeses are on Schedule A but cheddar is subject to a quota. The Australian dairy industry wants quantitative restrictions on New Zealand cheeses of all types. The industry, although much smaller than a decade ago, still has considerable political clout in the present coalition government. The Australian Government has indicated it wants 'bankable assurances' about the level of New Zealand exports and has suggested a voluntary restraint arrangement to that effect. It is trying to use New Zealand's commitment to the broader exercise to bring this about by arguing that this could sour the whole exercise from the Australian point of view. Quite apart from the intrinsic importance of the export trade to New Zealand, the Prime Minister has made it clear he expects something for dairy products from the wider exercise. At the level of editorial comment, access for New Zealand dairy products is part of what the exercise is about. The Ministry and other Departments are therefore standing on New Zealand's NAFTA rights and resisting these high-pressure tactics from the Australians.
   10. The reaction from the New Zealand business and farming community has been most favourable. However, DTI are worried (with some justification, we think) that the almost complete absence of pressure from manufacturers in the field (as opposed to their representatives) is the calm before the storm.
@@ -29,10 +36,8 @@ doc_date: 1980-06-20
 
 The proposal for a White Paper has not been put to Ministers yet. But we see this as an important element in the exercise. If the Government agrees a White Paper would be desirable, its preparation would become a major preoccupation for the Ministry and will help ensure a continuing and central role for us in the stages leading up to and including the negotiation of a new economic and trading relationship and perhaps in its subsequent administration. Attached is a piece of paper (it has no standing) setting out our views on the scope of a White Paper.
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 28 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 28 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Norrish had just taken up his appointment as Secretary of Foreign Affairs.
   * 2 Document 93.
   * 3 See Document 120.
-
-

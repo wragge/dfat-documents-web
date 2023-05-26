@@ -1,12 +1,17 @@
 ---
-title: "351 Bruce to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2642
+doc_date: '1943-12-15'
+doc_num: 351
+doc_order: 351
+naa_refs:
+- naa_barcode: 184631
+  naa_control_symbol: 1943/600/5/1/5
+  naa_series: A989
+  reference: '[AA:A989, 43-44/600/5/1/5]'
+title: Bruce to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-12-15
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 351 Bruce to Evatt
 
 Cablegram N41 LONDON, 15 December 1943, 5 p.m.
 
@@ -20,7 +25,7 @@ I shall also be obliged if you will let me have further information as to the na
 
 BRUCE
 
-_
+ _
 
 1 Document 349.
 
@@ -32,4 +37,4 @@ On 28 December (cablegram [N]8) Evatt sent Bruce the text of the public statemen
 
 _
 
-_ [AA:A989, 43-44/600/5/1/5]_
+ _[AA:A989, 43-44/600/5/1/5]_

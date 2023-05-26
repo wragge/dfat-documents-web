@@ -1,12 +1,17 @@
 ---
-title: "10 Evatt to Chifley"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3858
+doc_date: '1946-07-05'
+doc_num: 10
+doc_order: 10
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (a)]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-07-05
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 10 Evatt to Chifley
 
 Cablegram 927 WASHINGTON, 5 July 1946
 
@@ -30,7 +35,7 @@ I have worked unceasingly and driven the Commission hard in order to get the mac
 
 7\. I should be grateful for your views as soon as possible. [3]
 
-_
+ _
 
 1 Dunk had suggested that an adequate delegation could be assembled from posts in Europe and Canada. In a subsequent telephone conversation it was agreed that Dunk, Burton and Legge would travel from Australia. The delegation also included Hodgson, Officer, Stirling, Hood and Walker.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (a)]_
+_[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (a)]_

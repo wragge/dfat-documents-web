@@ -1,20 +1,23 @@
 ---
-title: "33 CABLEGRAM TO CANBERRA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9899
+doc_date: '1965-09-02'
+doc_num: 33
+doc_order: 33
+naa_refs:
+- naa_barcode: 1160351
+  naa_control_symbol: 1965/6595 PART 1
+  naa_series: A1209
+  reference: '[NAA: A1209, 1965/6595 PART 1]'
+title: CABLEGRAM TO CANBERRA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1965-09-02
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 33 CABLEGRAM TO CANBERRA
-
-NAA: A1209, 1965/6595 PART 1
 
 Australian High Commission, London, 2 September 1965
 
 7578\. Top Secret Immediate
 
-_Quadripartite Talks_
+ _Quadripartite Talks_
 
 British memorandum entitled ‘The Repercussions in South East Asia of the Separation of Singapore’ was received at 14.30 hours 2nd September.
 
@@ -22,9 +25,9 @@ Five copies will be despatched in bag leaving London 6th September.
 
 The following is the concluding section of the paper:
 
-_Begins—_
+ _Begins—_
 
-V._ The British Assessment of the Implications_ 1
+V. _The British Assessment of the Implications_ [1](#f1)
 
 26\. In the twelve months before Singapore’s separation from Malaysia the British Government has been considering the long term future of the military bases in Malaysia.
 
@@ -68,8 +71,10 @@ It is, however, our view that Britain should continue, although on a reduced sca
 
 We shall not be in a position to discuss in detail the military questions involved in this concept, such as the level of forces which will be required and the site of the necessary facilities, until our defence system has reached a more advanced state.
 
-_Ends._
+ _Ends._
 
 2\. The remainder of this paper is being telegraphed.
 
-1  When Singapore separated from Malaysia, Healey wrote to Wilson with an assessment of the implications from a British defence point of view. ‘The secession of Singapore has increased our freedom of action in several respects. I believe that we should decide our policy and initiate action to implement it before the dust settles, or we shall find our current freedom of action removed by the initiatives of others. The key issue is not whether or when we leave Singapore, but how to get out of Borneo: i.e. how to end our commitment under confrontation as soon as possible.’ According to Healey the worst feature of the UK’s East of Suez responsibilities was that they required an unqualified commitment by Britain towards governments ‘which retain excessive freedom of action in relation to British interests’. Britain’s withdrawal from Borneo need not mean a simultaneous withdrawal from Singapore, ‘although this may well be forced upon us before 1970 in any case’. On the contrary, to obtain US and Australian approval for the withdrawal from Borneo, it might be necessary in the current defence review to indicate a greater willingness to retain forces in Southeast Asia, whether in Singapore or Australia, ‘than we might otherwise have wished’. Conceivably the Americans might withdraw support from Sterling if they thought the UK was planning to withdraw from Singapore. The US wanted the UK to remain in Singapore as long as possible to prevent it becoming an ‘Asian “Cuba” under Chinese control’. In order therefore to withdraw from Borneo, the UK would have to make clear its intention ‘to retain a military capacity in Singapore for as long as we are politically permitted to do so, and to shift to Australia thereafter’ (UKNA: PREM 13/431, letter, Healey to Wilson, 13 August 1965, reproduced in _ESAC_, Part I, Document 98).
+1  When Singapore separated from Malaysia, Healey wrote to Wilson with an assessment of the implications from a British defence point of view. ‘The secession of Singapore has increased our freedom of action in several respects. I believe that we should decide our policy and initiate action to implement it before the dust settles, or we shall find our current freedom of action removed by the initiatives of others. The key issue is not whether or when we leave Singapore, but how to get out of Borneo: i.e. how to end our commitment under confrontation as soon as possible.’ According to Healey the worst feature of the UK’s East of Suez responsibilities was that they required an unqualified commitment by Britain towards governments ‘which retain excessive freedom of action in relation to British interests’. Britain’s withdrawal from Borneo need not mean a simultaneous withdrawal from Singapore, ‘although this may well be forced upon us before 1970 in any case’. On the contrary, to obtain US and Australian approval for the withdrawal from Borneo, it might be necessary in the current defence review to indicate a greater willingness to retain forces in Southeast Asia, whether in Singapore or Australia, ‘than we might otherwise have wished’. Conceivably the Americans might withdraw support from Sterling if they thought the UK was planning to withdraw from Singapore. The US wanted the UK to remain in Singapore as long as possible to prevent it becoming an ‘Asian “Cuba” under Chinese control’. In order therefore to withdraw from Borneo, the UK would have to make clear its intention ‘to retain a military capacity in Singapore for as long as we are politically permitted to do so, and to shift to Australia thereafter’ (UKNA: PREM 13/431, letter, Healey to Wilson, 13 August 1965, reproduced in _ESAC_ , Part I, Document 98).
+
+[NAA: A1209, 1965/6595 PART 1]

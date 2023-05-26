@@ -1,18 +1,21 @@
 ---
-title: "51 MlNUTE, BUNTING TO HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9916
+doc_date: '1966-01-30'
+doc_num: 51
+doc_order: 51
+naa_refs:
+- naa_barcode: 1160342
+  naa_control_symbol: 1965/6595 PART 3
+  naa_series: A1209
+  reference: '[NAA:Al209, 1965/6595 PART 3]'
+title: MlNUTE, BUNTING TO HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-01-30
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 51 MlNUTE, BUNTING TO HOLT
-
-NAA:Al209, 1965/6595 PART 3
 
 Canberra, 30 January 1966
 
-****
+ ****
 
 Meeting with Mr. Healey
 
@@ -53,3 +56,5 @@ The subject is so vast with so many sub-headings, each capable of giving rise to
 9\. The other point concerns the role of the British forces if they were to be based in Australia, in the strength and formation suggested by Mr. Healey. (In one way I would prefer this to be left out of discussion because I regard it as a secondary and not primary element of the debate. But it is as well that I should refer to it.) According to our Defence authorities, it is likely that the force foreshadowed would be more relevant to Britain’s own responsibilities towards India, and even in Africa, rather than to the defence of Australia. In effect, there is some view in our Defence area that Britain would merely be holding a section of its forces in reserve in Australia for use anywhere, and since, on their scheme, we would have provided the capital cost of the bases, they would be doing so on the cheap. I do not interpret the British proposal in this manner, but you should know of this suspicion. On Defence figuring, the cost of establishing bases for the forces mentioned would be in the region of £250 million to £300 million.
 
 1 Harold Holt succeeded Menzies as Prime Minister on 26 January 1966.
+
+[NAA:Al209, 1965/6595 PART 3]

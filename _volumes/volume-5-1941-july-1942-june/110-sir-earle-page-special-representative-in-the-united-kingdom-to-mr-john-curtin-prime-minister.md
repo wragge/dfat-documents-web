@@ -1,13 +1,22 @@
 ---
-title: "110 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1864
+doc_date: '1941-11-14'
+doc_num: 110
+doc_order: 111
+naa_refs:
+- naa_barcode: 242438
+  naa_control_symbol: NOVEMBER 1941
+  naa_series: M100
+  reference: '[AA : M100, NOVEMBER 1941]'
+- naa_barcode: 179617
+  naa_control_symbol: PAC 8 PART 1
+  naa_series: A981
+  reference: '[AA : A981, PACIFIC 8, i]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-14
-barcode: 242438
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 110 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram P3 LONDON, 14 November 1941, 1.10 a.m.
 
@@ -79,7 +88,7 @@ Summary ends.
 
 PAGE
 
-_
+ _
 
 1 Words in square brackets have been corrected/inserted from the London copy on file AA : M103, 1941.
 
@@ -125,7 +134,7 @@ He agreed with my suggestions, but to my horror asked that I should dictate them
 
 Attached hereto are the notes which I did however dictate and also a copy of the statement that Page made to the War Cabinet. [2]
 
-S. M. B[RUCE] [ [AA : M100, NOVEMBER 1941](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=242438) ]
+S. M. B[RUCE] [AA : M100, NOVEMBER 1941]
 
 1 Special Representative in the United Kingdom.
 
@@ -133,4 +142,4 @@ S. M. B[RUCE] [ [AA : M100, NOVEMBER 1941](http://www.naa.gov.au/cgi-bin/Search?
 
 _
 
-_ [ [AA : A981, PACIFIC 8, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=242438) ]_
+ _[AA : A981, PACIFIC 8, i]_

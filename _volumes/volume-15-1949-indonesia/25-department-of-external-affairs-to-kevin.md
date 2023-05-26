@@ -1,12 +1,18 @@
 ---
-title: "25 Department of External Affairs to Kevin"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6194
+doc_date: '1949-01-05'
+doc_num: 25
+doc_order: 25
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Department of External Affairs to Kevin
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-05
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 25 Department of External Affairs to Kevin
 
 Cablegram 3 CANBERRA, 5 January 1949, 9.20 p.m.
 
@@ -24,7 +30,7 @@ Although the Australian Government feels unable, in the present circumstances, t
 
 5\. Please advise earliest possible date now fixed for Conference.
 
-_
+ _
 
 1 Document 2.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

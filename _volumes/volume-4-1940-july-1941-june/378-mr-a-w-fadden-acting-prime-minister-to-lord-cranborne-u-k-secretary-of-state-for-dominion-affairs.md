@@ -1,12 +1,18 @@
 ---
-title: "378 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1609
+doc_date: '1941-04-02'
+doc_num: 378
+doc_order: 378
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196,1941, 0.4068]'
+title: Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of
+  State for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-02
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 378 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 206 [2 April 1941] [1],
 
@@ -52,7 +58,7 @@ COMMANDERS-IN-CHIEF TO CONFER 5. The need is stressed for the fullest representa
 
 FADDEN
 
-_
+ _
 
 1 The date has been inserted from the copy received in London. See PRO-FO 371/27774.
 
@@ -68,4 +74,4 @@ Commander-in-Chief in China, Vice Admiral Sir Geoffrey Layton.
 
 _
 
-_ [AA: A3196,1941, 0.4068]_
+ _[AA: A3196,1941, 0.4068]_

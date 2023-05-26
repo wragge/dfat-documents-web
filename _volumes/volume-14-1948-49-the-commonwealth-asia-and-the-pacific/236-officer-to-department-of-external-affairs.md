@@ -1,12 +1,18 @@
 ---
-title: "236 Officer to Department of External Affairs"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6012
+doc_date: '1949-01-29'
+doc_num: 236
+doc_order: 236
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:OUTWARD ORIGINAL (TS) 1948-50]'
+title: Officer to Department of External Affairs
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-01-29
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 236 Officer to Department of External Affairs
 
 Cablegram 49 NANKING, 29 January 1949, 9.45 p.m.
 
@@ -20,10 +26,10 @@ I appreciate that Secretary-General must be consulted but hope it can be done qu
 
 3\. I do not think sending of a Liaison Officer to Canton affects the position. It is doing no more than maintaining contact with Ministry of Foreign Affairs and he can be withdrawn at any moment.
 
-_
+ _
 
 1 Document 235.
 
 _
 
-_ [FA:OUTWARD ORIGINAL (TS) 1948-50]_
+ _[FA:OUTWARD ORIGINAL (TS) 1948-50]_

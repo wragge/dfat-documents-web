@@ -1,12 +1,18 @@
 ---
-title: "166 Heyes to Burton"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5942
+doc_date: '1949-01-20'
+doc_num: 166
+doc_order: 166
+naa_refs:
+- naa_barcode: 571276
+  naa_control_symbol: 1531/1 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838, 153 1/1, i]'
+title: Heyes to Burton
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-01-20
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 166 Heyes to Burton
 
 Memorandum CANBERRA, 20 January 1949
 
@@ -18,8 +24,8 @@ Persons partly of non-European origin may, however, be granted travel facilities
 
 Will you kindly arrange for Australian representatives overseas to be advised accordingly. In doing so it should be impressed on these officers that the Minister wishes his ruling to be kept strictly secret.
 
-_
+ _
 
 _
 
-_ [AA:A1838, 153 1/1, i]_
+ _[AA:A1838, 153 1/1, i]_

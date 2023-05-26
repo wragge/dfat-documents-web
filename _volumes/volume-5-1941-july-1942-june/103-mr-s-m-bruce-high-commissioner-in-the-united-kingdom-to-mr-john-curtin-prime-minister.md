@@ -1,12 +1,18 @@
 ---
-title: "103 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1857
+doc_date: '1941-11-05'
+doc_num: 103
+doc_order: 104
+naa_refs:
+- naa_barcode: 179108
+  naa_control_symbol: NETH 20 PART 1
+  naa_series: A981
+  reference: '[AA : A981, NETHERLANDS 20, i]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-05
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 103 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 87 LONDON, 5 November 1941, 8.45 p.m.
 
@@ -28,7 +34,7 @@ At the close of the interview they asked me if there would be any objection to t
 
 BRUCE
 
-_
+ _
 
 1 See Document 83, note 3.
 
@@ -48,4 +54,4 @@ If the Netherlands Govt would not accept a formal diplomatic appointment to Bata
 
 _
 
-_ [AA : A981, NETHERLANDS 20, i]_
+ _[AA : A981, NETHERLANDS 20, i]_

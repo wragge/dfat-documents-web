@@ -1,12 +1,18 @@
 ---
-title: "47 Note of Secraphone Conversation between MacArthur and Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2338
+doc_date: '1942-09-17'
+doc_num: 47
+doc_order: 47
+naa_refs:
+- naa_barcode: 853952
+  naa_control_symbol: '139'
+  naa_series: AWM123
+  reference: '[DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,FILE
+    No. 3, 48/1942]'
+title: Note of Secraphone Conversation between MacArthur and Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-17
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 47 Note of Secraphone Conversation between MacArthur and Curtin
 
 CANBERRA, 17 September 1942
 
@@ -50,7 +56,7 @@ today for Melbourne. General MacArthur said he would get in contact with General
 
 20\. The Prime Minister said that, in view of the advice of General MacArthur, he would inform General Blamey that he considered he should go to New Guinea, as suggested. [5]
 
-_ 1 On 16 September Japanese forces advancing over the Kokoda Trail from Buna had driven Australian forces back to Imita Ridge, some 50 km from Port Moresby. This in fact represented the southernmost point reached by the Japanese, who were then compelled to retreat northwards over the Owen Stanley Range.
+ _1 On 16 September Japanese forces advancing over the Kokoda Trail from Buna had driven Australian forces back to Imita Ridge, some 50 km from Port Moresby. This in fact represented the southernmost point reached by the Japanese, who were then compelled to retreat northwards over the Owen Stanley Range.
 
 2 For more detailed discussion of MacArthur's criticism of Australian forces in New Guinea see D. M. Horner, Crisis of Command, Australian National University, Canberra, 1978, ch. 7 and 8, and Dudley McCarthy, South-West Pacific Area-First Year, Australian War Memorial, Canberra, 1959, ch. 6 and 7.
 
@@ -62,4 +68,4 @@ _ 1 On 16 September Japanese forces advancing over the Kokoda Trail from Buna ha
 
 _
 
-_ [DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,FILE No. 3, 48/1942]_
+ _[DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,FILE No. 3, 48/1942]_

@@ -1,14 +1,20 @@
 ---
-title: "40 Sir Henry Gullett, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 806
+doc_date: '1940-02-05'
+doc_num: 40
+doc_order: 40
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/2
+  reference: '[AA: CP290/2, 9]'
+title: Sir Henry Gullett, Minister for External Affairs, to Mr R. G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-05
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 40 Sir Henry Gullett, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister
-
-## Letter MELBOURNE, 5 February 1940
+Letter MELBOURNE, 5 February 1940
 
 During the past week or two I have given much thought to the question of Commonwealth diplomatic representation in the Far East. My opinion now is that we should proceed immediately with the appointment of a Minister to both Japan and China.
 
@@ -24,10 +30,10 @@ I do not wish to labour the matter, but I strongly recommend that we should proc
 
 H. S. GULLETT
 
-_
+ _
 
 1 Japanese Consul-General in Australia.
 
 _
 
-_ [AA: CP290/2, 9]_
+ _[AA: CP290/2, 9]_

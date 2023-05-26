@@ -1,12 +1,18 @@
 ---
-title: "19 Mr S. M. Bruce, High Commissioner in London, 19 to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 785
+doc_date: '1940-01-15'
+doc_num: 19
+doc_order: 19
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.345]'
+title: Mr S. M. Bruce, High Commissioner in London, 19 to Mr R. G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 19 Mr S. M. Bruce, High Commissioner in London, 19 to Mr R. G. Menzies, Prime Minister
 
 Cablegram [44] [1] LONDON, 15 January 1940, 9.47 p.m.
 
@@ -22,7 +28,7 @@ For your personal information in my view reason for the character of the United 
 
 BRUCE
 
-_
+ _
 
 1 The copy cited was not numbered. The number has been taken from the copy on file AA: A1608, A41/1/1, vii.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [FA: A3195, 1.345]_
+ _[FA: A3195, 1.345]_

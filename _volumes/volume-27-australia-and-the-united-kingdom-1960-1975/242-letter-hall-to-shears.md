@@ -1,14 +1,17 @@
 ---
-title: "242 LETTER, HALL TO SHEARS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10107
+doc_date: '1967-11-08'
+doc_num: 242
+doc_order: 242
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 20/50]'
+title: LETTER, HALL TO SHEARS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-11-08
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 242 LETTER, HALL TO SHEARS
-
-UKNA: FCO 20/50 
 
 British High Commission, Canberra, 8 November 1967
 
@@ -23,3 +26,5 @@ Press and other reaction in both Britain and Australia to Sir Alexander Downer�
 4\. On balance, we conclude that we have lost nothing from the campaign and its crop of resultant comment. Indeed, the normally critical FINANCIAL REVIEW of Sydney has a pungent editorial, ‘A case for Dr Freud?’, concluding that the continued campaign to denigrate Britain’s policy towards Europe is at best neurotic and at worst cynically self-seeking.
 
 5\. As is often the case, the CANBERRA TIMES came out with a weighty summing-up, comparing and contrasting the publicly-expressed viewpoints of Sir A. Downer and Sir C. Johnston. The TIMES thought that Sir Alexander was speaking up for the Australia of Sir Robert Menzies and was being unrealistic and out of date in opposing British entry into Europe, even though his point that some links should be retained with Australia was of value. Sir Charles Johnston’s assessments, argued the paper, were, on the other hand, ‘realistic’ though the paper doubted whether Britain could hold her ground in the export stakes. The debate here has shown refreshing realism with little of the emotional overtones of Sir A Downer’s speeches to his British audiences.
+
+[UKNA: FCO 20/50]

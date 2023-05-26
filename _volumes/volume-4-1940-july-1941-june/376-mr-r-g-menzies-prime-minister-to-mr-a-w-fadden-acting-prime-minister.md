@@ -1,12 +1,17 @@
 ---
-title: "376 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1607
+doc_date: '1941-04-01'
+doc_num: 376
+doc_order: 376
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3 195, 1941, 1.4900]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-01
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 376 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram M38 LONDON, 1 April 1941, 9.03 p.m.
 
@@ -22,7 +27,7 @@ Will advise you further.
 
 MENZIES
 
-_
+ _
 
 1 Document 363.
 
@@ -34,4 +39,4 @@ K. War Cabinet, Sir Edward Bridges, on 1 April for submission to the U.K. Chiefs
 
 _
 
-_ [AA: A3 195, 1941, 1.4900]_
+ _[AA: A3 195, 1941, 1.4900]_

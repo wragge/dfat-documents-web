@@ -1,12 +1,17 @@
 ---
-title: "319 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 318
+doc_date: '1938-11-21'
+doc_num: 319
+doc_order: 318
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL : PAGE 678]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-11-21
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 319 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 21 November 1938, 10.00 p.m.
 
@@ -34,10 +39,10 @@ In arriving at the figure of 30,000 over period of three years the Government ha
 
 BRUCE
 
-_
+ _
 
 1 Document 318.
 
 _
 
-_ [ANL : PAGE 678]_
+ _[ANL : PAGE 678]_

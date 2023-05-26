@@ -1,14 +1,19 @@
 ---
-title: "65 Stuart to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2712
+doc_date: '1944-03-06'
+doc_num: 65
+doc_order: 65
+naa_refs:
+- naa_barcode: 184631
+  naa_control_symbol: 1943/600/5/1/5
+  naa_series: A989
+  reference: '[AA:A989, 43-44/600/5/1/5]'
+title: Stuart to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-06
+vol_title: 'Volume 7: 1944'
 ---
 
-# 65 Stuart to Evatt
-
-## Memorandum [1] CANBERRA, 6 March 1944
+Memorandum [1] CANBERRA, 6 March 1944
 
 Now that Dr. van Mook has arrived in Australia [2] and discussions may be expected on the Netherlands Government's desire to set up a Netherlands Indies Administration in this country, it may be useful to examine how far Dutch co-operation may be secured for the aims of Australian national policy, and to have on record an account of Netherlands official activities in this country since the fall of Java.
 
@@ -64,7 +69,7 @@ However, unprecedented efforts are now being made by the Dutch to promote a more
 
 15\. For the sake of convenience an account of Netherlands activities in Australia since the fall of Java is attached. [10]
 
-_
+ _
 
 1 This memorandum bears Stuart's annotation: 'Mr Forsyth, I prepared this on Mr Hood's instruction as you will recall. I don't know it any action was taken on it. F.H.S. 28/11.' For the re- emergence of this issue in November see Document 335.
 
@@ -88,4 +93,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/600/5/1/5]_
+ _[AA:A989, 43-44/600/5/1/5]_

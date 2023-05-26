@@ -1,12 +1,17 @@
 ---
-title: "170 Shedden to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3682
+doc_date: '1946-04-05'
+doc_num: 170
+doc_order: 170
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1645]'
+title: Shedden to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-05
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 170 Shedden to Chifley
 
 [MELBOURNE], 5 April 1946
 
@@ -154,10 +159,10 @@ It is suggested that course (iv) be adopted, and, should the Chiefs of Staff ask
 
 Attlee. [2] A directive in accordance with (iii)(b) has been prepared for your information on this angle of approach, and is in a separate cover herewith.
 
-_ 1 Document 134.
+ _1 Document 134.
 
 2 The full appreciation was attached as an appendix to briefing notes on defence and security prepared for Chifley's use at the Prime Ministers' meeting in London.
 
 _
 
-_ [AA:A5954, BOX 1645]_
+ _[AA:A5954, BOX 1645]_

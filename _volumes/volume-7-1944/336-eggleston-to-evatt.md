@@ -1,14 +1,19 @@
 ---
-title: "336 Eggleston to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 2983
+doc_date: '1944-11-06'
+doc_num: 336
+doc_order: 336
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT PAPERS. ''EGGLESTON, F. W.'']'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-06
+vol_title: 'Volume 7: 1944'
 ---
 
-# 336 Eggleston to Evatt
-
-## Letter WASHINGTON, 6 November 1944
+Letter WASHINGTON, 6 November 1944
 
 I hope you will not mind my referring to a matter on which I think we should have an understanding at once.
 
@@ -20,7 +25,7 @@ Roosevelt's election is by no means certain, it would be exceedingly embarrassin
 
 F. W. EGGLESTON
 
-_
+ _
 
 1 Not located. Evatt appears to have dispatched this message during his visit to New Zealand.
 
@@ -30,4 +35,4 @@ citizens for the re-election of President Cleveland. As a result of the ensuing 
 
 _
 
-_ [SFU:EVATT PAPERS. 'EGGLESTON, F. W.']_
+ _[SFU:EVATT PAPERS. 'EGGLESTON, F. W.']_

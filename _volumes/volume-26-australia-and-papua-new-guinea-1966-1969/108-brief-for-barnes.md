@@ -1,17 +1,21 @@
 ---
-title: "108 Brief For Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9616
+doc_date: '1967-05-16'
+doc_num: 108
+doc_order: 108
+naa_refs:
+- naa_barcode: 4780025
+  naa_control_symbol: 1967/3032
+  naa_series: A452
+  reference: '[NAA: A452, 1967/3032]'
+title: Brief For Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-05-16
-barcode: 4780025
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 108 Brief For Barnes
 
 Canberra, 16 May 1967
 
-**Papua and New Guinea-Arbitrator’s decision on the local officers’ salaries case**
+ **Papua and New Guinea-Arbitrator’s decision on the local officers’ salaries case**
 
 A. _Background to case_
 
@@ -37,13 +41,13 @@ B. _Arbitration case-claim and hearings_
 
 • Administration’s case commenced 28-11-66 and concluded 8-2-67. Administration introduced 6 witnesses.
 
-• Case concluded 17-2-67. Transcript recorded totalled 3,700 pages.2
+• Case concluded 17-2-67. Transcript recorded totalled 3,700 pages.[2](#f2)
 
 • Exhaustive hearing covered all aspects enabling Arbitrator to be fully informed and to form opinion as basis for independent and impartial decision as required under provisions of Arbitration (Public Service) Ordinance.
 
 C. _Arbitration case-Arbitrator’s Decision_
 
-In his Decision, handed down last Thursday,3 Arbitrator
+In his Decision, handed down last Thursday,[3](#f3) Arbitrator
 
 \- confirmed that local salary levels should be related to local economy and standards;
 
@@ -61,7 +65,7 @@ D. _Cost of local officers’ salaries_
 
 \- new salary rates introduced by Administration in July 1966 had immediate additional cost impact of $450,000;
 
-\- budgetary provision for salaries of local officers in 1966/67 financial year was $9.7;4
+\- budgetary provision for salaries of local officers in 1966/67 financial year was $9.7;[4](#f4)
 
 \- cost of increases granted by the Arbitrator roughly estimated to approach $700,000 (new salary {scale} to be worked out) {in 1967/68};
 
@@ -71,7 +75,7 @@ E. _Effects of Decision throughout Administration_
 
 \- {Increasing economic development is the appropriate way of providing an economic basis for higher salaries for local officers.}
 
-[ [NAA: A452, 1967/3032](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4780025) ]
+[NAA: A452, 1967/3032]
 
 1 Appearing on the original are the initials of Ballard and Max Joliffe (Senior Inspector, Terms and Conditions Section, DOT) and a stamp indicating that the document was sent to the Minister’s office, but author and recipient are not formally denoted.
 

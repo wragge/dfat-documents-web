@@ -1,14 +1,17 @@
 ---
-title: "280 CABLEGRAM, ANTHONY TO FOREIGN AFFAIRS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10145
+doc_date: '1971-06-04'
+doc_num: 280
+doc_order: 280
+naa_refs:
+- naa_barcode: 551423
+  naa_control_symbol: 727/4/2 PART 12
+  naa_series: A1838
+  reference: '[NAA:AI838, 727/4/2 PART 12]'
+title: CABLEGRAM, ANTHONY TO FOREIGN AFFAIRS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 280 CABLEGRAM, ANTHONY TO FOREIGN AFFAIRS
-
-NAA:AI838, 727/4/2 PART 12 
 
 Australian Embassy Brussels, 4 June 1971
 
@@ -30,7 +33,7 @@ Their overriding motivation seems to have been to achieve entry.
 
 4\. The British acceptance of immediate application of Community preference from the date of her entry means that in the case of the products subject to the Common Agricultural Policy, Australia (and other countries) would not have a transitional period during which there would be a progressive phasing out of our existing access and levels of trade.
 
-This stark prospect, which emerged from the marathon negotiating session in mid-May,1 is in sharp conflict with the line which Rippon had taken in Australia last year.
+This stark prospect, which emerged from the marathon negotiating session in mid-May,[1](#f1) is in sharp conflict with the line which Rippon had taken in Australia last year.
 
 He then stressed the value to us of having a transition period of several years in which to adapt.
 
@@ -89,3 +92,5 @@ By doing this I believe we can create a climate of opinion conductive [sic] to u
 15\. I feel that my discussions thus far have led to a much clearer understanding of Australia’s position.
 
 * 1  Document 278. 
+
+[NAA:AI838, 727/4/2 PART 12]

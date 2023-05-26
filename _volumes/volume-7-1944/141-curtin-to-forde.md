@@ -1,12 +1,17 @@
 ---
-title: "141 Curtin to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2788
+doc_date: '1944-05-09'
+doc_num: 141
+doc_order: 141
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 662]'
+title: Curtin to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-09
+vol_title: 'Volume 7: 1944'
 ---
-
-# 141 Curtin to Forde
 
 Cablegram 12 (extract) LONDON, 9 May 1944, 8.01 p.m.
 
@@ -44,7 +49,7 @@ Mr. Churchill emphasised the importance that had to be given to American views.
 
 CURTIN
 
-_
+ _
 
 1 Dispatched 8 May. On file AA:A5954, box 659.
 
@@ -62,4 +67,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 662]_
+ _[AA:A5954, BOX 662]_

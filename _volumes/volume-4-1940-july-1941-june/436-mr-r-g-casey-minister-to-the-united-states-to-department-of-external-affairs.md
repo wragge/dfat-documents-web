@@ -1,12 +1,17 @@
 ---
-title: "436 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1667
+doc_date: '1941-04-28'
+doc_num: 436
+doc_order: 436
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, 1]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-28
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 436 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 313 WASHINGTON, 28 April 1941, 11.07 p.m.
 
@@ -40,7 +45,7 @@ For your confidential information the Secretary of State is very friendly and gi
 
 CASEY
 
-_
+ _
 
 1 Cordell Hull.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, 1]_
+ _[AA: A981, JAPAN 185B, 1]_

@@ -1,12 +1,17 @@
 ---
-title: "284 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 283
+doc_date: '1938-09-27'
+doc_num: 284
+doc_order: 283
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-27
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 284 Note of Meeting of U.K. and Dominions Representatives
 
 LONDON, 27 September 1938, 11.30 p.m.
 
@@ -26,7 +31,7 @@ MR BRUCE said that he thought that the adoption of any other course by the Prime
 
 MR MASSEY and MR TE WATER strongly concurred with Mr Bruce's view.
 
-_
+ _
 
 1 Not printed. Sir Nevile Henderson was U.K. Ambassador in Berlin;
 
@@ -46,4 +51,4 @@ Hermann Goring was German Minister of Air.
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

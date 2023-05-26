@@ -1,12 +1,17 @@
 ---
-title: "321 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 658
+doc_date: '1939-11-01'
+doc_num: 321
+doc_order: 321
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-01
+vol_title: 'Volume 2: 1939'
 ---
-
-# 321 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 611 LONDON, 1 November 1939, 8.11 p.m.
 
@@ -16,7 +21,7 @@ Does Casey' know anything of our exchange of cables re Washington and in particu
 
 BRUCE
 
-_
+ _
 
 1 R.G. Casey, Minister for Supply and Development.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

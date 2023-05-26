@@ -1,18 +1,21 @@
 ---
-title: "237 MINUTE, AUDLAND TO SNELLING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10102
+doc_date: '1967-10-09'
+doc_num: 237
+doc_order: 237
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 20/54]'
+title: MINUTE, AUDLAND TO SNELLING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-10-09
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 237 MINUTE, AUDLAND TO SNELLING
-
-UKNA: FCO 20/54 
 
 London, 9 October 1967
 
-**Anglo-Australian Trade Talks**
+ **Anglo-Australian Trade Talks**
 
 I submit a note reporting on the first stage of the talks with an Australian delegation led by Sir A. Westerman. From this Department’s point of view, the most important point was the Australians’ wilful refusal to recognise that we are not seeking for them in our negotiations with the EEC countries anything more than transitional arrangements.
 
@@ -26,3 +29,5 @@ I submit a note reporting on the first stage of the talks with an Australian del
 
 
 4\. I submit a draft to Sir R. Powell accordingly.
+
+[UKNA: FCO 20/54]

@@ -1,14 +1,19 @@
 ---
-title: "211 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 977
+doc_date: '1940-05-05'
+doc_num: 211
+doc_order: 211
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2991]'
+title: Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-05
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 211 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
-
-## Cablegram unnumbered WELLINGTON, 5 May 1940, 8 p.m.
+Cablegram unnumbered WELLINGTON, 5 May 1940, 8 p.m.
 
 We have now given preliminary consideration to the Secretary of State's Most Secret telegram 130 (Australia 138) of 4th May. [1] We find some difficulty in reconciling the statement contained in the Secretary of State's telegram 122 (Australia 129) of 30th April [2] that 'unless the situation shows marked improvement' convoys U.S.2 and U.S.3 should be diverted, with the recommendation contained in paragraph 16 of telegram now under consideration that 'in the present circumstances diversion is unnecessary and that the convoys should adhere to their programme'. We are, however,. content for our part to allow the convoy U.S.3 to proceed as originally arranged subject- (1) to our being kept most closely informed as to developments as they occur;
 
@@ -18,7 +23,7 @@ We have now given preliminary consideration to the Secretary of State's Most Sec
 
 Before advising His Majesty's Government in the United Kingdom to the above effect we should be glad to have the views of His Majesty's Government in the Commonwealth of Australia. [3]
 
-_
+ _
 
 1 Document 210.
 
@@ -30,4 +35,4 @@ CP290/6, 33). The reply was sent the same day (see Document 215, note 4).
 
 _
 
-_ [FA: A3195, 1.2991]_
+ _[FA: A3195, 1.2991]_

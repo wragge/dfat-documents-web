@@ -1,12 +1,17 @@
 ---
-title: "286 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2577
+doc_date: '1943-09-27'
+doc_num: 286
+doc_order: 286
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/85/2/1]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-09-27
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 286 Bruce to Curtin
 
 Cablegram 173[A] LONDON, 27 September 1943
 
@@ -20,7 +25,7 @@ While it may well be that we would after further consultation have indicated our
 
 BRUCE
 
-_
+ _
 
 1 These cablegrams of 16 September (on file AA:A989, 44/85/2/1) advised that the U.K. Govt had conveyed to the U.S. and Soviet Govts the text of a draft joint declaration proclaiming the 1938 union of Germany and Austria null and void and favouring the re- establishment of a free and independent Austria.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A989, 44/85/2/1]_
+ _[AA:A989, 44/85/2/1]_

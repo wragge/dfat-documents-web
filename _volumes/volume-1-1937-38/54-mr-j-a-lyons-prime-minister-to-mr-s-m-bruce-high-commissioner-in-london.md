@@ -1,13 +1,21 @@
 ---
-title: "54 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 1: 1937-38"
-doc_id: 54
+doc_date: '1937-08-02'
+doc_num: 54
+doc_order: 54
+naa_refs:
+- naa_barcode: 232314
+  naa_control_symbol: '308'
+  naa_series: A2937
+  reference: '[FA : A2937, YAMPI SOUND]'
+- naa_barcode: 96360
+  naa_control_symbol: E373/1/3
+  naa_series: A461
+  reference: '[AA : A461, E373/1/3]'
+title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-08-02
-barcode: 96360
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 54 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 2 August 1937,
 
@@ -19,7 +27,7 @@ Preliminary survey which has been made of accessible deposits in Australia sugge
 
 Government at present considering the whole matter and would appreciate urgent advice as to whether from the point of view of Empire, consideration of Commonwealth Government should be given to some restriction on exports of iron ore from Australia to Japan and whether any portion of output should be deviated to meet Empire requirements.
 
-_
+ _
 
 1 Printed below as an editorial attachment.
 
@@ -41,4 +49,4 @@ BRUCE
 
 _
 
-_ [ [AA : A461, E373/1/3](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=96360) ] LYONS_
+ _[AA : A461, E373/1/3] LYONS_

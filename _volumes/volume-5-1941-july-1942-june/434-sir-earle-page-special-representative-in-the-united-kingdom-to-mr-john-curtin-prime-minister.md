@@ -1,12 +1,18 @@
 ---
-title: "434 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2188
+doc_date: '1942-03-21'
+doc_num: 434
+doc_order: 435
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.11694]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-21
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 434 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram P7[3] [1] LONDON, 21 March 1942, 11.38 a.m.
 
@@ -20,7 +26,7 @@ Suggest you instruct Evatt [6] to take up the matter immediately with the Combin
 
 PAGE
 
-_
+ _
 
 1 The copy received in Canberra was numbered P72 but the London copy (on file AA:A2937, Far East position 1942) was subsequently renumbered P73.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.11694]_
+ _[AA:A3195, 1942, 1.11694]_

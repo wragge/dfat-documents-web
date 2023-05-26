@@ -1,12 +1,18 @@
 ---
-title: "189 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1943
+doc_date: '1941-12-13'
+doc_num: 189
+doc_order: 190
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.27999]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-13
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 189 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 124 LONDON, 13 December 1941, 6.10 p.m.
 
@@ -28,7 +34,7 @@ In an attempt to clarify our minds as to the wide questions that have to be cons
 
 BRUCE
 
-_
+ _
 
 1 Special Representative in the United Kingdom.
 
@@ -44,4 +50,4 @@ _
 
 _
 
-_ [AA:A3195, 1941, 1.27999]_
+ _[AA:A3195, 1941, 1.27999]_

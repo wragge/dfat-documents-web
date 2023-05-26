@@ -1,12 +1,17 @@
 ---
-title: "285 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3316
+doc_date: '1945-10-01'
+doc_num: 285
+doc_order: 285
+naa_refs:
+- naa_barcode: 193552
+  naa_control_symbol: PI46/2/7/1
+  naa_series: A1067
+  reference: '[AA : A1067, P146/2/7/1]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-01
+vol_title: 'Volume 8: 1945'
 ---
-
-# 285 Addison to Commonwealth Government
 
 Cablegram D1843 LONDON, 1 October 1945, 11.15 p.m.
 
@@ -28,10 +33,10 @@ The following are the salient facts of the political situation which has develop
 
 (f) The Netherlands Embassy here have issued a statement declaring that Soekarno and his followers are Japanese puppets and calling attention to the 1942 Declaration by Queen Wilhelmina envisaging equality of status for component parts of the Kingdom of the Netherlands after liberation.
 
-_
+ _
 
 1 On file AA : A1838/2, 403/2/1/1.
 
 _
 
-_ [AA : A1067, P146/2/7/1]_
+ _[AA : A1067, P146/2/7/1]_

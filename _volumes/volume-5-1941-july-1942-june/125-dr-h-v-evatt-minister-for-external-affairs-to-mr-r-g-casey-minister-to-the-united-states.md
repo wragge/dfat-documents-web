@@ -1,12 +1,18 @@
 ---
-title: "125 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1879
+doc_date: '1941-11-25'
+doc_num: 125
+doc_order: 126
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister
+  to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-25
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 125 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States
 
 Cablegram 1009 [1] CANBERRA, 25 November 1941
 
@@ -28,7 +34,7 @@ I realise difficulty of your position because Commonwealth is not a party to tal
 
 EVATT
 
-_
+ _
 
 1 Repeated to the High Commissioner in the United Kingdom as no.
 
@@ -56,4 +62,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

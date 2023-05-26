@@ -1,14 +1,21 @@
 ---
-title: "175 Minute from Anderson to Scully"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9044
+doc_date: '1981-12-09'
+doc_num: 175
+doc_order: 175
+naa_refs:
+- naa_barcode: 11557133
+  naa_control_symbol: 1982/1381 PART 3
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 8211381, iii]'
+title: Minute from Anderson to Scully
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-12-09
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 175 Minute from Anderson to Scully
-
-## Canberra, 9 December 1981
+Canberra, 9 December 1981
 
 ## CER Dairy Products
 
@@ -42,4 +49,4 @@ It might assist progress if you talk to Mr Duthie on
 
 
 
-_[NAA: A1313/113, 8211381, iii]_
+ _[NAA: A1313/113, 8211381, iii]_

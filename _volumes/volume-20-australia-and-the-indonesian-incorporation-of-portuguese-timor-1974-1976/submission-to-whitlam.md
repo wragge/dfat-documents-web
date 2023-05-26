@@ -1,12 +1,23 @@
 ---
-title: "Submission to Whitlam"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8343
+doc_date: '1973-05-30'
+doc_num: 0
+doc_order: 504
+naa_refs:
+- naa_barcode: 547387
+  naa_control_symbol: 3006/4/3 PART 4
+  naa_series: A1838
+  reference: '[NAA: A1838, 3006/4/3, iv]'
+- naa_barcode: 591527
+  naa_control_symbol: 49/2/1/1 PART 2
+  naa_series: A1838
+  reference: '[On file NAA: A1838, 49/2/1/1, ii.]'
+title: to Whitlam
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1973-08-06
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# Submission to Whitlam
 
 Canberra, [30 May] 1973
 
@@ -21,7 +32,7 @@ In view of recent press and parliamentary comment, you may be interested in the 
   4. Last year, on April Fools' Day, the Jakarta daily newspaper _Sinar Harapan_ published a hoax story stating that rebels had proclaimed the independence of Portuguese Timor. Mr Malik was asked by the press about this report. He replied that, if there were a nationalist movement in Portuguese Timor, Indonesia would support it. He was obviously speaking in a purely hypothetical context. Mr Malik often speaks to the press off the cuff and without forethought; quite often his statements are subsequently denied. In this case we interpret his remarks as meaning that Indonesia--or at least its Foreign Minister-feels compelled to take an anti-colonial stance if circumstances force it into having to take an attitude. But Indonesia would much prefer such questions not to arise in relation to Portuguese Timor.
   5. We would expect the Indonesian Government to be embarrassed and irritated if the present attempt to embarrass the Australian Government over the question leads to Indonesia in tum being asked to take a public position.
   6. Unlike the situation pertaining in Portugal's colonies in Africa, there is at present no serious nationalist movement in Portuguese Timor. If one were to develop there, Indonesia would be principally concerned with the potential effect on Indonesia's own security. Clearly the prospect of prolonged instability or of a weak government open to Chinese or other influences hostile to Indonesia would be unwelcome to Jakarta. The people of Portuguese Timor would probably be marginally better off under Indonesian rule than under any other conceivable dispensation (the Indonesian half of the island is better run than the Portuguese colony and its prospects as a separate entity would be poor). However, Indonesia would be very reluctant to take over, lest this led to fears of Indonesian expansionism being revived in Malaysia and Papua New Guinea.
-  7. In other words, the _status quo_ in Portuguese Timor suits Indonesian interests.1
+  7. In other words, the _status quo_ in Portuguese Timor suits Indonesian interests.[1](#f1)
 
 
 
@@ -31,8 +42,6 @@ First Assistant Secretary
 
 South Asia Division
 
-_[NAA: A1838, 3006/4/3, iv]_
+ _[NAA: A1838, 3006/4/3, iv]_
 
-  * 1 This view was somewhat qualified by Jan Arriens of the Jakarta Embassy, who indicated that 'it would probably be more correct to say that the _status quo_ in Portuguese Timor is acceptable to Indonesia, rather than describing it as suiting Indonesian interests ... [l]f there were a well-established liberation movement that had attracted international attention, Indonesia would lend support. Even so, Indonesia would be extremely careful about lending material support, either overt or clandestine, until they judged that international opinion had reached the point where Indonesia's motives could no longer be impugned' (Memorandum to Canberra, 6 August 1973). [NAA: A1838, 49/2/1/1, ii.] 
-
-
+  * 1 This view was somewhat qualified by Jan Arriens of the Jakarta Embassy, who indicated that 'it would probably be more correct to say that the _status quo_ in Portuguese Timor is acceptable to Indonesia, rather than describing it as suiting Indonesian interests ... [l]f there were a well-established liberation movement that had attracted international attention, Indonesia would lend support. Even so, Indonesia would be extremely careful about lending material support, either overt or clandestine, until they judged that international opinion had reached the point where Indonesia's motives could no longer be impugned' (Memorandum to Canberra, 6 August 1973). [On file NAA: A1838, 49/2/1/1, ii.]

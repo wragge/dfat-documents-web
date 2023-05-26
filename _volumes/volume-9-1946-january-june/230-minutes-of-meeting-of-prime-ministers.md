@@ -1,12 +1,17 @@
 ---
-title: "230 Minutes of Meeting of Prime Ministers"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3742
+doc_date: '1946-05-03'
+doc_num: 230
+doc_order: 230
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:CAB 133/86]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-03
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 230 Minutes of Meeting of Prime Ministers
 
 PMM(46) 11th Meeting, Confidential Annex LONDON, 3 May 1946
 
@@ -52,7 +57,7 @@ MR. NOEL-BAKER said that he had been in the United States when the Lilienthal Re
 
 MR. ATTLEE said that the general feeling of the meeting seemed to be that the members of the British Commonwealth should lend their support to the establishment of a scheme for international control under the aegis of the United Nations Organisation. At the same time, however, it had to be recognised that the successful working out of such a scheme was problematical, and it was essential that we should go ahead in the meantime with research and development and with the exploitation of raw material resources within the British Commonwealth. For this purpose it was desirable that all the raw material possibilities in the Commonwealth should be fully surveyed, and he hoped also that Dominion Governments would be willing to help forward the United Kingdom programme of research and development by lending scientists to serve for agreed periods with the team at Harwell. He thought there was general agreement that we should do all we could to co-operate together in these matters.
 
-_
+ _
 
 1 On 7 January Byrnes appointed a committee (the Secretary of State's Committee on Atomic Energy), chaired by Acheson, 'to study the subject of controls and safeguards necessary to protect this Government so that the persons hereafter selected to represent the United States on the [Atomic Energy] Commission can have the benefit of the study'. This Committee in turn appointed a Board of Consultants, chaired by the Chairman of the Tennessee Valley Authority, David Lilienthal. The Board's report, A Report on the International Control of Atomic Energy, March 16 1946, known informally as 'The Acheson-Lilienthal Report', was presented to Byrnes on 17 March and released On 28 March. See Foreign Relations of the United States, 1946, vol. I pp. 761-4.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [PRO:CAB 133/86]_
+ _[PRO:CAB 133/86]_

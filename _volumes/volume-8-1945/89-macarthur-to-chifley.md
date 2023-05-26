@@ -1,14 +1,19 @@
 ---
-title: "89 MacArthur to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3120
+doc_date: '1945-05-20'
+doc_num: 89
+doc_order: 89
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2313]'
+title: MacArthur to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-05-20
+vol_title: 'Volume 8: 1945'
 ---
 
-# 89 MacArthur to Chifley
-
-## Cablegram BXC87 [GENERAL HEADQUARTERS, SOUTHWEST PACIFIC AREA,
+Cablegram BXC87 [GENERAL HEADQUARTERS, SOUTHWEST PACIFIC AREA,
 
 MANILA], 20 May 1945
 
@@ -22,10 +27,10 @@ Australian authorities have been kept fully advised of my operational plans. The
 
 There are no specific plans so far as I know for employment of Australian troops after the Borneo Campaign. The subject of operations in the Pacific is now under intense consideration in Washington and London. I do not know whether Australian troops are contemplated for use to the north. Consideration is being given by the Combined Chiefs of Staff to a proposal to turn over to Great Britain full responsibility for that part of the Southwest Pacific Area which lies south of the Philippines. In that event undoubtedly all Australian formations would come under British Command for ensuing operations to the south. Your manpower problems are appreciated in this.
 
-_
+ _
 
 1 Document 88.
 
 _
 
-_ [AA : A5954, BOX 2313]_
+ _[AA : A5954, BOX 2313]_

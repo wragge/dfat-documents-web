@@ -1,12 +1,18 @@
 ---
-title: "400 Commonwealth Government to Lord Caldecote, 400 U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1166
+doc_date: '1940-06-18'
+doc_num: 400
+doc_order: 400
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, 0.3900]'
+title: Commonwealth Government to Lord Caldecote, 400 U.K. Secretary of State for
+  Dominion Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-18
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 400 Commonwealth Government to Lord Caldecote, 400 U.K. Secretary of State for Dominion Affairs
 
 Cablegram 303 18 June 1940,
 
@@ -26,8 +32,8 @@ On the other hand, it is necessary to weigh whether Japan would risk war with th
 
 The earliest possible advice would be appreciated.
 
-_
+ _
 
 _
 
-_ [FA: A3196, 0.3900]_
+ _[FA: A3196, 0.3900]_

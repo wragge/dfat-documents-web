@@ -1,12 +1,18 @@
 ---
-title: "238 Officer to Department of External Affairs"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6014
+doc_date: '1949-02-02'
+doc_num: 238
+doc_order: 238
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:OUTWARD ORIGINAL (TS) 1948-50]'
+title: Officer to Department of External Affairs
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-02-02
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 238 Officer to Department of External Affairs
 
 Cablegram 52 NANKING, 2 February 1949, 6.15 p.m.
 
@@ -30,10 +36,10 @@ Within the last two days Chiang Kai-Shek has given him a written assurance that 
 
 Perhaps at a later date should negotiations be delayed he may ask Doctor Evatt to take the matter further and consider the possibility of the United Nations offering its Good Offices.
 
-_
+ _
 
 1 Document 237 2 Document 234 3 Words in square brackets inserted from copy on file AA: A4145/1, RM5.
 
 _
 
-_ [FA:OUTWARD ORIGINAL (TS) 1948-50]_
+ _[FA:OUTWARD ORIGINAL (TS) 1948-50]_

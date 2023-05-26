@@ -1,14 +1,19 @@
 ---
-title: "158 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 924
+doc_date: '1940-04-19'
+doc_num: 158
+doc_order: 158
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2564]'
+title: Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-19
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 158 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
-
-## Cablegram unnumbered WELLINGTON, 19 April 1940, 5.35 a.m.
+Cablegram unnumbered WELLINGTON, 19 April 1940, 5.35 a.m.
 
 The New Zealand Government propose to begin negotiations with the United Kingdom Government for renewal with appropriate adjustments of Purchasing Agreements for cheese, butter and meat which are at present current. Accordingly a telegram has been sent to the Secretary of State for Dominion Affairs [1] suggesting that discussions should commence forthwith.
 
@@ -18,7 +23,7 @@ Previous negotiations were assisted by the co-operation of Australian and New Ze
 
 It would therefore be appreciated if you will let me have your views on the suggestion for continued collaboration in negotiations which it now seems appropriate to commence. If you approve I could inform you of the salient points for discussion as we see them. [3]
 
-_
+ _
 
 1 Anthony Eden.
 
@@ -30,4 +35,4 @@ A571, 40/1848, i). For further information on this topic see files AA: CP13/1, L
 
 _
 
-_ [FA: A3195, 1.2564]_
+ _[FA: A3195, 1.2564]_

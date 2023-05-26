@@ -1,14 +1,19 @@
 ---
-title: "75 Eggleston to Evatt3"
-volume: "Volume 8: 1945"
-doc_id: 3106
+doc_date: '1945-04-20'
+doc_num: 75
+doc_order: 75
+naa_refs:
+- naa_barcode: 1484502
+  naa_control_symbol: 1943/WASHINGTON
+  naa_series: A4231
+  reference: '[AA : A4231/2, WASHINGTON 1943, 1-19]'
+title: Eggleston to Evatt3
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-04-20
+vol_title: 'Volume 8: 1945'
 ---
 
-# 75 Eggleston to Evatt3
-
-## Dispatch 2/45 WASHINGTON, 20 April 1945
+Dispatch 2/45 WASHINGTON, 20 April 1945
 
 The death of President Roosevelt was one of those events which illustrate the extraordinary place which personality may play in human affairs. [1] The world is in the midst of an acute crisis.
 
@@ -56,7 +61,7 @@ It is not necessary, of course, to be gloomy. It is perhaps true that the gulf l
 
 F. W. EGGLESTON
 
-_
+ _
 
 1 Roosevelt died on 12 April at Warm Springs, Georgia.
 
@@ -68,4 +73,4 @@ _
 
 _
 
-_ [AA : A4231/2, WASHINGTON 1943, 1-19]_
+ _[AA : A4231/2, WASHINGTON 1943, 1-19]_

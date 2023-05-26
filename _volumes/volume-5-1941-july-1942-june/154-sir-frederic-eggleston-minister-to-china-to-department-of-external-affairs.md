@@ -1,12 +1,17 @@
 ---
-title: "154 Sir Frederic Eggleston, Minister to China, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1908
+doc_date: '1941-12-02'
+doc_num: 154
+doc_order: 155
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Sir Frederic Eggleston, Minister to China, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-02
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 154 Sir Frederic Eggleston, Minister to China, to Department of External Affairs
 
 Cablegram 21 CHUNGKING, 2 December 1941, 8.15 p.m.
 
@@ -20,7 +25,7 @@ Disintegration of democratic front would not necessarily precipitate Chinese col
 
 I consider a strong attitude to Japan by ourselves and Americans is best method to check Japanese aggression and any signs of weakening will produce immediate Japanese advance. Presentation of the original American proposals in such a weak form has done considerable damage and greatly impaired Chinese confidence. Might not Casey [5] stress this point, as America originated the economic blockade, and urge strong attitude to Japan and fulfilment of promises to China. This is a matter in which Australia might be in a position to do some good.
 
-_
+ _
 
 1 Dr Quo Tai-chi.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

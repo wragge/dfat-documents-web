@@ -1,12 +1,17 @@
 ---
-title: "341 Noel-Baker to Australian Government"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7056
+doc_date: '1948-07-28'
+doc_num: 341
+doc_order: 341
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1948, I.12211]'
+title: Noel-Baker to Australian Government
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-07-28
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 341 Noel-Baker to Australian Government
 
 Cablegram H319 (extract), LONDON, 28 July 1948, 11.07 p.m.
 
@@ -16,10 +21,10 @@ CONFIDENTIAL
 
 3\. As regards the rest of the sterling area deficit Bissell said that in view of the legislative history of E.R.P. it would be difficult to accept a simple statement of the United Kingdom dollar balance of payments which included the rest of the sterling area deficit as such. United States officials however had been considering other ways of meeting it. One possibility which occurred to them was to set off the colonial dollar surplus against the rest of the sterling area deficit. Another was by financing the trade or participating countries with countries in the rest of the sterling area. Under an arrangement of the latter kind France would buy from a sterling dominion, the dollar equivalent of these purchases would be added to the United Kingdom dollar application in return for the United Kingdom making an equivalent amount of sterling available to France.
 
-_ [1] Paul G. Hoffman, Administrator, US Economic Cooperation Administration.
+ _[1] Paul G. Hoffman, Administrator, US Economic Cooperation Administration.
 
 [2] Richard M. Bissell, Director of Programs, Operations and Supply, US Economic Cooperation Administration.
 
 _
 
-_ [AA : A3195, 1948, I.12211]_
+ _[AA : A3195, 1948, I.12211]_

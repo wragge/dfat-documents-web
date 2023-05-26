@@ -1,12 +1,17 @@
 ---
-title: "249 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1015
+doc_date: '1940-05-17'
+doc_num: 249
+doc_order: 249
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, [1.3311]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 249 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 333 LONDON, 17 May 1940, 1.52 a.m.
 
@@ -20,7 +25,7 @@ In my view seriousness of the position cannot be exaggerated.
 
 BRUCE
 
-_
+ _
 
 1 Winston S. Churchill.
 
@@ -34,4 +39,4 @@ M100, May 1940.
 
 _
 
-_ [FA: A3195, [1.3311] [4]]_
+ _[FA: A3195, [1.3311] [4]]_

@@ -1,12 +1,17 @@
 ---
-title: "364 Hodgson to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 3011
+doc_date: '1944-11-28'
+doc_num: 364
+doc_order: 364
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, 1.42421]'
+title: Hodgson to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-28
+vol_title: 'Volume 7: 1944'
 ---
-
-# 364 Hodgson to Evatt
 
 Cablegram 1163 [1] [CHICAGO], 28 November 1944, 9.34 p.m.
 
@@ -38,7 +43,7 @@ This gives us reasonable time to develop and obtain aircraft and to organise our
 
 6\. General. I feel I have been too long here and it is clear that the Conference will last another week at least, but I think I should now remain to the end as the technical people have gone and only McVey and I remain to do all the work. In the meantime there has not yet been debate on the questions in dispute mentioned in this above [8] and this is sure to take time. I am also with six others on the main drafting Committee which apart from day to day work will put the agreed conventions and annexes in the final form.
 
-_
+ _
 
 1 Sent through the Legation in Washington.
 
@@ -58,4 +63,4 @@ _
 
 _
 
-_ [AA:A3195, 1944, 1.42421]_
+ _[AA:A3195, 1944, 1.42421]_

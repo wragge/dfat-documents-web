@@ -1,14 +1,19 @@
 ---
-title: "46 Australian Delegation, United Nations, to Evatt"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3894
+doc_date: '1946-07-31'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.19308/9]'
+title: Australian Delegation, United Nations, to Evatt
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-07-31
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 46 Australian Delegation, United Nations, to Evatt
-
-## Cablegram United Nations 319 NEW YORK, 31 July 1946, 7.12 p.m.
+Cablegram United Nations 319 NEW YORK, 31 July 1946, 7.12 p.m.
 
 Security 118.
 
@@ -32,7 +37,7 @@ Under (a) relevant facts would be not only the professions of the applicant, but
 
 7\. The committee adjourned to Thursday afternoon.
 
-_
+ _
 
 1 i.e. the membership committee of the U.N. Security Council.
 
@@ -46,4 +51,4 @@ Consideration of the letter was deferred but the item was retained on the agenda
 
 _
 
-_ [AA:A3195, 1946, 1.19308/9]_
+ _[AA:A3195, 1946, 1.19308/9]_

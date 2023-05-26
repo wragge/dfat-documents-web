@@ -1,14 +1,17 @@
 ---
-title: "346 LETTER, DOWNER TO AITKEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10212
+doc_date: '1972-11-22'
+doc_num: 346
+doc_order: 346
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NAA: M 1002, 284]'
+title: LETTER, DOWNER TO AITKEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 346 LETTER, DOWNER TO AITKEN
-
-NAA: M 1002, 284
 
 London, 22 November 1972
 
@@ -20,6 +23,8 @@ Whatever the result of tonight’s Division in the House of Commons, I should im
 
 For all this, as an Australian public man, and also of one who loves England and intends to act in future as an unofficial ambassador between the two countries, I am tremendously grateful to you and your virile, patriotic, John Bull newspapers.
 
-Everything you wrote in your initial article on 16 November is true. 1 You are just so right to warn of the ultimate consequences, as in various speeches I have also done, that if British Governments continue to act towards Canadians, Australians, and New Zealanders in this manner The Queen will lose her throne in our countries. Should this happen, it would not only be an historical tragedy, but a condemnation of Conservative policies which historians of the future would never forgive.
+Everything you wrote in your initial article on 16 November is true. [1](#f1) You are just so right to warn of the ultimate consequences, as in various speeches I have also done, that if British Governments continue to act towards Canadians, Australians, and New Zealanders in this manner The Queen will lose her throne in our countries. Should this happen, it would not only be an historical tragedy, but a condemnation of Conservative policies which historians of the future would never forgive.
 
-1  ‘Make way for our friends Mr Heath, or reap the whirlwind’, _Daily Express_, 16 November 1972. 
+1  ‘Make way for our friends Mr Heath, or reap the whirlwind’, _Daily Express_ , 16 November 1972. 
+
+[NAA: M 1002, 284]

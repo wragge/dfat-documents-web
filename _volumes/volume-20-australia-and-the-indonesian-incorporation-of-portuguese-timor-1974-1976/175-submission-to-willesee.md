@@ -1,12 +1,19 @@
 ---
-title: "175 Submission to Willesee"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8013
+doc_date: '1975-08-21'
+doc_num: 175
+doc_order: 174
+naa_refs:
+- naa_barcode: 1505743
+  naa_control_symbol: 3038/7/1 PART 2
+  naa_series: A1838
+  reference: '[NAA: Al838, 303817/1, ii]'
+title: Submission to Willesee
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-08-21
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 175 Submission to Willesee
 
 Canberra, 21 August 1975
 
@@ -44,4 +51,4 @@ First Assistant Secretary
 
 South-East Asia and PNG Division
 
-_[NAA: Al838, 303817/1, ii]_
+ _[NAA: Al838, 303817/1, ii]_

@@ -1,12 +1,17 @@
 ---
-title: "94 Cablegram From Spender to Casey"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8445
+doc_date: '1951-06-18'
+doc_num: 94
+doc_order: 94
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A6364
+  reference: '[NAA : A6364, WH1951/2 IN]'
+title: Cablegram From Spender to Casey
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1951-06-18
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 94 Cablegram From Spender to Casey
 
 Cablegram, Washington, 18 June 1951
 
@@ -22,8 +27,8 @@ I saw Dulles this afternoon and had a general talk on the outcome of his talks i
 
 [matter omitted]
 
-_ 1 The Marquess of Salisbury, R. A. J. Gascoyne-Cecil.
+ _1 The Marquess of Salisbury, R. A. J. Gascoyne-Cecil.
 
 _
 
-_ [NAA : A6364, WH1951/2 IN]_
+ _[NAA : A6364, WH1951/2 IN]_

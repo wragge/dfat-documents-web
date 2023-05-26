@@ -1,12 +1,18 @@
 ---
-title: "116 Note by Brown of Conversation between Curtin and Roosevelt"
-volume: "Volume 7: 1944"
-doc_id: 2763
+doc_date: '1944-04-25'
+doc_num: 116
+doc_order: 116
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FDR:PRESIDENT''S PAPERS, MAP ROOM COLLECTION, NAVAL AIDE''S FILES,
+    PACIFIC WAR COUNCIL. FOLDER #2, SEPTEMBER 1942 - APRIL 1944]'
+title: Note by Brown of Conversation between Curtin and Roosevelt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-04-25
+vol_title: 'Volume 7: 1944'
 ---
-
-# 116 Note by Brown of Conversation between Curtin and Roosevelt
 
 HOBCAW [1], 25 April 1944
 
@@ -24,10 +30,10 @@ that a group had discussed the future of the white man in the Pacific and that t
 
 W. BROWN
 
-_ PACIFIC WAR COUNCIL. FOLDER #2, SEPTEMBER 1942 - APRIL 1944]
+ _
 
 1 South Carolina.
 
 _
 
-_ [FDR:PRESIDENT'S PAPERS, MAP ROOM COLLECTION, NAVAL AIDE'S FILES,_
+ _[FDR:PRESIDENT'S PAPERS, MAP ROOM COLLECTION, NAVAL AIDE'S FILES, PACIFIC WAR COUNCIL. FOLDER #2, SEPTEMBER 1942 - APRIL 1944]_

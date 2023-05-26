@@ -1,12 +1,17 @@
 ---
-title: "79 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1833
+doc_date: '1941-10-11'
+doc_num: 79
+doc_order: 80
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 178]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-10-11
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 79 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 848 WASHINGTON, 11 October 1941, 8.35 p.m.
 
@@ -20,7 +25,7 @@ SECRET
 
 4\. In reply to my query regarding long range economic aims (points four and five of Churchill-Roosevelt Atlantic declaration) President said he wanted to reach situation of 'non- discrimination' in trade between United States and British countries. He realised this meant the end of Ottawa Agreements but he believed that the target he was aiming at meant a great deal more for world and for British countries than limited pre-war bilateralism on the Ottawa model. [9] (I am on the track of further explanatory information on the above from American and British sources here which I will telegraph or air-mail shortly.) President went on to expose his views on objectives in respect to basic commodities, wheat, meat etc. by means of Governments holding surplus stocks ('ever normal granary') and so ensuring reasonable supplies and reasonable prices to producers and consumers.
 
-_
+ _
 
 1 Franklin D. Roosevelt.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 178]_
+ _[AA:A981, JAPAN 178]_

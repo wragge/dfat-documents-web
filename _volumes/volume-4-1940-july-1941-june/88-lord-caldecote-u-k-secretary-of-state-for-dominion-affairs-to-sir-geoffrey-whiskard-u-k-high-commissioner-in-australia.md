@@ -1,14 +1,20 @@
 ---
-title: "88 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1319
+doc_date: '1940-08-30'
+doc_num: 88
+doc_order: 88
+naa_refs:
+- naa_barcode: 179222
+  naa_control_symbol: NEW C 1 PART 3
+  naa_series: A981
+  reference: '[AA:A981, NEW CALEDONIA 1, iii]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-30
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 88 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
-
-## Cablegram 291 LONDON, 30 August 1940, 11.10 p.m.
+Cablegram 291 LONDON, 30 August 1940, 11.10 p.m.
 
 Received 31 August 1940
 
@@ -26,7 +32,7 @@ If there were disturbances in the New Hebrides [sic] [8] the ADELAIDE could perh
 
 We should be grateful if you would explain the position at once to the Commonwealth Government and ask them to consider urgently, in the light of any reports which they may have received from Ballard [9] in New Caledonia or from the High Commissioner for the Western Pacific [10] now en route to Noumea, whether they could take action on the lines suggested.
 
-_
+ _
 
 1 On file AA:A981, France 32, i. This cablegram, actually dated 19 August, reported that the U.K. Govt had offered full support to the French Resident Commissioner in the New Hebrides, Henri Sauter, who had pledged that he and his administration would continue to co-operate with the United Kingdom in the struggle against Germany.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [AA:A981, NEW CALEDONIA 1, iii]_
+ _[AA:A981, NEW CALEDONIA 1, iii]_

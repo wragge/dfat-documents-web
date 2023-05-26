@@ -1,12 +1,17 @@
 ---
-title: "234 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3265
+doc_date: '1945-09-04'
+doc_num: 234
+doc_order: 234
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA : A1838/2, 377/3/3/2]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-04
+vol_title: 'Volume 8: 1945'
 ---
-
-# 234 Addison to Commonwealth Government
 
 Cablegram 352 LONDON, 4 September 1945, 8.42 p.m.
 
@@ -26,7 +31,7 @@ From our knowledge of Portuguese mentality, we fear that even though they might 
 
 5\. For these reasons, we would not feel justified in insisting on the sailing of Portuguese forces being delayed even if we had the power to do so. The position as regards these forces is that the sloop 'Bartolomeu Dias' is now at Colombo but apparently needs dry docking which would delay her for some days. Even if she sails at once without docking, the earliest date of arrival in Timor is estimated as 19th September. The two next sloops are due at Colombo about 12th September and could not possibly reach Timor before 25th September. The transport 'Angola' left Lourenco Marques on 1st September. If she proceeds via Colombo as she was advised to do, the earliest date of arrival at Timor would be 26th September.
 
-_
+ _
 
 1 Document 231.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA : A1838/2, 377/3/3/2]_
+ _[AA : A1838/2, 377/3/3/2]_

@@ -1,14 +1,17 @@
 ---
-title: "89 TELEGRAM, BRITISH HIGH COMMISSION TO COMMONWEALTH OFFICE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9954
+doc_date: '1968-01-12'
+doc_num: 89
+doc_order: 89
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 13/2801]'
+title: TELEGRAM, BRITISH HIGH COMMISSION TO COMMONWEALTH OFFICE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-01-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 89 TELEGRAM, BRITISH HIGH COMMISSION TO COMMONWEALTH OFFICE
-
-UKNA: PREM 13/2801
 
 Canberra, 12 January 1968
 
@@ -16,7 +19,7 @@ Canberra, 12 January 1968
 
 Following for Prime Minister from Commonwealth Secretary.
 
-I outlined our proposals to Gorton1 and other Ministers and Officials on Defence and Foreign Policy Committees this morning.2 In addition to my general presentation I explained that the idea of a Five Power Conference was the Tunku’s suggestion which I had undertaken to put to the other Governments concerned. I made it clear that such a conference could not take place before our announcement and that in any case much preparation was needed first. I gave it as my personal view that there might be usefulness in it: for example, it might help to persuade the Governments of Malaysia and Singapore to cooperate together especially in the field of air defence. It would also provide the opportunity for considering whether and how Australia and New Zealand could continue and indeed increase their contribution to the security of the area as a whole. I stressed that our new proposals represented an historical re-adjustment in Britain’s world role. This was the moment of final acceptance that we must tailor this role to our economic resources in order that Britain could recover her strength which was in the interests of her Commonwealth friends as much as her own.
+I outlined our proposals to Gorton[1](#f1) and other Ministers and Officials on Defence and Foreign Policy Committees this morning.[2](#f2) In addition to my general presentation I explained that the idea of a Five Power Conference was the Tunku’s suggestion which I had undertaken to put to the other Governments concerned. I made it clear that such a conference could not take place before our announcement and that in any case much preparation was needed first. I gave it as my personal view that there might be usefulness in it: for example, it might help to persuade the Governments of Malaysia and Singapore to cooperate together especially in the field of air defence. It would also provide the opportunity for considering whether and how Australia and New Zealand could continue and indeed increase their contribution to the security of the area as a whole. I stressed that our new proposals represented an historical re-adjustment in Britain’s world role. This was the moment of final acceptance that we must tailor this role to our economic resources in order that Britain could recover her strength which was in the interests of her Commonwealth friends as much as her own.
 
 2\. Gorton said that these proposals filled him and his colleagues with anxiety and dismay. We would be creating a partial military vacuum in the Far East in an area where the United States had hitherto assumed no responsibility. We would be giving up our ability to curb brush fire wars, which could in turn escalate to great power conflicts, without any guarantee of an alternative deterrent.
 
@@ -24,7 +27,7 @@ I outlined our proposals to Gorton1 and other Ministers and Officials on Defence
 
 4\. Hasluck (External Affairs) stressed that this was the third occasion since confrontation that they had been asked to adopt a new basis for their defence planning. He thought Britain had failed to recognize that there were two sides to the Australian approach: they were not simply concerned with the territorial defence of the Australian continent but with global security and in particular the risk of brush fire war in Asia becoming the prelude to a larger conflagration. This was a greater threat than any in Europe. He also emphasized the importance of the effect of our new decisions on Anglo-American cooperation which in tum affected Australia.
 
-5\. Hasluck (and other Ministers) was greatly perturbed by Denis Healey’s statement in _ The Sunday Times_ that by 1971 Britain’s contribution towards the security and stability of independent States outside Europe would be no greater than that of any other European power. They saw this as an expression of Britain’s determination to withdraw into Europe and as negativing what I had told them about our general capability and our continuing interest in Asia and Far Eastern security. They were not, like the Tunku, resigned nor, like Lee, storming: but they were facing the cold reality that until they could see what our general capability really meant they had nothing but words to back up our assurances that we would come to their assistance if attacked. Our new policy did not give the credible assurance which Asian countries in the region needed if they were to have the time to develop a satisfactory system of regional security. A continuing British presence would make a unique contribution to this: Viet Nam had showed that the sole support of a super power was not sufficient. Our new policy would reduce Britain to a status a little less than Italy and a little more than Sweden. We would be damaging regional security and thus the prospects for world peace.
+5\. Hasluck (and other Ministers) was greatly perturbed by Denis Healey’s statement in _The Sunday Times_ that by 1971 Britain’s contribution towards the security and stability of independent States outside Europe would be no greater than that of any other European power. They saw this as an expression of Britain’s determination to withdraw into Europe and as negativing what I had told them about our general capability and our continuing interest in Asia and Far Eastern security. They were not, like the Tunku, resigned nor, like Lee, storming: but they were facing the cold reality that until they could see what our general capability really meant they had nothing but words to back up our assurances that we would come to their assistance if attacked. Our new policy did not give the credible assurance which Asian countries in the region needed if they were to have the time to develop a satisfactory system of regional security. A continuing British presence would make a unique contribution to this: Viet Nam had showed that the sole support of a super power was not sufficient. Our new policy would reduce Britain to a status a little less than Italy and a little more than Sweden. We would be damaging regional security and thus the prospects for world peace.
 
 6\. Fairhall (Defence) said that, while they recognized the trends some time ago, they were dismayed by the pace of our withdrawal and the new date for its completion. They too were facing economic problems: their defence budget was expanding but there were limits to the increases they could contemplate. It seemed that in SEATO the United Kingdom contribution would be diminishing to extinction. They had not yet settled their own thinking on the future of the Anglo-Malaysian Defence Agreement but they would have to consider carefully whether they relied on continued association with it or whether they should enter into some new direct form of association. He repeated a number of Hasluck’s arguments, especially concerning the meaningfulness of our general capability. He urged that, if flexibility in our position still existed, we should extend our programme for withdrawal having regard to the problems we were creating for them and that in other matters, e.g., the future of our facilities in Malaysia and Singapore, we should be as flexible as possible.
 
@@ -43,3 +46,5 @@ I outlined our proposals to Gorton1 and other Ministers and Officials on Defence
 1 Following Holt’s presumed death, McEwen became Prime Minister on 19 December 1967, his appointment lasting until the Liberal Party elected a new leader. Gorton replaced him as Prime Minister on 9 January 1968.
 
 2  Thomson was accompanied at the meeting by Sir S. Gamer, his Permanent Secretary, Johnston, General Sir R.M. Carver, Vice-Admiral Sir I. Hogg (Vice-Chief of the Defence Stall), and two officials from the UK Ministry of Defence and Commonwealth Office. Australia was represented by Gorton, McEwen, Hasluck, Fairhall, Hulme, I.M. Sinclair (Minister for Social Services), Bunting, Plimsoll, Sir Henry Bland (Secretary, Department of Defence) and Lt General Sir J. Wilton (Chairman, Chiefs of Staff Committee).
+
+[UKNA: PREM 13/2801]

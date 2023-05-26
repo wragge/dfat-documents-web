@@ -1,14 +1,17 @@
 ---
-title: "377 LETTER, WALLER TO BUNTING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10243
+doc_date: '1971-08-20'
+doc_num: 377
+doc_order: 377
+naa_refs:
+- naa_barcode: 8301723
+  naa_control_symbol: 1971/9449 PART 1
+  naa_series: A1209
+  reference: '[NAA: Al209, 1971/9449 PART 1]'
+title: LETTER, WALLER TO BUNTING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-08-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 377 LETTER, WALLER TO BUNTING
-
-NAA: Al209, 1971/9449 PART 1 
 
 Canberra, 20 August 1971
 
@@ -41,3 +44,5 @@ I am sending a copy of this letter to Sir Frederick Wheeler.
 12\. It may be suggested that the change would weaken the ties with London and that this flows from British membership of the EEC with the resulting weakening of Commonwealth links. This does not seem to have any substance. We could argue truthfully and convincingly that the changes were purely mechanical and in the interest of producing a unified approach to our overseas representation.
 
 13\. If Foreign Affairs were to take over administrative responsibility for Australia House, it would in time seek with the help of the Public Service Board, to streamline staff and procedures. It would also re-organise the chain of command and abolish the old nomenclature, giving normal diplomatic titles to the Australia House staff (as has been done by the British High Commission here).
+
+[NAA: Al209, 1971/9449 PART 1]

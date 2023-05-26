@@ -1,12 +1,19 @@
 ---
-title: "128 Telegram from Beath to Norrish"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8998
+doc_date: '1980-08-14'
+doc_num: 128
+doc_order: 128
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Beath to Norrish
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-08-14
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 128 Telegram from Beath to Norrish
 
 Canberra, 14 August 1980
 
@@ -14,14 +21,14 @@ No 2533. CONFIDENTIAL PRIORITY
 
 ## NAFTA Ministerial Meeting and CER
 
-Personal for Norrish from Beath.1
+Personal for Norrish from Beath.[1](#f1)
 
 Text of communique and delegation report have been cabled separately. As I won't be back in Wellington until the 25th I thought you might find the following observations useful:
 
 ### NAFTA
 
   2. The message conveyed by Australian Ministers and officials was straightforward. There will be no new access proposals agreed under NAFTA, or old arrangements renewed, unless they result in what the Australians are calling 'equivalence of opportunity'. They have not defined very precisely what they mean by this but it is clear enough that substantially balanced access opportunities are the underlying idea. This is not a new concept. But at this meeting it was a principle that was articulated with considerable force. None of the proposals put forward by the New Zealand side were considered by the Australians to meet this basic principle-and that is why it was not possible to renew the special apparel arrangement, or to reach agreement on leather wallets.
-  3. Any NZ proposal based on limited access by Australia to the NZ market (through the provision of import licence) and unrestricted access by NZ to the Australian market is not going to be acceptable: equivalence of opportunity to the Australians means either limited access both ways, on the basis of dollar-for­ dollar trade, or unrestricted access both ways. [matter omitted]2
+  3. Any NZ proposal based on limited access by Australia to the NZ market (through the provision of import licence) and unrestricted access by NZ to the Australian market is not going to be acceptable: equivalence of opportunity to the Australians means either limited access both ways, on the basis of dollar-for­ dollar trade, or unrestricted access both ways. [matter omitted][2](#f2)
 
 
   9. It would be an exaggeration to say that NAFTA is 'dead'. For example current contractual arrangements not subject to review will remain in force and two-way trade showed an increase last year of around 24 percent. But the proportion being traded under NAFTA, whilst still high (72 percent), is declining and there has been no significant movement towards a meaningful expansion of Schedule A for some years. (I set aside particle accelerators and wooden utensils excluding knives and spoons.)
@@ -32,7 +39,7 @@ Text of communique and delegation report have been cabled separately. As I won't
 
 ### CER
 
-  12. The studies seem to be pretty well on track. I was disappointed initially by the rather general nature of the papers handed to us by Australian officials. From corridor discussions, however, I gather that work here is well advanced-they are further ahead than the papers we have seen indicate but are not yet ready to participate in a full exchange. My suspicions that more papers were not made available because of an Australian fear that these would find their way back to the Australian press via the MANFED/CAI link (possibly before the Australian election) appear not to be well founded. Though there may be something in this the difficulties appear to be more of an interdepartmental nature. But whatever the difficulty the Australians have agreed to a NZ proposal for a formal timetable for future meetings and exchanges of papers (set out below)3 and this will no doubt be a useful spur both in Canberra and in Wellington to get the work done. [matter monitted]
+  12. The studies seem to be pretty well on track. I was disappointed initially by the rather general nature of the papers handed to us by Australian officials. From corridor discussions, however, I gather that work here is well advanced-they are further ahead than the papers we have seen indicate but are not yet ready to participate in a full exchange. My suspicions that more papers were not made available because of an Australian fear that these would find their way back to the Australian press via the MANFED/CAI link (possibly before the Australian election) appear not to be well founded. Though there may be something in this the difficulties appear to be more of an interdepartmental nature. But whatever the difficulty the Australians have agreed to a NZ proposal for a formal timetable for future meetings and exchanges of papers (set out below)[3](#f3) and this will no doubt be a useful spur both in Canberra and in Wellington to get the work done. [matter monitted]
   13. The objective on both sides is to complete sufficient work by about the end of November or early December to allow governments to form an assessment as to whether the prospects for negotiating a balanced package are sufficiently encouraging to warrant a renewed commitment and progression to the major negotiating phase in which common lists will be derived and a new arrangement put together.
   14. As an aside, it is important to note that the Australians are no longer talking about a 'hybrid'. They are now openly and unequivocally talking about the CER as a 'free trade area'. They are able to do this because they feel that the concerns which motivated them to begin advancing the idea of a customs union in 1978 are now effectively being taken care of by the studies on intermediate goods, export incentives and import licensing.
 
@@ -45,10 +52,8 @@ Text of communique and delegation report have been cabled separately. As I won't
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 29 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 29 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Beath had been in Canberra as a member of the officials' group attending Ministerial talks on NAFTA and CER.
   * 2 The material omitted relates to technical discussion of specific NAFTA requests.
   * 3 Omitted here for reasons of space and relevance.
-
-

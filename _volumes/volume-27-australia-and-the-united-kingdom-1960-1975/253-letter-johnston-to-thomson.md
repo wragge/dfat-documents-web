@@ -1,14 +1,17 @@
 ---
-title: "253 LETTER, JOHNSTON TO THOMSON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10118
+doc_date: '1967-12-01'
+doc_num: 253
+doc_order: 253
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 20/50]'
+title: LETTER, JOHNSTON TO THOMSON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-12-01
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 253 LETTER, JOHNSTON TO THOMSON
-
-UKNA: FCO 20/50 
 
 Canberra, 1 December 1967
 
@@ -24,8 +27,10 @@ Although the British decision to devalue the pound sterling may not have taken e
 
 4\. The long-term effects on Australia’s income from primary products, as seen at the present time, also seem likely to vary widely from one commodity to another. Although nearly all primary producer organisations have expressed considerable fears of the effects of devaluation on income from their products, these fears seem greatly exaggerated in some instances. Indeed, the devaluation of sterling appears to be being used as a scapegoat, and a means of levering subsidies from the Government—to cover up structural, over-production or marketing difficulties for some products. Thus, although Britain now takes little more than ten per cent of the wool clip, the graziers have expressed anxiety about the future price of wool; but indications from the first post-devaluation sale, held after a week’s closure, are that the prices of finer types are not affected, though some drop in the price of coarser wools is to be expected following New Zealand’s devaluation. Many products, wheat, meat, dried and canned fruits, and apples and pears, should _prima facie_ be able to hold their price on the British market since, with the exception of Spain for canned fruits and New Zealand for lamb, none of their competitors devalued. The main fear for these commodities is the possible effect of disinflationary measures on the British housewife’s spending on imported foodstuffs. The possibility of increasing competition from British agriculture has not yet been realised. At the other extreme, income from dairy products, and particularly butter, is likely to take a severe knock, estimated by the Chairman of the Australian Dairy Produce Board at between $14 and $18 million a year, primarily from the effects of devaluation by New Zealand and Denmark. New Zealand may also make inroads into the Australian share of the market in third countries for dairy products and lamb. The already sick sugar industry will also be severely hit in the long term by the effective fall in the Commonwealth Sugar Agreement price and devaluation by its main competitors in the West Indies, Fiji and elsewhere, although devaluation will probably stimulate Australian pressure for an upwards revision of the agreed price at the end of next year. And following devaluation by Cyprus, the wine industry will face sharper competition in the British market for its sweet sherries
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-10\. In summary, whilst the British devaluation faced the Australian Government with some difficult problems of a domestic political rather than an economic or financial nature, the decision not to devalue was a courageous one which must have appealed strongly to the growing national pride and sense of independence in this country. In presenting the Government’s decision to the nation, Mr. Holt referred to the Australian dollar as being a currency in its own right and capable of standing on its own feet. (He has since said publicly that the effects of sterling devaluation on Australia would be quite small and in the long term they should be favourable; a copy of his full statement is enclosed.)1 He went on to point out Australia’s interest in helping Britain and in seeing sterling regaining strength and certainly the desire ‘to give Britain a chance’ accorded well with Australia’s realisation of her international responsibilities. I would hope that our exporters will now take full advantage of the opportunity with which they have been presented, but they should bear in mind that Australian manufacturers are on the alert for any reckless disruption of that part of the market which they supply and will not be slow to urge corrective action. Basically, however, the decision was seen by the Government to be in Australia’s own long-term interests. It may hasten changes, already somewhat overdue, in the least productive sectors of her economic fabric. It will certainly ensure that Australia will not be impeded in the fulfilment of what she regards as her main task, the full exploitation of her newly-discovered mineral resources, and it is further evidence, if any were needed, of the emergence of independent Australian policies based on self-interest, but tempered by Australia’s awareness of her new international status.
+10\. In summary, whilst the British devaluation faced the Australian Government with some difficult problems of a domestic political rather than an economic or financial nature, the decision not to devalue was a courageous one which must have appealed strongly to the growing national pride and sense of independence in this country. In presenting the Government’s decision to the nation, Mr. Holt referred to the Australian dollar as being a currency in its own right and capable of standing on its own feet. (He has since said publicly that the effects of sterling devaluation on Australia would be quite small and in the long term they should be favourable; a copy of his full statement is enclosed.)[1](#f1) He went on to point out Australia’s interest in helping Britain and in seeing sterling regaining strength and certainly the desire ‘to give Britain a chance’ accorded well with Australia’s realisation of her international responsibilities. I would hope that our exporters will now take full advantage of the opportunity with which they have been presented, but they should bear in mind that Australian manufacturers are on the alert for any reckless disruption of that part of the market which they supply and will not be slow to urge corrective action. Basically, however, the decision was seen by the Government to be in Australia’s own long-term interests. It may hasten changes, already somewhat overdue, in the least productive sectors of her economic fabric. It will certainly ensure that Australia will not be impeded in the fulfilment of what she regards as her main task, the full exploitation of her newly-discovered mineral resources, and it is further evidence, if any were needed, of the emergence of independent Australian policies based on self-interest, but tempered by Australia’s awareness of her new international status.
 
 1  Document 252. 
+
+[UKNA: FCO 20/50]

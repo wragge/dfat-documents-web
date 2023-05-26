@@ -1,12 +1,17 @@
 ---
-title: "250 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2897
+doc_date: '1944-08-18'
+doc_num: 250
+doc_order: 250
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 538]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 250 Commonwealth Government to Cranborne
 
 Cablegram 197 [1] CANBERRA, 18 August 1944
 
@@ -22,7 +27,7 @@ Your D.1129 [2], D.1119 [3] and Despatch D.75. [4] Draft Instrument of Surrender
 
 3\. Regarding (b) it is our view that the powers under Article 12 are so extensive as virtually to place in the hands of the Big Three the determination of the future shape of Central Europe. We feel that the exclusion of the other Allied Governments from participation in the control machinery and from any association with the political and economic directives vitally affecting their interests must lead to inevitable and damaging resentment, and will prejudice not only present relations between the United Nations but the future peace of Europe. In our view an amendment of Article 12 should still be sought, to provide for representation of other Allied Governments on the control machinery or, alternatively, in lieu of an amendment of the text, that the three Governments should give an assurance by public declaration that in the exercise of the powers under Article 12, provision will be made for obtaining the views of other Allied Governments and for associating them directly with the various agencies used for carrying out the terms of Article 12. You will share our anxiety lest objections by the other United Nations to their exclusion from an effective voice in the settlement with Germany result in open differences.
 
-_
+ _
 
 1 Repeated to the Canadian, South African and N.Z. Prime Ministers as nos 13, 68 and 171, respectively.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 538]_
+ _[AA:A5954, BOX 538]_

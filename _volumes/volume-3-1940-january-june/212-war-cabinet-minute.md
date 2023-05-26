@@ -1,14 +1,19 @@
 ---
-title: "212 War Cabinet Minute"
-volume: "Volume 3: 1940, January-June"
-doc_id: 978
+doc_date: '1940-05-07'
+doc_num: 212
+doc_order: 212
+naa_refs:
+- naa_barcode: 8876000
+  naa_control_symbol: 96/1940 AND 97/1940
+  naa_series: A2671
+  reference: '[AA: A2671, 96 AND 97/1940]'
+title: War Cabinet Minute
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-07
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 212 War Cabinet Minute
-
-## Minute 260 CANBERRA, 7 May 1940
+Minute 260 CANBERRA, 7 May 1940
 
 AGENDUM No. 96/1940 AND SUPPLEMENT No. 1, AGENDUM No. 97/1940
 
@@ -20,7 +25,7 @@ The consideration of these Agenda [2] was preceded by a general discussion on th
 
 Further discussion was deferred until the next meeting.
 
-_
+ _
 
 1 Document 193.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA: A2671, 96 AND 97/1940]_
+ _[AA: A2671, 96 AND 97/1940]_

@@ -1,12 +1,17 @@
 ---
-title: "68 Minutes of British Commonwealth Meeting"
-volume: "Volume 8: 1945"
-doc_id: 3099
+doc_date: '1945-04-06'
+doc_num: 68
+doc_order: 68
+naa_refs:
+- naa_barcode: 441207
+  naa_control_symbol: '1'
+  naa_series: A7386
+  reference: '[AA : A7386, TOP SECRET, COPY NO. 8]'
+title: Minutes of British Commonwealth Meeting
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-04-06
+vol_title: 'Volume 8: 1945'
 ---
-
-# 68 Minutes of British Commonwealth Meeting
 
 BCM(45) 5th Meeting (extract) LONDON, 6 April 1945, 3.30 p.m.
 
@@ -122,7 +127,7 @@ The approach of the Australian Delegation as shown in these statements correspon
 
 [matter omitted]
 
-_
+ _
 
 1 i.e. the rights of all peoples to choose their form of government; the access on equal terms for all states to trade and raw materials; collaboration between all nations to secure improved labour standards, economic advancement and social security.
 
@@ -136,4 +141,4 @@ _
 
 _
 
-_ [AA : A7386, TOP SECRET, COPY NO. 8]_
+ _[AA : A7386, TOP SECRET, COPY NO. 8]_

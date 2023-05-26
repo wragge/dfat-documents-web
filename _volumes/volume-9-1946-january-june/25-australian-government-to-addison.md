@@ -1,13 +1,19 @@
 ---
-title: "25 Australian Government to Addison"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3537
+doc_date: '1946-01-12'
+doc_num: 25
+doc_order: 25
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/4]'
+title: Australian Government to Addison
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 25 Australian Government to Addison
-
-Cablegram 22 CANBERRA, 12 January 946
+Cablegram 22 CANBERRA, 12 January 1946
 
 TOP SECRET
 
@@ -17,7 +23,7 @@ Your D1128 [1], D2214 [2], D2215 [3], D2230. [4]
 
 2\. Dr. Evatt has the impression after speaking with President Truman and United States Naval authorities that the present move is a try on at least in relation to the Pacific and that no policy has yet been determined between the United States [State] Department and Navy and Amy authorities.
 
-_
+ _
 
 1 Presumably cablegram D2138 (Volume VIII, Document 408), which conveyed the U.S. Govt's first approach on rights to bases.
 
@@ -33,4 +39,4 @@ Cablegram D1128 dealt with the Middle East.
 
 _
 
-_ [AA:A6494 T1, SPTS/1/4]_
+ _[AA:A6494 T1, SPTS/1/4]_

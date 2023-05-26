@@ -1,14 +1,19 @@
 ---
-title: "303 Evatt to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3815
+doc_date: '1946-06-11'
+doc_num: 303
+doc_order: 303
+naa_refs:
+- naa_barcode: 756099
+  naa_control_symbol: A/46/1
+  naa_series: A4387
+  reference: '[AA:A4387/2, A46/1]'
+title: Evatt to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-11
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 303 Evatt to Department of External Affairs
-
-## Cablegram 751 WASHINGTON, 11 June 1946
+Cablegram 751 WASHINGTON, 11 June 1946
 
 Regarding D.O. telegram D.566 [1], following are comments on message:
 
@@ -24,7 +29,7 @@ Regarding D.O. telegram D.566 [1], following are comments on message:
 
 6\. Message contained herein should go immediately to London, Wellington, Ottawa and Pretoria, and Dominions should be asked to communicate suggestions. Substance of suggestions should also be communicated to Washington, Paris and Nanking.
 
-_
+ _
 
 1 Dispatched 3 June, it reported on an exchange of telegrams between Bevin and Byrnes concerning the deadlock over summoning a peace conference. Byrnes had suggested in a broadcast that, if the Soviet Union remained obdurate, recourse might be had to the U.N.
 
@@ -34,4 +39,4 @@ General Assembly. Bevin had suggested three alternatives: the United Kingdom, Un
 
 _
 
-_ [AA:A4387/2, A46/1]_
+ _[AA:A4387/2, A46/1]_

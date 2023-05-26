@@ -1,14 +1,19 @@
 ---
-title: "378 Mr R. G. Menzies, Prime Minister, to Mr P. Reynaud, French Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1144
+doc_date: '1940-06-14'
+doc_num: 378
+doc_order: 378
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA: A3196, [0.3827]'
+title: Mr R. G. Menzies, Prime Minister, to Mr P. Reynaud, French Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-14
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 378 Mr R. G. Menzies, Prime Minister, to Mr P. Reynaud, French Prime Minister
-
-## Cablegram unnumbered 14 June 1940,
+Cablegram unnumbered 14 June 1940,
 
 His Majesty's Government in the Commonwealth of Australia endorses with all its heart the message sent by the British Government to the Government and people of France. [1]
 
@@ -18,7 +23,7 @@ Whatever the difficulties of the day are, we will continue the struggle with con
 
 If the human spirit is able to express itself, as we believe it is, over ten thousand miles of ocean, we hope that our own spirit will at this testing time help in a small way to encourage and sustain the gallant people who are fighting so magnificently for all of us. [2]
 
-_
+ _
 
 1 See Document 377.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA: A3196, [0.3827] [3]]_
+ _[FA: A3196, [0.3827] [3]]_

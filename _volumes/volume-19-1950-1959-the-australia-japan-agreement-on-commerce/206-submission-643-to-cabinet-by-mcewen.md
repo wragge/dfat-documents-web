@@ -1,15 +1,19 @@
 ---
-title: "206 Submission 643 To Cabinet By Mcewen"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7811
+doc_date: '1957-05-15'
+doc_num: 206
+doc_order: 206
+naa_refs:
+- naa_barcode: 4714941
+  naa_control_symbol: '643'
+  naa_series: A4926
+  reference: '[AA : A4926, VOLUME 26]'
+title: Submission 643 To Cabinet By Mcewen
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-05-15
-barcode: 428854
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 206 Submission 643 To Cabinet By Mcewen
-
-## 15th May, 1957
+15th May, 1957
 
 CANBERRA
 
@@ -95,7 +99,7 @@ or other suppliers'. The proposed arrangement for emergency action in the form o
 
 (b) That we maintain that where emergency action is by way of special duties, Japan has no right to take counter measures; but that we agree, where emergency action takes the form of discriminatory import quotas that Japan has the right to take 'substantially equivalent' counter measures.
 
-**RECOMMENDATIONS:**
+ **RECOMMENDATIONS:**
 
 It is recommended that- 1. The positions outlined under points (i) to (xi) be approved.
 
@@ -107,7 +111,7 @@ That the Delegation secure the best obtainable definition of price and of 'unfai
 
 4\. That the delegation press for the first alternative 'emergency action' arrangement as set out in 5(a) above, but be authorised to accept the second alternative, 5(b) above, if total agreement is not likely to be reached otherwise.
 
-_
+ _
 
 1 Not published.
 
@@ -117,4 +121,4 @@ _
 
 _
 
-_ [ [AA : A4926, VOLUME 26](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=428854) ]_
+ _[AA : A4926, VOLUME 26]_

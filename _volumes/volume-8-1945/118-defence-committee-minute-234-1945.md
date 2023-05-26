@@ -1,12 +1,17 @@
 ---
-title: "118 Defence Committee Minute 234/1945"
-volume: "Volume 8: 1945"
-doc_id: 3149
+doc_date: '1945-06-19'
+doc_num: 118
+doc_order: 118
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A2031
+  reference: '[AA : A2031]'
+title: Defence Committee Minute 234/1945
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-06-19
+vol_title: 'Volume 8: 1945'
 ---
-
-# 118 Defence Committee Minute 234/1945
 
 Extracts CANBERRA, 19 June 1945
 
@@ -156,7 +161,7 @@ Defence Industries:
 
 [matter omitted]
 
-_
+ _
 
 1 Agendum 107/1945, supplement 1.
 
@@ -166,4 +171,4 @@ _
 
 _
 
-_ [AA : A2031]_
+ _[AA : A2031]_

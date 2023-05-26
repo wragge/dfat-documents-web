@@ -1,12 +1,18 @@
 ---
-title: "99 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6268
+doc_date: '1949-01-16'
+doc_num: 99
+doc_order: 99
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX2278]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-16
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 99 Critchley to Department of External Affairs
 
 Cablegram K251 BATAVIA, 16 January 1949, 11 p.m.
 
@@ -22,7 +28,7 @@ The Dutch are concentrating on the formation of an Interim Federal Government, b
 
 2\. I learnt confidentially that the more Nationalist-minded amongst the Federalists, including the Prime Minister of East Indonesia [2], intend to delay the formation of the National Federal Government until after the Asian conference and the Security Council have reached decisions on the Indonesian question. They believe they will then be in a position to strengthen their demands. They also claim that the last point in their resolution provides a starting point for consultation with Republican leaders. In this connection the Federal Conference is reported to have agreed on ten people who should be consulted including eight top Republicans.
 
-_
+ _
 
 1 See note 1 to Document 74.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA : A5954, BOX2278]_
+ _[AA : A5954, BOX2278]_

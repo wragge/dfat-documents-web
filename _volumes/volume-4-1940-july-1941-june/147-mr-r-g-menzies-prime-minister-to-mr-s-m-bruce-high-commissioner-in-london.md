@@ -1,12 +1,17 @@
 ---
-title: "147 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1378
+doc_date: '1940-10-01'
+doc_num: 147
+doc_order: 147
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.7227]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-01
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 147 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 439 1 October 1940,
 
@@ -20,7 +25,7 @@ As this is the eighth complaint which we have had to make regarding action by th
 
 MENZIES
 
-_
+ _
 
 1 On file AA:A1608, D17/2/1.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.7227]_
+ _[AA:A3196, 1940, 0.7227]_

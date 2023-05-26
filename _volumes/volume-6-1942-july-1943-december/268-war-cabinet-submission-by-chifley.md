@@ -1,13 +1,17 @@
 ---
-title: "268 War Cabinet Submission by Chifley"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2559
+doc_date: '1943-09-04'
+doc_num: 268
+doc_order: 268
+naa_refs:
+- naa_barcode: 9019792
+  naa_control_symbol: 380/1943
+  naa_series: A2670
+  reference: '[AA:A2670, 380/1943]'
+title: War Cabinet Submission by Chifley
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-09-04
-barcode: 9019792
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 268 War Cabinet Submission by Chifley
 
 Agendum 380/1943 CANBERRA, 4 September 1943
 
@@ -21,7 +25,7 @@ Australia has been invited to participate [1] and decisions of the Government ar
 
 (ii) Whether the proposed procedures are acceptable.
 
-Background 2. Last year Canada provided a gift of 1,000 million dollars to the United Kingdom, which Government had already used up its resources of Canadian dollars. This gift relieved the Canadian dollar shortage of the whole sterling area but the budgetary relief was confined to the United Kingdom. Dr. Evatt on his recent visit to London, however, obtained a special concession for Australia of �7m.
+Background 2. Last year Canada provided a gift of 1,000 million dollars to the United Kingdom, which Government had already used up its resources of Canadian dollars. This gift relieved the Canadian dollar shortage of the whole sterling area but the budgetary relief was confined to the United Kingdom. Dr. Evatt on his recent visit to London, however, obtained a special concession for Australia of £7m.
 
 3\. The new gift is for allocation to all United Nations, and Canada desires to deal direct with each member of the sterling area, i.e. Australia, New Zealand, etc.
 
@@ -33,7 +37,7 @@ Question of Participation by Australia 6. Briefly the scheme provides for the su
 
 7\. Our 'balance of payments' with Canada last year was-
 
-1942-43 �m.
+1942-43 £m.
 
 Imports, etc... 20.5 Exports, etc... 2.5
 
@@ -41,7 +45,7 @@ Deficiency 18.0 (Rough estimate)
 
 This deficiency was met by Australia buying dollars from the sterling pool.
 
-8\. War supplies required from Canada in the current year are estimated at �22m. If these were all approved by Canada, Australia would obtain close on �20m. without cash payment and our Budget and London Funds would be relieved to that extent.
+8\. War supplies required from Canada in the current year are estimated at £22m. If these were all approved by Canada, Australia would obtain close on £20m. without cash payment and our Budget and London Funds would be relieved to that extent.
 
 9\. Australia therefore stands to benefit financially but we must not overlook the post-war commercial aspect of the scheme and we should not make a decision to participate unless we are satisfied there will be no embarrassing conditions. In this connection it should be remembered that the acceptance of mutual aid may result in our feeling some moral obligation to Canada in the post-war period. On the other hand if we do not join in the scheme we would almost inevitably be cut off from Canadian supplies which are essential to us.
 
@@ -89,7 +93,7 @@ Our requirements in excess of the amounts available in this special account will
 
 J. B. CHIFLEY 
 
-_ 1 See Glasgow's cablegrams 26 and 34 of 9 and 22 February on file AA:A989, 43/735/152.
+_1 See Glasgow's cablegrams 26 and 34 of 9 and 22 February on file AA:A989, 43/735/152.
 
 2 In announcing the scheme on 8 February the Canadian Finance Minister was reported to have said: '. . . we do not want [to] make sharing of war supplies dependent upon ability of those who use them to pay for them. We recognize that we in Canada because of our position and capacity are able to produce and contribute more war supplies than we require for our own fighting forces. Others who for geographical reasons have had to grapple more closely with enemy require far more than they are able [to] produce.' See cablegram 26 cited in note 1.
 
@@ -125,10 +129,10 @@ The following are the points which the Australian High Commissioner advises that
 
 (7) Such reciprocal aid shall be provided by Australia as may be decided upon by common agreement.
 
-[ [AA:A2670, 380/1943](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=9019792) ]
+[AA:A2670, 380/1943]
 
 1 See cablegram 141 cited in note 4.
 
 _
 
-__
+ __

@@ -1,14 +1,20 @@
 ---
-title: "325 Mr F. K. Officer, Counsellor of the Legation in Tokyo, to Mr A. T. Stirling, External Affairs Officer in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1556
+doc_date: '1941-02-27'
+doc_num: 325
+doc_order: 325
+naa_refs:
+- naa_barcode: 280093
+  naa_control_symbol: '322'
+  naa_series: A2937
+  reference: '[AA:A2937, F. KEITH OFFICER, O.B.E., M.C., ii]'
+title: Mr F. K. Officer, Counsellor of the Legation in Tokyo, to Mr A. T. Stirling,
+  External Affairs Officer in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-27
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 325 Mr F. K. Officer, Counsellor of the Legation in Tokyo, to Mr A. T. Stirling, External Affairs Officer in London
-
-## Letter (extract) TOKYO, 27 February 1941
+Letter (extract) TOKYO, 27 February 1941
 
 There is one thing that makes me rather anxious and that is whether London, in collaboration with Canberra, is thinking out our future policy with regard to this country. It is, of course, generally agreed that under present conditions, with a more or less hostile Ministry and an alliance with our enemies, it is out of the question to do business, but lately there have been indications that things might change, and it would be very essential that, if this did happen, we should be ready to talk very promptly. A good many people agree that what the Japanese want above all is to bring the war in China to some sort of more or less satisfactory end, and it seems to me that we cannot afford to be too idealistic, and that if we could win the Japanese from a hostile to a friendly attitude it would be worth bringing pressure to bear on China to come to a satisfactory agreement. Japan must have some room to trade and develop, and the natural area is surely China. China, on the other hand, must have assistance in developing itself, and we probably must accept the fact that such assistance might primarily be Japanese. Thinking the matter out very roughly, it seems to me that what we should insist on is a recognition of the independence of China less no doubt Manchuria, which for good or evil is, I assume, established as a vassal state of Japan. Once the independence of China is recognised, I think we should recognise that Japan has special rights and interests there, and that the Chinese should look to Japan for help and assistance. Japan, of course, should give undertakings that this will be fairly given, and that the present policy of ill-treatment of the Chinese and elimination of all other foreign interests should cease. What I think we must resist are the views of the idealists that Japan is altogether evil and China is altogether good, and that the former must be punished and the latter must be given all the good things possible.
 
@@ -22,10 +28,10 @@ Our main complaint here is lack of news from Australia. The Department's attitud
 
 K. O[FFICER]
 
-_
+ _
 
 1 High Commissioner in London.
 
 _
 
-_ [AA:A2937, F. KEITH OFFICER, O.B.E., M.C., ii]_
+ _[AA:A2937, F. KEITH OFFICER, O.B.E., M.C., ii]_

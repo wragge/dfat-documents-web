@@ -1,14 +1,19 @@
 ---
-title: "43 Cabinet Decision 833"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7648
+doc_date: '1953-09-02'
+doc_num: 43
+doc_order: 43
+naa_refs:
+- naa_barcode: 4664173
+  naa_control_symbol: '542'
+  naa_series: A4905
+  reference: '[AA : A4905/XMI, VOLUME 20]'
+title: Cabinet Decision 833
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-09-02
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 43 Cabinet Decision 833
-
-## 2nd September, 1953
+2nd September, 1953
 
 Submission No. 542-Trade with Japan
 
@@ -22,8 +27,8 @@ Cabinet directed that a full investigation into Australia's trading position, vi
 
 Cabinet observed that the application of this decision to New Guinea should be worked out by the Departments of Trade and Customs, Treasury and Territories.
 
-_
+ _
 
 _
 
-_ [AA : A4905/XMI, VOLUME 20]_
+ _[AA : A4905/XMI, VOLUME 20]_

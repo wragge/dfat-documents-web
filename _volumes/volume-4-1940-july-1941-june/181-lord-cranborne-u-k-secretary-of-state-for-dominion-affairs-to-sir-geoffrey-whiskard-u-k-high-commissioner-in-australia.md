@@ -1,12 +1,18 @@
 ---
-title: "181 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1412
+doc_date: '1940-10-23'
+doc_num: 181
+doc_order: 181
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20B, i]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-23
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 181 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 348 LONDON, 23 October 1940, 1.50 a.m.
 
@@ -28,7 +34,7 @@ In view of the importance of the United States aspect, H.M. Charge d'Affaires at
 
 As regards exports of scrap to the Netherlands East Indies, it is thought that these should be permitted only if covered by adequate guarantees against re-export. It is understood that this course would be in accordance with the wishes of the Netherlands East Indian authorities themselves, who recently informed H.M.'s Consul General at Batavia [4] that Japan was seeking to import scrap from the U.S.A. via the Netherlands East Indies. We hope therefore that the Commonwealth Government, if they agree to a restriction of exports on the lines proposed above, will be willing to deal in this way with any applications for export of scrap to the Netherlands East Indies.
 
-_
+ _
 
 1 This cablegram is summarised in Full Cabinet Agendum 483 of 1 November. See Document 186, note 5.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 20B, i]_
+ _[AA:A981, FAR EAST 20B, i]_

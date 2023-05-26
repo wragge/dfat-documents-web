@@ -1,12 +1,18 @@
 ---
-title: "254 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr P. Liesching, U.K. Acting High Commissioner to Australia"
-volume: "Volume 1: 1937-38"
-doc_id: 253
+doc_date: '1938-09-14'
+doc_num: 254
+doc_order: 253
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : FO 371/21771]'
+title: Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr P. Liesching,
+  U.K. Acting High Commissioner to Australia
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-14
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 254 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr P. Liesching, U.K. Acting High Commissioner to Australia
 
 Cablegram unnumbered LONDON, 14 September 1938, 12.10 p.m.
 
@@ -20,7 +26,7 @@ Message begins 'In view of increasingly critical situation I propose to come ove
 
 Please indicate earliest time at which you can see me and suggest place of meeting. Should be grateful for very early reply. NEVILLE CHAMBERLAIN.' Message ends. Please inform Prime Minister [4] as soon as possible for his personal information, emphasizing need for extreme secrecy since premature disclosure of above action might, as he will realize, be disastrous to chances of successful outcome of plan. Intention here is to make no public reference to Mr Chamberlain's proposal until Herr Hitler has had opportunity of sending reply which we hope we may receive at earliest possible moment.
 
-_
+ _
 
 1 U.K. Prime Minister.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [PRO : FO 371/21771]_
+ _[PRO : FO 371/21771]_

@@ -1,14 +1,20 @@
 ---
-title: "425 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr B. C. Ballard, Official Representative in New Caledonia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1656
+doc_date: '1941-04-24'
+doc_num: 425
+doc_order: 425
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: AA1975/215
+  reference: '[AA: AA75/215, 18/41]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr B.
+  C. Ballard, Official Representative in New Caledonia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-24
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 425 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr B. C. Ballard, Official Representative in New Caledonia
-
-## Memorandum 24 April 1941,
+Memorandum 24 April 1941,
 
 With reference to the discussions had last week with the Commonwealth authorities by yourself and Captain Dubois of New Caledonia [1], it is desired that you should make a communication along the following lines to His Excellency the Governor of New Caledonia [2]:
 
@@ -44,16 +50,16 @@ Copies of the Schedules A and B above referred to are attached hereto.
 
 W. R. HODGSON
 
-_
+ _
 
 1 At the request of the Commonwealth Govt Ballard and Dubois flew from Noumea to Australia on 12 April and were present at a meeting of War Cabinet on 17 April when the question of Australian assistance to New Caledonia was discussed (see Documents 420 and 440).
 
 2 Henri Sautot.
 
-3 &amp; 4 Not printed.
+3  & 4 Not printed.
 
 5 Leader of the Free French movement.
 
 _
 
-_ [AA: AA75/215, 18/41]_
+ _[AA: AA75/215, 18/41]_

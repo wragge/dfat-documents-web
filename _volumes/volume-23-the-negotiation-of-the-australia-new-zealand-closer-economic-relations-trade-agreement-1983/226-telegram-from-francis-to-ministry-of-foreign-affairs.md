@@ -1,20 +1,27 @@
 ---
-title: "226 Telegram from Francis to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9095
+doc_date: '1981-08-06'
+doc_num: 226
+doc_order: 226
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Francis to Ministry of Foreign Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-08-06
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 226 Telegram from Francis to Ministry of Foreign Affairs
 
 Canberra, 6 August 1981
 
 226 Telegram From Francis To Ministry Of Foreign Affairs
 
-**Agricultural Council Meeting: Darwin**
+ **Agricultural Council Meeting: Darwin**
 
-  1. Mr Talbot, Under-Secretary, will doubtless be reporting in full on the recent Council meeting.1 Here follows some of the matters which were discussed:
+  1. Mr Talbot, Under-Secretary, will doubtless be reporting in full on the recent Council meeting.[1](#f1) Here follows some of the matters which were discussed:
   2. In a round-robin of talks with all the states in regard to the CER, the responses generally were favourable, Tasmania especially so. Dr Amos, Minister, stated that consultations have proceeded well. He had been to New Zealand and had arranged for Tasmanian farmers to go to New Zealand.
   3. Both Western Australia and Queensland Ministers expressed the wish that they have the right to deal with New Zealand Dairy Board to supply butter to both states. Both mentioned that the Australian Dairy Board's efforts in regard to quality left a lot to be desired. Both Ministers indicated that they were in deficit always in butter and would welcome a supply from New Zealand through the Dairy Board.
   4. Victoria and South Australia Ministers mentioned potatoes and the wine industry respectively. From South Australia and from Mr Nixon, criticism of new wine tariffs.
@@ -24,10 +31,8 @@ Canberra, 6 August 1981
 
 
 
-_[matter omitted]_
+ _[matter omitted]_
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 38 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 38 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Apparently a meeting of Commonwealth and State Ministers of Agriculture, sponsored by the Australian Agricultural Council
-
-

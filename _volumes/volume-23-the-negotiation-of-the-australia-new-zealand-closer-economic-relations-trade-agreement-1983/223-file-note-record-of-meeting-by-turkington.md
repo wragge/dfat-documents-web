@@ -1,25 +1,32 @@
 ---
-title: "223 File Note: Record of Meeting by Turkington"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9092
+doc_date: '1981-05-26'
+doc_num: 223
+doc_order: 223
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: 'File Note: Record of Meeting by Turkington'
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-05-26
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 223 File Note: Record of Meeting by Turkington
 
 Wellington, 26 May 1981
 
 CONFIDENTIAL
 
-**Meeting of Prime Minister with Mr I G Douglas, Executive Director, NZ Manufacturers' Federation,   
+ **Meeting of Prime Minister with Mr I G Douglas, Executive Director, NZ Manufacturers' Federation,  
 2 pm Thursday 26 May 1981**
 
-Mr Douglas began by explaining that the situation among his members was now considerably quieter than when the Federation first sought a meeting with the Prime Minister to discuss the Anthony visit.1 At that time a small minority was arguing that manufacturers did not know enough about the negotiations. Since then MANFED officers had talked with officials. Mr Douglas commented that the Government had handled the CER issue in a masterly way, keeping the Australians positive without stirring up sensitive local elements.
+Mr Douglas began by explaining that the situation among his members was now considerably quieter than when the Federation first sought a meeting with the Prime Minister to discuss the Anthony visit.[1](#f1) At that time a small minority was arguing that manufacturers did not know enough about the negotiations. Since then MANFED officers had talked with officials. Mr Douglas commented that the Government had handled the CER issue in a masterly way, keeping the Australians positive without stirring up sensitive local elements.
 
 The Prime Minister said that the exercise is coming along quite well and that Mr Anthony had been very helpful. The wine industry decision had presented a problem, partly because some senior Australian Ministers are very involved with the industry. Mr Anthony, however, was much more relaxed about the decision after it had been explained to him.
 
-The Prime Minister outlined the areas of agreement, referring to garments, footwear and the financial sector. He also mentioned the extension of the Preferences Agreement2 for two years or to when CER comes into force. Progress had been made on export incentives without final agreement having been reached. Lance Adams-Schneider was away on a mission looking further into the question of government purchasing. On the deferred goods' category, the Prime Minister had pointed out to Mr Anthony that for some products a long term qualification of the concept of free trade was required and that absolute purity was unlikely to be achieved.
+The Prime Minister outlined the areas of agreement, referring to garments, footwear and the financial sector. He also mentioned the extension of the Preferences Agreement[2](#f2) for two years or to when CER comes into force. Progress had been made on export incentives without final agreement having been reached. Lance Adams-Schneider was away on a mission looking further into the question of government purchasing. On the deferred goods' category, the Prime Minister had pointed out to Mr Anthony that for some products a long term qualification of the concept of free trade was required and that absolute purity was unlikely to be achieved.
 
 The Prime Minister said that export incentives and import licensing were still unresolved. Mr Douglas responded that these were difficult ones for the Federation which could possibly move to a terminal date for quantitative restrictions of 1995 but could not say so now.
 
@@ -33,9 +40,7 @@ He saw the development plan concept being fraught with problems. A macro approac
 
 The Prime Minister did not react directly to Mr Douglas's suggestions but commented that he did not know how the CER is going to mesh into overall policy. He felt that the CER could be brought together and was hopeful that officials could get the detail tidy within a couple of months so that he is in a position to talk to Mr Fraser. The Prime Minister saw March next year as being a likely date for agreement. Mr Douglas could see no problem with that timing. The Prime Minister did not want the issue argued through the election campaign. He mentioned Watties, McKechnies and NZ Steel as special problem areas. Mr Douglas felt McKechnies were playing for time over this issue.
 
-_[ABHS 950/Boxes1221-1226, 40/411 Part 36 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/411 Part 36 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Presumably a reference to Anthony's visit from 11-13 May for Joint Ministerial talks on CER.
   * 2 The 1977 Agreement on Tariffs and Tariff Preferences.
-
-

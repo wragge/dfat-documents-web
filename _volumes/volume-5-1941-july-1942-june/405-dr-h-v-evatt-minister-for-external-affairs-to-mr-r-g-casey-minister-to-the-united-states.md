@@ -1,12 +1,18 @@
 ---
-title: "405 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2159
+doc_date: '1942-03-12'
+doc_num: 405
+doc_order: 406
+naa_refs:
+- naa_barcode: 182741
+  naa_control_symbol: WAR 56
+  naa_series: A981
+  reference: '[AA:A981, WAR 56A]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister
+  to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-12
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 405 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States
 
 Cablegram SW13 CANBERRA, 12 March 1942
 
@@ -40,7 +46,7 @@ Our Chiefs of Staff are anxious that a meeting be arranged between themselves an
 
 EVATT [5]
 
-_
+ _
 
 1 John Curtin.
 
@@ -56,4 +62,4 @@ _
 
 _
 
-_ [AA:A981, WAR 56A]_
+ _[AA:A981, WAR 56A]_

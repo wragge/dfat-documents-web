@@ -1,12 +1,17 @@
 ---
-title: "378 Mr R.G. Menzies, Prime Minister, to Mr M.J. Savage, N.Z. Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 715
+doc_date: '1939-11-21'
+doc_num: 378
+doc_order: 378
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 35]'
+title: Mr R.G. Menzies, Prime Minister, to Mr M.J. Savage, N.Z. Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-21
+vol_title: 'Volume 2: 1939'
 ---
-
-# 378 Mr R.G. Menzies, Prime Minister, to Mr M.J. Savage, N.Z. Prime Minister
 
 Cablegram unnumbered 21 November 1939,
 
@@ -26,7 +31,7 @@ Would greatly appreciate any comments you care to make on the matter.
 
 MENZIES
 
-_
+ _
 
 1 Document 371.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 35]_
+ _[AA: CP 290/6, ITEM 35]_

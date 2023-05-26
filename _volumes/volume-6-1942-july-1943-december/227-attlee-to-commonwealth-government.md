@@ -1,12 +1,17 @@
 ---
-title: "227 Attlee to Commonwealth Government"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2518
+doc_date: '1943-06-19'
+doc_num: 227
+doc_order: 227
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43-44/735/1009]'
+title: Attlee to Commonwealth Government
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-06-19
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 227 Attlee to Commonwealth Government
 
 Circular cablegram D365 LONDON, 19 June 1943, 11 p.m.
 
@@ -38,7 +43,7 @@ In the case of Germany the exact method of organising such occupation should be 
 
 (k) It is likely that a number of civilian authorities will be set up by agreement between the United Nations, some on a world and others on a European basis. Apart from the United Nations relief and rehabilitation administration and inter-governmental committees which may emerge from the Bermuda Conference [3], the establishment of a United Nations' shipping authority, and a United Nations' inland transport authority for Europe have been suggested. Analogous bodies may well be required to control telecommunications and propaganda, and to handle reparation and restitution and other economic problems. These authorities might, in respect of their European activities, establish their headquarters in the same city as the United Nations Commission for Europe, to whom they would be responsible and provide the necessary technical advice.
 
-_
+ _
 
 1 See cablegram D364 of 19 June on file AA:A989, 43-44/735/1009.
 
@@ -50,4 +55,4 @@ It advised that the U.K. War Cabinet had decided that discussion should commence
 
 _
 
-_ [AA:A989, 43-44/735/1009]_
+ _[AA:A989, 43-44/735/1009]_

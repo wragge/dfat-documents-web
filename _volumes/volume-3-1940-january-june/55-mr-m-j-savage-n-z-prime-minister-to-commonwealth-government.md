@@ -1,12 +1,17 @@
 ---
-title: "55 Mr M. J. Savage, N.Z. Prime Minister, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 821
+doc_date: '1940-02-11'
+doc_num: 55
+doc_order: 55
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.953]'
+title: Mr M. J. Savage, N.Z. Prime Minister, to Commonwealth Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-11
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 55 Mr M. J. Savage, N.Z. Prime Minister, to Commonwealth Government
 
 Cablegram unnumbered WELLINGTON, 11 February 1940, 5.25 p.m.
 
@@ -16,10 +21,10 @@ I am most grateful for your telegram 10th February regarding Smith's Weekly. [1]
 
 Perhaps the most suitable method of consultation would be by direct communication between the authorities concerned, but I may observe firstly that publication of the arrival in New Zealand of visiting British and Australian battleships and cruisers was with the express approval of the Naval Authorities here and secondly that you have apparently been incorrectly informed regarding the publication of movements of overseas merchant shipping which is strictly prohibited and in fact not published at all.
 
-_
+ _
 
 1 Document 51.
 
 _
 
-_ [FA: A3195, 1.953]_
+ _[FA: A3195, 1.953]_

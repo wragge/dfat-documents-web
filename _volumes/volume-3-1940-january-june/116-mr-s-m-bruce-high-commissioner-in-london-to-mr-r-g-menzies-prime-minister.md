@@ -1,12 +1,17 @@
 ---
-title: "116 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 882
+doc_date: '1940-03-27'
+doc_num: 116
+doc_order: 116
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2015]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-27
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 116 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 205 LONDON, 27 March 1940
 
@@ -46,7 +51,7 @@ If Mussolini can be held [plus] [8] a definitely co-operative policy agreed with
 
 BRUCE
 
-_
+ _
 
 1 Document 112.
 
@@ -62,10 +67,10 @@ _
 
 According to the German record of their conversation Mussolini informed Hitler that in the event of a victorious German advance against France and the United Kingdom Italy would enter the war on the German side immediately; if German progress was slow, however, Italy would wait See Documents on German Foreign Policy 1918-1943, series D, vol. IX (Washington, 1956), pp. 1-16.
 
-6 &amp; 8 The words in square brackets were omitted from the cablegram as deciphered in Canberra. They have been inserted from Bruce's file copy on AA: M100, March 1940.
+6  & 8 The words in square brackets were omitted from the cablegram as deciphered in Canberra. They have been inserted from Bruce's file copy on AA: M100, March 1940.
 
 7 Lord Halifax.
 
 _
 
-_ [FA: A3195, 1.2015]_
+ _[FA: A3195, 1.2015]_

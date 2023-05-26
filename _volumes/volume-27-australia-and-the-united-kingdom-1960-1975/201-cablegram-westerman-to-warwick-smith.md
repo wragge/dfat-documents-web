@@ -1,14 +1,17 @@
 ---
-title: "201 CABLEGRAM, WESTERMAN TO WARWICK SMITH"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10066
+doc_date: '1962-08-03'
+doc_num: 201
+doc_order: 201
+naa_refs:
+- naa_barcode: 584018
+  naa_control_symbol: 727/4/2 PART 3
+  naa_series: A1838
+  reference: '[NAA: A 1838, 727/4/2 PART 3]'
+title: CABLEGRAM, WESTERMAN TO WARWICK SMITH
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-08-03
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 201 CABLEGRAM, WESTERMAN TO WARWICK SMITH
-
-NAA: A 1838, 727/4/2 PART 3
 
 Australian High Commission, Ottawa, 3 August 1962
 
@@ -22,7 +25,7 @@ As we see the course of the negotiations it seems likely in the absence of new d
 
 While in no way minimizing the strength of the British endeavour to obtain agreed safeguards for our trade, we believed a realistic assessment of the current position in the negotiations suggests the following likely outcome.
 
-_(A) In Regard to the So-called Transitional Period_
+ _(A) In Regard to the So-called Transitional Period_
 
 The Six seem to be insisting (in the case of CAP items) that the existing form of preferences be changed and then eliminated over a transitional period.
 
@@ -36,7 +39,7 @@ Already, however, the Six and the UK have reached a tentative agreement on the p
 
 It would be very optimistic at this stage to suggest that the prospect for our exports of metals and processed agricultural products could be regarded as being any brighter than those for our manufactured goods or CAP items.
 
-_(B) In Regard to What Has Been Termed the ‘Post-transitional Period’_
+ _(B) In Regard to What Has Been Termed the ‘Post-transitional Period’_
 
 It would seem that the Six will be rejecting arrangements the UK has proposed to maintain our present competitive position vis-a-vis third countries.
 
@@ -58,7 +61,7 @@ Indeed, the term ‘world-wide agreements’ seems to have come to be regarded a
 
 In the light of the foregoing it would seem that unless some assurances not yet in prospect emerged, Australia would be placed in the unhappy position at the September conference of Prime Minsters where it was quite clear that, by any reasonable standards of judgment, our trade interests were going to suffer seriously if the UK joined the EEC. On the terms offering— that there was every reasonable probability that over a large section of our trade with the UK damage would occur in respect of both the quantity we could look forward to selling and the price—that the adoption by the UK of the restrictive measures of the Community would even in some cases encourage surpluses which could threaten existing markets elsewhere—and that the array of protective devices which our goods would face would not only impair the trade position we have achieved because of our preferential position under the UK/Australia trade agreement, but would seem likely to run counter to the basic objectives of GATT.
 
-_2\. The Australian Attitude_
+ _2\. The Australian Attitude_
 
 As indicated in earlier discussions at both the political and official levels, Australia would wish to do anything it could to avoid the United Kingdom being faced with the dilemma of having to choose between her Commonwealth obligations (as she sees them) and entry to the Common Market.
 
@@ -88,11 +91,11 @@ Australia has always said that, in looking at the nature of the safeguards Brita
 
 In these circumstances we are anxious to consider what minimum improvement in the current prospects there would need to be to provide a ‘package’ which we could accept in September as reasonably protecting our interests.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 The question, shorn of all incidentals, would seem to be as follows:–
 
-‘If the USA, using her bargaining coin (both unrequited debts in the Article XXIV(6) sense, 1 and new coin should her trade legislation become law) could, by September, or by such other time as may not be too late to break any deadlock, achieve a sufficient assurance of the Community’s willingness to go along with the tariff reductions referred to in regard to the CET above; _if_ USA would actively support us as necessary with the UK and the Six to enable us to obtain from the UK the assurances in respect of CAP items referred to above; _and if_ the USA would actively support us as necessary with the ‘declaration of intent’ to give us some assurance of the terms of our access in the post-transitional period, _then_, so far as Australia is concerned the question is
+‘If the USA, using her bargaining coin (both unrequited debts in the Article XXIV(6) sense, [1](#f1) and new coin should her trade legislation become law) could, by September, or by such other time as may not be too late to break any deadlock, achieve a sufficient assurance of the Community’s willingness to go along with the tariff reductions referred to in regard to the CET above; _if_ USA would actively support us as necessary with the UK and the Six to enable us to obtain from the UK the assurances in respect of CAP items referred to above; _and if_ the USA would actively support us as necessary with the ‘declaration of intent’ to give us some assurance of the terms of our access in the post-transitional period, _then_ , so far as Australia is concerned the question is
 
   * – Would the phasing out of preferences in the transitional period and their elimination in the post-transitional period, and
   * – Would the United Kingdom’s changing over from an unrestricted market to a market regulated by the policies of the Community so seriously affect our trade that
@@ -109,6 +112,8 @@ In some respects it would leave us in no worse position than before, in some res
 
 Taking the pluses and minuses as a whole and if we can be assured that reasonable measures we might have to take internally to afford protection to certain industries which proved unable to compete because of loss of preference would not be opposed by the USA, I believe (and I am certain enough of Ministers view to say this) that such a package would be tolerable.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 1  That is, of the GATT. 
+
+[NAA: A 1838, 727/4/2 PART 3]

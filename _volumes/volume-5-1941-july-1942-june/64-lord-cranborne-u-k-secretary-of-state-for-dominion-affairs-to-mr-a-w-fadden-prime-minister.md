@@ -1,12 +1,18 @@
 ---
-title: "64 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1818
+doc_date: '1941-09-11'
+doc_num: 64
+doc_order: 65
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941,1.17541]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-11
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 64 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden, Prime Minister
 
 Cablegram 620 LONDON, 11 September 1941, 5.59 p.m.
 
@@ -26,7 +32,7 @@ I trust, however, that you will weigh very carefully the immense responsibility 
 
 3\. I feel bound again to impress on you the vital importance of maintaining absolute secrecy about future operations or movements of troops which the question of the relief of your forces has compelled the Commander-in-Chief to reveal to us.
 
-_
+ _
 
 1 Winston Churchill. These words have been inserted from the London copy in PRO:DO114/114 2 Cablegram 621 of 11 September (AA:A3195, 1941, 1.17542).
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA:A3195, 1941,1.17541]_
+ _[AA:A3195, 1941,1.17541]_

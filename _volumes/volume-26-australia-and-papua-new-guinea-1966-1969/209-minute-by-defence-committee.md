@@ -1,25 +1,29 @@
 ---
-title: "209 Minute By Defence Committee"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9717
+doc_date: '1968-07-11'
+doc_num: 209
+doc_order: 209
+naa_refs:
+- naa_barcode: 3054150
+  naa_control_symbol: 1968/8538 PART 2
+  naa_series: A1209
+  reference: '[NAA: A 1209, 1968/8538 part 2]'
+title: Minute By Defence Committee
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-07-11
-barcode: 3054150
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 209 Minute By Defence Committee
 
 Canberra, 11 July 1968
 
 Top Secret
 
-**Future size and role of the Pacific Islands Regiment**
+ **Future size and role of the Pacific Islands Regiment**
 
-The Defence Committee noted that following his discussion with the Committee on the 30th May 1968 (Minute No 42/1968)1 the Secretary, Department of External Territories requested that his Department•s views be recorded as per the attached.
+The Defence Committee noted that following his discussion with the Committee on the 30th May 1968 (Minute No 42/1968)[1](#f1) the Secretary, Department of External Territories requested that his Department•s views be recorded as per the attached.
 
-2\. The Chairman intimated that an exchange of correspondence was in process between the Minister for External Territories and the Minister for Defence2 and that if the questions of the timing of the proposed review, and the build-up and role of the Army in Papua and New Guinea were not resolved between them, it was to be expected that the questions would go to Cabinet for consideration.
+2\. The Chairman intimated that an exchange of correspondence was in process between the Minister for External Territories and the Minister for Defence[2](#f2) and that if the questions of the timing of the proposed review, and the build-up and role of the Army in Papua and New Guinea were not resolved between them, it was to be expected that the questions would go to Cabinet for consideration.
 
-**Attachment**
+ **Attachment**
 
 FUTURE OF PIR: EXTERNAL TERRITORIES VIEW
 
@@ -33,7 +37,7 @@ Having regard to the objective of a disciplined, stable, loyal and cohesive forc
 
 The Department of External Territories considers a reasonable course would be to hold the strength at approximately the present level for the time being, and to carry out the proposed review immediately, the target strength of the force to be determined when the results of that review are available to be taken into account, and in the light of any new facts or strategic considerations.
 
-[ [NAA: A 1209, 1968/8538 part 2](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3054150) ]
+[NAA: A 1209, 1968/8538 part 2]
 
 1 Document 190.
 

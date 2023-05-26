@@ -1,18 +1,25 @@
 ---
-title: "51 Note from Powles to Corner"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8921
+doc_date: '1979-10-30'
+doc_num: 51
+doc_order: 51
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Note from Powles to Corner
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-10-30
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 51 Note from Powles to Corner
 
 Wellington, 30 October 1979
 
 Australia: Economic Relations
 
-In conversation with Australian Permanent Heads this week, and possibly in the meetings themselves, there could be a sense of impatience on the Australian side that New Zealand is not, even at this stage, coming up with precise proposals (complete free trade, customs union of this or that sort) on which a preliminary Australian response is sought. (The Australian Discussion Paper1 opens with an explicit reference to expected 'New Zealand proposals'.) A sense of impatience on the Australian side could easily become a sense of frustration and could sour Australian attitudes generally.
+In conversation with Australian Permanent Heads this week, and possibly in the meetings themselves, there could be a sense of impatience on the Australian side that New Zealand is not, even at this stage, coming up with precise proposals (complete free trade, customs union of this or that sort) on which a preliminary Australian response is sought. (The Australian Discussion Paper[1](#f1) opens with an explicit reference to expected 'New Zealand proposals'.) A sense of impatience on the Australian side could easily become a sense of frustration and could sour Australian attitudes generally.
 
   2. The formal explanation of course is that it will be for the Prime Minister to discuss concrete 'proposals'. But this is unlikely to cut much ice with Australian Permanent Heads, who may well expect a precise, if preliminary, indication of New Zealand thinking on the form of economic cooperation which we favour. 
 
@@ -28,8 +35,6 @@ I suggest that it will be an important aim of this week's discussions to get acr
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 21A Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 21A Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
-  * 1 Document 33. 
-
-
+  * 1 Document 33.

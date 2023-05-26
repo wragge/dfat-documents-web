@@ -1,12 +1,17 @@
 ---
-title: "177 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2468
+doc_date: '1943-05-06'
+doc_num: 177
+doc_order: 177
+naa_refs:
+- naa_barcode: 185057
+  naa_control_symbol: 1944/715/5/2/2
+  naa_series: A989
+  reference: '[AA:A989, 43-44/715/5/2/2]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-06
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 177 Bruce to Curtin
 
 Cablegram S83 [1] LONDON, 6 May 1943, 12.22 a.m.
 
@@ -28,7 +33,7 @@ Every day's delay is dangerous and a reply from you within 24 hours would be a t
 
 BRUCE
 
-_
+ _
 
 1 The London copy (on file AA:M100, May 1943) was numbered S84.
 
@@ -40,4 +45,4 @@ Although their International behaviour is sometimes unwise, they have been galla
 
 _
 
-_ [AA:A989, 43-44/715/5/2/2]_
+ _[AA:A989, 43-44/715/5/2/2]_

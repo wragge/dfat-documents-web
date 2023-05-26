@@ -1,14 +1,20 @@
 ---
-title: "170 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 169
+doc_date: '1938-03-26'
+doc_num: 170
+doc_order: 169
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime
+  Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-26
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 170 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister
-
-## Letter SYDNEY, 26 March 1938
+Letter SYDNEY, 26 March 1938
 
 URGENT
 
@@ -18,10 +24,10 @@ I shall be grateful if you will be good enough to inform me of both the tentativ
 
 TORAO WAKAMATSU Consul-General
 
-_
+ _
 
 1 Not printed.
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

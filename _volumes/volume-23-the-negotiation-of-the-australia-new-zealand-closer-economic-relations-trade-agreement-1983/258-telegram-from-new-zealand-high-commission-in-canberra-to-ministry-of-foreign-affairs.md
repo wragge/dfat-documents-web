@@ -1,18 +1,26 @@
 ---
-title: "258 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9127
+doc_date: '1982-11-17'
+doc_num: 258
+doc_order: 258
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from New Zealand High Commission in Canberra to Ministry of Foreign
+  Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-11-17
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 258 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
 
 Canberra, 17 November 1982
 
 No 3336. CONFIDENTIAL IMMEDIATE
 
-**NAFTA/CVD Timber**
+ **NAFTA/CVD Timber**
 
 Further to High Commissioner's telephone call to the Hon Hugh Templeton. High Commissioner called on the Rt Hon J D Anthony, who was attended by Mr Lind, and made the following points:
 
@@ -41,4 +49,4 @@ I intimated that that would only leave New Zealand with recourse to GATT. Mr Lin
 
 
 
-_ [ABHS 950/Box 1228, 40/4/2 Part 5 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1228, 40/4/2 Part 5 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

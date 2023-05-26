@@ -1,14 +1,19 @@
 ---
-title: "200 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 199
+doc_date: '1938-05-17'
+doc_num: 200
+doc_order: 199
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[ANL : PAGE 758]'
+title: Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-17
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 200 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
-
-## Cablegram unnumbered LONDON, 17 May 1938
+Cablegram unnumbered LONDON, 17 May 1938
 
 MOST URGENT Your telegram of 17th May to High Commissioner, Yampi Sound. [1] All of us [2] are disturbed by the suggested terms of the statement firstly because we think that making the only specific reference to Yampi is inconsistent with the fact that the prohibition is to be nondiscriminatory and is to affect other exporters than Yampi company, and secondly because we think the offer to give compensation goes too far as the amount of money expended may very well be much greater than the actual loss incurred.
 
@@ -20,7 +25,7 @@ We therefore suggest omission of three paragraphs, beginning 'in reaching its de
 
 PAGE
 
-_
+ _
 
 1 Document 198.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [ANL : PAGE 758]_
+ _[ANL : PAGE 758]_

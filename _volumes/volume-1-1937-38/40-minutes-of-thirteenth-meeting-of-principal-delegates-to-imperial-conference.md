@@ -1,12 +1,17 @@
 ---
-title: "40 Minutes of Thirteenth Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 40
+doc_date: '1937-06-04'
+doc_num: 40
+doc_order: 40
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Minutes of Thirteenth Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-06-04
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 40 Minutes of Thirteenth Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 13 (extracts) LONDON, 4 June 1937
 
@@ -62,10 +67,10 @@ He did not think that anybody who had sat at Geneva, as he had, throughout the w
 
 The League in fact had learnt by experience, and it would now be a mistake to go back to the earlier assumptions. There would certainly be no hope of getting the United States into the League on the earlier basis.
 
-_
+ _
 
 1 Not printed.
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

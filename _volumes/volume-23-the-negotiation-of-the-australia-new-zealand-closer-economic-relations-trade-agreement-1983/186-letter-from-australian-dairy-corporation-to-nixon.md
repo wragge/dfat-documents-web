@@ -1,14 +1,21 @@
 ---
-title: "186 Letter from Australian Dairy Corporation to Nixon"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9055
+doc_date: '1982-04-02'
+doc_num: 186
+doc_order: 186
+naa_refs:
+- naa_barcode: 11558961
+  naa_control_symbol: 1982/2479 PART 4
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 8212479, iv]'
+title: Letter from Australian Dairy Corporation to Nixon
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-04-02
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 186 Letter from Australian Dairy Corporation to Nixon
-
-## Canberra, 2 April 1982
+Canberra, 2 April 1982
 
 ## Closer Economic Relations (CER) with New Zealand
 
@@ -20,4 +27,4 @@ For your information I am also enclosing a copy of a joint media release made at
 
 M.L.VAWSER Chairman
 
-_[NAA: A1313/113, 8212479, iv]_
+ _[NAA: A1313/113, 8212479, iv]_

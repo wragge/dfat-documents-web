@@ -1,12 +1,18 @@
 ---
-title: "165 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1919
+doc_date: '1941-12-06'
+doc_num: 165
+doc_order: 166
+naa_refs:
+- naa_barcode: 206151
+  naa_control_symbol: O41/1/2
+  naa_series: A1608
+  reference: '[AA:A1608, 0.41/1/2]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-06
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 165 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 119 LONDON, 6 December 1941, 1.27 p.m.
 
@@ -32,7 +38,7 @@ While I urged as strongly as possible the adoption of the procedure in your tele
 
 BRUCE
 
-_
+ _
 
 1 Document 156.
 
@@ -42,4 +48,4 @@ _
 
 _
 
-_ [AA:A1608, 0.41/1/2]_
+ _[AA:A1608, 0.41/1/2]_

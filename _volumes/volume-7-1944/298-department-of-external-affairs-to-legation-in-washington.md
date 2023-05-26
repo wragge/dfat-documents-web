@@ -1,12 +1,17 @@
 ---
-title: "298 Department of External Affairs to Legation in Washington"
-volume: "Volume 7: 1944"
-doc_id: 2945
+doc_date: '1944-09-25'
+doc_num: 298
+doc_order: 298
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, iv]'
+title: Department of External Affairs to Legation in Washington
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-25
+vol_title: 'Volume 7: 1944'
 ---
-
-# 298 Department of External Affairs to Legation in Washington
 
 Cablegram 1456 CANBERRA, 25 September 1944
 
@@ -34,7 +39,7 @@ Lend Lease in Stage II.
 
 8\. Please notify the United Kingdom Minister Resident and the Australian Officials concerned of these arrangements.
 
-_
+ _
 
 1 Document 291.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A571, L41/915A, iv]_
+ _[AA:A571, L41/915A, iv]_

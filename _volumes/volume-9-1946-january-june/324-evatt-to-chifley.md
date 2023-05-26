@@ -1,12 +1,17 @@
 ---
-title: "324 Evatt to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3836
+doc_date: '1946-06-21'
+doc_num: 324
+doc_order: 324
+naa_refs:
+- naa_barcode: 273925
+  naa_control_symbol: SPTS 1/5
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/5]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-21
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 324 Evatt to Chifley
 
 Cablegram 825 WASHINGTON, 21 June 1946, 10.12 P.M.
 
@@ -30,10 +35,10 @@ Of course, if this were done, financial arrangements would have to be carefully 
 
 I am sure the talks, particularly with the service people, were of value, and I may have something additional to report next week.
 
-_
+ _
 
 1 See in particular Documents 208, 213 and 235.
 
 _
 
-_ [AA:A6494 T1, SPTS/1/5]_
+ _[AA:A6494 T1, SPTS/1/5]_

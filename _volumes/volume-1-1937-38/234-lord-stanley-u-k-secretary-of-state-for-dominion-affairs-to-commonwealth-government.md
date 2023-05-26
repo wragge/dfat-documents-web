@@ -1,12 +1,18 @@
 ---
-title: "234 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 1: 1937-38"
-doc_id: 233
+doc_date: '1938-07-29'
+doc_num: 234
+doc_order: 233
+naa_refs:
+- naa_barcode: 232304
+  naa_control_symbol: '146'
+  naa_series: A2937
+  reference: '[FA : A2937, L. OF N. CONSTITUTION-REFORM OF, ii]'
+title: Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-07-29
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 234 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular Cablegram B185 LONDON, 29 July 1938, 11 p.m.
 
@@ -40,8 +46,8 @@ Finally, the resolution might include proposals in regard to the application of 
 
 'Convinced that their states should continue their participation in the work of the League of Nations, they have put on record that their Governments are decided to maintain that line of action which they indicated by declaring that they regarded the system of sanctions under present conditions and as practised in past years as of a non-obligatory character. They consider further, that this non-obligatory character of sanctions applies not only to a special group of states but to all members of the League of Nations. They are convinced that, in the interests of the League of Nations, this right to independent judgment should be expressly established. It is from this standpoint that they are preparing their participation in the discussions of the report laid before the Assembly for its consideration by the Committee of Twenty- eight.' (5) His Majesty's Government in the United Kingdom will be glad to learn the views of other British Commonwealth Governments on the above suggestions, and if as they trust these suggestions are generally acceptable to these Governments, it is hoped that they will be prepared to instruct their representatives at the Assembly to support proposals on the foregoing lines.
 
-_
+ _
 
 _
 
-_ [FA : A2937, L. OF N. CONSTITUTION-REFORM OF, ii]_
+ _[FA : A2937, L. OF N. CONSTITUTION-REFORM OF, ii]_

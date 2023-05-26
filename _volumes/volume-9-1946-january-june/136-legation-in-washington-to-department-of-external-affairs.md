@@ -1,12 +1,17 @@
 ---
-title: "136 Legation in Washington to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3648
+doc_date: '1946-03-20'
+doc_num: 136
+doc_order: 136
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.7148/47]'
+title: Legation in Washington to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-20
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 136 Legation in Washington to Department of External Affairs
 
 Cablegram 320 WASHINGTON, 20 March 1946, 6.52 p.m.
 
@@ -34,7 +39,7 @@ As such is not necessarily the case and as the Commission does not want to take 
 
 The Commission requests that the United States Government inform the Supreme Commander of its views as expressed above and since the Constitutional Issue is one that is likely to influence the votes of the electors it does so with a minimum of delay.' 2. The text sent to the United States Government for directive to be sent S.C.A.P. in accordance with III(1) of Commission's terms of reference. [3] Suggest foregoing be sent immediately to Macmahon Ball to give him advance notice and let him check on accuracy of J.C.S. [4] transmission to MacArthur.
 
-_
+ _
 
 1 On 8 March Eggleston had reported publication by the Japanese Govt of a draft constitution, which had been 'hailed in glowing terms by MacArthur' without consulting the F.E.C. Eggleston had proposed to move at the F.E.C.'s next meeting on 14 March that, since constitutional changes fell within the terms of reference of the F.E.C., a new constitution should be submitted to it and approved before promulgation; and that the Japanese people should be informed that MacArthur's endorsement of the draft did not mean that these were the only proposals acceptable to the Allied powers.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.7148/47]_
+ _[AA:A3195, 1946, 1.7148/47]_

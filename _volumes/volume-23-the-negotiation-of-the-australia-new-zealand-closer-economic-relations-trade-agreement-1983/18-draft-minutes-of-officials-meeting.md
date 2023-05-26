@@ -1,18 +1,25 @@
 ---
-title: "18 Draft Minutes of Officials' Meeting"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8888
+doc_date: '1979-06-18'
+doc_num: 18
+doc_order: 18
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Draft Minutes of Officials' Meeting
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-06-18
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 18 Draft Minutes of Officials' Meeting
 
 Wellington, 18 June 1979
 
 Officials Economic Committee1 Meeting with John Stone, on 28 May 1979
 
-After introductory remarks by Mr Lough and Mr Stone, Mr Clark opened up with a review of the trade relationship and pointed out that a special trade relationship had developed mainly since World War II. It was no secret that the relationship in 1965/66, when NAFTA came into being, was not a very happy one. The trading imbalance was then seen as a particular problem. In the 1960s there was a belief that growth would continue indefinitely; the attitude taken then was that we should build on industries which were already in existence. On the Nareen meeting last year, Mr Clark commented that nothing very specific had come out of it. It really consisted only of an exchange of platitudes. This illustrated the state of _NAFTA _today. Mr Stone disagreed with this interpretation. Mr Clark continued however suggesting that the recent Ministerial meeting was very similar in that respect. Ministers spent a lot of time talking about horseshoes and 700 tonnes of peas or whatever. He accepted that in general individual trading imbalances should not be seen as a problem but he believed that our trading imbalance with Australia was of a particular kind, and a matter for concern. Both Messrs Stone and Clark agreed that trade restrictions rather than trade imbalances were the underlying cause for concern.
+After introductory remarks by Mr Lough and Mr Stone, Mr Clark opened up with a review of the trade relationship and pointed out that a special trade relationship had developed mainly since World War II. It was no secret that the relationship in 1965/66, when NAFTA came into being, was not a very happy one. The trading imbalance was then seen as a particular problem. In the 1960s there was a belief that growth would continue indefinitely; the attitude taken then was that we should build on industries which were already in existence. On the Nareen meeting last year, Mr Clark commented that nothing very specific had come out of it. It really consisted only of an exchange of platitudes. This illustrated the state of _NAFTA_ today. Mr Stone disagreed with this interpretation. Mr Clark continued however suggesting that the recent Ministerial meeting was very similar in that respect. Ministers spent a lot of time talking about horseshoes and 700 tonnes of peas or whatever. He accepted that in general individual trading imbalances should not be seen as a problem but he believed that our trading imbalance with Australia was of a particular kind, and a matter for concern. Both Messrs Stone and Clark agreed that trade restrictions rather than trade imbalances were the underlying cause for concern.
 
 Mr Lough suggested that our main problem was to make ourselves more internationally competitive.
 
@@ -28,8 +35,6 @@ Mr Jackson then made some remarks about migration across the Tasman and some of 
 
 Mr Lough and Mr Stone both expressed their appreciation of the opportunity to have these informal discussions.
 
-_[AALR 873, W4446/Boxes 312-313, 61/Aus/2/2/1 Part 1 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[AALR 873, W4446/Boxes 312-313, 61/Aus/2/2/1 Part 1 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 The Officials' Economic Committee was a semi-formal body of senior officials who met as necessary to coordinate views and discuss drafts on economic issues. Papers for the important Cabinet Economic Committee were formally submitted by the Chairman of the OEC, usually the Secretary to the Treasury or his representative.
-
-

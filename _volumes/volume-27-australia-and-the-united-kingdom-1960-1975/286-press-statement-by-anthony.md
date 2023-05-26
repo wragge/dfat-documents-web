@@ -1,18 +1,21 @@
 ---
-title: "286 PRESS STATEMENT BY ANTHONY"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10151
+doc_date: '1971-06-23'
+doc_num: 286
+doc_order: 286
+naa_refs:
+- naa_barcode: 551424
+  naa_control_symbol: 727/4/2 PART 13
+  naa_series: A1838
+  reference: '[NAA: Al838, 727/4/2 PART 13]'
+title: PRESS STATEMENT BY ANTHONY
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-23
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 286 PRESS STATEMENT BY ANTHONY
-
-NAA: Al838, 727/4/2 PART 13 
 
 London, 23 June 1971
 
-**Australia Dissatisfied with Luxembourg Decisions**
+ **Australia Dissatisfied with Luxembourg Decisions**
 
 The Australian Deputy Prime Minister, Mr J. D. Anthony, said in London today, 23rd June, that Australia would not regard the agreement reached in Luxembourg on British EEC entry as satisfactory unless there was some provision made to ensure some access for Australian agricultural products during the transitional period.
 
@@ -35,3 +38,5 @@ Mr Anthony said he would continue to press to have instituted the arrangements w
 He said the one encouraging feature of the outcome of Luxembourg was the conclusion of specific arrangements to help meet the position of New Zealand.
 
 Although New Zealand would still face quite serious problems, the action taken was welcomed by the Australian Government as some recognition of the responsibilities which an expanded EEC had to third countries.
+
+[NAA: Al838, 727/4/2 PART 13]

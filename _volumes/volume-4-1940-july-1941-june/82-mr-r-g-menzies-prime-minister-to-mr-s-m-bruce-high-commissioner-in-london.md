@@ -1,14 +1,19 @@
 ---
-title: "82 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1313
+doc_date: '1940-08-28'
+doc_num: 82
+doc_order: 82
+naa_refs:
+- naa_barcode: 176213
+  naa_control_symbol: FAR 14 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 14A]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-28
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 82 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 28 August 1940,
+Cablegram unnumbered 28 August 1940,
 
 Your telegram No. 700 [1] and No. 279 to Whiskard. [2] Please communicate following to the Secretary of State for Dominion Affairs [3]:-
 
@@ -26,7 +31,7 @@ It would scarcely be explicit enough to say that our policy will always remain c
 
 And so Britain's Foreign Policy becomes Empire policy in the fullest sense of the term.' Similarly in reply to a question in the House of Representatives on 20th August the Minister for External Affairs said- 'The appointment of an Australian Minister to Tokyo will in no sense alter the very closest collaboration between the Governments of Australia and the other dominions and the Government of the United Kingdom, in reference to all matters affecting foreign policy, and especially Far Eastern policy. The Government of Australia doubtless will be better informed by reason of this direct representation in Japan. Certainly it will be more intimately and more immediately informed, in relation to matters of interest in the Far East. The reciprocal appointment of a Japanese Minister in Australia will add to the effectiveness of the exchange of information. As to the actual devising of Empire policy, I can say that the policy of close consultation and collaboration which has been followed in the past will be continued.'
 
-_
+ _
 
 1 See Document 77, note 6.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 14A]_
+ _[AA:A981, FAR EAST 14A]_

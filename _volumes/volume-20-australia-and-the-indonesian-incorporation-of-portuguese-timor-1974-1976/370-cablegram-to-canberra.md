@@ -1,12 +1,19 @@
 ---
-title: "370 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8208
+doc_date: '1975-12-10'
+doc_num: 370
+doc_order: 369
+naa_refs:
+- naa_barcode: 1598810
+  naa_control_symbol: 906/30/14/3 PART 2
+  naa_series: A1838
+  reference: '[NAA: AI838, 906/30/14/3, ii]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-12-10
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 370 Cablegram to Canberra
 
 Jakarta, 10 December 1975
 
@@ -14,7 +21,7 @@ O.JA3601 CONFIDENTIAL PRIORITY
 
 ## Portuguese Timor
 
-I saw Malik this morning 10 December. I handed him a copy of the Minister's Statement of the 8 December,1 copies of which had already been given to the Foreign Ministry and which he read without comment in my presence.
+I saw Malik this morning 10 December. I handed him a copy of the Minister's Statement of the 8 December,[1](#f1) copies of which had already been given to the Foreign Ministry and which he read without comment in my presence.
 
   2. I said that as he would know the Australian Government was strongly opposed to the use of force in Timor and that force was not the appropriate way to solve the problem. Malik said he knew this was Australia's attitude and that it had been put to him on a number of occasions both under the former Government and the present Government
   3. Malik said that while accepting this Indonesia still wanted 'the understanding of its friends'. The action which it had felt obliged to take would in the long run be better for everybody. Portugal had shown it was quite unable to act. The civil war would have continued for longer and with more casualties if Indonesia had not agreed to step up its assistance. Indonesia had now done what Portugal should have done in August but which it had been unable to do itself.
@@ -22,7 +29,7 @@ I saw Malik this morning 10 December. I handed him a copy of the Minister's Stat
   5. Malik was quite responsive. He said there 'was a need' and Indonesia would have 'no objection' to the resumption of genuine humanitarian assistance as soon as the safety of personnel could be assured. Malik also said that he hoped to be able to give the ICRC an answer about the return of their personnel in 24 or 48 hours. He would also have no objections at least to their return to Dili. He said that unless there was a FRETILIN counter-attack, which he did not expect, security could be guaranteed in Dili by the de facto APODETJJUDT Administration and the Indonesian volunteers. I asked when aid might actually be resumed. Malik said he would need to check this but he hoped 'soon'. We should follow this up with the Ministry. He did not express a firm view on whether ICRC operations should be based in Kupang or Darwin but did comment that Kupang was 'closer'. 
   6. I asked Malik for his views on the situation in Dili and in fact in East Timor. I also referred to reports in the Australian media of brutality and the killing of women and children. Malik said that the situation in Dili was 'calm'. Reports of indiscriminate killing were 'nonsense'. He assumed they were based on FRETILIN propaganda which he said seemed to have a receptive audience in Australia. 
   7. Malik said that the Portuguese enclave of Ocussi had declared its support for APODETI without bloodshed or any significant FRETILIN opposition. Malik added that FRETILIN was now divided and a considerable number, including soldiers, had 'come over' toAPODETI. Some FRETILIN soldiers who had done so had expressed shock that their military commander and Horta had left Timor shortly after predicting an imminent attack and saying they would fight to the last drop of blood. Malik said he expected FRETILIN resistance to crumble rather than consolidate. 
-  8. I then outlined our approach to the United Nations. (Harry's telegram O.UN46972 which arrived shortly before I saw Malik was helpful and timely but I had not at that stage seen O.UN4698.3) Malik said that any resolution calling upon Indonesia to 'withdraw' its forces would be strongly opposed by Indonesia. He said that Sani had been instructed to say that Indonesia had no troops to withdraw. I said to Malik that, frankly, I thought he was putting Sani in a difficult position as this would not be believed in the United Nations. Malik said that the only Indonesian forces in East Timor now were 'volunteers' who had responded to the request of the four anti-FRETILIN parties for assistance. Naval and air forces had already been withdrawn.
+  8. I then outlined our approach to the United Nations. (Harry's telegram O.UN4697[2](#f2) which arrived shortly before I saw Malik was helpful and timely but I had not at that stage seen O.UN4698.[3](#f3)) Malik said that any resolution calling upon Indonesia to 'withdraw' its forces would be strongly opposed by Indonesia. He said that Sani had been instructed to say that Indonesia had no troops to withdraw. I said to Malik that, frankly, I thought he was putting Sani in a difficult position as this would not be believed in the United Nations. Malik said that the only Indonesian forces in East Timor now were 'volunteers' who had responded to the request of the four anti-FRETILIN parties for assistance. Naval and air forces had already been withdrawn.
   9. Malik said he hoped Australia would not support a demand for Indonesia to withdraw its forces. He said that if Indonesian 'volunteers' withdrew a chaotic situation would again arise. There could possibly be a hard-core FRETILIN counter-attack and more fighting. A settlement would only be further delayed. In any case Indonesia would not withdraw them.
   10. I said we attached importance to an act of self-determination being conducted in East Timor. Malik said he wanted to make it clear that there would be an act of self-determination or free choice with which the United Nations could associate itself. FRETILIN supporters could take part in such an act provided they had laid down their arms. Malik repeated that he expected many FRETILIN supporters now to see that the best course for all was to co-operate with Indonesia. I asked him whether Indonesia would accept a United Nations presence before, during or after order had been restored. Malik said a United Nations mission or observer group would be 'welcome at any time'. The only problem would be guaranteeing their safety outside Dili and other major centres such as Bacau. Fighting could still be going on in the countryside.
   11. Malik said that Indonesia would not repeat not accept a United Nations force or administrative group. I said that Indonesia had been prepared to accept something along these lines in August. Malik said that this was so but the situation had changed. Malik also added that there was now 'no chance' oflndonesia acting in a way which might enable FRETILIN to resume control of Dili or which would invite more fighting and casualties. In all the circumstances, the best and only practicable solution even in humanitarian terms lay in what Indonesia was doing. This provided the 'quickest road to a peaceful settlement'.
@@ -36,12 +43,10 @@ I saw Malik this morning 10 December. I handed him a copy of the Minister's Stat
 
 WOOLCOTT
 
-_[NAA: AI838, 906/30/14/3, ii]_
+ _[NAA: AI838, 906/30/14/3, ii]_
 
   * 1 Document 363. 
   * 2 Document 369.
   * 3 9 December. It reported the 'reasonable result' of Australian negotiations with Guinea-Bissau and Mozambique in the form of a new draft resolution, qualifying the call for Indonesian withdrawal as a means to enable the people of East Timor to exercise their right to self-determination and independence. The earlier resolution, co­ sponsored by the ASEAN-plus group of states, including Australia, was withdrawn, leaving the new draft as the only one before the Committee.
   * Document 368.
   * A fact-finding sub-committee of the Committee of Twenty-Four had recommended in a report dated 24 October that the people of Spanish (Western) Sahara should be enabled to determine their own future 'in complete freedom and in an atmosphere of peace and security' and that there should be some form of UN presence as Spain withdrew from the territory.
-
-

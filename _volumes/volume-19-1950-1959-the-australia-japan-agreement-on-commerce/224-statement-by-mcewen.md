@@ -1,14 +1,19 @@
 ---
-title: "224 Statement By Mcewen"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7829
+doc_date: '1957-07-06'
+doc_num: 224
+doc_order: 224
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : MENZIES PAPERS MS4936/21/440, FOLDER 18]'
+title: Statement By Mcewen
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-07-06
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 224 Statement By Mcewen
-
-## 6th July, 1957
+6th July, 1957
 
 Australia-Japan Trade Agreement The Agreement on Commerce between Australia and Japan signed today is a notable achievement and a great stride forward in the Government's policy of consolidating in intergovernmental trade agreements Australia's existing export markets and in opening up assured new opportunities for export.
 
@@ -114,8 +119,8 @@ Australia will enter into talks with Japan within the next three years on the po
 
 It reduces to a marked extent the risks of checks and blockages to our programmes of development through severe fluctuations in our overseas financial position.
 
-_
+ _
 
 _
 
-_ [NLA : MENZIES PAPERS MS4936/21/440, FOLDER 18]_
+ _[NLA : MENZIES PAPERS MS4936/21/440, FOLDER 18]_

@@ -1,13 +1,18 @@
 ---
-title: "174 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6343
+doc_date: '1949-01-29'
+doc_num: 174
+doc_order: 174
+naa_refs:
+- naa_barcode: 271987
+  naa_control_symbol: 854/10/4/3 PART 3B
+  naa_series: A1838
+  reference: '[AA : A1838, 854/10/3, iii b]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-29
-barcode: 587542
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 174 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram UN70 NEW YORK, 29 January 1949, 5.57 p.m.
 
@@ -25,7 +30,7 @@ Our 69. [1] Following amendments were made to resolution in our 41 [2] before ad
 
 6\. Sub-paragraph 4(F) phrase in brackets to read 'outside the Jogjakarta area' and next sentence to read 'the recommendations of the commission may include provision for such economic measures as are required for the proper functioning of the administration and for the economic well being of the population of the areas involved in such transfers'. [3]
 
-_
+ _
 
 1 Document 170.
 
@@ -35,4 +40,4 @@ _
 
 _
 
-_ [ [AA : A1838, 854/10/3, iii b](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=587542) ]_
+ _[AA : A1838, 854/10/3, iii b]_

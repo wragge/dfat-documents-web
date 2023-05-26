@@ -1,12 +1,18 @@
 ---
-title: "278 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1509
+doc_date: '1941-02-07'
+doc_num: 278
+doc_order: 278
+naa_refs:
+- naa_barcode: 176224
+  naa_control_symbol: FAR 25 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 25B, i]'
+title: Mr A. S. Watt, First Secretary of the Legation in Washington, to Department
+  of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-07
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 278 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs
 
 Cablegram 98 WASHINGTON, 7 February 1941, 4.01 p.m.
 
@@ -42,7 +48,7 @@ Please repeat to Chief New Zealand Naval Staff. [4]
 
 WATT
 
-_
+ _
 
 1 Admiral Sir Ragnar Colvin.
 
@@ -54,4 +60,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 25B, i]_
+ _[AA:A981, FAR EAST 25B, i]_

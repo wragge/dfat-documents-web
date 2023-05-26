@@ -1,12 +1,19 @@
 ---
-title: "41 Cablegram from Australian High Commission in Wellington to Australian Government"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8911
+doc_date: '1979-10-29'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 1509870
+  naa_control_symbol: 370/1/19/18 PART 9
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, ix]'
+title: Cablegram from Australian High Commission in Wellington to Australian Government
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-10-29
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 41 Cablegram from Australian High Commission in Wellington to Australian Government
 
 Wellington, 29 October 1979
 
@@ -24,4 +31,4 @@ Scott, Head of the New Zealand officials group which prepared the paper on close
 
 
 
-_[NAA: A1838, 370/1119/18, ix]_
+ _[NAA: A1838, 370/1119/18, ix]_

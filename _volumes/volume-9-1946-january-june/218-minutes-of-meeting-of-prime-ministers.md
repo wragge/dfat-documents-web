@@ -1,13 +1,17 @@
 ---
-title: "218 Minutes of Meeting of Prime Ministers"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3730
+doc_date: '1946-04-28'
+doc_num: 218
+doc_order: 218
+naa_refs:
+- naa_barcode: 694890
+  naa_control_symbol: '3'
+  naa_series: A6712
+  reference: '[AA:A6712, [3]'
+title: Minutes of Meeting of Prime Ministers
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-28
-barcode: 694890
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 218 Minutes of Meeting of Prime Ministers
 
 PMM(46) 6th Meeting (extracts) LONDON, 28 April 1946, 2 p.m.
 
@@ -55,7 +59,7 @@ MR. CHIFLEY said that, in his view, one of the fundamentals of the present world
 
 [matter omitted]
 
-_
+ _
 
 1 See Document 91 and note 1 thereto. The Soviet Union had supported a plan for collective trusteeship similar to the U.S.
 
@@ -63,4 +67,4 @@ scheme, but proposed that Tripolitania be governed by a Soviet administrator and
 
 _
 
-_ [ [AA:A6712, [3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=694890) ]_
+ _[AA:A6712, [3]]_

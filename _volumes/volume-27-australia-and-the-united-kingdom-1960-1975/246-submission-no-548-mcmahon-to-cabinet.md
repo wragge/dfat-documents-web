@@ -1,20 +1,23 @@
 ---
-title: "246 SUBMISSION NO. 548, MCMAHON TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10111
+doc_date: '1967-11-20'
+doc_num: 246
+doc_order: 246
+naa_refs:
+- naa_barcode: 11566733
+  naa_control_symbol: VOLUME 18
+  naa_series: A5842
+  reference: '[NAA: A5842 VOLUME 18]'
+title: SUBMISSION NO. 548, MCMAHON TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-11-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 246 SUBMISSION NO. 548, MCMAHON TO CABINET
-
-NAA: A5842 VOLUME 18 
 
 Canberra, 20 November 1967
 
 Secret
 
-**Sterling Devaluation: Policy Implications for Australia**
+ **Sterling Devaluation: Policy Implications for Australia**
 
 On Sunday morning the United Kingdom Government announced that the £ sterling had been devalued from $US2.80 to $US2.40, a devaluation of 14.3 per cent.
 
@@ -32,7 +35,7 @@ On Sunday morning the United Kingdom Government announced that the £ sterling h
 
 4\. These United Kingdom measures followed persistent and increasing pressure on sterling in recent weeks. The United Kingdom, despite a variety of measures in the past year or so, has been unable to prevent a serious weakening in its balance of payments on current account; the Middle East crisis and the closure of the Suez Canal earlier this year added further to the strains being felt. The purpose of the devaluation and of the associated steps is to provide a decisive and once-and-for-all correction to the fundamental balance of payments disequilibrium into which the United Kingdom has drifted in recent years.
 
-5\. The devaluation of 14.3 per cent is a moderate one. It is obvious that a major aim in choosing a move of this size was to forestall the possibility of an extensive chain reaction of competitive devaluations by other countries. We have been informed that none of the major countries—such as the United States, the European Common Market countries, Canada and Japan will devalue. A number of small trading nations will doubtless devalue. It has already been stated that Ireland, Finland, Denmark and Israel will devalue; on the other hand, countries such as Sweden, India, South Africa, Malaysia and Singapore are not proposing any change; New Zealand seems likely to devalue. The Situation is plainly very different from that in 1948–491 when countries accounting for about 65 per cent of world trade devalued.
+5\. The devaluation of 14.3 per cent is a moderate one. It is obvious that a major aim in choosing a move of this size was to forestall the possibility of an extensive chain reaction of competitive devaluations by other countries. We have been informed that none of the major countries—such as the United States, the European Common Market countries, Canada and Japan will devalue. A number of small trading nations will doubtless devalue. It has already been stated that Ireland, Finland, Denmark and Israel will devalue; on the other hand, countries such as Sweden, India, South Africa, Malaysia and Singapore are not proposing any change; New Zealand seems likely to devalue. The Situation is plainly very different from that in 1948–49[1](#f1) when countries accounting for about 65 per cent of world trade devalued.
 
 6\. The United States and the United Kingdom are particularly anxious to see devaluations confined to the United Kingdom and a few small trading countries. (Indeed the United Statues is hoping that even New Zealand will not devalue.) The United States Secretary of the Treasury and the Chancellor of the Exchequer have telephoned me to say that the United States would like Australia to stay put and not devalue. This view is undoubtedly shared by other major countries. Their desire is to ‘isolate’ as far as possible the United Kingdom action to ensure that it does not trigger off a run of major devaluations and the chaos that could ensue.
 
@@ -81,3 +84,5 @@ On Sunday morning the United Kingdom Government announced that the £ sterling h
 28\. As I have indicated above, it cannot be taken for granted that the I.M.F Board would approve an Australian devaluation. If we sought approval, we would on present appearances be the only major trading country to be seeking to devalue in the wake of the United Kingdom move. That is a bridge we would have to cross.
 
 1  In 1948 the Attlee Government devalued the pound against the US dollar. The Chiftey Government in Australia quickly followed suit, as the overwhelming bulk of Australia’s trade was with the Sterling Area at that time. One Australian pound was devalued from US$2.80 to US$2.24. 
+
+[NAA: A5842 VOLUME 18]

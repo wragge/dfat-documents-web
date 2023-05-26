@@ -1,12 +1,17 @@
 ---
-title: "298 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 635
+doc_date: '1939-10-17'
+doc_num: 298
+doc_order: 298
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-17
+vol_title: 'Volume 2: 1939'
 ---
-
-# 298 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 563 LONDON, 17 October 1939, 7.21 p.m.
 
@@ -20,7 +25,7 @@ So strong was this feeling doubts were expressed as to whether cause of sinking,
 
 BRUCE
 
-_
+ _
 
 1 A minute on this document read 'Copies to Mr Farrands for transmission to Melbourne for Cabinet 9.10 a.m.... 18/10/38 [sic]'.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

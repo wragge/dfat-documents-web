@@ -1,14 +1,19 @@
 ---
-title: "216 Keane to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2863
+doc_date: '1944-07-06'
+doc_num: 216
+doc_order: 216
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: M1415
+  reference: '[AA:M1415, S-T, JULY-DECEMBER, 1944]'
+title: Keane to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-06
+vol_title: 'Volume 7: 1944'
 ---
 
-# 216 Keane to Curtin
-
-## Letter MELBOURNE, 6 July, 1944
+Letter MELBOURNE, 6 July, 1944
 
 I enclose herewith a brief report of my observations during my recent visit to New Zealand.
 
@@ -78,7 +83,7 @@ Fraser and Mr. Nash have been considered by the New Zealand Government, I consid
 
 R. V. KEANE
 
-_
+ _
 
 1 Matter omitted from this Document consists largely of comments on the availability of consumer goods, the operation of Lend-Lease and reciprocal aid, and the supply position in New Zealand.
 
@@ -92,4 +97,4 @@ _
 
 _
 
-_ [AA:M1415, S-T, JULY-DECEMBER, 1944]_
+ _[AA:M1415, S-T, JULY-DECEMBER, 1944]_

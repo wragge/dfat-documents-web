@@ -1,14 +1,19 @@
 ---
-title: "43 Department of External Affairs to Kirby"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5310
+doc_date: '1948-02-06'
+doc_num: 43
+doc_order: 43
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1948, 0.1745]'
+title: Department of External Affairs to Kirby
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-02-06
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
 
-# 43 Department of External Affairs to Kirby
-
-## Cablegram 60 CANBERRA, 6 February 1948, 2 p.m.
+Cablegram 60 CANBERRA, 6 February 1948, 2 p.m.
 
 IMMEDIATE
 
@@ -18,10 +23,10 @@ It seems to us strange that you and the rest of the Committee should be made the
 
 3\. It is true that the Committee of Good Offices has no precise powers, but the Committee is an agency of the United Nations and as such its recommendations should be accepted. An Assembly recommendation is not necessarily binding on a Government but the whole prestige of the United Nations depends upon each Government giving effect to its majority decisions. In the same way, the parties to the dispute were expected by us to accept as binding recommendations of the Committee of Good Offices, and to that extent, the Committee had wide powers. It is failure by one of the parties to do this and the Committee's willingness to accept compromise which has led to a situation which cannot be regarded as satisfactory from the point of view of a long-term, peaceful settlement based on justice.
 
-_
+ _
 
 1 See Document 39, note 1.
 
 _
 
-_ [AA:A3196, 1948, 0.1745]_
+ _[AA:A3196, 1948, 0.1745]_

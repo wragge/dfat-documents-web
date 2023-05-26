@@ -1,14 +1,19 @@
 ---
-title: "65 Submission 30 To Cabinet By Casey"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7670
+doc_date: '1954-07-28'
+doc_num: 65
+doc_order: 65
+naa_refs:
+- naa_barcode: 4678804
+  naa_control_symbol: '30'
+  naa_series: A4906
+  reference: '[AA : A4906/XMI, VOLUME 1]'
+title: Submission 30 To Cabinet By Casey
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-07-28
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 65 Submission 30 To Cabinet By Casey
-
-## 28th July, 1954
+28th July, 1954
 
 CANBERRA
 
@@ -106,13 +111,13 @@ Apart from Australia, France is the only major trading nation which has not yet 
 
 19\. U.S. endeavours to assist Japan are further demonstrated by their approaches to Australia on the possibility of establishing a source of coking coal here for Japan to replace high-cost American coal.
 
-Australia's position 20. Australia is the largest Sterling Area exporter to Japan. Our exports amounted to �84m. in 1952/53 against imports of �4.7m. We discriminate against Japan in our import licensing measures as well as by applying the General Tariff (the highest rate) to Japanese goods. Some relaxation has been made in import licensing treatment, but the present maximum permissible level of licensing is only �A21m. per annum; even so, imports for the year 1953/54 were only �A6.5m.
+Australia's position 20. Australia is the largest Sterling Area exporter to Japan. Our exports amounted to £84m. in 1952/53 against imports of £4.7m. We discriminate against Japan in our import licensing measures as well as by applying the General Tariff (the highest rate) to Japanese goods. Some relaxation has been made in import licensing treatment, but the present maximum permissible level of licensing is only £A21m. per annum; even so, imports for the year 1953/54 were only £A6.5m.
 
 21\. Japan has already begun to seek alternative sources for goods hitherto imported from Australia. Whereas Japan has so far been buying 90% of its wool from Australia, it will this year buy only 50% from Australia.
 
 22\. It is natural that Japan should attach great importance to an adjustment of its trade relations with Australia, and has made formal approaches to this end, which await reply. Not merely from the commercial viewpoint, but for wider considerations of international policy, it is necessary for the Australian government to re-examine the position.
 
-_ 1 Document 56.
+ _1 Document 56.
 
 2 The short paper, 'Policy of the United Kingdom Government towards Japan', given to the Department of External Affairs by the UK High Commission, is on file AA : A1838/283, 759/1/7, i.
 
@@ -120,4 +125,4 @@ _ 1 Document 56.
 
 _
 
-_ [AA : A4906/XMI, VOLUME 1]_
+ _[AA : A4906/XMI, VOLUME 1]_

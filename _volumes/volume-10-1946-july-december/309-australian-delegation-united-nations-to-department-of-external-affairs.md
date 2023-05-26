@@ -1,12 +1,17 @@
 ---
-title: "309 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4157
+doc_date: '1946-12-11'
+doc_num: 309
+doc_order: 309
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A4311
+  reference: '[AA:A4311, BOX 481]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-11
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 309 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram UN984 NEW YORK, 11 December 1946, 4.36 a.m.
 
@@ -34,7 +39,7 @@ Assembly 398. Fourth Committee. Trusteeship.
 
 8\. We understand that the Soviet group are preparing an attack either for full committee or for Plenary meeting upon procedure followed in presenting agreements. Probably based largely on absence of identifiable [1] parties. See their cautious but firm declaration noted in paragraph 5 of Assembly 397. [2]
 
-_
+ _
 
 1 A sign here indicates 'as received'.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A4311, BOX 481]_
+ _[AA:A4311, BOX 481]_

@@ -1,14 +1,19 @@
 ---
-title: "361 Department of External Affairs to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3392
+doc_date: '1945-11-04'
+doc_num: 361
+doc_order: 361
+naa_refs:
+- naa_barcode: 235794
+  naa_control_symbol: '321'
+  naa_series: A3300
+  reference: '[AA : A3300/2, 45/321]'
+title: Department of External Affairs to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-11-04
+vol_title: 'Volume 8: 1945'
 ---
 
-# 361 Department of External Affairs to Evatt
-
-## Cablegram 1631 CANBERRA, 4 November 1945
+Cablegram 1631 CANBERRA, 4 November 1945
 
 My 1603. [1] Indonesian Policy.
 
@@ -40,7 +45,7 @@ Every day's delay is making civil war more imminent because Dutch forces are alr
 
 9\. You will note from telegram to External Affairs Officer [2] that United Kingdom Government has not been informed. It is left to your discretion as to how and when the United Kingdom Government is informed.
 
-_
+ _
 
 1 Document 352 was repeated to Washington as cablegram 1603.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA : A3300/2, 45/321]_
+ _[AA : A3300/2, 45/321]_

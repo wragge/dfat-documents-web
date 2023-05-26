@@ -1,12 +1,18 @@
 ---
-title: "37 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2328
+doc_date: '1942-09-02'
+doc_num: 37
+doc_order: 37
+naa_refs:
+- naa_barcode: 853952
+  naa_control_symbol: '139'
+  naa_series: AWM123
+  reference: '[DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,FILE
+    No. 3, 48/1942]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-09-02
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 37 Churchill to Curtin
 
 Cablegram 588 [1] LONDON, 2 September 1942, 12.45 a.m.
 
@@ -24,7 +30,7 @@ You mention the scale on which the Americans plan to provide aircraft to replace
 
 Finally I assure you of my entire sympathy and anxiety to help in any way I can to strengthen Australia's defences. I do not think that the United States Chiefs of Staff are neglecting their responsibilities and I think that we should be justified in relying on the action they are taking to provide air forces in south-west Pacific as being adequate to ensure Australia's defence though admittedly not enough for a strategic offensive.
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 2 Corrected from the Prime Minister's Dept inward cablegram register (AA:A3642, 7).
 
@@ -34,4 +40,4 @@ _ 1 Sent through the U.K. Dominions Office.
 
 _
 
-_ [DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,FILE No. 3, 48/1942]_
+ _[DEFENCE:SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,FILE No. 3, 48/1942]_

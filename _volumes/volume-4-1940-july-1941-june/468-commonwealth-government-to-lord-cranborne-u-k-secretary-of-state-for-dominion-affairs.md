@@ -1,12 +1,18 @@
 ---
-title: "468 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1699
+doc_date: '1941-05-23'
+doc_num: 468
+doc_order: 468
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.6805]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-23
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 468 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 315 23 May 1941,
 
@@ -18,7 +24,7 @@ Australia's interest in this question lies in the possibility of Japan as an ene
 
 Realise your Government has given this question full consideration, but hesitate to acquiesce in proposals, for fear the good name of our nation becomes sullied by vicious propaganda used by unscrupulous enemy. Suggest, however, that if such action essential, it be taken after due warning to Germany that if further attacks made our hospital ships must take immediate steps to counteract.
 
-_
+ _
 
 1 AA: A3195, 1941, 1.8147. It reported that in view of persistent German air attacks on U.K. hospital ships the Royal Navy proposed to capture two or three German hospital ships to be held as hostages unfit attacks on U.K. hospital ships ceased.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA: A3196, 1941, 0.6805]_
+ _[AA: A3196, 1941, 0.6805]_

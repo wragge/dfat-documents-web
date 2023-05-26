@@ -1,14 +1,19 @@
 ---
-title: "19 Minute From Crawford To Mcewen"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7624
+doc_date: '1953-02-05'
+doc_num: 19
+doc_order: 19
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CRAWFORD PAPERS MS4514/9/33, ECONOMIC POLICY-RELATIONS WITH JAPAN]'
+title: Minute From Crawford To Mcewen
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-02-05
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 19 Minute From Crawford To Mcewen
-
-## 5th February, 1953
+5th February, 1953
 
 Accession of Japan to GATT 1. General argument is that Japan must live i.e. must be allowed access to markets and raw materials. On political grounds it is most desirable that she should develop her trade with the Western countries and with South and South East Asia rather than be forced towards China and the Soviet bloc. Her accession to GATT would serve this end-it would confer benefits on her but would also impose responsibilities.
 
@@ -36,7 +41,7 @@ However, upshot cannot be predicted, because there could be a good deal of negot
 
 10\. Suggest if suitable opportunity occurs, matter might be mentioned in Cabinet or in discussion with PM, Sen[ator] O'Sullivan and Mr Casey (Mr Casey will no doubt support policy of seeking compromise solution). However, as there are a number of issues on both sides, do not suggest any decision be taken this week, but perhaps matter could be looked at next week when all the views, particularly views of Department of Trade and Customs (who tend to take an opposite view to ours) could be weighed.
 
-_ JAPAN]
+ _
 
 1\. The Intersessional Committee of GATT. See note 2 to Document 16.
 
@@ -44,4 +49,4 @@ _ JAPAN]
 
 _
 
-_ [NLA : CRAWFORD PAPERS MS4514/9/33, ECONOMIC POLICY-RELATIONS WITH_
+ _[NLA : CRAWFORD PAPERS MS4514/9/33, ECONOMIC POLICY-RELATIONS WITH JAPAN]_

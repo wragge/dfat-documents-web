@@ -1,14 +1,20 @@
 ---
-title: "126 Curtin to Dixon Cablegram PW14 IMMEDIATE SECRET"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2417
+doc_date: '1943-02-24'
+doc_num: 126
+doc_order: 126
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[FA:A3196/A3831, 1942-43, FOLDER, PERSONAL OUTWARDS CABLES. FILE COPIES,
+    SPARES AND MASTER SHEETS, 445]'
+title: Curtin to Dixon Cablegram PW14 IMMEDIATE SECRET
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-02-24
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 126 Curtin to Dixon Cablegram PW14 IMMEDIATE SECRET
-
-## CANBERRA, 24 February 1943
+CANBERRA, 24 February 1943
 
 Please convey following personal message from me to President:-
 
@@ -24,7 +30,7 @@ I propose that Sir Owen Dixon should return to Australia for a short visit for p
 
 It is my earnest hope and intention to visit you at a later date and carry to you personally my salutations and respects. [3]
 
-_ 1 Curtin sent a similar message to Bruce for Churchill. See cablegram PL16 of 24 February on file AA:M100, February 1943.
+ _1 Curtin sent a similar message to Bruce for Churchill. See cablegram PL16 of 24 February on file AA:M100, February 1943.
 
 2 See Documents on Australian Foreign Policy 1937-49, vol. V, Document 513.
 
@@ -34,4 +40,4 @@ _ 1 Curtin sent a similar message to Bruce for Churchill. See cablegram PL16 of 
 
 _
 
-_ [FA:A3196/A3831, 1942-43, FOLDER, PERSONAL OUTWARDS CABLES. FILE COPIES, SPARES AND MASTER SHEETS, 445]_
+ _[FA:A3196/A3831, 1942-43, FOLDER, PERSONAL OUTWARDS CABLES. FILE COPIES, SPARES AND MASTER SHEETS, 445]_

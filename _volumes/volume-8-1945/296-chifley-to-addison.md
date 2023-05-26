@@ -1,12 +1,17 @@
 ---
-title: "296 Chifley to Addison"
-volume: "Volume 8: 1945"
-doc_id: 3327
+doc_date: '1945-10-06'
+doc_num: 296
+doc_order: 296
+naa_refs:
+- naa_barcode: 4224464
+  naa_control_symbol: 1945/49
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.25717/8/9]'
+title: Chifley to Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-06
+vol_title: 'Volume 8: 1945'
 ---
-
-# 296 Chifley to Addison
 
 Cablegram 327 CANBERRA, 6 October 1945
 
@@ -20,10 +25,10 @@ Reference my No. 324 of 4th October [1], the Commonwealth Government nominates L
 
 CHIFLEY
 
-_
+ _
 
 1 Document 291.
 
 _
 
-_ [AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.25717/8/9]_
+ _[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.25717/8/9]_

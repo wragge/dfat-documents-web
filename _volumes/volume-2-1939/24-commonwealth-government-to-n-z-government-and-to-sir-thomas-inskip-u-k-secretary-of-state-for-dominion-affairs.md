@@ -1,12 +1,18 @@
 ---
-title: "24 Commonwealth Government to N.Z. Government and to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 2: 1939"
-doc_id: 361
+doc_date: '1939-02-15'
+doc_num: 24
+doc_order: 24
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DEFENCE: SPECIAL COLLECTION 1, SR 1/1, BOX 96]'
+title: Commonwealth Government to N.Z. Government and to Sir Thomas Inskip, U.K. Secretary
+  of State for Dominion Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-02-15
+vol_title: 'Volume 2: 1939'
 ---
-
-# 24 Commonwealth Government to N.Z. Government and to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs
 
 Cablegram unnumbered/18 15 February 1939,
 
@@ -18,7 +24,7 @@ As the success of the Conference is dependent upon adequate preliminary examinat
 
 (1) A copy of this cablegram is being despatched to the United Kingdom Government.
 
-_
+ _
 
 1 Document 9.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION 1, SR 1/1, BOX 96]_
+ _[DEFENCE: SPECIAL COLLECTION 1, SR 1/1, BOX 96]_

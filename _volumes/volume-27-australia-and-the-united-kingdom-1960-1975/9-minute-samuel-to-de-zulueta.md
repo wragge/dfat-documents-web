@@ -1,20 +1,23 @@
 ---
-title: "9 MINUTE, SAMUEL TO DE ZULUETA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9876
+doc_date: '1961-07-24'
+doc_num: 9
+doc_order: 9
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 11/3202]'
+title: MINUTE, SAMUEL TO DE ZULUETA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 9 MINUTE, SAMUEL TO DE ZULUETA
-
-UKNA: PREM 11/3202
 
 London, 24 July 1961
 
 Top Secret
 
-Thank you for your letter of July 4 enclosing one from Mr. Menzies about giving the Australians information about nuclear weapons. 2The Foreign Secretary has minuted on this as follows:
+Thank you for your letter of July 4 enclosing one from Mr. Menzies about giving the Australians information about nuclear weapons. [2](#f2)The Foreign Secretary has minuted on this as follows:
 
 > ‘I have read Mr. Menzies’s letter and these are my feelings.
 > 
@@ -26,10 +29,12 @@ Thank you for your letter of July 4 enclosing one from Mr. Menzies about giving 
 > 
 > I would feel that it would be much better to suggest that we and the Americans should enter into a commitment now, not only to supply the weapons, but the means of delivery, when Australia felt that her safety was in imminent danger. This would need American co-operation but I don’t see why they should object to a secret agreement of this kind.’
 
-Although there has now been another approach from the Australians to the Atomic Energy Authority and, through them, to the Ministry of Defence, I am not sending copies of this letter to anyone. Perhaps you would do any distributing that you may think desirable. 3
+Although there has now been another approach from the Australians to the Atomic Energy Authority and, through them, to the Ministry of Defence, I am not sending copies of this letter to anyone. Perhaps you would do any distributing that you may think desirable. [3](#f3)
 
 1  Ian Samuel, Home’s Principal Private Secretary; Philip de Zulueta, Macmillan’s Foreign Policy Private Secretary.
 
 2 See Document 8.
 
 3  In reply to Menzies, Macmillan said the UK would need to consult the US. He also offered to provide information about tactical nuclear weapons, and this was the basis of UK Ministry of Defence discussions in September 1961 with Lt Gen. Sir R. Pollard, Chief of the Australian Army General Staff (UKNA: DEFE 7/2148). On 6 September Menzies sent a further message to Macmillan suggesting, in view of renewed Soviet nuclear testing, that the matters raised in his letter of 29 June should be deferred for the time being (UKNA: PREM 11/3202).
+
+[UKNA: PREM 11/3202]

@@ -1,12 +1,17 @@
 ---
-title: "154 Curtin to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2801
+doc_date: '1944-05-17'
+doc_num: 154
+doc_order: 154
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 3]'
+title: Curtin to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-17
+vol_title: 'Volume 7: 1944'
 ---
-
-# 154 Curtin to Forde
 
 Cablegram 27 LONDON, 17 May 1944, 9.40 p.m.
 
@@ -34,8 +39,8 @@ I have to add that we should do our utmost and the first step appears to be to a
 
 Would be glad if action could be taken at once.
 
-_
+ _
 
 _
 
-_ [CSIRO ARCHIVES:SERIES 380, ITEM 3]_
+ _[CSIRO ARCHIVES:SERIES 380, ITEM 3]_

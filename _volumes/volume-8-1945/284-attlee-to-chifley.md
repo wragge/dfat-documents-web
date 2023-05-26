@@ -1,12 +1,17 @@
 ---
-title: "284 Attlee to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3315
+doc_date: '1945-10-01'
+doc_num: 284
+doc_order: 284
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 1797]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-01
+vol_title: 'Volume 8: 1945'
 ---
-
-# 284 Attlee to Chifley
 
 Cablegram 396 LONDON, 1 October 1945, 12 noon
 
@@ -30,10 +35,10 @@ Reference to Governments would, therefore, be made by the respective Chiefs of S
 
 7\. We are communicating separately with India.
 
-_
+ _
 
 1 Document 256.
 
 _
 
-_ [AA : A5954, BOX 1797]_
+ _[AA : A5954, BOX 1797]_

@@ -1,12 +1,18 @@
 ---
-title: "246 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 1: 1937-38"
-doc_id: 245
+doc_date: '1938-09-02'
+doc_num: 246
+doc_order: 245
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 35/554]'
+title: Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley,
+  U.K. Secretary of State for Dominion Affairs
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-02
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 246 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 167 CANBERRA, 2 September 1938
 
@@ -18,7 +24,7 @@ It is inevitable that with the comparative inexperience of the Departmental advi
 
 The Prime Minister's views as recorded in my telegram No. 165 are in my opinion representative of a widefelt feeling in this country. With all the disadvantages of the dispersal of the Ministers and the infrequent Cabinet meetings it must be recognised that there is a compensating advantage in that contact is maintained with the broad lines of public opinion which were presumably reflected with accuracy in slightly modified support given in the Cabinet to the views expressed to me on 31st August by the Prime Minister. In so far as his views suggested the probability of an embarrassing divergence from the policy of the United Kingdom Government I think that this was due to the fact that he was and had for some weeks been out of touch with colleagues with whom he could share and discuss his anxieties and to an over-simplified appreciation of the complex issues which I know had been submitted by the Departmental advisers. I have reason to believe that having done their best to express accurately the attitude of the Commonwealth on the situation as it is Government will be anxious to have the views of Page [7], Menzies [8] and White [9] fresh from the European scene before volunteering further observations. They arrive at Fremantle on 6th September.
 
-_
+ _
 
 1 Not printed; see PRO: DO 35/554 2 Lt Col W. R. Hodgson.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [PRO : DO 35/554]_
+ _[PRO : DO 35/554]_

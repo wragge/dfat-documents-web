@@ -1,12 +1,25 @@
 ---
-title: "11 Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Mr R. G. Casey, Treasurer"
-volume: "Volume 2: 1939"
-doc_id: 348
+doc_date: '1939-01-25'
+doc_num: 11
+doc_order: 11
+naa_refs:
+- naa_barcode: 235473
+  naa_control_symbol: '1'
+  naa_series: A3300
+  reference: '[FA: AA1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[On 5 December 1938 Casey wrote a personal letter to Officer in which
+    he asked for Officer''s views on upgrading Australia''s representation in the
+    United States (ANL: Officer, MS 2629/1/631). The following extract is taken from
+    the reply.]'
+title: Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Mr
+  R. G. Casey, Treasurer
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-01-25
+vol_title: 'Volume 2: 1939'
 ---
-
-# 11 Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Mr R. G. Casey, Treasurer
 
 Letter (extract) WASHINGTON, 25 January 1939
 
@@ -24,13 +37,13 @@ Finally, by my reference to foreign policy I mean that these posts abroad are on
 
 F. KEITH OFFICER
 
-_
+ _
 
 1 S.M. Bruce, High Commissioner in London, who arrived in Australia for consultation on 23 January 1939.
 
 _
 
-_
+ _
 
 [FA: AA1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]
 

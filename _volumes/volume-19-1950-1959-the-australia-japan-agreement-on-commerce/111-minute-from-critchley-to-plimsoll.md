@@ -1,14 +1,19 @@
 ---
-title: "111 Minute From Critchley To Plimsoll"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7716
+doc_date: '1955-08-12'
+doc_num: 111
+doc_order: 111
+naa_refs:
+- naa_barcode: 1888222
+  naa_control_symbol: J3
+  naa_series: A10299
+  reference: '[AA : A10299/2, J3 JAPAN-AUSTRALIAN POLICY]'
+title: Minute From Critchley To Plimsoll
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1955-08-12
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 111 Minute From Critchley To Plimsoll
-
-## 12th August, 1955
+12th August, 1955
 
 CANBERRA
 
@@ -30,7 +35,7 @@ Since we stand to gain commercially as well as in our general relations with Jap
 
 5\. I don't see that there is anything that we can do along the lines suggested by Mr Eckersley in Paragraph 27. [2]
 
-_
+ _
 
 1 Document 110.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA : A10299/2, J3 JAPAN-AUSTRALIAN POLICY]_
+ _[AA : A10299/2, J3 JAPAN-AUSTRALIAN POLICY]_

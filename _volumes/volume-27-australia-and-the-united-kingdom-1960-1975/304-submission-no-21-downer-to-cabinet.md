@@ -1,20 +1,23 @@
 ---
-title: "304 SUBMISSION NO. 21, DOWNER TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10170
+doc_date: '1962-01-12'
+doc_num: 304
+doc_order: 304
+naa_refs:
+- naa_barcode: 1986655
+  naa_control_symbol: 1970/95739
+  naa_series: A446
+  reference: '[NAA: A446, 1970/95739]'
+title: SUBMISSION NO. 21, DOWNER TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-01-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 304 SUBMISSION NO. 21, DOWNER TO CABINET
-
-NAA: A446, 1970/95739
 
 Canberra, 12 January 1962
 
 Confidential
 
-****
+ ****
 
 The United Kingdom Government’s Commonwealth Immigrants Bill
 
@@ -98,10 +101,12 @@ The memorandum also asked whether:–
 
 17\. I am told that the Department of Labour and National Service is examining this request.
 
-18\. I am informed that Sir Grantley Adams, the Prime Minister of the West Indies Federation, has suggested to Mr Macmillan that the movement of persons within the Commonwealth should be a matter for discussion at a Commonwealth Prime Ministers’ Meeting. 1 Mr Macmillan has authorised Sir Grantly to use the following formula in public statement:
+18\. I am informed that Sir Grantley Adams, the Prime Minister of the West Indies Federation, has suggested to Mr Macmillan that the movement of persons within the Commonwealth should be a matter for discussion at a Commonwealth Prime Ministers’ Meeting. [1](#f1) Mr Macmillan has authorised Sir Grantly to use the following formula in public statement:
 
 > ‘The question of movement within the Commonwealth was discussed between Sir Grantly Adams and the Prime Minister. The Prime Minister did not exclude the possibility that the general subject of immigration might be discussed at a Commonwealth Prime Ministers’ Meeting. But he explained that no meeting was at present in prospect and that the subjects of discussion were matters for agreement between all Commonwealth Prime Ministers.’
 
 Sir Grantly Adams has been asked to regard this formula as confidential until Commonwealth Governments have been informed.
 
 1  See UKNA: PREM 11/3664; see also Document 161. 
+
+[NAA: A446, 1970/95739]

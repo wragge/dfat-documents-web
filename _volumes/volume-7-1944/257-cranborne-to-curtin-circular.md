@@ -1,12 +1,17 @@
 ---
-title: "257 Cranborne to Curtin Circular"
-volume: "Volume 7: 1944"
-doc_id: 2904
+doc_date: '1944-08-24'
+doc_num: 257
+doc_order: 257
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 6]'
+title: Cranborne to Curtin Circular
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-24
+vol_title: 'Volume 7: 1944'
 ---
-
-# 257 Cranborne to Curtin Circular
 
 Cablegram D1195 LONDON, 24 August 1944, 5.45 p.m.
 
@@ -22,7 +27,7 @@ Curtin also made some proposals set out more fully in a paper [2] reproduced in 
 
 3\. We should be glad to learn whether this proposal commends itself to you. If so, you would, no doubt, wish to consider whether your military liaison officers at present in this country could represent you, or whether you would wish to send officers specially to this country for the purpose, and if so, when they would be available.
 
-_
+ _
 
 1 In AA:A6712, 1944, Top Secret, PMM(44) 14th Meeting. For Curtin's comments on this discussion see Document 151.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 6]_
+ _[AA:A5954, BOX 6]_

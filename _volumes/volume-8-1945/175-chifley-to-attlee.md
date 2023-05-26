@@ -1,12 +1,17 @@
 ---
-title: "175 Chifley to Attlee"
-volume: "Volume 8: 1945"
-doc_id: 3206
+doc_date: '1945-08-11'
+doc_num: 175
+doc_order: 175
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 588]'
+title: Chifley to Attlee
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-11
+vol_title: 'Volume 8: 1945'
 ---
-
-# 175 Chifley to Attlee
 
 Cablegram 227 CANBERRA, 11 August 1945
 
@@ -40,7 +45,7 @@ As indicated later, we have depressed the priorities of the works programmes for
 
 CHIFLEY
 
-_
+ _
 
 1 Document 147.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 588]_
+ _[AA : A5954, BOX 588]_

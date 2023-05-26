@@ -1,15 +1,19 @@
 ---
-title: "78 Submission 142 To Cabinet By Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7683
+doc_date: '1954-10-14'
+doc_num: 78
+doc_order: 78
+naa_refs:
+- naa_barcode: 4714255
+  naa_control_symbol: '142'
+  naa_series: A4906
+  reference: '[AA : A4906, VOLUME 5]'
+title: Submission 142 To Cabinet By Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-10-14
-barcode: 209115
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 78 Submission 142 To Cabinet By Menzies
-
-## 14th October, 1954
+14th October, 1954
 
 CANBERRA
 
@@ -89,7 +93,7 @@ Conclusions 17. If it is considered in the light of the above that an immediate 
 
 (4) Ministers give further consideration to the merits of the two possible types of agreement.
 
-_
+ _
 
 1 Document 75.
 
@@ -109,4 +113,4 @@ _
 
 _
 
-_ [ [AA : A4906, VOLUME 5](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=209115) ]_
+ _[AA : A4906, VOLUME 5]_

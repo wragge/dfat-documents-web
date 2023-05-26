@@ -1,17 +1,25 @@
 ---
-title: "15 Submission to Willesee"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7854
+doc_date: '1974-07-16'
+doc_num: 15
+doc_order: 15
+naa_refs:
+- naa_barcode: 550913
+  naa_control_symbol: 3038/10/1 PART 7
+  naa_series: A1838
+  reference: '[NAA: A1838, 3038110/1, vii]'
+title: Submission to Willesee
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 15 Submission to Willesee
 
 Canberra, 16 [July] 1974
 
 CONFIDENTIAL
 
-**Portuguese Timor: Visit to Australia of Ramos Horta**
+ **Portuguese Timor: Visit to Australia of Ramos Horta**
 
 Mr Ramos Horta, a leader of the Timorese Social Democratic Association (ASDT), arrived in Canberra on Tuesday evening, 16 July.
 
@@ -23,7 +31,7 @@ Mr Ramos Horta, a leader of the Timorese Social Democratic Association (ASDT), a
   7. Horta may seek assurances of the opening of an Australian consulate in Portuguese Timor. The Department is, in fact, considering recommending this but any assurance given to Horta is certain to be exploited domestically by him on his return. We have not yet given an indication of our thinking to either the Portuguese or the Indonesians.
   8. It is recommended:
     1. that you should avoid receiving Mr Ramos Horta;
-    2. that discussions be conducted at the official level.1
+    2. that discussions be conducted at the official level.[1](#f1)
 
 
 
@@ -31,8 +39,6 @@ G.B.FEAKES
 First Assistant Secretary  
 South Asia Division
 
-_ [NAA: A1838, 3038110/1, vii]_
+ _[NAA: A1838, 3038110/1, vii]_
 
   * 1 Willesee approved the recommendations.
-
-

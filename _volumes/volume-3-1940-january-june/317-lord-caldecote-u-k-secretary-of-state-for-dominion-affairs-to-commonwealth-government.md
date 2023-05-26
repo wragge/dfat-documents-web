@@ -1,12 +1,18 @@
 ---
-title: "317 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1083
+doc_date: '1940-05-30'
+doc_num: 317
+doc_order: 317
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3733]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-30
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 317 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 174 LONDON, 30 May 1940, 9.10 p.m.
 
@@ -28,7 +34,7 @@ The French and British interests stand together today as much as ever and the so
 
 I should like to stress the extreme importance of the strictest secrecy in regard to the contents of this telegram and my immediately succeeding telegram.
 
-_
+ _
 
 1 Document 294.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3733]_
+ _[FA: A3195, 1.3733]_

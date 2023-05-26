@@ -1,12 +1,17 @@
 ---
-title: "105 Bruce to Curtin"
-volume: "Volume 8: 1945"
-doc_id: 3136
+doc_date: '1945-06-07'
+doc_num: 105
+doc_order: 105
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2253]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-06-07
+vol_title: 'Volume 8: 1945'
 ---
-
-# 105 Bruce to Curtin
 
 Cablegram 71A LONDON, 7 June 1945, 4 p.m.
 
@@ -32,10 +37,10 @@ He pressed me to take the matter up again with my Government to see if there cou
 
 BRUCE
 
-_
+ _
 
 1 On file AA : A1068, E47/38/8. It instructed Bruce to inform, the Portuguese Ambassador, the Duke of Palmella, that the Commonwealth Govt was not able to accede for the time being to a Portuguese request for a diplomatic exchange. It added, for Bruce's own information, that favourable consideration of the Portuguese request would be better deferred pending 'some clarification of the military and political position of Portuguese Timor'.
 
 _
 
-_ [AA : A5954, BOX 2253]_
+ _[AA : A5954, BOX 2253]_

@@ -1,12 +1,17 @@
 ---
-title: "94 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1848
+doc_date: '1941-10-30'
+doc_num: 94
+doc_order: 95
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-10-30
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 94 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs
 
 Cablegram 486 TOKYO, 30 October 1941, 6.40 p.m.
 
@@ -36,7 +41,7 @@ In general discussion the latter expressed surprise that His Majesty's Governmen
 
 OFFICER
 
-_
+ _
 
 1 Cablegram 482 of 24 October (on file AA : A981, Japan 181, iv) described Japanese press comment about the govt formed by General Hideki Tojo. Preceding cablegrams about the new ministry were nos 476,477 and 478 of 17, 18 and 19 October(on file AA : A981,Japan 40,v)and 480 of 21 October (on file AA : A1608, A41/1/6, vi).
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

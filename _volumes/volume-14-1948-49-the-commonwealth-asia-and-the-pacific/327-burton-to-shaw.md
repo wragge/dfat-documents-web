@@ -1,12 +1,18 @@
 ---
-title: "327 Burton to Shaw"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6103
+doc_date: '1948-03-05'
+doc_num: 327
+doc_order: 327
+naa_refs:
+- naa_barcode: 271532
+  naa_control_symbol: 482/2 PART 2
+  naa_series: A1838
+  reference: '[AA:A1838/278, 492/2, ii]'
+title: Burton to Shaw
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-03-05
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 327 Burton to Shaw
 
 Memorandum 84 CANBERRA, 5 March 1948
 
@@ -28,7 +34,7 @@ Sebald's request for our views on the work of the Council, we have in mind that 
 
 Sebald and request his help in maintaining the positive aspects of the Council's work, at the same time you should take the opportunity of indicating to S.C.A.P. that we are genuinely appreciative of the many and varied reports he has presented from time to time for the Council's information.
 
-_
+ _
 
 1 Volume 12, Document 498.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA:A1838/278, 492/2, ii]_
+ _[AA:A1838/278, 492/2, ii]_

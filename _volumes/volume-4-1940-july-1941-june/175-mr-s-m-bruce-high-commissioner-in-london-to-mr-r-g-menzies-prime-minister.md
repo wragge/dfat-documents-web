@@ -1,12 +1,17 @@
 ---
-title: "175 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1406
+doc_date: '1940-10-16'
+doc_num: 175
+doc_order: 175
+naa_refs:
+- naa_barcode: 179108
+  naa_control_symbol: NETH 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, NETHERLANDS 20, i]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-16
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 175 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 921 LONDON, 16 October 1940, 6.15 p.m.
 
@@ -20,7 +25,7 @@ After suitably expressing our appreciation of suggestion, I outlined our attitud
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 14 October. See file AA:A981, New Caledonia 37.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A981, NETHERLANDS 20, i]_
+ _[AA:A981, NETHERLANDS 20, i]_

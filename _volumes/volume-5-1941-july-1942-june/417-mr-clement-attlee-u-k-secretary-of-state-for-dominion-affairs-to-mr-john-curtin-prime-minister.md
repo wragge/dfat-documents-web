@@ -1,12 +1,18 @@
 ---
-title: "417 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2171
+doc_date: '1942-03-17'
+doc_num: 417
+doc_order: 418
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.11098]'
+title: Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-17
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 417 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram 318 LONDON, 17 March 1942, 8.50 [p.m.]
 
@@ -20,7 +26,7 @@ I was expecting to receive your impressions and have only now learned that you w
 
 2\. I wish here and now, however, to make the following plain to you. The fact that an American commander will be in charge of all the operations in the Pacific Area will not be regarded by His Majesty's Government as in any way absolving them from their determination and duty to stand to your aid to the best of their ability, and if you are actually invaded in force, which has by no means come to pass and may never come to pass, we shall do our utmost to divert British troops and British ships rounding the Cape or already in the Indian Ocean to your succour, albeit at the expense of India and the Middle East. Ends. [5]
 
-_
+ _
 
 1 Winston Churchill.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA:A3195, 1942, 1.11098]_
+ _[AA:A3195, 1942, 1.11098]_

@@ -1,12 +1,17 @@
 ---
-title: "152 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1906
+doc_date: '1941-12-01'
+doc_num: 152
+doc_order: 153
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-01
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 152 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 1064 WASHINGTON, 1 December 1941, 11.48 p.m.
 
@@ -50,7 +55,7 @@ He thought that this might be very valuable against Japanese propaganda or intim
 
 CASEY
 
-_
+ _
 
 1 Lord Halifax.
 
@@ -66,4 +71,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

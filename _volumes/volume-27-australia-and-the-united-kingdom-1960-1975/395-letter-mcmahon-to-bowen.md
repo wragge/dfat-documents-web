@@ -1,14 +1,17 @@
 ---
-title: "395 LETTER, MCMAHON TO BOWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10261
+doc_date: '1972-08-15'
+doc_num: 395
+doc_order: 395
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA: A1209, 1971/9449 PART 2]'
+title: LETTER, MCMAHON TO BOWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-08-15
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 395 LETTER, MCMAHON TO BOWEN
-
-NAA: A1209, 1971/9449 PART 2
 
 Canberra, 15 August 1972
 
@@ -59,3 +62,5 @@ Other matters could be handed over at an appropriate stage, but without making a
 In conclusion, I want to stress the special role and functions which have been the reason for the administration of Australia House over so many years by Prime Ministers and their Departments.
 
 The links between Britain and Australia are both broad and deep. Australia House has evolved to sustain and fulfil them and I am sure that you and your officers will do everything they can to carry on the tradition by ensuring that the administration of Australia House continues to reflect the unique importance of the British relationship.
+
+[NAA: A1209, 1971/9449 PART 2]

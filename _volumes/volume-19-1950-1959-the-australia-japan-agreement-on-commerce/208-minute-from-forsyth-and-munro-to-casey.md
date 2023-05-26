@@ -1,14 +1,19 @@
 ---
-title: "208 Minute From Forsyth And Munro To Casey"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7813
+doc_date: '1957-05-16'
+doc_num: 208
+doc_order: 208
+naa_refs:
+- naa_barcode: 554935
+  naa_control_symbol: 759/1/7 PART 6
+  naa_series: A1838
+  reference: '[AA : A1838/283, 759, vi]'
+title: Minute From Forsyth And Munro To Casey
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-05-16
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 208 Minute From Forsyth And Munro To Casey
-
-## 16th May, 1957
+16th May, 1957
 
 CANBERRA
 
@@ -28,7 +33,7 @@ The submission [1] by the Australian delegation of Departmental representatives 
 
 8\. It is recommended that the recommendations 1-4 in the delegation's submission be supported.
 
-_
+ _
 
 1 Document 206.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA : A1838/283, 759, vi]_
+ _[AA : A1838/283, 759, vi]_

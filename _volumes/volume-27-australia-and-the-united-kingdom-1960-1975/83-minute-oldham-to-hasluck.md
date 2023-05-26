@@ -1,30 +1,33 @@
 ---
-title: "83 MINUTE, OLDHAM TO HASLUCK"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9948
+doc_date: '1967-07-19'
+doc_num: 83
+doc_order: 83
+naa_refs:
+- naa_barcode: 1728296
+  naa_control_symbol: TS691/1 PART 12
+  naa_series: A1838
+  reference: '[NAA:A1838, T5691/1 PART 12]'
+title: MINUTE, OLDHAM TO HASLUCK
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-07-19
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 83 MINUTE, OLDHAM TO HASLUCK
-
-NAA:A1838, T5691/1 PART 12
 
 Canberra, 19 July 1967
 
 Immediate
 
-****
+ ****
 
 Britain’s Defence Policy
 
-I served as a departmental officer in Britain from February 1939 to November 1945. Previously ( 1928) and since (1948) I have lived there. The announcement of Britain’s intended complete withdrawal of forces from East of Suez by mid-nineteen-seventies therefore is easier to understand because uppermost in the British Government and peoples’ minds is the wish to regain their national greatness. They remember (especially men like Harold Wilson) who was a fellow-companion as Personal Assistant to Boyd-Orr1 as a member of the British War Cabinet while I was P.A. to the Australian member (Bruce)2 that the U.S.A. drove hard bargains in regard to the sale of British assets in the U.S.A. before the United States was eventually forced into the war by the Japanese. There is no fellow-feeling between the British and the Americans as exists between the Australians and the Americans.
+I served as a departmental officer in Britain from February 1939 to November 1945. Previously ( 1928) and since (1948) I have lived there. The announcement of Britain’s intended complete withdrawal of forces from East of Suez by mid-nineteen-seventies therefore is easier to understand because uppermost in the British Government and peoples’ minds is the wish to regain their national greatness. They remember (especially men like Harold Wilson) who was a fellow-companion as Personal Assistant to Boyd-Orr[1](#f1) as a member of the British War Cabinet while I was P.A. to the Australian member (Bruce)[2](#f2) that the U.S.A. drove hard bargains in regard to the sale of British assets in the U.S.A. before the United States was eventually forced into the war by the Japanese. There is no fellow-feeling between the British and the Americans as exists between the Australians and the Americans.
 
 2\. This is not to say that the inherent British wish of outward thinking will not be squelched. I submit that Britain has no rival for the leadership of Europe and that appears to be the Wilson Government’s immediate aim. The American President spoke in a critical vein of Britain’s decision and alluded to the possible heavier strains it imposed on his country. But surely if the U.S.A. is to retain for itself the highest standard of living in the world (there has been an increase by 10% in the number of American millionaires since Mr. Johnson took office), the rest of the world must remain at what can be called peace.
 
 3\. So far as Australia is concerned our Prime Minister’s disappointment has been expressed in temperate understanding terms and he has wisely spoken of the dangerous strategic situation in which we live. Moreover he has succinctly pointed to the need for the future generations of Australians not to look for an easier way of life. Might I be bold enough to suggest that he might have taken the opportunity to pay tribute to Britain for its assistance in our past protection and development and to have concluded his remarks in something of the strain of Churchill’s speeches of 1940, 1941, and 1942 when he roused his countrymen by saying that the safety of not merely Britain but of the world depended on British exertion. (In our case the emphasis might be placed on the fact that Australia’s future freedom depends almost wholly on our own efforts.)
 
-4\. Australians, under Curtin,3 responded to appeals in a similar vein. And it was Curtin that men like George Vl,4 Allanbrook [sic] (C.I.G.S-)5 and we three Australians at the London Office—Bruce, Stirling6 and myself doing our 6½ days a week—found to be the most popular of visiting Australian Prime Ministers.
+4\. Australians, under Curtin,[3](#f3) responded to appeals in a similar vein. And it was Curtin that men like George Vl,[4](#f4) Allanbrook [sic] (C.I.G.S-)[5](#f5) and we three Australians at the London Office—Bruce, Stirling[6](#f6) and myself doing our 6½ days a week—found to be the most popular of visiting Australian Prime Ministers.
 
 5\. The Prime Minister of Britain in his statement of defence policy has looked to the future while the President of the U.S.A. has rather looked to the past.
 
@@ -41,3 +44,5 @@ I served as a departmental officer in Britain from February 1939 to November 194
 5  Field Marshal Alan Francis Brooke, 1st Viscount Alan Brooke, Chief of the Imperial General Staff, 1941–46.
 
 6  Alfred Stirling, Australian diplomat who served as Assistant External Affairs Officer, London, 1937–54.
+
+[NAA:A1838, T5691/1 PART 12]

@@ -1,22 +1,25 @@
 ---
-title: "374 MEMORANDUM, BUNTING TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10240
+doc_date: '1971-07-10'
+doc_num: 374
+doc_order: 374
+naa_refs:
+- naa_barcode: 8301723
+  naa_control_symbol: 1971/9449 PART 1
+  naa_series: A1209
+  reference: '[NAA:A1209, 1971/9449 PART 1]'
+title: MEMORANDUM, BUNTING TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-07-10
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 374 MEMORANDUM, BUNTING TO MCMAHON
-
-NAA:A1209, 1971/9449 PART 1
 
 Canberra, 10 July 1971
 
 Confidential
 
-**Australia House1**
+ **Australia House[1](#f1)**
 
-You will recall speaking to me and Sir Frederick Wheeler 2 about the transfer of Australia House to Foreign Affairs for administrative purposes.
+You will recall speaking to me and Sir Frederick Wheeler [2](#f2) about the transfer of Australia House to Foreign Affairs for administrative purposes.
 
 2\. It was left with the Department of the Prime Minister and Cabinet when you took over but on the basis that its transfer would be a matter for early consideration.
 
@@ -37,3 +40,5 @@ You will recall speaking to me and Sir Frederick Wheeler 2 about the transfer of
 1 McMahon has minuted randomly on the document: ‘Go easy!’; ‘No! Speak’; ‘No Way’; and ‘Speak Urgently’. At Paragraph 5 he notes specifically: ‘I have never given a policy directive’. 
 
 2 Chairman, Commonwealth Public Service Board. 
+
+[NAA:A1209, 1971/9449 PART 1]

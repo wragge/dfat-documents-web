@@ -1,14 +1,19 @@
 ---
-title: "337 Hodgson to Davis"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2628
+doc_date: '1943-11-27'
+doc_num: 337
+doc_order: 337
+naa_refs:
+- naa_barcode: 12083266
+  naa_control_symbol: 1944/305/2 PART 1
+  naa_series: A989
+  reference: '[AA:A989, 43-44/305/2, i]'
+title: Hodgson to Davis
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-11-27
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 337 Hodgson to Davis
-
-## Letter CANBERRA, 27 November 1943
+Letter CANBERRA, 27 November 1943
 
 In regard to your letter of November 23rd to the Minister for External Affairs regarding the Extraterritoriality Treaty with China [1], I am directed by the Minister to ask if you would be good enough to send to your Prime Minister a telegram along the following lines:-
 
@@ -22,7 +27,7 @@ In the circumstances we suggest that Canada should not complete the matter nor c
 
 W.R.H.
 
-_
+ _
 
 1 On file AA:A989, 43-44/305/2, i.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/305/2, i]_
+ _[AA:A989, 43-44/305/2, i]_

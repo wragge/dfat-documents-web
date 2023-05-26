@@ -1,12 +1,19 @@
 ---
-title: "50 Cabinet Economic Committee Minute"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8920
+doc_date: '1979-10-24'
+doc_num: 50
+doc_order: 50
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Cabinet Economic Committee Minute
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-10-24
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 50 Cabinet Economic Committee Minute
 
 Wellington, 24 October 1979
 
@@ -49,15 +56,13 @@ It was considered that the points listed (a) to (d) under this heading, on which
 
 ## The Committee:
 
-  1. _noted_ the approach, as outlined in the report of the Chairman of the working party on Australian - New Zealand economic co-operation attached to E (79) 208, that New Zealand officials will adopt in their discussions with their Australian counterparts at the Permanent Heads' meeting on 1 to 2 November 1979;
+  1.  _noted_ the approach, as outlined in the report of the Chairman of the working party on Australian - New Zealand economic co-operation attached to E (79) 208, that New Zealand officials will adopt in their discussions with their Australian counterparts at the Permanent Heads' meeting on 1 to 2 November 1979;
   2. approved the draft Agenda for the meeting as contained in the draft telegram, attached toE (79) 208, to the New Zealand High Commission in Canberra;
   3. directed that the background papers to the report attached toE (79) 208 be distributed to members of the Committee as soon as possible after they had been cleared by the Officials Economic Committee;
   4. directed officials to consult with interested groups before the Permanent Heads' meeting and to inform them that they would be further consulted after that meeting.
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 21A Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 21A Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
-  * 1 This minute records the Committee's discussion of the preceding Document (49). 
-
-
+  * 1 This minute records the Committee's discussion of the preceding Document (49).

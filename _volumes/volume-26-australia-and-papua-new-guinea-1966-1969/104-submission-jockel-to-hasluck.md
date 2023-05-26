@@ -1,29 +1,33 @@
 ---
-title: "104 Submission, Jockel To Hasluck"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9612
+doc_date: '1967-04-10'
+doc_num: 104
+doc_order: 104
+naa_refs:
+- naa_barcode: 584528
+  naa_control_symbol: 846/1 PART 1
+  naa_series: A1838
+  reference: '[NAA: A 1838, 846/1 part 1]'
+title: Submission, Jockel To Hasluck
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-04-10
-barcode: 584528
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 104 Submission, Jockel To Hasluck
 
 Canberra, 10 April 1967
 
 Confidential
 
-**Territory of Papua/New Guinea—agreement on mining of copper on Bougainville Island**
+ **Territory of Papua/New Guinea—agreement on mining of copper on Bougainville Island**
 
-The Minister for Territories has placed a submission before Cabinet seeking policy directions regarding the major provisions of a proposed agreement between the Papua and New Guinea Administration and a subsidiary of Conzinc Riotinto of Australia for a large-scale copper mining operation on Bougainville lsland.1
+The Minister for Territories has placed a submission before Cabinet seeking policy directions regarding the major provisions of a proposed agreement between the Papua and New Guinea Administration and a subsidiary of Conzinc Riotinto of Australia for a large-scale copper mining operation on Bougainville lsland.[1](#f1)
 
 2\. The project is said to be among the largest ever mounted by a private company in an under-developed country and the copper deposits concerned are the only known large mineral deposits of the Territory of Papua and New Guinea.
 
 3\. Discussions have taken place between this Department and the Department of Territories on foreign policy issues raised by the Submission. The attached note summarises these discussions and may be of useful background to you.
 
-**Attachment**
+ **Attachment**
 
-**EXTERNAL AFFAIRS NOTE ON THE DRAFT AGREEMENT ON MINING OF COPPER ON BOUGAINVILLE ISLAND**
+ **EXTERNAL AFFAIRS NOTE ON THE DRAFT AGREEMENT ON MINING OF COPPER ON BOUGAINVILLE ISLAND**
 
 Discussions with the Department of Territories have turned on two main foreign policy aspects.
 
@@ -55,9 +59,9 @@ Whilst the lack of more accurate information on which to base future estimates o
 
 10\. International attention is also likely to be given to those provisions of the agreement dealing with processing of ore in the Territory. Paragraph 33 of the Submission points out that the company has strongly resisted a firm commitment to construct a smelter and in the circumstances the Minister for Territories is recommending that if, after eight years, the Administration disagrees with a decision by the company not to erect a smelter, the matter will go to arbitration. These provisions may well be regarded as being insufficiently restrictive on the company.
 
-11\. The agreement is to contain provisions for the training and employment of the indigenous people. In the Cabinet Submission, however, this is treated as a minor provision of the agreement. As presently contemplated, the agreement would provide: ‘The Company shall, so far as is reasonably and economically practicable, use and train in new skills labour available within the Territory.’ We consider that when the agreement is scrutinised in the United Nations, considerable attention will be given to this point, and it will be one of continuing concern. We therefore believe that the Administration should insist on the company’s making a positive and early effort to train sufficient indigenes to make this as much as possible a Papuan operated enterprise at staff as well as other levels. Clearly this could not be done overnight but the agreement should be seen to put pressure on the company to bring about such a situation as early as possible.2
+11\. The agreement is to contain provisions for the training and employment of the indigenous people. In the Cabinet Submission, however, this is treated as a minor provision of the agreement. As presently contemplated, the agreement would provide: ‘The Company shall, so far as is reasonably and economically practicable, use and train in new skills labour available within the Territory.’ We consider that when the agreement is scrutinised in the United Nations, considerable attention will be given to this point, and it will be one of continuing concern. We therefore believe that the Administration should insist on the company’s making a positive and early effort to train sufficient indigenes to make this as much as possible a Papuan operated enterprise at staff as well as other levels. Clearly this could not be done overnight but the agreement should be seen to put pressure on the company to bring about such a situation as early as possible.[2](#f2)
 
-[ [NAA: A 1838, 846/1 part 1](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=584528) ]
+[NAA: A 1838, 846/1 part 1]
 
 1 Document 100.
 

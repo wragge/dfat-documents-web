@@ -1,12 +1,18 @@
 ---
-title: "152 Mr R. G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 918
+doc_date: '1940-04-17'
+doc_num: 152
+doc_order: 152
+naa_refs:
+- naa_barcode: 4212443
+  naa_control_symbol: 1940/9
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2262]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of State for
+  Dominion Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 152 Mr R. G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 156 17 April 1940,
 
@@ -18,7 +24,7 @@ In course of conversation President Roosevelt and his principal advisers on seve
 
 MENZIES
 
-_
+ _
 
 1 See Documents on Australian Foreign Policy 1937-49, vol. II, Document 82 and Attachments.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [FA: A3196, 0.2262]_
+ _[FA: A3196, 0.2262]_

@@ -1,12 +1,17 @@
 ---
-title: "277 Legation in Washington to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2031
+doc_date: '1942-01-16'
+doc_num: 277
+doc_order: 278
+naa_refs:
+- naa_barcode: 179239
+  naa_control_symbol: NEW C 5 PART 2
+  naa_series: A981
+  reference: '[AA:A981, NEW CALEDONIA 5A, ii]'
+title: Legation in Washington to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-16
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 277 Legation in Washington to Department of External Affairs
 
 Cablegram 85 WASHINGTON, 16 January 1942, 1.55 a.m.
 
@@ -26,7 +31,7 @@ area. Question of arming Free French troops should be taken up between United St
 
 5\. Please see Mr. Casey's telegram No. 86. [5] United States army authorities are most anxious for reasons of security that Free French in the island should not know of this impending reinforcement until a short time before its actual arrival.
 
-_
+ _
 
 1 Admiral Sir Guy Royle.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A981, NEW CALEDONIA 5A, ii]_
+ _[AA:A981, NEW CALEDONIA 5A, ii]_

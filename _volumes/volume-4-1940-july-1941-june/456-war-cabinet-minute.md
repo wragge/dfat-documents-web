@@ -1,12 +1,17 @@
 ---
-title: "456 War Cabinet Minute"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1687
+doc_date: '1941-05-15'
+doc_num: 456
+doc_order: 456
+naa_refs:
+- naa_barcode: 11337393
+  naa_control_symbol: 135/1941 PART 1
+  naa_series: A2671
+  reference: '[AA: A2671, 135/1941]'
+title: War Cabinet Minute
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-15
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 456 War Cabinet Minute
 
 Minute 1073 SYDNEY, 15 May 1941
 
@@ -94,7 +99,7 @@ The Chief of the General Staff stated that detailed arrangements in respect of c
 
 Sir Ragnar Colvin stated that he understood that developments in Iraq had resulted in the diversion of forces otherwise available for Singapore.
 
-_
+ _
 
 1 Document 455.
 
@@ -122,4 +127,4 @@ _
 
 _
 
-_ [AA: A2671, 135/1941]_
+ _[AA: A2671, 135/1941]_

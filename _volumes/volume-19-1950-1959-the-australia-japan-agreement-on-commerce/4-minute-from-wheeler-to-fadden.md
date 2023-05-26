@@ -1,14 +1,19 @@
 ---
-title: "4 Minute From Wheeler To Fadden"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7609
+doc_date: '1951-07-02'
+doc_num: 4
+doc_order: 4
+naa_refs:
+- naa_barcode: 134221
+  naa_control_symbol: 1946/1931 PART 15
+  naa_series: A571
+  reference: '[AA : A571/158, 46/1431, xv]'
+title: Minute From Wheeler To Fadden
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1951-07-02
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 4 Minute From Wheeler To Fadden
-
-## 2nd July, 1951
+2nd July, 1951
 
 Cabinet Submission No. 32-Trade with Japan
 
@@ -22,8 +27,8 @@ I. refer to Cabinet submission No. 32 containing recommendations by the Minister
 
 Recommendation 5. From an economic and financial point of view it is recommended that the proposals of the Minister for Trade and Customs be supported. The political implications of allowing a restricted importation of Japanese consumer goods into Australia are of course not matters on which the Treasury can offer comment.
 
-_
+ _
 
 _
 
-_ [AA : A571/158, 46/1431, xv]_
+ _[AA : A571/158, 46/1431, xv]_

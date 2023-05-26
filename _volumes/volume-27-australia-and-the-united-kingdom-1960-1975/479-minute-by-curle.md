@@ -1,20 +1,23 @@
 ---
-title: "479 MINUTE BY CURLE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10346
+doc_date: '1974-05-06'
+doc_num: 479
+doc_order: 479
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 57/601]'
+title: MINUTE BY CURLE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1974-05-06
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 479 MINUTE BY CURLE
-
-UKNA: FCO 57/601
 
 London, 6 May 1974
 
 Confidential
 
-**Australian States’ Honours**
+ **Australian States’ Honours**
 
 1\. When both the Commonwealth Government and States’ Governments were recommending for honours, States’ Governors sent to the Governor-General copies of their recommendations for honours (though they maintained that this was a courtesy, not a constitutional obligation). The object of this arrangement was that the Governor-General could withdraw certain States’ recommendations if he considered that they were in excess of the States’ reasonable allocation within the overall Australia quota or had some reason to suppose that a given candidate was unsuitable. The Governor-General has from time to time in recent years withdrawn candidates on quota grounds. Our practice has been simply to inform the States’ Governors concerned that their recommendations have been informally approved ‘with the exception of ...’. On one occasion, by an aberration, we told the Governor of Victoria that a name had been withdrawn on the Governor-General’s advice: the Premier made a constitutional fuss, saying that he had always understood that the decisions were taken in London, but nothing seems to have come of this.
 
@@ -22,9 +25,9 @@ Confidential
 
 3\. For Birthday 1974, New South Wales recommended inter alia 5 knighthoods. On receipt of their recommendation in February, we telegraphed for confirmation that they had copied their list to the Governor-General: the Governor replied that the list would be so copied.
 
-4\. In mid-April we sent our usual telegram to the Governor-General, to which he replied on 26 April that he had not received New South Wales’ list but could not support more than 3 knighthoods for New South Wales and might have reservations about recommendations from Victoria in the light of New South Wales’ recommendations. We telegraphed to New South Wales for urgent confirmation that their list had now been copied to the Governor-General, to which they replied that it had not been copied but that this was out of courtesy and not a constitutional requirement. The Governor-General, in his telegram of which a copy is attached,2 suggested the deletion of 2 knighthoods proposed by New South Wales and one proposed by Victoria, taking the last recommendation in each class (these not being in alphabetical order).
+4\. In mid-April we sent our usual telegram to the Governor-General, to which he replied on 26 April that he had not received New South Wales’ list but could not support more than 3 knighthoods for New South Wales and might have reservations about recommendations from Victoria in the light of New South Wales’ recommendations. We telegraphed to New South Wales for urgent confirmation that their list had now been copied to the Governor-General, to which they replied that it had not been copied but that this was out of courtesy and not a constitutional requirement. The Governor-General, in his telegram of which a copy is attached,[2](#f2) suggested the deletion of 2 knighthoods proposed by New South Wales and one proposed by Victoria, taking the last recommendation in each class (these not being in alphabetical order).
 
-_Problem_
+ _Problem_
 
 5\. What do we do next?
 
@@ -43,3 +46,5 @@ The objection to this course of action is that it leaves British Ministers open 
 1 J.N.O. Curle, Foreign and Commonwealth Office, Head of Protocol and Conference Department, who sent this memorandum with a covering note to Robert Armstrong, Principal Private Secretary to the Prime Minister, explaining that it represented the Commonwealth Office’s view about honours for the Australian states.
 
 2 Not published.
+
+[UKNA: FCO 57/601]

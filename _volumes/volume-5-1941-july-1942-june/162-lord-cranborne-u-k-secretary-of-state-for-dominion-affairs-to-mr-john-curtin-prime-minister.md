@@ -1,12 +1,18 @@
 ---
-title: "162 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1916
+doc_date: '1941-12-05'
+doc_num: 162
+doc_order: 163
+naa_refs:
+- naa_barcode: 177621
+  naa_control_symbol: JAP 185 PART 3
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 185B, iii]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-05
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 162 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Circular cablegram M424 LONDON, 5 December 1941, 4.21 p.m.
 
@@ -26,7 +32,7 @@ My Circular M.421 of 5th December [1] and M.422. [2] The position is that we hav
 
 3\. The Commander in Chief, Far East, has also been authorised in the event of a Japanese attack on the Netherlands East Indies to put into operation without further reference to us the plans already agreed with the Netherlands East Indies.
 
-_
+ _
 
 1 In fact dispatched on 4 December. On file AA:A981, Japan 178.
 
@@ -38,4 +44,4 @@ _
 
 _
 
-_ [AA:A981, JAPAN 185B, iii]_
+ _[AA:A981, JAPAN 185B, iii]_

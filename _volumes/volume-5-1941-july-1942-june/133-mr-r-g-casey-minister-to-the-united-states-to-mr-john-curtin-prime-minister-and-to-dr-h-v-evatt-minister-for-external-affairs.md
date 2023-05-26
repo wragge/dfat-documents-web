@@ -1,12 +1,18 @@
 ---
-title: "133 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1887
+doc_date: '1941-11-27'
+doc_num: 133
+doc_order: 134
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister,
+  and to Dr H. V. Evatt, Minister for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-27
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 133 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram 1045 WASHINGTON, 27 November 1941, 9.54 p.m.
 
@@ -30,7 +36,7 @@ Please see also my telegram No. 1044 regarding Japanese naval activity. [8]
 
 CASEY
 
-_
+ _
 
 1 Words in square brackets have been inserted from the Washington copy on file AA : A3300,99.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

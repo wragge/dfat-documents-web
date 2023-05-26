@@ -1,14 +1,19 @@
 ---
-title: "245 Curtin to Drakeford"
-volume: "Volume 7: 1944"
-doc_id: 2892
+doc_date: '1944-08-02'
+doc_num: 245
+doc_order: 245
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:MP288/1, ITEM 31, BUNDLE 13]'
+title: Curtin to Drakeford
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-02
+vol_title: 'Volume 7: 1944'
 ---
 
-# 245 Curtin to Drakeford
-
-## Letter MELBOURNE, 2 August 1944
+Letter MELBOURNE, 2 August 1944
 
 It is very clear that Canada is not ready for the establishment of an Empire Scheme.
 
@@ -30,7 +35,7 @@ On receipt of the particulars sought in the final para an agendum to be prepared
 
 J. C.
 
-_
+ _
 
 1 Beaverbrook's letter to McVey is on file AA:A989, 43/735/832/1, ii. It proposed an Empire round-the-world air service with different sections being operated in equal proportions by U.K., Canadian, Australian and N.Z. crews.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:MP288/1, ITEM 31, BUNDLE 13]_
+ _[AA:MP288/1, ITEM 31, BUNDLE 13]_

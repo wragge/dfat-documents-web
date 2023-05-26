@@ -1,12 +1,18 @@
 ---
-title: "134 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1365
+doc_date: '1940-09-24'
+doc_num: 134
+doc_order: 134
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.6966]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-24
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 134 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 500 24 September 1940,
 
@@ -22,7 +28,7 @@ The Commonwealth Government would stress its previous representations regarding 
 
 MENZIES
 
-_
+ _
 
 1 Peter Fraser.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.6966]_
+ _[AA:A3196, 1940, 0.6966]_

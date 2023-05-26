@@ -1,12 +1,17 @@
 ---
-title: "396 Kirby to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4580
+doc_date: '1947-10-30'
+doc_num: 396
+doc_order: 396
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:AA1979/294/1, BOX 5]'
+title: Kirby to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-10-30
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 396 Kirby to Burton
 
 Cablegram 384 BATAVIA, 30 October 1947
 
@@ -50,10 +55,10 @@ They suggested Singapore, or failing that Johore, Kuala Lumpur, Penang, Bangkok,
 
 9\. Committee at present intends to return to Djokjakarta as early as possible after preliminary meeting with Dutch today.
 
-_
+ _
 
 1 Article 38 of the United Nations Charter empowers the Security Council (in addition to other provisions for the pacific settlement of disputes) to make recommendations for the peaceful settlement of a dispute if all the parties so request. On 4 November, Throssell expressed doubt to Shann whether the Committee of Good offices could act under Article 38 without specific authorisation from the Security Council. Shann replied that Throssell's judgment was 'probably true but we won't raise it!' 2 At Djokjakarta.
 
 _
 
-_ [AA:AA1979/294/1, BOX 5]_
+ _[AA:AA1979/294/1, BOX 5]_

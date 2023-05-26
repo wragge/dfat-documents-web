@@ -1,16 +1,21 @@
 ---
-title: "36 Curtin to Churchill"
-volume: "Volume 8: 1945"
-doc_id: 3067
+doc_date: '1945-02-14'
+doc_num: 36
+doc_order: 36
+naa_refs:
+- naa_barcode: 4203186
+  naa_control_symbol: 1945/8
+  naa_series: A3196
+  reference: '[AA:A3196,1945, FOLDER, OUTWARDS MOST SECRET, 0.4315/17/18/19]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-02-14
+vol_title: 'Volume 8: 1945'
 ---
-
-# 36 Curtin to Churchill
 
 Cablegram 40 CANBERRA, 14 February 1945
 
-TOP SECRET &amp; PERSONAL IMMEDIATE
+TOP SECRET & PERSONAL IMMEDIATE
 
 War Cabinet has recently completed one of its periodical reviews of the Australian war effort. As the commitments which we have accepted still exceed our manpower resources, we have not yet been able to attain that degree of balance which, as I mentioned in London, it is our aim to establish.
 
@@ -34,7 +39,7 @@ In view of my offer of the fullest co-operation in basing the British Fleet in t
 
 10\. The details of taking over and dates for manning any ships which the British Government would be prepared to transfer to the Royal Australian Navy could be left for arrangement between the Admiralty and Australian Commonwealth Naval Board.
 
-_
+ _
 
 1 Documents on Australian Foreign Policy 1937-49, vol. VII, Document 170.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA:A3196,1945, FOLDER, OUTWARDS MOST SECRET, 0.4315/17/18/19]_
+ _[AA:A3196,1945, FOLDER, OUTWARDS MOST SECRET, 0.4315/17/18/19]_

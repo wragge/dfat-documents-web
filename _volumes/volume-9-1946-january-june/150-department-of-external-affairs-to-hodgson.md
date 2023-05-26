@@ -1,12 +1,17 @@
 ---
-title: "150 Department of External Affairs to Hodgson"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3662
+doc_date: '1946-03-28'
+doc_num: 150
+doc_order: 150
+naa_refs:
+- naa_barcode: 449810
+  naa_control_symbol: 854/10/2 PART 1
+  naa_series: A1838
+  reference: '[AA:A1838 T189, 854/10/2]'
+title: Department of External Affairs to Hodgson
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-28
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 150 Department of External Affairs to Hodgson
 
 Cablegram UNY7 CANBERRA, 28 March 1946
 
@@ -28,7 +33,7 @@ This applies not only to particular case under consideration-in addition, Counci
 
 5\. While Australian views as indicated in instructions should be expressed, in order to avoid danger of Australia being isolated your aim should be to avoid moving positive amendments or carrying amendments to a vote unless there is likely to be some reasonable degree of support.
 
-_
+ _
 
 1 Also numbered Security 8 and dispatched 27 March, it reported that Gromyko had opposed the inclusion of the Iranian 'situation' on the Security Council agenda on the grounds that an 'understanding' had been reached between the Soviet Union and Iran.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A1838 T189, 854/10/2]_
+ _[AA:A1838 T189, 854/10/2]_

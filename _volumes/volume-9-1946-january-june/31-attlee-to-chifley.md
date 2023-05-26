@@ -1,16 +1,21 @@
 ---
-title: "31 Attlee to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3543
+doc_date: '1946-01-15'
+doc_num: 31
+doc_order: 31
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.1312]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-15
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 31 Attlee to Chifley
 
 Cablegram 16 LONDON, 15 January 1946, 5.29 p.m.
 
-SECRET &amp; PERSONAL
+SECRET & PERSONAL
 
 1\. My colleagues and I are gravely concerned about the prospective world shortage of wheat. You know, I think, that Sir Ben Smith, the Minister of Food, has been in Washington recently to discuss the situation with the United States Administration and with the President.
 
@@ -20,10 +25,10 @@ SECRET &amp; PERSONAL
 
 4\. In the calculations that have just been made in Washington covering exports and imports during the six months to the end of June, Australia is being counted upon to export wheat and flour amounting in terms of wheat equivalent to a total of 1,100,000 tons. I believe this is based upon a recent estimate given to the Cereals Committee [1] in Washington by Mr. McCarthy. it would mean the export by Australia of an unusually high proportion of her supplies during this part of the year and the physical collection and movement of this quantity will, I know, present considerable difficulty under present conditions. But the world's need is so urgent that I am sure that the Australian Government will make a supreme effort to achieve this export figure. May I appeal to you to give this matter your personal attention and to let me know whether, as I earnestly hope, we may count upon Australia for this quantity.
 
-_
+ _
 
 1 A committee of the Combined Food Board, established in 1942 to advise on distribution of basic foodstuffs.
 
 _
 
-_ [AA:A3195, 1946, 1.1312]_
+ _[AA:A3195, 1946, 1.1312]_

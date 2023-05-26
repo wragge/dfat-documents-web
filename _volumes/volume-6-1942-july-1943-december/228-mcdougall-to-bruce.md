@@ -1,14 +1,19 @@
 ---
-title: "228 McDougall to Bruce"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2519
+doc_date: '1943-06-23'
+doc_num: 228
+doc_order: 228
+naa_refs:
+- naa_barcode: 242518
+  naa_control_symbol: 11/4
+  naa_series: M104
+  reference: '[AA:M104, 11 (4)]'
+title: McDougall to Bruce
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-06-23
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 228 McDougall to Bruce
-
-## Letter (extract) WASHINGTON, 23 June 1943
+Letter (extract) WASHINGTON, 23 June 1943
 
 I wrote to you at some length on June 20th [1] but having no copy I may repeat some of the points I then made. McCarthy's secretary is on leave and the typing staff of the Legation are very fully employed.
 
@@ -44,7 +49,7 @@ My impressions about the general attitude towards the vigour with which the work
 
 F. L. MCDOUGALL
 
-_
+ _
 
 1 The letter is on file AA:M104, 11 (4).
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:M104, 11 (4)]_
+ _[AA:M104, 11 (4)]_

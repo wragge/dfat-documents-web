@@ -1,14 +1,17 @@
 ---
-title: "117 SPEECH, BARNARD TO THE FIRST TUESDAY GROUP"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9982
+doc_date: '1973-04-03'
+doc_num: 117
+doc_order: 117
+naa_refs:
+- naa_barcode: 4986373
+  naa_control_symbol: CL311
+  naa_series: A5931
+  reference: '[NAA: A5931, CL311]'
+title: SPEECH, BARNARD TO THE FIRST TUESDAY GROUP
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1973-04-03
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 117 SPEECH, BARNARD TO THE FIRST TUESDAY GROUP
-
-NAA: A5931, CL311
 
 Canberra, 3 April 1973
 
@@ -30,7 +33,7 @@ Finally, there are a number of investigations being undertaken into re-equipping
 
 Our main achievement so far, I believe, has been the development of an all-volunteer force—a professional force which can consistently maintain a high standard of preparedness and with the capacities and skills to use the highly sophisticated defence systems that modern technology can produce.
 
-The abolition of conscription was only a part of this.2 Other important steps have been the implementation of the recommendations of the Woodward Committee on pay and conditions, the decision to appoint an ombudsman for the defence forces who will deal with the individual grievances of servicemen and women, the forthcoming legislation on the Defence Forces Retirement Benefits Scheme and a whole host of changes improving the conditions of service, the career opportunities, the repatriation benefits and the accommodation of members of the armed forces.
+The abolition of conscription was only a part of this.[2](#f2) Other important steps have been the implementation of the recommendations of the Woodward Committee on pay and conditions, the decision to appoint an ombudsman for the defence forces who will deal with the individual grievances of servicemen and women, the forthcoming legislation on the Defence Forces Retirement Benefits Scheme and a whole host of changes improving the conditions of service, the career opportunities, the repatriation benefits and the accommodation of members of the armed forces.
 
 We have recognized that the military career is a profession in its own right—the profession of arms. We have acted swiftly to recognize the dignity of serving members.
 
@@ -91,3 +94,5 @@ It is for this reason that being with you today has given me so much pleasure, f
 1 The First Tuesday Group was a luncheon group of political counsellors from embassies and high commissions in Canberra.
 
 2 The Whitlam Government ended conscription at the end of December 1972.
+
+[NAA: A5931, CL311]

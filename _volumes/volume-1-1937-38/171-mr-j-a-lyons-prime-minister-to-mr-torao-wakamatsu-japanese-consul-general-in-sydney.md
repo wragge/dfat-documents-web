@@ -1,14 +1,20 @@
 ---
-title: "171 Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General in Sydney"
-volume: "Volume 1: 1937-38"
-doc_id: 170
+doc_date: '1938-03-29'
+doc_num: 171
+doc_order: 170
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90]'
+title: Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General
+  in Sydney
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-29
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 171 Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General in Sydney
-
-## Letter 29 March 1938,
+Letter 29 March 1938,
 
 I desire to acknowledge the receipt of your letter of 26th March [1], on the subject of iron ore, and to inform you that this matter has been exercising the minds of the Government for some time. A preliminary survey which was carried out last year revealed the possibility of a shortage of ore, and arrangements were then made for a more detailed examination to be made. Dr W.
 
@@ -22,7 +28,7 @@ The whole question is now receiving close attention, and you will be informed of
 
 J. A. LYONS
 
-_
+ _
 
 1 Document 170.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA : A981, AUSTRALIA 90]_
+ _[AA : A981, AUSTRALIA 90]_

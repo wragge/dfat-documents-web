@@ -1,14 +1,19 @@
 ---
-title: "272 Department of External Affairs to Australian Delegation, United Nations"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4120
+doc_date: '1946-12-03'
+doc_num: 272
+doc_order: 272
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A4311
+  reference: '[AA:A4311, BOX 481]'
+title: Department of External Affairs to Australian Delegation, United Nations
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-03
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 272 Department of External Affairs to Australian Delegation, United Nations
-
-## Cablegram UNY440 CANBERRA, 3 December 1946
+Cablegram UNY440 CANBERRA, 3 December 1946
 
 MOST IMMEDIATE
 
@@ -18,10 +23,10 @@ Minister does not want Makin and Bailey to be without discretion trusteeship mat
 
 3\. Accordingly whatever you do must be made expressly subject to the final approval of the Australian Government and the Australian Parliament.
 
-_
+ _
 
 1 See Document 265.
 
 _
 
-_ [AA:A4311, BOX 481]_
+ _[AA:A4311, BOX 481]_

@@ -1,12 +1,17 @@
 ---
-title: "409 Evatt to Department of External Affairs"
-volume: "Volume 8: 1945"
-doc_id: 3440
+doc_date: '1945-11-23'
+doc_num: 409
+doc_order: 409
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2249]'
+title: Evatt to Department of External Affairs
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-11-23
+vol_title: 'Volume 8: 1945'
 ---
-
-# 409 Evatt to Department of External Affairs
 
 Cablegram E46 WASHINGTON, 23 November 1945
 
@@ -22,7 +27,7 @@ They might include such people as Mrs. Street [2] and Mrs. York.
 
 In view of the above we should not assign anyone to accompany the United Kingdom observers but our observers should go separately and we should inform the Greek and United Kingdom Government accordingly. [4]
 
-_
+ _
 
 1 Addressed to Canberra as cablegram 424, dispatched 20 November.
 
@@ -36,4 +41,4 @@ On file AA : A2937, Greece, ii. It sought advice concerning an invitation from t
 
 _
 
-_ [AA : A5954, BOX 2249]_
+ _[AA : A5954, BOX 2249]_

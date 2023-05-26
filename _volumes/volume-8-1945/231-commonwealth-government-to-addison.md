@@ -1,12 +1,17 @@
 ---
-title: "231 Commonwealth Government to Addison"
-volume: "Volume 8: 1945"
-doc_id: 3262
+doc_date: '1945-09-03'
+doc_num: 231
+doc_order: 231
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA : A1838/2, 377/3/3/2]'
+title: Commonwealth Government to Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-03
+vol_title: 'Volume 8: 1945'
 ---
-
-# 231 Commonwealth Government to Addison
 
 Cablegram 269 CANBERRA, 3 September 1945
 
@@ -32,7 +37,7 @@ Portuguese armed forces have taken no part in the war and there is no reason for
 
 8\. We are most anxious that your approach to the Portuguese Government should conform with the above and would appreciate earliest possible advice so that surrender can be taken by Australian force within the next few days. Meanwhile our military preparations are complete.
 
-_
+ _
 
 1 Document 225.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA : A1838/2, 377/3/3/2]_
+ _[AA : A1838/2, 377/3/3/2]_

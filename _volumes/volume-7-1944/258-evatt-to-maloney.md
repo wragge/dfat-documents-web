@@ -1,12 +1,17 @@
 ---
-title: "258 Evatt to Maloney"
-volume: "Volume 7: 1944"
-doc_id: 2905
+doc_date: '1944-08-26'
+doc_num: 258
+doc_order: 258
+naa_refs:
+- naa_barcode: 185057
+  naa_control_symbol: 1944/715/5/2/2
+  naa_series: A989
+  reference: '[AA:A989, 43-44/715/5/2/2]'
+title: Evatt to Maloney
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-26
+vol_title: 'Volume 7: 1944'
 ---
-
-# 258 Evatt to Maloney
 
 Cablegram 173 CANBERRA, 26 August 1944
 
@@ -20,7 +25,7 @@ Following for Maloney from Evatt. Your telegram 176. [1]
 
 3\. In the circumstances you should formally acknowledge the Soviet Note, point out Australia's disinterestedness in the matter, but await further instructions before taking up with the Soviet Authorities any other questions arising from the new situation.
 
-_
+ _
 
 1 Document 256.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/715/5/2/2]_
+ _[AA:A989, 43-44/715/5/2/2]_

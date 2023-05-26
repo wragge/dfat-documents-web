@@ -1,12 +1,17 @@
 ---
-title: "84 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2375
+doc_date: '1942-12-02'
+doc_num: 84
+doc_order: 84
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-12-02
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 84 Churchill to Curtin
 
 Cablegram Winch 30 LONDON, 2 December 1942, 3.45 a.m.
 
@@ -24,7 +29,7 @@ Your Johcu 47. [1]
 
 4\. You will like to know that in response to an urgent request by the Americans for naval help in the Pacific we are proposing to offer them the two modern armoured aircraft carriers VICTORIOUS and INDOMITABLE [3] under the command of a British Admiral for service under American orders in the Pacific. These are among the most vital units we possess. We have only four of this class. We are asking for RANGER from the Atlantic in exchange. I hope this movement will provide an additional and important re-insurance for the safety of Australia.
 
-_ 1 Document 83.
+ _1 Document 83.
 
 2 Code name for convoys travelling down the West Coast of Africa.
 
@@ -32,4 +37,4 @@ _ 1 Document 83.
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

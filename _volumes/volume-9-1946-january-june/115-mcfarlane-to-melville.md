@@ -1,14 +1,19 @@
 ---
-title: "115 McFarlane to Melville"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3627
+doc_date: '1946-02-28'
+doc_num: 115
+doc_order: 115
+naa_refs:
+- naa_barcode: 235857
+  naa_control_symbol: '387'
+  naa_series: A3300
+  reference: '[AA:A3300/2, 46/387]'
+title: McFarlane to Melville
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1945-12-31
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 115 McFarlane to Melville
-
-## Letter CANBERRA, 2[8] [1] February 1946
+Letter CANBERRA, 2[8] [1] February 1946
 
 At the meeting of Governors of the International Monetary Fund which you will attend [2] the U.S. representative will propose a resolution permitting, on the same terms as original members, the admission to membership during a limited period of those countries listed in Schedule A of the Agreement who have not yet joined the Fund.
 
@@ -26,7 +31,7 @@ But the question of any alteration depends on how far the United Kingdom delegat
 
 S. G. MCFARLANE Secretary to the Treasury
 
-_
+ _
 
 1 The date given on the file copy is 29 February.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A3300/2, 46/387]_
+ _[AA:A3300/2, 46/387]_

@@ -1,12 +1,18 @@
 ---
-title: "397 Dr H. V. Evatt, Minister for External Affairs, to Mr A. T. Stirling, External Affairs Officer in London"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2151
+doc_date: '1942-03-08'
+doc_num: 397
+doc_order: 398
+naa_refs:
+- naa_barcode: 637523
+  naa_control_symbol: WAR 41 PART 1
+  naa_series: A981
+  reference: '[AA:A981, WAR 41B]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr A. T. Stirling, External
+  Affairs Officer in London
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-08
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 397 Dr H. V. Evatt, Minister for External Affairs, to Mr A. T. Stirling, External Affairs Officer in London
 
 Cablegram SL3 CANBERRA, 8 March 1942
 
@@ -34,7 +40,7 @@ yet shipping comes here from United Kingdom in ballast. Something may be done in
 
 EVATT
 
-_
+ _
 
 1 U.K. Lord Privy Seal.
 
@@ -58,4 +64,4 @@ _
 
 _
 
-_ [AA:A981, WAR 41B]_
+ _[AA:A981, WAR 41B]_

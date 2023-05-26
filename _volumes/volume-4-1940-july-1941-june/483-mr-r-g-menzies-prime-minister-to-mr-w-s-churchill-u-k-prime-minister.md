@@ -1,12 +1,17 @@
 ---
-title: "483 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1714
+doc_date: '1941-06-04'
+doc_num: 483
+doc_order: 483
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.7451]'
+title: Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 483 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
 
 Cablegram 344 4 June 1941,
 
@@ -34,7 +39,7 @@ Kindest regards and thoughts in your great responsibilities. You will appreciate
 
 MENZIES
 
-_
+ _
 
 1 Document 478.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA: A3196, 1941, 0.7451]_
+ _[AA: A3196, 1941, 0.7451]_

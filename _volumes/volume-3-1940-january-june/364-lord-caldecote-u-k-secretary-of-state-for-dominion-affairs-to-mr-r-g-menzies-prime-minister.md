@@ -1,12 +1,18 @@
 ---
-title: "364 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1130
+doc_date: '1940-06-12'
+doc_num: 364
+doc_order: 364
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4166]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-12
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 364 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram D251 LONDON, 12 June 1940, 9.03 a.m.
 
@@ -18,7 +24,7 @@ D. 237 Paragraph 4 [2], and [United States] D. 242. [3]
 
 The suggestion is being pursued further. In any case President Roosevelt's speech last night marks a substantial change in the situation. [4]
 
-_
+ _
 
 1 All Canberra copies were incorrectly headed 'Spain'.
 
@@ -32,4 +38,4 @@ State Dept Bulletin, vol. II, no. 51, pp. 635-8.)
 
 _
 
-_ [FA: A3195, 1.4166]_
+ _[FA: A3195, 1.4166]_

@@ -1,14 +1,20 @@
 ---
-title: "328 Mr S.M. Bruce, High Commissioner in London, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 2: 1939"
-doc_id: 665
+doc_date: '1939-11-06'
+doc_num: 328
+doc_order: 328
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: FO 372/3319]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr A. Eden, U.K. Secretary of
+  State for Dominion Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-06
+vol_title: 'Volume 2: 1939'
 ---
 
-# 328 Mr S.M. Bruce, High Commissioner in London, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
-
-## Letter LONDON, 6 November 1939
+Letter LONDON, 6 November 1939
 
 My Government has now advised me that they are desirous of establishing a Legation in Washington and accrediting a Minister to the United States at the earliest possible moment. I shall be obliged, therefore, if you will arrange for His Majesty's Ambassador [1] to take the matter up and ascertain from the United States Administration whether the appointment of an Australian Minister would be acceptable.
 
@@ -20,10 +26,10 @@ I shall be obliged if you will arrange also for His Majesty's Ambassador to asce
 
 S.M. BRUCE
 
-_
+ _
 
 1 Lord Lothian.
 
 _
 
-_ [PRO: FO 372/3319]_
+ _[PRO: FO 372/3319]_

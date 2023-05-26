@@ -1,12 +1,17 @@
 ---
-title: "433 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2187
+doc_date: '1942-03-21'
+doc_num: 433
+doc_order: 434
+naa_refs:
+- naa_barcode: 640633
+  naa_control_symbol: 474/6
+  naa_series: A5954
+  reference: '[AA:MP1217, BOX 474, CABLEGRAMS TO AND FROM DR EVATT]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-21
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 433 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram PMS1 WASHINGTON, 21 March 1942
 
@@ -28,7 +33,7 @@ The President is still very conscious of demands of other theatres, but is inten
 
 7\. Will report further on Monday.
 
-_
+ _
 
 1 Adviser to Roosevelt.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [AA:MP1217, BOX 474, CABLEGRAMS TO AND FROM DR EVATT]_
+ _[AA:MP1217, BOX 474, CABLEGRAMS TO AND FROM DR EVATT]_

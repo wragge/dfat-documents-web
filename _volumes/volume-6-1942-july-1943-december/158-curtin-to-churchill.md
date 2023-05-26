@@ -1,12 +1,17 @@
 ---
-title: "158 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2449
+doc_date: '1943-04-20'
+doc_num: 158
+doc_order: 158
+naa_refs:
+- naa_barcode: 4212679
+  naa_control_symbol: 1943/22
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.10778-79-80-81]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-04-20
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 158 Curtin to Churchill
 
 Cablegram 100 [1] CANBERRA, 20 April 1943
 
@@ -24,7 +29,7 @@ I am in full agreement with the objectives you have in mind. [2] The Commonwealt
 
 CURTIN
 
-_ 1 Sent through the U.K. Dominions Office. Repeated to the Canadian, South African and N.Z. Prime Ministers as nos 10, 58 and 79 respectively.
+ _1 Sent through the U.K. Dominions Office. Repeated to the Canadian, South African and N.Z. Prime Ministers as nos 10, 58 and 79 respectively.
 
 2 See Document 157.
 
@@ -32,4 +37,4 @@ _ 1 Sent through the U.K. Dominions Office. Repeated to the Canadian, South Afri
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.10778-79-80-81]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.10778-79-80-81]_

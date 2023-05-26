@@ -1,12 +1,17 @@
 ---
-title: "155 Note by Dunk on the Paris Peace Conference"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4003
+doc_date: '1946-10-05'
+doc_num: 155
+doc_order: 155
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION-WAR-PARIS PLACE CONFERENCE-1945-1946]'
+title: Note by Dunk on the Paris Peace Conference
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-10-05
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 155 Note by Dunk on the Paris Peace Conference
 
 Extracts [5 October 1946 [1]]
 
@@ -178,7 +183,7 @@ The key to the situation lies in the attitude of the United States. if that coun
 
 W. E. DUNK
 
-_
+ _
 
 1 The document is undated but the internal evidence of it suggests that it was written close to 5 October and before the resumption of the plenary session.
 
@@ -190,4 +195,4 @@ _
 
 _
 
-_ [SFU:EVATT COLLECTION-WAR-PARIS PLACE CONFERENCE-1945-1946]_
+ _[SFU:EVATT COLLECTION-WAR-PARIS PLACE CONFERENCE-1945-1946]_

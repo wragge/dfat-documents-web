@@ -1,14 +1,20 @@
 ---
-title: "160 Burton to Evatt"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6329
+doc_date: '1949-01-26'
+doc_num: 160
+doc_order: 160
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Burton to Evatt
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-26
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 160 Burton to Evatt
-
-## Memorandum CANBERRA, 26 January 1949
+Memorandum CANBERRA, 26 January 1949
 
 MEMORANDUM FOR THE MINISTER
 
@@ -40,7 +46,7 @@ Senior officers of the Department of External Affairs confirmed this and clearly
 
 7\. We hope the Government will find that the final resolutions [6] are wholly in accord with Australian foreign policy and will be able to communicate to the Prime Minister, Nehru, the endorsement of the first resolution which follows the United States draft [7] before the Security Council, but which adds to it proposals on the fundamental issues of the future use of the police force and the steps to be taken towards self-government, which the United States Government, under threat of veto by the French, was reluctant to introduce. We hope, too, that the Government can give their agreement to taking early action on the other two resolutions, particularly that one dealing with regional consultation, as it is important that the initiative should rest with Australia, or jointly with Australia and India, in order to avoid any suggestion of a regional organisation based on considerations of race.
 
-_
+ _
 
 1 See note to 2 to Document 111.
 
@@ -58,4 +64,4 @@ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

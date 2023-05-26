@@ -1,12 +1,18 @@
 ---
-title: "227 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1981
+doc_date: '1941-12-26'
+doc_num: 227
+doc_order: 228
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-26
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 227 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 137 LONDON, 26 December 1941, 9.26 p.m.
 
@@ -28,7 +34,7 @@ Immediately reply received from Washington, I will further advise you.
 
 BRUCE
 
-_
+ _
 
 1 See Document 217, note 1.
 
@@ -48,4 +54,4 @@ G. Bowden's cablegram 73 (Document 217) as having come also from Bennett or whet
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

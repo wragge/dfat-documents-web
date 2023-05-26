@@ -1,16 +1,23 @@
 ---
-title: "443 Statement by Harry to Security Council"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8281
+doc_date: '1976-04-14'
+doc_num: 443
+doc_order: 442
+naa_refs:
+- naa_barcode: 1505790
+  naa_control_symbol: 3038/9/1 PART 2
+  naa_series: A1838
+  reference: '[NAA: Al838, 3038/911, ii]'
+title: Statement by Harry to Security Council
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-04-14
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
 
-# 443 Statement by Harry to Security Council
+NewYork, 14 April 1976
 
-## NewYork, 14 April 1976
-
-I appreciate this opportunity to address the Security Council once again on the subject of East Timor.1 We wish to assure you, Mr President, of my delegation's desire to co-operate fully with you in the Council's efforts to find a solution to the question which is at present before us.
+I appreciate this opportunity to address the Security Council once again on the subject of East Timor.[1](#f1) We wish to assure you, Mr President, of my delegation's desire to co-operate fully with you in the Council's efforts to find a solution to the question which is at present before us.
 
 I likewise welcome the reports of the Secretary-General and of Mr Winspeare-Guicciardi and I wish, on behalf of my Government, to congratulate Mr Winspeare on the task which he has performed under the terms of Council Resolution 383. His report, now before the Council, is a significant addition to our knowledge of the situation in East Timor.
 
@@ -42,11 +49,9 @@ We have noted the remarks of the representatives of the PGET and their proposals
 
 The Australian Government continues to regard as important an early resumption of international humanitarian aid to the territory. The conflict has brought hardship and suffering to much of the population. We appreciate the work of the Indonesian Red Cross, but this is a task in which others, including of course the ICRC, would be glad to participate. Australia has already provided humanitarian assistance not only within East Timor itself but also to the Timorese who last year took refuge in Indonesian Timor. Australia remains ready to contribute again to humanitarian aid for East Timor.
 
-Mr President, our wish is to see an end to the suffering in Timor and to encourage all moves designed to resolve the conflict in Timor. It appears that although the situation in the territory has evolved since the Council last considered the question, some fighting may be continuing there. We believe that the best course for the Council at this stage would be to extend the mandate of the special representative to allow him to make a second visit to the territory to assess the situation afresh and to ascertain the prospects for consultations among the parties. Out of his renewed efforts, we would also hope to get a clearer picture of the means by which the people of the territory may freely and effectively express their choice about their future.2
+Mr President, our wish is to see an end to the suffering in Timor and to encourage all moves designed to resolve the conflict in Timor. It appears that although the situation in the territory has evolved since the Council last considered the question, some fighting may be continuing there. We believe that the best course for the Council at this stage would be to extend the mandate of the special representative to allow him to make a second visit to the territory to assess the situation afresh and to ascertain the prospects for consultations among the parties. Out of his renewed efforts, we would also hope to get a clearer picture of the means by which the people of the territory may freely and effectively express their choice about their future.[2](#f2)
 
-_[NAA: Al838, 3038/911, ii]_
+ _[NAA: Al838, 3038/911, ii]_
 
   * 1 The membership of the Security Council in 1976 was as follows: Benin, China, France, Guyana, Italy, Japan, Libya, Pakistan, Panama, Romania, Sweden, Tanzania, the USSR, the United Kingdom, and the United States. At its 1908th meeting, on 12 April 1976, the Security Council decided to invite the representatives of Australia, Indonesia, the Philippines and Portugal in accordance with Rule 37 of the Provisional Rules of Procedure to participate, without vote, in the discussion of the item entitled 'The situation in Timor: Report of the Secretary­-General in pursuance of Security Council resolution 384 (1975) (Sl2011)'. At the same meeting, the Council also decided, at the request of the representative of Indonesia, to extend invitations to Guilherme Maria Gon alves, Mario Carrascaliio and Joiio Pedro Soares; at the request of the representative of Guinea Bissau, to extend an invitation to Jose Ramos Horta; and at the invitation of the representative of Mozambique, to extend an invitation to Ken Fry.
   * 2 At the 1914th meeting on 22 April, the Security Council adopted resolution 389 by 12 votes to 0 with 2 abstentions (Japan and the United States of America).The resolution (1) called upon all States to respect the territorial integrity of East Timor; (2) called upon the Government of Indonesia 'to withdraw without further delay all its forces from the Territory'; (3) requested the Secretary-General 'to have his Special Representative continue the assignment entrusted to him under paragraph 5 of Security Council resolution 384 (1975) and pursue consultations with the parties concerned'; (4) further requested the Secretary-General 'to follow the implementation of the present resolution' and to submit a report to the Security Council as soon as possible; (5) called upon 'all States and other parties concerned to cooperate fully with the United Nations to achieve a peaceful solution to the existing situation and to facilitate the decolonization of the Territory'.
-
-

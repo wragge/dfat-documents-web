@@ -1,14 +1,20 @@
 ---
-title: "18 Evatt to Burton"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6187
+doc_date: '1949-01-03'
+doc_num: 18
+doc_order: 18
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A9420
+  reference: '[AA : A9420, 6]'
+title: Evatt to Burton
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1948-03-17
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 18 Evatt to Burton
-
-## Cablegram unnumbered SS DOMINION MONARCH, 3 [January] 1949, 10
+Cablegram unnumbered SS DOMINION MONARCH, 3 [January] 1949, 10
 
 p.m.
 
@@ -24,7 +30,7 @@ IMMEDIATE PERSONAL URGENT
 
 4\. You will not forget point that when the United Kingdom established the regional arrangement for Western Europe and laid down future of the Ruhr they invited three Benelux countries whose contribution to the war effort was negligible and we were merely informed of the position. [4] Equally when the U.S.A. and Latin Americans established regional arrangements they still included European countries holding territories in Western hemisphere.
 
-_
+ _
 
 1 Document 506 in Volume XIII.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA : A9420, 6]_
+ _[AA : A9420, 6]_

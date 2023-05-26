@@ -1,18 +1,23 @@
 ---
-title: "154 Submission, Payne To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9662
+doc_date: '1967-12-28'
+doc_num: 154
+doc_order: 154
+naa_refs:
+- naa_barcode: 11340842
+  naa_control_symbol: 1967/6847
+  naa_series: A452
+  reference: '[NAA: A452, 1967/6847]'
+title: Submission, Payne To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-12-28
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 154 Submission, Payne To Barnes
 
 Canberra, 28 December 1967
 
-**Papua and New Guinea—political education tour of Australia by a party of Local Government Councillors during October, 1967**
+ **Papua and New Guinea—political education tour of Australia by a party of Local Government Councillors during October, 1967**
 
-A report has been received from the Administration officer who accompanied the above party giving his impressions of their tour of Australia. This report and comments by the Director of the Department of District Administration1 are attached.2
+A report has been received from the Administration officer who accompanied the above party giving his impressions of their tour of Australia. This report and comments by the Director of the Department of District Administration[1](#f1) are attached.[2](#f2)
 
 2\. These reports confirm this Department’s impression that the tour was a successful one, especially from the point of view of political education; and that it is desirable to continue running such tours in the future. The escort officer from the Administration stated that:—
 
@@ -28,11 +33,11 @@ A report has been received from the Administration officer who accompanied the a
 
 (f) in all the Councillors’ learned that the development of a country takes many years of hard work, by a law abiding united people under stable government.
 
-It is clear from these comments that the local government Councillors reacted somewhat differently from the M.H.A.’s3 and that future tours should be adopted to meet these differing interests and attitudes.
+It is clear from these comments that the local government Councillors reacted somewhat differently from the M.H.A.’s[3](#f3) and that future tours should be adopted to meet these differing interests and attitudes.
 
-3\. From another angle the tour was also a success in that it gave an opportunity for ordinary Australians and many organisations, in government, private enterprise and community activities, to meet and entertain these visitors from P. &amp; N.G. In particular, the visits to private homes in Canberra arranged through church people could be mentioned.
+3\. From another angle the tour was also a success in that it gave an opportunity for ordinary Australians and many organisations, in government, private enterprise and community activities, to meet and entertain these visitors from P. & N.G. In particular, the visits to private homes in Canberra arranged through church people could be mentioned.
 
-4\. The reports are submitted for your information.4
+4\. The reports are submitted for your information.[4](#f4)
 
 [NAA: A452, 1967/6847]
 

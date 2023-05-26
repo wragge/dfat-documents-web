@@ -1,12 +1,17 @@
 ---
-title: "370 Eggleston to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 3017
+doc_date: '1944-12-11'
+doc_num: 370
+doc_order: 370
+naa_refs:
+- naa_barcode: 1484502
+  naa_control_symbol: 1943/WASHINGTON
+  naa_series: A4231
+  reference: '[AA:A4231, WASHINGTON 1943[-45]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-11
+vol_title: 'Volume 7: 1944'
 ---
-
-# 370 Eggleston to Evatt
 
 Dispatch 12/44 WASHINGTON, 11 December 1944
 
@@ -64,7 +69,7 @@ I will report when I hear further from Mr. Stettinius and meanwhile I will try a
 
 F. W. EGGLESTON
 
-_
+ _
 
 1 Dispatched 25 November. In AA:A3196, 1944, O.32504/05/32491.
 
@@ -86,4 +91,4 @@ _
 
 _
 
-_ [AA:A4231, WASHINGTON 1943[-45]]_
+ _[AA:A4231, WASHINGTON 1943[-45]]_

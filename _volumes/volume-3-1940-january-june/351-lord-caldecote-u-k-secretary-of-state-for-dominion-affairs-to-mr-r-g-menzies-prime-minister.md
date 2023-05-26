@@ -1,12 +1,18 @@
 ---
-title: "351 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1117
+doc_date: '1940-06-09'
+doc_num: 351
+doc_order: 351
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, [1.4056]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-09
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 351 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram D242 LONDON, 9 June 1940, 5.05 a.m.
 
@@ -20,7 +26,7 @@ MOST SECRET FOLLOWING FOR PRIME MINISTER
 
 4\. Matter is therefore under re-consideration.
 
-_
+ _
 
 1 Document 348.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [FA: A3195, [1.4056] [3]]_
+ _[FA: A3195, [1.4056] [3]]_

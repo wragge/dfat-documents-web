@@ -1,22 +1,25 @@
 ---
-title: "267 LETTER, RIPPON TO MCEWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10132
+doc_date: '1970-08-12'
+doc_num: 267
+doc_order: 267
+naa_refs:
+- naa_barcode: 551423
+  naa_control_symbol: 727/4/2 PART 12
+  naa_series: A1838
+  reference: '[NAA: Al838, 727/4/2 PART 12]'
+title: LETTER, RIPPON TO MCEWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1970-08-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 267 LETTER, RIPPON TO MCEWEN
-
-NAA: Al838, 727/4/2 PART 12 
 
 London, 12 August 1970
 
 Restricted 
 
-I have read with great interest your letter of 17 July to Anthony Barber. 1 [...] I look forward to discussing all this with you when I visit Australia next month. You ask what we propose to say to the EEC in respect of Australia’s problems and needs.
+I have read with great interest your letter of 17 July to Anthony Barber. [1](#f1) [...] I look forward to discussing all this with you when I visit Australia next month. You ask what we propose to say to the EEC in respect of Australia’s problems and needs.
 
-Our general attitude has been set out in Anthony Barber’s statement in Luxembourg on 30 June, which you will have seen, and in Brussels on 21 July, a full account of which has been given to your High Commissioner here and to your ambassador in Brussels.2
+Our general attitude has been set out in Anthony Barber’s statement in Luxembourg on 30 June, which you will have seen, and in Brussels on 21 July, a full account of which has been given to your High Commissioner here and to your ambassador in Brussels.[2](#f2)
 
 We have said that we accept the treaties establishing in the Communities, subject to certain matters which we wish to discuss with the Communities.
 
@@ -24,7 +27,7 @@ We have also made it clear that we shall need a transitional period or periods t
 
 Such a transitional period will of course be of benefit to Australia also.
 
-You told Anthony Barber when you saw him on 8 July that you would like the longest transitional period which was possible, and he assured you that we would certainly ask for the longest transitional period we thought possible3
+You told Anthony Barber when you saw him on 8 July that you would like the longest transitional period which was possible, and he assured you that we would certainly ask for the longest transitional period we thought possible[3](#f3)
 
 While the impact of British entry to the EEC on Australia will be relatively less than the impact on certain other Commonwealth countries we fully realise that it will create social and economic problems for you and that in particular dairy produce and sugar pose serious difficulties.
 
@@ -45,3 +48,5 @@ This letter is intended as no more than an indication of the general lines along
 2  Barber’s Luxembourg statement marked the official opening of the membership negotiations. Here he emphasised Britain’s commitment to Europe: ‘[L]et none of us who is taking part in the negotiations lose sight of our common objective of European unity. And let no one who is not taking part think it could be in his interest that we should fail to achieve that objective. For given this base, we can not only hope for, but more effectively work for a closer and more fruitful relationship between East and West. We can do more to promote the growth of international trade. And we can make a fuller European contribution to solving the problems of less prosperous countries. These are the reasons why we want a united Europe. We want Europe to prosper. But we do not seek prosperity for Europe alone, any more than you do. We believe with you that Europe still has its contribution to make beyond its own frontiers and we believe that Europe cannot make its full contribution unless the Communities are enlarged to include Britain ... Our main problems, as you know, concern matters of agricultural policy; our contribution to Community budgetary expenditure; Commonwealth sugar exports; New Zealand’s special problems; and certain other Commonwealth questions.’
 
 3  Document 264. 
+
+[NAA: Al838, 727/4/2 PART 12]

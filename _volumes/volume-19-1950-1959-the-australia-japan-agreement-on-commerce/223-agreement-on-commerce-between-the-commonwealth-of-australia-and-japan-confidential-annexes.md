@@ -1,14 +1,20 @@
 ---
-title: "223 Agreement On Commerce Between The Commonwealth Of Australia And Japan: Confidential Annexes"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7828
+doc_date: '1957-07-06'
+doc_num: 223
+doc_order: 223
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DFAT : AUSTRALIAN TREATY COLLECTION]'
+title: 'Agreement On Commerce Between The Commonwealth Of Australia And Japan: Confidential
+  Annexes'
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-07-06
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 223 Agreement On Commerce Between The Commonwealth Of Australia And Japan: Confidential Annexes
-
-## 6th July, 1957
+6th July, 1957
 
 TOKYO
 
@@ -156,7 +162,7 @@ With reference to the consultations for the purpose of establishing unfair trade
 
 and f. price lower than the c. and f. price at which wheat of comparable quality from that country was being offered for sale in another major wheat importing country.
 
-_
+ _
 
 1 Document 213.
 
@@ -170,4 +176,4 @@ _
 
 _
 
-_ [DFAT : AUSTRALIAN TREATY COLLECTION]_
+ _[DFAT : AUSTRALIAN TREATY COLLECTION]_

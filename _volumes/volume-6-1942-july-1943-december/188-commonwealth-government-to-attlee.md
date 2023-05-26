@@ -1,12 +1,17 @@
 ---
-title: "188 Commonwealth Government to Attlee"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2479
+doc_date: '1943-05-12'
+doc_num: 188
+doc_order: 188
+naa_refs:
+- naa_barcode: 185768
+  naa_control_symbol: 1943/735/832/1 PART 1
+  naa_series: A989
+  reference: '[AA:A989, 43/735/832/1]'
+title: Commonwealth Government to Attlee
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-12
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 188 Commonwealth Government to Attlee
 
 Cablegram 116 [1] CANBERRA, 12 May 1943
 
@@ -32,7 +37,7 @@ Commonwealth Government has carefully considered questions raised by you and agr
 
 5\. We would emphasize that these are preliminary general ideas only, and would hope to be able to make a contribution to practical details of such a scheme at the appropriate time. It seems evident that the settlement of such details will depend partly on the parallel elaboration of a general system of security.
 
-_
+ _
 
 1 Repeated to the N.Z. Prime Minister as no. 86.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/832/1]_
+ _[AA:A989, 43/735/832/1]_

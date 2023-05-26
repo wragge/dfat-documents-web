@@ -1,12 +1,17 @@
 ---
-title: "253 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 590
+doc_date: '1939-09-29'
+doc_num: 253
+doc_order: 253
+naa_refs:
+- naa_barcode: 176522
+  naa_control_symbol: GER 72 PART 1
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 72B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-29
+vol_title: 'Volume 2: 1939'
 ---
-
-# 253 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 510 LONDON, 29 September 1939, 7.35 p.m.
 
@@ -18,10 +23,10 @@ I have been trying all day to extract the considered view of the War Cabinet and
 
 BRUCE
 
-_
+ _
 
 1 Joachim von Ribbentrop, German Minister for Foreign Affairs, and Joseph Stalin, General Secretary of the Central Committee of the U.S.S.R. Communist Party, met in Moscow on 27 and 28 September 1939 to negotiate the partition of Poland and cession of Lithuania to the U.S.S.R. On 28 September they issued a statement suggesting that the settlement of the Polish question had cleared the way for an end to the war between Germany and the United Kingdom and France.
 
 _
 
-_ [AA: A981, GERMANY 72B, i]_
+ _[AA: A981, GERMANY 72B, i]_

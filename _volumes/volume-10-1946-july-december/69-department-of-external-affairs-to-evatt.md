@@ -1,12 +1,17 @@
 ---
-title: "69 Department of External Affairs to Evatt"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3917
+doc_date: '1946-08-15'
+doc_num: 69
+doc_order: 69
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838/238, 480/7]'
+title: Department of External Affairs to Evatt
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-08-15
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 69 Department of External Affairs to Evatt
 
 Cablegram P164 CANBERRA, 15 August 1946
 
@@ -32,10 +37,10 @@ Reference Ball's report on ACJ meeting held on 13th August. [1] Following are ou
 
 [2]
 
-_ 1 Document 66.
+ _1 Document 66.
 
 2 Evatt replied on 17 August that he entirely agreed with suggested instructions to Ball contained in paragraph 4, adding that it was completely contrary to the Moscow Agreement for suggestions of this kind to be made, and that Ball was 'struggling to do his best' in a difficult situation.
 
 _
 
-_ [AA:A1838/238, 480/7]_
+ _[AA:A1838/238, 480/7]_

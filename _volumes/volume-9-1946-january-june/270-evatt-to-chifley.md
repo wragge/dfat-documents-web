@@ -1,12 +1,17 @@
 ---
-title: "270 Evatt to Chifley"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3782
+doc_date: '1946-05-25'
+doc_num: 270
+doc_order: 270
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: AA1976/34
+  reference: '[AA:AA1976/34]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-25
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 270 Evatt to Chifley
 
 Cablegram 359 LONDON, 25 May 1946, 4.46 p.m.
 
@@ -24,7 +29,7 @@ SECRET PERSONAL
 
 6\. You will be glad at the general feeling of satisfaction over the Conferences. In the course of a statement I issued in London I said: 'Mr. Chifley, the Australian Prime Minister took a prominent part in the early stages of the discussions until his departure from London, and the feeling of solidarity and comradeship which became clearly evident in those first weeks marked the whole course of the talks.' 7. I expect to leave here tomorrow for New York and we both send our affectionate greetings.
 
-_
+ _
 
 1 i.e. the Nineteenth Meeting of Commonwealth Prime Ministers.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:AA1976/34]_
+ _[AA:AA1976/34]_

@@ -1,12 +1,18 @@
 ---
-title: "418 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1184
+doc_date: '1940-06-22'
+doc_num: 418
+doc_order: 418
+naa_refs:
+- naa_barcode: 4212446
+  naa_control_symbol: 1940/12
+  naa_series: A3196
+  reference: '[FA: A3196, 0.4042]'
+title: Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-22
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 418 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 315 22 June 1940,
 
@@ -20,7 +26,7 @@ For sake of expedition we would appreciate if Ambassador at Tokyo [2] could be i
 
 On completion of these steps we would propose without further delay to secure informal submission to His Majesty for approval name of person that it is desired to appoint.
 
-_
+ _
 
 1 Document 27.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [FA: A3196, 0.4042]_
+ _[FA: A3196, 0.4042]_

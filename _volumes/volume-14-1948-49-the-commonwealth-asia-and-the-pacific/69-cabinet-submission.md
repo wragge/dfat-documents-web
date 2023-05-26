@@ -1,12 +1,18 @@
 ---
-title: "69 Cabinet Submission"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5845
+doc_date: '1949-04-07'
+doc_num: 69
+doc_order: 69
+naa_refs:
+- naa_barcode: 227908
+  naa_control_symbol: VOLUME 38
+  naa_series: A2700
+  reference: '[AA: A2700, VOL.38]'
+title: Cabinet Submission
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-04-07
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 69 Cabinet Submission
 
 Agendum 1586 CANBERRA, 7 April 1949
 
@@ -54,10 +60,10 @@ Method of approach At the same time, the whole question seems to be political an
 
 In other words, the solution seems to be an agreement among the Commonwealth countries themselves to accord India a special position in relation to them, but not to endeavour to formalize the position by any attempted definitions. Any announcements on this subject should take the form of short statements of an actually recognized position, such statements stressing historical and evolutionary factors rather than legal concepts. [1]
 
-_
+ _
 
 1 Cabinet agreed that it was desirable that the association of India with the British Commonwealth be Maintained and decided that the matter could be dealt with by Chifley on his visit to London.
 
 _
 
-_ [AA: A2700, VOL.38]_
+ _[AA: A2700, VOL.38]_

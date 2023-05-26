@@ -1,14 +1,19 @@
 ---
-title: "322 Hasluck to Shedden"
-volume: "Volume 7: 1944"
-doc_id: 2969
+doc_date: '1944-10-19'
+doc_num: 322
+doc_order: 322
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 294]'
+title: Hasluck to Shedden
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-19
+vol_title: 'Volume 7: 1944'
 ---
 
-# 322 Hasluck to Shedden
-
-## Memorandum CANBERRA, 19 October 1944
+Memorandum CANBERRA, 19 October 1944
 
 I refer to my teleprinter message 1854 [1] of the 3rd October to Department of Defence, Melbourne, and subsequent communications by telephone regarding the arrangements for the Australian - New Zealand Conference.
 
@@ -40,7 +45,7 @@ The Prime Minister of New Zealand has expressed the wish to have general convers
 
 PAUL HASLUCK
 
-_
+ _
 
 1 On file AA:A5954, box 294.
 
@@ -54,4 +59,4 @@ Forsyth, and K. C. Hardy (Forde's publicity officer).
 
 _
 
-_ [AA:A5954, BOX 294]_
+ _[AA:A5954, BOX 294]_

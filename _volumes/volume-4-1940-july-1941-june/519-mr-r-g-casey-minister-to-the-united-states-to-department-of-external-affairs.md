@@ -1,12 +1,17 @@
 ---
-title: "519 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1750
+doc_date: '1941-06-23'
+doc_num: 519
+doc_order: 519
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA: A3830, 1941, 1626]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-23
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 519 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 462 WASHINGTON, 23 June 1941, 11.52 p.m.
 
@@ -34,7 +39,7 @@ Informed opinion here does not expect Russia to be capable of maintaining prolon
 
 CASEY
 
-_
+ _
 
 1 M. M. Litvinov.
 
@@ -46,4 +51,4 @@ _
 
 _
 
-_ [AA: A3830, 1941, 1626]_
+ _[AA: A3830, 1941, 1626]_

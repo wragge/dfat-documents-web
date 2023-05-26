@@ -1,12 +1,17 @@
 ---
-title: "387 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1153
+doc_date: '1940-06-15'
+doc_num: 387
+doc_order: 387
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.4337]'
+title: Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 387 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 124 WASHINGTON, 15 June 1940, 9.31 p.m.
 
@@ -34,7 +39,7 @@ He said he appreciated that there was nothing that he could say in this connecti
 
 CASEY
 
-_
+ _
 
 1 Document 384.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [FA: A3195, 1.4337]_
+ _[FA: A3195, 1.4337]_

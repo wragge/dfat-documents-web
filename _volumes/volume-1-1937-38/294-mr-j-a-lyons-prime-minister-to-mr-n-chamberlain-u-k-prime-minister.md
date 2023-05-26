@@ -1,14 +1,19 @@
 ---
-title: "294 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 293
+doc_date: '1938-09-30'
+doc_num: 294
+doc_order: 293
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 35/554]'
+title: Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-30
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 294 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
-
-## Cablegram unnumbered 30 September 1938,
+Cablegram unnumbered 30 September 1938,
 
 IMMEDIATE
 
@@ -16,8 +21,8 @@ My wife and I desire personally to convey our sense of the stress and anxiety wh
 
 J. A. LYONS
 
-_
+ _
 
 _
 
-_ [PRO : DO 35/554]_
+ _[PRO : DO 35/554]_

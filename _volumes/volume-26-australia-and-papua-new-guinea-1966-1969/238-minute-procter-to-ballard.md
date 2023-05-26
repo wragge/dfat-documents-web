@@ -1,16 +1,21 @@
 ---
-title: "238 Minute, Procter To Ballard"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9746
+doc_date: 1968-11
+doc_num: 238
+doc_order: 238
+naa_refs:
+- naa_barcode: 11340842
+  naa_control_symbol: 1967/6847
+  naa_series: A452
+  reference: '[NAA: A452, 1967/6847]'
+title: Minute, Procter To Ballard
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-11-04
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
 
-# 238 Minute, Procter To Ballard
+Canberra, November 1968 [2](#f2)
 
-Canberra, November 1968 2
-
-**Points of interest arising from discussions with visiting M.H.A.’s 3**
+ **Points of interest arising from discussions with visiting M.H.A.’s[3](#f3)**
 
 I discussed many different topics with the Members whilst accompanying them on the Queensland tour. The more pertinent items raised during these discussions are briefly summarized below.
 
@@ -18,7 +23,7 @@ I discussed many different topics with the Members whilst accompanying them on t
 
 (ii) All members stated that they felt the islands should remain a part of the Territory. However, the attitude of Epineri Titimur appeared to differ from his stated position and I gained the impression that he favoured some sort of emancipation from the mainland. He several times remarked on the ‘uncivilized behaviour’ of the Chimbus and Sepik people.
 
-(iii) Warren Dutton is a member of the procedures committee of the House of Assembly and we had several discussions about activities in the House and the use of standing orders. When I suggested that sections of standing {orders} are suspended very readily he agreed but felt it was justified at times in order to rush a piece of legislation through the House. He agreed that many members were often almost completely ignorant of what they were voting for and simply followed the example of the official members. This is not without its {amusing} sidelights at times. For example, there was the occasion of Somare’s motion for a Commission of Inquiry into the Electoral System on 11 th June 1968.4 Somare is a Pangu member.
+(iii) Warren Dutton is a member of the procedures committee of the House of Assembly and we had several discussions about activities in the House and the use of standing orders. When I suggested that sections of standing {orders} are suspended very readily he agreed but felt it was justified at times in order to rush a piece of legislation through the House. He agreed that many members were often almost completely ignorant of what they were voting for and simply followed the example of the official members. This is not without its {amusing} sidelights at times. For example, there was the occasion of Somare’s motion for a Commission of Inquiry into the Electoral System on 11 th June 1968.[4](#f4) Somare is a Pangu member.
 
 The independent members organized themselves to defeat this motion mainly because it was proposed by the Pangu Pati. They had decided who would move to have the debate adjourned for 6 months and who would second the motion thus effectively killing Somare’s motion. However, Somare got wind of this and when he had finished speaking to the motion moved that it be made an order of the day for the next meeting. This motion was defeated. Mr. L.W. Johnson then spoke to the motion expressing the administration support for the motion provided Somare agreed to an amendment. Somare moved the amendment, then before the Speaker had time to put it, Giregire moved that the debate be adjourned for 6 months in order to ‘kill’ the motion. However, this was (incorrectly, Standing Order 80) ruled out of order by the Speaker ‘because the period of 6 months no longer is provided for in Standing Orders.’ The Clerk of the House then informed the Speaker of his mistake but the Speaker apparently decided not to alter his ruling. He then put the amendment. However by this time many of the members did not know whether they were voting for the amendment or for the adjournment and the amendment was defeated. This meant that the Administration was now unable to support the motion. Fielding by this time realized that the best way out of the predicament was to simply put the question thus gagging the debate and so allowing the motion to be defeated by the vote of the House. However most of the indigenous members were by now completely lost and when the motion that the question be put, was put, blindly followed the lead of the Government members who had to vote against the gag in accordance with their instructions although by this time they were no longer going to support Somare’s motion after amendment being defeated and seeing the reaction of the House. Thus the gag was defeated, the independent members looking askance at their fellow members who realized what was happening and voted for the gag. At this stage the Speaker called for a tea break.
 
@@ -40,7 +45,7 @@ This example brings to light several interesting features of the proceedings in 
 
 (vi) Questions asked in the House. John Poe mentioned that two questions which he had asked of official members had been inadequately answered. One reply had nothing to do with [the] question which he had asked which is in complete contradiction of Standing Order 133. Many other members had also experienced this.
 
-(vii) Attitude to M.M.’s and A.M .M.’s. The attitude was generally one of understanding the problems and difficulties of these members and backbenchers usually gave them what assistance they could. This even extended to assisting them in their electorate and explaining to their electors the importance of the M.M.’s or A.M.M.’s position and the value of the work they were doing. At the same time they explained why the M.M. or A.M.M. could only spend a little time in his electorate. 5
+(vii) Attitude to M.M.’s and A.M .M.’s. The attitude was generally one of understanding the problems and difficulties of these members and backbenchers usually gave them what assistance they could. This even extended to assisting them in their electorate and explaining to their electors the importance of the M.M.’s or A.M.M.’s position and the value of the work they were doing. At the same time they explained why the M.M. or A.M.M. could only spend a little time in his electorate. [5](#f5)
 
 [NAA: A452, 1967/6847]
 

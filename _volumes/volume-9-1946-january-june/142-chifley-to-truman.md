@@ -1,12 +1,17 @@
 ---
-title: "142 Chifley to Truman"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3654
+doc_date: '1946-03-25'
+doc_num: 142
+doc_order: 142
+naa_refs:
+- naa_barcode: 235846
+  naa_control_symbol: '373'
+  naa_series: A3300
+  reference: '[AA:A3300, 46/373]'
+title: Chifley to Truman
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-25
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 142 Chifley to Truman
 
 Cablegram 460 CANBERRA, 25 March 1946
 
@@ -28,10 +33,10 @@ J. B. CHIFLEY
 
 Ends
 
-_
+ _
 
 1 On 28 March the Washington Legation reported informal advice from the U.S. State Department that the dates suggested would be convenient. Chifley met Truman on Thursday 9 May, and had several meetings with Acheson (see also Document 292, note 3). No official record of any of the discussions has been located.
 
 _
 
-_ [AA:A3300, 46/373]_
+ _[AA:A3300, 46/373]_

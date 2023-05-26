@@ -1,14 +1,19 @@
 ---
-title: "189 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 955
+doc_date: '1940-04-30'
+doc_num: 189
+doc_order: 189
+naa_refs:
+- naa_barcode: 4212444
+  naa_control_symbol: 1940/10
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2566]'
+title: Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-30
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 189 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 30 April 1940,
+Cablegram unnumbered 30 April 1940,
 
 B.B.C. short wave broadcast Sunday, April 28th, included announcement that QUEEN MARY and AQUITANIA had arrived Capetown.
 
@@ -20,7 +25,7 @@ Incident indicates reversal British policy outlined your telegram April 12th [2]
 
 Impossible enforce this policy here if B.B.C. continues to issue bulletins concerning these liners.
 
-_
+ _
 
 1 Thew ships were in fact embarking troops in Australian and New Zealand ports.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA: A3196, 0.2566]_
+ _[FA: A3196, 0.2566]_

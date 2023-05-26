@@ -1,12 +1,17 @@
 ---
-title: "145 Commonwealth Government to Mr P. Fraser, N.Z. Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 911
+doc_date: '1940-04-15'
+doc_num: 145
+doc_order: 145
+naa_refs:
+- naa_barcode: 4212443
+  naa_control_symbol: 1940/9
+  naa_series: A3196
+  reference: '[FA: A3196, 0.2232]'
+title: Commonwealth Government to Mr P. Fraser, N.Z. Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 145 Commonwealth Government to Mr P. Fraser, N.Z. Prime Minister
 
 Cablegram unnumbered 15 April 1940,
 
@@ -16,7 +21,7 @@ In view of world-wide interest movements big Cunard White Star liners [1], Commo
 
 Commonwealth Government have agreed to the suppression of any such news and would like to know whether your Government is of same opinion. [2]
 
-_
+ _
 
 1 These ships were used for the transport of Dominion troops.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [FA: A3196, 0.2232]_
+ _[FA: A3196, 0.2232]_

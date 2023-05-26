@@ -1,12 +1,17 @@
 ---
-title: "3 Roosevelt to Curtin Letter"
-volume: "Volume 7: 1944"
-doc_id: 2650
+doc_date: '1944-01-03'
+doc_num: 3
+doc_order: 3
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 646]'
+title: Roosevelt to Curtin Letter
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-03
+vol_title: 'Volume 7: 1944'
 ---
-
-# 3 Roosevelt to Curtin Letter
 
 Letter WASHINGTON, 3 January 1944
 
@@ -86,9 +91,9 @@ With my warm regards and all good wishes for the New Year.
 
 FRANKLIN D. ROOSEVELT
 
-_
+ _
 
-1 Churchill, Roosevelt and Generalissimo Chiang Kai-shek (Chinese 
+1 Churchill, Roosevelt and Generalissimo Chiang Kai-shek (Chinese
 
 President and, until 4 December, President of the Executive Yuan) 
 
@@ -104,7 +109,7 @@ President Inonu.
 
 _
 
-_
+ _
 
 [AA:A5954, BOX 646]
 

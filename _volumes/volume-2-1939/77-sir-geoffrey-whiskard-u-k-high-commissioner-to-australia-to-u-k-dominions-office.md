@@ -1,12 +1,18 @@
 ---
-title: "77 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 414
+doc_date: '1939-05-03'
+doc_num: 77
+doc_order: 77
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:FO 372/3319]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
+  Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-03
+vol_title: 'Volume 2: 1939'
 ---
-
-# 77 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office
 
 Cablegram 80 (paraphrase) CANBERRA, 3 May 1939
 
@@ -18,7 +24,7 @@ The Prime Minister went on to say that in his view, if and when a Minister was a
 
 He will not expect any reply now to Lyons' telegram of the 30th March No. 34 [6] but will communicate further as soon as possible.
 
-_
+ _
 
 1 Document 75.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [PRO:FO 372/3319]_
+ _[PRO:FO 372/3319]_

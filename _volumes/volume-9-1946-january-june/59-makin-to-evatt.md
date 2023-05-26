@@ -1,12 +1,17 @@
 ---
-title: "59 Makin to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3571
+doc_date: '1946-01-30'
+doc_num: 59
+doc_order: 59
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.2709]'
+title: Makin to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-30
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 59 Makin to Evatt
 
 Cablegram 663 LONDON, 30 January 1946, 12.56 a.m.
 
@@ -24,10 +29,10 @@ It is clear, as I have indicated, that Australia played a considerable part in f
 
 The press here are requesting information as to what state first advanced his name, but I have felt this disclosure might be regarded as a breach of confidence, and have been non committal.
 
-_
+ _
 
 1 See Document 33.
 
 _
 
-_ [AA:A3195, 1946, 1.2709]_
+ _[AA:A3195, 1946, 1.2709]_

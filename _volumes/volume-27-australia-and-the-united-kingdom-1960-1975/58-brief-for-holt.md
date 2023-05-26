@@ -1,20 +1,23 @@
 ---
-title: "58 BRIEF FOR HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9923
+doc_date: '1966-06-27'
+doc_num: 58
+doc_order: 58
+naa_refs:
+- naa_barcode: 1836303
+  naa_control_symbol: 287/3/26
+  naa_series: A1945
+  reference: '[NAA: A1945, 287/3/26]'
+title: BRIEF FOR HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-06-27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 58 BRIEF FOR HOLT
-
-NAA: A1945, 287/3/26
 
 Canberra, 27 June 1966
 
 Top Secret
 
-****
+ ****
 
 British Bases in Australia
 
@@ -24,7 +27,7 @@ The agreed Minute following the Cabinet consultations with Mr. Healey included t
 
 2\. Subsequently the Prime Minister announced publicly that Australia was willing to plan against a contingency that Singapore might be untenable at some future point of time and that studies at the Service level of various possibilities and their feasibility would be undertaken.
 
-3\. An examination of the problems associated with the British requirement for base facilities in Australia was put in hand in the Australian Joint Service machinery. The Australian approach was that planning for the provision of base facilities in Australia is part of the price we must pay if we wish the British to hold on in Singapore longer than they would otherwise intend; and the actual existence of the facilities would enable British forces to remain in the area rather than go home when they eventually leave Singapore/Malaysia. Nevertheless it is unlikely that anybody would be prepared to provide full permanent facilities for the whole British force against what is only a contingency. Mr. Healey himself expressed his agreement with this view during the Ministerial discussions. For some elements of the Services it might be possible to rely on the establishment of an infrastructure in Australia with provision for rapid reinforcement. There would also be merit in locating the British forces as far as possible at existing bases or at some extension of these bases or at least where Australian bases would be required for the expected development of Australian forces.2
+3\. An examination of the problems associated with the British requirement for base facilities in Australia was put in hand in the Australian Joint Service machinery. The Australian approach was that planning for the provision of base facilities in Australia is part of the price we must pay if we wish the British to hold on in Singapore longer than they would otherwise intend; and the actual existence of the facilities would enable British forces to remain in the area rather than go home when they eventually leave Singapore/Malaysia. Nevertheless it is unlikely that anybody would be prepared to provide full permanent facilities for the whole British force against what is only a contingency. Mr. Healey himself expressed his agreement with this view during the Ministerial discussions. For some elements of the Services it might be possible to rely on the establishment of an infrastructure in Australia with provision for rapid reinforcement. There would also be merit in locating the British forces as far as possible at existing bases or at some extension of these bases or at least where Australian bases would be required for the expected development of Australian forces.[2](#f2)
 
 4\. While in England in April Sir Edwin Hicks had discussions with the Permanent Under-Secretary in the Ministry of Defence and Senior Advisers and also with the Chiefs of Staff Committee. At these meetings it was agreed that single Service planners at the level of Lieutenant Colonel and equivalent should visit Australia to examine and discuss British requirements on the spot with the Australian planning staff. These low level staff talks would be entirely without commitment on either side.
 
@@ -73,7 +76,7 @@ ANNEX
 
 The British Single Service Planners who visited Australia in June for low level planning discussions with their Australian counterparts tabled the following force levels as a basis for discussion:–
 
-_Royal Navy_
+ _Royal Navy_
 
 > 1 Commando Ship
 > 
@@ -97,7 +100,7 @@ _Royal Navy_
 
 Not more than 50% of this force would be in the Australian base at any one time.
 
-_British Army_
+ _British Army_
 
 An amphibious force consisting of about three major units with logistic support totalling in all about 3000.
 
@@ -105,7 +108,7 @@ A force of about brigade strength consisting of the equivalent of four major uni
 
 A base force to provide the Headquarters and support for both the amphibious and the other brigade and for the maintenance or war reserves. This will be a static force and would amount to some 5000 all ranks, including a few U.K. based civilians.
 
-_Royal Air Force_
+ _Royal Air Force_
 
 Maritime Forces
 
@@ -142,3 +145,5 @@ Maritime Forces
 1 This brief was one of a number of papers prepared for Holt’s visits to Washington and London in June and July 1966 respectively.
 
 2 Reporting on a talk with Hicks in Canberra on 28 June 1966, the British Defence Liaison Staff in Australia commented: ‘Hicks said quite firmly that the Prime Minister of Australia was determined not to lay himself open to the charge of it being the Australians who had driven Britain out of the Far East but that this was to some extent balanced by the fact that they could see no sense in putting up at an early date a large range of facilities which would not be used while we were in Malaysia and Singapore (it may well be that this last point is a contributory factor to the Australian wariness about the Army but there are other points such as the embarrassment of accepting British troops in this country whilst there are Australians in Vietnam and some reluctance to any appearance of a garrison)’ (UKNA: DEFE 25/149, telegram to Ministry of Defence).
+
+[NAA: A1945, 287/3/26]

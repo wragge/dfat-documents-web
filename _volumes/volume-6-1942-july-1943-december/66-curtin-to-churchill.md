@@ -1,12 +1,17 @@
 ---
-title: "66 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2357
+doc_date: '1942-10-29'
+doc_num: 66
+doc_order: 66
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-10-29
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 66 Curtin to Churchill
 
 Cablegram Johcu 43 [1] CANBERRA, 29 October 1942
 
@@ -20,7 +25,7 @@ Thank you for the information contained in Winch 26. [2] We are glad to be assoc
 
 CURTIN
 
-_
+ _
 
 1 Repeated to Bruce as no. 9941.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

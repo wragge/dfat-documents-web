@@ -1,14 +1,19 @@
 ---
-title: "366 Legation in Washington to Department of External Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1132
+doc_date: '1940-06-12'
+doc_num: 366
+doc_order: 366
+naa_refs:
+- naa_barcode: 177376
+  naa_control_symbol: ITA 60 PART 4
+  naa_series: A981
+  reference: '[AA: A981, ITALY 60B]'
+title: Legation in Washington to Department of External Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-12
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 366 Legation in Washington to Department of External Affairs
-
-## Cablegram 117 WASHINGTON, 12 June 1940, 1.25 p.m.
+Cablegram 117 WASHINGTON, 12 June 1940, 1.25 p.m.
 
 Received 13 June 1940, 8.30 a.m.
 
@@ -16,7 +21,7 @@ My telegrams No. 107 Canberra and No. 31 London. [1] The general reaction to Ita
 
 Military intervention has only a very few advocates. Far more people however are anticipating it though majority still continue to oppose it. [3]
 
-_
+ _
 
 1 Document 328.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA: A981, ITALY 60B]_
+ _[AA: A981, ITALY 60B]_

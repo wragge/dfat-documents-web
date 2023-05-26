@@ -1,14 +1,17 @@
 ---
-title: "263 MEMORANDUM, DAVIS TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10128
+doc_date: '1970-06-11'
+doc_num: 263
+doc_order: 263
+naa_refs:
+- naa_barcode: 551431
+  naa_control_symbol: 727/4/2 PART 20
+  naa_series: A1838
+  reference: '[NAA:Al838, 727/4/2 PART 20]'
+title: MEMORANDUM, DAVIS TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1970-06-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 263 MEMORANDUM, DAVIS TO WALLER
-
-NAA:Al838, 727/4/2 PART 20 
 
 Brussels, 11 June 1970
 
@@ -18,7 +21,7 @@ Restricted
 
 The commencement of the negotiations for the enlargement of the Communities being imminent, it may be useful to set out some of the considerations as seen from Brussels which we may need to keep in mind in assessing Australia’s position in relation to the Communities in the short-term and in the long-term. These notes take account of contributions and comments from my colleagues although our views are not identical on all points.
 
-_The Short-term_
+ _The Short-term_
 
 2\. In the short-term the principal questions are:
 
@@ -38,7 +41,7 @@ _The Short-term_
 
 6\. On the other hand, it is clear from all we have been able to do in stating Australia’s interests that people in Brussels do not appreciate that in some particular commodity areas Australia will have problems. To some the situation seems like: ‘no representations, no problems’. Therefore, it would seem that any general statement of our concerns and any other positive proposals from Australia should be conveyed either to some or all of the Governments of the Six, to the Commission, and to Britain. In our view, Australian representations would need to be made fairly widely. To have any real chance of being effective representations to such an entity as the Communities need to be applied simultaneously to a number of the numerous points of power or influence in the Communities. The complex inter-relationships between these various points of power on the different matters under consideration are such that representations at just a few of the points of power would risk that in the event we had addressed ourselves to the wrong people or not all of the right people. The points of greatest power are the Governments of the Member States, and more particularly the six Foreign Ministers, although other Ministers are important. The Commission, although it will have a subordinate role in the negotiations, will have sufficient influence that it should not be ignored.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 8\. How receptive would the Six be to Australian representations? Here we must distinguish representations for short-term relief during the transitional period and those designed to secure longer term benefits or to affect a longer term relationship with the Communities. On the latter, we may assume that none of the six members of the Community would be receptive unless our representations were seen as more than arguments to help Australia and were supported by other third countries. It would not be easy to get the Six very interested in world trade problems while they have the enlargement negotiations on their hands. And yet it may be too late to press such problems later.
 
@@ -52,7 +55,7 @@ _The Short-term_
 
 13\. We are also aware that there is in the Commission a body of opinion, the importance of which we cannot gauge, which feels that it would be advantageous for the Communities to make some concessions during the transition period to cushion, as far as possible, the cost of entry to Britain. There is also some scepticism—perhaps a good deal of scepticism—within the Commission about the current improvements in the British balance of payments situation, in particular because of the current rate of wage increases in the United Kingdom which, in their view, give cause for considerable concern and which, in particular, could lead to further balance of payments problems for Britain beyond those which will be incurred through agricultural imports if Britain were to enter the Communities. It is felt that it may be advantageous to lessen the agricultural costs to the balance of payments during the early part of the transitional period, and to allow the main costs to be incurred towards the end of that period. This could be balanced (in the process of relaxing trade barriers between Britain and particular states) by allowing industrial tariffs between Britain and the Six to fall considerably in the early part of the transitional period. The effect of higher agricultural prices on wages and costs in the British economy would be of a much greater magnitude than that of a decrease in industrial tariffs between Britain and the Six. There could be some advantage for Australia in encouraging this viewpoint in the Commission since it could result in the British market for agricultural produce being still open to Australian exporters in a large measure until the later part of the transitional period.
 
-_The long-term_
+ _The long-term_
 
 14\. From the angle of timing, it has been speculated that Britain, if she enters the Common Market, would do so at the beginning of 1973. This allows for about 12 months for ratifications by all Governments of an agreement for her entry. The transitional period would be, say, 5 years, meaning that Britain would be a full member by 1978.
 
@@ -66,7 +69,7 @@ _The long-term_
 
 19\. Whether these developments are slow or fast, they will all be aimed at an increasing integration of the economic and commercial activities of the member states—and of the daily lives of their people—and will inevitably require an increasingly close political co-ordination and probably the implementation of many common political decisions at least on issues internal to the Communities, but probably increasingly so in foreign relations also.
 
-20\. It is impossible to forecast the eventual form of the institutional developments of the Communities. However, there are certain clear pointers towards increasing political integration in addition to those already mentioned. The summit meeting at The Hague foreshadowed progress towards political integration.1 France remains a reluctant supporter of this aspect of the communiqué. Nevertheless France has come a long way since de Gaulle lost power. It may be that the Gaullist policies will recede over the years and with them the strength of the opposition to political integration. France may nevertheless remain for some time the most nationalistic of the Six and the strongest opponent of integration. Britain also appears to be a likely supporter of France in opposing any rapid move towards integration. However, Britain has strongly supported the provision in the Treaty of Rome, for a directly elected parliament, possibly realising that the European Parliament’s powers are not likely to increase rapidly but nevertheless accepting as a basis for the future of the Communities the need for greater democratization. One of the implications of greater democratization might well be either the need to give the parliament greater powers or, alternatively or perhaps in addition, to make the Commission more democratic and less bureaucratic. Nevertheless the process of development towards political integration is likely to move only very slowly; but some would take a different view. The Foreign Ministers, working through the Davignon Committee, are obviously far from agreement about the nature of the political integration envisaged at The Hague, and, for the foreseeable future at least, the most that appears likely to be achieved in this field is some degree of voluntary co-ordination in foreign policy.
+20\. It is impossible to forecast the eventual form of the institutional developments of the Communities. However, there are certain clear pointers towards increasing political integration in addition to those already mentioned. The summit meeting at The Hague foreshadowed progress towards political integration.[1](#f1) France remains a reluctant supporter of this aspect of the communiqué. Nevertheless France has come a long way since de Gaulle lost power. It may be that the Gaullist policies will recede over the years and with them the strength of the opposition to political integration. France may nevertheless remain for some time the most nationalistic of the Six and the strongest opponent of integration. Britain also appears to be a likely supporter of France in opposing any rapid move towards integration. However, Britain has strongly supported the provision in the Treaty of Rome, for a directly elected parliament, possibly realising that the European Parliament’s powers are not likely to increase rapidly but nevertheless accepting as a basis for the future of the Communities the need for greater democratization. One of the implications of greater democratization might well be either the need to give the parliament greater powers or, alternatively or perhaps in addition, to make the Commission more democratic and less bureaucratic. Nevertheless the process of development towards political integration is likely to move only very slowly; but some would take a different view. The Foreign Ministers, working through the Davignon Committee, are obviously far from agreement about the nature of the political integration envisaged at The Hague, and, for the foreseeable future at least, the most that appears likely to be achieved in this field is some degree of voluntary co-ordination in foreign policy.
 
 21\. The significance of the increasing integration of the Communities, commercially, economically, monetarily and ultimately socially and politically, is likely to be that its influence as a world entity will grow substantially over the years. While this is happening the probabilities point to a reduction of the power and influence of the United States, having in mind its major internal problems and internal unease at the burdens of world responsibilities.
 
@@ -85,3 +88,5 @@ _The long-term_
 > (iii) On the assumption that the enlarged Communities will have an ever-increasing standard of living, as well as a probable increase of population, the Communities may well become a market of much greater importance than the United States.
 
 * 1  The Hague Summit was a meeting of the Six in December 1969 where they agreed to reopen negotiations for new membership. 
+
+[NAA:Al838, 727/4/2 PART 20]

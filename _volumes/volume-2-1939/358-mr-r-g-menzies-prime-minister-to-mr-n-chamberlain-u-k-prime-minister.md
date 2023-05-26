@@ -1,12 +1,17 @@
 ---
-title: "358 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 695
+doc_date: '1939-11-14'
+doc_num: 358
+doc_order: 358
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-14
+vol_title: 'Volume 2: 1939'
 ---
-
-# 358 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 
 Cablegram unnumbered n.d.[14 November 1939 [1]],
 
@@ -28,7 +33,7 @@ Kind regards.
 
 MENZIES
 
-_
+ _
 
 1 This cablegram was received in London at 11.45 p.m. on 13 November 1939 (see PRO: FO 372/33 19).
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

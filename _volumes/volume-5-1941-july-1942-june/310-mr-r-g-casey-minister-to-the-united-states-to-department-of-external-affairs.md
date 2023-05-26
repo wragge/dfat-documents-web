@@ -1,14 +1,19 @@
 ---
-title: "310 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2064
+doc_date: '1942-01-27'
+doc_num: 310
+doc_order: 311
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-27
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 310 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
-
-## Cablegram 165 WASHINGTON, 27 January 1942, 10.36 p.m.
+Cablegram 165 WASHINGTON, 27 January 1942, 10.36 p.m.
 
 Prime Minister's telegram No. 16 [1] arrived while combined American-British Chiefs of Staff were in long conference. I managed to get communication to them based on Prime Minister's No.
 
@@ -16,7 +21,7 @@ Prime Minister's telegram No. 16 [1] arrived while combined American-British Chi
 
 I would be grateful if above be not quoted at the request of American Chiefs of Staff.
 
-_
+ _
 
 1 Cablegram 16 of 27 January (on file AA:A3300, 219) repeated to Casey a cablegram dispatched the same day to Winston Churchill (Johcu 22) emphasising the parlous state of the air defences of Australia and New Guinea. Casey was instructed to request that U.S. aircraft in, or likely to soon arrive in, Australia should be made available to the R.A.A.F.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

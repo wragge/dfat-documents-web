@@ -1,17 +1,21 @@
 ---
-title: "233 Note, Warwick Smith To Barnes"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9741
+doc_date: '1968-10-15'
+doc_num: 233
+doc_order: 233
+naa_refs:
+- naa_barcode: 8811106
+  naa_control_symbol: 48/2
+  naa_series: NA1983/239
+  reference: '[NAA: NA 1983/239, 48/2]'
+title: Note, Warwick Smith To Barnes
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-10-15
-barcode: 8811106
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 233 Note, Warwick Smith To Barnes
 
 Canberra, 15 October 1968
 
-**T.P.N.G. Administrator’s visit 2**
+ **T.P.N.G. Administrator’s visit[2](#f2)**
 
 1\. The Administrator leaves Canberra late this afternoon.
 
@@ -31,15 +35,15 @@ For example:
 
 In the Department’s experience the appointment of a consultant is the first step to commitment.
 
-(c) He has concerned himself with the departmental heads salaries—which formally are exclusively a matter for the Public Service Commissioner and the Minister—the 3 the extent of putting great pressure for a semi-committal advice by you to him. (Your letter about it ‘in no sense meets the situation’).
+(c) He has concerned himself with the departmental heads salaries—which formally are exclusively a matter for the Public Service Commissioner and the Minister—the [3](#f3) the extent of putting great pressure for a semi-committal advice by you to him. (Your letter about it ‘in no sense meets the situation’).
 
 5\. I consider the Administrator needs to be reminded that he accepted your letter of July 1966 before appointment (the Minister’s instructions are conveyed orally or in writing personally or through the Secretary of the Department) and that A.G.’s Department have confirmed that under the Act ‘instructions’ can if necessary be given by the Governor-General(not inconsistently with the Act or Ordinances).
 
 6\. Unless the Administrator sees his duty as being to carry out the Government’s wishes, I foresee a serious danger that it will no longer be possible for the Minister to exercise policy control and decisions will be made in the Territory, on the authority of officials, which are repugnant to Government policies.
 
-7\. I consider this a matter of overriding importance to you as Minister. I also suggest you ask the Administrator what steps he is taking to increase the role and responsibilities of Ministerial Members in practice e.g. delegations, voice in formulating policy proposals; Toliman’s visit to Madang High School was good but not of a policy kind. 4
+7\. I consider this a matter of overriding importance to you as Minister. I also suggest you ask the Administrator what steps he is taking to increase the role and responsibilities of Ministerial Members in practice e.g. delegations, voice in formulating policy proposals; Toliman’s visit to Madang High School was good but not of a policy kind. [4](#f4)
 
-[ [NAA: NA 1983/239, 48/2](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=8811106) ]
+[NAA: NA 1983/239, 48/2]
 
 1  The note is an unsigned carbon copy.
 

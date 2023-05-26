@@ -1,14 +1,19 @@
 ---
-title: "406 Cabinet Submission by Chifley, Evatt, Dedman, Pollard, Lemmon and Courtice"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7121
+doc_date: '1948-05-04'
+doc_num: 406
+doc_order: 406
+naa_refs:
+- naa_barcode: 227892
+  naa_control_symbol: VOLUME 22
+  naa_series: A2700
+  reference: '[AA : A2700, VOLUME 22]'
+title: Cabinet Submission by Chifley, Evatt, Dedman, Pollard, Lemmon and Courtice
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-05-04
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
 
-# 406 Cabinet Submission by Chifley, Evatt, Dedman, Pollard, Lemmon and Courtice
-
-## Agendum 1019G, CANBERRA, [4 May 1948][1]
+Agendum 1019G, CANBERRA, [4 May 1948][1]
 
 CHARTER FOR AN INTERNATIONAL TRADE ORGANISATION INTRODUCTION Cabinet Agendum No. 1019E[2] reviewed the proceedings in Geneva of the Preparatory Committee for the United Nations Conference on Trade and Employment. That section of the Committee's work dealing with the General Agreement on Tariffs and Trade was further reported upon in Agendum No. 1019F. The Draft Charter prepared by the Preparatory Committee was presented to a United Nations Conference which concluded its work in Havana on 24th March, 1948 with the signing of the Final Act authenticating the text of a Charter for an International Trade Organisation for submission to the Governments concerned. A report by the Delegation to that Conference together with their summary of the Charter is attached to this Agendum.
 
@@ -76,7 +81,7 @@ The Interim Commission consists of all the Governments which supported the resol
 
 RECOMMENDATION It is recommended - (1) that the Commonwealth Government seek the approval of Parliament to deposit instruments of acceptance of the Charter and the General Agreement on Tariffs and Trade when similar instruments have been deposited by the Governments of the United Kingdom and the United States of America, (2) that Australia participate actively in the work of the Executive Committee of the Interim Commission, (3) that Australia raise no objection to the suspension and supersession of Article I and Part II of the General Agreement by the corresponding provisions of the Charter when the Charter comes into force.[3]
 
-_ [1] The submission is undated. Cabinet considered it on 4 May 1948.
+ _[1] The submission is undated. Cabinet considered it on 4 May 1948.
 
 [2] Published in Volume 12, Document 135.
 
@@ -84,4 +89,4 @@ _ [1] The submission is undated. Cabinet considered it on 4 May 1948.
 
 _
 
-_ [AA : A2700, VOLUME 22]_
+ _[AA : A2700, VOLUME 22]_

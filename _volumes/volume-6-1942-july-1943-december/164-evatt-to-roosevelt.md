@@ -1,14 +1,19 @@
 ---
-title: "164 Evatt to Roosevelt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2455
+doc_date: '1943-04-22'
+doc_num: 164
+doc_order: 164
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400. 3295 AUSTRALIA]'
+title: Evatt to Roosevelt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-04-22
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 164 Evatt to Roosevelt
-
-## Letter WASHINGTON, 22 April 1943
+Letter WASHINGTON, 22 April 1943
 
 1\. Mr. Curtin expresses thanks for your message of April 6th referring to certain increases in aeroplanes for United States forces in the South-West Pacific Area, but also indicating that, in accordance with a prior arrangement, you would be pleased to consider what I had to urge on behalf of Australia in relation to the area. [1]
 
@@ -60,7 +65,7 @@ Tonight he advised me that General MacArthur has given unreserved endorsement to
 
 H. V. EVATT
 
-_ 1 See Document 152.
+ _1 See Document 152.
 
 2 See Document 152, note 4.
 
@@ -76,4 +81,4 @@ _ 1 See Document 152.
 
 _
 
-_ [FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400. 3295 AUSTRALIA]_
+ _[FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400. 3295 AUSTRALIA]_

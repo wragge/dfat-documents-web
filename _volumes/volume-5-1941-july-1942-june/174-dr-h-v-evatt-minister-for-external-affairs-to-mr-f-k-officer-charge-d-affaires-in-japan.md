@@ -1,20 +1,26 @@
 ---
-title: "174 Dr H. V. Evatt, Minister for External Affairs, to Mr F. K. Officer, Charge d'Affaires in Japan"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1928
+doc_date: '1941-12-09'
+doc_num: 174
+doc_order: 175
+naa_refs:
+- naa_barcode: 182725
+  naa_control_symbol: WAR 44 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 44]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr F. K. Officer, Charge
+  d'Affaires in Japan
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-09
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 174 Dr H. V. Evatt, Minister for External Affairs, to Mr F. K. Officer, Charge d'Affaires in Japan
-
-## Cablegram unnumbered CANBERRA, 9 December 1941
+Cablegram unnumbered CANBERRA, 9 December 1941
 
 You are instructed to inform the Imperial Japanese Government immediately that a state of war exists and has existed between His Majesty's Government in the Commonwealth of Australia and the Imperial Japanese Government as from 5 O'clock in the afternoon, 9th [1] December, 1941. [2]
 
 EVATT
 
-_
+ _
 
 1 This should read 8th December. See Document 172, note 3.
 
@@ -24,4 +30,4 @@ Officer drafted a cablegram (no. 531) to this effect on 8 December, but it does 
 
 _
 
-_ [AA: A981, WAR 44]_
+ _[AA: A981, WAR 44]_

@@ -1,12 +1,17 @@
 ---
-title: "331 Chifley to Attlee"
-volume: "Volume 8: 1945"
-doc_id: 3362
+doc_date: '1945-10-23'
+doc_num: 331
+doc_order: 331
+naa_refs:
+- naa_barcode: 4224467
+  naa_control_symbol: 1945/52
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.27140/41/35/36]'
+title: Chifley to Attlee
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-23
+vol_title: 'Volume 8: 1945'
 ---
-
-# 331 Chifley to Attlee
 
 Cablegram unnumbered CANBERRA, 23 October 1945
 
@@ -30,7 +35,7 @@ MOST SECRET IMMEDIATE PERSONAL
 
 8\. In conclusion I would add that I am deeply conscious of the close community of interests which exists between members of the sterling area in these matters and if, in the last resort, the present negotiations in Washington result in financial and commercial proposals which, although they would mitigate immediate difficulties, merely postpone the main issues you may prefer to make a new approach to the balance of payments problem with the United States. I appreciate that the alternative of working out a solution primarily within the sterling area without assistance from the United States involves the hard way, particularly for the United Kingdom, and serious consideration would have to be given to the difficulties before reaching a decision. If, however, the negotiations with the United States do not offer a satisfactory solution of the problem I feel sure you could rely on the Australian Government co-operating with the United Kingdom and the rest of the sterling area in seeking a solution and Australia would accept the disabilities that would follow a reduction in dollar imports. If the Americans were made to appreciate the possibilities of this alternative and their responsibility for it they might be disposed to take a more generous view of their responsibilities in the financial and commercial policy fields.
 
-_
+ _
 
 1 On file AA : A1066, ER45/1/5.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.27140/41/35/36]_
+ _[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.27140/41/35/36]_

@@ -1,12 +1,19 @@
 ---
-title: "476 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2230
+doc_date: '1942-04-28'
+doc_num: 476
+doc_order: 477
+naa_refs:
+- naa_barcode: 239531
+  naa_control_symbol: 569/1
+  naa_series: A5954
+  reference: '[DEFENCE: MP1217, BOX 569, STRATEGICAL POLICY IN SOUTHWEST PACIFIC AREA-WITH
+    SPECIAL REFERENCE TO AUSTRALIA AS A BASE. FILE NO.1]'
+title: Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-04-28
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 476 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 267 [1] CANBERRA, 28 April 1942
 
@@ -46,7 +53,7 @@ You will recall that it was originally intended to provide an aircraft carrier f
 
 CURTIN
 
-_
+ _
 
 1 Repeated to the High Commissioner in the United Kingdom as no 3594 (AA:A3196, 1942, 0.11428).
 
@@ -60,4 +67,4 @@ _
 
 _
 
-_ [DEFENCE: MP1217, BOX 569, STRATEGICAL POLICY IN SOUTHWEST PACIFIC AREA-WITH SPECIAL REFERENCE TO AUSTRALIA AS A BASE. FILE NO.1]_
+ _[DEFENCE: MP1217, BOX 569, STRATEGICAL POLICY IN SOUTHWEST PACIFIC AREA-WITH SPECIAL REFERENCE TO AUSTRALIA AS A BASE. FILE NO.1]_

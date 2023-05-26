@@ -1,12 +1,17 @@
 ---
-title: "47 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 813
+doc_date: '1940-02-06'
+doc_num: 47
+doc_order: 47
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.844]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-06
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 47 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 6 February 1940, 5.36 p.m.
 
@@ -26,7 +31,7 @@ In the discussion which followed there was an agreement as to necessity of ascer
 
 BRUCE
 
-_
+ _
 
 1 Chairman of the Central Wool Committee. There is a copy of Bruce's cablegram in series FA: A3195, 1.401.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [FA: A3195, 1.844]_
+ _[FA: A3195, 1.844]_

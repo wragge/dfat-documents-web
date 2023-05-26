@@ -1,12 +1,17 @@
 ---
-title: "331 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3843
+doc_date: '1946-06-27'
+doc_num: 331
+doc_order: 331
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.16610/599/611]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-06-27
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 331 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram UN228 NEW YORK, 27 June 1946, 7319 p.m.
 
@@ -54,7 +59,7 @@ The meeting has shown that the Soviet is prepared to stand strictly on terms of 
 
 15\. Yesterday's meeting was climax to Dr. Evatt's activities on Spanish question. When veto issue emerged, he was virtually only Representative prepared to contest strong Soviet insistence upon Four Power Declaration and attitude of other smaller nations such as Brazil, Egypt and Mexico was disappointing. [4]
 
-_
+ _
 
 1 See Document 326.
 
@@ -68,4 +73,4 @@ These included matters of procedure under Articles 28 to 32 of the U.N. Charter,
 
 _
 
-_ [AA:A3195, 1946, 1.16610/599/611]_
+ _[AA:A3195, 1946, 1.16610/599/611]_

@@ -1,14 +1,17 @@
 ---
-title: "196 NOTES ON WESTERMAN DISCUSSIONS IN WASHINGTON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10061
+doc_date: '1962-07-25'
+doc_num: 196
+doc_order: 196
+naa_refs:
+- naa_barcode: 1173065
+  naa_control_symbol: 1961/1203 PART 1
+  naa_series: A1209
+  reference: '[NAA: A1209, 61/1203 PART I]'
+title: NOTES ON WESTERMAN DISCUSSIONS IN WASHINGTON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-07-25
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 196 NOTES ON WESTERMAN DISCUSSIONS IN WASHINGTON
-
-NAA: A1209, 61/1203 PART I
 
 Washington, 23-25 July 1962
 
@@ -18,7 +21,7 @@ The discussions revealed that the Americans have adopted positions of significan
 
 (a) They have specifically recognised that they stand to derive advantages, not compensated by balancing concessions on their part, from such elimination of preferences in the United Kingdom as will follow the accession of Britain to the EEC. Further, they accept that this represents ‘valuable consideration’ in tariff negotiations or commodity discussions. They recognise that there is some obligation on them to make payment for unrequited concessions accruing to them.
 
-(b) Whilst they have not, of course, shifted in their doctrinal objections to anything which smacks of the perpetuation of preferences, they have pretty faithfully conformed to the understanding reached in the Prime Minister’s visit1 that they would look at the situation on commodities of significance to them and to us pragmatically and not doctrinally.
+(b) Whilst they have not, of course, shifted in their doctrinal objections to anything which smacks of the perpetuation of preferences, they have pretty faithfully conformed to the understanding reached in the Prime Minister’s visit[1](#f1) that they would look at the situation on commodities of significance to them and to us pragmatically and not doctrinally.
 
 Their present position basically reflects the above two points. On items in which they as well as we have significant interests they have sought to ‘tailor’ their thinking to take into account, as far as their self-interest allows, our interests. On commodities of concern to us, but not directly of concern to them, they are to a perhaps a surprising extent prepared to ‘tolerate’ (in the sense of not actively opposing) arrangements which we might be able to conclude on our own initiative and which, from a doctrinal point of view, are objectionable to them. With respect to the latter point, of course, they have not contracted out of what they regard as their ‘honest broker’ role in seeing fair play for third countries, and particularly the lesser developed countries, but have made it plain that within limits they do not wish to be their brothers’ keeper.
 
@@ -33,3 +36,5 @@ In our discussions they placed some stress on the fact that some of their propos
 The specific proposals and the considerations which these raise are best dealt with by examining CET and CAP items separately.
 
 1 Document 186.
+
+[NAA: A1209, 61/1203 PART I]

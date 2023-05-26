@@ -1,12 +1,19 @@
 ---
-title: "238 Telegram from Birch to Templeton"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9107
+doc_date: '1982-03-31'
+doc_num: 238
+doc_order: 238
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Birch to Templeton
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-03-31
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 238 Telegram from Birch to Templeton
 
 Canberra, 31 March 1982
 
@@ -18,4 +25,4 @@ No 889. CONFIDENTIAL IMMEDIATE
 
 
 
-_[ABHS 950/Box 1228, 40/4/2 Part 3 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1228, 40/4/2 Part 3 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

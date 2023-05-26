@@ -1,14 +1,19 @@
 ---
-title: "132 Extract From Casey's Diary"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7737
+doc_date: '1956-05-18'
+doc_num: 132
+doc_order: 132
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CASEY PAPERS MS6150/4/28, VOLUME 18]'
+title: Extract From Casey's Diary
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1956-05-18
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 132 Extract From Casey's Diary
-
-## 18th May, 1956
+18th May, 1956
 
 CANBERRA
 
@@ -20,10 +25,10 @@ So far as ensuring that our exports to Japan (wool, wheat, etc.) get a fair run,
 
 In McEwen's absence a Cabinet Sub-Committee is to deal with any Japanese Trade matters that arise-consisting of McMahon, Fadden, McBride and myself. [1]
 
-_
+ _
 
 1 See Document 135. Casey records a further Cabinet meeting, dealing with other matters, in his diary for 21 May; presumably all decisions were recorded formally on that day.
 
 _
 
-_ [NLA : CASEY PAPERS MS6150/4/28, VOLUME 18]_
+ _[NLA : CASEY PAPERS MS6150/4/28, VOLUME 18]_

@@ -1,12 +1,18 @@
 ---
-title: "354 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 2: 1939"
-doc_id: 691
+doc_date: '1939-11-12'
+doc_num: 354
+doc_order: 354
+naa_refs:
+- naa_barcode: 206122
+  naa_control_symbol: I41/1/1
+  naa_series: A1608
+  reference: '[AA: A1608, 141/1/1]'
+title: Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-12
+vol_title: 'Volume 2: 1939'
 ---
-
-# 354 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 163 12 November 1939,
 
@@ -16,7 +22,7 @@ Your telegram 10th November.' His Majesty's Government in the Commonwealth of Au
 
 Please repeat to Prime Minister of New Zealand [4], Canada [5] and South Africa. [6]
 
-_
+ _
 
 1 Document 347.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [AA: A1608, 141/1/1]_
+ _[AA: A1608, 141/1/1]_

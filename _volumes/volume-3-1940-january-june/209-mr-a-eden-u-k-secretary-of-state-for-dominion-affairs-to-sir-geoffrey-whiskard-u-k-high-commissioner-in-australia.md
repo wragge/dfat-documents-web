@@ -1,12 +1,18 @@
 ---
-title: "209 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 975
+doc_date: '1940-05-03'
+doc_num: 209
+doc_order: 209
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3009]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard,
+  U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-03
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 209 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram unnumbered LONDON, 3 May 1940, 4.25 p.m.
 
@@ -20,7 +26,7 @@ You should communicate the above to the Prime Minister [3] for his secret inform
 
 Similar telegram sent to United Kingdom High Commissioner in the Union of South Africa [5] in reply to message received from General Smuts. [6]
 
-_
+ _
 
 1 On file AA: A1608, A41/1/1, viii.
 
@@ -38,4 +44,4 @@ Dominions Office circular cablegram C22 (on file AA: A1608, A41/1/1, ix).
 
 _
 
-_ [FA: A3195, 1.3009]_
+ _[FA: A3195, 1.3009]_

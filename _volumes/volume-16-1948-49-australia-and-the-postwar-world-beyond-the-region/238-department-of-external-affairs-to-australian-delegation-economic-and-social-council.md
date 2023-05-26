@@ -1,12 +1,18 @@
 ---
-title: "238 Department of External Affairs to Australian Delegation, Economic and Social Council"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6953
+doc_date: '1949-08-05'
+doc_num: 238
+doc_order: 238
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Department of External Affairs to Australian Delegation, Economic and Social
+  Council
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1949-08-05
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 238 Department of External Affairs to Australian Delegation, Economic and Social Council
 
 Cablegram 90, CANBERRA, 5 August 1949
 
@@ -30,8 +36,8 @@ It is essential that you send full and frequent reports of attitudes of other de
 
 If you require support in pressing our proposals you may call on services of Colonel Hodgson.
 
-_ [1] Document 236.
+ _[1] Document 236.
 
 _
 
-_ [EVATT COLLECTION - UNITED NATIONS - ECONOMIC AND SOCIAL COUNCIL - CABLES]_
+ _[EVATT COLLECTION - UNITED NATIONS - ECONOMIC AND SOCIAL COUNCIL - CABLES]_

@@ -1,12 +1,17 @@
 ---
-title: "340 Churchill to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2987
+doc_date: '1944-11-08'
+doc_num: 340
+doc_order: 340
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 590]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-08
+vol_title: 'Volume 7: 1944'
 ---
-
-# 340 Churchill to Curtin
 
 Cablegram 311 [1] LONDON, 8 November 1944, 5 p.m.
 
@@ -32,10 +37,10 @@ In order to provide for the administrative requirements of the fleet it is neces
 
 I should be happy to learn that the administrative arrangements proposed accord with your views.
 
-_
+ _
 
 1 Sent through the U.K. Dominions Secretary.
 
 _
 
-_ [AA:A5954, BOX 590]_
+ _[AA:A5954, BOX 590]_

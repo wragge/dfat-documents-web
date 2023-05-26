@@ -1,14 +1,20 @@
 ---
-title: "20 Eggleston to Evatt"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6189
+doc_date: '1949-01-05'
+doc_num: 20
+doc_order: 20
+naa_refs:
+- naa_barcode: 550230
+  naa_control_symbol: 383/1/2/5
+  naa_series: A1838
+  reference: '[AA : A1838, 383/1/25]'
+title: Eggleston to Evatt
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-05
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 20 Eggleston to Evatt
-
-## Memorandum CAMBERWELL, 5 January 1949
+Memorandum CAMBERWELL, 5 January 1949
 
 INDONESIA
 
@@ -28,7 +34,7 @@ Are we prepared to join in a regional arrangement of this kind in which we would
 
 These problems are world problems and not regional problems.
 
-_
+ _
 
 1 Article 52 of the UN Charter allows for regional arrangements or agencies, provided that such arrangements or agencies are consistent with the purposes and principles of the Charter, and encourages them to try to achieve pacific settlement of local disputes before referring them to the Security Council.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA : A1838, 383/1/25]_
+ _[AA : A1838, 383/1/25]_

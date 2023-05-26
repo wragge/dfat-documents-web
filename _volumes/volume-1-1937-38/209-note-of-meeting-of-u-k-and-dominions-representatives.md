@@ -1,12 +1,17 @@
 ---
-title: "209 Note of Meeting of U.K. and Dominions Representatives"
-volume: "Volume 1: 1937-38"
-doc_id: 208
+doc_date: '1938-05-25'
+doc_num: 209
+doc_order: 208
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note of Meeting of U.K. and Dominions Representatives
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-05-25
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 209 Note of Meeting of U.K. and Dominions Representatives
 
 HOUSE OF LORDS, LONDON, 25 May 1938, 4.30 p.m.
 
@@ -66,7 +71,7 @@ MR BRUCE said that he personally agreed with Lord Halifax that it was wise to ai
 
 MR TE WATER wondered whether there would be enough time for convincing the Czechs and for achieving all the other arrangements that would be necessary. Would the Sudeten Germans, even if they got a cantonal system, be ready, in the long run, to stay in Czechoslovakia? LORD HALIFAX in conclusion said that he felt that progress would be very difficult on the lines, in the first place, of asking Germany what she wanted and then of trying to get a general comprehensive settlement. The German Government liked to dictate their own timetable, and previous enquiries as to their requirements had obtained no definite answer. Moreover, while the discussions would be getting entangled in the many general questions which would be raised, the Czechoslovakian crisis would be going on. On the other hand, he did agree with Mr te Water that one of the difficulties of a cantonal settlement as a permanency would be that all the forces acting on Czechoslovakia were centrifugal as distant [sic] from the centripetal forces which were the major factor in the existence of the Swiss Federation, Switzerland had three powerful neighbours to whose mutual interest it was to keep the Swiss Federation in existence, but Czechoslovakia was surrounded by small States with the single exception of Germany, which dominated them all, and if Germany began to dismember Czechoslovakia, the others would probably prove to be jackals. They might like to know, however, that in order to get their own minds clear, the Cabinet had agreed that morning that we should send a member of the Foreign Office staff at once to Berlin and Prague-and he was now on his wayto bring back his appreciation of the atmosphere in the two capitals. Meanwhile the French were pressing the Czechoslovakian Government strongly to demobilize, and we could assure them that the last thing which the United Kingdom Government were doing was to sit back and wait on events. They realized the supreme importance of the time factor.
 
-_
+ _
 
 1 Sir Nevile Henderson.
 
@@ -86,4 +91,4 @@ _
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

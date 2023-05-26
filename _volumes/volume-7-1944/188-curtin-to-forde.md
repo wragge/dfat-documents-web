@@ -1,14 +1,19 @@
 ---
-title: "188 Curtin to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2835
+doc_date: '1944-06-08'
+doc_num: 188
+doc_order: 188
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, 1.21640]'
+title: Curtin to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-08
+vol_title: 'Volume 7: 1944'
 ---
 
-# 188 Curtin to Forde
-
-## Cablegram 530 WASHINGTON, 8 June 1944, 7.50 p.m.
+Cablegram 530 WASHINGTON, 8 June 1944, 7.50 p.m.
 
 MOST IMMEDIATE
 
@@ -20,7 +25,7 @@ Following for Forde, Acting Prime Minister, from the Prime Minister. 1. My view 
 
 CURTIN
 
-_
+ _
 
 1 See Document 187, note 3.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A3195, 1944, 1.21640]_
+ _[AA:A3195, 1944, 1.21640]_

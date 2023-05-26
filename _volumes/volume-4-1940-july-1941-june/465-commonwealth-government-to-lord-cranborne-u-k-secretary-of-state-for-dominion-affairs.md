@@ -1,12 +1,18 @@
 ---
-title: "465 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1696
+doc_date: '1941-05-22'
+doc_num: 465
+doc_order: 465
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA: A3196, 1941, 0.6733]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-22
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 465 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 313 22 May 1941,
 
@@ -28,7 +34,7 @@ With regard to the plans for the reinforcement of Singapore, they fully endorse 
 
 4\. Commonwealth Government would be glad to know if results are yet available of further study of political aspects of definition of act of war by Japan and movement of Australian forces to Koepang and Ambon, prior to outbreak of hostilities. The matters are referred to in Dominions Office Telegram 263 [9] of 15th April. [10]
 
-_
+ _
 
 1 Document 460.
 
@@ -40,7 +46,7 @@ _
 
 5 Commander D. H. Harries. See Document 451.
 
-6 &amp; 7 See Document 455, note 5.
+6  & 7 See Document 455, note 5.
 
 8 The N.Z. Govt had noted a discrepancy between the view expressed in paragraph 41 of A.D.B., that it was essential for the U.S.
 
@@ -52,4 +58,4 @@ Pacific fleet to be maintained at a strength at least equal to that of the Japan
 
 _
 
-_ [AA: A3196, 1941, 0.6733]_
+ _[AA: A3196, 1941, 0.6733]_

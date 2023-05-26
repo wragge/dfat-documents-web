@@ -1,12 +1,19 @@
 ---
-title: "130 Cabinet Economic Committee Minute"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9000
+doc_date: '1980-11-04'
+doc_num: 130
+doc_order: 130
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Cabinet Economic Committee Minute
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-11-04
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 130 Cabinet Economic Committee Minute
 
 Wellington, 4 November 1980
 
@@ -20,11 +27,11 @@ Officials observed that they had been supplying New Zealand manufacturers with a
 
 These points were acknowledged as being of considerable importance. However, it needed to be borne in mind that a final decision on the CER package would be made in the light of the balance of advantage to New Zealand. The opening up of the Australian market would in effect enlarge the domestic market for New Zealand manufacturers. This would mean that if the balance of advantage turned out to be favourable to New Zealand, any decline in the domestic market for New Zealand manufacturers caused by increased Australian imports would be more than compensated for. Hence, the liberalisation of trade between New Zealand and Australia would change the shape of some New Zealand industries rather than eliminate them altogether; production in some product lines would be enhanced, while production in other lines would decrease. In any event, the liberalisation envisaged would not be sudden and drastic; it would be gradual and steady and would provide ample time for adjustment. As indicated in paragraph 2 of the memorandum attached to E (80) 208, the liberalisation was not intended simply as a rationalisation of trade protection between Australia and New Zealand; it was intended to be the essential first step in making industry in both New Zealand and Australia more competitive internationally.
 
-The point was also made that Australian officials, it seemed, had not been keeping Australian manufacturers very well informed about the progress of the CER negotiations. The possibility of significant changes in stance by the Australians at a late stage of the negotiations could therefore not be totally discounted. For their part, New Zealand officials would continue to keep New Zealand manufacturers fully abreast of developments. The Manufacturers' Federation were on the point of considering their response to the suggestion of amalgamating Categories I and II.1 Once the parameters of the possible CER agreement package were more precisely defined, and the reactions of New Zealand manufacturers more clearly identified, officials would be in a better position to advise the Government as to where the balance of advantage to New Zealand of the CER exercise lay.
+The point was also made that Australian officials, it seemed, had not been keeping Australian manufacturers very well informed about the progress of the CER negotiations. The possibility of significant changes in stance by the Australians at a late stage of the negotiations could therefore not be totally discounted. For their part, New Zealand officials would continue to keep New Zealand manufacturers fully abreast of developments. The Manufacturers' Federation were on the point of considering their response to the suggestion of amalgamating Categories I and II.[1](#f1) Once the parameters of the possible CER agreement package were more precisely defined, and the reactions of New Zealand manufacturers more clearly identified, officials would be in a better position to advise the Government as to where the balance of advantage to New Zealand of the CER exercise lay.
 
-In conclusion, the observation was made that it would be desirable for Manufacturers' Federation representatives to attend a meeting of the Committee, following its consideration of the next officials' paper on the CER negotiations, to discuss the shape of the CER agreement package as it was developing and to ensure that there would be broad-based support from manufacturers for the position the Government was adopting.2
+In conclusion, the observation was made that it would be desirable for Manufacturers' Federation representatives to attend a meeting of the Committee, following its consideration of the next officials' paper on the CER negotiations, to discuss the shape of the CER agreement package as it was developing and to ensure that there would be broad-based support from manufacturers for the position the Government was adopting.[2](#f2)
 
-The Committee _agreed_, for reference to Cabinet, to:
+The Committee _agreed_ , for reference to Cabinet, to:
 
   1. note that the work programme for officials is based on the requirement that agreement be reached on the main elements of a new arrangement by February 1981;
   2. agree, subject to confirmation that the• Manufacturers' Federation has no substantial objections, that the Australian proposal for combining Categories I and II and for a revised tariff phasing formula be accepted;
@@ -35,9 +42,7 @@ The Committee _agreed_, for reference to Cabinet, to:
 
 
 
-_[ABHS 950/Boxesl221-1226, 40/411 Part 31 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxesl221-1226, 40/411 Part 31 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 The 'easy' categories of goods that were already freely traded or were expected to move quickly to a free trade basis.
   * 2 This suggestion was adopted, and representatives of the Manufacturers' Federation joined the Committee for a discussion on CER on 18 November 1980.
-
-

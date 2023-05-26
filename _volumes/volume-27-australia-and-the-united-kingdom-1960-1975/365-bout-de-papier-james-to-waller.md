@@ -1,14 +1,17 @@
 ---
-title: "365 BOUT DE PAPIER, JAMES TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10231
+doc_date: '1972-12-20'
+doc_num: 365
+doc_order: 365
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1318]'
+title: BOUT DE PAPIER, JAMES TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-12-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 365 BOUT DE PAPIER, JAMES TO WALLER
-
-UKNA: FCO 24/1318 
 
 British High Commission, Canberra, 20 December 1972
 
@@ -27,3 +30,5 @@ My Government have asked me to seek an early interview with the Prime Minister a
 6\. The term reciprocity was much used during the debate in the House of Commons. Although it is not an easy concept to define, the British Government will be examining it in more detail. They would find it most useful to know that [sic] the Australian Government think of the concept of reciprocity, and would like at the official talks in January, if the Australian Government agree to hold them, to explore in a preliminary way the practicability of schemes founded on it.
 
 7\. The House of Commons will rise for the Christmas recess on 22 December. Ministers would like to inform the House before it rises that an approach has been made to Commonwealth Governments concerned about holding consultations.
+
+[UKNA: FCO 24/1318]

@@ -1,14 +1,19 @@
 ---
-title: "128 Evatt to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2419
+doc_date: '1943-02-24'
+doc_num: 128
+doc_order: 128
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43-44/735/1009]'
+title: Evatt to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-02-24
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-# 128 Evatt to Curtin
-
-## Letter CANBERRA, 24 February 1943
+Letter CANBERRA, 24 February 1943
 
 You will have seen from Dominions Office telegram D.78 [1] that the United Kingdom Government has set up under the Foreign Office a committee to examine certain major political and strategic questions connected with the peace settlement. These questions include armistice terms on the cessation of hostilities in Europe, Atlantic security, the treatment of Germany and the territorial disposition in Eastern Europe.
 
@@ -30,7 +35,7 @@ If you concur in the suggestion which I have made, I propose to direct the Secre
 
 [H. V. EVATT]
 
-_ 1 Dispatched 13 February. On file AA:A989, 43-44/735/1009.
+ _1 Dispatched 13 February. On file AA:A989, 43-44/735/1009.
 
 2 Cablegrams D74-5 were dispatched on 12 February and are on the file cited in note 1.
 
@@ -42,4 +47,4 @@ _ 1 Dispatched 13 February. On file AA:A989, 43-44/735/1009.
 
 _
 
-_ [AA:A989, 43-44/735/1009]_
+ _[AA:A989, 43-44/735/1009]_

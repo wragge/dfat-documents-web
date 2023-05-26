@@ -1,13 +1,20 @@
 ---
-title: "336 Hasluck to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3367
+doc_date: '1945-10-22'
+doc_num: 336
+doc_order: 336
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU : EVATT COLLECTION, UNITED NATIONS-AUSTRALIAN LEGATION, WASHINGTON-CABLES-OCTOBER-NOVEMBER
+    1945]'
+title: Hasluck to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
+vol_title: 'Volume 8: 1945'
 ---
 
-# 336 Hasluck to Evatt
-
-Cablegram 50 LONDON, 22 0ctober 1945, 11.05 p.m.
+Cablegram 50 LONDON, 22 October 1945, 11.05 p.m.
 
 TOP SECRET
 
@@ -25,7 +32,7 @@ Discussion is likely to take place on Wednesday. In view of timetable difficulti
 
 9\. Reception. Invitations have been issued by me in your name and on your behalf for reception [tomorrow] afternoon at Savoy, to principal members of delegations, all members of trusteeship committee, and Dominion representatives.
 
-_ WASHINGTON-CABLES-OCTOBER-NOVEMBER 1945]
+ _
 
 1 Cablegrams Precom 31 and 32 were dispatched on 19 October (on file AA : A1066, ER45/9/2) and Precom 33 and 34 on 22 October (on file AA : A1066, H45/777/2).
 
@@ -35,4 +42,4 @@ _ WASHINGTON-CABLES-OCTOBER-NOVEMBER 1945]
 
 _
 
-_ [SFU : EVATT COLLECTION, UNITED NATIONS-AUSTRALIAN LEGATION,_
+ _[SFU : EVATT COLLECTION, UNITED NATIONS-AUSTRALIAN LEGATION, WASHINGTON-CABLES-OCTOBER-NOVEMBER 1945]_

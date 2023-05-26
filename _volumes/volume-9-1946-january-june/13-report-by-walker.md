@@ -1,12 +1,17 @@
 ---
-title: "13 Report by Walker"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3525
+doc_date: '1946-01-07'
+doc_num: 13
+doc_order: 13
+naa_refs:
+- naa_barcode: 3318628
+  naa_control_symbol: 1946/PARIS PART 1
+  naa_series: A4231
+  reference: '[AA:A4231/2, PARIS 1946, 1-21]'
+title: Report by Walker
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1945-12-21
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 13 Report by Walker
 
 Extracts [7 JANUARY 1946] [1]
 
@@ -88,7 +93,7 @@ Resolution 8 I have agreed to this since it is clearly consistent with Australia
 
 E. RONALD WALKER
 
-_
+ _
 
 1 The report itself is undated. A covering letter to Evatt bears this date.
 
@@ -108,4 +113,4 @@ _
 
 _
 
-_ [AA:A4231/2, PARIS 1946, 1-21]_
+ _[AA:A4231/2, PARIS 1946, 1-21]_

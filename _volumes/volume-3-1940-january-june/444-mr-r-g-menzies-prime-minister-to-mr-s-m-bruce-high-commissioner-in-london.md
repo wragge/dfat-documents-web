@@ -1,12 +1,17 @@
 ---
-title: "444 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1210
+doc_date: '1940-06-26'
+doc_num: 444
+doc_order: 444
+naa_refs:
+- naa_barcode: 4212446
+  naa_control_symbol: 1940/12
+  naa_series: A3196
+  reference: '[FA: A3196, 0.4168]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-26
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 444 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 26 June 1940,
 
@@ -24,7 +29,7 @@ Your suggestion relative despatch of representative to New Caledonia has receive
 
 MENZIES
 
-_
+ _
 
 1 Document 438.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [FA: A3196, 0.4168]_
+ _[FA: A3196, 0.4168]_

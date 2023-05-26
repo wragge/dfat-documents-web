@@ -1,12 +1,18 @@
 ---
-title: "467 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1698
+doc_date: '1941-05-23'
+doc_num: 467
+doc_order: 467
+naa_refs:
+- naa_barcode: 179193
+  naa_control_symbol: NETHE 51
+  naa_series: A981
+  reference: '[AA: A981, NEE 51]'
+title: Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister
+  to the United States
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-23
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 467 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States
 
 Letter 27.41 SYDNEY, 23 May 1941
 
@@ -36,7 +42,7 @@ Mr. J. H. Ritman, head of the N.E.I. Government Publicity Service, who accompani
 
 [F. STEWART]
 
-_ 1 Dr E. N. van Kleffens.
+ _1 Dr E. N. van Kleffens.
 
 2 C. J. I. M. Welter.
 
@@ -60,4 +66,4 @@ _ 1 Dr E. N. van Kleffens.
 
 _
 
-_ [AA: A981, NEE 51]_
+ _[AA: A981, NEE 51]_

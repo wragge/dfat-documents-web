@@ -1,14 +1,20 @@
 ---
-title: "287 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1053
+doc_date: '1940-05-27'
+doc_num: 287
+doc_order: 287
+naa_refs:
+- naa_barcode: 242490
+  naa_control_symbol: 1940 JAN-JUN
+  naa_series: M103
+  reference: '[AA: M103, JANUARY-JUNE 1940]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Casey, Minister to
+  the United States
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-27
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 287 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Casey, Minister to the United States
-
-## Cablegram 13 LONDON, 27 May 1940, 12.20 p.m.
+Cablegram 13 LONDON, 27 May 1940, 12.20 p.m.
 
 IMMEDIATE
 
@@ -22,10 +28,10 @@ I am not sure whether you have a copy of recyphering table I.D.
 
 BRUCE
 
-_
+ _
 
 1 Printed as Documents 260 and 283. A now on this cablegram records that they were dispatched from London at 12.40 p.m.
 
 _
 
-_ [AA: M103, JANUARY-JUNE 1940]_
+ _[AA: M103, JANUARY-JUNE 1940]_

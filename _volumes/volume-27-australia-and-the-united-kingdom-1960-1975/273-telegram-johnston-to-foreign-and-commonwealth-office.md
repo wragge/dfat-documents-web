@@ -1,14 +1,17 @@
 ---
-title: "273 TELEGRAM, JOHNSTON TO FOREIGN AND COMMONWEALTH OFFICE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10138
+doc_date: '1970-09-17'
+doc_num: 273
+doc_order: 273
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 30/804]'
+title: TELEGRAM, JOHNSTON TO FOREIGN AND COMMONWEALTH OFFICE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1970-09-17
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 273 TELEGRAM, JOHNSTON TO FOREIGN AND COMMONWEALTH OFFICE
-
-UKNA: FCO 30/804 
 
 British High Commission, Canberra, 17 September 1970
 
@@ -26,7 +29,7 @@ Mr Rippon visited Australia 15–17 September. Apart from a dinner given by the 
 
 5\. The Minister of External Territories raised with Mr Rippon the question of Papua/New Guinea and emphasised how heavily dependent the territory was on the UK market for coconut oil and pyrethrum in particular. Papua had of course originally been a British colony and the territory had close affinities with the Solomon Islands. Mr Rippon said it would be difficult to contemplate any special arrangement for a territory which was dependent on a country outside the Community. He added however that Papua/New Guinea could be used with the Community as a good example of the need to find some solution for the Community’s relationship with emerging territories as a whole. Mr Barnes asked if Mr Rippon would receive a delegation from Papua/New Guinea which was planning to visit London and other European capitals later in the year. Mr Rippon promised to do so.
 
-6\. Mr Rippon’s main public appearance was at the National Press Club. His speech [...] was well received and questioning was not hostile.1
+6\. Mr Rippon’s main public appearance was at the National Press Club. His speech [...] was well received and questioning was not hostile.[1](#f1)
 
 7\. Australian Prime Minister is still recovering from the minor operation (removal of a fistula) which he had last week, and sent a message through Mr McEwen saying that he much regretted not being able to see Mr Rippon. Mr McEwen gave Mr Rippon a parliamentary lunch which was well attended by ministers and senior officials, and I gave a dinner attended by representatives of industry and agriculture from Melbourne and elsewhere as well as by the ministers and officials mainly concerned.
 
@@ -35,3 +38,5 @@ Mr Rippon visited Australia 15–17 September. Apart from a dinner given by the 
 9\. It was a very useful visit. In a tactful and agreeable way Mr Rippon was able to leave the Australians in no doubt of our real position.
 
 1  Document 269. 
+
+[UKNA: FCO 30/804]

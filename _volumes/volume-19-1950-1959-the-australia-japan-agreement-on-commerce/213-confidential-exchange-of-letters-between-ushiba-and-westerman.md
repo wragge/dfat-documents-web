@@ -1,18 +1,23 @@
 ---
-title: "213 Confidential Exchange Of Letters Between Ushiba And Westerman"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7818
+doc_date: '1957-06-18'
+doc_num: 213
+doc_order: 213
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DFAT : AUSTRALIAN TREATY COLLECTION]'
+title: Confidential Exchange Of Letters Between Ushiba And Westerman
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-06-18
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 213 Confidential Exchange Of Letters Between Ushiba And Westerman
-
-## 18th June, 1957
+18th June, 1957
 
 CANBERRA
 
-**1\. With Reference to Wheat Quality**
+ **1\. With Reference to Wheat Quality**
 
 Dear Dr Westerman, In the course of our discussions about soft wheat, the Japanese Delegation has noted that the Australian Wheat Board is prepared to work out with Japanese importers a special arrangement with regard to a guarantee of quality of Australian f.a.q. wheat.
 
@@ -26,7 +31,7 @@ Dear Mr Ushiba, In response to your letter of today regarding the quality of Aus
 
 Yours faithfully, W.A. WESTERMAN
 
-**2\. With Reference to Consultations on Wheat**
+ **2\. With Reference to Consultations on Wheat**
 
 Dear Mr Ushiba, It is the understanding of the Australian Delegation that if, during the currency of the Agreement on Commerce between Australia and Japan, under conditions of normal competition the market for Australian wheat in Japan appears to be declining, the Japanese Government, at the request of the Australian Government, would be willing to discuss the marketing problems which appeared to be limiting Australian wheat imports and to co-operate in examining steps which might be taken to improve the position.
 
@@ -36,7 +41,7 @@ Yours faithfully, W.A. WESTERMAN
 
 Dear Dr Westerman, In response to your letter of today regarding consultations on wheat, I wish to confirm that in the circumstances outlined, the Japanese Government would be ready to consult on the marketing problems confronting imports of Australian wheat into Japan. Yours faithfully, NOBUHIKO USHIBA
 
-**3\. With Reference to Surplus Disposals**
+ **3\. With Reference to Surplus Disposals**
 
 Dear Mr Ushiba, I confirm my advice to you that the Australian Government has taken a very active interest in the question of disposal of agricultural surpluses by the Government of the United States of America. It would be similarly concerned in respect of disposal of agricultural surpluses by any other Government.
 
@@ -48,7 +53,7 @@ Dear Dr Westerman, In response to your letter of today regarding disposals of su
 
 Yours faithfully, NOBUHIKO USHIBA
 
-**4\. With Reference to the Confidential Nature of Certain Documents**
+ **4\. With Reference to the Confidential Nature of Certain Documents**
 
 Dear Mr Ushiba, It is our understanding that with respect to the Draft Agreement on Commerce between the Commonwealth of Australia and Japan initialled today, information made public or conveyed to other Governments will be confined to official press statements made on behalf of either Government. This understanding would apply pending the signature and release of the final text of the Agreement.
 
@@ -64,8 +69,8 @@ I wish to confirm the understanding set out in your letter.
 
 Yours faithfully, NOBUHIKO USHIBA
 
-_
+ _
 
 _
 
-_ [DFAT : AUSTRALIAN TREATY COLLECTION]_
+ _[DFAT : AUSTRALIAN TREATY COLLECTION]_

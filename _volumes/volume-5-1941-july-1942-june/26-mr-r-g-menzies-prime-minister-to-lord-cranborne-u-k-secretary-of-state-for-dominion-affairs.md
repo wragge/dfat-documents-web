@@ -1,12 +1,18 @@
 ---
-title: "26 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1780
+doc_date: '1941-08-02'
+doc_num: 26
+doc_order: 27
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA : A3196, 1941, 0. 11129]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-02
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 26 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 499 [1] CANBERRA, [2 August 1941] [2]
 
@@ -22,7 +28,7 @@ If this is accepted, we assume that maximum use will be made with the United Sta
 
 2\. THAILAND. On indications that Japan is contemplating some early move towards subjection of Thailand, we consider that this contingency should also be urgently raised with the United States Government. We are strongly impressed with the views of the British Minister at Bangkok [10], and Sir John Latham [11] has also expressed from Tokyo his opinion that we should, without delay, enlist the co-operation and support of the United States in handling the matter. We entirely endorse this view and suggest that as preliminary step the British Ambassador in Washington [12] should be asked to ascertain, in conjunction with his general approach to the United States Government, what course of action the United States Administration has in mind, either as a deterrent to Japan or as a counter measure in the event of fulfilment of Japanese designs.
 
-_
+ _
 
 1 Repeated to the Minister to the United States as no. 85 and to the Legation in Tokyo on 4 August as no. 10 (AA : A3196, 1941, 0- 11178).
 
@@ -46,4 +52,4 @@ A981 Japan 185B, ii) that it was ,most grateful' for the Commonwealth Govt's vie
 
 _
 
-_ [AA : A3196, 1941, 0. 11129]_
+ _[AA : A3196, 1941, 0. 11129]_

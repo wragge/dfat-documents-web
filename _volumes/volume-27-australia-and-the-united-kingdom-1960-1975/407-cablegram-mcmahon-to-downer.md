@@ -1,14 +1,17 @@
 ---
-title: "407 CABLEGRAM MCMAHON TO DOWNER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10273
+doc_date: '1972-10-20'
+doc_num: 407
+doc_order: 407
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: M1003
+  reference: '[NAA: M1003]'
+title: CABLEGRAM MCMAHON TO DOWNER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-10-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 407 CABLEGRAM MCMAHON TO DOWNER
-
-NAA: M1003
 
 Canberra, 20 October 1972
 
@@ -26,7 +29,7 @@ I would be grateful if you could do this in time for him to study the announceme
 
 You should also inform in confidential terms the State Agents General of the proposed transfer. I shall be advising the State Premiers independently.
 
-**Press Statement to be made on 25th October 1972  
+ **Press Statement to be made on 25th October 1972  
 By the Rt. Hon. William McMahon, Prime Minister of Australia  
 Australia House**
 
@@ -41,3 +44,5 @@ It takes place against the background of Britain’s entry into Europe. The resu
 I want to express publicly my gratitude to the Australian High Commissioner and all those employed by Australia House in London for the excellent service they have given to the Australian Government and people while Australia House has been under my administration and that of my predecessors over the past 60 years. The same devotion and quality of service will of course continue as Australia House passes under the administration of the Foreign Minister and his Department.
 
 The Australian High Commissioner in London will continue to be appointed by the Prime Minister, in consultation with the Foreign Minister, and the organisational arrangements being made will permit continuance of the channels of direct communication which exist between the Prime Ministers of Great Britain and Australia and through their respective High Commissioners.
+
+[NAA: M1003]

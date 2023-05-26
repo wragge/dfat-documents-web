@@ -1,12 +1,18 @@
 ---
-title: "75 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia"
-volume: "Volume 2: 1939"
-doc_id: 412
+doc_date: '1939-04-29'
+doc_num: 75
+doc_order: 75
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:FO 372/3319]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner to Australia
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-04-29
+vol_title: 'Volume 2: 1939'
 ---
-
-# 75 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia
 
 Cablegram 97 LONDON, 29 April 1939, 11 p.m.
 
@@ -18,7 +24,7 @@ We were on point of replying to the telegram under reference on lines of draft c
 
 His Majesty's Ambassador at Tokyo [5], in addition to his comments which have been embodied in my immediately following telegram stated that if, notwithstanding those objections, the appointment of an Australian Minister were decided on, he felt that a man of Longfield Lloyd's [6] experience of Japanese methods would be better able to cope with difficulties of the situation than would a new man (in this connexion, see correspondence ending in Liesching's letter of 25th November, 1936, (No. 245)). [7] In view of statement included in Press Report here that His Majesty's Government in the Commonwealth of Australia did not wish to appoint career diplomats, this suggestion of His Majesty's Ambassador at Tokyo would appear unlikely to commend itself to His Majesty's Government in the Commonwealth of Australia, but unless you see strong objection, we think that you should let the Commonwealth authorities know Craigie's opinion.
 
-_
+ _
 
 1 Document 63.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [PRO:FO 372/3319]_
+ _[PRO:FO 372/3319]_

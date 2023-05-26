@@ -1,12 +1,17 @@
 ---
-title: "247 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 584
+doc_date: '1939-09-26'
+doc_num: 247
+doc_order: 247
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA:A981, GERMANY 83B, iii]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-26
+vol_title: 'Volume 2: 1939'
 ---
-
-# 247 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 499 LONDON, 26 September 1939, 5.59 p.m.
 
@@ -18,7 +23,7 @@ Delay involved in this manoeuvre renders attack on the Western Front unlikely be
 
 BRUCE
 
-_
+ _
 
 1 Adolf Hitler, German Chancellor.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA:A981, GERMANY 83B, iii]_
+ _[AA:A981, GERMANY 83B, iii]_

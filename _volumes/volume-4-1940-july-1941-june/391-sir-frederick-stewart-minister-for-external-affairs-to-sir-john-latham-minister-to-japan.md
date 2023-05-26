@@ -1,14 +1,20 @@
 ---
-title: "391 Sir Frederick Stewart, Minister for External Affairs, to Sir John Latham, Minister to Japan"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1622
+doc_date: '1941-04-08'
+doc_num: 391
+doc_order: 391
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA: A981, FAR EAST 20B, i]'
+title: Sir Frederick Stewart, Minister for External Affairs, to Sir John Latham, Minister
+  to Japan
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-08
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 391 Sir Frederick Stewart, Minister for External Affairs, to Sir John Latham, Minister to Japan
-
-## Cablegram 112 8 April 1941,
+Cablegram 112 8 April 1941,
 
 Understand that British Ambassador [1] will be consulting you on certain economic measures which United Kingdom Government have in contemplation as possible counter-action in event of further Japanese moves southward. Two suggestions which have been made in this connection are (a) placing of Mitsui, Mitsubishi, Okura on black list and (b) denunciation of Anglo-Japanese commercial treaty.
 
@@ -26,10 +32,10 @@ Discussions to this end were to be held in Washington and there were in fact pre
 
 STEWART
 
-_
+ _
 
 1 Sir Robert Craigie. See Document 386.
 
 _
 
-_ [AA: A981, FAR EAST 20B, i]_
+ _[AA: A981, FAR EAST 20B, i]_

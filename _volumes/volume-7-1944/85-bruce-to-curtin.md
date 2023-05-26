@@ -1,12 +1,17 @@
 ---
-title: "85 Bruce to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2732
+doc_date: '1944-03-18'
+doc_num: 85
+doc_order: 85
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/55/3/4]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 85 Bruce to Curtin
 
 Cablegram 54 LONDON, 18 March 1944, 6.28 p.m.
 
@@ -34,7 +39,7 @@ If opportunity arises we shall take up points you have raised. [4]
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 9 March. On file AA:A989, 44/735/55/3/4. See Document 78, note 6.
 
@@ -48,4 +53,4 @@ See cablegram 57, dispatched 23 March, on the file cited in note 1.
 
 _
 
-_ [AA:A989, 44/735/55/3/4]_
+ _[AA:A989, 44/735/55/3/4]_

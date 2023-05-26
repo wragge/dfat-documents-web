@@ -1,12 +1,17 @@
 ---
-title: "332 Legation in Washington to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2979
+doc_date: '1944-10-28'
+doc_num: 332
+doc_order: 332
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, V]'
+title: Legation in Washington to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-10-28
+vol_title: 'Volume 7: 1944'
 ---
-
-# 332 Legation in Washington to Commonwealth Government
 
 Cablegram 1042 WASHINGTON, 28 October 1944, 4.53 p.m.
 
@@ -30,7 +35,7 @@ We are preparing a further memorandum elaborating the Australian case containing
 
 We would appreciate urgent advice as to the attitude we should adopt if we are asked for an undertaking to continue reciprocal aid on any prescribed scale and if we are asked to extend the geographical area of reciprocal aid. In the absence of instructions to the contrary before Tuesday we will merely affirm our understanding that reciprocal aid on the present basis will be continued. The Reciprocal Aid Agreement provides for discussions in common on questions of effective use of resources. We feel, therefore, that we should not indicate any unwillingness to confer if such questions are specifically and directly raised with us by the United States Authorities. In this event we will go no further without reference to, and further advice from you.
 
-_
+ _
 
 1 See Document 313.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:A571, L41/915A, V]_
+ _[AA:A571, L41/915A, V]_

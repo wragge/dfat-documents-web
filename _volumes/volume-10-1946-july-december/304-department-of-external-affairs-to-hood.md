@@ -1,14 +1,20 @@
 ---
-title: "304 Department of External Affairs to Hood"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4152
+doc_date: '1946-12-10'
+doc_num: 304
+doc_order: 304
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. MISC. FILES,
+    AMM24B]'
+title: Department of External Affairs to Hood
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-10
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 304 Department of External Affairs to Hood
-
-## Memorandum CANBERRA, 10 December 1946
+Memorandum CANBERRA, 10 December 1946
 
 In correspondence which continued until the date of a memorandum of 19th November, 1945, we exchanged views and information with the External Affairs Office, London, on reparations, particularly with regard to the Inter-Allied Reparations Agency and the Paris peace conference. We have also corresponded concurrently on this subject with the Australian Legation in Paris.
 
@@ -28,8 +34,8 @@ In correspondence which continued until the date of a memorandum of 19th Novembe
 
 P. R. HEYDON for Secretary
 
-_ FILES, AMM24B]
+ _
 
 _
 
-_ [FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. MISC._
+ _[FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. MISC. FILES, AMM24B]_

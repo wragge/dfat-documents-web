@@ -1,12 +1,17 @@
 ---
-title: "134 Cranborne to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3165
+doc_date: '1945-07-17'
+doc_num: 134
+doc_order: 134
+naa_refs:
+- naa_barcode: 190051
+  naa_control_symbol: P45/10/1/1
+  naa_series: A1066
+  reference: '[AA : A1066, P45/10/1/1/]'
+title: Cranborne to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-07-17
+vol_title: 'Volume 8: 1945'
 ---
-
-# 134 Cranborne to Chifley
 
 Cablegram D1243 LONDON, 17 July 1945, 8.09 p.m.
 
@@ -18,7 +23,7 @@ In view of the probability that the question of the ultimate treatment of Japan 
 
 We should welcome your observations.
 
-_
+ _
 
 1 Document 135.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA : A1066, P45/10/1/1/]_
+ _[AA : A1066, P45/10/1/1/]_

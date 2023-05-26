@@ -1,20 +1,25 @@
 ---
-title: "142 Memorandum, Dea (Petherbridge) To Dot"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9650
+doc_date: '1967-08-30'
+doc_num: 142
+doc_order: 142
+naa_refs:
+- naa_barcode: 32394756
+  naa_control_symbol: 1967/4226
+  naa_series: A452
+  reference: '[NAA: A452, 1967/4226]'
+title: Memorandum, Dea (Petherbridge) To Dot
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-08-30
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 142 Memorandum, Dea (Petherbridge) To Dot
 
 Canberra, 30 August 1967
 
 Confidential
 
-**1968 Visiting Mission to Australian Trust Territories**
+ **1968 Visiting Mission to Australian Trust Territories**
 
-Please refer to your memorandum of 23rd August, 1967, and its attachment2 concerning suggestions, relayed through the Australian Mission to the United Nations, that the United Nations Visiting Mission’s visit to New Guinea be so arranged as to allow Mission members to observe some part of the elections to the House of Assembly to be held in February/March, 1968.
+Please refer to your memorandum of 23rd August, 1967, and its attachment[2](#f2) concerning suggestions, relayed through the Australian Mission to the United Nations, that the United Nations Visiting Mission’s visit to New Guinea be so arranged as to allow Mission members to observe some part of the elections to the House of Assembly to be held in February/March, 1968.
 
 2\. We appreciate fully the pressures under which the T.P.N.G. Administration will be labouring during the polling period and that the arrival of the Visiting Mission would represent an additional heavy administrative burden. However, we feel that the points made to our Mission in New York by friendly delegations are valid. We also see merit in their own observations that the Mission’s presence would help in some way towards what has been established as our wish to see the authority of the Trusteeship Council sustained and in resisting the Committee of Twenty-four’s pressures to have Visiting Missions of that body go to dependent territories. We also feel that a decision which did not allow for some observation of these elections would be misconstrued in the United Nations no matter how valid our reasons for it might be.
 
@@ -24,7 +29,7 @@ Please refer to your memorandum of 23rd August, 1967, and its attachment2 concer
 
 5\. We cannot see that the Mission could aim at arriving in New Guinea to observe the elections in towns on February 17th. It is suggested that it arrive towards the end of the election period when the itinerary could no doubt be adjusted to allow for observations at some centres. This telegram would ensure that the points in paragraphs 1 to 3 of the Administrator’s message were fully noted, particularly that the Mission should not engage in any activities that could be construed as interfering in the elections.
 
-6\. I would be glad of your advice as soon as possible as to whether you could agree to a telegram along these lines, and if so, whether the draft attached3 would appear to serve these purposes. Please advise also whether you would suggest any amendments to it.4
+6\. I would be glad of your advice as soon as possible as to whether you could agree to a telegram along these lines, and if so, whether the draft attached[3](#f3) would appear to serve these purposes. Please advise also whether you would suggest any amendments to it.[4](#f4)
 
 [NAA: A452, 1967/4226]
 

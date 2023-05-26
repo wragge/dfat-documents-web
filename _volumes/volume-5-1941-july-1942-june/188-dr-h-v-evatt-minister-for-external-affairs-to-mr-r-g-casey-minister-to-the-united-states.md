@@ -1,12 +1,18 @@
 ---
-title: "188 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1942
+doc_date: '1941-12-13'
+doc_num: 188
+doc_order: 189
+naa_refs:
+- naa_barcode: 182738
+  naa_control_symbol: WAR 53
+  naa_series: A981
+  reference: '[AA:A981, WAR 53A]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister
+  to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-13
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 188 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States
 
 CANBERRA, 13 December 1941 Cablegram 153
 
@@ -28,7 +34,7 @@ John Curtin Prime Minister.' Ends.
 
 EVATT
 
-_
+ _
 
 1 Franklin D. Roosevelt. Evatt had previously dispatched to Casey a message for the U.S. Secretary of State, Cordell Hull, conveying the Commonwealth Govt's 'profound appreciation of the initiative, courage and patience displayed by the President and Secretary of State in their endeavours to prevent war in the Pacific'. See cablegram 1060, of 9 December on file AA:A981, War 53A and Casey's letter 269/41 to Hull of 11 December on file AA:A3300, 100.
 
@@ -46,4 +52,4 @@ Both cablegrams are on file AA:A3300, 218A. See also Document 203, paragraph 1.
 
 _
 
-_ [AA:A981, WAR 53A]_
+ _[AA:A981, WAR 53A]_

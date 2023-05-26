@@ -1,12 +1,17 @@
 ---
-title: "30 Evatt to Chifley"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3878
+doc_date: '1946-07-19'
+doc_num: 30
+doc_order: 30
+naa_refs:
+- naa_barcode: 273925
+  naa_control_symbol: SPTS 1/5
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/5]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-07-19
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 30 Evatt to Chifley
 
 Cablegram 1003 WASHINGTON, 19 July 1946, 11.29 p.m.
 
@@ -26,10 +31,10 @@ Of course I have not made any definitive arrangement, but I hope that before Jul
 
 3\. Frankly, I am surprised, but also delighted at the turn in the negotiations and I feel we owe a great deal to Admiral Nimitz who is a great friend of Australia.
 
-_
+ _
 
 1 On 4 July, Chifley had informed Evatt that a report on his conversations with U.S. service officers had been referred to the Defence Committee for comment.
 
 _
 
-_ [AA:A6494 T1, SPTS/1/5]_
+ _[AA:A6494 T1, SPTS/1/5]_

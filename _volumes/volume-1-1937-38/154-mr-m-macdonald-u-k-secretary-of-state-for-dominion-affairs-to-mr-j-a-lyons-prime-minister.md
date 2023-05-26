@@ -1,12 +1,18 @@
 ---
-title: "154 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 153
+doc_date: '1938-03-23'
+doc_num: 154
+doc_order: 153
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A.
+  Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-23
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 154 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister
 
 Circular Cablegram B75 LONDON, 23 March 1938, 3.19 p.m. [1]
 
@@ -66,7 +72,7 @@ His Majesty's Government have sought to give to Parliament and to the world as f
 
 These conclusions have only been reached by His Majesty's Government after full and most careful review of all the relevant facts and considerations and with keen sense of great responsibility that rests upon them. His Majesty's Government do not believe any difference of opinion exists in any quarter as to the broad purposes of preservation of peace and association of peace with justice to which the policy of this country should be directed and His Majesty's Government have reached the clear conclusion that the course they have decided to pursue provides the best means by which this policy can be made effective.
 
-_
+ _
 
 1 This cablegram was sent in five parts between 3.19 p.m. and 6.30 p.m., 23 March 1938.
 
@@ -80,4 +86,4 @@ _
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

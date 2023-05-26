@@ -1,12 +1,18 @@
 ---
-title: "379 Churchill to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 3026
+doc_date: '1944-12-19'
+doc_num: 379
+doc_order: 379
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER SHEETS,
+    FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.45051]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-19
+vol_title: 'Volume 7: 1944'
 ---
-
-# 379 Churchill to Curtin
 
 Cablegram 357 [1] LONDON, 19 December 1944, 12.42 a.m.
 
@@ -22,7 +28,7 @@ Also, General MacArthur has asked that the fleet should carry out diversionary o
 
 These happenings will delay the arrival of the main body of the fleet in Australia by two or three weeks. Although we are reluctant to accept any such delay, these operations, requested by the two American Supreme Commanders, have been approved in the interests of furthering the close co-operation which is so essential to the later employment of the fleet.
 
-_ SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.45051]
+ _
 
 1 Sent through the U.K. Dominions Secretary.
 
@@ -30,4 +36,4 @@ _ SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 
 
 _
 
-_ [AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER_
+ _[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET AND TOP SECRET MASTER SHEETS, FROM SECDOMIN (LARGELY D SERIES AND AUSTRALIAN SERIES), MAY-DECEMBER, 1.45051]_

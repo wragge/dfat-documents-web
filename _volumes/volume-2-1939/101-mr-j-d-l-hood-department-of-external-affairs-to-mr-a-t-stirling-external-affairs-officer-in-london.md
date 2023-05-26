@@ -1,22 +1,28 @@
 ---
-title: "101 Mr J.D.L. Hood, Department of External Affairs, to Mr A.T. Stirling, External Affairs Officer in London"
-volume: "Volume 2: 1939"
-doc_id: 438
+doc_date: '1939-06-09'
+doc_num: 101
+doc_order: 101
+naa_refs:
+- naa_barcode: 278780
+  naa_control_symbol: '105'
+  naa_series: A2937
+  reference: '[FA: A2937, MR J.D.L. HOOD]'
+title: Mr J.D.L. Hood, Department of External Affairs, to Mr A.T. Stirling, External
+  Affairs Officer in London
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-06-09
+vol_title: 'Volume 2: 1939'
 ---
-
-# 101 Mr J.D.L. Hood, Department of External Affairs, to Mr A.T. Stirling, External Affairs Officer in London
 
 Letter (extract) CANBERRA, 9 June 1939
 
 PERSONAL AND CONFIDENTIAL
 
-I had this week your P. &amp; C. of 23rd May conveying the views of the Far Eastern Department on the Wakamatsu letter. [1] I passed on the contents to Hodgson [2] and his reaction, like mine on reading the letter, was rather that the authorities you mentioned perhaps did not quite appreciate the intention of the Prime Minister's letter in reply. [3] We have, after all, to conduct our relations with Japan on lines which best suit our particular circumstances, and I must say that the United Kingdom Government's own methods of dealing with Tokyo in the last year or two have not given the impression here of being particularly effective or successful. I suppose the feeling is that if you cannot back up verbal protests and retaliations with something more effective or are unwilling to do so, then you only make the worst of both worlds by employing them. You might be interested to know, however, that the drafting of the reply to Wakamatsu was not at all a straight forward business. The original draft, although not so conciliatory as the final, was flatly rejected by our then Minister [4], who walked out of Cabinet during the discussion of it. The job was then taken on directly by the Prime Minister [5], and I think that Menzies [6] had a considerable hand in the final draft.
+I had this week your P. & C. of 23rd May conveying the views of the Far Eastern Department on the Wakamatsu letter. [1] I passed on the contents to Hodgson [2] and his reaction, like mine on reading the letter, was rather that the authorities you mentioned perhaps did not quite appreciate the intention of the Prime Minister's letter in reply. [3] We have, after all, to conduct our relations with Japan on lines which best suit our particular circumstances, and I must say that the United Kingdom Government's own methods of dealing with Tokyo in the last year or two have not given the impression here of being particularly effective or successful. I suppose the feeling is that if you cannot back up verbal protests and retaliations with something more effective or are unwilling to do so, then you only make the worst of both worlds by employing them. You might be interested to know, however, that the drafting of the reply to Wakamatsu was not at all a straight forward business. The original draft, although not so conciliatory as the final, was flatly rejected by our then Minister [4], who walked out of Cabinet during the discussion of it. The job was then taken on directly by the Prime Minister [5], and I think that Menzies [6] had a considerable hand in the final draft.
 
 JOHN HOOD
 
-_
+ _
 
 1 Document 100.
 
@@ -32,4 +38,4 @@ _
 
 _
 
-_ [FA: A2937, MR J.D.L. HOOD]_
+ _[FA: A2937, MR J.D.L. HOOD]_

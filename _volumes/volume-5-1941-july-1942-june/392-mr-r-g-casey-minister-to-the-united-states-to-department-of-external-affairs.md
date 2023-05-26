@@ -1,12 +1,17 @@
 ---
-title: "392 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2146
+doc_date: '1942-03-06'
+doc_num: 392
+doc_order: 393
+naa_refs:
+- naa_barcode: 182741
+  naa_control_symbol: WAR 56
+  naa_series: A981
+  reference: '[AA:A981, WAR 56A]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-06
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 392 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 404 WASHINGTON, 6 March 1942, 12.41 a.m.
 
@@ -28,7 +33,7 @@ In other words by the re-establishment of the united command in A.N.Z.A.C. area,
 
 CASEY
 
-_
+ _
 
 1 Walter Nash.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A981, WAR 56A]_
+ _[AA:A981, WAR 56A]_

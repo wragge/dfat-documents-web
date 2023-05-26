@@ -1,12 +1,18 @@
 ---
-title: "240 Australian Delegation, Economic and Social Council, to Department of External Affairs"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6955
+doc_date: '1949-08-09'
+doc_num: 240
+doc_order: 240
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, I.11758]'
+title: Australian Delegation, Economic and Social Council, to Department of External
+  Affairs
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1949-08-09
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 240 Australian Delegation, Economic and Social Council, to Department of External Affairs
 
 Cablegram 136 (extract), GENEVA, 9 August 1949, 10.55 a.m.
 
@@ -18,10 +24,10 @@ The French, while disliking reference to the General Assembly, are prepared to a
 
 2\. So far most countries will not commit themselves on our view. Latin American countries want the Second Committee of the Assembly to concentrate on technical assistance and economic development and are therefore not anxious to divert it to unemployment, but Santa Cruz is nibbling at your proposal. At present we can be fairly sure of support from three Soviet States and India, and are of course continuing to press your views.[2]
 
-_ [1] Willard L. Thorp, US representative.
+ _[1] Willard L. Thorp, US representative.
 
 [2] The delegation failed to get the joint draft resolution amended. Instead it put forward a separate draft resolution recommending to the General Assembly that it include the question of promoting full employment on the agenda of its fourth session. The Council adopted both resolutions on 11 August 1949.
 
 _
 
-_ [AA : A3195, I.11758]_
+ _[AA : A3195, I.11758]_

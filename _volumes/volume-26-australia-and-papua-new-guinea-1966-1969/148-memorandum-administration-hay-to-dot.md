@@ -1,19 +1,23 @@
 ---
-title: "148 Memorandum, Administration (Hay) To Dot"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9656
+doc_date: '1967-11-17'
+doc_num: 148
+doc_order: 148
+naa_refs:
+- naa_barcode: 4027872
+  naa_control_symbol: 1967/7354
+  naa_series: A452
+  reference: '[NAA: A452, 1967/7354]'
+title: Memorandum, Administration (Hay) To Dot
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-11-17
-barcode: 4027872
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 148 Memorandum, Administration (Hay) To Dot
 
 Port Moresby, 17 November 1967
 
 Confidential
 
-**Report of significant events—Papua and New Guinea**
+ **Report of significant events—Papua and New Guinea**
 
 It is considered that the Minister might wish to be informed, on a regular basis, of significant events and trends occurring in the Territory. With this in mind, it is intended to submit a round–up each two months.
 
@@ -25,7 +29,7 @@ It is considered that the Minister might wish to be informed, on a regular basis
 
 The first official meeting was held at Wewak on the 11th May, 1967.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 5\. The Party has dropped earlier plans to amalgamate with the All People’s Party.
 
@@ -53,7 +57,7 @@ The first official meeting was held at Wewak on the 11th May, 1967.
 
 (10) Friendship with all people who are true friends of Papua and New Guinea. In particular a special friendship with Australia, because Australians help in the matter of defence and progress is needed, both now and in the future.
 
-8\. The Party has dropped the plank in its platform calling for the Territory to become a Seventh State of Australia.1
+8\. The Party has dropped the plank in its platform calling for the Territory to become a Seventh State of Australia.[1](#f1)
 
 9\. At the beginning of August the Christian Democratic Party claimed to have a membership of over 4,000 members.
 
@@ -61,19 +65,19 @@ The first official meeting was held at Wewak on the 11th May, 1967.
 
 11\. (ii) _PANGU Party_
 
-An announcement was made on 13th June, 1967, of the intention to from a new political party to be known as the PANGU Party (Papua and New Guinea Union).2
+An announcement was made on 13th June, 1967, of the intention to from a new political party to be known as the PANGU Party (Papua and New Guinea Union).[2](#f2)
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-14\. It is interesting to note that this group3 voted as a bloc on two important issues during the last sitting of the House of Assembly (Budget and Gilmore’s Constitutional Referendum motion).4
+14\. It is interesting to note that this group[3](#f3) voted as a bloc on two important issues during the last sitting of the House of Assembly (Budget and Gilmore’s Constitutional Referendum motion).[4](#f4)
 
-[_matter omitted_]5
+[ _matter omitted_ ][5](#f5)
 
-16\. The PANGU Party has recently taken pains to play down a policy of home-rule leading to independence. The public comments by Mr. Oala Oala RARUA advocating early independence greatly embarrassed Executive Members.6
+16\. The PANGU Party has recently taken pains to play down a policy of home-rule leading to independence. The public comments by Mr. Oala Oala RARUA advocating early independence greatly embarrassed Executive Members.[6](#f6)
 
 17\. It is not conjecture to say that Oala OalaRarua’s remarks probably cost Party Members intending contesting the 1968 elections some votes:
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 19\. It is believed that the motivating forces in the Party, and acting mostly behind the scenes, are Messrs. C. Abel, B. Holloway and A. Voutas.
 
@@ -87,7 +91,7 @@ The announcement of the formation of a party to be known as the ‘All Peoples P
 
 23\. The Chief organiser is Mr. Jim McKinnon, trader and sawmiller of Angoram, East Sepik District.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 26\. At [a meeting at Angoram on 26 July] the Party outlined its aims as follows:—
 
@@ -103,7 +107,7 @@ The announcement of the formation of a party to be known as the ‘All Peoples P
 
 28\. .... The Party’s activities are largely restricted to the East Sepik and Madang Districts.
 
-[_matter omitted_]7
+[ _matter omitted_ ][7](#f7)
 
 38\. Parties—General
 
@@ -113,7 +117,7 @@ With the exception of the PANGU Party, the other four in the field have develope
 
 40\. The policies of the Territory Country Party and the New Guinea Agriculture Reform Party are similar.
 
-41\. Among many of the indigenous people, there is a feeling that political parties are perhaps too premature. Many people believe that the formation of parties may lead to quick independence, or that they will upset the work of the Administration. As mentioned, at least two Europeans are contemplating resigning from political parties and contesting the 1968 elections as independents. Some indigenous Members of the House are refusing to join parties, because of apprehension about party organisation by the people.8
+41\. Among many of the indigenous people, there is a feeling that political parties are perhaps too premature. Many people believe that the formation of parties may lead to quick independence, or that they will upset the work of the Administration. As mentioned, at least two Europeans are contemplating resigning from political parties and contesting the 1968 elections as independents. Some indigenous Members of the House are refusing to join parties, because of apprehension about party organisation by the people.[8](#f8)
 
 42\. In a recent series of two articles appearing in the Sydney Morning Herald (25th–26th October, 1967) David White has reported on the overall situation with regard to political parties. He attributes the recent formation of political parties to the proximity of the 1968 elections, and the need felt for some sort of power base for intending candidates.
 
@@ -133,7 +137,7 @@ At the last sitting of the House of Assembly, one of the most significant develo
 
 There is a growing interest in the forthcoming 1968 elections. This trend will no doubt gather momentum over the next few months.
 
-49\. The Chief Electoral Officer estimates that there will be approximately 600 candidates for the next elections. An attachment (Appendix A) contains the names available so far, of those who it is believed intend standing or seeking re-election.9 It is important to note that these are not full acceptances.
+49\. The Chief Electoral Officer estimates that there will be approximately 600 candidates for the next elections. An attachment (Appendix A) contains the names available so far, of those who it is believed intend standing or seeking re-election.[9](#f9) It is important to note that these are not full acceptances.
 
 50\. Political Education
 
@@ -153,13 +157,13 @@ Other Significant Events
 
 55\. Trespass on plantations—Gazelle Peninsula
 
-Since the incident on RANILOLA Plantation in the New Britain District,10 a further request has been made by the Chairman of Directors of Plantation Holdings,11 for the Administration to remove squatters from their property at KABAIRA (Gazelle Peninsula).
+Since the incident on RANILOLA Plantation in the New Britain District,[10](#f10) a further request has been made by the Chairman of Directors of Plantation Holdings,[11](#f11) for the Administration to remove squatters from their property at KABAIRA (Gazelle Peninsula).
 
-56\. The District Commissioner, East New Britain,12 has commented as follows:
+56\. The District Commissioner, East New Britain,[12](#f12) has commented as follows:
 
 ‘It is expected that demands for expulsion of trespassers on plantations will increase, and this expectation clearly highlights the pressing need for the appointment of a Special Commissioner to investigate the attitudes of the native people towards undeveloped land, and to arrive at some amiable and mutual compromise in respect of these properties’.
 
-[ [NAA: A452, 1967/7354](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4027872) ]
+[NAA: A452, 1967/7354]
 
 1 See footnote 2, Document 122.
 
@@ -167,7 +171,7 @@ Since the incident on RANILOLA Plantation in the New Britain District,10 a furth
 
 3 That is, MHA’s associated with Pangu Pati.
 
-4 Graham Gilmore (MHA, South Markham special electorate) had moved that ‘this House considers that before there is further development towards self-government or independence for the Territory of Papua a referendum should be held in the Territory of Papua on the question of whether that Territory wishes to form a full and permanent constitutional union with the Trust Territory of New Guinea, its people accepting the ultimate citizenship of that Territory, or retain its Australian identity and the people their Australian citizenship’. The Administration opposed the motion, after which Gilmore amended it to call for a referendum to examine constitutional proposals ‘before any irrevocable act towards a constitutional union of Papua and New Guinea takes place’. The amended motion was defeated by 30 to 19 (_House of Assembly debates_, 29 and 31 August 1967, NLA: Nq. 328.952 PAP, pp. 2505, 2544–5, 2575, 2585).
+4 Graham Gilmore (MHA, South Markham special electorate) had moved that ‘this House considers that before there is further development towards self-government or independence for the Territory of Papua a referendum should be held in the Territory of Papua on the question of whether that Territory wishes to form a full and permanent constitutional union with the Trust Territory of New Guinea, its people accepting the ultimate citizenship of that Territory, or retain its Australian identity and the people their Australian citizenship’. The Administration opposed the motion, after which Gilmore amended it to call for a referendum to examine constitutional proposals ‘before any irrevocable act towards a constitutional union of Papua and New Guinea takes place’. The amended motion was defeated by 30 to 19 ( _House of Assembly debates_ , 29 and 31 August 1967, NLA: Nq. 328.952 PAP, pp. 2505, 2544–5, 2575, 2585).
 
 5 Matter omitted is an outline of the party’s platform. See Document 120.
 

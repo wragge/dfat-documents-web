@@ -1,12 +1,18 @@
 ---
-title: "84 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 421
+doc_date: '1939-05-10'
+doc_num: 84
+doc_order: 84
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: FO 372/3319]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
+  Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 84 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office
 
 Cablegram 94 (paraphrase) CANBERRA, 10 May 1939
 
@@ -16,7 +22,7 @@ My telegram No. 80 of the 3rd May. [1] Yesterday the Prime Minister [2] told me 
 
 Difficulty would be to find the right man but as soon as this has been done, or perhaps before, he will communicate further.
 
-_
+ _
 
 1 Document 77.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [PRO: FO 372/3319]_
+ _[PRO: FO 372/3319]_

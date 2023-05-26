@@ -1,12 +1,17 @@
 ---
-title: "152 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1383
+doc_date: '1940-10-02'
+doc_num: 152
+doc_order: 152
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: DO 114/113]'
+title: Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-02
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 152 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 2 October 1940
 
@@ -26,7 +31,7 @@ I felt it due to your great position and the extremely severe tone of your messa
 
 CHURCHILL
 
-_
+ _
 
 1 Document 144.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [PRO: DO 114/113]_
+ _[PRO: DO 114/113]_

@@ -1,14 +1,20 @@
 ---
-title: "55 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6224
+doc_date: '1949-01-09'
+doc_num: 55
+doc_order: 55
+naa_refs:
+- naa_barcode: 170301
+  naa_control_symbol: 19/305/135
+  naa_series: A816
+  reference: '[AA : A816/1, 19/305/35]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-01-09
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
 
-# 55 Critchley to Department of External Affairs
-
-## Cablegram unnumbered BATAVIA, 9 January 1949, 11.30 a.m.
+Cablegram unnumbered BATAVIA, 9 January 1949, 11.30 a.m.
 
 Text of telegram to Security Council January ninth. [1]
 
@@ -22,10 +28,10 @@ Text of telegram to Security Council January ninth. [1]
 
 (C) To observe and report on effect of hostilities on normal pursuits and welfare of civilian population, and nature and effect of relief and rehabilitation activities.'
 
-_
+ _
 
 1 The full text of the telegram, dispatched in fact on 8 January, is given as document S/1193, in United Nations, Security Council Official Records, Fourth Year, Supplement for January, p.19.
 
 _
 
-_ [AA : A816/1, 19/305/35]_
+ _[AA : A816/1, 19/305/35]_

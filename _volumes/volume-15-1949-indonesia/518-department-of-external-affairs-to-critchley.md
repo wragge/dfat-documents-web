@@ -1,12 +1,18 @@
 ---
-title: "518 Department of External Affairs to Critchley"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6687
+doc_date: '1949-10-24'
+doc_num: 518
+doc_order: 518
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : OUTWARD ORIGINALS (TS) 1948-50]'
+title: Department of External Affairs to Critchley
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-10-24
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 518 Department of External Affairs to Critchley
 
 Cablegram 91 CANBERRA, 24 October 1949, 11.45 a.m.
 
@@ -20,7 +26,7 @@ Dutch Minister [1] here apparently on instructions appealing informally to us to
 
 4\. Glad your urgent comments.
 
-_
+ _
 
 1 Acting on instructions cabled by Stikker on 15 and 16 October, Teppema had presented two informal notes to Evatt on 18 October.
 
@@ -36,4 +42,4 @@ The second note asked Australia to press the Indonesian Republic to soften its d
 
 _
 
-_ [FA : OUTWARD ORIGINALS (TS) 1948-50]_
+ _[FA : OUTWARD ORIGINALS (TS) 1948-50]_

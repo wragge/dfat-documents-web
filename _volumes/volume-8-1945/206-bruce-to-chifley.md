@@ -1,12 +1,17 @@
 ---
-title: "206 Bruce to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3237
+doc_date: '1945-08-20'
+doc_num: 206
+doc_order: 206
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 461]'
+title: Bruce to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-20
+vol_title: 'Volume 8: 1945'
 ---
-
-# 206 Bruce to Chifley
 
 Letter (extract) LONDON, 20 August 1945
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 461]_
+ _[AA : A5954, BOX 461]_

@@ -1,14 +1,20 @@
 ---
-title: "419 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2173
+doc_date: '1942-03-18'
+doc_num: 419
+doc_order: 420
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.11267]'
+title: Mr A. S. Watt, First Secretary of the Legation in Washington, to Department
+  of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-18
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 419 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs
-
-## Cablegram 470 WASHINGTON, 18 March 1942, 4.40 p.m.
+Cablegram 470 WASHINGTON, 18 March 1942, 4.40 p.m.
 
 IMMEDIATE
 
@@ -26,7 +32,7 @@ For that reason it has been impossible for me to inform you beforehand of the te
 
 WATT
 
-_ 1 Dispatched at 11.17 p.m. (Washington time) on 17 March. On file AA:A981, War 5A. It advised that MacArthur's appointment had been announced in Washington. Following the receipt of this cablegram in Canberra on 18 March Curtin also issued a statement, the text of which is on file AA:A981, External Affairs Dept 192, iv.
+ _1 Dispatched at 11.17 p.m. (Washington time) on 17 March. On file AA:A981, War 5A. It advised that MacArthur's appointment had been announced in Washington. Following the receipt of this cablegram in Canberra on 18 March Curtin also issued a statement, the text of which is on file AA:A981, External Affairs Dept 192, iv.
 
 2 U.S. Under-Secretary of State.
 
@@ -40,4 +46,4 @@ _ 1 Dispatched at 11.17 p.m. (Washington time) on 17 March. On file AA:A981, War
 
 _
 
-_ [AA:A3195, 1942, 1.11267]_
+ _[AA:A3195, 1942, 1.11267]_

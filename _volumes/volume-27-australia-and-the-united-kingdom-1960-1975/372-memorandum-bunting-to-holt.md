@@ -1,18 +1,21 @@
 ---
-title: "372 MEMORANDUM, BUNTING TO HOLT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10238
+doc_date: '1967-09-27'
+doc_num: 372
+doc_order: 372
+naa_refs:
+- naa_barcode: 8301723
+  naa_control_symbol: 1971/9449 PART 1
+  naa_series: A1209
+  reference: '[NAA: Al209, 1971/9449 PART I]'
+title: MEMORANDUM, BUNTING TO HOLT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-09-27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 372 MEMORANDUM, BUNTING TO HOLT
-
-NAA: Al209, 1971/9449 PART I
 
 Canberra, 27 September 1967
 
-**Australia House1**
+ **Australia House[1](#f1)**
 
 If there is to be Party discussion about Australia House being outside the control of External Affairs, the notes sent to you will give you good background for any remarks you are called on to make.
 
@@ -24,19 +27,19 @@ If there is to be Party discussion about Australia House being outside the contr
 
 5\. The best thing is not to be drawn too far in the debate, but you hear what the allegations are and reserve your reply. But if you are required to speak, the above would be suitable, plus an indication that the whole thing is something to be kept under study, without taking any long term attitude either way at this stage.
 
-_Australia House_
+ _Australia House_
 
 The following points are relevant in any discussion as to whether our diplomatic post in London should be, as it is, under the control of the Prime Minister and the Prime Minister’s Department or whether it should take its place with other posts under the External Affairs cover.
 
 (1) There is a long history behind the present situation which has Australia House under the Prime Minister’s Department and has Prime Minister’s Department in Canberra responsible for relations with the British High Commission here. A study of the history is unprofitable. The question is whether a change should be made.
 
-(2) The practice has been, for good reason, that our post in London is headed by a political man of status within his own country. Quite simply, Sir Eric Harrison2 and Sir Alexander Downer3 are and have been able to talk on personal terms to any British Cabinet Ministers in an intimate way which would never be achieved by a career official. This gives Australia a direct government-to-government contact to supplement the personal and intimate relations that have always existed between the British Prime Minister and the Australian Prime Minister.
+(2) The practice has been, for good reason, that our post in London is headed by a political man of status within his own country. Quite simply, Sir Eric Harrison[2](#f2) and Sir Alexander Downer[3](#f3) are and have been able to talk on personal terms to any British Cabinet Ministers in an intimate way which would never be achieved by a career official. This gives Australia a direct government-to-government contact to supplement the personal and intimate relations that have always existed between the British Prime Minister and the Australian Prime Minister.
 
 (3) It has been said that because Britain is now going into Europe that there is no reason for us to seek or maintain this special relationship with Britain any more than any other country. We would put the contrary view that never before has it been so important for Australia to be heard in the intimate councils of the British Government.
 
-(4) The Deputy High Commissioner in London has been a senior official of Permanent Head status but not necessarily from External Affairs. Sir Edwin McCarthy,4 the first Deputy High Commissioner, went on to take other diplomatic posts abroad as did Sir Allen Brown.5 The present Deputy is Mr Knott,6 former Permanent Head of the Department of Supply. The fact that our Deputy High Commissioners are of Permanent Head status here is an advantage in London.
+(4) The Deputy High Commissioner in London has been a senior official of Permanent Head status but not necessarily from External Affairs. Sir Edwin McCarthy,[4](#f4) the first Deputy High Commissioner, went on to take other diplomatic posts abroad as did Sir Allen Brown.[5](#f5) The present Deputy is Mr Knott,[6](#f6) former Permanent Head of the Department of Supply. The fact that our Deputy High Commissioners are of Permanent Head status here is an advantage in London.
 
-(5) Is External Affairs under some disadvantage in London because its senior representative does not hold one of the two top positions? The External Affairs staff in London headed by a senior officer of Minister status and the staff under him have unfettered access to the diplomatic community there and to the Foreign Office and Commonwealth Office sources. They report direct to the Department of External Affairs as necessary. The EA representative ranks _third_ after High Commissioner and Deputy, and _ahead_ of the Official Secretary.7
+(5) Is External Affairs under some disadvantage in London because its senior representative does not hold one of the two top positions? The External Affairs staff in London headed by a senior officer of Minister status and the staff under him have unfettered access to the diplomatic community there and to the Foreign Office and Commonwealth Office sources. They report direct to the Department of External Affairs as necessary. The EA representative ranks _third_ after High Commissioner and Deputy, and _ahead_ of the Official Secretary.[7](#f7)
 
 (6) The administration of Australia House is under the Official Secretary and the Prime Minister’s Department but in fact is run under a separate High Commissioner Act and has a large locally engaged staff. This is an administrative and consular function and on the consular side the External Affairs requirements are fully followed.
 
@@ -61,3 +64,5 @@ The following points are relevant in any discussion as to whether our diplomatic
 6  John Laurence Knott, Deputy High Commissioner, London, 1966–68; formerly Secretary, Department of Defence Production, 1957–58, and Department of Supply, 1959–65. 
 
 7  Emphasis in original. 
+
+[NAA: Al209, 1971/9449 PART I]

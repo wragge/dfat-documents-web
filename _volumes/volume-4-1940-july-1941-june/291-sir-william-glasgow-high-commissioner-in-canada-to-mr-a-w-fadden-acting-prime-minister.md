@@ -1,14 +1,20 @@
 ---
-title: "291 Sir William Glasgow, High Commissioner in Canada, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1522
+doc_date: '1941-02-12'
+doc_num: 291
+doc_order: 291
+naa_refs:
+- naa_barcode: 175199
+  naa_control_symbol: DEF 365
+  naa_series: A981
+  reference: '[AA:A981, DEFENCE 365A]'
+title: Sir William Glasgow, High Commissioner in Canada, to Mr A. W. Fadden, Acting
+  Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 291 Sir William Glasgow, High Commissioner in Canada, to Mr A. W. Fadden, Acting Prime Minister
-
-## Cablegram 160 OTTAWA, 12 February 1941, 4.19 p.m.
+Cablegram 160 OTTAWA, 12 February 1941, 4.19 p.m.
 
 FOR ACTING PRIME MINISTER
 
@@ -24,7 +30,7 @@ I put forward this proposal as a purely personal one and would like to have your
 
 GLASGOW
 
-_
+ _
 
 1 J. L. Ralston.
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [AA:A981, DEFENCE 365A]_
+ _[AA:A981, DEFENCE 365A]_

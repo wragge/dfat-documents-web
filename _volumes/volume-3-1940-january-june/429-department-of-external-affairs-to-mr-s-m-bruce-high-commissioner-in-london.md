@@ -1,12 +1,17 @@
 ---
-title: "429 Department of External Affairs to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1195
+doc_date: '1940-06-24'
+doc_num: 429
+doc_order: 429
+naa_refs:
+- naa_barcode: 4212446
+  naa_control_symbol: 1940/12
+  naa_series: A3196
+  reference: '[FA: A3196, 0.4099]'
+title: Department of External Affairs to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-24
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 429 Department of External Affairs to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram [72] [1] 24 June 1940,
 
@@ -20,7 +25,7 @@ Consul-General also says he has had no instructions from Bordeaux Government tha
 
 High Commissioner for Western Pacific [4] reports that Resident Commissioner, New Hebrides [5] has suggested that administration be taken over by Britain.
 
-_
+ _
 
 1 The number has been taken from the London file copy (AA: A2937, New Caledonia (1937-45)).
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [FA: A3196, 0.4099]_
+ _[FA: A3196, 0.4099]_

@@ -1,12 +1,19 @@
 ---
-title: "66 Report by Permanent Heads"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8936
+doc_date: '1980-02-26'
+doc_num: 66
+doc_order: 66
+naa_refs:
+- naa_barcode: 1389687
+  naa_control_symbol: 370/1/19/18 PART 15
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, xv]'
+title: Report by Permanent Heads
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-02-26
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 66 Report by Permanent Heads
 
 Canberra, 26 February 1980
 
@@ -16,7 +23,7 @@ Report of Australia - New Zealand Permanent Heads Meeting Canberra, 25/26 Februa
 
 The meeting agreed that:
 
-  1. on the basis of its discussions and the report of the Joint Working Parties1 it should be recommended to Ministers that an appropriately structured closer economic relationship would provide economic benefits for both countries;
+  1. on the basis of its discussions and the report of the Joint Working Parties[1](#f1) it should be recommended to Ministers that an appropriately structured closer economic relationship would provide economic benefits for both countries;
   2. on the basis of studies to date this would appear to be technically capable of achievement;
   3. if this was accepted the need was to establish a commitment to move ahead in a politically acceptable way.
 
@@ -24,7 +31,7 @@ The meeting agreed that:
 
 ## DECLARATION
 
-  2. It was agreed that there could be value in a Declaration by the Prime Ministers which would provide a framework for developing the relationship. This could enshrine principles which are set out in a separate draft of the Declaration.2
+  2. It was agreed that there could be value in a Declaration by the Prime Ministers which would provide a framework for developing the relationship. This could enshrine principles which are set out in a separate draft of the Declaration.[2](#f2)
   3. In addition to trade matters, co-operation on other economic issues should be maintained and developed. Such matters would include labour, transport, tourism, raw materials, energy, finance and investment. 
 
 ## TRADE ISSUES
@@ -110,7 +117,7 @@ The meeting agreed that:
 
 ## ENERGY
 
-  26. It was agreed to exchange information on all items on refinery product slates or energy sources coming on stream. It was agreed to examine the scope for further co-operation in R &amp; D projects,- consult on any energy problems having economic impact. 
+  26. It was agreed to exchange information on all items on refinery product slates or energy sources coming on stream. It was agreed to examine the scope for further co-operation in R & D projects,- consult on any energy problems having economic impact. 
 
 ## JOINT MARKETING ACTIVITIES
 
@@ -127,9 +134,7 @@ The meeting agreed that:
 
 
 
-_[NAA: A1838, 37011/19/18, xv]_
+ _[NAA: A1838, 37011/19/18, xv]_
 
   * 1 Document 58. 
-  * 2 Document 67. 
-
-
+  * 2 Document 67.

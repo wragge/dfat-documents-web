@@ -1,12 +1,17 @@
 ---
-title: "26 Report by the Interdepartmental Committee on External Relations"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2317
+doc_date: '1942-08-20'
+doc_num: 26
+doc_order: 26
+naa_refs:
+- naa_barcode: 237499
+  naa_control_symbol: 11/1943
+  naa_series: A4144
+  reference: '[AA:A4144, 11 (1942-43)]'
+title: Report by the Interdepartmental Committee on External Relations
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-20
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 26 Report by the Interdepartmental Committee on External Relations
 
 Paper B20 CANBERRA, 20 August 1942
 
@@ -138,7 +143,7 @@ What can safely be said is that the experience of international collaboration in
 
 36\. An international Planning Board has been proposed to give advice to Governments from an international point of view. In the planning of production, trade and finance, such a Board might make a useful contribution. It would have no authority except the moral authority it gradually built up for itself by the wisdom and impartiality of its advice. If its members were of high prestige and it was conducted with tact and discretion, such a Board might in time become an important factor in promoting a better world order.
 
-_ 1 Article VII of the agreement provided that the U.K. and U.S.
+ _1 Article VII of the agreement provided that the U.K. and U.S.
 
 Govts should initiate conversations to develop world trade, in particular by the elimination of discrimination and the reduction of tariffs.
 
@@ -148,4 +153,4 @@ State Department) entitled 'Restoring Trade after the War' in Foreign Affairs, v
 
 _
 
-_ [AA:A4144, 11 (1942-43)]_
+ _[AA:A4144, 11 (1942-43)]_

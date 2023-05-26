@@ -1,12 +1,17 @@
 ---
-title: "20 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2311
+doc_date: '1942-08-08'
+doc_num: 20
+doc_order: 20
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1942, 1.31376]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-08
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 20 Bruce to Curtin
 
 Cablegram 131[A] LONDON, 8 August 1942, 3.10 p.m.
 
@@ -22,7 +27,7 @@ With regard to paragraph 2, I have seen Johcu 38 [5] and your telegram 532 to th
 
 BRUCE
 
-_
+ _
 
 1 On file AA:M100, August 1942. It advised that no information on strategic decisions had been received from Churchill.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [FA:A3195, 1942, 1.31376]_
+ _[FA:A3195, 1942, 1.31376]_

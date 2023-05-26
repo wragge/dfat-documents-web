@@ -1,12 +1,17 @@
 ---
-title: "28 Minutes of Fourth Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 28
+doc_date: '1937-05-22'
+doc_num: 28
+doc_order: 28
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Minutes of Fourth Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-05-22
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 28 Minutes of Fourth Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 4 (extract) LONDON, 22 May 1937
 
@@ -32,8 +37,8 @@ He admitted that in the circumstances that now existed, he inclined to the views
 
 In his opening address he spoke of his hope that some common and helpful expression of Empire policy might emerge from this Imperial Conference. If this Empire meant anything it meant co- operative effort. If the heart of the Empire was threatened, all the members were threatened. Those who were tempted to put their faith in friends outside the Empire might be acting in what they considered to be their own immediate interests, but they could not be described as the common interests of the great co-operative society called the British Commonwealth of Nations. He believed that the safety and security and prosperity of all the members of the Commonwealth depended on their sticking together. The voice and authority of Britain was very great and was daily becoming greater. The combined voice and authority of the British Commonwealth was greater still. Could we not add the voice and strength and authority of each and every one of the members and each and every one of the Dominions to that of Britain and so help her in her great task in the world and at the same time help ourselves. The Australian delegation felt that they could wholeheartedly rely on Britain to preserve peace. To a very large extent the rest of the Commonwealth had for years been content to shelter behind the strong arm of Britain and to reap the benefits and advantages of that secure position. There could be no possible doubt that if some great disaster happened to Britain, there could be no hope or future for any of the other members of the Commonwealth and it was, therefore, in the supreme interests of every one of them, as well as in the interests of the whole, and of Britain herself, that the component parts of the Commonwealth should stand firmly and solidly together. As he had said, Australia was in complete agreement with Britain's foreign policy and he only ventured to express the hope that it might be possible for something to be done on the lines which General Hertzog had suggested.
 
-_
+ _
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

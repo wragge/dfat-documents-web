@@ -1,28 +1,33 @@
 ---
-title: "85 Submission, Jockel To Hasluck"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9593
+doc_date: '1967-01-09'
+doc_num: 85
+doc_order: 85
+naa_refs:
+- naa_barcode: 573632
+  naa_control_symbol: 936/22/1 PART 2
+  naa_series: A1838
+  reference: '[NAA: A1838, 936/2211 part 2]'
+title: Submission, Jockel To Hasluck
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-01-09
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 85 Submission, Jockel To Hasluck
 
 Canberra, 9 January 1967
 
-**Aid to TPNG—basic Agreement with UNDP1**
+ **Aid to TPNG—basic Agreement with UNDP[1](#f1)**
 
-On 9th December you approved the text of a draft basic Agreement with the Special Fund sector of the United Nations Development Programme, which included an accompanying letter to the Administrator of the UNDP, subject to the confirmation of the Minister for Territories and the Treasurer. A copy of our earlier submission is attached.2
+On 9th December you approved the text of a draft basic Agreement with the Special Fund sector of the United Nations Development Programme, which included an accompanying letter to the Administrator of the UNDP, subject to the confirmation of the Minister for Territories and the Treasurer. A copy of our earlier submission is attached.[2](#f2)
 
 2\. The Minister for Territories and the Treasurer have now also approved the text of the basic Agreement.
 
-3\. It is proposed that the Australian Ambassador to the United Nations3 be authorized, on behalf of the Government, to sign the Agreement and the accompanying letter to the Administrator of the UNDP.
+3\. It is proposed that the Australian Ambassador to the United Nations[3](#f3) be authorized, on behalf of the Government, to sign the Agreement and the accompanying letter to the Administrator of the UNDP.
 
-4\. _It is recommended_ that you sign the attached Minute to the Executive Council and also the enclosed Full Powers, which will be held undated until the approval of the Executive Council is confirmed.4
+4\. _It is recommended_ that you sign the attached Minute to the Executive Council and also the enclosed Full Powers, which will be held undated until the approval of the Executive Council is confirmed.[4](#f4)
 
-**Attachment**
+ **Attachment**
 
-[_matter omitted_]5
+[ _matter omitted_ ][5](#f5)
 
 EXPLANATORY MEMORANDUM
 
@@ -34,7 +39,7 @@ The basic Agreement with the Special Fund sector of the UNDP required protracted
 
 The Cabinet directive on United Nations aid for Papua and New Guinea provided for consultations between the Ministers for External Affairs, Territories and the Treasurer. In accordance with that decision the approval of all three Ministers has been obtained to the text of the draft basic Agreement.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 [NAA: A1838, 936/2211 part 2]
 

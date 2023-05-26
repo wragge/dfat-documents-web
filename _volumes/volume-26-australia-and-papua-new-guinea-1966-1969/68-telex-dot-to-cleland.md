@@ -1,19 +1,23 @@
 ---
-title: "68 Telex, Dot To Cleland"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9576
+doc_date: '1966-09-06'
+doc_num: 68
+doc_order: 68
+naa_refs:
+- naa_barcode: 12030527
+  naa_control_symbol: 1966/4775 PART 1
+  naa_series: A452
+  reference: '[NAA: A452, 1966/4775]'
+title: Telex, Dot To Cleland
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-09-06
-barcode: 12030527
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 68 Telex, Dot To Cleland
 
 Canberra, 6 September 1966
 
 284/1491. Confidential Personal
 
-Have discussed with Minister situation in the House of Assembly regarding the budget.1
+Have discussed with Minister situation in the House of Assembly regarding the budget.[1](#f1)
 
 Minister appreciates that official members are aware of the importance of the matter as affecting relationships between the House of Assembly and the Government. There are some aspects on which the Minister thinks it may be of assistance to the official members to be aware of his views.
 
@@ -45,6 +49,6 @@ If on the other hand the effect is to express the House’s view that a certain 
 
 The Minister sees advantage in the elected members being made aware of the above considerations. At the same time he recognises that too uncompromising a statement, particularly if presented as a ‘Canberra edict’, could do more harm than good. Consequently he leaves to your judgment and to that of the official members the use to be made of the above in the light of the situation of the House, but in any case any of the foregoing points should not repeat not be expressed or represented as coming from the Minister, the Department or Canberra.
 
-[ [NAA: A452, 1966/4775](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=12030527) ]
+[NAA: A452, 1966/4775]
 
-1 During budget debate on 5 September, elected members disparaged the Administration for treating the House as a ‘rubber stamp’—with Guise and Downs reserving particular criticism for the expansion of the public service. Late in the day a motion was passed (42 to 16) calling for greater control over the budget by elected members, and Downs gave notice of a further motion that would reduce the allocation of funds for the recruitment of overseas public service officers (_South Pacific Post_, 5 and 7 September 1966, NLA: NX 342). 
+1 During budget debate on 5 September, elected members disparaged the Administration for treating the House as a ‘rubber stamp’—with Guise and Downs reserving particular criticism for the expansion of the public service. Late in the day a motion was passed (42 to 16) calling for greater control over the budget by elected members, and Downs gave notice of a further motion that would reduce the allocation of funds for the recruitment of overseas public service officers ( _South Pacific Post_ , 5 and 7 September 1966, NLA: NX 342).

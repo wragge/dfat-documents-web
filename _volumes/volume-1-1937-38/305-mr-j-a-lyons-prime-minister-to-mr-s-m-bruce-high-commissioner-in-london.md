@@ -1,12 +1,17 @@
 ---
-title: "305 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 1: 1937-38"
-doc_id: 304
+doc_date: '1938-10-25'
+doc_num: 305
+doc_order: 304
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA : AA1970/556, ITEM 6(1)]'
+title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-10-25
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 305 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Letter 25 October 1938,
 
@@ -18,10 +23,10 @@ I know you must have worked under severe strain and trust that you are now able 
 
 J. A. LYONS
 
-_
+ _
 
 1 Document 304.
 
 _
 
-_ [AA : AA1970/556, ITEM 6(1)]_
+ _[AA : AA1970/556, ITEM 6(1)]_

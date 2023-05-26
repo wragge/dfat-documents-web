@@ -1,12 +1,17 @@
 ---
-title: "248 Dunk to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3279
+doc_date: '1945-09-16'
+doc_num: 248
+doc_order: 248
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 539]'
+title: Dunk to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-16
+vol_title: 'Volume 8: 1945'
 ---
-
-# 248 Dunk to Evatt
 
 Cablegram 232 CANBERRA, 16 September 1945
 
@@ -32,7 +37,7 @@ Reference Dominions Office telegrams D.1688, 1689, 1690 and 1691.
 
 (c) Prolongation of the attitude expressed in Dominions Office telegram 1466 and in recent moves by Western Powers in Bulgaria and Russia will only increase suspicion and possible friction between Russia and the Western democracies without yielding likely positive gains.
 
-_
+ _
 
 1 Dispatched 13 September. In AA : A5954, box 539.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 539]_
+ _[AA : A5954, BOX 539]_

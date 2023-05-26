@@ -1,14 +1,19 @@
 ---
-title: "113 Addison to Australian Government"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3625
+doc_date: '1946-02-26'
+doc_num: 113
+doc_order: 113
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.5121]'
+title: Addison to Australian Government
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-02-26
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 113 Addison to Australian Government
-
-## Cablegram 79 LONDON, 26 February 1946, 9.20 p.m.
+Cablegram 79 LONDON, 26 February 1946, 9.20 p.m.
 
 My telegram No.15 of 14th January. [1] Assisted migration.
 
@@ -42,7 +47,7 @@ The settlers will have at their disposal the services of the Australian Employme
 
 8\. The Dominions Office will remain responsible for all matters of policy relating to migration to the Dominions including the negotiation of agreements with overseas Governments and voluntary societies operating overseas. [5]
 
-_
+ _
 
 1 It conveyed the U.K. Govt's agreement that assisted migrants' contributions be fixed at 10 sterling per adult, and requested that announcement of the scheme be delayed pending completion of administrative arrangements.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A3195, 1946, 1.5121]_
+ _[AA:A3195, 1946, 1.5121]_

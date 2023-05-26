@@ -1,14 +1,19 @@
 ---
-title: "7 Extract From Casey's Diary"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7612
+doc_date: '1951-08-11'
+doc_num: 7
+doc_order: 7
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CASEY PAPERS, MS6150/4/26, VOLUME 13]'
+title: Extract From Casey's Diary
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1951-08-11
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 7 Extract From Casey's Diary
-
-## 11th August, 1951
+11th August, 1951
 
 Tokyo [1]
 
@@ -70,11 +75,11 @@ I have been glad to find that our Australian posts and our Australian representa
 
 Also-in Japan and in Korea-our troops have a good name, both in the field and in amongst the civil population.
 
-_
+ _
 
 1 Casey toured South-East and East Asia from 20 July to 22 August 1951. He was in Japan from 5 to 14 August, apart from a three-day visit to Korea (8 to 10 August).
 
-2 Head of Jardine Matheson &amp; Co. Ltd and author of an article on Chinese Communism. Casey had dined with him in Hong Kong the previous week.
+2 Head of Jardine Matheson  & Co. Ltd and author of an article on Chinese Communism. Casey had dined with him in Hong Kong the previous week.
 
 3 Casey was Australia's first Minister in Washington, from 6 March 1940 to 31 March 1942. Late in 1941 talks between US Secretary of State Cordell Hull and Japan's Special Envoy Saburo Kurusu stalled. Casey, with Hull's consent, saw both Kurusu and Nomura.
 
@@ -92,4 +97,4 @@ His efforts succeeded insofar as Hull and Kurusu met again, but without result. 
 
 _
 
-_ [NLA : CASEY PAPERS, MS6150/4/26, VOLUME 13]_
+ _[NLA : CASEY PAPERS, MS6150/4/26, VOLUME 13]_

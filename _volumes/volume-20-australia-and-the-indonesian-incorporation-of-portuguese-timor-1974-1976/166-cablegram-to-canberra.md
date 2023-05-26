@@ -1,12 +1,23 @@
 ---
-title: "166 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8004
+doc_date: '1975-08-14'
+doc_num: 166
+doc_order: 165
+naa_refs:
+- naa_barcode: 4151638
+  naa_control_symbol: 3038/13/2/1 PART 1
+  naa_series: A1838
+  reference: '[On file NAA: A1838, 3038/13/2/1, i.]'
+- naa_barcode: 4151551
+  naa_control_symbol: 801/13/11/1 PART 11
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/1111, xi]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-08-14
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 166 Cablegram to Canberra
 
 Jakarta, 14 August 1975
 
@@ -49,15 +60,13 @@ UDT did not want to share power and while its main hostility was towards FRETILI
   26. This situation has come to a head due to unanticipated events in Lisbon and in Timor itself. I think we need to accept that our efforts to persuade Indonesia that an independent Timor need not be detrimental to their interests have been overtaken by these events. There would also seem little chance now of a protracted period of Portuguese disengagement from the territory which will permit orderly arrangements for the people of Timor to decide their own future.
   27. Indonesia will, of course, seek to minimise opposition, especially in Australia and the United Nations, to intervention on its part. But it will not be deterred by such opposition. If Indonesia does intervene I think we should do our best to contain the damage to the Australian/ Indonesia relationship and act to limit a recrudescence of latent hostility to Indonesia in Australia. As we agreed at the Heads of Mission meeting in Canberra last month, even if Indonesia were openly to move against Portuguese Timor we would need to do our best to minimise the damage to the long-term Australian/Indonesian relationship. This should continue to be the foremost consideration in our policy making.
   28. We should also seek to emphasise the point publicly that we are not a party principal and that it is not in Australia's interests to become deeply involved in this matter. While it is not for us to be apologists for Indonesia it is certainly not in our interests to be in the vanguard of Indonesia's critics. There are also no inherent reasons why integration with Indonesia might not prove more workable for the Timorese inhabitants than independence or continuing factional friction.
-  29. I am fully aware of our consistent and public support for self-determination which is both enshrined in the Government's platform and in our general stance at the United Nations. But Portuguese Timor is now a complex and unclear situation and in the final analysis we need to make a pragmatic, practical, hard-headed assessment of our real long-term interests. There is no doubt in my mind that our relations with Indonesia in the long-term are more important to us than the future of Portuguese Timor, especially when the situation in the latter is as confused as it is, and the Portuguese seem to be losing control of the situation. I know I am suggesting that our principles should be tempered by the proximity of Indonesia and its importance to us and by the relative unimportance of Portuguese Timor but, in my view, this is where our national interest lies.2
+  29. I am fully aware of our consistent and public support for self-determination which is both enshrined in the Government's platform and in our general stance at the United Nations. But Portuguese Timor is now a complex and unclear situation and in the final analysis we need to make a pragmatic, practical, hard-headed assessment of our real long-term interests. There is no doubt in my mind that our relations with Indonesia in the long-term are more important to us than the future of Portuguese Timor, especially when the situation in the latter is as confused as it is, and the Portuguese seem to be losing control of the situation. I know I am suggesting that our principles should be tempered by the proximity of Indonesia and its importance to us and by the relative unimportance of Portuguese Timor but, in my view, this is where our national interest lies.[2](#f2)
 
 
 
 WOOLCOTT
 
-_[NAA: A10463, 801/13/1111, xi]_
+ _[NAA: A10463, 801/13/1111, xi]_
 
   * 1 That is, Dan. 
   * 2 Whitlam noted in the margin, on 16 August: '§§28, 29 Woo1cott is right'. [On file NAA: A1838, 3038/13/2/1, i.]
-
-

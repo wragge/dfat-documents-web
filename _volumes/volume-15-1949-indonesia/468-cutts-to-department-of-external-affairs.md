@@ -1,12 +1,18 @@
 ---
-title: "468 Cutts to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6637
+doc_date: '1949-08-10'
+doc_num: 468
+doc_order: 468
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3094
+  reference: '[AA : A3094/1, 2/1]'
+title: Cutts to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-08-10
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 468 Cutts to Department of External Affairs
 
 Cablegram K336 BATAVIA, 10 August 1949, 11.10 a.m.
 
@@ -22,12 +28,12 @@ Your telegram 124. [1]
 
 4\. It will not be possible to report on the implementation of the cease-hostilities for at least three weeks.
 
-_
+ _
 
 1 Document 465.
 
-2 The text of the UN Commission for Indonesia's First Interim Report, Document S/1373 &amp; S1373/CORR.1, dated 4 August, is given in United Nations, Security Council Official Records, Fourth Year, Special Supplement No. 5, PP.1-84.
+2 The text of the UN Commission for Indonesia's First Interim Report, Document S/1373  & S1373/CORR.1, dated 4 August, is given in United Nations, Security Council Official Records, Fourth Year, Special Supplement No. 5, PP.1-84.
 
 _
 
-_ [AA : A3094/1, 2/1]_
+ _[AA : A3094/1, 2/1]_

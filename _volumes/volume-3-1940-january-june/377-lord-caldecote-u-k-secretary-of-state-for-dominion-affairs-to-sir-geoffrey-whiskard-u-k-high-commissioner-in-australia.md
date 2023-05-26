@@ -1,14 +1,20 @@
 ---
-title: "377 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1143
+doc_date: '1940-06-14'
+doc_num: 377
+doc_order: 377
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, UNNUMBERED]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-14
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 377 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
-
-## Circular cablegram [Z108] [1] LONDON, [14 June 1940, 5 a.m.] [2]
+Circular cablegram [Z108] [1] LONDON, [14 June 1940, 5 a.m.] [2]
 
 Please convey the following message from the Prime Minister [3] immediately to the Prime Minister [4]- The Foreign Secretary [5] and I saw Reynaud [6] this afternoon (Thursday) [7] at Tours. Reynaud said that the French Armies were at the last gasp and Weygand [8] said that he thought it would very soon be necessary to plead for an armistice in order to save the soil and structure of France. If France were to continue it was imperative to have proof that the United States would come in with sufficient speed. Reynand then referred to a message which he had sent to Roosevelt on June 10th (you will have seen this in the press. It was published at Roosevelt's suggestion and Roosevelt's speech on that day was not in fact an answer to it).
 
@@ -52,9 +58,9 @@ We regard this as a matter of very great urgency and importance.
 
 I may add that we are urging the publication of Roosevelt's message, which in any case stands on record, but we have not yet received his consent.
 
-_
+ _
 
-1 &amp; 2 The number and time of dispatch have been taken from the Dominions Office copy in PRO: DO 114/113. Parts of the text as received in Canberra were mutilated and some indecipherable words were omitted. The correct version of a significantly mutilated portion is given in footnote 9. Missing words are inserted in square brackets in the text.
+1 & 2 The number and time of dispatch have been taken from the Dominions Office copy in PRO: DO 114/113. Parts of the text as received in Canberra were mutilated and some indecipherable words were omitted. The correct version of a significantly mutilated portion is given in footnote 9. Missing words are inserted in square brackets in the text.
 
 3 Winston S. Churchill.
 
@@ -72,4 +78,4 @@ _
 
 _
 
-_ [FA: A3195, UNNUMBERED]_
+ _[FA: A3195, UNNUMBERED]_

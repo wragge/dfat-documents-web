@@ -1,12 +1,18 @@
 ---
-title: "263 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 262
+doc_date: '1938-09-17'
+doc_num: 263
+doc_order: 262
+naa_refs:
+- naa_barcode: 174711
+  naa_control_symbol: CZE 13 PART 1
+  naa_series: A981
+  reference: '[AA : A981, CZECHOSLOVAKIA 13]'
+title: Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons,
+  Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-17
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 263 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister
 
 Circular Cablegram B 233 LONDON, 17 September 1938, midnight
 
@@ -26,7 +32,7 @@ The above is merely a brief description of the Prime Minister's impression of th
 
 The proposal for self-determination is fraught with many difficulties both practical and political. Among the latter evidently the attitude of the Czech Government and people is of the greatest importance. The Czech Government may refuse to contemplate this solution or indeed it might prove that if they agreed to it they might be overthrown and a state of confusion might ensue leading to intervention. We are losing no time in pushing ahead with the examination of the whole problem and it will also be discussed with the French Ministers as soon as they arrive in London as a preliminary to communication with the Czechoslovak Government. We will let you know further developments as they arise.
 
-_
+ _
 
 1 Not printed.
 
@@ -42,4 +48,4 @@ On 12 September 1938 it was decided that the United Kingdom Government would kee
 
 _
 
-_ [AA : A981, CZECHOSLOVAKIA 13]_
+ _[AA : A981, CZECHOSLOVAKIA 13]_

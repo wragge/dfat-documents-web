@@ -1,13 +1,17 @@
 ---
-title: "200 Statement submitted by Chifley to Prime Ministers' Conference"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3712
+doc_date: '1946-04-20'
+doc_num: 200
+doc_order: 200
+naa_refs:
+- naa_barcode: 694890
+  naa_control_symbol: '3'
+  naa_series: A6712
+  reference: '[AA:A6712, [3]'
+title: Statement submitted by Chifley to Prime Ministers' Conference
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-20
-barcode: 694890
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 200 Statement submitted by Chifley to Prime Ministers' Conference
 
 PMM(46)7 LONDON, 20 April 1946 [1]
 
@@ -63,7 +67,7 @@ On the Supply aspect the detailed procedure should be the examination of specifi
 
 Guided Projectiles.
 
-Co-operation in Development, Research, Design, &amp;c., of Munitions.
+Co-operation in Development, Research, Design, &c., of Munitions.
 
 Channels should also be laid down for the exchange of information.
 
@@ -135,7 +139,7 @@ At the Imperial Conference in 1937 important principles were laid down regarding
 
 J. B. CHIFLEY
 
-_
+ _
 
 1 The statement was circulated at the Conference on 23 April.
 
@@ -147,4 +151,4 @@ _
 
 _
 
-_ [ [AA:A6712, [3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=694890) ]_
+ _[AA:A6712, [3]]_

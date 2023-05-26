@@ -1,14 +1,19 @@
 ---
-title: "173 Evatt to Chifley"
-volume: "Volume 7: 1944"
-doc_id: 2820
+doc_date: '1944-05-30'
+doc_num: 173
+doc_order: 173
+naa_refs:
+- naa_barcode: 11210693
+  naa_control_symbol: 1945/244
+  naa_series: A571
+  reference: '[AA:A571, [45/244]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-30
+vol_title: 'Volume 7: 1944'
 ---
 
-# 173 Evatt to Chifley
-
-## Letter CANBERRA, 30 May 1944
+Letter CANBERRA, 30 May 1944
 
 I wish to bring before War Cabinet as early as possible a proposal regarding the setting up of an organisation for post-hostilities planning in international affairs, in accordance with our undertaking in the Australian - New Zealand Agreement. [1] Such an organisation has become urgently necessary to ensure that War Cabinet may have complete information and expert advice on the various matters affecting the armistices and peace settlements which will come before it in the near future.
 
@@ -26,7 +31,7 @@ I should be glad to have your views as early as possible so that no time may be 
 
 H. V. EVATT
 
-_
+ _
 
 1 Document 26.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA:A571, [45/244]]_
+ _[AA:A571, [45/244]]_

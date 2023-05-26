@@ -1,18 +1,21 @@
 ---
-title: "284 BACKGROUND NOTE, ANTHONY VISIT TO LONDON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10149
+doc_date: 1971-06
+doc_num: 284
+doc_order: 284
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1054]'
+title: BACKGROUND NOTE, ANTHONY VISIT TO LONDON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-06-23
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 284 BACKGROUND NOTE, ANTHONY VISIT TO LONDON
-
-UKNA: FCO 24/1054 
 
 London, undated [June 1971]
 
-**Meetings between British Ministers and the Australian Deputy Prime Minister (Mr Anthony) 18 June—23 June 1971**
+ **Meetings between British Ministers and the Australian Deputy Prime Minister (Mr Anthony) 18 June—23 June 1971**
 
 Mr Anthony has recently become Deputy Prime Minister in the Coalition Government and Leader of the County [sic] Party in Australia. The future of neither institution can be described as confident, which must in large measure account for tensions reappearing in public utterances by Australian politicians of recent weeks on the issue of Britain’s entry into Europe. Mr Anthony has said that the forthcoming talks would be held under ‘strained circumstances’. He has accused Britain of failing even to put up Australia’s case.
 
@@ -20,7 +23,7 @@ Mr Anthony has recently become Deputy Prime Minister in the Coalition Government
 
 3\. It is this point which Mr Anthony will pursue with vigour, however, claiming that this affirmation has been belied by our agreement to accord full Community preference to products covered by the CAP from the outset. Without qualification, this means not only the rapid exclusion from our market of items like sugar and dairy products and certain kinds of wheat from Australia but also from other third countries so that Australian exporters will find themselves competing with these newly diverted supplies on the already limited outlets in the rest of the world.
 
-4\. To concentrate on these items is to take a very narrow overall view of Australia’s general export prospects to the enlarged Community [...] but in terms of votes for the Coalition they are vital. Accordingly, during his ten day visit here, his domestic political position and the tradition of tough talking by Australia will tempt Mr Anthony to make all the mileage he can with anti-Market opinion and consciously to exploit the fact that Australia is one of our very largest customers according us preferences1 and a country where we still have vast investments. At the same time he will be conscious that Australia still needs that investment: her regular deficit on current account is only remedied by her surplus on capital account. Nor would it be clever to antagonise Britain if he hopes to profit from the Community pledge to use the mechanisms of its institutes to rectify or avert disruptions in trade from traditional suppliers. For this reason, if he can gain some assurance that Australia is not simply regarded as expendable by Britain, and that when it comes to dealing with specific trade situations there is no reason to believe the enlarged Community will simply decide whether to deal with them or not behind closed doors, Mr Anthony may set out to build on the positive prospects rather than confine himself to a fall back on recrimination.
+4\. To concentrate on these items is to take a very narrow overall view of Australia’s general export prospects to the enlarged Community [...] but in terms of votes for the Coalition they are vital. Accordingly, during his ten day visit here, his domestic political position and the tradition of tough talking by Australia will tempt Mr Anthony to make all the mileage he can with anti-Market opinion and consciously to exploit the fact that Australia is one of our very largest customers according us preferences[1](#f1) and a country where we still have vast investments. At the same time he will be conscious that Australia still needs that investment: her regular deficit on current account is only remedied by her surplus on capital account. Nor would it be clever to antagonise Britain if he hopes to profit from the Community pledge to use the mechanisms of its institutes to rectify or avert disruptions in trade from traditional suppliers. For this reason, if he can gain some assurance that Australia is not simply regarded as expendable by Britain, and that when it comes to dealing with specific trade situations there is no reason to believe the enlarged Community will simply decide whether to deal with them or not behind closed doors, Mr Anthony may set out to build on the positive prospects rather than confine himself to a fall back on recrimination.
 
 5\. There are indications from Canberra that Australia still hankers after using the GATT as the forum for pressurising the Community into dealing with problems of world agricultural trade by disciplines acceptable to Australia. This, despite 25 years of experience to the contrary and, more recently, unmistakable evidence that the EEC is indifferent to attacks from the agricultural members of the Contracting Parties with the United States leading from behind. We have no particular reason to dissuade Mr Anthony from pursuing this line or from attempting to secure some expressions of understanding in the capitals of the Six to this end if he really believes this will be useful. But we should have to point out that once we have entered the Community ourselves, our role in the GATT would be as members of the Community. Besides, we could add that it has been our experience with the Community, including the present negotiations, that there are more prospects of achieving meaningful settlements (e.g. on tariff quotas) when talking about, in more limited terms, precise problems for individual areas of trade in particular markets than has so far been achieved by the kind of ‘best effort’ codes of conduct in world markets which tend to emerge from large multilateral conferences.
 
@@ -37,3 +40,5 @@ Mr Anthony has recently become Deputy Prime Minister in the Coalition Government
 [...]
 
 1  Footnote in document: ‘on 80 per cent of our exports and duty free entry on over 60 per cent’. 
+
+[UKNA: FCO 24/1054]

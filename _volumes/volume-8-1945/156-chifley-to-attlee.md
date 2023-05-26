@@ -1,12 +1,17 @@
 ---
-title: "156 Chifley to Attlee"
-volume: "Volume 8: 1945"
-doc_id: 3187
+doc_date: '1945-08-04'
+doc_num: 156
+doc_order: 156
+naa_refs:
+- naa_barcode: 4203204
+  naa_control_symbol: 1945/38
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, O.20370]'
+title: Chifley to Attlee
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-04
+vol_title: 'Volume 8: 1945'
 ---
-
-# 156 Chifley to Attlee
 
 Cablegram 213 CANBERRA, 4 August 1945
 
@@ -18,7 +23,7 @@ Thank you for the information furnished. In view of the questions of principle w
 
 CHIFLEY
 
-_
+ _
 
 1 Document 150.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, O.20370]_
+ _[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, O.20370]_

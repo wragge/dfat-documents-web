@@ -1,18 +1,21 @@
 ---
-title: "349 LETTER, ARMSTRONG TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10215
+doc_date: '1972-11-22'
+doc_num: 349
+doc_order: 349
+naa_refs:
+- naa_barcode: 552872
+  naa_control_symbol: 67/1/3 PART 6
+  naa_series: A1838
+  reference: '[NAA: A1838, 67/1/3 PART 6]'
+title: LETTER, ARMSTRONG TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 349 LETTER, ARMSTRONG TO WALLER
-
-NAA: A1838, 67/1/3 PART 6 
 
 Canberra, 22 November 1972
 
-I refer to cable 18759 [sic] of20 November from the Australian High Commission in London concerning immigration to Britain. 1
+I refer to cable 18759 [sic] of20 November from the Australian High Commission in London concerning immigration to Britain. [1](#f1)
 
 It is indicated that, following discussion in White Hall on 21 November, the Acting High Commissioner will be cabling an appreciation of the new rules; that he hopes at the same time to be able to offer recommendations about the handling of the situation and will then be seeking the earliest possible guidance on future handling and presentation in London.
 
@@ -27,3 +30,5 @@ It was my experience during two terms as Chief Migration Officer in London that 
 I fully endorse the attitude taken by my predecessor, the late Sir Peter Heydon, that by complaining to the British about their immigration laws ‘we make a rod for our own backs’.
 
 1  Document 345.
+
+[NAA: A1838, 67/1/3 PART 6]

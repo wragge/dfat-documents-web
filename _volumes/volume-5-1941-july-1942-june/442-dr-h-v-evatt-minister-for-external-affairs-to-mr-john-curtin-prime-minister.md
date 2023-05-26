@@ -1,12 +1,17 @@
 ---
-title: "442 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2196
+doc_date: '1942-03-25'
+doc_num: 442
+doc_order: 443
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1942, 1.12142]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-25
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 442 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram EP2 WASHINGTON, 25 March 1942
 
@@ -34,7 +39,7 @@ As much of our time as can be spared is spent in infusing vitality into them and
 
 EVATT
 
-_
+ _
 
 1 Dispatched 24 March. On file AA:A981, Australia 205, i. It advised Evatt that War Cabinet believed it desirable that a successor to R. G. Casey as Minister to the United States should take up duty in Washington while Evatt was still there.
 
@@ -48,4 +53,4 @@ Special Collection II, Bundle 5, Reinforcement and equipment from U.S.A. and U.K
 
 _
 
-_ [AA:A3195, 1942, 1.12142]_
+ _[AA:A3195, 1942, 1.12142]_

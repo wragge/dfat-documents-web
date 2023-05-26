@@ -1,12 +1,17 @@
 ---
-title: "88 Chifley to MacArthur"
-volume: "Volume 8: 1945"
-doc_id: 3119
+doc_date: '1945-05-18'
+doc_num: 88
+doc_order: 88
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2313]'
+title: Chifley to MacArthur
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-05-18
+vol_title: 'Volume 8: 1945'
 ---
-
-# 88 Chifley to MacArthur
 
 Cablegram CAB210 CANBERRA, 18 May 1945
 
@@ -28,7 +33,7 @@ If there has been no variation in your plans, I was asked to consult you regardi
 
 J. B. CHIFLEY
 
-_
+ _
 
 1 Document 37.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 2313]_
+ _[AA : A5954, BOX 2313]_

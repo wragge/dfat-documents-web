@@ -1,12 +1,17 @@
 ---
-title: "26 Evatt to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3874
+doc_date: '1946-07-15'
+doc_num: 26
+doc_order: 26
+naa_refs:
+- naa_barcode: 193040
+  naa_control_symbol: IC46/101/1
+  naa_series: A1067
+  reference: '[AA:A1067, 1c46/101/1]'
+title: Evatt to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-07-15
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 26 Evatt to Department of External Affairs
 
 Cablegram 969 WASHINGTON, 15 July 1946, 4.07 p.m.
 
@@ -20,7 +25,7 @@ There is no occasion for long recitals or reference to the slave trade and other
 
 New Zealand has deliberately introduced political matter of local significance in Samoa where there is an active native political group. New Guinea is in an entirely different position. This is especially important as the agreement must be placed before Parliament where, in my view, it is essential, in accordance with my clear declaration, to emphasise the continuation of complete Australian control and authority over the territory subject only to the clauses contained in the Charter.
 
-_
+ _
 
 1 Dispatched 13 July, cablegram 1052 conveyed a revised draft trusteeship agreement for New Guinea prepared by Bailey and Eggleston. See also Volume IX, Document 317 and note 2 thereto.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A1067, 1c46/101/1]_
+ _[AA:A1067, 1c46/101/1]_

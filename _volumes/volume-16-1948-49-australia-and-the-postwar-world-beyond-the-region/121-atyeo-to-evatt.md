@@ -1,14 +1,19 @@
 ---
-title: "121 Atyeo to Evatt"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6836
+doc_date: '1949-09-22'
+doc_num: 121
+doc_order: 121
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU : EVATT COLLECTION, UNITED NATIONS - BALKAN COMMISSION]'
+title: Atyeo to Evatt
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1949-09-22
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
 
-# 121 Atyeo to Evatt
-
-## Letter, ATHENS, 22 September 1949
+Letter, ATHENS, 22 September 1949
 
 Your telegram No. 34 arrived too late, as the recommendations had been signed the previous day, but your instructions were pretty much what I had been following out. I did succeed in modifying some of the paragraphs, although on the whole the Committee's mind was made up. The only thing that happened not according to plan was when China, Mexico and Brazil tried to force the Committee to include some mention of Article 51. I feel very sure that the Greeks put them up to this because it ties up with what the Greeks themselves had been saying in the press. The Greeks are looking for an excuse to enter Albania and neither the United States or the U.K. are very happy about it. This is of course the real threat to peace.
 
@@ -22,10 +27,10 @@ I have told the Committee that although we have accepted the recommendations we 
 
 [matter omitted]
 
-_ [1] See Document 119.
+ _[1] See Document 119.
 
 [2] See Document 114.
 
 _
 
-_ [SFU : EVATT COLLECTION, UNITED NATIONS - BALKAN COMMISSION]_
+ _[SFU : EVATT COLLECTION, UNITED NATIONS - BALKAN COMMISSION]_

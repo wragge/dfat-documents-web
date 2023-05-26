@@ -1,18 +1,21 @@
 ---
-title: "309 LETTER, NIMMO TO BROWN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10175
+doc_date: '1962-11-20'
+doc_num: 309
+doc_order: 309
+naa_refs:
+- naa_barcode: 5101761
+  naa_control_symbol: 1965/1487 PART 1
+  naa_series: A3211
+  reference: '[NAA: Al838, 1965/1487 PART 1]'
+title: LETTER, NIMMO TO BROWN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-11-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 309 LETTER, NIMMO TO BROWN
-
-NAA: Al838, 1965/1487 PART 1 
 
 Canberra, 20 November 1962
 
-On 26th October we received a copy of a letter addressed on 19th October to the Home Secretary by Sir Eric Harrison, 1 in which Sir Eric asked for an assurance that the provisions of the Commonwealth Immigrants’ Act, 1962 will be applied against Australian citizens with some discretion in the future. After reading this letter, I wondered whether we were not putting our case a little too strongly. For instance, would we be prepared to give a similar assurance to that sought by Sir Eric if the British were to make similar representations on the operation of our own Immigration Act.
+On 26th October we received a copy of a letter addressed on 19th October to the Home Secretary by Sir Eric Harrison, [1](#f1) in which Sir Eric asked for an assurance that the provisions of the Commonwealth Immigrants’ Act, 1962 will be applied against Australian citizens with some discretion in the future. After reading this letter, I wondered whether we were not putting our case a little too strongly. For instance, would we be prepared to give a similar assurance to that sought by Sir Eric if the British were to make similar representations on the operation of our own Immigration Act.
 
 By and large, I believe that Australians wishing to enter Britain are being treated pretty fairly in terms of the British legislation. During the drafting stages of this legislation I had several talks with Norman Costar, and I believe that the British went a long way to meet our prospective difficulties by amendments to the legislation and instructions.
 
@@ -23,3 +26,5 @@ On the other hand, you and Sir Eric are on the spot and may well have good reaso
 My suggestion is, however, that I believe the Commonwealth Immigrants’ Act is operating very lightly as far as we are concerned and that we should avoid doing anything unnecessary which might lose us the sympathy of the British.
 
 1  Document 307. 
+
+[NAA: Al838, 1965/1487 PART 1]

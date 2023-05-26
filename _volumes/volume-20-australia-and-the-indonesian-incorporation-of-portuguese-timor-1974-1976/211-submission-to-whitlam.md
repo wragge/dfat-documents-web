@@ -1,12 +1,19 @@
 ---
-title: "211 Submission to Whitlam"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8049
+doc_date: '1975-09-04'
+doc_num: 211
+doc_order: 210
+naa_refs:
+- naa_barcode: 1505965
+  naa_control_symbol: 3038/13/10/1 PART 1
+  naa_series: A1838
+  reference: '[NAA: Al838. 3038/13/10/1, i]'
+title: Submission to Whitlam
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-09-04
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 211 Submission to Whitlam
 
 Canberra, 4 September 1975
 
@@ -46,14 +53,12 @@ The discussions with Dr Santos on 1 September deadlocked on two fundamental ques
   17. Thus our alternative proposal would not commit Australia to a continuing political role in Portuguese Timor or imply any sharing of Portugal's colonial burden. Australian participation in the suggested international conference could expose the Government to criticism on grounds that it was a party to a sell-out of the Timorese. But our responsibility for inviting the Indonesians in would be of the second-remove sort. Moreover, Australia should have been seen to have been acting in concert with other like-minded regional countries and we should certainly be less engaged than if we were a direct signatory to the Memorandum of Understanding as the Portuguese are now demanding. Participation in the proposed multinational supervisory machinery would also involve Australia more than we should have liked, but at least that involvement would be concentrated on monitoring the military activities of Indonesia's peace-keeping mission (about which we should be prepared to speak our mind) rather than the more difficult political aspects.
   18. Some of the ideas discussed above were touched on with the Portuguese when Australian officials met them over lunch on 1 September. We believe that they might be explored further with the Portuguese team following Dr Santos's return from Atauro. But before we did this, we should need to invite Indonesian views.
   19. I should add, of course, that with the lull in the fighting in Portuguese Timor the moment for Indonesian intervention might well have passed: that is, with the fighting dying down apparently of its own accord, and with a Portuguese special envoy hoping to engage the parties in peace negotiations, it is difficult to see any pretext for Indonesian intervention which could be 'sold' to our domestic opinion. But the Department's feeling is that the breach between Fretilin and UDT is now irreparable so that any cease-fire might be short-lived. Timor, in short, is displaying all the characteristics of a South East Asian Angola. If so, the next lapse into political chaos may be the moment for Indonesians to move. So much better if Indonesia is seen to be acting not as a neo-colonialist but as the agent of a group oflike-minded countries seeking regional peace.
-  20. If you are attracted by these ideas you may wish to discuss them with the Minister for Defence. It might then be considered whether we might put the ideas to the Indonesians perhaps with the safeguard that they represented Departmental thinking only. We should need to represent the ideas not as a dampener of their own initiative but as a possible variation of it.1
+  20. If you are attracted by these ideas you may wish to discuss them with the Minister for Defence. It might then be considered whether we might put the ideas to the Indonesians perhaps with the safeguard that they represented Departmental thinking only. We should need to represent the ideas not as a dampener of their own initiative but as a possible variation of it.[1](#f1)
 
 
 
 ALANRENOUF Secretary
 
-_[NAA: Al838. 3038/13/10/1, i]_
+ _[NAA: Al838. 3038/13/10/1, i]_
 
-  * 1 A handwritten marginal note reads: 'The PM, after discussion with Mr Morrison, decided not to pursue this initiative'. 
-
-
+  * 1 A handwritten marginal note reads: 'The PM, after discussion with Mr Morrison, decided not to pursue this initiative'.

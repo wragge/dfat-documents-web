@@ -1,12 +1,18 @@
 ---
-title: "239 Officer to Department of External Affairs"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6015
+doc_date: '1949-02-02'
+doc_num: 239
+doc_order: 239
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:OUTWARD ORIGINAL (TS) 1948-50]'
+title: Officer to Department of External Affairs
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-02-02
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 239 Officer to Department of External Affairs
 
 Cablegram 53 NANKING, 2 February 1949, 6.15 p.m.
 
@@ -18,7 +24,7 @@ My immediately preceding telegram 52 [1] and your telegram 20. [2] I think it wo
 
 3\. If there are difficulties in making the statement in any other way, could you do it when the House meets on the 9th and arrange for special emphasis to it in broadcasts from Australia. If I could have the text as early as possible I would endeavour to get copies to the communists.
 
-_
+ _
 
 1 Document 238.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [FA:OUTWARD ORIGINAL (TS) 1948-50]_
+ _[FA:OUTWARD ORIGINAL (TS) 1948-50]_

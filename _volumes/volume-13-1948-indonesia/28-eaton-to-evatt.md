@@ -1,12 +1,17 @@
 ---
-title: "28 Eaton to Evatt"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5295
+doc_date: '1948-01-21'
+doc_num: 28
+doc_order: 28
+naa_refs:
+- naa_barcode: 645582
+  naa_control_symbol: 1948/BATAVIA
+  naa_series: A4231
+  reference: '[AA:A4231/2, 1948, BATAVIA]'
+title: Eaton to Evatt
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-01-21
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 28 Eaton to Evatt
 
 Ministerial Dispatch 2/1948 BATAVIA, 21 January 1948
 
@@ -28,7 +33,7 @@ I have the honour to report that the general feeling since the signing of the tr
 
 8\. I consider that my plan, submitted in a Departmental Despatch, for the establishment of an Australian Information Bureau and Trade Commissioner's office should be approved and implemented at an early date. [3]
 
-_
+ _
 
 1 In Cablegram 13, dispatched on 22 January, Eaton inserted the following at the end of paragraph 2: 'important meetings are being forced in Djokjakarta and by the end of the week we shall know whether Prime Minister Sjarifoedin and his cabinet will remain in power or will fall. Republican opinion in Batavia is that a stable Government will remain in power.' 2 In his Departmental Dispatch 2/1948 of 21 January, Eaton reported the mapping of the NEI by the United States Air Force.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A4231/2, 1948, BATAVIA]_
+ _[AA:A4231/2, 1948, BATAVIA]_

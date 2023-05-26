@@ -1,12 +1,17 @@
 ---
-title: "215 Cabinet Submission by Chifley"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4063
+doc_date: '1944-11-14'
+doc_num: 215
+doc_order: 215
+naa_refs:
+- naa_barcode: 227879
+  naa_control_symbol: VOLUME 11
+  naa_series: A2700
+  reference: '[AA:A2700, VOL. II]'
+title: Cabinet Submission by Chifley
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1944-08-28
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 215 Cabinet Submission by Chifley
 
 Agendum 669E 14 NOVEMBER 1946,
 
@@ -70,7 +75,7 @@ J. B. CHIFLEY
 
 Treasurer
 
-_
+ _
 
 1 Volume VII, Document 260.
 
@@ -82,4 +87,4 @@ _
 
 _
 
-_ [AA:A2700, VOL. II]_
+ _[AA:A2700, VOL. II]_

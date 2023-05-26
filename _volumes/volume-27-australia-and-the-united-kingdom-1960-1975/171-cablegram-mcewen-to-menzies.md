@@ -1,14 +1,17 @@
 ---
-title: "171 CABLEGRAM, MCEWEN TO MENZIES"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10036
+doc_date: '1962-03-16'
+doc_num: 171
+doc_order: 171
+naa_refs:
+- naa_barcode: 583998
+  naa_control_symbol: 727/4/1/4 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/1/4 PART 1]'
+title: CABLEGRAM, MCEWEN TO MENZIES
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-03-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 171 CABLEGRAM, MCEWEN TO MENZIES
-
-NAA: A1838, 727/4/1/4 PART 1 
 
 Washington, 16 March 1962
 
@@ -28,11 +31,11 @@ During our talks on preferences the Americans showed extreme good will, understa
 
 7\. These are examples of arguments advocated pretty comprehensively. Ball was quite definite and precise that he could not and would not depart from the clear line that preferences were wrong and should be ‘phased out’ and that any notion that America would condone the perpetuation of preferences, or be reticent in declaring their attitude, would misrepresent their position.
 
-8\. They could not be moved by any counter argument I could muster, many of which were telling, even through to the point that, but for Castro, they would still be buying their sugar preferentially from Cuba, which Ball admitted. Also our ability to trade hundreds of reductions in the preferences in our tariff couldn’t buy a reduction in their wool duty up to date. I put it to Ball that all his arguments increasingly brought out that their purist attitude would have the commercial result of leaving them much better off and us much worse off. We stood to lose heavily, vis-a-vis Common Market countries and vis-a-vis M.F.N.1 suppliers like the United States. In direct contrast, the elimination of preferences meant they improved their position against us in Britain, and their position against Britain in Australia. Moreover, for us preferences were often vital. For them the disabilities they suffered related only to a marginal proportion of production for which their producers had the benefit of an enormous home market.
+8\. They could not be moved by any counter argument I could muster, many of which were telling, even through to the point that, but for Castro, they would still be buying their sugar preferentially from Cuba, which Ball admitted. Also our ability to trade hundreds of reductions in the preferences in our tariff couldn’t buy a reduction in their wool duty up to date. I put it to Ball that all his arguments increasingly brought out that their purist attitude would have the commercial result of leaving them much better off and us much worse off. We stood to lose heavily, vis-a-vis Common Market countries and vis-a-vis M.F.N.[1](#f1) suppliers like the United States. In direct contrast, the elimination of preferences meant they improved their position against us in Britain, and their position against Britain in Australia. Moreover, for us preferences were often vital. For them the disabilities they suffered related only to a marginal proportion of production for which their producers had the benefit of an enormous home market.
 
 9\. I did not fail to point out the explicit character of the British assurance that they would not go in on terms which would seriously harm her Commonwealth trading partners and that a sufficiently strong American resistance to sustaining preferences could have the end result of making it impossible for Britain to go in.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 11\. In this atmosphere I came increasingly to the conclusion that adherence to their fixation on this point would at some time result in them being increasingly willing to support particular arrangements to enable the preferences to ‘be phased out’ and also add a very real spur to their contribution to find the ‘alternative global solutions’ on commodities to which they refer airily as the solution to the problem caused if preferences were eliminated.
 
@@ -51,3 +54,5 @@ Ends.
 15\. In my balance sheet, we have not lost anything which we had not previously lost, perhaps without a sufficient comprehension of it previously. There have been gains in the sense that within their stated policy, which we cannot expect to shake as a policy, there may be a more ready willingness as particular issues arise to accommodate special circumstances without abandoning their policy. The final talk with Ball and my message to him through Beale, in my view, puts us in a better position than hitherto to use any opportunity, public or otherwise, to present our line on preferences, and to declare our frustration at the lack of support by the major industrial countries.
 
 1 M.F.N.: see note to Document 125.
+
+[NAA: A1838, 727/4/1/4 PART 1]

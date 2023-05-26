@@ -1,12 +1,17 @@
 ---
-title: "27 Minutes of Third Meeting of Principal Delegates to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 27
+doc_date: '1937-05-21'
+doc_num: 27
+doc_order: 27
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+title: Minutes of Third Meeting of Principal Delegates to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-05-21
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 27 Minutes of Third Meeting of Principal Delegates to Imperial Conference
 
 E (PD) (37) 3 (extract) LONDON, 21 May 1937
 
@@ -34,10 +39,10 @@ The clear statement of the United Kingdom commitments in Europe contained in Mr 
 
 It seemed clear that if Czechoslovakia was menaced by Germany, Great Britain would not be prepared to go to war in defence of the independence of Czechoslovakia. If this was the true position, would it not be very much fairer to the smaller countries, and particularly to those in Central and Eastern Europe that the position should be explained to them without possibility of misunderstanding? He hoped that at a later stage Mr Eden would be able to comment on his suggestion that Germany should in future be allowed a freer hand in Europe, particularly in regard to the 'Anschluss' with Austria.
 
-_
+ _
 
 1 See Document 17, paragraph headed Great Britain.
 
 _
 
-_ [FA : IMP. CONF. 1937, MEETINGS]_
+ _[FA : IMP. CONF. 1937, MEETINGS]_

@@ -1,12 +1,17 @@
 ---
-title: "141 Officer to Department of External Affairs"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5408
+doc_date: '1948-05-22'
+doc_num: 141
+doc_order: 141
+naa_refs:
+- naa_barcode: 550482
+  naa_control_symbol: 403/3/1/1 PART 16
+  naa_series: A1838
+  reference: '[AA:A.1838, 403/3/1/1, xvi]'
+title: Officer to Department of External Affairs
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-05-22
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 141 Officer to Department of External Affairs
 
 Cablegram Hag 61 THE HAGUE, 22 May 1948, 111.30 a.m.
 
@@ -18,10 +23,10 @@ Your telegram 38. [1] Indonesia. Minister for Foreign Affairs is not available u
 
 3\. You will appreciate that the steps proposed in the last paragraph of your telegram would arouse very deep resentment here and be regarded as a partisan measure contrary to our position as members of the Good Offices Commission. They would be liable to jeopardize the present good hope of full Dutch co-operation in Japanese treaty negotiations.
 
-_
+ _
 
 1 Document 136.
 
 _
 
-_ [AA:A.1838, 403/3/1/1, xvi]_
+ _[AA:A.1838, 403/3/1/1, xvi]_

@@ -1,20 +1,23 @@
 ---
-title: "57 CABLEGRAM TO CANBERRA"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9922
+doc_date: '1966-06-01'
+doc_num: 57
+doc_order: 57
+naa_refs:
+- naa_barcode: 1836302
+  naa_control_symbol: 287/3/24
+  naa_series: A1945
+  reference: '[NAA: A1945, 287/3/24]'
+title: CABLEGRAM TO CANBERRA
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1966-06-01
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 57 CABLEGRAM TO CANBERRA
-
-NAA: A1945, 287/3/24
 
 Australian High Commission, London, 1 June 1966
 
 5295\. Secret
 
-****
+ ****
 
 Holt from Downer
 
@@ -22,17 +25,17 @@ Holt from Downer
 
 He received me in the Cabinet Room, and was very friendly, relaxed and frank.
 
-I related to him all the points in your 3067 and your 3125.1
+I related to him all the points in your 3067 and your 3125.[1](#f1)
 
 I developed somewhat the point in your 3125 concerning Britain’s future place in the world.
 
-I also asked whether in his opinion a majority of the Labour Party was now opposed to the Government’s East of Suez policy, and did the Government still stand by their Defence Review published last February especially paragraph 24?2 Could we still assume that this was still valid Government policy? Wilson several times said he agreed with all the points I put forward, and in fact there was virtually very little—if indeed anything—in our case with which he would disagree. I always find him a very easy man to talk with, and today’s discussion was no exception.
+I also asked whether in his opinion a majority of the Labour Party was now opposed to the Government’s East of Suez policy, and did the Government still stand by their Defence Review published last February especially paragraph 24?[2](#f2) Could we still assume that this was still valid Government policy? Wilson several times said he agreed with all the points I put forward, and in fact there was virtually very little—if indeed anything—in our case with which he would disagree. I always find him a very easy man to talk with, and today’s discussion was no exception.
 
 2\. Before unfolding our case, I mentioned the press coverage particularly in Australia. Wilson said that he thought it was perhaps a pity that you or someone in authority in Canberra had told the press that you had instructed me to seek this interview as the subsequent publicity in London would give the Labour back-benchers who had raised this issue a flattering feeling of false importance. He considered that the less publicity there was about the matter the worse the dissidents in the Labour Party would be served. The Press were now inflating the matter almost to an international issue. I replied that personally I disliked publicity on these occasions but that public opinion in Australia was naturally aroused by what they had read, and if the Government were about to alter their defence policy this would be a decision of utmost gravity for us.
 
-3\. Wilson replied by saying that the Government had not changed its policy nor was it going to change its policy. He then began a surprisingly candid discourse on various strands of opinion in the party and the way the press had written up the incident. He mentioned, in language which seemed very familiar, the fact that party meetings were supposed to be private, and that reports there from were in the nature of those who wished to emphasise their attitudes. In this case, the press had slanted the discussions out of all proportion. He was not present at the beginning of the meeting, only entering after it had got under way. He thought it was precipitated by several men who were disappointed at not being given office. ‘Hell hath no fury like a woman scorned’ and Christopher Mayhew, Woodrow Wyatt,3 and one or two others were in that category.
+3\. Wilson replied by saying that the Government had not changed its policy nor was it going to change its policy. He then began a surprisingly candid discourse on various strands of opinion in the party and the way the press had written up the incident. He mentioned, in language which seemed very familiar, the fact that party meetings were supposed to be private, and that reports there from were in the nature of those who wished to emphasise their attitudes. In this case, the press had slanted the discussions out of all proportion. He was not present at the beginning of the meeting, only entering after it had got under way. He thought it was precipitated by several men who were disappointed at not being given office. ‘Hell hath no fury like a woman scorned’ and Christopher Mayhew, Woodrow Wyatt,[3](#f3) and one or two others were in that category.
 
-The way they were going on now only emphasised the rightness of his own judgement in not appointing them to the Ministry. ‘Mayhew is a nut case’ said Wilson, and there were several others in the party room who were not much better. Reginald Paget4 (another signatory of the resolution) he also singled out for criticism, pointing out that he was really an eccentric 18th Century Tory squire who had wished the Industrial Revolution had never occurred.
+The way they were going on now only emphasised the rightness of his own judgement in not appointing them to the Ministry. ‘Mayhew is a nut case’ said Wilson, and there were several others in the party room who were not much better. Reginald Paget[4](#f4) (another signatory of the resolution) he also singled out for criticism, pointing out that he was really an eccentric 18th Century Tory squire who had wished the Industrial Revolution had never occurred.
 
 In addition to the disappointed men, there was the left wing who were really pacifists, people with whom it was impossible to reason, although these were the ones who wanted war against Rhodesia!
 
@@ -46,11 +49,11 @@ They knew perfectly well, Wilson went on, that if they defeated the Government h
 
 6\. Reverting to the party discussion, Wilson said that those who criticised the Government’s East of Suez policy did not seem to realise that if they withdrew from Asia, the Americans would have to increase their commitments in Asia, but that the United States would compensate themselves for this by withdrawing some of their forces from Europe, thus leaving Britain a heavier burden to bear in NATO.
 
-7\. Pursuant to your instructions I made an offer of help as set out in your 3067 paragraph 8,5 but he did not advert to this, nor take up the suggestion. He seemed completely confident of being able to carry the day, and gave me the impression of being quite adamant in pursuing his defence policy. Smilingly he said ‘Presumably Harold Holt has troubles like this, as did Bob Menzies before him, and I am sure he is quite capable of dealing with them. He must trust me to do equally well.’
+7\. Pursuant to your instructions I made an offer of help as set out in your 3067 paragraph 8,[5](#f5) but he did not advert to this, nor take up the suggestion. He seemed completely confident of being able to carry the day, and gave me the impression of being quite adamant in pursuing his defence policy. Smilingly he said ‘Presumably Harold Holt has troubles like this, as did Bob Menzies before him, and I am sure he is quite capable of dealing with them. He must trust me to do equally well.’
 
 8\. Wilson is looking forward to meeting you in July. I told him that your arrival date seemed to be approximately 6th July, and that you wished to discuss these and other matters fully with him yourself. He still did not know whether a Commonwealth Prime Ministers’ conference will be held then or in September, except that he feels that his insistence on all Prime Ministers attending and not being substituted by Foreign Ministers has put a spoke in some of the African wheels. Therefore perhaps September could be the more likely date.
 
-9\. My impression is that Wilson regards this resolution as being not so serious in itself as in being a manifestation of critical attitudes by his back-benchers in the future on other things. He said there was still a good deal of opposition to his Government’s policy over Vietnam and last week’s party meeting was not unrelated to it.6
+9\. My impression is that Wilson regards this resolution as being not so serious in itself as in being a manifestation of critical attitudes by his back-benchers in the future on other things. He said there was still a good deal of opposition to his Government’s policy over Vietnam and last week’s party meeting was not unrelated to it.[6](#f6)
 
 10\. All in all I formed the impression that Wilson was perfectly genuine in what he said. He spoke as if he were in complete command of the situation. Certainly has had unbounded confidence in his own powers of persuasion and leadership, and what he can do when pressed, with the rank and file of his party. If you will allow me to make a suggestion, I think we shall be wise to play down the disquiet aroused in Australia, and accept his assurances.
 
@@ -67,3 +70,5 @@ In my own experience I have seldom had a franker or more forthright discussion w
 5 Asking if the Australian Government could do anything to help Wilson. 
 
 6 At a Parliamentary Labour Party meeting on 15 June I 966, the motion calling for a withdrawal from East of Suez and a reduction in defence expenditure was defeated by 225 votes to 54 with reportedly 50 abstentions.
+
+[NAA: A1945, 287/3/24]

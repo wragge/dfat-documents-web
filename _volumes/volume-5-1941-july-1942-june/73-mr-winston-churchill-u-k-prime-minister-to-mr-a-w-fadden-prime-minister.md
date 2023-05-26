@@ -1,14 +1,19 @@
 ---
-title: "73 Mr Winston Churchill, U.K. Prime Minister, to Mr A. W. Fadden, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1827
+doc_date: '1941-09-30'
+doc_num: 73
+doc_order: 74
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO:DO 35/1009, ii]'
+title: Mr Winston Churchill, U.K. Prime Minister, to Mr A. W. Fadden, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-09-30
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 73 Mr Winston Churchill, U.K. Prime Minister, to Mr A. W. Fadden, Prime Minister
-
-## Cablegram Winch 1 LONDON, 30 September 1941, 1.15 a.m.
+Cablegram Winch 1 LONDON, 30 September 1941, 1.15 a.m.
 
 1 I think I ought to let you know for your most secret information about Tobruk that Lyttelton [1] and I only with difficulty prevented General Auchinleck [2] from resigning his command on the grounds that the Australian Government had no confidence in his Military judgment. Had your decision [3] been based on political grounds he would not have felt the want of confidence implied.
 
@@ -20,7 +25,7 @@ Therefore we feel we are entitled to count upon Australia to make every sacrific
 
 WINSTON S. CHURCHILL
 
-_
+ _
 
 1 U.K. Minister of State resident in the Middle East.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [PRO:DO 35/1009, ii]_
+ _[PRO:DO 35/1009, ii]_

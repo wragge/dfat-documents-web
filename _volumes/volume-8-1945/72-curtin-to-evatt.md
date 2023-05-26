@@ -1,12 +1,18 @@
 ---
-title: "72 Curtin to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3103
+doc_date: '1945-04-16'
+doc_num: 72
+doc_order: 72
+naa_refs:
+- naa_barcode: 4148008
+  naa_control_symbol: 1945/17
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, FOLDER, OUTWARDS TO AUSTRALIAN DELEGATION SAN FRANCISCO
+    (AND LONDON), 0.9717]'
+title: Curtin to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-04-16
+vol_title: 'Volume 8: 1945'
 ---
-
-# 72 Curtin to Evatt
 
 Cablegram 29 CANBERRA, 16 April 1945
 
@@ -22,7 +28,7 @@ In the circumstances, best course seems to be to make clear to Chileans that our
 
 [2]
 
-_ FRANCISCO (AND LONDON), 0.9717]
+ _
 
 1 Document 70 was repeated to Evatt in London as EL6.
 
@@ -30,4 +36,4 @@ _ FRANCISCO (AND LONDON), 0.9717]
 
 _
 
-_ [AA : A3196, 1945, FOLDER, OUTWARDS TO AUSTRALIAN DELEGATION SAN_
+ _[AA : A3196, 1945, FOLDER, OUTWARDS TO AUSTRALIAN DELEGATION SAN FRANCISCO (AND LONDON), 0.9717]_

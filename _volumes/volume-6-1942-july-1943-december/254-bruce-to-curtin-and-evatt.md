@@ -1,12 +1,17 @@
 ---
-title: "254 Bruce to Curtin and Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2545
+doc_date: '1943-08-06'
+doc_num: 254
+doc_order: 254
+naa_refs:
+- naa_barcode: 637523
+  naa_control_symbol: WAR 41 PART 1
+  naa_series: A981
+  reference: '[AA:A981, WAR 41B]'
+title: Bruce to Curtin and Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-08-06
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 254 Bruce to Curtin and Evatt
 
 Cablegram S147 [1] LONDON, 6 August 1943, 8.20 p.m.
 
@@ -30,7 +35,7 @@ Dr. Soong said that while China had never doubted British intentions, she was pr
 
 A temporary bridge, he continued, could be erected quickly to repair the only break in the Road at the present time, i.e. at Salween River, and according to a United States estimate 100,000 tons per month could pass over the Road within a few months of re- opening. (This figure appears to me fantastic but apparently no- one challenged it.) Admiral Helfrich said when he was in Australia in April Japanese attack on Darwin had seemed likely. Though likelihood had now receded, possibility still existed and it was of great importance that Darwin should be developed as a naval base and its inland communications improved. It would be comparatively easy for the Japanese to isolate Darwin. Japanese sea communications were admittedly vulnerable but in view of the tenacity and fanatic fighting spirit of the Japanese he did not think it would be possible to defeat Japan merely by cutting their sea communications or by air attack. The Japanese had shown themselves hard fighters, fighting to the last man.
 
-_
+ _
 
 1 Sent through the External Affairs Office in London.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A981, WAR 41B]_
+ _[AA:A981, WAR 41B]_

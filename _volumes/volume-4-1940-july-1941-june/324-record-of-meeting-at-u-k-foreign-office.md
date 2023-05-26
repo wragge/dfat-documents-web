@@ -1,12 +1,18 @@
 ---
-title: "324 Record of Meeting at U.K. Foreign Office"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1555
+doc_date: '1941-02-26'
+doc_num: 324
+doc_order: 324
+naa_refs:
+- naa_barcode: 640856
+  naa_control_symbol: 629/2
+  naa_series: A5954
+  reference: '[DEFENCE: SPECIAL COLLECTION I, BOX 629, PRIME MINISTER''S VISIT TO
+    UNITED KINGDOM, 1941. DISCUSSIONS ON BRIEF, PART I (i)-POLITICAL]'
+title: Record of Meeting at U.K. Foreign Office
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-26
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 324 Record of Meeting at U.K. Foreign Office
 
 LONDON, 26 February 1941, 3.30 p.m.
 
@@ -104,7 +110,7 @@ MR. MENZIES said that it was his practice to recognise facts. He thought it a pi
 
 MR. BUTLER thought it would be unwise not to be sympathetic towards the Thai claims and he felt that we should not allow General de Gaulle's feelings to wreck our policy. He thought that the matter must be handled in such a way as not to antagonise the Thais.
 
-_ UNITED KINGDOM, 1941. DISCUSSIONS ON BRIEF, PART I (i)-POLITICAL]
+ _
 
 1 Jonkheer Dr A. W. L. Tjarda van Starkenborgh Stachouwer.
 
@@ -124,4 +130,4 @@ _ UNITED KINGDOM, 1941. DISCUSSIONS ON BRIEF, PART I (i)-POLITICAL]
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION I, BOX 629, PRIME MINISTER'S VISIT TO_
+ _[DEFENCE: SPECIAL COLLECTION I, BOX 629, PRIME MINISTER'S VISIT TO UNITED KINGDOM, 1941. DISCUSSIONS ON BRIEF, PART I (i)-POLITICAL]_

@@ -1,12 +1,18 @@
 ---
-title: "526 Quinn to Burton"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6695
+doc_date: '1949-11-03'
+doc_num: 526
+doc_order: 526
+naa_refs:
+- naa_barcode: 1844159
+  naa_control_symbol: 305/1/1/1 PART 2
+  naa_series: A8108
+  reference: '[AA : A8108/2, 305/1/1, ii]'
+title: Quinn to Burton
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-11-03
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 526 Quinn to Burton
 
 Memorandum Hague 335/49 THE HAGUE, 3 November 1949
 
@@ -38,7 +44,7 @@ i) Draft Agreement 'for the effectuation of articles 2 and 21 of the Union-Statu
 
 5\. The business of the meeting proceeded smoothly and brought no surprises. The chairman read out a letter which he had received from Mr. P. Blauw, leader of the Netherlands Minorities in Indonesia, stating that the representatives of his group had decided not to be present at the final Plenary Session on the grounds that they could not at this stage influence the course of events and did not wish to give the impression by their presence that they assented to the agreements reached. The chairman pointed out briefly that the views of this group had been thoroughly considered in committee and that while he regretted the absence of its representatives, he felt that their viewpoint had received all the attention it deserved.
 
-_
+ _
 
 1 Dispatched on 2 November, it reported that the Round Table Conference had ended with a Plenary Session.
 
@@ -50,4 +56,4 @@ _
 
 _
 
-_ [AA : A8108/2, 305/1/1, ii]_
+ _[AA : A8108/2, 305/1/1, ii]_

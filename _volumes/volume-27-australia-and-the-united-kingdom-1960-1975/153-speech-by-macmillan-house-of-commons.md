@@ -1,14 +1,17 @@
 ---
-title: "153 SPEECH BY MACMILLAN, HOUSE OF COMMONS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10018
+doc_date: '1961-07-31'
+doc_num: 153
+doc_order: 153
+naa_refs:
+- naa_barcode: 584008
+  naa_control_symbol: 727/4/2 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 1]'
+title: SPEECH BY MACMILLAN, HOUSE OF COMMONS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-07-31
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 153 SPEECH BY MACMILLAN, HOUSE OF COMMONS
-
-NAA: A1838, 727/4/2 PART 1
 
 London, 31 July 1961
 
@@ -39,3 +42,5 @@ If, as I earnestly hope, our offer to enter into negotiations with the European 
 No agreement will be entered into until it has been approved by the House after full consultation with other Commonwealth countries by whatever procedure they may generally agree.
 
 1 On 19 July, Macmillan had informed the European Economic Association Committee of Cabinet that a decision could not be postponed any longer. ‘No–one’, he said, ‘wanted the uncertainty to continue’, and public opinion in the United Kingdom, the Commonwealth, and EFTA ‘now expected us to enter into negotiations with the Community’ (UKNA: CAB 134/1821, 5th meeting of Cabinet European Economic Association Committee, 19 July 1961). The formal decision to enter into EEC membership negotiations with the Six was taken by the full Cabinet two days later on 21 July 1961. Macmillan chose the eve of the summer parliamentary recess on 31 July 1961 to inform the House of Commons of his government’s decision. See UKNA: CAB 128/35 part 1, Cabinet minute, 21 July, 1961.
+
+[NAA: A1838, 727/4/2 PART 1]

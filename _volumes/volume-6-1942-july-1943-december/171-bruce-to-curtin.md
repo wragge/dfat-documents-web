@@ -1,12 +1,17 @@
 ---
-title: "171 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2462
+doc_date: '1943-05-01'
+doc_num: 171
+doc_order: 171
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: M100
+  reference: '[AA:M100 1943]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-01
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 171 Bruce to Curtin
 
 Cablegram 86A LONDON, 1 May 1943
 
@@ -54,7 +59,7 @@ A great deal of good and clear thinking has been done here but on a level below 
 
 BRUCE
 
-_
+ _
 
 1 Document 167.
 
@@ -64,4 +69,4 @@ _
 
 _
 
-_ [AA:M100 1943]_
+ _[AA:M100 1943]_

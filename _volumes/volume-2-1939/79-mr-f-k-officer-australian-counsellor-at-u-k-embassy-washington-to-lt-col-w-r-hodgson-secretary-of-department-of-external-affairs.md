@@ -1,14 +1,20 @@
 ---
-title: "79 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 416
+doc_date: '1939-05-05'
+doc_num: 79
+doc_order: 79
+naa_refs:
+- naa_barcode: 235473
+  naa_control_symbol: '1'
+  naa_series: A3300
+  reference: '[FA:AA 1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]'
+title: Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Lt Col
+  W.R. Hodgson, Secretary of Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-05
+vol_title: 'Volume 2: 1939'
 ---
 
-# 79 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs
-
-Letter P &amp; C 13139 (extracts) WASHINGTON, 5 May 1939
+Letter P & C 13139 (extracts) WASHINGTON, 5 May 1939
 
 PERSONAL AND CONFIDENTIAL
 
@@ -22,7 +28,7 @@ First of all, it is now not much use a Minister arriving here until the latter h
 
 F. KEITH OFFICER
 
-_
+ _
 
 1 Not printed (see ANL: Officer MS 2629/1/718-20).
 
@@ -36,4 +42,4 @@ _
 
 _
 
-_ [FA:AA 1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]_
+ _[FA:AA 1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]_

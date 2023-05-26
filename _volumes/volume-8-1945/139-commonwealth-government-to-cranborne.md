@@ -1,12 +1,17 @@
 ---
-title: "139 Commonwealth Government to Cranborne"
-volume: "Volume 8: 1945"
-doc_id: 3170
+doc_date: '1945-07-24'
+doc_num: 139
+doc_order: 139
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, Box 603]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-07-24
+vol_title: 'Volume 8: 1945'
 ---
-
-# 139 Commonwealth Government to Cranborne
 
 Cablegram 199 CANBERRA, 24 July 1945
 
@@ -30,7 +35,7 @@ Instructions were issued by the Commander-in-Chief, Allied Land Forces, with con
 
 4\. In view of the above, Commonwealth Government desires that the United Kingdom should arrange for the replacement of Australian personnel in the unit at the earliest possible date. [4]
 
-_
+ _
 
 1 On file AA : A816, 101/302/6.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA : A5954, Box 603]_
+ _[AA : A5954, Box 603]_

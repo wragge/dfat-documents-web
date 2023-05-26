@@ -1,17 +1,21 @@
 ---
-title: "241 Submission, Dishon To IDCC"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9749
+doc_date: '1968-11-15'
+doc_num: 241
+doc_order: 241
+naa_refs:
+- naa_barcode: 3118091
+  naa_control_symbol: 1969/2889
+  naa_series: A452
+  reference: '[NAA: A452, 1969/2889]'
+title: Submission, Dishon To IDCC
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-11-15
-barcode: 3118091
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 241 Submission, Dishon To IDCC
 
 Port Moresby, 15 November 1968
 
-**Local Government Councils—East New Britain District**
+ **Local Government Councils—East New Britain District**
 
 1\. Purpose And Reason For Bringing To The Administrator
 
@@ -39,17 +43,17 @@ Port Moresby, 15 November 1968
 
 2.2.7 Two men from Barawon and Vunamurmur, claiming to speak for 300 residents of Raluana opposed to their inclusion, visited Port Moresby and sought to have His Honour appoint a Luluai to represent the non-Council section of Raluana. This request was refused and, in the subsequent elections, though about 50% of the eligible voters refrained from voting, no incidents occurred. Later, 121 of 174 persons liable for tax paid their tax on demand and a further 14 paid soon after the issue of summons. The remaining defaulters paid following police action on failure to answer the summons issued. A minor disturbance occurred when a Council process server was assaulted by a large group of people from villages outside Raluana, which resulted in 17 defendants being given suspended sentences of six months imprisonment and put on good behaviour bonds for 12 months.
 
-2.2.8 On 27th July, 19672 the Gazelle Peninsula Council passed a further resolution seeking to reconstitute the Council as a multi-racial authority to include all alienated rural land, together with the townships of Kokopo, Warangoi and Kerevat and the remaining non-Council villages.
+2.2.8 On 27th July, 1967[2](#f2) the Gazelle Peninsula Council passed a further resolution seeking to reconstitute the Council as a multi-racial authority to include all alienated rural land, together with the townships of Kokopo, Warangoi and Kerevat and the remaining non-Council villages.
 
 2.2.9 A survey of non-indigenous residents, including mission, plantation and others revealed that these people were largely in favour of the proposal and no dissent has since been voiced. Non-indigenous persons number some 1 ,074.
 
-2.2.10 The District Commissioner, 3 in supporting this proposal, commented that:
+2.2.10 The District Commissioner, [3](#f3) in supporting this proposal, commented that:
 
 > ‘The action taken by the Council at Raluana makes it obvious that, if the Council is resolute in its endeavours to collect taxation, and the Administration supports Council action, then introduction of local government to the present non-Council groups can be achieved. That this theory is tenable is highlighted by the Administration action of some years ago in regard to the refusal of the Nualim people to pay tax or take part in Council activities. Positive action by the Council and the Administration in this instance resulted in the Nualim people becoming strongly pro-Council and one of the most co-operative villages in the Duke of York Islands.
 > 
 > I request that you give favourable consideration to the establishment of a multi-racial Gazelle Peninsula Council, and that your favourable recommendation be given when the matter is considered by the Executive Council. I reiterate that it is essential that this Proclamation and the Proclamation covering the Duke ofYork Council be made simultaneously. It is my opinion that, with local resources at our disposal, the Administration, assisting the Council, would be able to surmount any difficulties of overt opposition which could possibly arise’.
 
-[matter omitted] 4
+[matter omitted] [4](#f4)
 
 3\. Summary
 
@@ -63,7 +67,7 @@ s reaction would tend to endorse the view that those opposed would more readily 
 
 3.4 Additional to the policy issue, there is the likelihood of an outbreak of civil disorder which could be more difficult to contain than in the Gazelle Peninsula. There is no police detachment in the Duke of York Islands and, if any problems did occur with extension to the mainland villages, simultaneous involvement in the Duke of Yorks is a possibility which would exacerbate the position in respect to restoring or maintaining order.
 
-_4\. Recommendations_
+ _4\. Recommendations_
 
 4.1 The institution of a definite plan of action has assumed increasing importance with the Council
 
@@ -75,7 +79,7 @@ s desire to unify the area by the inclusion of all persons presently not within 
 
 (c) Once this has been successfully accomplished, it be indicated to the remaining groups on the Duke of Yorks that they have the option of voluntarily participating in a separate Council established for their area or being encompassed within the boundaries of the Gazelle Peninsula Council as a residual minority.
 
-[ [NAA: A452, 1969/2889](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3118091) ]
+[NAA: A452, 1969/2889]
 
 1 W.R. Dishon, Acting Director of District Administration.
 

@@ -1,22 +1,27 @@
 ---
-title: "124 Letter, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9632
+doc_date: '1967-06-23'
+doc_num: 124
+doc_order: 124
+naa_refs:
+- naa_barcode: 31698758
+  naa_control_symbol: 1970/4519
+  naa_series: A452
+  reference: '[NAA: A452, I 970/45 I 9]'
+title: Letter, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-06-23
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 124 Letter, Hay To Warwick Smith
 
 Port Moresby, 23 June 1967
 
-The completion of the final report of the Select Committee on Constitutional Development1 and its passage by the House of Assembly make it necessary for the Administration to give early thought to any reorganisation that will be needed by 1968 in order to serve the new constitutional arrangements. You will recall that I had previously felt it necessary to withhold comment until this stage was reached. Assuming that the Government accepts the greater part of the Select Committee’s report, the following would seem to me to be the main implications from an organisational point of view:—
+The completion of the final report of the Select Committee on Constitutional Development[1](#f1) and its passage by the House of Assembly make it necessary for the Administration to give early thought to any reorganisation that will be needed by 1968 in order to serve the new constitutional arrangements. You will recall that I had previously felt it necessary to withhold comment until this stage was reached. Assuming that the Government accepts the greater part of the Select Committee’s report, the following would seem to me to be the main implications from an organisational point of view:—
 
 (a) _Administrator’s Council_
 
-It is likely that more work will come to the Council. We should, perhaps, anticipate weekly meetings. There is nothing in the Committee’s report which would necessarily extend the area in which the Council would be obliged or would wish to give formal advice to the Administrator. Nevertheless, the number and the scope of the topics for discussion would be greater than it is in 1967. I would see advantage in a greater formalisation of the existing procedure for consultation. For the most part, consultation at present is done either on the basis of oral presentations or on the basis of informal papers. From 1968, it would be desirable to present formal papers for discussion to the Council, though not in all cases. They should gradually take on more the form of a Cabinet submission. The papers would not seek ‘advice’ in the formal sense. The records would show only a consensus of opinion rather than a decision. Matters would come up for consideration by the Administrator’s Council both from the Administrator himself (the paper being prepared by Secretariat Services), from the I.D.C.C. (see below) and, in some cases, from the Ministers themselves. The latter case would only arise after discussion between a Minister and the Administrator. It would not bring in question the procedure envisaged in Section 20(a) of the Papua and New Guinea Act.2 This refers only to matters on which formal ‘advice’ is required. So far as membership of the Administrator’s Council is concerned, I would propose, as from the retirement of Mr. J.K. McCarthy, to nominate the Treasurer as the third official member. I would also propose to invite Assistant Ministers to be present at the Council when matters affecting their Departments are under consideration. There might also be occasions, as with the consideration of the Budget, when it would be desirable to invite all Assistant Ministers to be present.
+It is likely that more work will come to the Council. We should, perhaps, anticipate weekly meetings. There is nothing in the Committee’s report which would necessarily extend the area in which the Council would be obliged or would wish to give formal advice to the Administrator. Nevertheless, the number and the scope of the topics for discussion would be greater than it is in 1967. I would see advantage in a greater formalisation of the existing procedure for consultation. For the most part, consultation at present is done either on the basis of oral presentations or on the basis of informal papers. From 1968, it would be desirable to present formal papers for discussion to the Council, though not in all cases. They should gradually take on more the form of a Cabinet submission. The papers would not seek ‘advice’ in the formal sense. The records would show only a consensus of opinion rather than a decision. Matters would come up for consideration by the Administrator’s Council both from the Administrator himself (the paper being prepared by Secretariat Services), from the I.D.C.C. (see below) and, in some cases, from the Ministers themselves. The latter case would only arise after discussion between a Minister and the Administrator. It would not bring in question the procedure envisaged in Section 20(a) of the Papua and New Guinea Act.[2](#f2) This refers only to matters on which formal ‘advice’ is required. So far as membership of the Administrator’s Council is concerned, I would propose, as from the retirement of Mr. J.K. McCarthy, to nominate the Treasurer as the third official member. I would also propose to invite Assistant Ministers to be present at the Council when matters affecting their Departments are under consideration. There might also be occasions, as with the consideration of the Budget, when it would be desirable to invite all Assistant Ministers to be present.
 
-(b) _Interdepartmental Co-ordinating Committee3_
+(b) _Interdepartmental Co-ordinating Committee[3](#f3)_
 
 In the long term, this Committee will increasingly have to work to the Administrator’s Council. For the immediate future, the Committee should continue to work on present lines but with its recommendations increasingly taken to the Administrator’s Council before final consideration by the Administrator. The question will no doubt arise as to the attendance of Assistant Ministers and Ministers at the Interdepartmental Co-ordinating Committee meetings. I think this should be discouraged but that Departmental Heads should make a practice of consulting their Minister or Assistant Minister on matters which are to be considered at the Committee so that they will not find themselves having expressed views which are later found to be unacceptable to the Minister or Assistant Minister. Otherwise, the Administrator’s Council will become a place in which Ministers tend to override their Departmental Heads rather than consider matters of policy from an objective point of view.
 
@@ -33,7 +38,7 @@ An area of possible conflict was seen by the Constitutional Committee between De
 
 (d) _Position of Administrator and Assistant Administrators_
 
-There is no constitutional change in immediate prospect affecting the role of the Administrator. The Assistant Administrators at present carry too heavy a burden. In part this should be relieved, as suggested above, by a greater delegation of authority to Departmental Heads. But the role of Assistant Administrators needs to be seen against a background of a gradual evolution of the Administrator and his office and the Administrator’s Department towards, in the long term, a Prime Minister’s office or Department.4 The functions of the Administrator’s Department will probably remain constitutionally what they are now, namely to assist the Administrator in his duty of administering the Government of the Territory on behalf of the Commonwealth. But its organisation should be such as to enable it gradually to cope with such normal functions of a Prime Minister’s Department as:—
+There is no constitutional change in immediate prospect affecting the role of the Administrator. The Assistant Administrators at present carry too heavy a burden. In part this should be relieved, as suggested above, by a greater delegation of authority to Departmental Heads. But the role of Assistant Administrators needs to be seen against a background of a gradual evolution of the Administrator and his office and the Administrator’s Department towards, in the long term, a Prime Minister’s office or Department.[4](#f4) The functions of the Administrator’s Department will probably remain constitutionally what they are now, namely to assist the Administrator in his duty of administering the Government of the Territory on behalf of the Commonwealth. But its organisation should be such as to enable it gradually to cope with such normal functions of a Prime Minister’s Department as:—
 
 > Policy formulation
 > 
@@ -85,7 +90,7 @@ Economic Development Advisory Committee
 I.D.C.C.  
 Land Development Board  
 Tariff Board  
-‘Campbell’ Committee5  
+‘Campbell’ Committee[5](#f5)  
 Housing Policy Committee  
 University, High Tech. and Admin. Staff College Councils  
   

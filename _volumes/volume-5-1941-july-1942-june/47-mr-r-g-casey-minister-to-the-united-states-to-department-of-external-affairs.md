@@ -1,14 +1,19 @@
 ---
-title: "47 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1801
+doc_date: '1941-08-15'
+doc_num: 47
+doc_order: 48
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3830, 1941, 2202]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-15
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 47 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
-
-## Cablegram 642 WASHINGTON, 15 August 1941, 7.41 p.m.
+Cablegram 642 WASHINGTON, 15 August 1941, 7.41 p.m.
 
 I saw the Secretary of War' today and stressed the significance of Thailand and of reinforcing the Philippines as in my telegram No.
 
@@ -26,7 +31,7 @@ I believe at one or other Conferences at Singapore six or nine months ago the ma
 
 CASEY
 
-_
+ _
 
 1 H. L. Stimson.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A3830, 1941, 2202]_
+ _[AA:A3830, 1941, 2202]_

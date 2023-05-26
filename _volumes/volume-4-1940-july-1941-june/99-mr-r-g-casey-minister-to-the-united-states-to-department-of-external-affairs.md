@@ -1,14 +1,19 @@
 ---
-title: "99 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1330
+doc_date: '1940-09-03'
+doc_num: 99
+doc_order: 99
+naa_refs:
+- naa_barcode: 179621
+  naa_control_symbol: PAC 11 PART 1
+  naa_series: A981
+  reference: '[AA:A981, PACIFIC II, i]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-09-03
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 99 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
-
-## Cablegram 240 WASHINGTON, 3 September 1940, 9.24 p.m.
+Cablegram 240 WASHINGTON, 3 September 1940, 9.24 p.m.
 
 Repeated to London No. 80.
 
@@ -22,10 +27,10 @@ It would be valuable for me to have from you the views of the Government defence
 
 CASEY
 
-_
+ _
 
 1 U.S. Assistant Secretary of State.
 
 _
 
-_ [AA:A981, PACIFIC II, i]_
+ _[AA:A981, PACIFIC II, i]_

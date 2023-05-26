@@ -1,12 +1,18 @@
 ---
-title: "91 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 857
+doc_date: '1940-03-06'
+doc_num: 91
+doc_order: 91
+naa_refs:
+- naa_barcode: 280053
+  naa_control_symbol: '252'
+  naa_series: A2937
+  reference: '[AA: A2937, THAILAND]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr S. M. Bruce,
+  High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-06
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 91 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr S. M. Bruce, High Commissioner in London
 
 Letter LONDON, 6 March 1940
 
@@ -32,7 +38,7 @@ His Majesty's Ambassador at Paris [6] has now reported that the French Minister 
 
 ANTHONY EDEN
 
-_
+ _
 
 1 This appears to refer to the approach reported by Bruce in his cablegram of 26 January 1940 (Document 35).
 
@@ -52,4 +58,4 @@ _
 
 _
 
-_ [AA: A2937, THAILAND]_
+ _[AA: A2937, THAILAND]_

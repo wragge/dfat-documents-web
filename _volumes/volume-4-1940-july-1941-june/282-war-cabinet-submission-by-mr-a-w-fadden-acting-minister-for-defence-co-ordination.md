@@ -1,12 +1,17 @@
 ---
-title: "282 War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defence Co-ordination"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1513
+doc_date: '1941-02-11'
+doc_num: 282
+doc_order: 282
+naa_refs:
+- naa_barcode: 11337397
+  naa_control_symbol: 61/1941
+  naa_series: A2671
+  reference: '[AA:A2671, 61/1941 AND SUPPLEMENT 1]'
+title: War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defence Co-ordination
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-11
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 282 War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defence Co-ordination
 
 Agendum 61/1941 11 February 1941
 
@@ -52,7 +57,7 @@ Submission to War Cabinet 8. The proposals of the United Kingdom Government for 
 
 A. W. FADDEN
 
-_
+ _
 
 1 Anti-submarine.
 
@@ -60,7 +65,7 @@ _
 
 3 Lord Cranborne.
 
-4 &amp; 5 Not printed. See AA:A2671, 61/1941.
+4  & 5 Not printed. See AA:A2671, 61/1941.
 
 6 Not printed. See AA:A2671, 61/1941 for the text of Annex C and for War Cabinet Minute 790 of 12 February which contained amendments to the Chiefs of Staff's draft. The cablegram which was finally sent to Cranborne is printed as Document 285.
 
@@ -70,4 +75,4 @@ The earlier suggestion for Defence talks at Singapore will afford an opportunity
 
 _
 
-_ [AA:A2671, 61/1941 AND SUPPLEMENT 1]_
+ _[AA:A2671, 61/1941 AND SUPPLEMENT 1]_

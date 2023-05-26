@@ -1,12 +1,18 @@
 ---
-title: "333 Curtin to MacArthur"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2624
+doc_date: '1943-11-22'
+doc_num: 333
+doc_order: 333
+naa_refs:
+- naa_barcode: 853963
+  naa_control_symbol: '144'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, ADVISORY WAR COUNCIL SECTION FILE (COMBINED
+    WITH 65/301/118), ROLE OF THE AUSTRALIAN FORCES IN PACIFIC 1943-1945]'
+title: Curtin to MacArthur
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-11-22
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 333 Curtin to MacArthur
 
 Letter CANBERRA, 22 November 1943
 
@@ -36,7 +42,7 @@ The splendid progress of your operations has been the subject of some thought on
 
 JOHN CURTIN
 
-_ 1 For the text of MacArthur's Directive see cablegram S22 of 3 April 1942 on file AA:A3300, 233.
+ _1 For the text of MacArthur's Directive see cablegram S22 of 3 April 1942 on file AA:A3300, 233.
 
 2 The Defence (Citizen Military Forces) Act, which became law on 19 February 1943, provided that troops conscripted into the C.M.F.
 
@@ -54,4 +60,4 @@ Special Collection II, Advisory War Council Section file (combined with 65/301/1
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, ADVISORY WAR COUNCIL SECTION FILE (COMBINED WITH 65/301/118), ROLE OF THE AUSTRALIAN FORCES IN PACIFIC 1943-1945]_
+ _[DEFENCE: SPECIAL COLLECTION II, ADVISORY WAR COUNCIL SECTION FILE (COMBINED WITH 65/301/118), ROLE OF THE AUSTRALIAN FORCES IN PACIFIC 1943-1945]_

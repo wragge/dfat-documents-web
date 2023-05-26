@@ -1,12 +1,18 @@
 ---
-title: "479 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6648
+doc_date: '1949-09-03'
+doc_num: 479
+doc_order: 479
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3094
+  reference: '[AA : A3094/1, 2/1]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-09-03
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 479 Critchley to Department of External Affairs
 
 Cablegram C7 THE HAGUE, [3 September 1949], 2.50 p.m.
 
@@ -24,10 +30,10 @@ So far there has been little progress or indeed discussion of the basic issues o
 
 6\. In view of the danger that unfavourable reports from Indonesia could be used by the diehards to wreck the conference, it is most desirable that all joint committees and zones of patrol be established without delay. Special efforts should also be made to ensure that military observers gather first hand information as to the situation in east and central Java. It may be desirable to make a detailed report when the facts are available so that special publicity can be given to the favourable aspects of the cease-hostilities implementation.
 
-_
+ _
 
 1 The UN General Assembly.
 
 _
 
-_ [AA : A3094/1, 2/1]_
+ _[AA : A3094/1, 2/1]_

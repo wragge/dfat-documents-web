@@ -1,12 +1,17 @@
 ---
-title: "490 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2244
+doc_date: '1942-05-17'
+doc_num: 490
+doc_order: 491
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT C]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-05-17
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 490 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram 4501 LONDON, 17 May 1942, 4.30 a.m.
 
@@ -46,7 +51,7 @@ Be sure that Churchill fully understands the overwhelming pressure to which any 
 
 EVATT
 
-_
+ _
 
 1 Document 487.
 
@@ -70,4 +75,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT C]_
+ _[AA:A981, WAR 33, ATTACHMENT C]_

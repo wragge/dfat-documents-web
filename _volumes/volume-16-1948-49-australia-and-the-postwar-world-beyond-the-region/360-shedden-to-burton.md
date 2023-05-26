@@ -1,12 +1,17 @@
 ---
-title: "360 Shedden to Burton"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7075
+doc_date: '1948-04-07'
+doc_num: 360
+doc_order: 360
+naa_refs:
+- naa_barcode: 424862
+  naa_control_symbol: AS3/1 SECTION 6
+  naa_series: A6691
+  reference: '[AA : A6691, AS3/1, SECTION 6]'
+title: Shedden to Burton
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-04-07
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 360 Shedden to Burton
 
 Letter, CANBERRA, 7 April 1948
 
@@ -28,8 +33,8 @@ Mr. Milner later obtained Paper PHP(45)6(0) again, and had it from 6th March 194
 
 3\. Dr. Evatt suggested, at a Conference with the Prime Minister this morning, that I should communicate the above to you in order that you could look into the matter in so far as your Department is concerned, and submit a report to your Minister. I also enclose Copy No. 109 of Paper PHP(45)6(0) Final, and shall be glad if you will return it in due course.[1]
 
-_ [1] Burton sent an interim reply on 9 April asking 'what has occurred recently to raise the matter of a leakage which took place some years ago? In what form did the leakage take place?'.
+ _[1] Burton sent an interim reply on 9 April asking 'what has occurred recently to raise the matter of a leakage which took place some years ago? In what form did the leakage take place?'.
 
 _
 
-_ [AA : A6691, AS3/1, SECTION 6]_
+ _[AA : A6691, AS3/1, SECTION 6]_

@@ -1,12 +1,18 @@
 ---
-title: "408 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2162
+doc_date: '1942-03-13'
+doc_num: 408
+doc_order: 409
+naa_refs:
+- naa_barcode: 239455
+  naa_control_symbol: 474/1
+  naa_series: A5954
+  reference: '[AA:MP1217, BOX 474, DR H. V. EVATT ... VISIT TO UNITED ''KINGDOM AND
+    U.S.A.-1942]'
+title: Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-13
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 408 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
 
 Cablegram Johcu 24 CANBERRA, 13 March 1942
 
@@ -20,10 +26,10 @@ I desire to inform you that Dr. H. V. Evatt, Minister for External Affairs and A
 
 CURTIN
 
-_ AND U.S.A.-1942]
+ _
 
 1 Evatt left Sydney on 13 March, reached San Francisco on 17 March and arrived in Washington on 19 March.
 
 _
 
-_ [AA:MP1217, BOX 474, DR H. V. EVATT ... VISIT TO UNITED 'KINGDOM_
+ _[AA:MP1217, BOX 474, DR H. V. EVATT ... VISIT TO UNITED 'KINGDOM AND U.S.A.-1942]_

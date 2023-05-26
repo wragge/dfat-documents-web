@@ -1,11 +1,17 @@
 ---
-title: "237 Walker to Australian Government"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6952
+doc_date: '1949-08-03'
+doc_num: 237
+doc_order: 237
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, I.11529]'
+title: Walker to Australian Government
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 237 Walker to Australian Government
 
 Cablegram 122, GENEVA, [3] August 1949, 11.34 p.m.
 
@@ -17,8 +23,8 @@ IMMEDIATE RESTRICTED
 
 3\. Since only nine working days remain for the present session of the Council you will appreciate the difficulty of delaying the debate on joint resolution. In all circumstances I think we should accept the invitation for joint sponsorship.
 
-_ [1] The resolution also requested the Secretary-General to publish reports on measures taken in various countries to achieve full employment.
+ _[1] The resolution also requested the Secretary-General to publish reports on measures taken in various countries to achieve full employment.
 
 _
 
-_ [AA : A3195, I.11529]_
+ _[AA : A3195, I.11529]_

@@ -1,12 +1,17 @@
 ---
-title: "143 Shedden to Forde"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3655
+doc_date: '1946-03-26'
+doc_num: 143
+doc_order: 143
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 1645]'
+title: Shedden to Forde
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-03-26
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 143 Shedden to Forde
 
 Note [MELBOURNE], 26 March 1946
 
@@ -22,8 +27,8 @@ Pervasive of the whole question of Post-War Defence Policy is the impact of scie
 
 As recently announced, the Government is setting up a Scientific Advisory Committee in the Higher Defence Machinery and is being represented by a strong delegation at the Empire Defence Science Conference to be held in London about the middle of the year. As also announced, the Government has approved of proposals relating to Empire Co-operation in the exchange of personnel and information on matters of research, design and development of munitions. All these steps should lead to the conclusion of arrangements whereby Australia will be kept abreast of scientific developments, including atomic energy, and be able to play an appropriate part in the solution of the problems relating to their application to defence. In the opinion of the Government's Advisers, the attainment of this stage is an essential preliminary to the determination of Post-War Policy. They are giving continuous study to this vital matter and will submit their views for the Government's consideration as soon as they are in a position to do so.
 
-_
+ _
 
 _
 
-_ [AA:A5954, BOX 1645]_
+ _[AA:A5954, BOX 1645]_

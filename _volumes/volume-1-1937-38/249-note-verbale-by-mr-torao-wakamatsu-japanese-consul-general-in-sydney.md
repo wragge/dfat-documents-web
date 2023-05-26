@@ -1,12 +1,17 @@
 ---
-title: "249 Note verbale by Mr Torao Wakamatsu, Japanese Consul-General in Sydney"
-volume: "Volume 1: 1937-38"
-doc_id: 248
+doc_date: '1938-09-08'
+doc_num: 249
+doc_order: 248
+naa_refs:
+- naa_barcode: 172906
+  naa_control_symbol: AUS 90 PART 1
+  naa_series: A981
+  reference: '[AA : A981, AUSTRALIA 90B, i]'
+title: Note verbale by Mr Torao Wakamatsu, Japanese Consul-General in Sydney
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-08
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 249 Note verbale by Mr Torao Wakamatsu, Japanese Consul-General in Sydney
 
 SYDNEY, 8 September 1938
 
@@ -42,7 +47,7 @@ For the present, only South Australia should be taken into consideration in conn
 
 8\. It is the most earnest desire of the Japanese Government that, in the interests of the long-standing friendly relations between Japan and Australia, the Commonwealth Government, appreciating the sincere intention and conciliatory attitude of the Japanese Government, will give full and favourable consideration to the compromising proposal as above set forth, in order that the issue may be amicably settled.
 
-_
+ _
 
 1 J. A. Lyons.
 
@@ -114,4 +119,4 @@ K. FUJIMURA
 
 _
 
-_ [AA : A981, AUSTRALIA 90B, i]_
+ _[AA : A981, AUSTRALIA 90B, i]_

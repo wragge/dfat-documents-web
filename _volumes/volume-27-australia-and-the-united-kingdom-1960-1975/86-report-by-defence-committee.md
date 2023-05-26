@@ -1,14 +1,17 @@
 ---
-title: "86 REPORT BY DEFENCE COMMITTEE"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9951
+doc_date: '1967-08-24'
+doc_num: 86
+doc_order: 86
+naa_refs:
+- naa_barcode: 12249540
+  naa_control_symbol: VOLUME 14
+  naa_series: A5842
+  reference: '[NAA: A5842 VOLUME 14]'
+title: REPORT BY DEFENCE COMMITTEE
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-08-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 86 REPORT BY DEFENCE COMMITTEE
-
-NAA: A5842 VOLUME 14
 
 Canberra, 24 August 1967
 
@@ -61,7 +64,7 @@ The preservation of the security and political stability of South East Asia is a
 
 6\. The United States strategic intentions, particularly at the conclusion of hostilities in Vietnam, would be crucial and would ultimately determine the fundamental nature of the Australian strategy itself.
 
-_Future British strategy and implications for Australia_
+ _Future British strategy and implications for Australia_
 
 7\. The British decisions of July 1967 for the withdrawal of British forces from their stations in Malaysia and Singapore provide for a reduction of about half the forces deployed there by 1970–71 and complete withdrawal from the bases in the middle 1970s. The British White Paper stated that Britain would continue to honour her obligations under SEATO and the Anglo/Malaysian Defence Agreement, but there would be changes in the way this would be done. The indications are that Britain plans to continue to provide some naval and air support for the area east of Suez even after its final withdrawal from Malaysia and Singapore. Should ground support be required this will have to be sent from the United Kingdom.
 
@@ -69,21 +72,21 @@ _Future British strategy and implications for Australia_
 
 9\. The British decision to withdraw from Malaysia and Singapore will remove its physical presence from South East Asia and replace it with what Mr. Healey has called a strategy of peripheral defence. Though Britain may not withdraw altogether from SEATO, it is unlikely that she will maintain an effective contribution to SEATO plans. Even in the short term, British assistance is likely to be limited to the defence of peninsular Malaya and Singapore. We envisage that the Commonwealth Strategic Reserve will progressively diminish and will cease to exist before the final British withdrawal.
 
-_Possible British use of Australian facilities_
+ _Possible British use of Australian facilities_
 
 10\. Prior to the British decisions of July 1967 discussions had taken place at the working level between British and Australian representatives on the possible use by British forces of defence facilities in Australia. This was in the context of possible withdrawal of British forces from Malaysia and Singapore under pressure from these countries and the purpose was to provide in these circumstances an alternative to complete withdrawal from the Far East. From the Australian point of view a different situation arises in the context of the voluntary withdrawal now announced. However, the British have stated that they are planning to maintain a military capability for use if required in the Far East, and that they are continuing to examine the possibility of using facilities in Australia for this purpose. We should display our willingness to discuss this with them. The only work currently in hand is the feasibility study on naval support facilities at Cockburn Sound.
 
-_Effects on Australian capacity_
+ _Effects on Australian capacity_
 
 11\. The effects of the British withdrawal on Australian capacity to meet current commitments (para. 3) will relate first to ground forces. The capacity of the Navy would be progressively diminished as the British withdrawal continues. The RAAF is unlikely to be significantly affected until the final British withdrawal.
 
 12\. The British withdrawal programme, as at present advised, will begin to affect the Army from April 1968 on. By March 1969, the Commonwealth Brigade will have lost its capability to undertake SEATO operations or protracted operations in the defence of Malaysia against overt attack. Between April 1969 and March 1970 the British contribution to the Brigade and its logistic backing will be progressively withdrawn. Concurrently it would be necessary for Australia to make new logistic arrangements.
 
-_The basis for an Australian presence_
+ _The basis for an Australian presence_
 
 13\. The British White Paper statement that the Anglo-Malaysian Defence Agreement will continue would appear to offer a valid formal basis for a continuing Australian presence on the existing basis until the final United Kingdom withdrawal. However, this arrangement may not be practicable for more than a few years and pressures may develop both within Australia and from Malaysia and Singapore for new bilateral arrangements. The attitude of the Malaysian and Singapore Governments to a continued Australian presence may change. They may make unacceptable demands or seek to impose unacceptable restrictions on the use that may be made of those forces. Their attitudes could depend on such factors as the general political outlook in the region, and the value which they saw in the Australian military presence.
 
-_Possible options for the future_
+ _Possible options for the future_
 
 14\. In these circumstances, the various options for Australia would at present appear to centre about the following alternatives:
 
@@ -95,7 +98,7 @@ _Possible options for the future_
 
 We should not be associated with any new regional arrangements referred to in (b) and (c) above, without assurance from the United States.
 
-_Possible military risks to Australian forces_
+ _Possible military risks to Australian forces_
 
 15\. The future British strategy raises important questions of the military risks to Australia of leaving forces in Malaysia without a physical presence by Britain.
 
@@ -107,7 +110,7 @@ _Possible military risks to Australian forces_
 
 19\. In terms of the threat to Malaysia from the north, the security situation of any Australian forces in Malaysia and Singapore is discussed in paragraphs 24–25.
 
-_The United States‘future intentions_
+ _The United States‘future intentions_
 
 20\. A basic objective of the United States’ national policy has been the containment of communist expansion in South East Asia. In pursuit of this she has deployed powerful military forces in the Far East.
 
@@ -117,7 +120,7 @@ _The United States‘future intentions_
 
 23\. It is unlikely that the Americans themselves have yet reached decisions on these matters, nor is there any immediate requirement for them to do so. In the meantime it is important that Australian attitudes should reflect the fundamental requirement of encouraging the United States to retain in the foreseeable future an extensive military capability in the South East Asian area.
 
-_United States forward strategy and Malaysia and Singapore_
+ _United States forward strategy and Malaysia and Singapore_
 
 24\. The Australian view has always been that the continued resolution of the United States and the maintenance of an extensive United States military capability in the area are vital while the threat of Communist expansion in South East Asia remains. Guaranteed United States military assistance to Vietnam, Laos and Thailand is essential if these countries are to oppose Chinese policies successfully. While they are successfully opposing communism, Malaysia/Singapore will not be threatened from the north.
 
@@ -125,7 +128,7 @@ _United States forward strategy and Malaysia and Singapore_
 
 26\. For Malaysia and Singapore the future intentions of Indonesia are important. The United States has not concerned herself in the past with the defence of Malaysia and Singapore and it is not certain to what extent she would interest herself in the future even if she continued a forward strategy. It is possible that a United States forward strategy, combined with ANZUS and an Australian and New Zealand presence in Malaysia and Singapore, would act as a deterrent to Indonesia.
 
-_Implications of a continuing Australian presence in Malaysia and Singapore_
+ _Implications of a continuing Australian presence in Malaysia and Singapore_
 
 27\. At least until 1970/71 Australia will have a valid formal basis on which to maintain its military presence in Malaysia and Singapore. The military risks during this period of such a presence will be covered by America to the north and by Britain in regard to any attack from Indonesia.
 
@@ -141,19 +144,19 @@ _Implications of a continuing Australian presence in Malaysia and Singapore_
 
 In the case of the Battalion, some decisions will be required by early 1968 so that the Army might make the necessary preparations and arrangements. For the Mirage squadron an early decision is also required to enable preparations to be made. These matters will be the subject of separate submissions at the appropriate time.
 
-_Indonesian attitudes_
+ _Indonesian attitudes_
 
-29\. With the change in regime in Indonesia, there are prospects of bilateral and regional co-operation with the Indonesians. We do not wish to put ourselves in the position of appearing to regard Indonesia as permanently hostile. There are also the questions of Indonesian opposition to ‘foreign bases’ and Malik’s1 recent statement that next year Indonesia would raise the question of ASEAN defence arrangements.
+29\. With the change in regime in Indonesia, there are prospects of bilateral and regional co-operation with the Indonesians. We do not wish to put ourselves in the position of appearing to regard Indonesia as permanently hostile. There are also the questions of Indonesian opposition to ‘foreign bases’ and Malik’s[1](#f1) recent statement that next year Indonesia would raise the question of ASEAN defence arrangements.
 
 30\. These problems are largely diplomatic ones and will require further study. A consideration is that the Indonesians, too, are sensitive to the threat from the north and insofar as we can present our presence in this context, their co-operation might be won.
 
-_Malaysia and Singapore attitudes_
+ _Malaysia and Singapore attitudes_
 
 31\. Malaysia and Singapore are seeking continued and expanded Australian assistance in the development of their own forces and are likely to seek continued Australian involvement in their defence. The Tunku has asked our intentions for the future particularly with regard to the RAAF presence in Butterworth. So far as ground forces are concerned the Malaysians have queried whether we intend to stay but have not yet expressed any definite attitude.
 
 32\. There have been informal suggestions from both Malaysia and Singapore for some form of 4 or 5 power association among the Commonwealth countries at present in the area. The Tunku has also been reported as proposing an early conference of these countries to discuss defence arrangements in the light of the British withdrawal. It will be necessary for Australia to explore the Malaysian and Singaporean attitude to United States support for such an association, their willingness to grant sufficient flexibility for our forces to redeploy to meet our obligations elsewhere in South East Asia, and the nature of the treaty commitment they would seek from Australia.
 
-_Advantage of a continuing presence_
+ _Advantage of a continuing presence_
 
 33\. Some of the possible advantages to Australia of a continuing presence in Malaysia and Singapore are:
 
@@ -185,11 +188,11 @@ _Disadvantages of a continuing presence_
 
 The above risks and disadvantages underline the absolute necessity of obtaining United States support.
 
-_Timing of long term decision_
+ _Timing of long term decision_
 
 35\. Though it is necessary in the short term to appreciate in depth, and as far as possible agree with our close allies, the various factors that must shape our long-term decisions, these decisions do not need to be made at this point. Indeed, they should be delayed until the situation in several important respects becomes clearer—in particular, the outcome of the Vietnam war and the future course of American strategy; the nature of Britain’s long-term policies regarding military and political involvement in South East Asia and the extent to which these can still be influenced; political developments in Malaysia, Singapore and in Indonesia; developments in Malaysia and Singapore’s capacity to support an Australian presence; and the development of ASEAN and of Indonesian policy to introduce defence arrangements into the organization, and whether this might provide a satisfactory basis for any Australian association.
 
-_Options for possible Australian Army forces in Malaysia_
+ _Options for possible Australian Army forces in Malaysia_
 
 36\. Preliminary studies have been made of the different levels of Australian Army forces which might be deployed in Malaysia and the roles which these forces could carry out. From the Army studies the broad conclusion has been reached that while our ground force remains in Vietnam at its present level, Australia will be able to retain 28 Commonwealth Brigade as a Task Force including one New Zealand and one Australian battalion, but scaled back in supporting arms and logistic backing so that its capability would be no more than that sufficient to undertake counter-insurgency operations in Malaysia.
 
@@ -199,19 +202,19 @@ _Options for possible Australian Army forces in Malaysia_
 
 39\. On the other hand, on the conclusion of hostilities in Vietnam, from within our present force levels it should be possible to maintain in Malaysia a Task Force with an operational capability similar to that of 28 Commonwealth Brigade today. This would involve Australia in logistic support of the force, including expenditure by Australia similar to that being undertaken by the United Kingdom at present, subject to any contribution by New Zealand.
 
-_Implications of an Australian withdrawal from Malaysia and Singapore_
+ _Implications of an Australian withdrawal from Malaysia and Singapore_
 
 40\. Should a decision be reached that Australia should withdraw completely from Malaysia and Singapore there would be increased difficulty in the continued implementation of a forward defence strategy, particularly following the conclusion of the Vietnam conflict.
 
 41\. To meet the tasks currently required by collective security arrangements the ability of the three services to operate in the area of South East Asia would become more difficult. For the Navy alternatives to the special Naval and Armament storage areas, ammunition dumps, anchorages and dock facilities of Singapore would have to be found. For the Air Force airfield and maintenance facilities would have to be provided. For the Army any deployment in South East Asia to meet a SEATO or other commitment would be considerably delayed and our logistic support arrangements would be affected.
 
-_Immediate questions_
+ _Immediate questions_
 
 42\. No further decisions are required regarding the present ground force commitment until 1968, when the contribution after 1969 will be considered. An associated question concerns the need to increase the Australian task force in Vietnam. Implementation of our strategy is not affected by the planned British withdrawal until 1970, and our contribution to the Commonwealth Brigade should be retained at least until that time.
 
 43\. The maintenance of our contribution to the Commonwealth Brigade would not affect the ability of the Army to meet certain requests made by COMAFV for increases to the task force, particularly the deployment of a tank squadron. A decision on these requests could and should therefore be made now. Similarly, a decision to deploy the tank squadron to Vietnam would not inhibit future consideration of the long term problem in Malaysia and Singapore.
 
-_Diplomatic_
+ _Diplomatic_
 
 44\. This paper has stressed the need for Australia to ensure American support for any continuing Australian commitment in the Malaysian region in the light of the British withdrawal. It will also be important to carry New Zealand with us in the development of our policy, and the New Zealand Government has expressed a wish for early talks. Consultations with the United States and New Zealand should begin as soon as possible, in which we would explain our thinking and secure their reactions.
 
@@ -220,3 +223,5 @@ _Diplomatic_
 46\. Finally, consideration might be given to our making some exposition of our thinking to the Indonesians.
 
 1 Adam Malik, Indonesian Minister of Foreign Affairs, 1966–78. 
+
+[NAA: A5842 VOLUME 14]

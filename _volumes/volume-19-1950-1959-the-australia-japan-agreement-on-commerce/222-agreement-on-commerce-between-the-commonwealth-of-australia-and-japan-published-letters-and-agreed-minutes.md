@@ -1,14 +1,20 @@
 ---
-title: "222 Agreement On Commerce Between The Commonwealth Of Australia And Japan: Published Letters And Agreed Minutes"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7827
+doc_date: '1957-07-06'
+doc_num: 222
+doc_order: 222
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[DFAT : AUSTRALIAN TREATY COLLECTION]'
+title: 'Agreement On Commerce Between The Commonwealth Of Australia And Japan: Published
+  Letters And Agreed Minutes'
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1957-07-06
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 222 Agreement On Commerce Between The Commonwealth Of Australia And Japan: Published Letters And Agreed Minutes
-
-## 6th July, 1957
+6th July, 1957
 
 The Rt. Hon. J. McEwen, Minister for Trade Your Excellency, With reference to the Agreement on Commerce between Japan and the Commonwealth of Australia signed today, I have the honour to inform your Excellency that the most-favoured-nation provisions of the said Agreement shall not apply to advantages which are accorded or which may be accorded hereafter by Japan to such areas as are set forth in Article 3 of the Treaty of Peace with Japan signed at the city of San Francisco on September 8, 1951, so long as the situation set forth in the second sentence of the said Article continues with respect to the administration, legislation and jurisdiction over those areas.
 
@@ -172,8 +178,8 @@ I avail myself, Excellency, of this opportunity to renew assurances of my highes
 
 Minister for Trade 6th July, 1957
 
-_
+ _
 
 _
 
-_ [DFAT : AUSTRALIAN TREATY COLLECTION]_
+ _[DFAT : AUSTRALIAN TREATY COLLECTION]_

@@ -1,14 +1,20 @@
 ---
-title: "457 Mr J. McEwen, Minister for External Affairs, to Mr M. Akiyama, Japanese Consul-General in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1223
+doc_date: '1940-06-28'
+doc_num: 457
+doc_order: 457
+naa_refs:
+- naa_barcode: 174151
+  naa_control_symbol: CONS 1 PART 2
+  naa_series: A981
+  reference: '[AA: A981, CONSULS IA, ii]'
+title: Mr J. McEwen, Minister for External Affairs, to Mr M. Akiyama, Japanese Consul-General
+  in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-28
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 457 Mr J. McEwen, Minister for External Affairs, to Mr M. Akiyama, Japanese Consul-General in Australia
-
-## Letter MELBOURNE, 28 June 1940
+Letter MELBOURNE, 28 June 1940
 
 I have the honour to acknowledge receipt of your letter of June 27th [1], in regard to the Japanese Government looking after Italian interests in Australia, and to inform you that the Commonwealth Government has no objection to this arrangement.
 
@@ -26,4 +32,4 @@ _
 
 _
 
-_ [AA: A981, CONSULS IA, ii]_
+ _[AA: A981, CONSULS IA, ii]_

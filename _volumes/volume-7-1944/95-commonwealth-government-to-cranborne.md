@@ -1,12 +1,17 @@
 ---
-title: "95 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2742
+doc_date: '1944-03-24'
+doc_num: 95
+doc_order: 95
+naa_refs:
+- naa_barcode: 193559
+  naa_control_symbol: PI46/2/13/1
+  naa_series: A1067
+  reference: '[AA:A1067, P146/2/13/1]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-24
+vol_title: 'Volume 7: 1944'
 ---
-
-# 95 Commonwealth Government to Cranborne
 
 Cablegram 73 CANBERRA, 24 March 1944
 
@@ -20,7 +25,7 @@ Your telegrams D.265 [1] and D.266. [2]
 
 4\. We would hope that at the international conference contemplated in Article 34 of Australia - New Zealand Agreement [3] opportunity would be taken to exchange information and views on position of Siam as part of a general Pacific settlement.
 
-_
+ _
 
 1 Document 53.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A1067, P146/2/13/1]_
+ _[AA:A1067, P146/2/13/1]_

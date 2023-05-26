@@ -1,14 +1,19 @@
 ---
-title: "70 Ball to Evatt"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3918
+doc_date: '1946-08-16'
+doc_num: 70
+doc_order: 70
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]'
+title: Ball to Evatt
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-08-16
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 70 Ball to Evatt
-
-## Cablegram Secret and Personal TOKYO, 16 August 1946 for the
+Cablegram Secret and Personal TOKYO, 16 August 1946 for the
 
 Following is supplementary to my telegram No.5. [1]
 
@@ -16,10 +21,10 @@ Atcheson's proposal to enlarge the Council has aroused much comment and speculat
 
 Since Atcheson's proposal will come up again at the meeting on 21st August I should appreciate instructions. My own feeling is that I should not repeat not express opposition to the proposal but take the line that it is a question which can only be decided at Governmental level and not by the Council in Tokyo.
 
-_
+ _
 
 1 Document 66.
 
 _
 
-_ [SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]_
+ _[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (b)]_

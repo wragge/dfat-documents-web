@@ -1,12 +1,17 @@
 ---
-title: "164 Evatt to Oldham for Addison"
-volume: "Volume 8: 1945"
-doc_id: 3195
+doc_date: '1945-08-09'
+doc_num: 164
+doc_order: 164
+naa_refs:
+- naa_barcode: 4224454
+  naa_control_symbol: 1945/39
+  naa_series: A3196
+  reference: '[AA : A3196, 1945, FOLDER, OUTWARDS MOST SECRET, 0.20804/825]'
+title: Evatt to Oldham for Addison
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-09
+vol_title: 'Volume 8: 1945'
 ---
-
-# 164 Evatt to Oldham for Addison
 
 Cablegram 222 CANBERRA, 9 August 1945
 
@@ -16,7 +21,7 @@ Please deliver personally to Lord Addison, Dominions Secretary, London.
 
 1\. Welcoming the spirit of your recent message to the Dominions 
 
-_ on recent developments.
+_on recent developments.
 
 2\. In our view it is essential that the attitude of the United Kingdom Government in relation to the effective International status of countries like Australia should be reviewed by the new Government, particularly by yourself and the Foreign Secretary.
 
@@ -46,4 +51,4 @@ HERBERT EVATT
 
 _
 
-_ [1] I would like to send you a very frank expression of our views_
+ _[1] I would like to send you a very frank expression of our views_

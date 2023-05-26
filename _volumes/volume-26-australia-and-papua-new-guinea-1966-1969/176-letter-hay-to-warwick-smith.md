@@ -1,24 +1,29 @@
 ---
-title: "176 Letter, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9684
+doc_date: '1968-04-24'
+doc_num: 176
+doc_order: 176
+naa_refs:
+- naa_barcode: 12071497
+  naa_control_symbol: 1968/4245
+  naa_series: A452
+  reference: '[NAA: A452, 1968/4245]'
+title: Letter, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-04-24
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 176 Letter, Hay To Warwick Smith
 
 Port Moresby, 24 April 1968
 
-In my letter of 16th April about amendments to the Papua and New Guinea Act and suggestions for the role and duty of Ministerial Members and Assistant Ministerial Members,1 I did not express a clear opinion on the question of financial delegations. Paper CWP/2,2 part 11(3), suggests that the role of the Ministerial Member would include:
+In my letter of 16th April about amendments to the Papua and New Guinea Act and suggestions for the role and duty of Ministerial Members and Assistant Ministerial Members,[1](#f1) I did not express a clear opinion on the question of financial delegations. Paper CWP/2,[2](#f2) part 11(3), suggests that the role of the Ministerial Member would include:
 
-> ‘ . . .3 to exercise such delegations as may be authorised by the Administrator.’
+> ‘ . . .[3](#f3) to exercise such delegations as may be authorised by the Administrator.’
 
 and then the last stage of this working paper contains in the final paragraph the following:
 
 > ‘Financial delegations—Ministerial Members should exercise financial delegation within the framework of the budget. Variation within allocations or for other purposes, of any extent, would still be required to be approved by Treasury. Considerations will also have to be given to any form of financial delegation to a Ministerial Member which now rests with a Departmental Head.’
 
-I have now had a note, copy attached, from the Treasurer setting out his views on this question.4 It raises a number of aspects, all of which to my mind suggest caution on this question of financial delegation.
+I have now had a note, copy attached, from the Treasurer setting out his views on this question.[4](#f4) It raises a number of aspects, all of which to my mind suggest caution on this question of financial delegation.
 
 From the more general point of view expressed in my earlier letter, namely that it is preferable for the responsibility of Ministerial Members to be a collective rather than an individual one at this stage of development, I have also been led to the conclusion that there should be no financial delegation to Ministerial Members at the present stage.
 

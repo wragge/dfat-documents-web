@@ -1,14 +1,20 @@
 ---
-title: "275 Mr W. L. Mackenzie King, Canadian Prime Minister, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1041
+doc_date: '1940-05-24'
+doc_num: 275
+doc_order: 275
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3577]'
+title: Mr W. L. Mackenzie King, Canadian Prime Minister, to Mr R. G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-24
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 275 Mr W. L. Mackenzie King, Canadian Prime Minister, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram 5 OTTAWA, 24 May 1940, 10.43 p.m.
+Cablegram 5 OTTAWA, 24 May 1940, 10.43 p.m.
 
 Received 25 May 1940
 
@@ -20,7 +26,7 @@ I was about to reply when I received a copy of Mr. Churchill's telegram to you. 
 
 My reply to Mr. Churchill follows.
 
-_
+ _
 
 1 Document 261.
 
@@ -28,4 +34,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3577]_
+ _[FA: A3195, 1.3577]_

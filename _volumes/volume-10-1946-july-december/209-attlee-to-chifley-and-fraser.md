@@ -1,12 +1,17 @@
 ---
-title: "209 Attlee to Chifley and Fraser"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4057
+doc_date: '1946-11-11'
+doc_num: 209
+doc_order: 209
+naa_refs:
+- naa_barcode: 240033
+  naa_control_symbol: 1699/1
+  naa_series: A5954
+  reference: '[AA:A5954, i699/1]'
+title: Attlee to Chifley and Fraser
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-11-11
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 209 Attlee to Chifley and Fraser
 
 Cablegram D1018 LONDON, 11 November 1946, 2.36 p.m.
 
@@ -34,10 +39,10 @@ The MacArthur-Northcott Agreement provides that the British Commonwealth Force m
 
 It is not improbable that a decision to withdraw the United Kingdom Brigade would lead to a request by the Government of India, who are known to be very anxious to withdraw as many as possible of the Indian troops now outside India, that the Indian Brigade in the British Indian Division should be withdrawn simultaneously with the United Kingdom Brigade if the decision to do so is taken. I am therefore deferring any reference of the matter to the Government of India until I am informed of your views. [1]
 
-_
+ _
 
 1 Fraser informed chifley on 18 November that he saw no objection to the withdrawal.
 
 _
 
-_ [AA:A5954, i699/1]_
+ _[AA:A5954, i699/1]_

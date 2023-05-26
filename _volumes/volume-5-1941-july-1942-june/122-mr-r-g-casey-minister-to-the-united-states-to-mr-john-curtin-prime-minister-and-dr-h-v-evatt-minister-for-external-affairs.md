@@ -1,12 +1,18 @@
 ---
-title: "122 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1876
+doc_date: '1941-11-22'
+doc_num: 122
+doc_order: 123
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister,
+  and Dr H. V. Evatt, Minister for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-22
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 122 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram 1012 WASHINGTON, [22 November 1941, 4.15 p.m.] [1]
 
@@ -28,7 +34,7 @@ In the meantime the Government of Japan declares that it is prepared to remove i
 
 CASEY
 
-_
+ _
 
 1 Date and time of dispatch and the classification 'Bronx' have been inserted from the Washington copy on file AA : A3300, 99.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

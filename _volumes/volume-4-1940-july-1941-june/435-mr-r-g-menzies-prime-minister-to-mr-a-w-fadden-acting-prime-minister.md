@@ -1,12 +1,17 @@
 ---
-title: "435 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1666
+doc_date: '1941-04-27'
+doc_num: 435
+doc_order: 435
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.6508]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-27
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 435 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram M87 LONDON, 27 April 1941, 2.25 p.m.
 
@@ -24,7 +29,7 @@ I must however sound a note of warning. In his telegram, the Acting Prime Minist
 
 MENZIES
 
-_
+ _
 
 1 Document 424.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA: A3195, 1941, 1.6508]_
+ _[AA: A3195, 1941, 1.6508]_

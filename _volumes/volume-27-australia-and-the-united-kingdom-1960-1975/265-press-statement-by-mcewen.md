@@ -1,14 +1,17 @@
 ---
-title: "265 PRESS STATEMENT BY MCEWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10130
+doc_date: '1970-07-16'
+doc_num: 265
+doc_order: 265
+naa_refs:
+- naa_barcode: 551420
+  naa_control_symbol: 727/4/2 PART 9
+  naa_series: A1838
+  reference: '[NAA: Al838, 727/4/2 PART 9]'
+title: PRESS STATEMENT BY MCEWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1970-07-16
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 265 PRESS STATEMENT BY MCEWEN
-
-NAA: Al838, 727/4/2 PART 9 
 
 Brussels, 16 July 1970
 
@@ -69,3 +72,5 @@ I regard the issues raised by the proposal to enlarge the Common Market as of th
 The formation of such a vast trading bloc, if accomplished without sufficient regard for the interests of others, could well result in a defensive retreat by other large trading countries towards further restrictions on their markets.
 
 This process and its consequent cumulative effects threatens not only the progress of small countries like Australia but the prospects of the whole trading world.
+
+[NAA: Al838, 727/4/2 PART 9]

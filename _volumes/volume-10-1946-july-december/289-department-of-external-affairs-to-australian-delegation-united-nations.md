@@ -1,12 +1,17 @@
 ---
-title: "289 Department of External Affairs to Australian Delegation, United Nations"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4137
+doc_date: '1946-12-08'
+doc_num: 289
+doc_order: 289
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU:EVATT COLLECTION, UNITED NATIONS-CABLES-NEW YORK-1946-48]'
+title: Department of External Affairs to Australian Delegation, United Nations
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-08
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 289 Department of External Affairs to Australian Delegation, United Nations
 
 Cablegram UNY468 CANBERRA, 8 December 1946
 
@@ -36,7 +41,7 @@ But we will not accept discussions between groups not including Australia as par
 
 7\. You should immediately call attention of the Committee and the Assembly to the nature of the Soviet-American discussions which were intended to settle only question of states directly concerned in present agreement but which now appear to be concerned with future disposal of Japanese Mandates. The Committee should merely note that Soviet is not claiming to be state directly concerned in relation to present agreements. [2]
 
-_
+ _
 
 1 See Document 286, note 1 and Document 284, note 2.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [SFU:EVATT COLLECTION, UNITED NATIONS-CABLES-NEW YORK-1946-48]_
+ _[SFU:EVATT COLLECTION, UNITED NATIONS-CABLES-NEW YORK-1946-48]_

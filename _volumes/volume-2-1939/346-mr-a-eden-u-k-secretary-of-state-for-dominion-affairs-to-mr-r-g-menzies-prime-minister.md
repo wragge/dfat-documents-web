@@ -1,12 +1,18 @@
 ---
-title: "346 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 683
+doc_date: '1939-11-10'
+doc_num: 346
+doc_order: 346
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 346 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram D75 LONDON, 10 November 1939, 1.54 p.m.
 
@@ -18,10 +24,10 @@ The text of the draft reply follows in my immediately following telegram. [2] Pl
 
 The text of the draft reply is also being communicated to the French Government and the Polish Government.
 
-_
+ _
 
 1 Document 345 2 Document 347
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

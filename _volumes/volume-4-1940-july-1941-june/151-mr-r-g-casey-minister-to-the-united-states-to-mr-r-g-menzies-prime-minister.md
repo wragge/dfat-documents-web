@@ -1,12 +1,17 @@
 ---
-title: "151 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1382
+doc_date: '1940-10-01'
+doc_num: 151
+doc_order: 151
+naa_refs:
+- naa_barcode: 176225
+  naa_control_symbol: FAR 26
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 26A]'
+title: Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-01
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 151 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 292 WASHINGTON, 1 October 1940
 
@@ -26,7 +31,7 @@ In above connection I am urging the British Ambassador to seek authority to offe
 
 CASEY
 
-_
+ _
 
 1 Lord Lothian.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 26A]_
+ _[AA:A981, FAR EAST 26A]_

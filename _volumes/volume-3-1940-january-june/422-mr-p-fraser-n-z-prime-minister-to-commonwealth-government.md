@@ -1,12 +1,17 @@
 ---
-title: "422 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1188
+doc_date: '1940-06-13'
+doc_num: 422
+doc_order: 422
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1.4611]'
+title: Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-13
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 422 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government
 
 Cablegram unnumbered WELLINGTON, 13 June 1940, 2 p.m.
 
@@ -18,7 +23,7 @@ We have been considering whether in the present circumstances it might not be ad
 
 Before despatching this message we should be glad to receive your comments and to know whether you would consider it advisable to send similar communication.
 
-_
+ _
 
 1 Sir Harry Batterbee.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [FA:A3195, 1.4611]_
+ _[FA:A3195, 1.4611]_

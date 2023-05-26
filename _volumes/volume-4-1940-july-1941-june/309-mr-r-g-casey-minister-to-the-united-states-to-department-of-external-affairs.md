@@ -1,12 +1,17 @@
 ---
-title: "309 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1540
+doc_date: '1941-02-19'
+doc_num: 309
+doc_order: 309
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA:A981, JAPAN 185B, i]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-02-19
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 309 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 
 Cablegram 141 WASHINGTON, 19 February 1941, 4.58 p.m.
 
@@ -22,10 +27,10 @@ I am advised that Eastern part of N.E.I. including Timor is probably now free of
 
 CASEY
 
-_
+ _
 
 1 Dr Alexandre Loudon.
 
 _
 
-_ [AA:A981, JAPAN 185B, i]_
+ _[AA:A981, JAPAN 185B, i]_

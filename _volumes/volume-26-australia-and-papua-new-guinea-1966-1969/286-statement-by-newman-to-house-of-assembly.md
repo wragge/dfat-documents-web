@@ -1,12 +1,17 @@
 ---
-title: "286 Statement By Newman To House Of Assembly"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9794
+doc_date: '1969-06-16'
+doc_num: 286
+doc_order: 286
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Statement By Newman To House Of Assembly
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-06-16
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 286 Statement By Newman To House Of Assembly
 
 Port Moresby, 16 June 1969
 
@@ -16,27 +21,27 @@ The deposit has been shown to contain at least 760,000,000 tons of ore with a gr
 
 The further task of developing such a deposit to the stage of production demands specialised knowledge, and experience in large scale operations possessed only by an international mining company such as Bougainville Copper Pty. Limited.
 
-The financial commitment is so big that a mining company embarking on such an operation must seek preliminary guarantees from the Government that it will receive the authorities and mining rights necessary to permit it to achieve production to recoup its investment together with appropriate profit. This is why the Administration entered into a formal agreement with Bougainville Copper Pty. Limited in 1967.2
+The financial commitment is so big that a mining company embarking on such an operation must seek preliminary guarantees from the Government that it will receive the authorities and mining rights necessary to permit it to achieve production to recoup its investment together with appropriate profit. This is why the Administration entered into a formal agreement with Bougainville Copper Pty. Limited in 1967.[2](#f2)
 
-The Bougainville copper project has now been brought close to the stage of production by Bougainville Copper Pty. Limited. In the process various landowners in the areas have expressed opposition to the operations of the Company on their land and also to making land available for town and port sites and for supporting industries.3 However, the project promises such far reaching economic benefits to the Territory that the Administration must press on to bring it to fruition.
+The Bougainville copper project has now been brought close to the stage of production by Bougainville Copper Pty. Limited. In the process various landowners in the areas have expressed opposition to the operations of the Company on their land and also to making land available for town and port sites and for supporting industries.[3](#f3) However, the project promises such far reaching economic benefits to the Territory that the Administration must press on to bring it to fruition.
 
 The Company has now applied for and been granted a special mining lease at the site of the mine, and is thereby committed by its agreement with the Administration to proceed, within 5 years, to production and export of copper concentrates. It has published details of preliminary marketing arrangements with seven Japanese copper smelters and has expressed confidence in its capacity to sell the whole of its production during the first 15 years of operation. Estimates of total capital required have also been published.
 
 The account which follows begins with the discovery of the Panguna deposits and continues to the present stage of development in which the Company is poised for the massive construction phase of the operation.
 
-_Discovery of the Panguna copper deposit_
+ _Discovery of the Panguna copper deposit_
 
 The Panguna area was known to gold miners in the period 1933 to 1951. The early miners noted that copper minerals were present at Panguna and Kupei, but they did not have the geological experience or the financial resources to lead them to look for a major low-grade copper deposit. Their efforts brought no lasting benefits to Bougainville. In 1960 the area was visited by an Administration geologist who reported that it might contain a major low-grade copper deposit.
 
-When the Company began prospecting the area in 19644 it soon became apparent that the sand in the Kawerong River and the streams draining the Panguna area contained consistent traces of copper. Further sampling of the soils in the area confirmed that copper in small quantities was present over a wide area, and the Company’s geologists began to think that there might be a large deposit in the rocks under the surface soil.
+When the Company began prospecting the area in 1964[4](#f4) it soon became apparent that the sand in the Kawerong River and the streams draining the Panguna area contained consistent traces of copper. Further sampling of the soils in the area confirmed that copper in small quantities was present over a wide area, and the Company’s geologists began to think that there might be a large deposit in the rocks under the surface soil.
 
 Diamond drills were brought in to bore holes deep into the mountain to give samples of the rocks. Assays of the samples confirmed that there was a small amount of copper and a very little gold in the rocks over a fairly large area. At this stage the Company knew that there was a large low-grade deposit, but it had to find out how large, and whether there would be enough copper to pay for the cost of mining it.
 
 Many more diamond drills were brought in by helicopter and a road from the Kieta coast was cut through the rough mountain ranges. Eventually, by December, 1968, after four years of exploration and research, and at a cost of more than $16,000,000, the Company estimated that the deposits contained at least 760,000,000 tons of rock containing 0.47% copper and 0.4 dwt. of gold per ton. Such a deposit would be worked profitably only on a very large scale, but would require a capital investment of about $300,000,000 to establish the operation.
 
-_Bougainville Copper Agreement_
+ _Bougainville Copper Agreement_
 
-One or the important features of the Bougainville project is the Mining (Bougainville Copper Agreement) Ordinance 1967. For the benefit of new Members of this House I will give a brief outline of how the Ordinance was brought into force. After the first two years of prospecting, with expenditure already standing at $4,000,000, it became apparent that the further testing of the deposit would require additional expenditure of at least another $6,000,000, and it was estimated that establishment of a mine would require a total investment of at least $100,000,000 (this was an under-estimate, because the actual figures have turned out to be an additional $12,000,0005 and a total investment of nearly $300,000,000).
+One or the important features of the Bougainville project is the Mining (Bougainville Copper Agreement) Ordinance 1967. For the benefit of new Members of this House I will give a brief outline of how the Ordinance was brought into force. After the first two years of prospecting, with expenditure already standing at $4,000,000, it became apparent that the further testing of the deposit would require additional expenditure of at least another $6,000,000, and it was estimated that establishment of a mine would require a total investment of at least $100,000,000 (this was an under-estimate, because the actual figures have turned out to be an additional $12,000,000[5](#f5) and a total investment of nearly $300,000,000).
 
 At that time the only rights held by the Company were its prospecting authorities which were granted for only two year periods, and which gave the right to investigate the deposits but not to mine and sell copper.
 
@@ -50,7 +55,7 @@ The Company agreed to continue its expensive further investigations and, if poss
 
 A company could not venture into such large-scale investigations without some guarantee that it would be given the facilities to proceed to production. It is also clear that the Administration must honour its obligations under the Agreement ensuring that the necessary leases are granted, and by ensuring that the Company is not obstructed in its lawful operations.
 
-_What is the Bougainville copper project?_
+ _What is the Bougainville copper project?_
 
 The feasibility of working this low-grade deposit at a profit is based on a very large-scale rate of production. It is proposed to mine at a rate of 30,000,000 tons of ore each year, to produce concentrates for export containing about 150,000 tons of copper metal and about 500,000 ounces of gold. Such an operation would be one of the largest copper mines in the world, and would rank as a major gold producer.
 
@@ -104,11 +109,11 @@ The various items are inter-related in such a way that a particular item, say th
 
 The Company has estimated that if construction and other preparations are carried out with the necessary speed, production could commence in about three years—i.e. probably early in 1972. There are urgent financial reasons why this period should be kept as short as possible. The large loans involved will carry a heavy interest charge, and this loan money will be largely expended by the end of the construction period. It is therefore of the greatest urgency that every effort be expended by the Company and by the Administration to prevent delays in establishing the operation. The Administration has a threefold financial interest in securing the early achievement of export production—as a taxing authority, as a potential shareholder in the enterprise, and for balance of payment reasons.
 
-_Land requirements_
+ _Land requirements_
 
 The Administration has the responsibility to ensure that the various mining and land leases required are granted without delay—this applies particularly in respect of the Arawa town and the industrial land required near the Loloho port.
 
-The company has applied for and been granted a special mining lease of approximately 10,000 acres in the vicinity of Panguna, as shown in attachments 1 and 2.6 This lease will accommodate the open pit mine, the concentrator plant, a town to accommodate expatriate and local workers and a site in the Kawerong valley for stacking waste rock.
+The company has applied for and been granted a special mining lease of approximately 10,000 acres in the vicinity of Panguna, as shown in attachments 1 and 2.[6](#f6) This lease will accommodate the open pit mine, the concentrator plant, a town to accommodate expatriate and local workers and a site in the Kawerong valley for stacking waste rock.
 
 Although very little of this land is improved it contains the village of Moroni (population 53) and the four hamlets of Dapera (population 186). It will be necessary for these people to move from their present locations, but they will be compensated for the disturbance, and if necessary, will be given other land to live on.
 
@@ -166,7 +171,7 @@ Site For Support Industries
 
 A further area of about 600 acres will be sought for industrial use by the numerous firms and companies which would be required to support the mine, the town and the district generally. This land would be near the Pinei River several miles inland from the port site, and adjacent to the main company road.
 
-To indicate the range and magnitude of this associated industrial development a preliminary list of probable requirements is given in attachment 3.7
+To indicate the range and magnitude of this associated industrial development a preliminary list of probable requirements is given in attachment 3.[7](#f7)
 
 Reclamation Site
 
@@ -190,7 +195,7 @@ An important section of the Mining (Bougainville Copper Agreement) Ordinance 196
 
 Such a law in force in the Territory is the Land Ordinance 1962. Sections 17 to 23 of that Ordinance set out the ways in which the Administration may. acquire land for a public purpose. Such ways include compulsory acquisition if landowners will not sell the required land. This power of compulsory acquisition will be used, if necessary, in respect of the purchase of Arawa Plantation and also in respect of the purchase of other land on the east coast adjacent to Arawa and the port site if the owners refuse to sell the land. But the Administration still hopes to be able to negotiate purchases from the indigenous landowners concerned, and is making every effort to do so.
 
-_What Bougainville copper will mean to the Territory_
+ _What Bougainville copper will mean to the Territory_
 
 The impact of the project will be noticed most dramatically in respect of the Territory’s level of exports. Current exports are valued at about $58,000,000. Under the planned increase in the Development Programme agricultural exports should reach a level of $84,000,000 by the year 1972–73.
 
@@ -272,7 +277,7 @@ It is seldom that the life of a mine can be accurately forecast in its early sta
 
 The published figures relating to the Bougainville project show a life of about 25 years, but it is known that substantial additional tonnages of lower grade ore exist within the Special Mining Lease, and that additional ore exists below the planned bottom level of the pit. It also seems likely that there would be additional suitable ore nearby and perhaps in a few years the people will have become used to mining, and recognising its benefits would then not object to the Company making further detailed investigations. The overall prospect of a life greatly in excess of 25 years is particularly promising at this pre-production stage of the operation.
 
-_General conclusions_
+ _General conclusions_
 
 Earlier in this paper it was stated that the effect of the Bougainville copper project would be to more than double the Territory’s export income; to introduce massive new revenue to the Treasury by way of dividends, royalties, company and individual income taxes, fees, duties and service charges; and to make possible dramatic advances in the way of life of the people of the area who will be able to enter into a cash economy based on secure employment and greatly improved education and health services.
 
@@ -286,7 +291,7 @@ The Administration believes that the Bougainville Copper project offers a most i
 
 The Administration intends to fulfil its obligations under its Agreement with the Company and take all steps necessary to bring this great national asset into production.
 
-Honourable Members, the facts are placed before you in order that you may be fully informed as to what is involved in this project.8
+Honourable Members, the facts are placed before you in order that you may be fully informed as to what is involved in this project.[8](#f8)
 
 1  The statement was also known as the ‘White Paper’ on the Bougainville project (see undated and anonymous DOET paper, NAA: A452, 1969/3026). A draft of the paper had been criticised in DOET. In a minute to Mentz, Kelloway wrote: ‘I have read the draft of the proposed statement to the House of Assembly ... While I think it is a very comprehensive statement of all the facts involved it seems to me that it has not been framed in a way suitable for public release at the present juncture ... I think that the statement should have a much heavier emphasis on the positive benefits which will flow rrom the copper development. These benefits should be spelled out in some detail as they effect the indigenous population. Paragraphs 55 and 56 give an estimate of the additional revenue anticipated from the project. From the point of view of the Territory public these figures will have little impact—they need to be translated into terms of the additional social services, schools, hospitals etc., which can conceivably be provided with this sort of money ... I think that this emphasis should run all through the document but particularly should be highlighted in the introduction and in the conclusion ... While I do not doubt the necessity to insist that the Administration will proceed with the project and take all the measures necessary I think that any such statement should be promptly coupled with a reminder of the benefits to be expected from the project. Paragraph 51 for example should not stop at say{ing} land must be acquired by compulsory process—it should go on to remind the reader of all that is hanging on this project for the inhabitants of the Territory ... There are one or two places where the phraseology gives the impression that the Administration’s primary reason for continuing with the project is that it is committed to the undertakers ... I think it would be advantageous whenever such an impression is given to remind the reader of the reasons for this commitment ... I think it is also very important that the statement should highlight all the benefits which the people of Bougainville in particular will receive from the establishment of the industry. Most of the basic information, town, hospital, schools, etc., is there. But the benefits for Bougainville in particular ought to be spelled out in a special section ... As I see it the primary purpose of this statement is not simply to give factual information but to give factual information in a way which produces the most favourable possible impression on native opinion. I think it would be highly desirable therefore if the statement were referred to [the Social Change Advisory Committee] for advice’ (4 June 1969, NAA: A452, 1969/2443). 
 
@@ -302,4 +307,4 @@ Honourable Members, the facts are placed before you in order that you may be ful
 
 7  Not printed. 
 
-8  After debate, the House adopted the following motion: ‘That the House take note of the paper, and fully endorses the huge Bougainville copper venture as being a major and essential development in the economic future of the Territory, but requests that, prior to the acquisition of any native lands whatsoever in connection with the activities of CRA on Bougainville, the Administration should hold consultations with the Company and all landowners in the general area, in order to discuss land values and compensation levels for economic crops’ (undated and anonymous DOET paper, NAA: A452, 1969/3026). The House’s consideration of the Administration’s paper had been preceded by visits of various MHAs to Bougainville, including one by a group consisting of Lokoloko, Abal, Langro and Oala Rarua. The group had been invited by Lue and was reported to be ‘very sympathetic’ toward the Government position (telex 3755, Hay to DOET, 23 May 1969, NAA: A452, 1969/2443). Rarua later conveyed suggestions including that the acquisition of Arawa be accompanied by a two year moratorium on the possession of adjoining land (attachment to letter, Hay to Warwick Smith, 6 June 1969, ibid.). Somare and Voutas also visited Bougainville during this period (telex 3755, Hay to DOET, 23 May 1969, ibid.). 
+8  After debate, the House adopted the following motion: ‘That the House take note of the paper, and fully endorses the huge Bougainville copper venture as being a major and essential development in the economic future of the Territory, but requests that, prior to the acquisition of any native lands whatsoever in connection with the activities of CRA on Bougainville, the Administration should hold consultations with the Company and all landowners in the general area, in order to discuss land values and compensation levels for economic crops’ (undated and anonymous DOET paper, NAA: A452, 1969/3026). The House’s consideration of the Administration’s paper had been preceded by visits of various MHAs to Bougainville, including one by a group consisting of Lokoloko, Abal, Langro and Oala Rarua. The group had been invited by Lue and was reported to be ‘very sympathetic’ toward the Government position (telex 3755, Hay to DOET, 23 May 1969, NAA: A452, 1969/2443). Rarua later conveyed suggestions including that the acquisition of Arawa be accompanied by a two year moratorium on the possession of adjoining land (attachment to letter, Hay to Warwick Smith, 6 June 1969, ibid.). Somare and Voutas also visited Bougainville during this period (telex 3755, Hay to DOET, 23 May 1969, ibid.).

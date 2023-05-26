@@ -1,14 +1,19 @@
 ---
-title: "37 Draft Note From Embassy In Tokyo To Japanese Foreign Ministry"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7642
+doc_date: '1953-07-16'
+doc_num: 37
+doc_order: 37
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP553/1
+  reference: '[AA : CP553/1/1, 194/B/10/35]'
+title: Draft Note From Embassy In Tokyo To Japanese Foreign Ministry
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-07-16
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 37 Draft Note From Embassy In Tokyo To Japanese Foreign Ministry
-
-## 16th July, 1953
+16th July, 1953
 
 The Australian Embassy has the honour to refer to the Note Verbale No. 124/E4 dated 12th May, 1953 [1], from the Ministry of Foreign Affairs regarding the restrictions maintained by the Australian Government on the importation of Japanese goods into Australia.
 
@@ -36,14 +41,14 @@ With regard to the Ministry's proposal for informal talks between representative
 
 However, any particular problems could, in normal course, be taken up with the Australian Government by the Japanese Embassy in Canberra. [3]
 
-_
+ _
 
 1 Document 24.
 
 2 See Note 2 to Document 22.
 
-3 The text was drafted by the Department of Trade &amp; Customs. A handwritten comment records that it was approved by representatives of all other departments concerned and dispatched to Tokyo on 17 July.
+3 The text was drafted by the Department of Trade  & Customs. A handwritten comment records that it was approved by representatives of all other departments concerned and dispatched to Tokyo on 17 July.
 
 _
 
-_ [AA : CP553/1/1, 194/B/10/35]_
+ _[AA : CP553/1/1, 194/B/10/35]_

@@ -1,14 +1,19 @@
 ---
-title: "405 Coombs to Dedman"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7120
+doc_date: '1948-04-29'
+doc_num: 405
+doc_order: 405
+naa_refs:
+- naa_barcode: 257055
+  naa_control_symbol: 4151 PART 8
+  naa_series: A9790
+  reference: '[AA : A9790, 415, VIII]'
+title: Coombs to Dedman
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-04-29
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
 
-# 405 Coombs to Dedman
-
-## Brief, [CANBERRA], 29 April 1948
+Brief, [CANBERRA], 29 April 1948
 
 The papers which are being submitted for consideration at the Cabinet Meeting on Tuesday May 4th and which relate to the Charter for an International Trade Organisation consist of - 1. Cabinet Agendum - which was approved at the meeting of the Cabinet Sub-Committee held on April 27th.
 
@@ -46,8 +51,8 @@ STUD SHEEP There have been numerous discussion in the Cabinet Sub-Committee conc
 
 IRON ORE EMBARGO There have also been discussions in the Cabinet Sub-Committee concerning the prohibition on the export of iron ore. Article 99(1)(b)(II) excludes from the Charter measures taken in relation to the traffic in materials carried on for supplying a military establishment. This, also, is reviewed in the report of the Delegation and the provision would enable the imposition in the future of a similar embargo to that imposed on the export of iron ore.
 
-_ [1] See Document 411 and note 2 thereto.
+ _[1] See Document 411 and note 2 thereto.
 
 _
 
-_ [AA : A9790, 415, VIII]_
+ _[AA : A9790, 415, VIII]_

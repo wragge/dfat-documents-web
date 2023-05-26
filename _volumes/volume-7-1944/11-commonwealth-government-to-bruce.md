@@ -1,12 +1,17 @@
 ---
-title: "11 Commonwealth Government to Bruce"
-volume: "Volume 7: 1944"
-doc_id: 2658
+doc_date: '1944-01-13'
+doc_num: 11
+doc_order: 11
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954. BOX 449]'
+title: Commonwealth Government to Bruce
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-13
+vol_title: 'Volume 7: 1944'
 ---
-
-# 11 Commonwealth Government to Bruce
 
 Cablegram 366 CANBERRA, 13 January 1944
 
@@ -46,7 +51,7 @@ the knowledge of the Australian Government.
 
 informed of all stages of present discussions.
 
-_
+ _
 
 1 On file AA:A989, 43/715/5/2, i.
 
@@ -62,7 +67,7 @@ January, on file AA:A989, 44/715/5/2, ii.
 
 _
 
-_
+ _
 
 [AA:A5954. BOX 449]
 

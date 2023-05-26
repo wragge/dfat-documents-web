@@ -1,12 +1,17 @@
 ---
-title: "371 Forde to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 3018
+doc_date: '1944-12-12'
+doc_num: 371
+doc_order: 371
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 592]'
+title: Forde to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-12-12
+vol_title: 'Volume 7: 1944'
 ---
-
-# 371 Forde to Cranborne
 
 Cablegram 330 CANBERRA, 12 December 1944
 
@@ -52,7 +57,7 @@ Note: It is confirmed, as requested in your Cablegram No. 330 of 18th November, 
 
 FORDE
 
-_
+ _
 
 1 In AA:A3195, 1944, Folder, Inwards Most Secret and Top Secret Master Sheets, from Secdomin (largely D Series and Australian Series), May-December, 1.41188.
 
@@ -68,4 +73,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 592]_
+ _[AA:A5954, BOX 592]_

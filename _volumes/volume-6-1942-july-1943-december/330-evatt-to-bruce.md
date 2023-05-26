@@ -1,12 +1,17 @@
 ---
-title: "330 Evatt to Bruce"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2621
+doc_date: '1943-11-20'
+doc_num: 330
+doc_order: 330
+naa_refs:
+- naa_barcode: 184631
+  naa_control_symbol: 1943/600/5/1/5
+  naa_series: A989
+  reference: '[AA:A989, 43-44/600/5/1/5]'
+title: Evatt to Bruce
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-11-20
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 330 Evatt to Bruce
 
 Cablegram N2 CANBERRA, 20 November 1943
 
@@ -28,7 +33,7 @@ The matter needs most delicate handling as in case of Portugal but I am confiden
 
 Above all you must [kill] [4] the van Mook plan effectively but without publicity.
 
-_
+ _
 
 1 Bruce had been asked on 25 October to investigate a report that the Netherlands Govt had appointed Maj Gen L. H. van Oyen as Commander-in-Chief, Netherlands Forces in Australia, and that he would be placed in charge of post-war reconstruction in the Netherlands East Indies (see cablegram N1 on file AA:A989, 43/600/5/1/3). Bruce sought information from the Netherlands Foreign Minister (Dr E. N. van Kleffens) and was advised that:
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/600/5/1/5]_
+ _[AA:A989, 43-44/600/5/1/5]_

@@ -1,14 +1,19 @@
 ---
-title: "41 Proud to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3553
+doc_date: '1946-01-21'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.1867]'
+title: Proud to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-21
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 41 Proud to Department of External Affairs
-
-## Cablegram 32 SINGAPORE, 21 January 1946, 7.47 p.m.
+Cablegram 32 SINGAPORE, 21 January 1946, 7.47 p.m.
 
 MOST IMMEDIATE
 
@@ -48,7 +53,7 @@ These recommendations, and particularly two and three are, of course, on the ass
 
 (9) I will report fully details of conversations in to-morrow's mail.
 
-_
+ _
 
 1 There was criticism of Van Mook's administration in the N.E.I., especially his handling of the preliminary discussions with the Indonesians (see Volume VILL Document 458). Van Mook had returned to The Hague in December 1945 to confer with the Netherlands Govt.
 
@@ -70,4 +75,4 @@ Govt.
 
 _
 
-_ [AA:A3195, 1946, 1.1867]_
+ _[AA:A3195, 1946, 1.1867]_

@@ -1,12 +1,19 @@
 ---
-title: "534 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2288
+doc_date: '1942-06-27'
+doc_num: 534
+doc_order: 535
+naa_refs:
+- naa_barcode: 853951
+  naa_control_symbol: '138'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-S.W.P.A.
+    FILE NO. 2]'
+title: Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-27
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 534 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram 482 LONDON, 27 June 1942, 9.08 p.m.
 
@@ -26,7 +33,7 @@ Please do not think that we have forgotten or under-estimate Australia's danger.
 
 I must therefore ask you to accept our proposal which I regard as vital to our common interests. Ends.
 
-_ S.W.P.A. FILE NO. 2]
+ _
 
 1 Document 530 2 Winston Churchill.
 
@@ -40,4 +47,4 @@ _ S.W.P.A. FILE NO. 2]
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-S.W.P.A. FILE NO. 2]_

@@ -1,12 +1,17 @@
 ---
-title: "447 Lord Linlithgow, Viceroy of India, to Lord Gowrie, Governor- General"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1213
+doc_date: '1940-06-26'
+doc_num: 447
+doc_order: 447
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1.4744-5, 1.4754]'
+title: Lord Linlithgow, Viceroy of India, to Lord Gowrie, Governor- General
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-26
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 447 Lord Linlithgow, Viceroy of India, to Lord Gowrie, Governor- General
 
 Cablegram unnumbered SIMLA, 26 June 1940
 
@@ -20,7 +25,7 @@ What I have in mind and what I gather would fit in well with the ideas of His Ma
 
 3\. You will I hope forgive this entirely informal approach which is designed really to let you know how one's mind is working. Once I am in a position to do so, I will of course put the whole matter on an official basis as between my Government and yours. But you may see some advantage in having advance information as to the direction in which we have been thinking here; and I need not say how very grateful I should be for any help that you can give personally if these ideas come to anything. [2]
 
-_
+ _
 
 1 U.K. Secretary of State for India.
 
@@ -30,4 +35,4 @@ A3195, 1-4890-91) that he had been authorised to open direct discussions with Au
 
 _
 
-_ [FA:A3195, 1.4744-5, 1.4754]_
+ _[FA:A3195, 1.4744-5, 1.4754]_

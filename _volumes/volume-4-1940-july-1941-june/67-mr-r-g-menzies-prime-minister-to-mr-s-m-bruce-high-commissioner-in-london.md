@@ -1,12 +1,17 @@
 ---
-title: "67 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1298
+doc_date: '1940-08-12'
+doc_num: 67
+doc_order: 67
+naa_refs:
+- naa_barcode: 232315
+  naa_control_symbol: '138'
+  naa_series: A2937
+  reference: '[AA:A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-12
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 67 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram 100 12 August 1940,
 
@@ -34,7 +39,7 @@ In my view we have now gone too far to use delaying tactics even if such were de
 
 MENZIES
 
-_
+ _
 
 1 Document 63 2 See Document 63, note 1.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]_
+ _[AA:A2937, LEGATIONS: EXCHANGE OF MINISTERS WITH JAPAN]_

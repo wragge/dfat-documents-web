@@ -1,12 +1,18 @@
 ---
-title: "177 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1931
+doc_date: '1941-12-10'
+doc_num: 177
+doc_order: 178
+naa_refs:
+- naa_barcode: 174160
+  naa_control_symbol: CONS 7 PART 1
+  naa_series: A981
+  reference: '[AA:A981, CONSULS 7A, i]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-10
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 177 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 788 CANBERRA, 10 December 1941
 
@@ -18,7 +24,7 @@ We have no telegrams from Australian Charge d'Affaires, Tokyo [2], since Saturda
 
 Meantime we assume that you will advise us of any proposals regarding the evacuation of British, Commonwealth, American and Japanese diplomatic and consular officers. We would suggest that consideration be given to the possibility of evacuation through some neutral South American country.
 
-_
+ _
 
 1 It reported that the Commonwealth Govt had asked the U.K.
 
@@ -38,4 +44,4 @@ Govt, which hoped to bring Argentina into the war on the Allied side, had sugges
 
 _
 
-_ [AA:A981, CONSULS 7A, i]_
+ _[AA:A981, CONSULS 7A, i]_

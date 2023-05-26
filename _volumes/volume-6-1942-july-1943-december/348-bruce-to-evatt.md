@@ -1,12 +1,17 @@
 ---
-title: "348 Bruce to Evatt"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2639
+doc_date: '1943-12-10'
+doc_num: 348
+doc_order: 348
+naa_refs:
+- naa_barcode: 184631
+  naa_control_symbol: 1943/600/5/1/5
+  naa_series: A989
+  reference: '[AA:A989, 43-44/600/5/1/5]'
+title: Bruce to Evatt
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-12-10
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 348 Bruce to Evatt
 
 Cablegram N40 LONDON, 10 December 1943, 4.10 p.m.
 
@@ -22,7 +27,7 @@ As I see it, the matter having proceeded so far and the proposals having receive
 
 BRUCE
 
-_
+ _
 
 1 Document 347.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A989, 43-44/600/5/1/5]_
+ _[AA:A989, 43-44/600/5/1/5]_

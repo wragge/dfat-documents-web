@@ -1,12 +1,17 @@
 ---
-title: "346 Hood to Department of External Affairs"
-volume: "Volume 8: 1945"
-doc_id: 3377
+doc_date: '1945-10-27'
+doc_num: 346
+doc_order: 346
+naa_refs:
+- naa_barcode: 140132
+  naa_control_symbol: 402/8/1/1/1 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838/2, 402/8/1/1, i]'
+title: Hood to Department of External Affairs
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-27
+vol_title: 'Volume 8: 1945'
 ---
-
-# 346 Hood to Department of External Affairs
 
 Cablegram 348 LONDON, 27 October 1945, 12 midnight
 
@@ -26,7 +31,7 @@ Have had various discussions on this matter over the past week or 10 days but wi
 
 5\. Will continue to report as ideas become clearer here.
 
-_
+ _
 
 1 Document 329.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA : A1838/2, 402/8/1/1, i]_
+ _[AA : A1838/2, 402/8/1/1, i]_

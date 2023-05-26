@@ -1,14 +1,17 @@
 ---
-title: "84 MINUTE, CRITCHLEY TO HASLUCK"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9949
+doc_date: '1967-08-04'
+doc_num: 84
+doc_order: 84
+naa_refs:
+- naa_barcode: 1728296
+  naa_control_symbol: TS691/1 PART 12
+  naa_series: A1838
+  reference: '[NAA:A1838, TS691/1 PART 12]'
+title: MINUTE, CRITCHLEY TO HASLUCK
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-08-04
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 84 MINUTE, CRITCHLEY TO HASLUCK
-
-NAA:A1838, TS691/1 PART 12
 
 Canberra, 4 August 1967
 
@@ -66,3 +69,5 @@ With invisibles (shipping, banking and insurance) Britain should be earning hund
 9\. British co-operation along the foregoing lines could be sought in a high level Five Power Conference early in 1968. It would be important to hold the Conference before the British begin to dismantle their logistic support for the Commonwealth Brigade next March/April.
 
 1 Hasluck had requested a note on UK attitudes to defence and on ‘what might be feasible in seeking their co–operation’. 
+
+[NAA:A1838, TS691/1 PART 12]

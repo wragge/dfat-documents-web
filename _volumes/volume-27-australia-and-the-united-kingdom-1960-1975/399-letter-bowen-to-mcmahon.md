@@ -1,20 +1,23 @@
 ---
-title: "399 LETTER, BOWEN TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10265
+doc_date: '1972-08-22'
+doc_num: 399
+doc_order: 399
+naa_refs:
+- naa_barcode: 8301724
+  naa_control_symbol: 1971/9449 PART 2
+  naa_series: A1209
+  reference: '[NAA: Al209, 1971/9449 PART 2]'
+title: LETTER, BOWEN TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-08-22
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 399 LETTER, BOWEN TO MCMAHON
-
-NAA: Al209, 1971/9449 PART 2
 
 Canberra, 22 August 1972
 
 Confidential
 
-I have received on 15 August 1972 your letter concerning arrangements for the transfer of responsibility for the administration of Australia House. 1 I have now had an opportunity of discussing the proposals set forth in the letter at some length with Sir John Bunting.
+I have received on 15 August 1972 your letter concerning arrangements for the transfer of responsibility for the administration of Australia House. [1](#f1) I have now had an opportunity of discussing the proposals set forth in the letter at some length with Sir John Bunting.
 
 Before commenting on the particular proposals, I believe it is necessary to consider the reasons which led to the decision to make the transfer. It is clear that a stage had been reached where we have a dual relationship with the United Kingdom. The first aspect is the continuance of the old special relationship, exemplified particularly by the continuing link with the Crown. This aspect of the relationship clearly requires the continuance of a direct channel of communication from yourself and your Department. No doubt officers are required to service this. However, a great part of this relationship is channelled through the Governor-General and does not greatly occupy the energies of the establishment at Australia House.
 
@@ -41,3 +44,5 @@ Finally, I emphasise the difficulty presented by paragraph 2 at the top of the p
 To sum up, what is really suggested in the letter, according to my understanding, is that the Foreign Affairs Department has a junior Deputy High Commissioner, with a very narrowly defined area of responsibility in future described as ‘normal matters of Foreign Affairs’, that there is to be no co-ordination of any of the functions of Australia House, which must continue to operate in an unco-ordinated manner as a matter of ‘conscious policy’, and that the only change will be a transfer of the financial responsibility from your vote to mine.
 
 May I suggest that if these proposals were adopted, they would even increase the difficulties that at present exist and would defeat the attempt to improve the situation. Indeed, it is difficult to see any point in altering the financial responsibility from one vote to another, if there is to be no alteration in responsibility for administration. I would not wish to accept a transfer on that basis.
+
+[NAA: Al209, 1971/9449 PART 2]

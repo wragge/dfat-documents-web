@@ -1,12 +1,18 @@
 ---
-title: "138 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office"
-volume: "Volume 2: 1939"
-doc_id: 475
+doc_date: '1939-08-21'
+doc_num: 138
+doc_order: 138
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: FO 372/3319]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
+  Office
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-21
+vol_title: 'Volume 2: 1939'
 ---
-
-# 138 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office
 
 Cablegram 152 (paraphrase) CANBERRA, 21 August 1939
 
@@ -16,7 +22,7 @@ My telegram No. 137 of the 18th July. [1] Today the Prime Minister [2] told me t
 
 He hopes that Sir David Rivett [4] will be the name to be submitted. Failing him he would like Sir Ernest Fisk. [5] In my opinion either appointment would be admirable.
 
-_
+ _
 
 1 This probably refers to cablegram 135 (Document 122).
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [PRO: FO 372/3319]_
+ _[PRO: FO 372/3319]_

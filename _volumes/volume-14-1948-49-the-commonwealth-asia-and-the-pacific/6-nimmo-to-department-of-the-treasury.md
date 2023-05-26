@@ -1,12 +1,18 @@
 ---
-title: "6 Nimmo to Department of the Treasury"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5782
+doc_date: '1948-03-01'
+doc_num: 6
+doc_order: 6
+naa_refs:
+- naa_barcode: 635330
+  naa_control_symbol: 708/12 A
+  naa_series: A1838
+  reference: '[AA: A1838, 708/12A]'
+title: Nimmo to Department of the Treasury
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-03-01
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 6 Nimmo to Department of the Treasury
 
 Cablegram 728 LONDON, 1 March 1948, 4.32 p.m.
 
@@ -32,10 +38,10 @@ Cripps left no doubt about seriousness of European situation.
 
 Europe's ability to pay for imports is increasing very slowly and willingness to pay may be altered by political changes overnight.
 
-_
+ _
 
 1 Document 5.
 
 _
 
-_ [AA: A1838, 708/12A]_
+ _[AA: A1838, 708/12A]_

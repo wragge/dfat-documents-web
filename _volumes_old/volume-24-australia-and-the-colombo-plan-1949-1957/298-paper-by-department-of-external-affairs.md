@@ -1,0 +1,86 @@
+---
+doc_date: '1955-11-09'
+doc_num: 298
+doc_order: 254
+naa_refs:
+- naa_barcode: 564459
+  naa_control_symbol: 740/4/5 PART 1
+  naa_series: A1838
+  reference: '[NAA: 1838, 740/4/5 part 1]'
+title: Paper by Department of External affairs
+vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
+vol_id: 24
+vol_title: 'Volume 24: Australia and the Colombo Plan, 1949-1957'
+---
+
+Canberra, 9 November 1955
+
+CONFIDENTIAL
+
+ **Colombo Plan Meeting in Singapore**
+
+The Consultative Committee on Co-operative Economic Development in South and South-East Asia made its fourth annual review of the Colombo Plan at Singapore from 17th to 21st October, 1955, under the chairmanship of Mr. D.S. Marshall, Chief Minister of Singapore. The Preliminary Meeting of Officials took place between 29th September and 14th October following meetings in the preceding week of a Preliminary Working Group which prepared the first drafts of part of the report.
+
+The following countries were represented: Australia, Burma, Cambodia, Canada, Ceylon, India, Indonesia, Japan, Laos, Nepal, New Zealand, Pakistan, Philippines, Thailand, United Kingdom and the Federation of Malaya, Sarawak, North Borneo and Singapore, the United States and Viet Nam.
+
+In all, 160 delegates attended the meeting. The Minister for External Affairs, Mr. R.G. Casey, represented Australia. Observers from the International Bank, the United Nations Technical Assistance Board, the Colombo Plan Bureau and Information Unit, and E.C.A.F.E were also present.
+
+As at previous meetings of the Consultative Committee, the opportunity was taken to review progress under the Colombo Plan during the past year (1954–55), to define the task ahead and to seek solutions of common problems. The Committee received a draft report prepared by the officials at their preliminary meeting and after full consideration, agreement was reached on the text of the Fourth Annual Report, for publication in the capitals of member countries.
+
+ _Extension of the Plan_
+
+The major decision taken was to extend the operation of the Colombo Plan. In 1950 it was agreed that the Colombo Plan should run until 30th June, 1957. The Committee recognised, however, that this date no longer had any special significance and that the development programmes of the countries of South and South-East Asia would have to be continued for many years to come. It decided therefore that the Plan should continue until 30th June, 1961, and that the future of the Plan should be considered by the Committee at the 1959 meeting.
+
+In the general statements made at the opening session all delegates made a point of stressing the success of the Plan to date and all pledged the support of their governments for its continuation. Frequent references were made to the 'family' nature of the Plan's operation, to its informality and to its political value as an instrument for bringing countries together in a common effort and for increasing respect and understanding between East and West. Representatives of both recipient and donor countries enlarged on these points. The Thai delegate, for example, spoke of the Colombo Plan as 'an institution of proved value. It entails co-operation and sacrifice by all the member countries to make the Plan a success and a testimony to the unity of purpose among a number of nations...occidental and oriental. It is, at any rate, an institution for the peoples of South and South-East Asia, who still require friendly help and advice in order that they may in time enjoy a sufficiently high standard of material and cultural progress'. Similarly, the New Zealand delegate said that 'the Colombo Plan has prompted a brotherhood amongst us which, in these days of misunderstanding and mistrust between nations is a refreshing and indeed a vital force in the achievement of international harmony and prosperity'.
+
+At the same time it was clearly recognised that the Plan could not hope to cure all the economic ills of the area. As Mr. Casey pointed out the help provided under the Plan—although vital—could only be marginal and the major effort must rest with the Asian countries themselves. There was no attempt to minimise the difficulties and scope of the tasks ahead but there was a frank admission that the help so far given, although relatively small, had assisted economic and technical progress and that it was welcomed by the recipients not only for its own sake but also because of the feeling it created that the tasks confronting them were not to be tackled alone. The Asian members pleaded their continuing need for external assistance and its increase in the future. Even countries which have come to be regarded traditionally as being wary about accepting aid—particularly Burma, Indonesia, and India—made it clear that their development plans were in danger of failing unless they were assisted by substantial aid from abroad.
+
+ _Development under the Plan_
+
+The report showed that:
+
+(a) During the fourth year of the Colombo Plan most countries of the area maintained and a few surpassed their previous rate of economic progress. In general there were noticeable increases in national income and output, particularly in industrial and mineral production and power generation. Some projects adopted at the outset of the Plan have now not only been completed but are beginning to bear fruit. Favourable world economic conditions have created an increased demand for the products of the area and made it easier for developing countries to obtain the capital equipment they need. But the prices of some commodities, such as rice, have fallen and countries dependent on the export of these commodities have had special difficulties.
+
+(b) Member Governments in the area aimed in 1954–55 at devoting to development in the public sector not less than the equivalent of some �Stg. 752 million as compared with some �Stg. 542 million in 1953–54, and they hope to achieve an even higher expenditure in 1955–56. The bulk of this outlay is provided by the countries in the area themselves. Over two-fifths of it is directed to agriculture, one quarter to transport and one quarter, to social welfare.
+
+(c) The substantial amounts of capital made available by contributing Governments, the International Bank for Reconstruction and Development and by other institutions has been of appreciable and increasingly effective assistance to the countries of the Colombo Plan area in furthering their development programmes. Such capital has special value as it represents foreign exchange which can stimulate a much larger amount of domestic investment. It was also recognised that external private capital is an essential supplement to the activities of Governments.
+
+ _Problems of the area_
+
+The discussions in the Consultative Committee showed that, despite wide differences between their situations, certain problems were common to most countries in the area. Prominent amongst these was the vital need for ever greater food production, to feed ten million additional people a year in the area and also to improve existing standards of life. Large increases in food production had been achieved in many countries, but they were not yet large enough and further increases would require proportionately greater effort. Prominent also was the need for greater technical skills which, at least as much as finance, were the key to economic progress and social welfare. This point was emphasised throughout by the Australian delegate. (Under the various technical assistance schemes nearly 7,200 places have been found for trainees outside their own countries, of which some 2,200 places were found in the past year. Similarly some 1,200 experts were provided during the year to the countries of South and South-East Asia, brining the total to 3,700.)
+
+ _Atomic energy_
+
+Particular interest was taken in the offers by Canada and the United States of assistance in the field of atomic energy, and more especially in its benign uses. Canada announced that it would make available to Burma, probably within two years, a cobalt-beam therapy unit for use in the diagnoses and treatment of diseases. Scientists from several Colombo Plan countries had been received for work in nuclear physics and similar fields, and an agreement in principle had been reached with India on setting up an NRX atomic reactor in that country, for research and experimental work, which would also be available for useby scientists of other countries.[1](#f1)
+
+The United States offer of a reactor and a training and research centre was carefully worded. The United States delegate pointed out that the special requirements of a thorough atomic research and training effort—the special skills, knowledge, training, equipment, etc.—made that effort a highly expensive business. The dearth of qualified persons who could live with and use the atom posed a particular challenge. If Asia was to benefit by the general advance of mankind into the atomic age this challenge must be met. There was developing a strong interest among Asian nations in meeting'this challenge on a regional basis and the first step in such a co-operative effort would be to build up as rapidly as possible the necessary human skills. The logical beginning would be to establish under the auspices of the Colombo Plan a centre for nuclear research and training. The United States delegate proposed that such a regional centre be established and said that his government would be prepared to contribute substantially to it by way of funds, material and a reactor.
+
+In outline the proposal envisaged:—
+
+(a) the setting up of a nuclear research and training centre which could offer facilities for training and research in the fields, of medicine, agriculture and industry, applying the new techniques of atomic energy;
+
+(b) this centre would make available at a single site the various laboratories and major types of equipment required for advanced research including laboratories for handling radio-active materials and major research equipment such as accelerators and cyclo-trons;
+
+(c) the centre would help in developing instructors and teachers in nuclear science and engineering for Asian educational institutions;
+
+(d) it might be a logical place to locate a cancer hospital;
+
+(e) its wider facilities could supplement the training that individual Asian countries might be able to offer their own citizens;
+
+(f) the centre would be established for students of the region, staffed largely by scientists from the region and supervised by administrators from the region;
+
+(g) the burden of setting up the centre and carrying it forward, and the obligations of staffing it, would rest with the Asian members of the Colombo Plan;
+
+(h) the United States would provide funds for the training of Asian students and for laboratory facilities and equipment for research and training, as well as a reactor suitable for research and training;
+
+(i) the United States contribution would ultimately include a small power reactor if such reactors were available in a few years for export and the necessary safeguards could be provided.
+
+The United States delegate invited the Asian members to study the proposal. If they thought it merited support the United States would see what further action was required, including the question of choosing a site for the centre—the main considerations of which would be the adequacy of local facilities, ease of access and communication, and the complete availability of the centre to all the Colombo Plan countries on an equal basis.
+
+ _The next meeting_
+
+The next meeting of the Committee will be held in New Zealand, towards the end of 1956.
+
+[NAA: 1838, 740/4/5 part 1]
+
+1 Nehru formally accepted the offer from Canada on behalf of his Government on 2 September 1955. The project was formally announced to the public on September 16th.

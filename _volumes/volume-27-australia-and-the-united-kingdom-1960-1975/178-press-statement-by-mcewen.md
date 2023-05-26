@@ -1,18 +1,21 @@
 ---
-title: "178 PRESS STATEMENT BY MCEWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10043
+doc_date: '1962-04-26'
+doc_num: 178
+doc_order: 178
+naa_refs:
+- naa_barcode: 1051623
+  naa_control_symbol: C3368 PART 3
+  naa_series: A4940
+  reference: '[NAA: A4940, C3368 PART 3]'
+title: PRESS STATEMENT BY MCEWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-04-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 178 PRESS STATEMENT BY MCEWEN
-
-NAA: A4940, C3368 PART 3
 
 Canberra, 26 April 1962
 
-****
+ ****
 
 Britain and the Common Market
 
@@ -59,3 +62,5 @@ Mr McEwen said that the decision of the EEC Ministers to invite an Australian re
 Mr McEwen said that the Australian approach to the negotiations in Brussels has always been positive and constructive. He said that in his talks in Europe and elsewhere he had discussed the kind of arrangements which might not only protect Australia’s trade interests but should be acceptable to the Common Market countries and to third countries such as the United States. Possible arrangements had been discussed with representatives of major Australian industries, which the Government had arranged to go to London to provide practical assistance to Dr Westerman in the preparation of the Australian case. Mr McEwen said he was grateful for the co-operation of the industry advisers and the assistance which their knowledge would bring to bear on the many problems involved.
 
 Mr McEwen said that he would be making a full report on his visit to his Cabinet colleagues early next week, after which he expected to make a statement to Parliament.
+
+[NAA: A4940, C3368 PART 3]

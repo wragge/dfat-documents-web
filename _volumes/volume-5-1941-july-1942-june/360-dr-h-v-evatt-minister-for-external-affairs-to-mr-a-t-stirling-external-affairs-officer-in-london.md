@@ -1,14 +1,21 @@
 ---
-title: "360 Dr H. V. Evatt, Minister for External Affairs, to Mr A. T. Stirling, External Affairs Officer in London"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2114
+doc_date: '1942-02-22'
+doc_num: 360
+doc_order: 361
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL''S DEPT
+    FILE MI, MINISTERPERSONAL TELEGRAMS]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr A. T. Stirling, External
+  Affairs Officer in London
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-22
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 360 Dr H. V. Evatt, Minister for External Affairs, to Mr A. T. Stirling, External Affairs Officer in London
-
-## Cablegram unnumbered CANBERRA, 22 February 1942
+Cablegram unnumbered CANBERRA, 22 February 1942
 
 To be decyphered by Stirling alone. To be handed by him to Sir Stafford Cripps [1] alone.
 
@@ -28,7 +35,7 @@ Begins 1. We are relieved and delighted at your appointment and are sure that th
 
 EVATT
 
-_ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
+ _
 
 1 U.K. Lord Privy Seal from 19 February.
 
@@ -46,4 +53,4 @@ _ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
 
 _
 
-_ [FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S_
+ _[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]_

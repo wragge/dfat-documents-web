@@ -1,12 +1,19 @@
 ---
-title: "392 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8230
+doc_date: '1975-12-31'
+doc_num: 392
+doc_order: 391
+naa_refs:
+- naa_barcode: 4151607
+  naa_control_symbol: 801/13/11/1 PART 18
+  naa_series: A10005
+  reference: '[NAA: AI0463, 801/13/11/1, xviii]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-12-31
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 392 Cablegram to Canberra
 
 Jak:arta, 31 December 1975
 
@@ -14,7 +21,7 @@ O.JA3951 CONFIDENTIAL PRIORITY
 
 ## Portuguese Timor
 
-I saw Malik at his house this afternoon, 31 December, and handed over Minister's message.1
+I saw Malik at his house this afternoon, 31 December, and handed over Minister's message.[1](#f1)
 
   2. Malik recalled our previous discussion on the 19th December and said that he had in fact since given instructions to the Indonesian Red Cross that it should send an official and a team of doctors to Dili as soon as possible. Malik said that when the Indonesian Red Cross was established, it would then be prepared to receive the ICRC. Malik added that he had 'insisted' to the provisional government on the importance of getting the Indonesian Red Cross established in Dili without delay
   3. Malik said that he thought that public concern in Australia, while understandable, was probably exaggerated. FRETILIN resistance had crumbled. The fall of Alieu was a decisive blow. Notwithstanding reports in the Australian media of increased fighting, fighting was in fact lessening. FRETILIN forces were tending to hand in their arms and surrender in increasing numbers. Those that did so were not being imprisoned. They were allowed 'to go home'.
@@ -28,8 +35,6 @@ I saw Malik at his house this afternoon, 31 December, and handed over Minister's
 
 WOOLCOTT
 
-_[NAA: AI0463, 801/13/11/1, xviii]_
+ _[NAA: AI0463, 801/13/11/1, xviii]_
 
   * 1 Cablegrams CH304776 and CH304775 (31 December) instructed Woolcott to pass on to Malik a message seeking 'any information available to the Indonesian Government on when the authorities in Dill might be able to agree to the return of the International Committee for the Red Cross to East Timor'.
-
-

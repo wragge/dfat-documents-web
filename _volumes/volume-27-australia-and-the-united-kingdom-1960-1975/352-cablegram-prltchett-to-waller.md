@@ -1,24 +1,27 @@
 ---
-title: "352 CABLEGRAM, PRlTCHETT TO WALLER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10218
+doc_date: '1972-11-26'
+doc_num: 352
+doc_order: 352
+naa_refs:
+- naa_barcode: 552872
+  naa_control_symbol: 67/1/3 PART 6
+  naa_series: A1838
+  reference: '[NAA: A1838, 67/1/3 PART 6]'
+title: CABLEGRAM, PRlTCHETT TO WALLER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 352 CABLEGRAM, PRlTCHETT TO WALLER
-
-NAA: A1838, 67/1/3 PART 6
 
 Australian High Commission, London, 26 November 1972
 
 19078\. Confidential
 
-**Immigration into Britain**
+ **Immigration into Britain**
 
-Thank you for your 15097 and other cables containing guidance and for the useful advice on Australian Press coverage.1
+Thank you for your 15097 and other cables containing guidance and for the useful advice on Australian Press coverage.[1](#f1)
 
-_Desirability of considered public guidance_
+ _Desirability of considered public guidance_
 
 2\. Your instruction should be sufficient for us to manage for the time being, although you will appreciate that however careful and low-key our backgrounding we cannot guarantee that it will not be transposed by other performers. (Although the Government’s Commons defeat has to some extent deflated things here, the situation is still volatile).
 
@@ -64,13 +67,13 @@ Whatever the friendliness towards Australia, and it is still considerable, ‘ki
 
 To have our relations with Britain expressed in these terms and to appear to be harping on the traditional ties and obligations of an earlier generation attract unrewarding critical scrutiny and a measure of scorn.
 
-7\. The Secretary’s conversation with the British High Commissioner2 will have gone some way to correct false impressions in British official circles, but, unless used by the Government here in its political manoeuvring, it cannot help in other quarters and among the public generally (not forgetting the large diplomatic and Press corps in London).
+7\. The Secretary’s conversation with the British High Commissioner[2](#f2) will have gone some way to correct false impressions in British official circles, but, unless used by the Government here in its political manoeuvring, it cannot help in other quarters and among the public generally (not forgetting the large diplomatic and Press corps in London).
 
 What I am trying to convey is that, whether we wish it or not, we have been most publicly involved in a British political controversy, and in a way that you have agreed is inconsistent with our policies and that I am suggesting also detracts from our national standing and our international reputation, and can be prejudicial to our political relations with Britain.
 
 I repeat, therefore, my view that, as soon as circumstances permit, it will be desirable to consider publicly stating our position ourselves.
 
-_The Rules_
+ _The Rules_
 
 8\. Seen from London, our principal interest in the new British immigration rules is in two areas, visits and the preferred status of EEC nationals.
 
@@ -128,7 +131,7 @@ This cannot be said publicly and public reference would obviously reduce what sc
 
 But it is also important that the handling of this whole immigration issue not be such as to stimulate attitudes here restricting the scope for negotiations.
 
-_The British Proposals_
+ _The British Proposals_
 
 14\. We now have two proposals put before us, for Commonwealth consultations on immigration at the senior ministerial level and for ‘reciprocal immigration’ arrangements.
 
@@ -140,7 +143,7 @@ However, even if a conference or consultations were limited to the old Commonwea
 
 This is not only a question of the management of our own national affairs, in which the Commonwealth association, however valuable, is necessarily a restricted and subordinate area: we also would become immediately involved in the racial dimension by the unavoidable linkage with our own immigration policy and by entering into Commonwealth consultation on a racially discriminatory basis and about racially exclusive arrangements.
 
-15\. As regards ‘reciprocal immigration’, you have already indicated in your 14956 a serious difficulty for us, and other considerations will be in your mind.3
+15\. As regards ‘reciprocal immigration’, you have already indicated in your 14956 a serious difficulty for us, and other considerations will be in your mind.[3](#f3)
 
 For example, is there a difficulty in discriminating among our citizens in the arrangements we would seek for preferred status for those of British descent as distinct from Greek or Italian, etc?
 
@@ -148,9 +151,9 @@ While we may not seek to obstruct the emigration of our citizens, do we wish to 
 
 It is still unclear what the Government here intends by ‘reciprocal immigration’.
 
-_The Present Position_
+ _The Present Position_
 
-16\. My immediately following cable records a conversation with Sir Bernard Braine, the much respected and usually loyal Tory MP, who was a principal figure in the Backbenchers’ ‘revolt’ .4
+16\. My immediately following cable records a conversation with Sir Bernard Braine, the much respected and usually loyal Tory MP, who was a principal figure in the Backbenchers’ ‘revolt’ .[4](#f4)
 
 He wants ammunition (though only small arms, really ) to use in his talks with the Government.
 
@@ -193,3 +196,5 @@ If there are any points of substantive policy we wish to raise, as distinct from
 3  The ‘reciprocal’ solution raised the problem that Australia hitherto had not granted unrestricted entry rights to all UK citizens—the White Australia policy had governed entry rules for non-white UK citizens, and Australia had always reserved the right to select migrants from Britain. 
 
 4  Document 353. 
+
+[NAA: A1838, 67/1/3 PART 6]

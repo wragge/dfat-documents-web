@@ -1,14 +1,20 @@
 ---
-title: "429 A. W. Fadden, Acting Prime Minister, to Sir Frederick Stewart, Minister for External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1660
+doc_date: '1941-04-25'
+doc_num: 429
+doc_order: 429
+naa_refs:
+- naa_barcode: 179231
+  naa_control_symbol: NEW C 2 PART 2
+  naa_series: A981
+  reference: '[AA: A981, NEW CALEDONIA 2A, ii]'
+title: A. W. Fadden, Acting Prime Minister, to Sir Frederick Stewart, Minister for
+  External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-25
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 429 A. W. Fadden, Acting Prime Minister, to Sir Frederick Stewart, Minister for External Affairs
-
-## Letter SYDNEY, 25 April 1941
+Letter SYDNEY, 25 April 1941
 
 NEW CALEDONIA-REPORT OF MILITARY MISSION-ASSISTANCE BY COMMONWEALTH GOVERNMENT
 
@@ -30,10 +36,10 @@ Ballard to forward a quarterly report of any developments that may have taken pl
 
 A. FADDEN
 
-_
+ _
 
 1 See AA: A2673, vol. 6. The decisions taken at this meeting are summarised in Document 440. See also Document 425 and Defence Committee Minute 35/1941 of 9 April on file AA: A816, 19/311/110.
 
 _
 
-_ [AA: A981, NEW CALEDONIA 2A, ii]_
+ _[AA: A981, NEW CALEDONIA 2A, ii]_

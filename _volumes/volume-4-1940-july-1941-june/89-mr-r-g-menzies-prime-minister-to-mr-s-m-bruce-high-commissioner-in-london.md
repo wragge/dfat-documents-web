@@ -1,12 +1,17 @@
 ---
-title: "89 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1320
+doc_date: '1940-08-31'
+doc_num: 89
+doc_order: 89
+naa_refs:
+- naa_barcode: 179222
+  naa_control_symbol: NEW C 1 PART 3
+  naa_series: A981
+  reference: '[AA:A981, NEW CALEDONIA 1, iii]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-31
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 89 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 31 August 1940,
 
@@ -24,7 +29,7 @@ Ballard has been informed that best solution would appear to be local administra
 
 MENZIES
 
-_
+ _
 
 1 Dispatched 28 August. It referred to the possible extension of Free French influence in Africa See file AA:M100, August 1940 2 Georges Pelicier.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A981, NEW CALEDONIA 1, iii]_
+ _[AA:A981, NEW CALEDONIA 1, iii]_

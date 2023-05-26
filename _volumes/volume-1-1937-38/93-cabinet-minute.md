@@ -1,23 +1,28 @@
 ---
-title: "93 Cabinet Minute"
-volume: "Volume 1: 1937-38"
-doc_id: 92
+doc_date: '1937-11-01'
+doc_num: 93
+doc_order: 92
+naa_refs:
+- naa_barcode: 32329450
+  naa_control_symbol: '356'
+  naa_series: A2694
+  reference: '[PM &C: A2694, MINUTE 2241, 1 NOVEMBER 1937]'
+title: Cabinet Minute
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-11-01
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 93 Cabinet Minute
-
-## Minute 2241 MELBOURNE, 1 November 1937
+Minute 2241 MELBOURNE, 1 November 1937
 
 COMMONWEALTH COMMISSIONER IN JAPAN
 
 Decided Longfield Lloyd at present Trade Commissioner in Japan to be called Commonwealth Commissioner. [1]
 
-_
+ _
 
 1 No further documentation of this decision has been found. See also editorial note in Document 2.
 
 _
 
-_ [PM&amp;C: A2694, MINUTE 2241, 1 NOVEMBER 1937]_
+ _[PM &C: A2694, MINUTE 2241, 1 NOVEMBER 1937]_

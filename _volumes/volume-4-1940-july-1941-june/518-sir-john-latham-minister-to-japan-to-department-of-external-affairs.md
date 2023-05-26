@@ -1,12 +1,17 @@
 ---
-title: "518 Sir John Latham, Minister to Japan, to Department of External Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1749
+doc_date: '1941-06-23'
+doc_num: 518
+doc_order: 518
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA: A981, FAR EAST 20B, i]'
+title: Sir John Latham, Minister to Japan, to Department of External Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-23
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 518 Sir John Latham, Minister to Japan, to Department of External Affairs
 
 Cablegram 310 TOKYO, 23 June 1941, 8.50 p.m.
 
@@ -24,7 +29,7 @@ I therefore repeat my view in my telegram No. 285 [2] that subject to the final 
 
 Exports to Germany are not now possible through Siberia. I suggest we take advantage of the uncertain international position to delay decision for a time.
 
-_
+ _
 
 1 Dispatched 18 June. See PRO: FO 371/27896. It transmitted the U.K. Govt's view that food shortages in Japan were a consequence of Japanese economic and military policy rather than of trade restrictions imposed by the British Empire.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A981, FAR EAST 20B, i]_
+ _[AA: A981, FAR EAST 20B, i]_

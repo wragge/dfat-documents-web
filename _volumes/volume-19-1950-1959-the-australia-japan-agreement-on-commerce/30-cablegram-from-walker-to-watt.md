@@ -1,12 +1,17 @@
 ---
-title: "30 Cablegram From Walker To Watt"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7635
+doc_date: '1953-06-09'
+doc_num: 30
+doc_order: 30
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP553/1
+  reference: '[AA : CP553/1/1, 194/13/10/35]'
+title: Cablegram From Walker To Watt
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-06-09
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
-
-# 30 Cablegram From Walker To Watt
 
 9th June, 1953
 
@@ -28,7 +33,7 @@ Moreover, a reduction in exchange allocations for food imports has been forecast
 
 5\. I should like to suggest for consideration by the Government that we might agree to hold informal talks of an exploratory nature directed towards establishing in the first place the particular commodities which the Japanese feel should have a larger place in the Australian market, the prices at which they are offered, and the extent to which existing restrictions are a serious obstacle to their exportation. Before the beginning of such talks it should of course be made clear that we would not expect our trade account to balance bilaterally and that any subsequent steps to facilitate Japanese exports must take account of the sterling area's exchange position as well as the needs of our own industries. But to put off the Japanese request for talks indefinitely would be short-sighted from both the political and trade viewpoints.
 
-_
+ _
 
 1 Both referred to Document 24,Cablegram 294 reporting its receipt and the memorandum sent with it as a covering note.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA : CP553/1/1, 194/13/10/35]_
+ _[AA : CP553/1/1, 194/13/10/35]_

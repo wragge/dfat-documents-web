@@ -1,14 +1,21 @@
 ---
-title: "129 Submission to Cabinet Economic Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8999
+doc_date: '1980-08-28'
+doc_num: 129
+doc_order: 129
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission to Cabinet Economic Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-08-28
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 129 Submission to Cabinet Economic Committee
-
-## Wellington, 28 August 1980
+Wellington, 28 August 1980
 
 ## Australia- New Zealand Economic Relations
 
@@ -23,7 +30,7 @@ doc_date: 1980-08-28
   2. At the August meeting, officials exchanged papers on the following subjects: 
     * Basic data relating to goods with duty rates of 10% or less, or equivalent. This was the first step towards compiling Category 1 comprising goods which might immediately move to duty free treatment.
     * Factual information on New Zealand's import licensing system and Australia's tariff quota system.
-    * General principles which might be applied to a relaxation of import licensing in Australia's favour consequential to any new relationship, on the basis approved by the Committee on 5 August 1980 (E (80) M27 Part II refers1).
+    * General principles which might be applied to a relaxation of import licensing in Australia's favour consequential to any new relationship, on the basis approved by the Committee on 5 August 1980 (E (80) M27 Part II refers[1](#f1)).
     * An industry description paper on agricultural products other than dairy products.
     * Position papers on the intermediate goods question.
     * Comparative studies of Customs issues (rules of origin and tariff concessions/by-laws).
@@ -83,7 +90,7 @@ doc_date: 1980-08-28
 
 ### Consultations
 
-  19. The Prime Ministers' Communique2 recognised that consultations with interested parties would be necessary before either country could take decisions on the ultimate direction of the closer economic relations exercise.
+  19. The Prime Ministers' Communique[2](#f2) recognised that consultations with interested parties would be necessary before either country could take decisions on the ultimate direction of the closer economic relations exercise.
   20. If timing options are to be kept open it is necessary to have the manufacturing and business communities focus on the exercise, on the importance of these consultations and on the need for involvement in them. This might best be achieved by a Ministerial press release by 4 September. A draft statement is being prepared and will be submitted shortly.
   21. Recent experience with consultations involving documentation shows that working papers tend to get in the hands of the press in a way that causes many problems. A suitably worded press statement would let all concerned know what was going on and the reasons for it. The methodology spelt out would draw on the Prime Ministerial Communique and would cover all problems, such as intermediate goods, in a way that would not publicly disclose any Australian position. There is perhaps not too much to worry about on this score because there is as yet no finite Australian position and the consultations on such points will need to be held in a way that leaves options open.
   22. It is intended to give Australia advance notice of the press release and to inform Australia that New Zealand intends to carry out such consultations.
@@ -168,9 +175,7 @@ doc_date: 1980-08-28
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 29 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 29 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 See Document 127.
   * 2 Document 93.
-
-

@@ -1,12 +1,17 @@
 ---
-title: "2 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2649
+doc_date: '1944-01-02'
+doc_num: 2
+doc_order: 2
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/833/1]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-02
+vol_title: 'Volume 7: 1944'
 ---
-
-# 2 Cranborne to Commonwealth Government
 
 Cablegram D1 LONDON, 2 January 1944, 3.55 p.m.
 
@@ -198,9 +203,9 @@ that in spite of divergencies a basis for agreement upon
 
 principles might be found.
 
-_
+ _
 
-1 On file AA:A989, 43/735/833/1. It outlined U.S. aviation 
+1 On file AA:A989, 43/735/833/1. It outlined U.S. aviation
 
 interests in the Americas, Europe and the Middle East and stressed 
 
@@ -222,7 +227,7 @@ Correspondence. 2 January 944 (AJCP Reel PRO 5606).
 
 _
 
-_
+ _
 
 [AA:A989, 43/735/833/1]
 

@@ -1,14 +1,17 @@
 ---
-title: "168 MESSAGE, MENZIES TO MACMILLAN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10033
+doc_date: '1962-03-13'
+doc_num: 168
+doc_order: 168
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: DO 159/57]'
+title: MESSAGE, MENZIES TO MACMILLAN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-03-13
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 168 MESSAGE, MENZIES TO MACMILLAN
-
-UKNA: DO 159/57
 
 London, 13 March 1962
 
@@ -29,3 +32,5 @@ It does not seem at all unreasonable to me that we should ask for, and expect to
 I know, of course, that you personally accept this. Reactions which we have had from Ministers and officials of the Six encourage us still to hope that participation arrangements of the kind we have sought will, after further examination be found to be practicable and acceptable.
 
 You will see that in pressing our claim we do not seek to impede in any way the Brussels negotiations. We have not been and we do not intend to be negative in the matter. We have every opportunity of talking to him [sic] about our participation. 1 would hope that meanwhile you will see your way clear to asking your representatives at the Meeting of Deputies to support our attitude on participation, and to endeavour to ensure that the matter is presented by the Deputies to the Ministers in a manner which would leave the way open for Britain to press the proposal for our participation which they advanced at the previous Ministerial meeting.
+
+[UKNA: DO 159/57]

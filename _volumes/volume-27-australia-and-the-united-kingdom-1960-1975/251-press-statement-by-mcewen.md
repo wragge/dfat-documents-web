@@ -1,18 +1,21 @@
 ---
-title: "251 PRESS STATEMENT BY MCEWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10116
+doc_date: '1967-12-11'
+doc_num: 251
+doc_order: 251
+naa_refs:
+- naa_barcode: 4681517
+  naa_control_symbol: '124'
+  naa_series: M2684
+  reference: '[NAA: M2684, 124]'
+title: PRESS STATEMENT BY MCEWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-12-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 251 PRESS STATEMENT BY MCEWEN
-
-NAA: M2684, 124 
 
 Canberra, 11 December 1967
 
-**Statement on Devaluation**
+ **Statement on Devaluation**
 
 The Deputy Prime Minister and Minister for Trade and Industry Mr J McEwen said today that the cabinet’s decision not to move with the pound sterling was one of deepest importance to the Australian community.
 
@@ -75,3 +78,5 @@ The essential necessity to take such steps is a matter of principle for the Coun
 However, the realism of this is that there must be a competent unbiased authority to ascertain the facts of damage and make recommendations to the Government so that effect will be given to the assurance in principle, that our industries will not be damaged by our appreciation of the Australian Dollar.
 
 Neither suffering industries nor the Government itself can afford haggling later on.
+
+[NAA: M2684, 124]

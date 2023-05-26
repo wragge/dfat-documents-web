@@ -1,12 +1,23 @@
 ---
-title: "Note to Portuguese Government"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8338
+doc_date: '1950-03-07'
+doc_num: 0
+doc_order: 499
+naa_refs:
+- naa_barcode: 584246
+  naa_control_symbol: 3038/10/1 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 3038110/1, i.]'
+- naa_barcode: 584246
+  naa_control_symbol: 3038/10/1 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 3038/10/1, i]'
+title: to Portuguese Government
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1950-03-07
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# Note to Portuguese Government
 
 Canberra, 7 March 1950
 
@@ -20,10 +31,8 @@ In view of these facts, the Australian Government has been considering for some 
 
 We have a very direct interest also in the security of Portuguese Timor. Events during the last war proved this, and developments in South-East Asia since the conclusion of hostilities have tended to increase rather than decrease this interest. It is considered, therefore, that the time has arrived when our two Governments should consult together on matters of mutual security interest, as well as mutual commercial interests.
 
-If we were encouraged to pursue this thought it would be a relevant consideration in deciding the future of the Australian Consulate at Portuguese Timor. The Australian Government would appreciate any comments your Government has to offer on both matters. The Australian Government for its part would be glad to discuss these matters further at any time.1
+If we were encouraged to pursue this thought it would be a relevant consideration in deciding the future of the Australian Consulate at Portuguese Timor. The Australian Government would appreciate any comments your Government has to offer on both matters. The Australian Government for its part would be glad to discuss these matters further at any time.[1](#f1)
 
-_[NAA: A1838, 3038/10/1, i]_
+ _[NAA: A1838, 3038/10/1, i]_
 
-  * 1 On 29 March 1950, the Portuguese Consul in Sydney gave what was reported as 'an evasive reply' (see telegram of 10 September 1951). [NAA: A1838, 3038110/1, i.] The Consulate was withdrawn on 23 June 1950 and not fully re-established until4 November 1953. 
-
-
+  * 1 On 29 March 1950, the Portuguese Consul in Sydney gave what was reported as 'an evasive reply' (see telegram of 10 September 1951). [NAA: A1838, 3038110/1, i.] The Consulate was withdrawn on 23 June 1950 and not fully re-established until4 November 1953.

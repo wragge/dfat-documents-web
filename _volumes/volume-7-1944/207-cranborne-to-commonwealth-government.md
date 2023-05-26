@@ -1,12 +1,17 @@
 ---
-title: "207 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2854
+doc_date: '1944-06-29'
+doc_num: 207
+doc_order: 207
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 451]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-06-29
+vol_title: 'Volume 7: 1944'
 ---
-
-# 207 Cranborne to Commonwealth Government
 
 Cablegram D947 LONDON, 29 June 1944, 7 p.m.
 
@@ -36,7 +41,7 @@ We would also suggest that the various representatives in Moscow should be instr
 
 8\. We should be grateful for the comments of the Dominion Governments as soon as convenient.
 
-_
+ _
 
 1 A. A. Sobolev.
 
@@ -44,4 +49,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 451]_
+ _[AA:A5954, BOX 451]_

@@ -1,20 +1,23 @@
 ---
-title: "241 SPEECH BY DOWNER AT ROYAL COMMONWEALTH SOCIETY LUNCHEON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10106
+doc_date: '1967-10-11'
+doc_num: 241
+doc_order: 241
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 20/50]'
+title: SPEECH BY DOWNER AT ROYAL COMMONWEALTH SOCIETY LUNCHEON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-10-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 241 SPEECH BY DOWNER AT ROYAL COMMONWEALTH SOCIETY LUNCHEON
-
-UKNA: FCO 20/50 
 
 Bath, 11 October 1967
 
 It is my lot to take the Chair on this 229th birthday of Admiral Phillip, and I do so with a mixture of pleasure and trepidation in this illustrious city of Bath.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 Hitherto, Britain and Australia have trod much the same paths. We are, after all, substantially a British country.
 
@@ -35,3 +38,5 @@ Finally, is it too much to plead, at a gathering of this nature, for a recrudesc
 I ask you to drink to the Toast—Phillip of Australia.
 
 1  In October 1967, Downer became increasingly vocal in his reservations about British entry into the EEC. During a meeting in London with Westerman earlier in the year, the High Commissioner had stated that ‘unlike some of his Commonwealth colleagues in London, he took advantage of every opportunity to put forward Australia’s point of view’ on trade matters. Westerman replied with ’a note of caution on the best way to serve Australia’s trade policy needs at the present time ... The tactics being adopted by Australia would not be helped by adopting a “ whingeing” or crying attitude’. He urged him to avail himself of the advice of his trade adviser in London, Allan Fleming (NAA: A4092, 78, record of conversation, Westerman and Downer, 23 February 1967). 
+
+[UKNA: FCO 20/50]

@@ -1,21 +1,25 @@
 ---
-title: "231 Paper By Campbell"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9739
+doc_date: '1968-10-08'
+doc_num: 231
+doc_order: 231
+naa_refs:
+- naa_barcode: 5036516
+  naa_control_symbol: 1968/5430
+  naa_series: A452
+  reference: '[NAA: A452, 1968/5430]'
+title: Paper By Campbell
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-10-08
-barcode: 5036516
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 231 Paper By Campbell
 
 Canberra, 8 October 1968
 
-**Notes on paper—Bougainville situation**
+ **Notes on paper—Bougainville situation**
 
-1\. The information contained in the paper 2 reinforces our opinion that CRA operations are merely a precipitating factor and NOT the cause of the BOUGAINVILLE dissention.
+1\. The information contained in the paper [2](#f2) reinforces our opinion that CRA operations are merely a precipitating factor and NOT the cause of the BOUGAINVILLE dissention.
 
-2\. The similarities between the AMEl–DAMlEN secession move 3 and the beginnings of the HAHALIS Welfare Society4 are neither accidental nor coincidental. Both are considered to be examples of that type of Millenerian Movement described by WORSLEY5 as ‘clearly passing into an orthodox political movement’.
+2\. The similarities between the AMEl–DAMlEN secession move [3](#f3) and the beginnings of the HAHALIS Welfare Society[4](#f4) are neither accidental nor coincidental. Both are considered to be examples of that type of Millenerian Movement described by WORSLEY[5](#f5) as ‘clearly passing into an orthodox political movement’.
 
 3\. The major differences between the two situations are
 
@@ -37,7 +41,7 @@ Canberra, 8 October 1968
 
 4\. As we understand the current situation the following pertains
 
-(a) PAUL LAPUN motion for a referendum will be debated in the House of Assembly in November.6
+(a) PAUL LAPUN motion for a referendum will be debated in the House of Assembly in November.[6](#f6)
 
 (b) LAPUN and his supporters are campaigning actively in BOUGAINVILLE.
 
@@ -59,9 +63,9 @@ Canberra, 8 October 1968
 
 8\. While overtly this campaign MUST take the guise of WHITE propaganda, covertly it must be a no-holds-barred communication battle which should begin NOW. It would be unwise to wait until the issue has been debated in the House of Assembly. LAPUN has taken the initiative and has revealed his hand to the Administration—and the world.There is no reason why the Administration should continually play the role of ‘gentleman’.
 
-9\. We repeat our contention—CRA is a pawn. If the Administration does not use it, the secessionists will, and in its own long term interests CRA will ‘fence-sit’ until it has a reasonable indication of the probable reactions. 7
+9\. We repeat our contention—CRA is a pawn. If the Administration does not use it, the secessionists will, and in its own long term interests CRA will ‘fence-sit’ until it has a reasonable indication of the probable reactions. [7](#f7)
 
-[ [NAA: A452, 1968/5430](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=5036516) ]
+[NAA: A452, 1968/5430]
 
 1  A.C.H. Campbell, position unidentified, DOET.
 

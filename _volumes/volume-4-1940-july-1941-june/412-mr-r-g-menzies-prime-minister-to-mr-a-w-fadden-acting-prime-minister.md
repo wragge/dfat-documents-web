@@ -1,12 +1,17 @@
 ---
-title: "412 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1643
+doc_date: '1941-04-18'
+doc_num: 412
+doc_order: 412
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA: A3195, 1941, 1.5966]'
+title: Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-18
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 412 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister
 
 Cablegram M64 LONDON, 18 April 1941, 9.25 p.m.
 
@@ -20,7 +25,7 @@ You may assure Cabinet and the War Council that everything is being done to aver
 
 MENZIES
 
-_
+ _
 
 1 This probably refers to a cablegram numbered 235 which Fadden dispatched to Menzies on 18 April. It stressed the necessity for continuous advice regarding the progress of the evacuation from Greece and other movements affecting Australian troops. See file AA: CP290/9, 11.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A3195, 1941, 1.5966]_
+ _[AA: A3195, 1941, 1.5966]_

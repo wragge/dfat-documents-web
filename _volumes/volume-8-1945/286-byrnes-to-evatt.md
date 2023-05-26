@@ -1,14 +1,19 @@
 ---
-title: "286 Byrnes to Evatt"
-volume: "Volume 8: 1945"
-doc_id: 3317
+doc_date: '1945-10-02'
+doc_num: 286
+doc_order: 286
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA : A5471, A2]'
+title: Byrnes to Evatt
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-02
+vol_title: 'Volume 8: 1945'
 ---
 
-# 286 Byrnes to Evatt
-
-## Letter LONDON, 2 October 1945
+Letter LONDON, 2 October 1945
 
 I have received your letter of October [1] stating your view that the Far Eastern Commission should have its headquarters in Washington. I am glad to have your thoughts in this matter.
 
@@ -16,10 +21,10 @@ There was criticism by some officials of several of the Allied Governments parti
 
 JAMES F. BYRNES
 
-_
+ _
 
 1 Document 282.
 
 _
 
-_ [AA : A5471, A2]_
+ _[AA : A5471, A2]_

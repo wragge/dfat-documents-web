@@ -1,12 +1,19 @@
 ---
-title: "97 Letter from Webster to Henderson"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8967
+doc_date: '1980-07-08'
+doc_num: 97
+doc_order: 97
+naa_refs:
+- naa_barcode: 1509877
+  naa_control_symbol: 370/1/19/18 PART 18
+  naa_series: A1838
+  reference: '[NAA: A1838, 370/1119/18, xviii]'
+title: Letter from Webster to Henderson
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-07-08
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 97 Letter from Webster to Henderson
 
 Wellington, 8 July 1980
 
@@ -28,4 +35,4 @@ Secretary, I note the above as our Prime Minister will be in discussion with Mr 
 
 More detail is in cable O.WL5812 of 817/80.
 
-_[NAA: A1838, 370/1119/18, xviii]_
+ _[NAA: A1838, 370/1119/18, xviii]_

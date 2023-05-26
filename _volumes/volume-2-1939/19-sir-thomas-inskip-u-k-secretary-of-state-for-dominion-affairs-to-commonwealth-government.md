@@ -1,12 +1,18 @@
 ---
-title: "19 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 356
+doc_date: '1939-02-10'
+doc_num: 19
+doc_order: 19
+naa_refs:
+- naa_barcode: 232338
+  naa_control_symbol: '163'
+  naa_series: A2937
+  reference: '[FA: A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-02-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 19 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Circular Cablegram F3 LONDON, 10 February 1939, 2 a.m.
 
@@ -36,7 +42,7 @@ It was thus made clear by His Majesty's Government at the time of their accessio
 
 9\. I am to add that the participation of His Majesty's Government in the United Kingdom in the General Act after the 16th August, 1939, will continue, as heretofore, to be subject to the reservations set forth in their instrument of accession. Ends.
 
-_
+ _
 
 1 Joseph L.A. Avenol.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [FA: A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]_
+ _[FA: A2937, PACIFIC SETTLEMENT OF INTERNATIONAL DISPUTES]_

@@ -1,12 +1,18 @@
 ---
-title: "245 Churchill to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2536
+doc_date: '1943-07-17'
+doc_num: 245
+doc_order: 245
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO,
+    1.29705]'
+title: Churchill to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-07-17
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 245 Churchill to Curtin
 
 Cablegram 177 [1] LONDON, 17 July 1943, 3.50 p.m.
 
@@ -18,8 +24,8 @@ Moreover, it seems to me there is a real risk that our views and policy may beco
 
 I would ask you, therefore, to consider what can be done to prevent embarrassing and possibly dangerous disclosures, and, in particular, to urge that those who, by reason of their position, are in possession of secret information should not employ it in public political controversy.
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 _
 
-_ [FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.29705]_
+ _[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.29705]_

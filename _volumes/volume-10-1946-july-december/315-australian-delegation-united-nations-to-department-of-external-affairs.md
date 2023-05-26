@@ -1,14 +1,19 @@
 ---
-title: "315 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4163
+doc_date: '1946-12-12'
+doc_num: 315
+doc_order: 315
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A4311
+  reference: '[AA:A4311, BOX 481]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-12
+vol_title: 'Volume 10: 1946, July-December'
 ---
 
-# 315 Australian Delegation, United Nations, to Department of External Affairs
-
-## Cablegram UN999 NEW YORK, 12 December 1946
+Cablegram UN999 NEW YORK, 12 December 1946
 
 Assembly 405.
 
@@ -80,7 +85,7 @@ formula was satisfactory. Indian claim re Tanganyika was neither withdrawn nor v
 
 24\. On vote all agreements approved by thirty-five to eight, abstentions nil, absentees eleven. This implies good prospect of two-thirds vote in favour in Plenary. [1] Result a tribute to realism of many delegations but also to good organising, chiefly of Latin American states by U.K. and U.S.A.
 
-_
+ _
 
 1 The Permanent Mandates Commission of the League of Nations.
 
@@ -90,4 +95,4 @@ _
 
 _
 
-_ [AA:A4311, BOX 481]_
+ _[AA:A4311, BOX 481]_

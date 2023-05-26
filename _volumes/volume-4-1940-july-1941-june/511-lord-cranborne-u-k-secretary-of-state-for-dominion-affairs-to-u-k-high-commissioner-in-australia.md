@@ -1,13 +1,18 @@
 ---
-title: "511 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1742
+doc_date: '1941-06-20'
+doc_num: 511
+doc_order: 511
+naa_refs:
+- naa_barcode: 206163
+  naa_control_symbol: H41/1/3
+  naa_series: A1608
+  reference: '[AA: A1608, H41/1/3, i]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to U.K. High
+  Commissioner in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-20
-barcode: 206163
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 511 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to U.K. High Commissioner in Australia
 
 Cablegram 316 LONDON, 20 June 1941, 6.10 a.m.
 
@@ -31,7 +36,7 @@ There is no reason to suppose that the enemy possesses the strength at present t
 
 6\. Little did we think this time last year that we should stand where we do today in the Middle East. Pray see our previous correspondence after the Dakar fiasco. We are certainly in a much better position to defend the Nile Valley than we were then, but I make no promises and give no guarantees except that we will do our best. ENDS.
 
-_
+ _
 
 1 R. G. Menzies.
 
@@ -49,4 +54,4 @@ _
 
 _
 
-_ [ [AA: A1608, H41/1/3, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=206163) ]_
+ _[AA: A1608, H41/1/3, i]_

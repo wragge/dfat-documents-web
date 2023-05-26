@@ -1,12 +1,18 @@
 ---
-title: "522 Critchley to Department of External Affairs"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6691
+doc_date: '1949-10-31'
+doc_num: 522
+doc_order: 522
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3094
+  reference: '[AA : A3094/1, 2/1]'
+title: Critchley to Department of External Affairs
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-10-31
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 522 Critchley to Department of External Affairs
 
 Cablegram C32 THE HAGUE, 31 October 1949, 5.40 p.m.
 
@@ -22,7 +28,7 @@ agreement such as the early concentration of Netherlands forces in Indonesia. Co
 
 I should like to take leave in Europe and return to Indonesia with Herremans, at least for a short time.
 
-_
+ _
 
 1 Document 168.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA : A3094/1, 2/1]_
+ _[AA : A3094/1, 2/1]_

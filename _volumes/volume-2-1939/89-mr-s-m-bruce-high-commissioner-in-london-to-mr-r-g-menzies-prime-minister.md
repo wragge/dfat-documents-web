@@ -1,12 +1,17 @@
 ---
-title: "89 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 426
+doc_date: '1939-05-18'
+doc_num: 89
+doc_order: 89
+naa_refs:
+- naa_barcode: 176557
+  naa_control_symbol: GREA 8 PART 4
+  naa_series: A981
+  reference: '[AA: A981, GREAT BRITAIN 8B, iv]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-05-18
+vol_title: 'Volume 2: 1939'
 ---
-
-# 89 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 179 LONDON, 18 May 1939
 
@@ -46,7 +51,7 @@ Would greatly appreciate your reactions.
 
 BRUCE
 
-_
+ _
 
 1 On 8 May 1939 the U.K. and France asked the U.S.S.R. for a guarantee that if they became involved in hostilities in the course of fulfilling their obligations to Poland and Rumania, the U.S.S.R. would afford immediate assistance if this was desired. The U.S.S.R. rejected this proposal on is (not 14) May on the grounds that it offered no reciprocal obligation and suggested instead a tripartite pact of mutual assistance with the U.K. and France; this would include Finland, Estonia and Latvia in the guarantee system as well as Poland and Rumania.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA: A981, GREAT BRITAIN 8B, iv]_
+ _[AA: A981, GREAT BRITAIN 8B, iv]_

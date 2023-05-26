@@ -1,18 +1,21 @@
 ---
-title: "198 PRESS STATEMENT BY MCEWEN"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10063
+doc_date: '1962-07-26'
+doc_num: 198
+doc_order: 198
+naa_refs:
+- naa_barcode: 584013
+  naa_control_symbol: 727/4/2 PART 2
+  naa_series: A1838
+  reference: '[NAA:A1838, 727/4/2 PART 2]'
+title: PRESS STATEMENT BY MCEWEN
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-07-26
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 198 PRESS STATEMENT BY MCEWEN
-
-NAA:A1838, 727/4/2 PART 2
 
 Canberra, 26 July 1962
 
-****
+ ****
 
 Common Market Effects on Rural Industries
 
@@ -33,3 +36,5 @@ This assessment was the accepted Cabinet view. ‘All these industries will be d
 ‘Today, and in recent years, the whole of the Australian capacity to grow has been too dependent on capital inflow’, said Mr McEwen. ‘I want it to be capable of being based on our overseas earnings so that we can welcome capital inflow, within limits, without becoming dependent upon it and be beholden to those who provide it.
 
 ‘That is why few things are more important to the Australian people today than that we should have the fullest opportunity to sell our exports to best advantage.’
+
+[NAA:A1838, 727/4/2 PART 2]

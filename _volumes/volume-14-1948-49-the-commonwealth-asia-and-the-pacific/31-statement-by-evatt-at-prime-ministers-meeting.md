@@ -1,12 +1,18 @@
 ---
-title: "31 Statement by Evatt at Prime Ministers' Meeting"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 5807
+doc_date: '1948-10-13'
+doc_num: 31
+doc_order: 31
+naa_refs:
+- naa_barcode: 523994
+  naa_control_symbol: '137'
+  naa_series: M448
+  reference: '[AA: M448, 1371]'
+title: Statement by Evatt at Prime Ministers' Meeting
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1948-10-13
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 31 Statement by Evatt at Prime Ministers' Meeting
 
 LONDON, 13 October 1948
 
@@ -22,7 +28,7 @@ STATEMENT ON ECONOMIC AFFAIRS BY AUSTRALIAN DELEGATION
 
 [matter omitted]
 
-_ extraordinary United States' aid by 1952/1953. It does not, however, hope to establish normal trade and payment relations between dollar countries and the rest of the world. It assumes that after 1952/1953 continued restrictions against United States' products will be maintained. Despite this, the Chancellor emphasised in his statement to us on Monday the hope that the United Kingdom has of the full restoration of multilateral trade.
+ _extraordinary United States' aid by 1952/1953. It does not, however, hope to establish normal trade and payment relations between dollar countries and the rest of the world. It assumes that after 1952/1953 continued restrictions against United States' products will be maintained. Despite this, the Chancellor emphasised in his statement to us on Monday the hope that the United Kingdom has of the full restoration of multilateral trade.
 
 He apparently, therefore, anticipates that at some stage it would be possible to remove restrictions against dollar purchases. We would be glad to hear him amplify his views as to the steps by which this result would be achieved and any views he has as to the period over which progress towards their removal must be spread.
 
@@ -44,4 +50,4 @@ Insofar as this can be done for industries which are natural and economic to Aus
 
 _
 
-_ [13.] The plan, as we have it outlined to us, aims to do without_
+ _[13.] The plan, as we have it outlined to us, aims to do without_

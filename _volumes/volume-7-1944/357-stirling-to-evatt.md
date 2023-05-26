@@ -1,12 +1,18 @@
 ---
-title: "357 Stirling to Evatt"
-volume: "Volume 7: 1944"
-doc_id: 3004
+doc_date: '1944-11-22'
+doc_num: 357
+doc_order: 357
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET MASTER SHEETS, EXCEPT FROM
+    SECDOMIN AND BRUCE, 1.41498]'
+title: Stirling to Evatt
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-22
+vol_title: 'Volume 7: 1944'
 ---
-
-# 357 Stirling to Evatt
 
 Cablegram S51 LONDON, 22 November 1944, 12.50 p.m.
 
@@ -26,7 +32,7 @@ We shall be telegraphing to you about this officially.
 
 CRANBORNE
 
-_ FROM SECDOMIN AND BRUCE, 1.41498]
+ _
 
 1 Document 353.
 
@@ -36,4 +42,4 @@ _ FROM SECDOMIN AND BRUCE, 1.41498]
 
 _
 
-_ [AA:A3195, 1944, FOLDER, INWARDS MOST SECRET MASTER SHEETS, EXCEPT_
+ _[AA:A3195, 1944, FOLDER, INWARDS MOST SECRET MASTER SHEETS, EXCEPT FROM SECDOMIN AND BRUCE, 1.41498]_

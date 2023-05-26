@@ -1,12 +1,18 @@
 ---
-title: "138 MacArthur to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2429
+doc_date: '1943-03-17'
+doc_num: 138
+doc_order: 138
+naa_refs:
+- naa_barcode: 853953
+  naa_control_symbol: '140'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA,
+    FILE No. 4, 9/1943]'
+title: MacArthur to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-03-17
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 138 MacArthur to Curtin
 
 Teleprinter message BXC270 [1] BRISBANE, 17 March 1943
 
@@ -16,7 +22,7 @@ The failure of the Prime Minister to receive any reply to his message of January
 
 MACARTHUR
 
-_ 1 This message was transmitted through the Defence Dept secretariat in Brisbane to the Secretary of the Defence Dept, who was then in Canberra.
+ _1 This message was transmitted through the Defence Dept secretariat in Brisbane to the Secretary of the Defence Dept, who was then in Canberra.
 
 2 Document 105.
 
@@ -28,4 +34,4 @@ They took with them a plan (code named Elkton) for a simultaneous advance on Rab
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 4, 9/1943]_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-SWPA, FILE No. 4, 9/1943]_

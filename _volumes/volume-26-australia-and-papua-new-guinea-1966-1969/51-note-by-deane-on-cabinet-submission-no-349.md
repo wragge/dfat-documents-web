@@ -1,19 +1,23 @@
 ---
-title: "51 Note By Deane On Cabinet Submission No. 349"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9559
+doc_date: '1966-07-15'
+doc_num: 51
+doc_order: 51
+naa_refs:
+- naa_barcode: 1807074
+  naa_control_symbol: '349'
+  naa_series: A5841
+  reference: '[NAA: A5841, 349]'
+title: Note By Deane On Cabinet Submission No. 349
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-07-15
-barcode: 1807074
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 51 Note By Deane On Cabinet Submission No. 349
 
 Canberra, 15 July 1966
 
 Confidential
 
-**Grant for Papua and New Guinea Administration in 1966/67**
+ **Grant for Papua and New Guinea Administration in 1966/67**
 
 The Minister is seeking an initial Commonwealth grant for Papua and New Guinea of $72.9m. in 1966/67, plus approval of a further unspecified grant during the year to meet additional salary costs for overseas and local officers expected as a result of arbitration decisions.
 
@@ -27,7 +31,7 @@ Ministers might also consider whether the marginal increase of 0.2% in the propo
 
 Clearly the Commonwealth grant will have to be increased this year by at least $5m. The fact that further supplementary assistance is likely to be needed during the course of the year to meet additional salary expenditure suggests that something less than the total amount now sought is warranted. No doubt the Treasurer will have a specific figure to recommend.
 
-[ [NAA: A5841, 349](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1807074) ]
+[NAA: A5841, 349]
 
 1  R.P. Deane, Assistant Secretary, Economic Policy, PMD.
 

@@ -1,14 +1,17 @@
 ---
-title: "233 CABLEGRAM, FLEMING TO EXTERNAL AFFAIRS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10098
+doc_date: '1967-06-09'
+doc_num: 233
+doc_order: 233
+naa_refs:
+- naa_barcode: 584041
+  naa_control_symbol: 727/4/2 PART 7
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 7]'
+title: CABLEGRAM, FLEMING TO EXTERNAL AFFAIRS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-06-09
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 233 CABLEGRAM, FLEMING TO EXTERNAL AFFAIRS
-
-NAA: A1838, 727/4/2 PART 7 
 
 Australian High Commission, London, 9 June 1967
 
@@ -18,7 +21,7 @@ Australian High Commission, London, 9 June 1967
 
 1\. We met morning and afternoon today Thursday 8th June. [...]
 
-2\. Main points of the meeting were the repeated attempts to lead us into discussion of the relative importance of trade items and our ideas on safeguards, renewed and more explicit concern by officials that we should register their views as officials of the need for ministerial discussion of specific trade questions affecting our interests well before a possible July ‘opening statement’ by UK (they emphasised ‘possible’) the useful disclosure of UK attitudes at the end of our commodity discussions. We of course adhered to your line on discussion of ‘essentially’ .1
+2\. Main points of the meeting were the repeated attempts to lead us into discussion of the relative importance of trade items and our ideas on safeguards, renewed and more explicit concern by officials that we should register their views as officials of the need for ministerial discussion of specific trade questions affecting our interests well before a possible July ‘opening statement’ by UK (they emphasised ‘possible’) the useful disclosure of UK attitudes at the end of our commodity discussions. We of course adhered to your line on discussion of ‘essentially’ .[1](#f1)
 
 3\. Snelling opened by saying that as a preliminary to a meeting of Ministers which he assumed would have to take place it would be useful if we advanced ideas on safeguards and if the UK suggested what might be negotiable or what might be regarded as essential without in any way taking final positions. In discussions with the New Zealanders they were trying to establish a range of alternative solutions which might be put forward as being negotiable. UK officials were under strict ministerial instructions to plan (underlined on the assumption that an application would be made in July[)]. At the Commonwealth liaison committee he (Snelling) had warned Commonwealth countries to present their ideas to the UK as quickly as possible. So the UK would like this meeting to develop some ideas on specific solutions for specific problems.
 
@@ -41,7 +44,7 @@ Australian High Commission, London, 9 June 1967
 
 He put in the ‘better’ category beef and veal, mutton and lamb, apples and pears, wine, eggs, honey and lead and zinc. In the ‘worse off’ category he put butter wheat canned fruit dried vine products and manufactures. Sugar was placed in the ‘Don’t know’ category because detailed discussions were still to take place later this month.
 
-Papua New Guinea he put in the ‘can’t do’ category on the grounds that Britain didn’t seem to have the necessary relationship or standing to ask for anything. The association provisions of the Treaty of Rome he said referred only to dependent territories of members.2
+Papua New Guinea he put in the ‘can’t do’ category on the grounds that Britain didn’t seem to have the necessary relationship or standing to ask for anything. The association provisions of the Treaty of Rome he said referred only to dependent territories of members.[2](#f2)
 
 Snelling summarised his views on individual commodities as follows:
 
@@ -86,3 +89,5 @@ In other words about half of the commodities discussed were ‘at risk’ and so
 1  This is outlined in Document 232. 
 
 2  On the association provisions of the Treaty of Rome see notes to Documents 123 and 143. Papua New Guinea was in the unfortunate position of being a dependent territory of a former British colony (Australia) and as such ineligible for associate status. 
+
+[NAA: A1838, 727/4/2 PART 7]

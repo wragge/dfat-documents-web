@@ -1,12 +1,18 @@
 ---
-title: "170 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 507
+doc_date: '1939-08-30'
+doc_num: 170
+doc_order: 170
+naa_refs:
+- naa_barcode: 176536
+  naa_control_symbol: GER 83 PART 3
+  naa_series: A981
+  reference: '[AA: A981, GERMANY 83B, iii]'
+title: Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R. G.
+  Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-08-30
+vol_title: 'Volume 2: 1939'
 ---
-
-# 170 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular Cablegram B300 LONDON, 30 August 1939, 1.37 p.m.
 
@@ -54,7 +60,7 @@ The German Government desire in this way to give to the British Government and t
 
 For the rest, in making these proposals the German Government have never had any intention of touching Poland's vital interests or questioning the existence of an independent Polish state. The German Government accordingly in these circumstances agree to accept the British Government's offer of their good offices in securing the despatch to Berlin of a Polish emissary with full powers. They count on the arrival of the emissary on Wednesday the 30th August, 1939. The German Government will immediately draw up proposals for a solution acceptable to themselves and will if possible place these at the disposal of the British Government before the arrival of the Polish negotiator. (Ends)
 
-_
+ _
 
 1 Not printed (On file AA: A981, Germany 83B, iii). It reported the dispatch of circular cablegram B300.
 
@@ -64,4 +70,4 @@ _
 
 _
 
-_ [AA: A981, GERMANY 83B, iii]_
+ _[AA: A981, GERMANY 83B, iii]_

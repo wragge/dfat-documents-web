@@ -1,21 +1,26 @@
 ---
-title: "264 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2018
+doc_date: '1942-01-09'
+doc_num: 264
+doc_order: 265
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA:A3830, 1942, 152]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-01-09
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 264 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
-
-## Cablegram 52 WASHINGTON, 9 January 1942, 3.39 p.m.
+Cablegram 52 WASHINGTON, 9 January 1942, 3.39 p.m.
 
 IMPORTANT
 
 United States Government are considering the despatch of ground troops principally anti-aircraft units to Australia, and in this connection they are anxious to know what would be your reaction to proposal that a proportion of these troops should be coloured (Negro).
 
-_
+ _
 
 _
 
-_ [AA:A3830, 1942, 152]_
+ _[AA:A3830, 1942, 152]_

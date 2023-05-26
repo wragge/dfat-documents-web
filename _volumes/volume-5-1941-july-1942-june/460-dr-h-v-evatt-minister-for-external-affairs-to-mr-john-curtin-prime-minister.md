@@ -1,12 +1,17 @@
 ---
-title: "460 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2214
+doc_date: '1942-04-07'
+doc_num: 460
+doc_order: 461
+naa_refs:
+- naa_barcode: 637523
+  naa_control_symbol: WAR 41 PART 1
+  naa_series: A981
+  reference: '[AA:A981, WAR 41B]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-04-07
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 460 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 
 Cablegram S33 WASHINGTON, 7 April 1942, 11.37 p.m.
 
@@ -26,7 +31,7 @@ Further it would ensure that full information of military facts of each theatre 
 
 (6) I have cabled separately on the Russian boundary position. [6] The President stated he was doing everything possible in connection with the protection of Madagascar but he emphasized that during this year we have got to take calculated risks in certain places, otherwise we will be unsafe in every place.
 
-_
+ _
 
 1 Franklin D. Roosevelt.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A981, WAR 41B]_
+ _[AA:A981, WAR 41B]_

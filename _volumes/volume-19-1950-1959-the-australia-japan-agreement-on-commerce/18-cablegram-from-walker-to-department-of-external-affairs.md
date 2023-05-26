@@ -1,12 +1,17 @@
 ---
-title: "18 Cablegram From Walker To Department Of External Affairs"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7623
+doc_date: '1953-01-30'
+doc_num: 18
+doc_order: 18
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CRAWFORD PAPERS MS4514/9/33, ECONOMIC POLICY-RELATIONS WITH JAPAN]'
+title: Cablegram From Walker To Department Of External Affairs
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-01-30
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
-
-# 18 Cablegram From Walker To Department Of External Affairs
 
 30th January, 1953
 
@@ -20,10 +25,10 @@ The United States Embassy is showing great interest in the question of Japanese 
 
 3\. I appreciate the complexity of Australian trade and tariff policy issues involved but feel that from the purely political viewpoint, great weight must be given to the considerations advanced by Waring and which I understand will have been put to you through the United States Embassy in Canberra.
 
-_ JAPAN]
+ _
 
 1\. Frank W. Waring
 
 _
 
-_ [NLA : CRAWFORD PAPERS MS4514/9/33, ECONOMIC POLICY-RELATIONS WITH_
+ _[NLA : CRAWFORD PAPERS MS4514/9/33, ECONOMIC POLICY-RELATIONS WITH JAPAN]_

@@ -1,14 +1,19 @@
 ---
-title: "115 Letter From Crawford To Meere"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7720
+doc_date: '1955-10-14'
+doc_num: 115
+doc_order: 115
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CRAWFORD PAPERS MS4514/9/33, TRADE POLICY: RELATIONS WITH JAPAN]'
+title: Letter From Crawford To Meere
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1955-10-14
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 115 Letter From Crawford To Meere
-
-## 14th October, 1955
+14th October, 1955
 
 CANBERRA
 
@@ -68,14 +73,14 @@ However, we understand that in order to protect the Canadian position on the mar
 
 (4) MISCELLANEOUS COMMODITIES Other items in which we would be interested in exploring what non-discriminatory treatment would mean in Japan are cattle and horse hides, meat, oats, butter and cheese and other foreign foodstuffs, horns and hoofs, casein, tallow, welding rods, asbestos. In the case of some of these items which were under the automatic approval system, some discrimination has applied against Australia and other sterling area countries in that the Japanese importer has had to make a deposit with his licence application, part of which is forfeited if he does not go through with the transaction. In the case of the sterling area, the deposit was 25% and as low as 3% on other countries. We are informed today that the Japanese Press has announced that in the half-yearly budget for October/March 1956, the deposit required of 25% had been reduced to 3% which would remove some of the discrimination against the sterling area.
 
-_ JAPAN]
+ _
 
 1 See Document 113.
 
-2 Otto Wolfensberger, Department of Trade &amp; Customs, Chairman of the Export Sugar Committee and of the Fruit Industry Sugar Concession Committee.
+2 Otto Wolfensberger, Department of Trade  & Customs, Chairman of the Export Sugar Committee and of the Fruit Industry Sugar Concession Committee.
 
 3 Colonial Sugar Refining Co. Ltd.
 
 _
 
-_ [NLA : CRAWFORD PAPERS MS4514/9/33, TRADE POLICY: RELATIONS WITH_
+ _[NLA : CRAWFORD PAPERS MS4514/9/33, TRADE POLICY: RELATIONS WITH JAPAN]_

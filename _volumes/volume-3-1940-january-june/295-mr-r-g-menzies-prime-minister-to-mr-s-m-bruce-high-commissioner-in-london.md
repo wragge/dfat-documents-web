@@ -1,12 +1,17 @@
 ---
-title: "295 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1061
+doc_date: '1940-05-28'
+doc_num: 295
+doc_order: 295
+naa_refs:
+- naa_barcode: 4212445
+  naa_control_symbol: 1940/11
+  naa_series: A3196
+  reference: '[FA: A3196, 0.3280]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-28
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 295 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 28 May 1940,
 
@@ -16,7 +21,7 @@ Queries contained in Dominions Office cables 158 [1] and 164 [2] and in yours of
 
 MENZIES
 
-_
+ _
 
 1 In Series FA: A3195, 1.3424.
 
@@ -34,4 +39,4 @@ A2673, vol. 2, Minute 289.) 7 Dr A. W. L. Tjarda van Starkenborgh Stachouwer.
 
 _
 
-_ [FA: A3196, 0.3280]_
+ _[FA: A3196, 0.3280]_

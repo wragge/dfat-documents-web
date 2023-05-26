@@ -1,14 +1,19 @@
 ---
-title: "48 Aide Memoire Presented By Nishi To Department Of External Affairs"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7653
+doc_date: '1954-01-14'
+doc_num: 48
+doc_order: 48
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A4905
+  reference: '[AA : A4905, VOLUME 22]'
+title: Aide Memoire Presented By Nishi To Department Of External Affairs
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-01-14
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 48 Aide Memoire Presented By Nishi To Department Of External Affairs
-
-## 14th January, 1954
+14th January, 1954
 
 Japanese Trade with Australia The Australian Wheat Board indicated last October that 200,000 tons of wheat was available for Japan for the current season, but in December last Japan declined to purchase, for lack of Sterling, when arrangements for the first shipment of the wheat were about to materialise.
 
@@ -32,8 +37,8 @@ For lack of sterling, Japan has no choice but to make these food imports largely
 
 It is urgently requested that the Australian Government will see to it, in the interests of both countries, that further import relaxation on Japanese goods be effected as soon as possible so as to enable Japan to continue to be a good customer for Australian products.
 
-_
+ _
 
 _
 
-_ [AA : A4905, VOLUME 22]_
+ _[AA : A4905, VOLUME 22]_

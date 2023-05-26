@@ -1,12 +1,17 @@
 ---
-title: "236 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2883
+doc_date: '1944-07-24'
+doc_num: 236
+doc_order: 236
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: no part 3
+  naa_series: A989
+  reference: '[AA:A989, 43/460/10/2, iii]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-24
+vol_title: 'Volume 7: 1944'
 ---
-
-# 236 Commonwealth Government to Cranborne
 
 Cablegram 172 CANBERRA, 24 July 1944
 
@@ -16,7 +21,7 @@ Your telegram No. 135 of 12th June. [1] Australian Government has carefully reco
 
 We assume that proposals on this new basis will be communicated at once to Japanese Government. [4]
 
-_
+ _
 
 1 Document 193.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A989, 43/460/10/2, iii]_
+ _[AA:A989, 43/460/10/2, iii]_

@@ -1,12 +1,17 @@
 ---
-title: "359 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 3006
+doc_date: '1944-11-24'
+doc_num: 359
+doc_order: 359
+naa_refs:
+- naa_barcode: 184720
+  naa_control_symbol: 1944/630/5/1/11/22
+  naa_series: A989
+  reference: '[AA:A989, 44/630/5/l/11/22]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-24
+vol_title: 'Volume 7: 1944'
 ---
-
-# 359 Cranborne to Commonwealth Government
 
 Cablegram 336 [1] LONDON, 24 November 1944, 9 p.m.
 
@@ -34,7 +39,7 @@ Difficulty which we saw over the announcement made after the recent Wellington C
 
 8\. As regards reference in paragraph 1 of Australia's telegram to consultation with the United Kingdom High Commissioner, Wellington, we understand that he urged the exclusion from the published statement of details of the recommendation on this point, but that the Australian and New Zealand representatives did not feel able to do more than make an amendment of the wording.
 
-_
+ _
 
 1 Addressed to the N.Z. Govt as no. 274.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [AA:A989, 44/630/5/l/11/22]_
+ _[AA:A989, 44/630/5/l/11/22]_

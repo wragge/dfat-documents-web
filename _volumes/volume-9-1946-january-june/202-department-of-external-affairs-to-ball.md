@@ -1,12 +1,17 @@
 ---
-title: "202 Department of External Affairs to Ball"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3714
+doc_date: '1946-04-22'
+doc_num: 202
+doc_order: 202
+naa_refs:
+- naa_barcode: 193424
+  naa_control_symbol: P46/10/33/19
+  naa_series: A1067
+  reference: '[AA:A1067, P46/10/33/19, i]'
+title: Department of External Affairs to Ball
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-barcode: 193424
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 202 Department of External Affairs to Ball
 
 Cablegram 10 CANBERRA, 22 APRIL 1946
 
@@ -20,7 +25,7 @@ MacArthur's replies to Russian requests for advance information are generally sa
 
 3\. Instructions are under consideration and will follow as soon as possible.
 
-_
+ _
 
 1 See Document 201 and note 2 thereto.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [ [AA:A1067, P46/10/33/19, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=193424) ]_
+ _[AA:A1067, P46/10/33/19, i]_

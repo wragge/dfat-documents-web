@@ -1,12 +1,17 @@
 ---
-title: "281 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1047
+doc_date: '1940-05-26'
+doc_num: 281
+doc_order: 281
+naa_refs:
+- naa_barcode: 4212445
+  naa_control_symbol: 1940/11
+  naa_series: A3196
+  reference: '[FA: A3196, 0.3228]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-26
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 281 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 26 May 1940,
 
@@ -16,7 +21,7 @@ Your latest appreciation [1], in conjunction with D.W's [2], indicates the extre
 
 MENZIES
 
-_
+ _
 
 1 On 25 May 1940 Bruce reported that the German threat to the Channel ports had made the position of British and Belgian forces in the north extremely serious (see Bruce's cablegram 355 on file AA: M100, May 1940).
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [FA: A3196, 0.3228]_
+ _[FA: A3196, 0.3228]_

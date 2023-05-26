@@ -1,12 +1,18 @@
 ---
-title: "314 Cranborne to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2605
+doc_date: '1943-10-26'
+doc_num: 314
+doc_order: 314
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO,
+    1.44019/22]'
+title: Cranborne to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-10-26
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 314 Cranborne to Curtin
 
 Cablegram 316 LONDON, 26 October 1943, 9.15 p.m.
 
@@ -24,8 +30,8 @@ General Smuts is at present in this country. He could remain over for a December
 
 I am sorry to press you in this matter but I do it in the sincere belief that it is in the best interests of this country, of Australia, and of the whole British Commonwealth that there should be a meeting of the heads of the British Commonwealth Governments at the earliest possible date.
 
-_ 1 Document 310.
+ _1 Document 310.
 
 _
 
-_ [FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.44019/22]_
+ _[FA:A3195, 1943, BOX, MOST SECRET INWARDS MASTER SHEETS FROM SECDO, 1.44019/22]_

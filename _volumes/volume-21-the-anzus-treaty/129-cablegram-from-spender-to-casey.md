@@ -1,12 +1,17 @@
 ---
-title: "129 Cablegram From Spender to Casey"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8480
+doc_date: '1952-03-19'
+doc_num: 129
+doc_order: 129
+naa_refs:
+- naa_barcode: 247087
+  naa_control_symbol: '36982'
+  naa_series: A5461
+  reference: '[NAA : A5461, 1/4/1 (TS)]'
+title: Cablegram From Spender to Casey
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1952-03-19
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 129 Cablegram From Spender to Casey
 
 Cablegram, Washington, 19 March 1952
 
@@ -34,7 +39,7 @@ This morning Foster and Melby called on me at their request. They said they were
 
 4\. Foster thanked me for the above information which he said added considerably to their knowledge of the understandings we had reached with Dulles. He said that whilst the State Department was fully behind us in our desire to have an effective Council some difficulties might be encountered in overcoming the Pentagon's inertia and pre-occupation in other matters. He assured me however that the State Department would follow this matter up immediately with the Pentagon and expressed confidence that the end result would be to our satisfaction.
 
-_ 1 Document 90.
+ _1 Document 90.
 
 2 See note 1 to Document 93.
 
@@ -42,4 +47,4 @@ _ 1 Document 90.
 
 _
 
-_ [NAA : A5461, 1/4/1 (TS)]_
+ _[NAA : A5461, 1/4/1 (TS)]_

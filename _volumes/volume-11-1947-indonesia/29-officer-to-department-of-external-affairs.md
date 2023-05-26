@@ -1,12 +1,17 @@
 ---
-title: "29 Officer to Department of External Affairs"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4213
+doc_date: '1947-04-13'
+doc_num: 29
+doc_order: 29
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838/2, 401/3/2, i]'
+title: Officer to Department of External Affairs
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-04-13
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 29 Officer to Department of External Affairs
 
 Cablegram Hag [1] 51 THE HAGUE, 13 April 1947, 6.50 p.m.
 
@@ -26,7 +31,7 @@ Last night Van Vredenburch, Head of Political Division of Ministry of Foreign Af
 
 6\. My impression is that the Ministry of Foreign Affairs sincerely hopes you will see fit not to press the matter at this juncture, vide our telegram 50. [3]
 
-_
+ _
 
 1 Variously prefixed 'Hague' or 'Hag', cablegrams from the Australian Legation in The Hague formed a single series.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A1838/2, 401/3/2, i]_
+ _[AA:A1838/2, 401/3/2, i]_

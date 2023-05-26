@@ -1,29 +1,32 @@
 ---
-title: "131 SUBMISSION NO.l108, MCEWEN TO CABINET"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9996
+doc_date: '1961-05-05'
+doc_num: 131
+doc_order: 131
+naa_refs:
+- naa_barcode: 584008
+  naa_control_symbol: 727/4/2 PART 1
+  naa_series: A1838
+  reference: '[NAA: A1838, 727/4/2 PART 1]'
+title: SUBMISSION NO.l108, MCEWEN TO CABINET
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-05-05
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 131 SUBMISSION NO.l108, MCEWEN TO CABINET
-
-NAA: A1838, 727/4/2 PART 1
 
 Canberra, 5 May 1961
 
 Secret
 
-****
+ ****
 
 Possible Association of the United Kingdom with the  
 European Economic Community
 
-1\. In Submission No. 996 of 9th February, 1961,1 I reported to Cabinet on developments in connection with the possible association of the United Kingdom with the European Economic Community (the EEC or the ‘Six’). A paper attached to that Submission described briefly some possible courses of policy for Australia but emphasised that the position was complex and fluid. It was pointed out, however, that a situation could quickly develop in which major Australian trade interests would be very much involved and that it might be necessary for us to make prompt decisions on what to do to preserve and, if possible, advance those trade interests.
+1\. In Submission No. 996 of 9th February, 1961,[1](#f1) I reported to Cabinet on developments in connection with the possible association of the United Kingdom with the European Economic Community (the EEC or the ‘Six’). A paper attached to that Submission described briefly some possible courses of policy for Australia but emphasised that the position was complex and fluid. It was pointed out, however, that a situation could quickly develop in which major Australian trade interests would be very much involved and that it might be necessary for us to make prompt decisions on what to do to preserve and, if possible, advance those trade interests.
 
 2\. This Submission is intended to alert Ministers to important recent developments and the serious implications of them.
 
-_Recent Developments_
+ _Recent Developments_
 
 3\. Since the middle of last year, the United Kingdom has been pursuing what she describes as ‘exploratory’ discussions with members of the Six. The object of these discussions has been to explore whether a basis can be found for negotiations which would lead to an association between the United Kingdom and the EEC. The discussions have been concerned with the problems that would have to be overcome to make such an association possible. These problems are formidable. They include the ‘free entry’ opportunities enjoyed in the United Kingdom market by most Commonwealth products; the mutual Commonwealth preferential arrangements; the ‘cheap food’ policy of the United Kingdom, with domestic agriculture supported mainly by subsidies, and the conflicting arrangements in the Six where domestic agriculture, supported by tariffs and quotas, results in high consumer prices; the United Kingdom’s special relations with her partners in the European Free Trade Association (the ‘Seven’); and the extent to which the surrender of national authority to the institutions of the Common Market would mean far-reaching integration on a wide front.
 
@@ -31,21 +34,21 @@ _Recent Developments_
 
 5\. The United Kingdom proposed having further talks with the Germans in the last week of April and the French in the first week of May. The matter will be again discussed at a Ministerial meeting of the Council of the Western European Union on 6th May. The United Kingdom expects to be in a better position after these meetings to judge whether the French, in particular, and the rest of the Six are willing to make progress towards substantive negotiations.
 
-6\. However, it is already apparent that there is a quickening tempo and a sense of urgency attached to the United Kingdom’s efforts to find a way of associating with the EEC. At a meeting of the Western European Union (comprising the United Kingdom and the Six) on 27th February, 1961, the Lord Privy Seal (Mr Heath) made a statement indicating certain ways in which the United Kingdom was prepared to move in order to get an association with the EEC. In particular, he indicated formally for the first time that the United Kingdom was prepared to consider a _common tarif_ with the Six on raw materials and manufactured goods from countries other than the EFTA and the Commonwealth, ‘if the Six can meet the United Kingdom’s Commonwealth and agricultural difficulties’.2
+6\. However, it is already apparent that there is a quickening tempo and a sense of urgency attached to the United Kingdom’s efforts to find a way of associating with the EEC. At a meeting of the Western European Union (comprising the United Kingdom and the Six) on 27th February, 1961, the Lord Privy Seal (Mr Heath) made a statement indicating certain ways in which the United Kingdom was prepared to move in order to get an association with the EEC. In particular, he indicated formally for the first time that the United Kingdom was prepared to consider a _common tarif_ with the Six on raw materials and manufactured goods from countries other than the EFTA and the Commonwealth, ‘if the Six can meet the United Kingdom’s Commonwealth and agricultural difficulties’.[2](#f2)
 
 7\. The Prime Minister (Mr Macmillan) had talks with President Kennedy and Mr Diefenbaker in April. It appears that the United States expressed its support for the United Kingdom’s association with the Six, provided the United Kingdom was prepared to accept the full political implications of the EEC. It was also reported to us from Washington that the United States in response to a United Kingdom question, said they would oppose the exclusion of agriculture from such an association, because it would jeopardise the balance that had been achieved in the Treaty of Rome. This would be consistent with the United States’ general attitude towards the EEC. However, United Kingdom officials say that the United States has not taken up the position that agriculture could not be excluded from an association.
 
-8\. In a message to the Prime Minister on 15th April,3 following his North American discussions, Mr Macmillan put the view that ‘ ... on economic grounds alone we have to recognise that the real choice may well be between maintaining a system of Commonwealth preference with a United Kingdom of declining economic strength and surrendering some of the advantages of the preferential system in return for a stronger United Kingdom and a wider European market’. (In passing, it may be noted that the idea that Commonwealth producers would secure adequate compensating advantages is very difficult to accept, at least with respect to many commodities.)
+8\. In a message to the Prime Minister on 15th April,[3](#f3) following his North American discussions, Mr Macmillan put the view that ‘ ... on economic grounds alone we have to recognise that the real choice may well be between maintaining a system of Commonwealth preference with a United Kingdom of declining economic strength and surrendering some of the advantages of the preferential system in return for a stronger United Kingdom and a wider European market’. (In passing, it may be noted that the idea that Commonwealth producers would secure adequate compensating advantages is very difficult to accept, at least with respect to many commodities.)
 
 9\. These and many other indications of the United Kingdom’s thinking all point to the conclusion that the United Kingdom before very long may feel sufficiently confident of finding solutions to the problems facing her, or feel that the need for her to reach a settlement on the best terms she can get is sufficiently powerful, that she will move from the position of ‘exploratory’ talks to substantive negotiations.
 
-10\. During the Prime Minister’s recent visit to London he secured a re-affirmation, in explicit terms, that before this stage was reached, the United Kingdom would afford Australia and other Commonwealth countries full opportunity for adequate consultations.4 It can be argued that the United Kingdom, as the party seeking to alter the status quo, should be obliged to take the initiative in working out solutions which accord with her declared desire and objective to safeguard Commonwealth interests. But the danger in this approach is that the United Kingdom, in formulating her ideas to accommodate the requirements of the Six, will reach a position where proposals have crystallised, leaving no room for effective consultation and exploration of alternatives more acceptable to us.
+10\. During the Prime Minister’s recent visit to London he secured a re-affirmation, in explicit terms, that before this stage was reached, the United Kingdom would afford Australia and other Commonwealth countries full opportunity for adequate consultations.[4](#f4) It can be argued that the United Kingdom, as the party seeking to alter the status quo, should be obliged to take the initiative in working out solutions which accord with her declared desire and objective to safeguard Commonwealth interests. But the danger in this approach is that the United Kingdom, in formulating her ideas to accommodate the requirements of the Six, will reach a position where proposals have crystallised, leaving no room for effective consultation and exploration of alternatives more acceptable to us.
 
 11\. A meeting of Senior officials from all Commonwealth countries is to be held in London on 24th to 26th May, and the United Kingdom will take this opportunity of bringing Commonwealth countries up-to-date on her position. This meeting, however, with representation from countries with widely divergent interests on this question, is unlikely to get down to detailed discussion with the United Kingdom on the implications for Commonwealth trade interests of an association between the United Kingdom and the EEC. Certainly, it is not an occasion on which we could expect to effectively explore the United Kingdom’s thinking on trade problems of particular concern to us.
 
 12\. With this in mind, the Prime Minister when in London foreshadowed the need for separate talks between Australian and United Kingdom officials. The United Kingdom has accepted this, and will be ready to talk shortly after the Commonwealth meeting. However, she has suggested that it may be helpful to bring New Zealand in, and has indicated that a later date may be more useful.
 
-_Implications for Australian Trade of the United Kingdoms Association with the EEC_
+ _Implications for Australian Trade of the United Kingdoms Association with the EEC_
 
 13\. From the beginning of the United Kingdom’s efforts in 1956 to achieve an association with the EEC countries through a free trade area in Western Europe from which agriculture would be excluded, our general attitude has been that: primarily for broad political reasons but also because of the importance to the Commonwealth of an economically strong United Kingdom, our interests lay in not seeking to prevent the United Kingdom from achieving an association with Europe which was satisfactory to her, provided our major trade interests in her market were safeguarded.
 
@@ -69,15 +72,15 @@ _Implications for Australian Trade of the United Kingdoms Association with the E
 
 23\. It appears that when the United Kingdom moves into the stage of ‘negotiating’ a basis of settlement, the practical issues are likely to be what modifications to the detailed Rome Treaty provisions she can persuade the Six to accept and what sacrifices she (and her Commonwealth partners) must accept as the price of her entry. On _agricultural trade,_ of vital importance to us, it seems clear that she would have to go to a considerable distance to satisfy the Europeans. In greater or lesser degree, according to the actual arrangements finally negotiated, we are bound to be adversely affected on a wide range of commodities exported to the United Kingdom.
 
-_Possible Next Steps_
+ _Possible Next Steps_
 
 24\. Since events could move quickly over the next few months, the immediate objective for us is to get ourselves sufficiently acquainted with the United Kingdom’s thinking so that at the appropriate time we can promptly assess the developing situation and decide our course of action. We cannot afford to wait on developments and rely upon the United Kingdom’s being in fact able, as she has promised, to consult with us in a way, and at times, that would ensure that our views did have a real influence upon the progress and outcome of the negotiations. Accordingly, it would be foolish not to contemplate beforehand what we would do in a situation where the United Kingdom was faced, possibly at short notice, with the fact that the only kind of arrangement which could be negotiated was one which involved far-reaching changes in her treatment of imports from the Commonwealth. This makes it necessary for us to understand far more fully the thinking of the United Kingdom and the Six and the United Kingdom’s assessment of her negotiating position vis-a-vis the Six.
 
 25\. As indicated earlier, the Commonwealth Senior Officials’ meeting is not a forum in which we could expect to get this knowledge and we have therefore sought informal bilateral talks. In this connection it needs to be remembered that Australia’s commodity interests are substantially different from those of other Commonwealth countries. Although Canada has much more immediately at stake on manufactured goods than we have, the threat to her trade in primary products is not so acute. Her major agricultural export, hard wheat, is not likely to be significantly affected (in contrast to our soft wheat supplies). New Zealand’s heavy dependence on her exports of meat and dairy produce to the United Kingdom give her a vital interest in safeguarding her present access to that market but her position is different to ours because she does not have the same range of commodities which stand to be affected. Exports from the less-developed Commonwealth countries are, in the main their own types of raw materials, tropical products (which may be treated in a different way from temperate agricultural products) or are ‘low cost’ manufactures which give rise to special problems. These divergent interests suggest that even talks between the United Kingdom and Australia, Canada and New Zealand (who have most in common) would not be as satisfactory for our immediate purpose as separate talks. Moreover, the latter would avoid the danger of the United Kingdom’s being able to make play of differences between Commonwealth countries.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_Conclusions and Recommendations_
+ _Conclusions and Recommendations_
 
 29\. Beyond the Senior Officials’ meeting and ‘separate’ talks with the United Kingdom, however, there loom very large and very important issues of policy. It is my view that any association by the United Kingdom with the Six is likely to be on the basis not of the United Kingdom proposals as such, but of modifications (or ‘derogations’) in the Treaty of Rome.
 
@@ -88,7 +91,7 @@ _Conclusions and Recommendations_
 32\. Accordingly, whilst the actual recommendations in this submission are quite narrow in their scope, I have in mind that we must, by defining our position, be prepared at any point of time from now onwards to take whatever action may be necessary to inform ourselves as best we can and to protect our position as a whole. Of course I shall from time to time inform Ministers of the progress of events and of changes in the developing situation, but in the meantime quite positive action may be necessary to clarify the position of the United Kingdom, of European countries and of our other trading partners so that we can define our ultimate goals and ways and means of achieving them.
 
 33\. Until we have done this, I think it is important that we continue to avoid any commitment affecting our trade with Western European countries, including the United Kingdom  
-I therefore _recommend_:–
+I therefore _recommend_ :–
 
 > (a) The Australian representatives at the Commonwealth Officials’ meeting on 24–26th May, if they need to state a position, maintain our previous line by recognising the importance to be attached to means of promoting political unity in Europe; but by making it clear that this must be in ways which preserve Australia’s major export interests; and by indicating that we will give a prompt reaction to any specific proposal put forward by the United Kingdom.
 > 
@@ -103,3 +106,5 @@ I therefore _recommend_:–
 3 Document 128.
 
 4 Document 127.
+
+[NAA: A1838, 727/4/2 PART 1]

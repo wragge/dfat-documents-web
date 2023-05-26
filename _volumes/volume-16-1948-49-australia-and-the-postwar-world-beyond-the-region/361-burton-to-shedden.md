@@ -1,12 +1,17 @@
 ---
-title: "361 Burton to Shedden"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 7076
+doc_date: '1948-04-22'
+doc_num: 361
+doc_order: 361
+naa_refs:
+- naa_barcode: 424862
+  naa_control_symbol: AS3/1 SECTION 6
+  naa_series: A6691
+  reference: '[AA : A6691, AS3/1, SECTION 6]'
+title: Burton to Shedden
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-04-22
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
-
-# 361 Burton to Shedden
 
 Letter, CANBERRA, 22 April 1948
 
@@ -26,8 +31,8 @@ Having these facts in mind, particular care should be taken in making a report t
 
 I should be obliged if you would arrange for me to see any draft report which might be returned by any channel to the United Kingdom authorities.
 
-_ [1] Chairman of Directors, Herald and Weekly Times Ltd. Former Director-General of Information, June-December 1940.
+ _[1] Chairman of Directors, Herald and Weekly Times Ltd. Former Director-General of Information, June-December 1940.
 
 _
 
-_ [AA : A6691, AS3/1, SECTION 6]_
+ _[AA : A6691, AS3/1, SECTION 6]_

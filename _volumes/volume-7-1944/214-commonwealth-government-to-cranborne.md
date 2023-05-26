@@ -1,12 +1,17 @@
 ---
-title: "214 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2861
+doc_date: '1944-07-05'
+doc_num: 214
+doc_order: 214
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 451]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-07-05
+vol_title: 'Volume 7: 1944'
 ---
-
-# 214 Commonwealth Government to Cranborne
 
 Cablegram 156 [1] CANBERRA, 5 July 1944
 
@@ -20,7 +25,7 @@ We agree that in view of the delicate questions involved it would be advantageou
 
 We certainly agree that all British Commonwealth Governments should keep each other informed of any Soviet move bearing on this matter and that the various representatives in Moscow should be instructed to exchange information on any development. His Majesty's Australian Minister is being informed accordingly.
 
-_
+ _
 
 1 Repeated to the N. Z. Prime Minister as no. 135.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 451]_
+ _[AA:A5954, BOX 451]_

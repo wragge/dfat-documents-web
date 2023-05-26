@@ -1,12 +1,19 @@
 ---
-title: "504 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1735
+doc_date: '1941-06-14'
+doc_num: 504
+doc_order: 504
+naa_refs:
+- naa_barcode: 232334
+  naa_control_symbol: '159'
+  naa_series: A2937
+  reference: '[AA: A2937, NO. 1. THE PACIFIC. 11TH FEBRUARY UP TO OUTBREAK OF WAR
+    WITH JAPAN]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-06-14
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 504 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 415 LONDON, 14 June 1941, 2.30 p.m.
 
@@ -18,10 +25,10 @@ Apart from whether Netherlands Government would agree in the absence of definite
 
 In the meantime we fully agree that all preparations for reception of Australian forces should be made unobtrusively in advance with the Netherlands authorities.
 
-_ WAR WITH JAPAN]
+ _
 
 1 Document 465.
 
 _
 
-_ [AA: A2937, NO. 1. THE PACIFIC. 11TH FEBRUARY UP TO OUTBREAK OF_
+ _[AA: A2937, NO. 1. THE PACIFIC. 11TH FEBRUARY UP TO OUTBREAK OF WAR WITH JAPAN]_

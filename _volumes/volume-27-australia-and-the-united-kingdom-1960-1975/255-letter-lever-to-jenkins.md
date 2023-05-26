@@ -1,14 +1,17 @@
 ---
-title: "255 LETTER, LEVER TO JENKINS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10120
+doc_date: '1968-02-27'
+doc_num: 255
+doc_order: 255
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: T 295/384]'
+title: LETTER, LEVER TO JENKINS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-02-27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 255 LETTER, LEVER TO JENKINS
-
-UKNA: T 295/384 
 
 London, 27 February 1968
 
@@ -27,3 +30,5 @@ Three remedies appear possible, each with its difficulties:–
 (iii) An appeal to private investors to accept the restraint of the voluntary programme.
 
 I will explore these remedies with officials urgently. But I feel that you ought to know without delay of the probable outflow of funds on this scale, and of its consequences if it is allowed to continue.
+
+[UKNA: T 295/384]

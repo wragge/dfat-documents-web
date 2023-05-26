@@ -1,12 +1,18 @@
 ---
-title: "285 Fraser to Chifley"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6061
+doc_date: '1949-06-11'
+doc_num: 285
+doc_order: 285
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:IN. MASTERSHEETS (TS) 1948-49]'
+title: Fraser to Chifley
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-06-11
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 285 Fraser to Chifley
 
 Cablegram 75 WELLINGTON, 11 June 1949, 11.3 8 a.m.
 
@@ -24,10 +30,10 @@ The form and timing of any announcement must, however, be given the most careful
 
 I shall be grateful for early advice.
 
-_
+ _
 
 1 Document 282.
 
 _
 
-_ [FA:IN. MASTERSHEETS (TS) 1948-49]_
+ _[FA:IN. MASTERSHEETS (TS) 1948-49]_

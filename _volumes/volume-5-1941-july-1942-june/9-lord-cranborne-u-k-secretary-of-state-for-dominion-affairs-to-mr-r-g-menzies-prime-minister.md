@@ -1,12 +1,18 @@
 ---
-title: "9 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1763
+doc_date: '1941-07-17'
+doc_num: 9
+doc_order: 10
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA : A981, FAR EAST 20B, i]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-07-17
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 9 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Circular cablegram M161 (extract) LONDON, 17 July 1941, 10.50 p.m.
 
@@ -46,7 +52,7 @@ occurred to us. They are:
 
 [matter omitted]
 
-_
+ _
 
 1 Document 7.
 
@@ -70,7 +76,7 @@ cablegram 451 of 19 July on the file cited in note 3.
 
 _
 
-_
+ _
 
 [AA : A981, FAR EAST 20B, i]
 

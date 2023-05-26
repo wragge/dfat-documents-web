@@ -1,14 +1,19 @@
 ---
-title: "111 Cablegram From Spender to Menzies"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8462
+doc_date: '1951-08-09'
+doc_num: 111
+doc_order: 111
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5460
+  reference: '[NAA: AA1984/25, 1951, iv]'
+title: Cablegram From Spender to Menzies
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1951-08-09
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
 
-# 111 Cablegram From Spender to Menzies
-
-## Cablegram, Washington, 9 August 1951
+Cablegram, Washington, 9 August 1951
 
 1413\. Tripartite Security Treaty and Japanese Peace Treaty. My 1412.[1]
 
@@ -22,7 +27,7 @@ I suggested to Rusk that it would be most undesirable from many points of view i
 
 5\. One danger which I see in a Security Treaty between the U.S. and the Philippines similar to our own is in connexion with ratification of the treaties. It is not impossible that, if the treaties were virtually identical, Senate might suggest or insist that our tripartite treaty and the bilateral treaty with the Philippines be combined and ratified as a single treaty.
 
-_ 1 1413 covered Spender's discussions with Rusk on Korea.
+ _1 1413 covered Spender's discussions with Rusk on Korea.
 
 2 3 August. It reported a conversation with John F. Melby, Office of South East Asian Affairs, Department of State. Melby said that negotiations between the United States and the Philippines about a formal security treaty had not begun and considered that, if one were negotiated, it would not go beyond the terms of the tripartite Security Treaty and 'would not provide for a council or for consultation'.
 
@@ -56,4 +61,4 @@ On 30 August 1951, with Presidents Quirino and Truman in attendance, representat
 
 _
 
-_ [NAA: AA1984/25, 1951, iv]_
+ _[NAA: AA1984/25, 1951, iv]_

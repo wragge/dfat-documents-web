@@ -1,29 +1,35 @@
 ---
-title: "284 Memorandum, Doet (Ballard) To Administration"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9792
+doc_date: '1969-06-11'
+doc_num: 284
+doc_order: 284
+naa_refs:
+- naa_barcode: 11340888
+  naa_control_symbol: 1969/1135
+  naa_series: A452
+  reference: '[NAA: A452, 196911135]'
+title: Memorandum, Doet (Ballard) To Administration
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
 
-# 284 Memorandum, Doet (Ballard) To Administration
-
-Canberra, II June 1969
+Canberra, 11 June 1969
 
 Confidential 
 
 **Arek Motion on Constitutional Development**
 
-The Secretary’s personal telex 5681 of 5th June to the Administrator1 indicated the position that the Minister wishes Official Members to take when this motion comes on for debate.
+The Secretary’s personal telex 5681 of 5th June to the Administrator[1](#f1) indicated the position that the Minister wishes Official Members to take when this motion comes on for debate.
 
 2\. 1t also indicated that a working paper prepared in the Department would be forwarded. If a Select Committee is established it is proposed that this working paper, together with any other suggestions put forward by the Administration, would be discussed between departmental and Administration officials with a view to seeking a Government direction on the attitude Official Members on the Select Committee should take.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-**Attachment**
+ **Attachment**
 
 WORKING PAPER FOR OFFICIAL MEMBERS
 
-_Introduction_
+ _Introduction_
 
 This Working Paper has been prepared for discussion if a Select Committee on Constitutional Development is set up. A Government direction will then be sought on the attitude Official Members on the Committee should adopt.
 
@@ -31,7 +37,7 @@ Australian policy is directed towards helping the Territory to become self-gover
 
 The Government said in the Governor-General’s speech when the House of Assembly was being inaugurated in 1964—‘Political autonomy is not compatible with extreme economic dependence’.
 
-The Minister, in his Summer School speech in 1968 said ‘ ... We are seeking the social, economic and political advancement of the people of Papua and New Guinea to the stage at which they are ready to choose their own form of government’.2
+The Minister, in his Summer School speech in 1968 said ‘ ... We are seeking the social, economic and political advancement of the people of Papua and New Guinea to the stage at which they are ready to choose their own form of government’.[2](#f2)
 
 ‘The Government has made it clear that it is not its policy that self-government must wait on complete economic self-sufficiency. Papua and New Guinea will clearly need continued outside aid for as long ahead as can be foreseen’,
 
@@ -57,7 +63,7 @@ It will be more than a decade before contributions to Territory revenue by the B
 
 If the Select Committee on consideration wishes to discuss the prospect of self-government or a timetable for self-determination, we expect the Government would say that this ought to be discussed with Ministers in Canberra. Discussions would no doubt include criteria for self-government, means of ascertaining the opinion of the bulk of the people of the Territory, procedures, and the form of financial and other aid that a self-governing Territory could expect to receive from Australia. This procedure would apply whether the Committee had it in mind to propose self-government by a given year or whether it sought to propose a fixed timetable unrelated to actual progress in the economic and social fields.
 
-_Criteria for constitutional re-arrangements short of self-government_
+ _Criteria for constitutional re-arrangements short of self-government_
 
 When the 1965 Select Committee on Constitutional Development was set up, Cabinet determined certain requirements with which any proposals for interim changes in executive government (short of self-government) should not conflict if they were to be supported officially. These requirements were to serve as guides within which policy could be determined. They remain valid—
 
@@ -75,11 +81,11 @@ When the 1965 Select Committee on Constitutional Development was set up, Cabinet
 
 It should be made clear publicly that the Ministerial Member system does not extend to ‘special subjects’ and the departments concerned with them. (But this need not apply to Assistant Ministerial Members.)
 
-_Possible changes in the Legislature_
+ _Possible changes in the Legislature_
 
-One shortcoming of the existing House is its ability to take legislation through all stages in one meeting or indeed one sitting day. It is unlikely that the proposed ‘21 day rule’3 for legislation will be sufficient to slow down the passage of bills, although it will give members a clearer understanding of legislative proposals.
+One shortcoming of the existing House is its ability to take legislation through all stages in one meeting or indeed one sitting day. It is unlikely that the proposed ‘21 day rule’[3](#f3) for legislation will be sufficient to slow down the passage of bills, although it will give members a clearer understanding of legislative proposals.
 
-Some notes on bi-cameral possibilities for the Territory were forwarded to the Administration in February 1969.4 In the covering memorandum it was suggested that Official Members could canvass the question of a Second Chamber if a proposal is made for a further constitutional committee.
+Some notes on bi-cameral possibilities for the Territory were forwarded to the Administration in February 1969.[4](#f4) In the covering memorandum it was suggested that Official Members could canvass the question of a Second Chamber if a proposal is made for a further constitutional committee.
 
 In the debate on the motion, if it appears likely that the Select Committee will be established, the Second Chamber should be mentioned so as to ensure that it will be included in the ambit of matters which could be given consideration by the Select Committee.
 
@@ -93,13 +99,13 @@ Another possible change in connection with the House of Assembly which might use
 
 These and any other matters concerning the composition of the House of Assembly could be discussed in the Select Committee on the basis that Official Members promote the proposal for a House of Review to replace the regional electorates. Otherwise Official Members would ensure that the various possibilities are fully appreciated by elected members but would not canvass any specific conclusions.
 
-_Ministerial Member system_
+ _Ministerial Member system_
 
-The Papua and New Guinea Act is drafted to make possible progressive devolution of authority to Ministerial Members and of Assistant Ministerial Members. Section 24 of the Act authorises the Minister to determine from time to time ‘the matters in respect of which the holder of an office is to perform the functions of a Ministerial Member or an Assistant Ministerial Member’.5
+The Papua and New Guinea Act is drafted to make possible progressive devolution of authority to Ministerial Members and of Assistant Ministerial Members. Section 24 of the Act authorises the Minister to determine from time to time ‘the matters in respect of which the holder of an office is to perform the functions of a Ministerial Member or an Assistant Ministerial Member’.[5](#f5)
 
 Section 25 provides that functions of Ministerial Members and Assistant Ministerial Members are determined by arrangements approved by the Minister. These include ‘to take part in the formulation of policies and plans of proposals for expenditure in relation to these matters and in the direction of the activities of the Department of the Public Service dealing with those matters’. Section 25 also authorises them to represent or assist in representing the Administration in the House of Assembly and in the case of Ministerial Members to make recommendations to the A.E.C.
 
-Approved arrangements provide at present that Ministerial Members are responsible with the Department Heads for overall departmental activities and for framing policy proposals including proposals for expenditure6 (management and public service aspects being the sole responsibility of the Departmental Head). These arrangements do not, however, devolve functions to the extent to which this _may_ be done under the provisions of the Act. It would be within the scope of the legislation for Ministerial Members to exercise their functions so that they stand between the Departmental Head and the Administrator. Nor do the functions of the Ministerial Members cover the whole permissible non-reserved area.
+Approved arrangements provide at present that Ministerial Members are responsible with the Department Heads for overall departmental activities and for framing policy proposals including proposals for expenditure[6](#f6) (management and public service aspects being the sole responsibility of the Departmental Head). These arrangements do not, however, devolve functions to the extent to which this _may_ be done under the provisions of the Act. It would be within the scope of the legislation for Ministerial Members to exercise their functions so that they stand between the Departmental Head and the Administrator. Nor do the functions of the Ministerial Members cover the whole permissible non-reserved area.
 
 lf there is any feeling on the part of elected members that the present arrangements are inadequate a Select Committee could examine—
 
@@ -107,11 +113,11 @@ lf there is any feeling on the part of elected members that the present arrangem
 
 (ii) whether the Select Committee considers they should be given increased responsibilities by variation of the existing arrangements.
 
-_It would be quite contrary to Government policy if a back-lash demand for self-government developed because it was felt that the Ministerial Member system did not give the Ministerial Members the opportunity to exercise adequate functions in the Departments, in the A.E. C. and in the House, which was envisaged by the previous Select Committee and by the Commonwealth when it set up the present arrangements._
+ _It would be quite contrary to Government policy if a back-lash demand for self-government developed because it was felt that the Ministerial Member system did not give the Ministerial Members the opportunity to exercise adequate functions in the Departments, in the A.E. C. and in the House, which was envisaged by the previous Select Committee and by the Commonwealth when it set up the present arrangements._
 
 The power to approve arrangements as to portfolios and functions is vested in the Minister. If proposals are made to review the working of the Ministerial Member system within the present approved arrangements these would be discussed in the Select Committee. If there is a proposal for variation in the arrangements themselves Official Members should suggest that the Select Committee should discuss these with the Minister.
 
-**Annexe**
+ **Annexe**
 
 Basic Government policy is—
 
@@ -123,7 +129,7 @@ Basic Government policy is—
 
 •so far as decisions by Australia are required as to the nature of possible future forms of association that would be acceptable to Australia, such decisions cannot be made now, but should be made at the appropriate time by the Government of the day in the light of the circumstances then existing.
 
-_Gaps_
+ _Gaps_
 
 • The Revenue Gap.
 
@@ -161,11 +167,11 @@ _Gaps_
 
 • The Education Gap.
 
-\- New institutions have been set up (Institute of H.T. Education,7 Bulolo Forestry School, Vudal Agricultural College, Papuan Medical College, P.N.G. University) but the needs are vast and great problems remain to be overcome.
+\- New institutions have been set up (Institute of H.T. Education,[7](#f7) Bulolo Forestry School, Vudal Agricultural College, Papuan Medical College, P.N.G. University) but the needs are vast and great problems remain to be overcome.
 
 \- The output of qualified indigenes will lag several years behind enrolments. Although University enrolments in 1969 are about 470 of whom about 300 are indigenes, it will not be until the end of 1970 that the 1966 enrolment of 58 students, (subject to drop-outs etc.) are expected to qualify.
 
-_Self-government_
+ _Self-government_
 
 • Government sees Ministerial membership system as a realistic method of giving elected members a say in executive government which recognises these gaps.
 
@@ -211,4 +217,4 @@ The Government view is that the best time for self-determination is when the Ter
 
 6  See Document 197. 
 
-7  That is, Higher Technical Education. 
+7  That is, Higher Technical Education.

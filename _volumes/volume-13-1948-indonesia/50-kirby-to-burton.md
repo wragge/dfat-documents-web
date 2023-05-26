@@ -1,12 +1,17 @@
 ---
-title: "50 Kirby to Burton"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5317
+doc_date: '1948-02-09'
+doc_num: 50
+doc_order: 50
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1948, 1.2415]'
+title: Kirby to Burton
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-02-09
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
-
-# 50 Kirby to Burton
 
 Cablegram UN105 NEW YORK, 9 February 1948, 8.58 p.m.
 
@@ -20,7 +25,7 @@ Your UNY60. [1]
 
 3\. The present urgent situation requires help from you rather than telegrams of this nature which certainly do not encourage persons in my position to put themselves out considerably in an endeavour to assist your Department.
 
-_
+ _
 
 1 Document 43.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A3195, 1948, 1.2415]_
+ _[AA:A3195, 1948, 1.2415]_

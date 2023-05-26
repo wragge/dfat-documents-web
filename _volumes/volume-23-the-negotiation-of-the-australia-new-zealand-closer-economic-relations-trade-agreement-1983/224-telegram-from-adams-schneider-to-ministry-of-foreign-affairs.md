@@ -1,30 +1,37 @@
 ---
-title: "224 Telegram from Adams-Schneider to Ministry of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9093
+doc_date: '1981-06-03'
+doc_num: 224
+doc_order: 224
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Telegram from Adams-Schneider to Ministry of Foreign Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-06-03
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 224 Telegram from Adams-Schneider to Ministry of Foreign Affairs
 
 Perth, 3 June 1981
 
 No 128. IMMEDIATE
 
-**Government Purchasing Mission**
+ **Government Purchasing Mission**
 
 I have now seen four State Premiers and am very much encouraged by the reception our proposal has so far been getting. The following is a summary of the reactions of each of the States we have so far visited:
 
-_Victoria_
+ _Victoria_
 
 The Acting Premier (now the Premier designate) confirmed that there was no difficulty in principle in extending to New Zealand the same arrangement which Victoria has with South Australia. There would no doubt be some practical problems and perhaps some difficulties with some of Victoria's manufacturers but he expected that this could be worked through in detailed talks between officials.
 
-_Queensland_
+ _Queensland_
 
-Again the Premier said he saw no difficulty in principle but said that the proposal would need to be looked at in detail by officials and then come up to Ministers in the usual way. It was left that Queensland officials would study the question more closely, trying to quantify the implications and the potential, and would then come back to us when they were ready to talk again. The Queensland Minister (Mr Hewitt) who has responsibility in this area was happy to go along: 'if it's good enough for Joh,1 it's good enough for me'.
+Again the Premier said he saw no difficulty in principle but said that the proposal would need to be looked at in detail by officials and then come up to Ministers in the usual way. It was left that Queensland officials would study the question more closely, trying to quantify the implications and the potential, and would then come back to us when they were ready to talk again. The Queensland Minister (Mr Hewitt) who has responsibility in this area was happy to go along: 'if it's good enough for Joh,[1](#f1) it's good enough for me'.
 
-_New South Wales_
+ _New South Wales_
 
 Last week New South Wales officials and their responsible Minister were chilly. They emphasised the importance of preferences to New South Wales and did not believe that in-State preferences could be given to New Zealand short of a comprehensive abolition of preferences among the States. However when I saw Mr Wran yesterday he was much more open-minded. By implication he seemed to accept that the preferences against New Zealand should be treated as part of the CER negotiations and kept quite separate from the question of interstate preferences. He also accepted that the discussion was about in-State preferences and unlike his Minister did not rule this out or urge us to settle simply for most favoured State treatment.
 
@@ -37,7 +44,7 @@ Wran said he would take our proposal seriously but he would need to look at it f
 
 He said that he understood the need to give us an answer as soon as possible after the Council meets.
 
-_Western Australia_
+ _Western Australia_
 
 The Premier began by saying that he could, without the need to consult his colleagues, say that New Zealand would never be given less favourable treatment than the other Australian States. He did not however see any obvious problems about going further and granting in-State preferences. He implied that he would like to do so to create the right atmosphere to attract more New Zealand bids for private sector business in the State. His real problem with preferences, he said, had nothing to do with New Zealand. It was the means of preventing 'dumping' by eastern state manufacturers. He said that he would look into the question, talk to his colleagues and to the Stores Board which comes under his portfolio. 'I think you will find that after I have talked to the Stores Board we should have no problem in working out something suitable.'
 
@@ -47,8 +54,6 @@ In the light of the reactions we have had so far I am becoming more hopeful that
 
 For Canberra. The High Commissioner may wish to brief Mr Anthony on progress so far.
 
-_[ABHS 950/Boxes1221-1226. 40/4/1 Part 37 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226. 40/4/1 Part 37 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Joh Bjelke-Petersen, Premier of Queensland.
-
-

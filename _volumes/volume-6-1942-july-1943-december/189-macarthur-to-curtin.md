@@ -1,12 +1,18 @@
 ---
-title: "189 MacArthur to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2480
+doc_date: '1943-05-13'
+doc_num: 189
+doc_order: 189
+naa_refs:
+- naa_barcode: 855179
+  naa_control_symbol: '222'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, GLOBAL STRATEGY DISCUSSIONS BETWEEN
+    ROOSEVELT AND CHURCHILL MAY 1943]'
+title: MacArthur to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-05-13
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 189 MacArthur to Curtin
 
 Teleprinter message BXM343 BRISBANE, 13 May 1943
 
@@ -30,7 +36,7 @@ Nevertheless, let me know as soon as possible your views and wishes so that I ca
 
 MAC ARTHUR
 
-_ 1 See Document 108.
+ _1 See Document 108.
 
 2 The decisions of the conference are set out in Document 213.
 
@@ -38,4 +44,4 @@ _ 1 See Document 108.
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, GLOBAL STRATEGY DISCUSSIONS BETWEEN ROOSEVELT AND CHURCHILL MAY 1943]_
+ _[DEFENCE: SPECIAL COLLECTION II, GLOBAL STRATEGY DISCUSSIONS BETWEEN ROOSEVELT AND CHURCHILL MAY 1943]_

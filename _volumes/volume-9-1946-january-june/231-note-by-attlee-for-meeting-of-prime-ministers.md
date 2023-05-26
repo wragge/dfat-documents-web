@@ -1,13 +1,17 @@
 ---
-title: "231 Note by Attlee for Meeting of Prime Ministers"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3743
+doc_date: '1946-05-04'
+doc_num: 231
+doc_order: 231
+naa_refs:
+- naa_barcode: 694890
+  naa_control_symbol: '3'
+  naa_series: A6712
+  reference: '[AA:A6712, [3]'
+title: Note by Attlee for Meeting of Prime Ministers
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-04
-barcode: 694890
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 231 Note by Attlee for Meeting of Prime Ministers
 
 PMM(46)22 LONDON, 4 May 1946
 
@@ -69,7 +73,7 @@ Mr. Byrnes replied that he would be very happy to talk with Dr.
 
 Evatt and with Mr. Nash in Washington when they were on their way back to their own countries. But he was clearly not prepared to agree to a four-party talk. He stressed again that the United States were not interested in establishing any system of regional defence in the south-west Pacific and that their own defence interests lay further north.
 
-_
+ _
 
 1 See Document 229.
 
@@ -81,4 +85,4 @@ _
 
 _
 
-_ [ [AA:A6712, [3]](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=694890) ]_
+ _[AA:A6712, [3]]_

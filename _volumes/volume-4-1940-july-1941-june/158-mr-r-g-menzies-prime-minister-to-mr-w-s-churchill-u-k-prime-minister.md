@@ -1,12 +1,17 @@
 ---
-title: "158 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1389
+doc_date: '1940-10-04'
+doc_num: 158
+doc_order: 158
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: DO 114/113]'
+title: Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-10-04
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 158 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
 
 Cablegram unnumbered 4 October 1940,
 
@@ -38,7 +43,7 @@ Please, my dear Prime Minister, do not interpret anxieties arising from these fa
 
 MENZIES
 
-_
+ _
 
 1 Document 152.
 
@@ -50,4 +55,4 @@ _
 
 _
 
-_ [PRO: DO 114/113]_
+ _[PRO: DO 114/113]_

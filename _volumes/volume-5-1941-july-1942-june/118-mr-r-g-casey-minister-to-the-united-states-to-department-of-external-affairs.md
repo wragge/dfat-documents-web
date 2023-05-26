@@ -1,14 +1,19 @@
 ---
-title: "118 Mr R. G. Casey, Minister to the United States, to Department of External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1872
+doc_date: '1941-11-19'
+doc_num: 118
+doc_order: 119
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[AA : A3830, 1941, 3127 AND 3131]'
+title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-19
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 118 Mr R. G. Casey, Minister to the United States, to Department of External Affairs
-
-## Cablegram Ausco 35 WASHINGTON, 19 November 1941,
+Cablegram Ausco 35 WASHINGTON, 19 November 1941,
 
 (1) After preliminary talk on November 14th Australian Supply Council (self, Macgregor [2], Lormer [3] for Clapp and McCarthy [4] and Watts present at my request) discussed Cosau 296 from Prime Minister's Department today. After discussion Macgregor stated that he felt that he could not commit himself to final views for several days. In view of the urgency of your telegram I am forwarding the following views concurred in by self, Clapp, McCarthy, Watt. Will telegraph Macgregor's views as soon [as] available. [7]
 
@@ -50,7 +55,7 @@ Although (see above) this does not arise in this instance it is suggested it be 
 
 (11) In conveying view to United Kingdom that on all points of policy or principle on Lease-Lend we would wish to work as one unit, we would suggest you ask that consultation between United Kingdom and Dominions take place before any commitments, even of a tentative character, are made and that our representatives be included in any preliminary discussions.
 
-_
+ _
 
 1 This cablegram was dispatched in two parts.
 
@@ -74,4 +79,4 @@ _
 
 _
 
-_ [AA : A3830, 1941, 3127 AND 3131]_
+ _[AA : A3830, 1941, 3127 AND 3131]_

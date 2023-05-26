@@ -1,12 +1,17 @@
 ---
-title: "15 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2306
+doc_date: '1942-08-02'
+doc_num: 15
+doc_order: 15
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1942, 1.30572]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-02
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 15 Bruce to Curtin
 
 Cablegram 122[A] LONDON, 2 August 1942, 11 p.m.
 
@@ -188,16 +193,16 @@ forwarding in my immediately following telegram 123[A]. [9]
 
 BRUCE
 
-  * _ 1 Document 14._
-  * _ 2 Page had been in London as Special Representative of the Commonwealth Govt from October 1941 to March 1942. After a long illness he left London on 25 June and returned to Australia via the United States. He was co-opted as a member of the Advisory War Council on 26 August._
-  * _ 3 See Documents on Australian Foreign Policy 1937-49, vol. V, Documents 259, 262, 289, 304 and 319._
-  * _ 4 See ibid., Document 508._
-  * _ 5 On file AA:M100, June 1942._
-  * _ 6 On file AA:M100, July 1942._
-  * _ 7 Document 9._
-  * _ 8 See cablegrams 112A and 114A of 25 and 27 July on the file cited in note 6._
-  * _ 9 Document 16. _
+  *  _1 Document 14._
+  *  _2 Page had been in London as Special Representative of the Commonwealth Govt from October 1941 to March 1942. After a long illness he left London on 25 June and returned to Australia via the United States. He was co-opted as a member of the Advisory War Council on 26 August._
+  *  _3 See Documents on Australian Foreign Policy 1937-49, vol. V, Documents 259, 262, 289, 304 and 319._
+  *  _4 See ibid., Document 508._
+  *  _5 On file AA:M100, June 1942._
+  *  _6 On file AA:M100, July 1942._
+  *  _7 Document 9._
+  *  _8 See cablegrams 112A and 114A of 25 and 27 July on the file cited in note 6._
+  *  _9 Document 16._
 
 
 
-_ [FA:A3195, 1942, 1.30572]_
+ _[FA:A3195, 1942, 1.30572]_

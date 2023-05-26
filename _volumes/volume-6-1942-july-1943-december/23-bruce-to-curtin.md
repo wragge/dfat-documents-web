@@ -1,12 +1,17 @@
 ---
-title: "23 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2314
+doc_date: '1942-08-13'
+doc_num: 23
+doc_order: 23
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1942, 1.32186]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-08-13
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 23 Bruce to Curtin
 
 Cablegram 135[A] LONDON, 13 August 1942, 8.20 p.m.
 
@@ -32,7 +37,7 @@ Their disposition and utilization is for determination by the American Chiefs of
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 11 August. On file AA:MP1217, box 575, Anglo-American strategy. Discussions in London, July 1942.
 
@@ -52,4 +57,4 @@ France.
 
 _
 
-_ [FA:A3195, 1942, 1.32186]_
+ _[FA:A3195, 1942, 1.32186]_

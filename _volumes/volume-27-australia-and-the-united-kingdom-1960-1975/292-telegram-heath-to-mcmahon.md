@@ -1,20 +1,23 @@
 ---
-title: "292 TELEGRAM, HEATH TO MCMAHON"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10157
+doc_date: '1971-07-02'
+doc_num: 292
+doc_order: 292
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: PREM 15/367]'
+title: TELEGRAM, HEATH TO MCMAHON
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1971-07-02
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 292 TELEGRAM, HEATH TO MCMAHON
-
-UKNA: PREM 15/367 
 
 London, 2 July 1971
 
 218\. Confidential
 
-Thank you for your message, which Alick Downer sent to me on 15 June, 1 setting out your views on aspects of our proposed entry into the European Community which concern Australia. I have now also had from Geoffrey Rippon, John Davies2 and James Prior3 full accounts of their discussions with Douglas Anthony.
+Thank you for your message, which Alick Downer sent to me on 15 June, [1](#f1) setting out your views on aspects of our proposed entry into the European Community which concern Australia. I have now also had from Geoffrey Rippon, John Davies[2](#f2) and James Prior[3](#f3) full accounts of their discussions with Douglas Anthony.
 
 Your main concern is about the transitional arrangements for agriculture. You say that the arrangements which have been negotiated are not what you expected, and in particular do not give adequate protection for your butter and cheese exports during the transitional period. In short, you do not think that we have done enough to secure Australian interests in this respect.
 
@@ -34,7 +37,7 @@ Annex:
 
 In the negotiations in Brussels on 12 May 1971, the Chancellor of the Duchy of Lancaster made the following statement, which followed detailed exchanges with the Community:
 
-[_see text quoted in Document 287_]
+[ _see text quoted in Document 287_ ]
 
 It was on the basis of this understanding that the British delegation were able to accept the Community’s proposals for agricultural transition. The Community agreed that the examination of specific cases would be undertaken by the institutions of the enlarged Community in the light of all the relevant factors: and that such measures as might need to be taken by the Community Institutions during the transitional period with a view to finding solutions to problems which might arise in certain specific cases in the field of trade, would be taken in accordance with the principles, and within the framework, of the Common Agricultural Policy.
 
@@ -43,3 +46,5 @@ It was on the basis of this understanding that the British delegation were able 
 2  Secretary of State for Trade and Industry, 1970–72. 
 
 3  Minister for Agriculture, Fisheries and Food, 1970–72. 
+
+[UKNA: PREM 15/367]

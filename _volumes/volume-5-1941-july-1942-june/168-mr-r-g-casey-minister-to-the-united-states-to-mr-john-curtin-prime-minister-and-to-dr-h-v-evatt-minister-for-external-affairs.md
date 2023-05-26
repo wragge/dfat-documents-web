@@ -1,14 +1,20 @@
 ---
-title: "168 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1922
+doc_date: '1941-12-06'
+doc_num: 168
+doc_order: 169
+naa_refs:
+- naa_barcode: 177621
+  naa_control_symbol: JAP 185 PART 3
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, iii]'
+title: Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister,
+  and to Dr H. V. Evatt, Minister for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-06
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 168 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs
-
-## Cablegram 1095 WASHINGTON, 6 December 1941, [3.37 p.m.] [1]
+Cablegram 1095 WASHINGTON, 6 December 1941, [3.37 p.m.] [1]
 
 IMMEDIATE [BRONX]
 
@@ -24,7 +30,7 @@ I have consulted the British Ambassador [4] who does not believe there is anythi
 
 CASEY
 
-_
+ _
 
 1 Matter in square brackets has been corrected/inserted from the Washington copy on file AA:A3300,100.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, iii]_
+ _[AA: A981, JAPAN 185B, iii]_

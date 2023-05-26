@@ -1,12 +1,17 @@
 ---
-title: "27 Aide-Memoire from United States Embassy to Department of External Affairs"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8378
+doc_date: '1950-11-17'
+doc_num: 27
+doc_order: 27
+naa_refs:
+- naa_barcode: 3001613
+  naa_control_symbol: EATS 77 PART 1
+  naa_series: A6768
+  reference: '[NAA : A6768, EATS77, i]'
+title: Aide-Memoire from United States Embassy to Department of External Affairs
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1950-11-17
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 27 Aide-Memoire from United States Embassy to Department of External Affairs
 
 Canberra, 17 November 1950
 
@@ -22,8 +27,8 @@ The Embassy is instructed as well to convey to the Minister the Department of St
 
 The Australian Embassy in Washington has been informed of the opinions expressed here.
 
-_ 1 Document 26.
+ _1 Document 26.
 
 _
 
-_ [NAA : A6768, EATS77, i]_
+ _[NAA : A6768, EATS77, i]_

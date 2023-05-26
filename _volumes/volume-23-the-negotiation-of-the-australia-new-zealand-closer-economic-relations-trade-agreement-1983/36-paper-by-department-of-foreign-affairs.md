@@ -1,12 +1,19 @@
 ---
-title: "36 Paper by Department of Foreign Affairs"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8906
+doc_date: 1979-10
+doc_num: 36
+doc_order: 36
+naa_refs:
+- naa_barcode: 1509868
+  naa_control_symbol: 370/1/19/18 PART 7
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, vii]'
+title: Paper by Department of Foreign Affairs
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1979-09-25
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 36 Paper by Department of Foreign Affairs
 
 Canberra, [October 1979]1
 
@@ -180,7 +187,7 @@ Increased economic co-operation could lead to calls for co-ordination of energy 
 
 If there were to be a larger degree of economic co-operation between Australia and New Zealand, it might be argued that a corollary of such association would be greater co-operation on development assistance matters. For a number of reasons, however, it is felt that this may not be the case in the short term.
 
-Significant contact already exists between Australia and New Zealand in relation to official development assistance matters. Consultations on overseas development assistance issues, endorsed in the Nareen declaration,2 have been held annually since 1977. The declaration also makes provision for short-term exchanges of aid officials between the two countries.
+Significant contact already exists between Australia and New Zealand in relation to official development assistance matters. Consultations on overseas development assistance issues, endorsed in the Nareen declaration,[2](#f2) have been held annually since 1977. The declaration also makes provision for short-term exchanges of aid officials between the two countries.
 
 In addition, both ADAB and the External Aid Division (EAD) of the New Zealand Ministry of Foreign Affairs have agreed to designate an officer to keep an eye on co-operation between Australia and New Zealand. Both countries agree that informal contact should be encouraged. On the multilateral aid side, New Zealand is a member of the Australian constituency at the World Bank.
 
@@ -188,7 +195,7 @@ However, apart from a possible increase in staff exchanges, the current level of
 
 If ultimately Australia and New Zealand were to move to an EEC-type arrangement, it is doubtful that initially there should be a concentrated effort to run a joint aid program, in addition to separate programs, as is currently done by the EEC. Such an exercise would require significant funds to have any real effect. However, most funds currently going to multilateral bodies could not be diverted to subsidise the activities of such an EEC-type commission. Furthermore, nearly 80 per cent of both donors' programs is disbursed on a bilateral basis. Each seeks to include an identifiable association with most of the aid provided. In addition, with both Australia's and New Zealand's aid declining in real terms there would be a reluctance to place scarce resources into a common pool. The probability of additional funds being made available by either government for an EEC-type aid program is remote in the short term.
 
-In the long term, however, as Pacific nations develop relations with whatever form of closer economic co-operation between Australia and New Zealand evolves, we will need to look closely at our respective aid programs. It may well be that new forms of aid will be required to match the status of the economic association (e.g. Lome-type arrangements3).
+In the long term, however, as Pacific nations develop relations with whatever form of closer economic co-operation between Australia and New Zealand evolves, we will need to look closely at our respective aid programs. It may well be that new forms of aid will be required to match the status of the economic association (e.g. Lome-type arrangements[3](#f3)).
 
 ## Civil Aviation
 
@@ -202,7 +209,7 @@ There is some difference of emphasis on Antarctic resource issues. New Zealand h
 
 ## Law of the Sea
 
-In Law of the Sea matters there are different emphases between Australia and New Zealand on the rights of coastal states to control passage through territorial seas, revenue sharing in respect of the continental shelf beyond 200 miles, the financing of the 'Enterprise' 4 and the control of the production of the seabed minerals.
+In Law of the Sea matters there are different emphases between Australia and New Zealand on the rights of coastal states to control passage through territorial seas, revenue sharing in respect of the continental shelf beyond 200 miles, the financing of the 'Enterprise' [4](#f4) and the control of the production of the seabed minerals.
 
 UNCLOS is likely to have concluded before the effects of closer economic association are felt, and the different emphases which currently exist are likely to have been subsumed in the convention that emerges from the Conference. There will be scope for harmonisation of policies on the control and development of our respective continental shelves and exclusive resources zones, for example oil exploration and exploitation activity, surveillance and relations with distant water fishing nations. There will also be scope for a co-ordinated approach to the maritime policies of the countries of the South West Pacific. There will be similar scope with respect to co-ordination of policies towards the International Sea-Bed Authority to be established under a Law of the Sea Convention. None of the options canvassed would require the adoption of identical policies on Law of the Sea matters.
 
@@ -214,7 +221,7 @@ The fisheries policies of both countries, although not formally affected by clos
 
 ## NIEO Issues
 
-Both countries perceive that their interests sometimes suffer as a result of being lumped in with the developed world in the familiar North/South dichotomy, although the degree of disadvantage varies between the two countries, and according to the issue. At the most recent UNCTAD V meeting in Manila, New Zealand kept closer to the general Group B 5 position than did Australia, but on the other occasions, the reverse has been the case and New Zealand has been more ready than Australia to consider joining G77.6
+Both countries perceive that their interests sometimes suffer as a result of being lumped in with the developed world in the familiar North/South dichotomy, although the degree of disadvantage varies between the two countries, and according to the issue. At the most recent UNCTAD V meeting in Manila, New Zealand kept closer to the general Group B [5](#f5) position than did Australia, but on the other occasions, the reverse has been the case and New Zealand has been more ready than Australia to consider joining G77.[6](#f6)
 
 This follows from an increasing New Zealand inclination to carve out for itself within Group B a distinctive position as one of the 'least developed of the developed countries', seeking special arrangements because of this position (e.g. on assessed contributions to the Common Fund). Although Australia cannot claim such a position (because of GNP per capita income, growth rates, etc.) it too has become increasingly concerned to identify opportunities where it can pursue its own particular interests on NIEO issues. Because of the Group system of negotiations on North/South issues, however, there seems little alternative now to continue membership by both countries of the 'developed country' negotiating group in international fora.
 
@@ -246,7 +253,7 @@ A number of Commonwealth countries are involved in economic or political associa
 
 As to Australia's membership of international organisations, and perceptions of Australia in political forums of which it is not a member (e.g. the NAM), we see relatively few implications arising from a closer economic association with New Zealand. Indeed, many countries already assume that Australia and New Zealand consult closely on political matters. From the multilateral political point of view, our most important concern is how the Third World perceives Australian policies on key issues, such as southern Africa, the Middle East and so on. We would want to ensure that closer association did not lead to us being associated with some of New Zealand's unpopular policies.
 
-_[NAA: A1838, 37011/19/18, vii]_
+ _[NAA: A1838, 37011/19/18, vii]_
 
   * 1 The document is undated. An earlier draft was sent to thirteen Departments on 25 September 1979 for comments. On 3 October the 'latest draft' was sent to all Foreign Affairs Assistant Secretaries for further comments. That document is identical to the one published here. 
   * 2 Document 1.
@@ -254,5 +261,3 @@ _[NAA: A1838, 37011/19/18, vii]_
   * 4 Not identified.
   * 5 i.e. the developed countries.
   * 6 The Group of 77 at the United Nations (G77) assists developing countries to negotiate on economic issues in the United Nations.
-
-

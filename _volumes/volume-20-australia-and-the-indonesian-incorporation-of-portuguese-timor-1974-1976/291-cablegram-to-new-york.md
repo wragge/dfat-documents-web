@@ -1,12 +1,19 @@
 ---
-title: "291 Cablegram to New York"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8129
+doc_date: '1975-10-23'
+doc_num: 291
+doc_order: 290
+naa_refs:
+- naa_barcode: 4151606
+  naa_control_symbol: 801/13/11/1 PART 15
+  naa_series: A10463
+  reference: '[NAA: Al0463, 801113/11/1, xv]'
+title: Cablegram to New York
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-10-23
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 291 Cablegram to New York
 
 Canberra, 23 October 1975,6.45 p.m.
 
@@ -14,7 +21,7 @@ O.CH282275 CONFIDENTIAL PRIORITY
 
 ## Portuguese Timor
 
-Ref. O.JA24621
+Ref. O.JA2462[1](#f1)
 
 We take it that Campbell already has enough briefing for his discussion with Moerdani. It seems to us here that the main points that we need to get over to the Indonesians about United Nations involvement in Portuguese Timor are:
 
@@ -26,8 +33,6 @@ We take it that Campbell already has enough briefing for his discussion with Moe
 
 Despite the rather negative response we have met with in conversation with Foreign Ministry officials in Jakarta on point (b), there are other signs that the Indonesians may in fact have taken it on board and are moving towards some contingency planning about discussion of Portuguese Timor in the United Nations.
 
-_[NAA: Al0463, 801113/11/1, xv]_
+ _[NAA: Al0463, 801113/11/1, xv]_
 
   * 1 17 October. It advised that Moerdani would be in New York on 24 or 25 October, and would like to see Campbell while there. In the event Moerdani did not contact Campbell, during what was presumed to be a very brief visit.
-
-

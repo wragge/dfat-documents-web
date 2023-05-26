@@ -1,15 +1,19 @@
 ---
-title: "74 Minute From Durie To Menzies"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7679
+doc_date: '1954-09-30'
+doc_num: 74
+doc_order: 74
+naa_refs:
+- naa_barcode: 209115
+  naa_control_symbol: VOLUME 5
+  naa_series: A4906
+  reference: '[AA : A4906, VOLUME 5]'
+title: Minute From Durie To Menzies
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1954-09-30
-barcode: 209115
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 74 Minute From Durie To Menzies
-
-## 30th September, 1954
+30th September, 1954
 
 Import Licensing on Japan Today's submission by Customs [1] represents a complete about face on this topic.
 
@@ -25,10 +29,10 @@ I repeat my earlier suggestion that we should aim at complete assimilation on th
 
 In the meantime we can carry out the intention of clearing the principles of the new basis with Mr McEwen.
 
-_
+ _
 
 1 Document 73.
 
 _
 
-_ [ [AA : A4906, VOLUME 5](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=209115) ]_
+ _[AA : A4906, VOLUME 5]_

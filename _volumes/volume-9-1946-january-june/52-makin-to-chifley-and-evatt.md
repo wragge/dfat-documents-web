@@ -1,12 +1,17 @@
 ---
-title: "52 Makin to Chifley and Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3564
+doc_date: '1946-01-24'
+doc_num: 52
+doc_order: 52
+naa_refs:
+- naa_barcode: 273924
+  naa_control_symbol: SPTS 1/4
+  naa_series: A6494
+  reference: '[AA:A6494 TI, SPTS/1/4]'
+title: Makin to Chifley and Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-24
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 52 Makin to Chifley and Evatt
 
 Cablegram 546 LONDON, 24 January 1946, 8.15 p.m.
 
@@ -16,10 +21,10 @@ Further to my telegram yesterday [1] have now received the following draft note 
 
 (2) The examination of American suggestions affecting possible transfer of sovereignty in the case of certain Pacific Islands.'
 
-_
+ _
 
 1 Document 48.
 
 _
 
-_ [AA:A6494 TI, SPTS/1/4]_
+ _[AA:A6494 TI, SPTS/1/4]_

@@ -1,0 +1,60 @@
+---
+# Please process this file Jekyll
+---
+
+@import "bulma/sass/utilities/initial-variables";
+@import "bulma/sass/utilities/functions";
+
+@import "bulma/bulma.sass";
+
+.content dt {
+    margin-top: 1em;
+}
+
+.content dt:first-child {
+    margin-top: 0;
+}
+
+.content dl.doc-list dt.title {
+    margin-bottom: 0.5em;
+}
+
+.content dl.toc dt.title {
+    margin-top: 1em;
+}
+
+.content ul.highlights {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    list-style-type: none;
+    margin-left: 0;
+}
+
+.content ul.highlights em {
+    font-weight: bold;
+}
+
+.doc_number {
+    padding-top: 0;
+}
+
+.content dl.doc-list dd blockquote {
+    margin-top: 0.5em;
+}
+
+.content dd.excerpt {
+    margin-top: 0.5em;
+}
+
+ul.facet-list {
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+
+div.sidebar h6.title {
+    margin-bottom: 0.5em;
+}
+
+footer {
+    margin-bottom: 2em;
+}

@@ -1,24 +1,29 @@
 ---
-title: "65 Note By Griffith On Cabinet Submission No. 419"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9573
+doc_date: '1966-08-29'
+doc_num: 65
+doc_order: 65
+naa_refs:
+- naa_barcode: 1807720
+  naa_control_symbol: '419'
+  naa_series: A5841
+  reference: '[NAA: A5841,419]'
+title: Note By Griffith On Cabinet Submission No. 419
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-08-29
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 65 Note By Griffith On Cabinet Submission No. 419
 
 Canberra, 29 August 1966
 
 Confidential
 
-**Rates of pay and conditions of service— Pacific Island Members of the A.R.A.**
+ **Rates of pay and conditions of service— Pacific Island Members of the A.R.A.**
 
-The Department of Territories oppose the recommendations of the Department of the Army designed to retain a special position for the Pacific Island Regiment in respect of pay and rations. _Some background_: Prior to 1964 Civil Service, Constabulary and the P.I.R. paid in cash and kind. From 1964 Civil Service paid in cash under special arrangement which required an over-payment in cases where the total cash wage was lower than the equivalent cash and kind—non-reduction allowance. System calls for any increases in pay to be retained to offset and finally extinguish the allowance. In July, 1966, decision was taken to extend this principle to the Constabulary and the P.I.R. The Army says that when promotions are announced and there is no cash benefit there will be trouble. They, therefore, seek variation to enable portion of the pay increase to be paid in cash, and they also want to retain a system of food ration for families of soldiers in the Barracks.
+The Department of Territories oppose the recommendations of the Department of the Army designed to retain a special position for the Pacific Island Regiment in respect of pay and rations. _Some background_ : Prior to 1964 Civil Service, Constabulary and the P.I.R. paid in cash and kind. From 1964 Civil Service paid in cash under special arrangement which required an over-payment in cases where the total cash wage was lower than the equivalent cash and kind—non-reduction allowance. System calls for any increases in pay to be retained to offset and finally extinguish the allowance. In July, 1966, decision was taken to extend this principle to the Constabulary and the P.I.R. The Army says that when promotions are announced and there is no cash benefit there will be trouble. They, therefore, seek variation to enable portion of the pay increase to be paid in cash, and they also want to retain a system of food ration for families of soldiers in the Barracks.
 
-Is the Army estimate of trouble realistic or is it special pleading? What is the Minister for Territories view for prospects of trouble in the Army? The Army has done a very good job with the P.I.R. It is an elite force. To do this the Army gave P.I.R. conditions better than the Administration gave Civil Service or Constabulary. _Policy issue_: Should P.I.R. preference continue or should it be brought into line with Civil Service and Constabulary? Feeling between Constabulary and Army runs high. In recent years the Constabulary has been allowed to drift. Army have had a clear advantage. Quality of the Army is well regarded in the Territory. The Government will get no thanks if that quality deteriorates but clearly greater comparability between the two services is desirable. Hence, balance of view is to support Territories’ Submission as against Army Submission, given that Minister for Territories is able to advise that Army will not cause trouble.2
+Is the Army estimate of trouble realistic or is it special pleading? What is the Minister for Territories view for prospects of trouble in the Army? The Army has done a very good job with the P.I.R. It is an elite force. To do this the Army gave P.I.R. conditions better than the Administration gave Civil Service or Constabulary. _Policy issue_ : Should P.I.R. preference continue or should it be brought into line with Civil Service and Constabulary? Feeling between Constabulary and Army runs high. In recent years the Constabulary has been allowed to drift. Army have had a clear advantage. Quality of the Army is well regarded in the Territory. The Government will get no thanks if that quality deteriorates but clearly greater comparability between the two services is desirable. Hence, balance of view is to support Territories’ Submission as against Army Submission, given that Minister for Territories is able to advise that Army will not cause trouble.[2](#f2)
 
-[A5841,419]
+[NAA: A5841,419]
 
 1  Document 63. 
 

@@ -1,14 +1,19 @@
 ---
-title: "208 Advisory War Council Minute"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1439
+doc_date: '1940-11-25'
+doc_num: 208
+doc_order: 208
+naa_refs:
+- naa_barcode: 924380
+  naa_control_symbol: '135'
+  naa_series: A2684
+  reference: '[AA:A2684, 135/1940]'
+title: Advisory War Council Minute
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-11-25
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
 
-# 208 Advisory War Council Minute
-
-## Minute 39 CANBERRA, 25 November 1940
+Minute 39 CANBERRA, 25 November 1940
 
 SINGAPORE CONFERENCE The Prime Minister [1] referred to the alarming position in regard to the defence of Singapore, as revealed by the report of the recent Singapore Conference [2], and the probability that a request would be made to Australia for the despatch of a Brigade Group, together with certain essential supplies of munitions.
 
@@ -16,7 +21,7 @@ The Prime Minister stated that this and other matters which he had in mind indic
 
 The idea met with general approval and the Prime Minister stated that he would consider the extent to which it might be possible to take Members of the Parliament into his confidence on this most secret matter.
 
-_
+ _
 
 1 R. G. Menzies.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA:A2684, 135/1940]_
+ _[AA:A2684, 135/1940]_

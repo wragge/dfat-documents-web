@@ -1,13 +1,17 @@
 ---
-title: "197 Telex, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9705
+doc_date: '1968-06-06'
+doc_num: 197
+doc_order: 197
+naa_refs:
+- naa_barcode: 31698760
+  naa_control_symbol: 1970/4521
+  naa_series: A452
+  reference: '[NAA: A452, 1970/4521]'
+title: Telex, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-06-06
-barcode: 31698760
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 197 Telex, Warwick Smith To Hay
 
 Canberra, 6 June 1968
 
@@ -15,7 +19,7 @@ Canberra, 6 June 1968
 
 Following is complete text of document for which in harmony with the Minister’s existing approval I propose his final approval be anticipated for your purposes within the next few days in relation to discussions with possible nominees for ministerial office.
 
-**Arrangements approved by the Minister of State for External Territories pursuant to section 25 of the Papua and New Guinea Act 1949–1968**
+ **Arrangements approved by the Minister of State for External Territories pursuant to section 25 of the Papua and New Guinea Act 1949–1968**
 
 (a) _Ministerial Members_
 
@@ -23,7 +27,7 @@ Following is complete text of document for which in harmony with the Minister’
 
 (ii) In the House of Assembly the Ministerial Member will represent the Administration by answering questions relating to matters in respect of which he is authorised to perform the functions of a Ministerial Member. He will introduce legislation relating to those matters and guide it through all proceedings in the House of Assembly. The Ministerial Member will also give the Administration view on resolutions and motions affecting these matters and generally explain and defend Administration actions in relation to them. In relation to his responsibilities in the House of Assembly it will be necessary for the Ministerial Member to co-operate with the Official Member designated as senior Official Member of the House.
 
-(iii) In the Administrator’s Executive Council the Ministerial Member will represent departmental interests in relation to the matters in respect of which he is authorised to perform the functions of a Ministerial Member. These matters include the draft estimates of annual expenditure. He may also initiate proposals for legislation in respect of these matters for submission, with the agreement of the Administrator, to the Council. As a member of the Council he will also participate in the exercise of the functions of the Council generally, as set out in section 19 of the Papua and New Guinea Act.1
+(iii) In the Administrator’s Executive Council the Ministerial Member will represent departmental interests in relation to the matters in respect of which he is authorised to perform the functions of a Ministerial Member. These matters include the draft estimates of annual expenditure. He may also initiate proposals for legislation in respect of these matters for submission, with the agreement of the Administrator, to the Council. As a member of the Council he will also participate in the exercise of the functions of the Council generally, as set out in section 19 of the Papua and New Guinea Act.[1](#f1)
 
 (iv) The effective working of these arrangements will require close co-operation between the Ministerial Member and the departmental head. In general the departmental head will tender advice to the Ministerial Member on all matters within the Ministerial Member’s competence in relation to the activities of his department. The departmental head may with the agreement of the Administrator attend meetings of the Administrator’s Executive Council.
 
@@ -59,11 +63,11 @@ Following is complete text of document for which in harmony with the Minister’
 
 In addition to the foregoing, in the performance of their functions under section 25 of the Act, Ministerial Members and Assistant Ministerial Members should conform with the accepted code of conduct applicable in British countries to Ministers of the Crown. They should also respect the conventions that they will not publicly oppose, in the House of Assembly or elsewhere, policies or decisions that were in accordance with the advice of the Council and that they will introduce into the House of Assembly only bills and other measures which have been approved by the Administrator.
 
-You will note that the sentences about which you have had some difficulty in relation to policy proposals being submitted in writing have been deleted. The other changes made are purely drafting in character. The text as formally prepared here contains no comma.2
+You will note that the sentences about which you have had some difficulty in relation to policy proposals being submitted in writing have been deleted. The other changes made are purely drafting in character. The text as formally prepared here contains no comma.[2](#f2)
 
-Foregoing subject only to A.G.’s Department's final clearance which we expect later this afternoon and will advise this point as soon as possible.3
+Foregoing subject only to A.G.’s Department's final clearance which we expect later this afternoon and will advise this point as soon as possible.[3](#f3)
 
-[ [NAA: A452, 1970/4521](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=31698760) ]
+[NAA: A452, 1970/4521]
 
 1 See editorial note ‘Changes to the Papua and New Guinea Act’.
 

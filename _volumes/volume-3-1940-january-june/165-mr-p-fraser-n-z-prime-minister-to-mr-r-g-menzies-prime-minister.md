@@ -1,12 +1,17 @@
 ---
-title: "165 Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 931
+doc_date: '1940-04-20'
+doc_num: 165
+doc_order: 165
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.2607]'
+title: Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-20
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 165 Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister
 
 Cablegram unnumbered WELLINGTON, 20 April 1940, 2.30 a.m.
 
@@ -26,7 +31,7 @@ No. 125 Addressed to the Secretary of State for Dominion Affairs.
 
 (6) Finally, His Majesty's Government in New Zealand see little prospect of success in the proposed negotiations with China which is under deep obligations to Russia, and the Netherlands, which is unlikely to take any steps which might antagonise Germany or Japan.' His Majesty's Government in New Zealand greatly appreciate the opportunity of perusing your two telegrams to the Secretary of State for Dominion Affairs of April 17th, with reference to the Pacific, and have today despatched the above to the Secretary of State.
 
-_
+ _
 
 1 Anthony Eden.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [FA: A3195, 1.2607]_
+ _[FA: A3195, 1.2607]_

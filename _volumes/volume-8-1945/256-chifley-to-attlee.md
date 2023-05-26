@@ -1,12 +1,17 @@
 ---
-title: "256 Chifley to Attlee"
-volume: "Volume 8: 1945"
-doc_id: 3287
+doc_date: '1945-09-21'
+doc_num: 256
+doc_order: 256
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 1797]'
+title: Chifley to Attlee
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-09-21
+vol_title: 'Volume 8: 1945'
 ---
-
-# 256 Chifley to Attlee
 
 Cablegram 305 CANBERRA, 21 September 1945
 
@@ -82,7 +87,7 @@ The Government has informed General MacArthur of the action which is being taken
 
 CHIFLEY
 
-_
+ _
 
 1 Document 246.
 
@@ -104,4 +109,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 1797]_
+ _[AA : A5954, BOX 1797]_

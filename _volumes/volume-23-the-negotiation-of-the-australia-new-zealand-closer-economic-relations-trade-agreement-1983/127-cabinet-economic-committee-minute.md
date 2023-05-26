@@ -1,12 +1,19 @@
 ---
-title: "127 Cabinet Economic Committee Minute"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8997
+doc_date: '1980-08-05'
+doc_num: 127
+doc_order: 127
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Cabinet Economic Committee Minute
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-08-05
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 127 Cabinet Economic Committee Minute
 
 Wellington, 5 August 1980
 
@@ -33,4 +40,4 @@ The Committee agreed, for reference to Cabinet, to:
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 28 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 28 Archives New Zealandffe Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

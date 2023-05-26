@@ -1,14 +1,19 @@
 ---
-title: "335 Berryman to Northcott"
-volume: "Volume 8: 1945"
-doc_id: 3366
+doc_date: '1945-10-23'
+doc_num: 335
+doc_order: 335
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 2278]'
+title: Berryman to Northcott
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-23
+vol_title: 'Volume 8: 1945'
 ---
 
-# 335 Berryman to Northcott
-
-## Letter G/174/Int [ADVANCED HEADQUARTERS ALLIED LAND FORCES],
+Letter G/174/Int [ADVANCED HEADQUARTERS ALLIED LAND FORCES],
 
 23 October 1945
 
@@ -26,7 +31,7 @@ Apart from incidents reported in the above-mentioned letter, there is evidence t
 
 3\. While it is realised that Australian personnel are entitled to hold whatever political opinions they like, it is pointed out that any further increase in Indonesian unrest may lead to disturbances in areas occupied by Australian forces and that our responsibility for maintaining law and order in these areas may necessitate the use of our troops in preventing these disturbances with the consequent risk of casualties to our forces. Thus the activities of the Australian Communist Party in encouraging the adherents of the Free Indonesian Movement may have a direct influence on increasing the possibility of casualties to Australian troops.
 
-_
+ _
 
 1 Not located.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 2278]_
+ _[AA : A5954, BOX 2278]_

@@ -1,12 +1,19 @@
 ---
-title: "365 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8203
+doc_date: '1975-12-09'
+doc_num: 365
+doc_order: 364
+naa_refs:
+- naa_barcode: 4151553
+  naa_control_symbol: 801/13/11/1 PART 17
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/1311111, xvii]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-12-09
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 365 Cablegram to Canberra
 
 Jakarta, 9 December 1975
 
@@ -14,14 +21,14 @@ O.JA3568 SECRET PRIORITY
 
 ## Portuguese Timor
 
-In response to your O.CH2982361 I have requested an appointment with Malik as soon as possible. He is naturally under pressure at present but I hope to see him this evening or early tomorrow. In the meantime the following comments additional to those in our O.JA35172 may be helpful to the Minister.
+In response to your O.CH298236[1](#f1) I have requested an appointment with Malik as soon as possible. He is naturally under pressure at present but I hope to see him this evening or early tomorrow. In the meantime the following comments additional to those in our O.JA3517[2](#f2) may be helpful to the Minister.
 
   2. I am aware of the widespread criticism in Australia of Indonesia's 'aggression' and 'territorial ambitions'. Indonesia has used force and cannot expect this to be condoned. But it has maintained that in the past it did not nourish territorial ambitions in respect of Timor. If it had, it could have taken it years ago when, under Sukarno, Indonesia had a more restless expansionist and unpredictable foreign policy or when India moved into Goa. On the other hand, the Indonesian Government has stated repeatedly for the past eighteen months that it could not live with an economically unviable and potentially unstable independent Timor lying as it does within Indonesia's archipelago.
   3. Indonesia decided, reluctantly, to take the action it has because of the situation which has developed in the second half of this year. Indonesia can make out a case for the incorporation of Timor; in some ways a better case than the purely legal case it made out for the incorporation of West Irian. Admittedly, it has not put this case well, and while it is not up to us to put Indonesia's case for it, in any definitive statement on Timor the incoming Government might make it would be desirable to explain how Indonesia approaches the Timor issue.
   4. The contention that Australia could have prevented the course of events in Timor is, I believe, hard to justify. Australia may have been able to alter the course of events if we had been prepared to intervene militarily ourselves or by agreeing to participate in some form of administrative role. Neither course would have been palatable to Australian Governments.
   5. We have in fact been faced with decided Indonesian policy for some time based on its assessment of its long term security and national interests and tacitly or publicly supported by its ASEAN neighbours. The former Australian Government had also come to the conclusion that the best outcome of the decolonisation of Portuguese Timor was its incorporation into Indonesia. There was in fact a shared objective (integration through internationally acceptable means) and, however repugnant Indonesia's present methods of achieving that objective, the fact that the basic objective itself was shared, in addition to the geopolitical realities of the Australian/Indonesian situation, does impose some limits on Australia's capacity for action against Indonesia's interests.
   6. Moreover, I consider Australia has done more than any other country in the region or outside of it, including countries like the United States, Japan, New Zealand, the Soviet Union and even China to explore with Indonesia alternatives to incorporation, to discourage the Indonesians from using overt force and to caution them about the difficulties military involvement could create for them, such as international criticism, diversion of resources and possible residual insurgency. The fact is that, rightly or wrongly, Indonesia regarded its national interests as being at stake and saw the East Timor situation, while important to us, as of greater and, in fact, critical importance to them. They were also given the clear impression at the highest level that the Australian Government attached overriding importance to relations with Indonesia.
-  7. The Minister has made several references to seeking regional support for an initiative. I think this may have been possible two months ago when I put forward proposals for a regional initiative in our O.JA2336 of 10 October.3 But at that time the Government could not accept several of the assumptions on which the proposed initiative was based.
+  7. The Minister has made several references to seeking regional support for an initiative. I think this may have been possible two months ago when I put forward proposals for a regional initiative in our O.JA2336 of 10 October.[3](#f3) But at that time the Government could not accept several of the assumptions on which the proposed initiative was based.
   8. As the present situation develops the opportunity may yet arise for Australia to propose a regional initiative involving, say, the other four ASEAN countries, New Zealand, Australia and possibly PNG. For example, those countries might be requested to send observers to East Timor after peace and order has been restored and when an act of self-determination is to be conducted. (As a first initiative the regional group could collectively urge upon Indonesia the need to carry out this step.) Of course any such initiative would need to have Indonesia's prior agreement. It follows that if Australia is to be able to play any useful and constructive role in the future, both (sic) as an initiator or as a participant, we should not now undermine our credibility with Indonesia. (As you will recall, had talks between the parties taken place recently we would not have been acceptable to all the parties as a venue.) As I see it, it is in our interests and the interests of regional stability generally that the eventual incorporation of East Timor be as legally correct and internationally accepted as possible.
   9. It may also be timely to redefine and assert Australia's own long-term interests in respect of the future of East Timor. The public debate in Australia seems to us to have been strongly influenced by domestic political pressures and cast in terms of a choice between support for Fretilin and independence or support for Indonesia and integration. (As it turned out neither independence under Fretilin nor integration could be achieved without the use of force.) Apart from the oversimplification of the issues involved in such a presentation, it also ignores what should, for Australia, be the key issue, namely Australia's own national interest in respect of the future of East Timor.
   10. Portugal seems now to be in the position that Santos put to me in August, namely that if Indonesia were to move into East Timor without a Portuguese request to restore peace, then Portugal would be able to blame Indonesia, disengage itself from its responsibilities in Timor, and pass the problem over to the United Nations. Subject to Lisbon's views this seems, from here, to be what Portugal is now doing. Iflndonesia's patience finally failed it is partly because of the fact that while it lives beside East Timor Portugal will retreat to Europe.
@@ -33,10 +40,8 @@ In response to your O.CH2982361 I have requested an appointment with Malik as so
 
 WOOLCOTT
 
-_[NAA: A10463, 801/1311111, xvii]_
+ _[NAA: A10463, 801/1311111, xvii]_
 
   * 1 8 December. Foreshadowing the dispatch of the text of Document 363, it requested the Embassy in Jakarta to reiterate to the Indonesian authorities the Australian Government's opposition to the use of force in Portuguese Timor and also to notify them of its readiness to resume aid to the territory.
   * 2 Document 359.
   * 3 See note 4 to Document 255.
-
-

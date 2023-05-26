@@ -1,12 +1,17 @@
 ---
-title: "131 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1885
+doc_date: '1941-11-28'
+doc_num: 131
+doc_order: 132
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : PREM 4 50/15]'
+title: Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-28
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 131 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
 
 Cablegram Winch 6 LONDON, 28 November 1941, 1 a.m.
 
@@ -24,7 +29,7 @@ This is being kept strictly secret at present as the enemy do not seem to know a
 
 CHURCHILL
 
-_
+ _
 
 1 See Document 134.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [PRO : PREM 4 50/15]_
+ _[PRO : PREM 4 50/15]_

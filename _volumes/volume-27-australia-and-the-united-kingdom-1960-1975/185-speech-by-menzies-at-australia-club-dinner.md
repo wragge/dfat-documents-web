@@ -1,18 +1,21 @@
 ---
-title: "185 SPEECH BY MENZIES AT AUSTRALIA CLUB DINNER"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10050
+doc_date: '1962-06-12'
+doc_num: 185
+doc_order: 185
+naa_refs:
+- naa_barcode: 1051646
+  naa_control_symbol: C3368 PART 4
+  naa_series: A4940
+  reference: '[NAA: A4940, C3368 PART 4]'
+title: SPEECH BY MENZIES AT AUSTRALIA CLUB DINNER
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-06-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 185 SPEECH BY MENZIES AT AUSTRALIA CLUB DINNER
-
-NAA: A4940, C3368 PART 4
 
 Savoy Hotel, London, 12 June 1962
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 I have here my old friend the Prime Minister of Great Britain who has spoken so generously tonight. Harold Macmillan and I have known each other for many years and, through many escapades, we have been and remain great friends. He and I have lived long enough to learn that the right way to maintain our friendship, one with the other, is to disbelieve everything that we read. This is the pinnacle of wisdom on which he sits for the moment. For a year, or two years, he seems to have an unrivalled command of the timetable—quite comfortably and I sit precariously: if I may coin a phrase, ‘here today and gone tomorrow’.
 
@@ -61,3 +64,5 @@ I don’t believe for one moment that you are going to choose against the Common
 Because, you know, ‘Better the devil you know than the devil you don’t know’. We have lived long together. When I look back over it—and I am an old hand in Commonwealth business and so is my friend Harold Macmillan—the reason why we always meet as friends is that we know the story behind it all. It is the story of a Commonwealth in which he and l both happen to be servants of our Sovereign Lady the Queen, in which Great Britain and Australia, to say nothing of all the other Commonwealth countries, have lived together—a Commonwealth whose roots have been nurtured in the soil of co-operation and affection, and loyalty. These are wonderful things, not to be lightly disregarded, not lightly to be put aside. It is because my approach to this matter is exactly the same as yours, Harold, that I know that we must not cry ‘Disaster’ too quickly; that we must not be dogmatic too soon, that we must understand that believing the same things, loving the same things, remembering the same things, we are going to do the best to help each other and at the same time help the Continent of Europe, help the whole free world.
 
 I can see all these things. I can understand them perfectly. How wonderful a thing it would be for the free world to have a concerted Europe, to have a group of powers who were not ambiguous, who knew where they stood. And so when he says this is of great value I don’t resist that, I don’t resist that. I merely say to myself ‘Yes, but don’t forget’—and I don’t need to say it to him, though there are some people to whom it needs to be said—‘Don’t forget that we haven’t come to our present state in the world, we haven’t come to our present power and significance in the world without having these things connecting us, wonderful things bringing us together, a great record of achievement and, I believe, properly considered, a marvellous vision of hope and gain and strength for the future.’
+
+[NAA: A4940, C3368 PART 4]

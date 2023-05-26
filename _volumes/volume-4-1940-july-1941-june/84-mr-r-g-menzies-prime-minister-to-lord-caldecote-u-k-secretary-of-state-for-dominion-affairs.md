@@ -1,12 +1,18 @@
 ---
-title: "84 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1315
+doc_date: '1940-08-29'
+doc_num: 84
+doc_order: 84
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.6192]'
+title: Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-08-29
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 84 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 457 29 August 1940,
 
@@ -52,7 +58,7 @@ and provided the Dutch resisted, it is realized that should Japan become establi
 
 17\. Nevertheless because of the military position in the United Kingdom and the Middle East and the attitude of the U.S.A. it is the opinion of the Commonwealth Government that we should not enter into a binding unilateral obligation to go to the assistance of the Dutch if Japan attacks the N.E.I. It is considered our policy should be to take a realistic view [2] of such an act of aggression in the light of our military position at the time. It is suggested that, if you concur in this course, the views of the Empire should be put to the United States Government with a suggestion for the adoption of a similar realistic attitude in event of the contingency arising. [3]
 
-_
+ _
 
 1 Documents 54, 65, 61 and 66. For War Cabinet's discussion of these matters on 28 August see AA:A2673, VOL 3, Minute 459.
 
@@ -64,4 +70,4 @@ Prime Minister.
 
 _
 
-_ [AA:A3196, 1940, 0.6192]_
+ _[AA:A3196, 1940, 0.6192]_

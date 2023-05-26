@@ -1,24 +1,27 @@
 ---
-title: "16 NOTE BY HICKS"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9883
+doc_date: '1962-11-23'
+doc_num: 16
+doc_order: 16
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1209
+  reference: '[NAA:A1209, 1962/1970]'
+title: NOTE BY HICKS
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1962-11-23
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 16 NOTE BY HICKS
-
-NAA:A1209, 1962/1970
 
 Canberra, 23 November 1962
 
 Top Secret
 
-****
+ ****
 
 Study of Possible Future Requirement for Commonwealth Bases in Australia
 
-The members of the Defence Committee will recall that the above question was raised in a personal message from Mr. Macmillan to the Prime Minister dated 5th February, 19621 (copies circulated under Secretariat minute of 12th February), and was discussed at the meeting between the Defence Committee and the First Sea Lord on 15th February. Copies of an Australian record of that discussion were distributed personally to members of the Committee on 12th March. Paragraph 22 of the record stated:–
+The members of the Defence Committee will recall that the above question was raised in a personal message from Mr. Macmillan to the Prime Minister dated 5th February, 1962[1](#f1) (copies circulated under Secretariat minute of 12th February), and was discussed at the meeting between the Defence Committee and the First Sea Lord on 15th February. Copies of an Australian record of that discussion were distributed personally to members of the Committee on 12th March. Paragraph 22 of the record stated:–
 
 > ‘The Chairman concluded the discussion on this subject by stating that the Australian Defence Committee fully agreed with the British Chiefs of Staff view that the longer term problems in a possible future strategic situation in which the Singapore bases were no longer available to Commonwealth forces should be examined. A certain amount of preliminary study at planning level had been given in Australia to this matter but it had not developed to any great extent. The Australian Defence Committee now understood that the British Chiefs of Staff were seeking Australian views on these questions, and, subject to Ministerial approval, would put them to serious study so that an exchange of views and joint examination could proceed.’
 
@@ -45,3 +48,5 @@ The members of the Defence Committee will recall that the above question was rai
 5\. Attention is invited to the special secrecy and delicacy of this subject, for the reasons indicated in paragraph 6 of the Prime Minister’s message quoted above. Distribution of copies of this minute should accordingly be restricted to the individual members of the Defence Committee and the Joint Planning Committee.
 
 1  See Document 13. 
+
+[NAA:A1209, 1962/1970]

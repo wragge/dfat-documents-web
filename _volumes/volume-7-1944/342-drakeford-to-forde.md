@@ -1,12 +1,17 @@
 ---
-title: "342 Drakeford to Forde"
-volume: "Volume 7: 1944"
-doc_id: 2989
+doc_date: '1944-11-09'
+doc_num: 342
+doc_order: 342
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/13]'
+title: Drakeford to Forde
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-09
+vol_title: 'Volume 7: 1944'
 ---
-
-# 342 Drakeford to Forde
 
 Cablegram 6 CHICAGO, 9 November 1944, 2.45 a.m.
 
@@ -28,7 +33,7 @@ Deputy Prime Minister [1] from Drakeford.
 
 7\. Copies of the texts of speeches and proceedings will follow by air mail.
 
-_
+ _
 
 1 Curtin had become ill with a heart condition early in November.
 
@@ -42,4 +47,4 @@ He resumed duty as Prime Minister on 22 January 1945, but his health remained pr
 
 _
 
-_ [AA:A989, 44/735/832/13]_
+ _[AA:A989, 44/735/832/13]_

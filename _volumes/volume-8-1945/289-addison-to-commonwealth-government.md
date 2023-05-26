@@ -1,13 +1,19 @@
 ---
-title: "289 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3320
+doc_date: '1945-10-02'
+doc_num: 289
+doc_order: 289
+naa_refs:
+- naa_barcode: 193552
+  naa_control_symbol: PI46/2/7/1
+  naa_series: A1067
+  reference: '[AA : A1067, P146/2/7/1]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
+vol_title: 'Volume 8: 1945'
 ---
 
-# 289 Addison to Commonwealth Government
-
-Cablegram D1848 LONDON, 2 0ctober 1945, 10.24 p.m.
+Cablegram D1848 LONDON, 2 October 1945, 10.24 p.m.
 
 TOP SECRET
 
@@ -29,7 +35,7 @@ The Netherlands Ambassador and the Netherlands Minister for Overseas Territories
 
 (c) It is understood that the Netherlands Government propose to authorise Dr. Van Mook to issue a proclamation in Java in their name. General Christison will provide Dr. Van Mook with all the necessary facilities for its issue and distribution.
 
-_
+ _
 
 1 Document 285.
 
@@ -37,4 +43,4 @@ _
 
 _
 
-_ [AA : A1067, P146/2/7/1]_
+ _[AA : A1067, P146/2/7/1]_

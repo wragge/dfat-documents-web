@@ -1,14 +1,19 @@
 ---
-title: "180 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 517
+doc_date: '1939-09-01'
+doc_num: 180
+doc_order: 180
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP290/6, ITEM 27]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-01
+vol_title: 'Volume 2: 1939'
 ---
 
-# 180 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
-
-## Cablegram unnumbered LONDON, 1 September 1939, 1.24 p.m.
+Cablegram unnumbered LONDON, 1 September 1939, 1.24 p.m.
 
 MOST IMMEDIATE CLEAR THE LINE
 
@@ -16,8 +21,8 @@ For immediate transmission to Prime Minister. No official information through di
 
 BRUCE
 
-_
+ _
 
 _
 
-_ [AA: CP290/6, ITEM 27]_
+ _[AA: CP290/6, ITEM 27]_

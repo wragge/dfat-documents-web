@@ -1,18 +1,23 @@
 ---
-title: "81 Evatt to Beasley"
-volume: "Volume 8: 1945"
-doc_id: 3112
+doc_date: '1945-05-01'
+doc_num: 81
+doc_order: 81
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[SFU : EVATT COLLECTION, UNITED NATIONS-MISCELLANEOUS]'
+title: Evatt to Beasley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-05-01
+vol_title: 'Volume 8: 1945'
 ---
 
-# 81 Evatt to Beasley
-
-## Draft Cablegram [1] SAN FRANCISCO, [1 May 1945]
+Draft Cablegram [1] SAN FRANCISCO, [1 May 1945]
 
 [Received 2 May 1945]
 
-Evatt to Mulrooney for Beasley alone. No copies are to be made &amp; I trust you also to assist in this vital matter.
+Evatt to Mulrooney for Beasley alone. No copies are to be made & I trust you also to assist in this vital matter.
 
 1\. News of Curtin's illness is very distressing. Please inform him of the great concern my wife and I feel about him and how tremendously we wish for his earliest and fullest recovery.
 
@@ -20,7 +25,7 @@ Evatt to Mulrooney for Beasley alone. No copies are to be made &amp; I trust you
 
 The situation now has altered and action should be taken, partly because on yourself, Chifley, Makin and several others must fall heavy additional burdens.
 
-3\. The position at San Francisco is that Forde despite his almost complete lack of knowledge of the general and particular policy I have been pursuing seizes every opportunity of intervention &amp;
+3\. The position at San Francisco is that Forde despite his almost complete lack of knowledge of the general and particular policy I have been pursuing seizes every opportunity of intervention &
 
 interference causing confusion and lack of direction at critical points. One illustration is the policy speech delivered on Friday last. [2] Forde insisted on making it though Curtin would never have dreamt of doing so. It was composed entirely by myself with the exception of four or five foolish and rhetorical sentences. It was not even read without errors. However it-led to very favourable comment but the result of this sailing under false colours is that other foreign ministers are seeking him out and bypassing me while he never informs me of the position but is quite unable even to intelligently understand the great issues we are facing and the significance of the amendments we are proposing. I believe that no other Minister of the Government could possibly behave so greedily or so selfishly. Only for the scandal involved to the Government I would have taken drastic action days ago. With the work so heavy and so important this additional load is too much to bear.
 
@@ -28,21 +33,21 @@ interference causing confusion and lack of direction at critical points. One ill
 
 5\. What Curtin told me at the last was that I should recognise Forde's seniority but at the same time Forde must recognise that all the matters at the conference related to foreign affairs and that these were my primary responsibility. This seemed an almost impossible plan but it might have worked out had there been any generosity or restraint on Forde's part. There has been neither.
 
-At all points he interferes and hinders until it is almost unsafe to talk or negotiate with other delegations. One reason for this is his almost unrestrained desire to please and praise every other person &amp; every other country except Australia. As a result we start off always with a severe handicap. As you know, we have got to deal with tough people and in Australia's interests we have to be equally tough. There is a chance of our bringing off several great successes in the amendments including a full employment pledge for which you and I have fought so hard and consistently.
+At all points he interferes and hinders until it is almost unsafe to talk or negotiate with other delegations. One reason for this is his almost unrestrained desire to please and praise every other person & every other country except Australia. As a result we start off always with a severe handicap. As you know, we have got to deal with tough people and in Australia's interests we have to be equally tough. There is a chance of our bringing off several great successes in the amendments including a full employment pledge for which you and I have fought so hard and consistently.
 
 But it will not be possible to do this if the present unsatisfactory position drags on. The truth is that I have to fight on too many fronts. I can fight other countries with some success but I cannot fight folly and weakness on my home front. In London I was successful because I gradually assumed control of the talks and as all the meetings were private, no publicity attached to the private meetings. Therefore all the work fell upon me and I reached a position where Britain, Canada and even South Africa frequently came round to our views. But as you know the follow up is the real test and the British, knowing Forde's weakness for agreeing with everybody rather seize the chance of avoiding several important commitments.
 
 6\. I have telegraphed to you in absolute frankness because of the overriding importance of this conference in completing past policy and shaping our external policy for the future. I am fighting on tenaciously but I feel bruised in spirit at the disgraceful treatment to which I have been subjected. A personal relationship which I valued is being ruined by the false position in which we both have been placed.
 
-7\. The position now is that it is absolutely unnecessary from the point of view of efficiency for 2 Ministers to stay here for at least another month or 5 weeks. On the contrary it causes inefficiency. Three senior Ministers will be absent from duty and you, &amp; others will have a heavy additional burden. I am also anxious to clear the ground for arrangements we discussed in Australia and I would ask Mulrooney to show you the cables, if he has not done so.
+7\. The position now is that it is absolutely unnecessary from the point of view of efficiency for 2 Ministers to stay here for at least another month or 5 weeks. On the contrary it causes inefficiency. Three senior Ministers will be absent from duty and you, & others will have a heavy additional burden. I am also anxious to clear the ground for arrangements we discussed in Australia and I would ask Mulrooney to show you the cables, if he has not done so.
 
 8\. I must therefore ask that in view of the Prime Minister's illness being prolonged Forde should be asked to resume duty in Australia as soon as possible leaving the responsibility for completing the work here on my shoulders. Please deal with the matter urgently consulting only such colleagues as you can safely trust. I know you will appreciate the difficulty and urgency of the matter and will act speedily in the emergency.
 
 9\. Chifley wired as to Acting Min External Affairs. I nominated you, failing you Norman Makin. [4]
 
-For Mulrooney from Waller-Minister wishes reply direct to AUST DEL San Francisco &amp; not through Washington.
+For Mulrooney from Waller-Minister wishes reply direct to AUST DEL San Francisco & not through Washington.
 
-_
+ _
 
 1 This draft cable in the form of a rough typescript with handwritten amendments was found in the Evatt Papers deposited with the library of Flinders University. The editors of the present volume have not been able to locate either a final typed version for dispatch from San Francisco or a copy of such a cable received in Canberra (the inwards cable register-AA : A3642, vol.
 
@@ -56,4 +61,4 @@ _
 
 _
 
-_ [SFU : EVATT COLLECTION, UNITED NATIONS-MISCELLANEOUS]_
+ _[SFU : EVATT COLLECTION, UNITED NATIONS-MISCELLANEOUS]_

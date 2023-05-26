@@ -1,12 +1,17 @@
 ---
-title: "270 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 607
+doc_date: '1939-10-08'
+doc_num: 270
+doc_order: 270
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-08
+vol_title: 'Volume 2: 1939'
 ---
-
-# 270 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 534 LONDON, 8 October 1939, 11.24 p.m.
 
@@ -18,10 +23,10 @@ Difficulty I see is that it is impossible to see what terms we could lay down fo
 
 BRUCE
 
-_
+ _
 
 1 W.L. Mackenzie King.
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

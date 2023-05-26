@@ -1,12 +1,18 @@
 ---
-title: "66 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 832
+doc_date: '1940-02-17'
+doc_num: 66
+doc_order: 66
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: DO 35 /1089]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard,
+  U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 66 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 41 LONDON, 17 February 1940, 8 a.m.
 
@@ -36,7 +42,7 @@ Bruce on the 13th September last it was explained to him, and by him, we underst
 
 (g) As regards price, it is fully realised that this should not be allowed to become an obstacle to disposal, and the United Kingdom authorities share the Commonwealth Government's view that a price policy which, by diminishing sales, led to the accumulation of an embarrassing surplus of stocks or encouraged the use of substitutes would be damaging alike to Australian interests, the woollen interests in the United Kingdom and to the United Kingdom Government, which has to bear any losses. The basis upon which the price of wool was fixed was decided after full consideration of all the circumstances by the Ministries concerned. The price of issue to manufacturers in this country is calculated just to cover the cost to the Wool Control. The export price to neutrals from Australia has been fixed on a basis such as to secure parity between manufacturers in neutral countries, such as the United States, and Japan, and manufacturers in the United Kingdom. With the price which we are paying to Australia and the increased costs of bringing wool here, it is not possible to fix the export price at a lower level. Suggestions have been made from time to time that it would facilitate sales to neutrals if prices could be fixed for a considerable period ahead. This is not, of course, a normal practice in peace time, and it is not possible in present circumstances.
 
-_
+ _
 
 1 Not printed.
 
@@ -58,4 +64,4 @@ _
 
 _
 
-_ [PRO: DO 35 /1089]_
+ _[PRO: DO 35 /1089]_

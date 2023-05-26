@@ -1,14 +1,20 @@
 ---
-title: "17 Sir Henry Gullett, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 783
+doc_date: '1940-01-15'
+doc_num: 17
+doc_order: 17
+naa_refs:
+- naa_barcode: 181011
+  naa_control_symbol: THA 33 PART 1
+  naa_series: A981
+  reference: '[AA: A981, THAILAND 33]'
+title: Sir Henry Gullett, Minister for External Affairs, to Mr R. G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-15
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 17 Sir Henry Gullett, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister
-
-## Letter CANBERRA, 15 January 1940
+Letter CANBERRA, 15 January 1940
 
 [R. G. Casey, Minister for Supply and Development, visited Thailand in December 1939 while returning from his mission to London. On 21 December he wrote to Menzies and Gullett to report that the U.K. Minister in Bangkok, Sir Josiah Crosby, 'would welcome any move that would make the presence of Australia felt to a greater degree in Siam, and that to this end Crosby had suggested that if Australia should open a legation in Japan or China the Australian Minister might also be accredited to the Thai Government. Casey explained the efforts being made by Japan to wean Thailand away from friendship with Britain and France and the interest of the latter two countries in concluding a non- aggression pact with Thailand. France was, however, reluctant to make the concessions of border areas of Indo-China which the Thai authorities made a precondition of concluding a pact with France.
 
@@ -30,7 +36,7 @@ I return herewith the original letter from Mr. Casey to yourself and its enclosu
 
 [H. S. GULLETT]
 
-_ 1 On file AA: A981, Thailand 33. It referred to Gullett a copy of Casey's letter of 21 December 1939.
+ _1 On file AA: A981, Thailand 33. It referred to Gullett a copy of Casey's letter of 21 December 1939.
 
 2 The cablegram (on file AA: A981, Far East 31, i) was dispatched to Eden as no. 20 on 9 January 1940.
 
@@ -38,4 +44,4 @@ _ 1 On file AA: A981, Thailand 33. It referred to Gullett a copy of Casey's lett
 
 _
 
-_ [AA: A981, THAILAND 33]_
+ _[AA: A981, THAILAND 33]_

@@ -1,22 +1,27 @@
 ---
-title: "265 Notes On Discussion Between Doet, Deaand Defence"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9773
+doc_date: '1969-04-30'
+doc_num: 265
+doc_order: 265
+naa_refs:
+- naa_barcode: 583796
+  naa_control_symbol: 3034/10/1/4 PART 5
+  naa_series: A1838
+  reference: '[NAA: A1838, 3034110/1/4 part 5]'
+title: Notes On Discussion Between Doet, Deaand Defence
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-04-30
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 265 Notes On Discussion Between Doet, Deaand Defence
 
 Canberra, 30 April 1969
 
 Secret
 
-**West Irian Border: record of meetings with External Affairs and Defence**
+ **West Irian Border: record of meetings with External Affairs and Defence**
 
-[_matter omitted_]2
+[ _matter omitted_ ][2](#f2)
 
-_West Irian border crossers_
+ _West Irian border crossers_
 
 2\. It was agreed that:
 
@@ -40,21 +45,21 @@ _West Irian border crossers_
 
 • maintain present attitude of keeping Representative U.N. High Commissioner for Refugees in Geneva informed.
 
-_Political activities of West Irianese permissive residents_
+ _Political activities of West Irianese permissive residents_
 
 3\. It was agreed
 
-• scope for imposing further restraints severely limited by Territory law,3 refugees’ convention and attitude of some leading M.H.A.s.4 (Malik has been informed of this and understands position.);
+• scope for imposing further restraints severely limited by Territory law,[3](#f3) refugees’ convention and attitude of some leading M.H.A.s.[4](#f4) (Malik has been informed of this and understands position.);
 
 • talk of preparations for insurrection unlikely to lead to trouble because of lack of physical resources and finance;
 
-• External Affairs to inform Indonesian Government that M.H.A.s, particularly those sympathetic to the West lrianese cause, tend to be outspoken and there is nothing we can do to curb this.5
+• External Affairs to inform Indonesian Government that M.H.A.s, particularly those sympathetic to the West lrianese cause, tend to be outspoken and there is nothing we can do to curb this.[5](#f5)
 
-[_matter omitted_]6
+[ _matter omitted_ ][6](#f6)
 
-_Placement of PIR detachments at border posts_
+ _Placement of PIR detachments at border posts_
 
-7\. This Department’s representatives expressed concern that, although situation appeared to have calmed down since weekend7 incursions similar to that at Wutung could occur again, perhaps in even larger strength, and Administration resources on the spot might be inadequate. Moreover, Brimob8 more heavily armed than Administration police.
+7\. This Department’s representatives expressed concern that, although situation appeared to have calmed down since weekend[7](#f7) incursions similar to that at Wutung could occur again, perhaps in even larger strength, and Administration resources on the spot might be inadequate. Moreover, Brimob[8](#f8) more heavily armed than Administration police.
 
 8\. External Affairs and Defence made the following points:
 
@@ -68,19 +73,19 @@ _Placement of PIR detachments at border posts_
 
 \- any substantial movement of PIR into border areas might be regarded as provocative by Brimob
 
-\- present Army instructions9 did not permit PIR assistance to Administration forces except in case of an unavoidable contact; i.e., they could not assist, without specific authority, if an Administration patrol deliberately confronted intruders
+\- present Army instructions[9](#f9) did not permit PIR assistance to Administration forces except in case of an unavoidable contact; i.e., they could not assist, without specific authority, if an Administration patrol deliberately confronted intruders
 
 \- Indonesian Government has given assurances that such incidents unlikely to recur and time should be allowed for these assurances to take effect
 
 \- in any event military forces were already available close to the border and could be moved in quickly in an emergency
 
-9\. This Department took the view that an obvious presence of troops in the border could have a stabilising effect rather than cause provocation.10. It also saw a difference between using military forces in aid of the civil power in a situation of domestic violence and using them to deal with foreign armed intruders crossing the border into our Territory. While it accepted that, in the former situation, forces could only be used as a last resort, it is considered that the last resort principle need not apply in the latter case.
+9\. This Department took the view that an obvious presence of troops in the border could have a stabilising effect rather than cause provocation.[10](#f10). It also saw a difference between using military forces in aid of the civil power in a situation of domestic violence and using them to deal with foreign armed intruders crossing the border into our Territory. While it accepted that, in the former situation, forces could only be used as a last resort, it is considered that the last resort principle need not apply in the latter case.
 
 10\. The Defence representative replied that, without special government approval, action by the PIR would have to be confined to the circumstances outlined in the present Army instruction relating to contacts with armed foreign patrols in the border area.
 
 11\. In view of the considerations outlined above, the External Affairs and Defence representatives considered posting of PIR detachments at border posts was not warranted at this stage. Defence undertook, however, to examine in consultation with Army, the possibility and desirability of stepping up PIR patrols in border districts and concentrating them in special areas over the next three or four months.
 
-_Army instructions to PIR patrols_
+ _Army instructions to PIR patrols_
 
 12\. 
 

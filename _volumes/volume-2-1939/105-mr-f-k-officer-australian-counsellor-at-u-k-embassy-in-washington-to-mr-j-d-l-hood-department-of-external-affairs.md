@@ -1,12 +1,18 @@
 ---
-title: "105 Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Mr J.D.L. Hood, Department of External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 442
+doc_date: '1939-06-16'
+doc_num: 105
+doc_order: 105
+naa_refs:
+- naa_barcode: 280093
+  naa_control_symbol: '322'
+  naa_series: A2937
+  reference: '[FA: A2937, F. KEITH OFFICER, O.B.E., M.C., ii]'
+title: Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Mr
+  J.D.L. Hood, Department of External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-06-16
+vol_title: 'Volume 2: 1939'
 ---
-
-# 105 Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Mr J.D.L. Hood, Department of External Affairs
 
 Letter (extract) WASHINGTON, 16 June 1939
 
@@ -20,7 +26,7 @@ There is one thing you will have to arrange when a Legation is established here,
 
 F. KEITH OFFICER
 
-_
+ _
 
 1 Not found.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [FA: A2937, F. KEITH OFFICER, O.B.E., M.C., ii]_
+ _[FA: A2937, F. KEITH OFFICER, O.B.E., M.C., ii]_

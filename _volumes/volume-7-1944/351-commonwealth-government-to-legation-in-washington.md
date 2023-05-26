@@ -1,12 +1,17 @@
 ---
-title: "351 Commonwealth Government to Legation in Washington"
-volume: "Volume 7: 1944"
-doc_id: 2998
+doc_date: '1944-11-18'
+doc_num: 351
+doc_order: 351
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L42/1303, vi]'
+title: Commonwealth Government to Legation in Washington
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-11-18
+vol_title: 'Volume 7: 1944'
 ---
-
-# 351 Commonwealth Government to Legation in Washington
 
 Cablegram 1835 CANBERRA, 18 November 1944
 
@@ -22,7 +27,7 @@ Your 1118. [1] Lend Lease Stage II.
 
 You can add that such a request would receive immediate consideration of Commonwealth Government which will be meeting next week.
 
-_
+ _
 
 1 Document 350.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A571, L42/1303, vi]_
+ _[AA:A571, L42/1303, vi]_

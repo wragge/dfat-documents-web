@@ -1,14 +1,19 @@
 ---
-title: "12 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 1: 1937-38"
-doc_id: 12
+doc_date: '1937-03-06'
+doc_num: 12
+doc_order: 12
+naa_refs:
+- naa_barcode: 177566
+  naa_control_symbol: JAP 148 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 148]'
+title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-03-06
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 12 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram 26 6 March 1937,
+Cablegram 26 6 March 1937,
 
 Please communicate following to British Government. Begins. 
 

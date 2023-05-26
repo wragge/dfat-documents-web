@@ -1,20 +1,23 @@
 ---
-title: "137 MINUTE, INTERDEPARTMENTAL MEETING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10002
+doc_date: '1961-06-20'
+doc_num: 137
+doc_order: 137
+naa_refs:
+- naa_barcode: 946427
+  naa_control_symbol: C3368 PART 1
+  naa_series: A4940
+  reference: '[NAA: A4940, C3368 PART 1]'
+title: MINUTE, INTERDEPARTMENTAL MEETING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1961-06-20
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 137 MINUTE, INTERDEPARTMENTAL MEETING
-
-NAA: A4940, C3368 PART 1
 
 Canberra, 20 June 1961
 
 Confidential
 
-****
+ ****
 
 United Kingdom and European Economic Community:  
 Visit by Mr Duncan Sandys to Australia
@@ -37,7 +40,7 @@ Mr A. L. Senger, Acting Secretary, Department of Primary Industry
 Mr G. Warwick Smith, Acting Secretary, Department of Trade  
 Mr M. W. O'Donnell, Acting Deputy Secretary, Department of the Treasury (representing Sir Roland Wilson)
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
 5\. Discussion ranged over a wide variety of political defence, trade, finance and general issues. The principal points made were:
 
@@ -48,7 +51,7 @@ Mr M. W. O'Donnell, Acting Deputy Secretary, Department of the Treasury (represe
 > (c) The development of the Community has been building up since the war and could, in the long run, result in the establishment of a Federated Europe. However, even if the Treaty of Rome does not lead to an institutional change as far-reaching as this, the economic provisions of the Community are bound to have political repercussions in the direction of binding the United Kingdom closer to Europe and by corollary away from the Commonwealth and individual Commonwealth countries. Already there is evidence of this in the financial field, and this has led to some discrimination against Australia and other members of the sterling area as the London sterling balances of some European countries have now been guaranteed in relation to the value of the dollar whereas the holdings of the members of the sterling area have not. This is a matter of very considerable interest to Australia which has large sterling balances.
 > 
 > (d) If the United Kingdom becomes part of a more closely knit European community, the result will be to place limitations on its freedom of action, both in relation to itself and in relation to Commonwealth countries. Already there are limitations imposed by membership of NATO; membership of the Community would extend these in the political, military, finance and trade fields, e.g., continued United Kingdom participation in the joint United Kingdom/Australia defence projects at Woomera could be vetoed.  
-> As far as Australia is concerned, this could have important implications for security, as there may well be a tendency either to regard the area east of Suez as not applicable to Europe, or to differ within the Community as to what action should be taken. This is a situation which may, of course, differ only in degree from that which would occur in any event, as the United Kingdom is finding it increasingly difficult to bear its defence burdens. The United Kingdom ‘10 year’ paper is relevant to this.1
+> As far as Australia is concerned, this could have important implications for security, as there may well be a tendency either to regard the area east of Suez as not applicable to Europe, or to differ within the Community as to what action should be taken. This is a situation which may, of course, differ only in degree from that which would occur in any event, as the United Kingdom is finding it increasingly difficult to bear its defence burdens. The United Kingdom ‘10 year’ paper is relevant to this.[1](#f1)
 > 
 > (e) Australia’s political bargaining power is generally weak and it may be necessary to rely on a broad appeal to the United Kingdom which boils down to sentiment. There may be some bargaining power vis-a-vis the United Kingdom, and the Europeans also, if they wish to resist Australia’s becoming too closely tied in with the United States, but the strength of this is likely to be slight.
 > 
@@ -92,3 +95,5 @@ The first of these would need to be prepared by 23rd June and those on the polit
 9\. It was agreed that Australian representatives overseas shotld intensify their interest in the relations between the United Kingdom and the European Economic Community. It was also thought it would be highly desirable that the High Commissioner in New Zealand should be asked to report on the negotiations between Mr Sandys and the New Zealand Government and that advice concerning the negotiations in Canberra should be sent to the Canadian Government.
 
 1 See Document 1, notes 2 and 4.
+
+[NAA: A4940, C3368 PART 1]

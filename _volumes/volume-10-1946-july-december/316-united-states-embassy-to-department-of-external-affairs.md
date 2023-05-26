@@ -1,12 +1,17 @@
 ---
-title: "316 United States Embassy to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4164
+doc_date: '1946-12-12'
+doc_num: 316
+doc_order: 316
+naa_refs:
+- naa_barcode: 273925
+  naa_control_symbol: SPTS 1/5
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/5]'
+title: United States Embassy to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-12
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 316 United States Embassy to Department of External Affairs
 
 Note CANBERRA, 12 December 1946
 
@@ -18,7 +23,7 @@ The Department of State has referred to the occasion of the Minister's visit, wh
 
 Likewise, the Department of State has referred to a preliminary draft of a suggested base agreement for MANUS, handed to the Australian Embassy in Washington on March 14, 1946. [3] The Department of State now states that it will be glad to enter into discussions in Washington, at any time convenient to the Commonwealth Government, with a view to early agreement as to American use of MANUS, and to the inclusion in the same of a provision for similar Australian use of CANTON ISLAND and AMERICAN SAMOA, with, however, a further provision that the United States Government shall not be financially obligated at MANUS.
 
-_
+ _
 
 1 The U.S. Ambassador, Robert Butler, cabled a record of the conversation to Byrnes on 13 November in which he noted that Evatt 'expressed desire for arrangements for mutual use of facilities [at Manus] and for discussion as to financing same, saying that, to satisfy his Parliament, Australia must have arrangements for at least token right for mutual use of facilities in at least one American base'. See U.S. Department of State, Foreign Relations of the United States 1946, vol. I, pp. 680-1.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A6494 T1, SPTS/1/5]_
+ _[AA:A6494 T1, SPTS/1/5]_

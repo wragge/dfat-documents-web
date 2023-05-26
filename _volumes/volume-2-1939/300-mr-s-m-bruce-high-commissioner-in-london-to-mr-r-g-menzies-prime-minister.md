@@ -1,12 +1,17 @@
 ---
-title: "300 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 637
+doc_date: '1939-10-18'
+doc_num: 300
+doc_order: 300
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 1]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-18
+vol_title: 'Volume 2: 1939'
 ---
-
-# 300 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered [1] LONDON, 18 October 1939
 
@@ -36,7 +41,7 @@ I recognise there is much to be said for me going to America and if you, upon wh
 
 If, on consideration of the above, you feel that final decision should wait upon developments of the next two or three months, we would perhaps be getting the best of both [worlds] if you sent me to Washington to negotiate with American Administration for the establishment of reciprocal Legations and to inaugurate our own in Washington. Casey could get time to return to Australia and report to the Government, which is the basis of Dominion Ministers' visit to London, and then either go to America as Minister or, if you decide to appoint me, come to London.
 
-_
+ _
 
 1 This cablegram was considerably mutilated in transmission. It contains some handwritten insertions, which were probably made after the decipher was rechecked. These are not indicated here, but variations of substance from the version of this cablegram in the Bruce papers (on file AA: M100, October 1939) are indicated in footnotes, or in the case of missing words inserted in square brackets.
 
@@ -62,4 +67,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 1]_
+ _[AA: CP 290/6, ITEM 1]_

@@ -1,22 +1,25 @@
 ---
-title: "505 STATEMENT BY KERR"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10372
+doc_date: '1975-11-11'
+doc_num: 505
+doc_order: 505
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A432
+  reference: '[NAA: A432, A1975/7583 PART 1]'
+title: STATEMENT BY KERR
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1975-11-11
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 505 STATEMENT BY KERR
-
-NAA: A432, A1975/7583 PART 1 
 
 Government House, Canberra, 11 November 1975
 
-**Statement by the Governor-General1**
+ **Statement by the Governor-General[1](#f1)**
 
 I have given careful consideration to the constitutional crisis and have made some decisions which I wish to explain.
 
-_Summary_
+ _Summary_
 
 It has been necessary for me to find a democratic and constitutional solution to the current crisis which will permit the people of Australia to decide as soon as possible what should be the outcome of the deadlock which developed over supply between the two Houses of Parliament and between the Government and the Opposition parties. The only solution consistent with the Constitution and with my oath of office and my responsibilities, authority and duty as Governor-General is to terminate the commission as Prime Minister of Mr Whitlam and to arrange for a caretaker government able to secure supply and willing to let the issue go to the people.
 
@@ -32,9 +35,9 @@ Once I had made up my mind, for my own part, what I must do if Mr Whitlam persis
 
 The result is that there will be an early general election for both Houses and the people can do what, in a democracy such as ours, is their responsibility and duty and theirs alone. It is for the people now to decide the issue which the two leaders have failed to settle.
 
-_Detailed Statements of Decisions_
+ _Detailed Statements of Decisions_
 
-On 16 October the Senate deferred consideration of Appropriation Bills (Nos. 1 &amp; 2) 1975-1976. In the time which elapsed since then events made it clear that the Senate was determined to refuse to grant supply to the Government. In that time the Senate on no less than two occasions resolved to proceed no further with fresh Appropriation Bills, in identical terms, which had been passed by the House of Representatives. The determination of the Senate to maintain its refusal to grant supply was confirmed by the public statements made by the Leader of the Opposition, the Opposition having control of the Senate.
+On 16 October the Senate deferred consideration of Appropriation Bills (Nos. 1 & 2) 1975-1976. In the time which elapsed since then events made it clear that the Senate was determined to refuse to grant supply to the Government. In that time the Senate on no less than two occasions resolved to proceed no further with fresh Appropriation Bills, in identical terms, which had been passed by the House of Representatives. The determination of the Senate to maintain its refusal to grant supply was confirmed by the public statements made by the Leader of the Opposition, the Opposition having control of the Senate.
 
 By virtue of what has in fact happened there therefore came into existence a deadlock between the House of Representatives and the Senate on the central issue of supply without which all the ordinary services of the government cannot be maintained. I had the benefit of discussions with the Prime Minister and, with his approval, with the Leader of the Opposition and with the Treasurer and the Attorney-General. As a result of those discussions and having regard to the public statements of the Prime Minister and the Leader of the Opposition, I have come regretfully to the conclusion that there is no likelihood of a compromise between the House of Representatives and the Senate nor for that matter between the Government and the Opposition.
 
@@ -55,3 +58,5 @@ There is one other point. There has been discussion of the possibility that a ha
 The announced proposals about financing public servants, suppliers, contractors and others do not amount to a satisfactory alternative to supply.
 
 1  This statement was circulated by Greenwood, the Attorney-General, to ‘all members of the legal profession’ on 13 November 1975. Greenwood’s covering letter stated: ‘His Excellency’s statement is a constitutional document of the highest importance. I believe that it should be read by all lawyers in Australia, having regard especially to the responsibility that lawyers have for upholding the law and the Constitution’ (NAA: A432, 1975/7583 part 1). 
+
+[NAA: A432, A1975/7583 PART 1]

@@ -1,14 +1,17 @@
 ---
-title: "92 CABINET NOTE BY HASLUCK AND FAIRHALL"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 9957
+doc_date: '1968-01-24'
+doc_num: 92
+doc_order: 92
+naa_refs:
+- naa_barcode: 1014673
+  naa_control_symbol: VOLUME 1
+  naa_series: A5867
+  reference: '[NAA: A5867 VOLUME 1]'
+title: CABINET NOTE BY HASLUCK AND FAIRHALL
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1968-01-24
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 92 CABINET NOTE BY HASLUCK AND FAIRHALL
-
-NAA: A5867 VOLUME 1
 
 Canberra, 24 January 1968
 
@@ -18,7 +21,7 @@ Canberra, 24 January 1968
 
 Australia’s Role in Asian Security
 
-The report of the Defence Committee on the ‘implications for Australia of the British Defence Decisions: January 1968’ has been circulated to Cabinet.1 We invite Cabinet’s attention to the wide issues of national policy to be borne in mind in making decisions on the matters in that report.
+The report of the Defence Committee on the ‘implications for Australia of the British Defence Decisions: January 1968’ has been circulated to Cabinet.[1](#f1) We invite Cabinet’s attention to the wide issues of national policy to be borne in mind in making decisions on the matters in that report.
 
 The visit which the Minister for External Affairs is undertaking at the end of next week to Singapore, Kuala Lumpur and Djakarta, is the first step in a series of important discussions and decisions by Australia. The technical mission will immediately thereafter visit Singapore and Malaysia to investigate the facilities the Australian forces will need to retain. The ANZUS Council will meet in Wellington on 5th April. Informal exchanges will occur with the British representatives who will be in Wellington at that time for a meeting of the SEATO Council. Five-power talks among the Commonwealth countries will probably take place, possibly in April or May. Along with these discussions there will be continuous diplomatic activity on our part.
 
@@ -44,8 +47,10 @@ A practical example of the kind of situation which will develop is the proposal 
 
 A primary aim of our diplomacy will be to secure the understanding and where possible the co-operation of as many as possible of the countries of the region in working for their own security. It is too soon to say how this can be done, as the attitude of different countries, inside the region and also some outside the region like the United States and Japan will develop as time goes on and will be affected by what they see others, including Australia, doing.
 
-A selection of telegrams is attached.2
+A selection of telegrams is attached.[2](#f2)
 
 1  See Document 91 .
 
 2 Not published.
+
+[NAA: A5867 VOLUME 1]

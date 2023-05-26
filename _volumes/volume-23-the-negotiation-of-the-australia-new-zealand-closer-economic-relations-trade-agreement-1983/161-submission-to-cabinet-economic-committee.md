@@ -1,12 +1,19 @@
 ---
-title: "161 Submission to Cabinet Economic Committee"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9030
+doc_date: '1981-02-20'
+doc_num: 161
+doc_order: 161
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Submission to Cabinet Economic Committee
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1981-02-20
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 161 Submission to Cabinet Economic Committee
 
 Wellington, 20 February 1981
 
@@ -40,7 +47,7 @@ E (81) 26
   10. The Federation's views on allocation of exclusive Australia import licences, the maintenance under the CER of the current margin of preferences arrangement, improvement of access for New Zealand manufacturers to Australian Government procurement contracts, protection against dumping, and adequate provision for on-going procedures aimed at amending standards and other non-tariff barriers to trade currently faced by some New Zealand manufacturers, particularly those in the electrical and engineering industries, also reflect the position of individual manufacturers as discussed directly with officials.
   11. The judgement will need to be made whether the new points of concern listed in the manufacturers' latest submissions will in fact constitute an effective barrier to a successful conclusion of CER, or whether final negotiations with Australia can resolve the issues, at least to the degree where manufacturers generally will go along with the arrangement.
   12. Where individual companies have suggested that one or other of the above issues are of themselves sufficient grounds for opposition to CER, this does, of course, represent the importance of that particular problem to that particular company.
-  13. It is the view of officials that the principal stumbling block in the latest paper from the New Zealand Manufacturers' Federation is its opposition to the eventual achievement under CER of full free trade with Australia, since from the outset the Prime Ministers' communique of March 19801 envisaged the progressive and ultimate elimination of import licensing and tariffs on all goods.
+  13. It is the view of officials that the principal stumbling block in the latest paper from the New Zealand Manufacturers' Federation is its opposition to the eventual achievement under CER of full free trade with Australia, since from the outset the Prime Ministers' communique of March 1980[1](#f1) envisaged the progressive and ultimate elimination of import licensing and tariffs on all goods.
   14. This must also be seen in the context of the Federation's submission that the agreement be subject to a full review no later than five years after its commencement, and that it should have a renewable duration of seven years.
 
 
@@ -79,7 +86,7 @@ E (81) 26
 
 
 
-### Category C-Deferred List2
+### Category C-Deferred List[2](#f2)
 
   23. As part of the industry consultations, officials received a significant number of requests for Category C treatment. These are recorded at Appendix (3). These have all been examined carefully by officials with a view to assessing those requests, which could be met through the application of acceptable CER principles governing access as they are currently being negotiated. In these instances this approach was accepted generally by the companies concerned, albeit reluctantly in some cases.
   24. However, requests by companies in the grocery industry, including canned fruit production and fruit and produce growing, the wine industry (seeking permanent deferral), the welding machinery industry, the ceramics industry, the gas appliances industry, and the aluminium fabricating industry, for Category C treatment, do not seem warranted by officials. It is anticipated that when these requests are declined formally, some units in the industries concerned may raise further objections.
@@ -97,8 +104,6 @@ E (81) 26
 
 
 
-_[ABHS 950/Boxes1221-1226, 40/4/1 Part 34 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Boxes1221-1226, 40/4/1 Part 34 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
 
   * 1 Document 93.
-
-

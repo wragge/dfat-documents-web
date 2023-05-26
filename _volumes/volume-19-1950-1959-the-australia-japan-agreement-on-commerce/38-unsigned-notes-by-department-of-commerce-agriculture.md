@@ -1,14 +1,19 @@
 ---
-title: "38 Unsigned Notes By Department Of Commerce & Agriculture"
-volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
-doc_id: 7643
+doc_date: '1953-08-04'
+doc_num: 38
+doc_order: 38
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[NLA : CRAWFORD PAPERS MS4514/6/18, GATT GENERAL]'
+title: Unsigned Notes By Department Of Commerce & Agriculture
+vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19
-doc_date: 1953-08-04
+vol_title: 'Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce'
 ---
 
-# 38 Unsigned Notes By Department Of Commerce & Agriculture
-
-## 4th August, 1953
+4th August, 1953
 
 Japan's Accession to GATT
 
@@ -50,8 +55,8 @@ The Associated Chambers of Manufactures has vociferously opposed Australian part
 
 This Department's view is that exclusion of Japan from GATT settles no problems, but the application of GATT as between Australia and Japan may offer possibilities of controlling to some extent Japan's general export and import policies. Any retaliatory measures by Japan against any move by Australia to restrict Japan's exports to Australia, provided these are based on reasonable grounds, should also be subject to more control than if GATT did not so apply.
 
-_
+ _
 
 _
 
-_ [NLA : CRAWFORD PAPERS MS4514/6/18, GATT GENERAL]_
+ _[NLA : CRAWFORD PAPERS MS4514/6/18, GATT GENERAL]_

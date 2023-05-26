@@ -1,12 +1,18 @@
 ---
-title: "5 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1236
+doc_date: '1940-07-03'
+doc_num: 5
+doc_order: 5
+naa_refs:
+- naa_barcode: 4212449
+  naa_control_symbol: 1940/15
+  naa_series: A3196
+  reference: '[AA: A3 196, 1940, 0.4422]'
+title: Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-07-03
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 5 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 346 3 July 1940,
 
@@ -27,4 +33,4 @@ A final conclusion is affected by the appreciation which we are awaiting from yo
 
 
 
-_ [AA: A3 196, 1940, 0.4422]_
+ _[AA: A3 196, 1940, 0.4422]_

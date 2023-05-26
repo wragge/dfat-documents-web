@@ -1,12 +1,17 @@
 ---
-title: "263 Evatt to Bruce"
-volume: "Volume 7: 1944"
-doc_id: 2910
+doc_date: '1944-08-31'
+doc_num: 263
+doc_order: 263
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/12]'
+title: Evatt to Bruce
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-31
+vol_title: 'Volume 7: 1944'
 ---
-
-# 263 Evatt to Bruce
 
 Cablegram 169 [1] CANBERRA, 31 August 1944
 
@@ -18,7 +23,7 @@ Please see our 207 to Dominions Office on Civil Aviation. [2] My personal view i
 
 The objective should be to bring the United States into an international conference as early as possible so that a halt can be called to the United States inclination to favour arrangements which differ in no great respect from pre-war procedure which was the antithesis of international collaboration in the interests of all.
 
-_
+ _
 
 1 Sent through the External Affairs Officer in London.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A989, 44/735/832/12]_
+ _[AA:A989, 44/735/832/12]_

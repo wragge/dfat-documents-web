@@ -1,12 +1,17 @@
 ---
-title: "212 Australian Delegation, United Nations, to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4060
+doc_date: '1946-11-12'
+doc_num: 212
+doc_order: 212
+naa_refs:
+- naa_barcode: 554026
+  naa_control_symbol: 852/10/3 PART 1
+  naa_series: A1838
+  reference: '[AA:A838/2, 852/10/3, i]'
+title: Australian Delegation, United Nations, to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-11-12
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 212 Australian Delegation, United Nations, to Department of External Affairs
 
 Cablegram UN685 NEW YORK, 12 November 1946, 11.28 p.m.
 
@@ -30,7 +35,7 @@ Admission of New Members.
 
 This move succeeded and the Committee adopted the following text by twenty-nine to nine with six abstentions-'The General Assembly requests the Security Council to appoint a Committee to confer with a Committee on procedures of the General Assembly with a view to preparing rules governing the admission of new members which will be acceptable both to the General Assembly and to the Security Council'. [2] The minority was composed of U.S.S.R. and satellites and United States.
 
-_
+ _
 
 1 Document 188.
 
@@ -38,4 +43,4 @@ _
 
 _
 
-_ [AA:A838/2, 852/10/3, i]_
+ _[AA:A838/2, 852/10/3, i]_

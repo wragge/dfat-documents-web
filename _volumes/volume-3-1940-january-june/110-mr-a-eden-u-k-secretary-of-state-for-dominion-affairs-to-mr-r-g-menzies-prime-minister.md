@@ -1,12 +1,18 @@
 ---
-title: "110 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 876
+doc_date: '1940-03-21'
+doc_num: 110
+doc_order: 110
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.1896]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-21
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 110 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 83 LONDON, 21 March 1940, 5 a.m.
 
@@ -20,7 +26,7 @@ We propose therefore to arrange in the course of the next few days to recall the
 
 We do not wish to give the impression that there can be a general relaxation of our precautionary methods in the Far East. The withdrawal of these squadrons throws an additional responsibility on the remainder of the garrison at Singapore and a communication is about to be addressed to the Governor of the Straits Settlements [1] urging him to take such methods as may be practicable, without thereby causing dislocation of vital tin and rubber industries, to extend the training of volunteer units. It is hoped by this means that it may be possible to correct any false impression which would otherwise be caused by the movement of these squadrons. We feel that you would wish to have this advance information in view of your special interest in the defences of Singapore. [2]
 
-_
+ _
 
 1 Sir Shenton Thomas.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [FA: A3195, 1.1896]_
+ _[FA: A3195, 1.1896]_

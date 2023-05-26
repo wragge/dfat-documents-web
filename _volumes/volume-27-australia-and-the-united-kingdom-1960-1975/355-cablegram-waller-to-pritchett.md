@@ -1,28 +1,31 @@
 ---
-title: "355 CABLEGRAM, WALLER TO PRITCHETT"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10221
+doc_date: '1972-11-27'
+doc_num: 355
+doc_order: 355
+naa_refs:
+- naa_barcode: 552872
+  naa_control_symbol: 67/1/3 PART 6
+  naa_series: A1838
+  reference: '[NAA: A1838, 6711/3 PART 6]'
+title: CABLEGRAM, WALLER TO PRITCHETT
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-27
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 355 CABLEGRAM, WALLER TO PRITCHETT
-
-NAA: A1838, 6711/3 PART 6
 
 Canberra, 27 November 1972
 
 15135\. Confidential
 
-**Immigration into Britain**
+ **Immigration into Britain**
 
-Thanks for your 19078/79. 1
+Thanks for your 19078/79. [1](#f1)
 
 2\. Perhaps I might comment first on your telegrams which throw valuable light on the situation which is causing difficulties for you. I think the basic fact about the agitation against the riew British immigration regulations is that this agitation is being stimulated and sustained by expatriate Australians and other old Commonwealth expatriates in the United Kingdom (and only to a minor extent by potential expatriate Australians in Australia). Although the Australian Press has covered recent events in British Parliament and Press fairly intently, editorial comment in Australia has been relatively mild and not too widespread. At the same time, the British High Commissioner told me that they are not receiving letters of protest from the Australian public and indeed are not even receiving many enquiries as to how the new rules will apply. Likewise, Australian Government departments and particularly the Department of Immigration, are not receiving much mail on this subject.
 
 3\. Also a most important factor is that neither the Prime Minister nor the leader of the opposition have deemed it necessary or desirable to make this matter in any way an issue in the present election campaign, (although there was a reference to it by Morrison MP over the weekend).
 
-4\. Regarding your 19079,2 I think Braine should be handled very circumspectly. I think you might respond to him by telephone as in paragraph 18 of your 190783 revised as follows:—
+4\. Regarding your 19079,[2](#f2) I think Braine should be handled very circumspectly. I think you might respond to him by telephone as in paragraph 18 of your 19078[3](#f3) revised as follows:—
 
 > (I) Use (A), drop (B) for the moment and amend (C) as follows:
 > 
@@ -59,3 +62,5 @@ Begins:–
 2  Document 353. 
 
 3  Document 352. 
+
+[NAA: A1838, 6711/3 PART 6]

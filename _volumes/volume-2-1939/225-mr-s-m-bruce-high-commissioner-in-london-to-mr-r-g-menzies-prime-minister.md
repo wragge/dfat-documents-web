@@ -1,12 +1,17 @@
 ---
-title: "225 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 562
+doc_date: '1939-09-14'
+doc_num: 225
+doc_order: 225
+naa_refs:
+- naa_barcode: 214742
+  naa_control_symbol: '98'
+  naa_series: AA1972/341
+  reference: '[AA:AA1972/341, Box 6, CABLES ... SEPTEMBER 1939]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-14
+vol_title: 'Volume 2: 1939'
 ---
-
-# 225 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 460 LONDON, 14 September 1939, 7.41 p.m.
 
@@ -60,7 +65,7 @@ Am still closely examining air position and much of the above may be modified as
 
 BRUCE
 
-_ 1 Document 216.
+ _1 Document 216.
 
 2 Sir John Simon, U.K. Chancellor of the Exchequer.
 
@@ -80,4 +85,4 @@ _ 1 Document 216.
 
 _
 
-_ [AA:AA1972/341, Box 6, CABLES ... SEPTEMBER 1939]_
+ _[AA:AA1972/341, Box 6, CABLES ... SEPTEMBER 1939]_

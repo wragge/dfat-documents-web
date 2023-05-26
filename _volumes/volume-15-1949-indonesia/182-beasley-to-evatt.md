@@ -1,12 +1,18 @@
 ---
-title: "182 Beasley to Evatt"
-volume: "Volume 15: 1949, Indonesia"
-doc_id: 6351
+doc_date: '1949-02-02'
+doc_num: 182
+doc_order: 182
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA : IN. MASTERSHEETS (TS) 1948-49]'
+title: Beasley to Evatt
+vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
+  Sovereignty, 1949'
 vol_id: 15
-doc_date: 1949-02-02
+vol_title: 'Volume 15: 1949, Indonesia'
 ---
-
-# 182 Beasley to Evatt
 
 Cablegram 33 LONDON, 2 February 1949, 9 p.m.
 
@@ -34,7 +40,7 @@ He does so quite honestly and in our discussion yesterday he spoke calmly and in
 
 10\. I hope this is helpful in giving you the atmosphere here though it may not add anything particularly new.
 
-_
+ _
 
 1 E.J. Williams.
 
@@ -48,4 +54,4 @@ _
 
 _
 
-_ [FA : IN. MASTERSHEETS (TS) 1948-49]_
+ _[FA : IN. MASTERSHEETS (TS) 1948-49]_

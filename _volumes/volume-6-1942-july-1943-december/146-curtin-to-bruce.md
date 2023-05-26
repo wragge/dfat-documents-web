@@ -1,12 +1,17 @@
 ---
-title: "146 Curtin to Bruce"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2437
+doc_date: '1943-03-29'
+doc_num: 146
+doc_order: 146
+naa_refs:
+- naa_barcode: 4212675
+  naa_control_symbol: 1943/18
+  naa_series: A3196
+  reference: '[AA:A3196, FOLDER 1943 OUT MOST SECRET, 0.8667, 0.8703-6]'
+title: Curtin to Bruce
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-03-29
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 146 Curtin to Bruce
 
 Cablegram 47 CANBERRA, 29 March 1943
 
@@ -52,7 +57,7 @@ It is imperative that we should be able to build up a strength in the South-West
 
 CURTIN
 
-_
+ _
 
 1 Document 143. The copies of this cablegram circulated in Canberra were incorrectly numbered 164 instead of 64A.
 
@@ -82,4 +87,4 @@ Special Collection II, bundle 8, China file no. 2, situation in China 1 January-
 
 _
 
-_ [AA:A3196, FOLDER 1943 OUT MOST SECRET, 0.8667, 0.8703-6]_
+ _[AA:A3196, FOLDER 1943 OUT MOST SECRET, 0.8667, 0.8703-6]_

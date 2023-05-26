@@ -1,12 +1,18 @@
 ---
-title: "213 Attlee to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3244
+doc_date: '1945-08-24'
+doc_num: 213
+doc_order: 213
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE.
+    D1157-3/7/45 TO D2033-2/11/45, I.27426/68]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-24
+vol_title: 'Volume 8: 1945'
 ---
-
-# 213 Attlee to Chifley
 
 Cablegram D1542 LONDON, 24 August 1945, 6.55 p.m.
 
@@ -28,6 +34,6 @@ The most valuable course of all would naturally be if you and the other Prime Mi
 
 I should be grateful for your views upon this at the earliest possible date. I much regret having to raise such a proposal at such short notice, but the recent course of events and the magnitude and significance of the issues with which we are faced have convinced me that it is only by some such personal contacts that we can hope to safeguard the interests which affect us each and all so vitally.
 
-__
+ __
 
-_ [AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE. D1157-3/7/45 TO D2033-2/11/45, I.27426/68]_
+ _[AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE. D1157-3/7/45 TO D2033-2/11/45, I.27426/68]_

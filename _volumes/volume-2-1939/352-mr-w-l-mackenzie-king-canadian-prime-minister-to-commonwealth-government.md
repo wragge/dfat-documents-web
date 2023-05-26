@@ -1,12 +1,17 @@
 ---
-title: "352 Mr W.L. Mackenzie King, Canadian Prime Minister, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 689
+doc_date: '1939-11-10'
+doc_num: 352
+doc_order: 352
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr W.L. Mackenzie King, Canadian Prime Minister, to Commonwealth Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-10
+vol_title: 'Volume 2: 1939'
 ---
-
-# 352 Mr W.L. Mackenzie King, Canadian Prime Minister, to Commonwealth Government
 
 Cablegram 21 OTTAWA, 10 November 1939, 11.15 p.m.
 
@@ -22,7 +27,7 @@ We have received circular telegrams D.73, 75, 76 [1] and proposed reply to the N
 
 (4) Copies of this telegram are being sent immediately to Australia, New Zealand and South Africa.
 
-_
+ _
 
 1 Documents 345, 346 and 347.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

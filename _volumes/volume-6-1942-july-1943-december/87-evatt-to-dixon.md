@@ -1,12 +1,17 @@
 ---
-title: "87 Evatt to Dixon"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2378
+doc_date: '1942-12-08'
+doc_num: 87
+doc_order: 87
+naa_refs:
+- naa_barcode: 238605
+  naa_control_symbol: '1'
+  naa_series: A4763
+  reference: '[AA:A4763]'
+title: Evatt to Dixon
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-12-08
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 87 Evatt to Dixon
 
 Cablegram 166 [1] CANBERRA, 8 December 1942
 
@@ -74,7 +79,7 @@ JOHN CURTIN.'
 
 EVATT
 
-_
+ _
 
 1 Repeated to Bruce as no, 11228.
 
@@ -92,4 +97,4 @@ _
 
 _
 
-_ [AA:A4763]_
+ _[AA:A4763]_

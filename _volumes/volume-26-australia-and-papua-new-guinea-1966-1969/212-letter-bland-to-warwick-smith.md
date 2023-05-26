@@ -1,20 +1,25 @@
 ---
-title: "212 Letter, Bland To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9720
+doc_date: '1968-07-18'
+doc_num: 212
+doc_order: 212
+naa_refs:
+- naa_barcode: 12051963
+  naa_control_symbol: 1968/3949
+  naa_series: A452
+  reference: '[NAA: A452, 1968/3949]'
+title: Letter, Bland To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-07-18
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 212 Letter, Bland To Warwick Smith
 
 Canberra, 18 July 1968
 
 Confidential
 
-I have given considerable thought to your letter of 17th May about the need to foster an awareness and understanding of Defence matters in the developing civil Government of the Territory of Papua and New Guinea. 1
+I have given considerable thought to your letter of 17th May about the need to foster an awareness and understanding of Defence matters in the developing civil Government of the Territory of Papua and New Guinea. [1](#f1)
 
-This is, of course, closely related to the discussions we have had in the Defence Committee on the future size and role of the Pacific Islands Regiment.2 You will recall that the importance of positive measures for co-operation and understanding between the Administration (or future Government) and the PNG forces was emphasised and this had your support. The Defence Committee’s view was that there was a need for greater efforts on the part of the Administration to involve the PNG forces in the life of the community— to remove any suggestion that they were the instrument of the Australian Government and to present the PNG forces as no less a vital element in the country’s institutions than the police and Government services. It was agreed that the Administration in conjunction with the Army and Navy should direct its attention to problems of the relationship between the PIR and indigenous Public Servants and police, and to questions of the re-establishment of ex-members of the local forces in their own communities.
+This is, of course, closely related to the discussions we have had in the Defence Committee on the future size and role of the Pacific Islands Regiment.[2](#f2) You will recall that the importance of positive measures for co-operation and understanding between the Administration (or future Government) and the PNG forces was emphasised and this had your support. The Defence Committee’s view was that there was a need for greater efforts on the part of the Administration to involve the PNG forces in the life of the community— to remove any suggestion that they were the instrument of the Australian Government and to present the PNG forces as no less a vital element in the country’s institutions than the police and Government services. It was agreed that the Administration in conjunction with the Army and Navy should direct its attention to problems of the relationship between the PIR and indigenous Public Servants and police, and to questions of the re-establishment of ex-members of the local forces in their own communities.
 
 You require no assurance that I am in full sympathy with your objective of developing an appreciation of problems affecting both the Services and the civil Administration and an understanding of the Services’ role in the community. At the same time we have to keep in mind that Defence has aspects and implications different from most other governmental functions being exercised in the Territory. As matters stand, under Cabinet the primary responsibility for ensuring the defence of the Territory rests with the Minister and Department of Defence but more than that there is a large interdependence between defence planning for mainland Australia and the Territory: certainly the problems of each are not being thought of as compartmentalised.
 
@@ -48,15 +53,15 @@ When you have considered my observations, we might discuss the whole problem and
 
 [NAA: A452, 1968/3949]
 
-**Interdepartmental consultations on West Irian border crossers**
+ **Interdepartmental consultations on West Irian border crossers**
 
-_Following an initial meeting in July 1967,_1_ the departments of External Territories and External Affairs continued to consult during 1968 on the question of West Irian refugees._
+ _Following an initial meeting in July 1967,_[1](#f_576_1) _the departments of External Territories and External Affairs continued to consult during 1968 on the question of West Irian refugees._
 
-_In a meeting of 7 February, Toogood reported that the Administration was ‘keeping a close watch’ on the Territory’s permissive residents, and noted that those who had been politically active had become ‘reasonably subdued’ since having been required at the turn of the year to sign renewed undertakings to remain apolitical._ 2_ Toogood said that if political activity were resumed, the ‘transfer of offenders to other parts of the Territory would greatly assist in controlling the situation’. Ultimately, offenders could be warned that their certificates of residency could be withdrawn. Jockel responded that Hasluck ‘firmly supported this approach’._3
+ _In a meeting of 7 February, Toogood reported that the Administration was ‘keeping a close watch’ on the Territory’s permissive residents, and noted that those who had been politically active had become ‘reasonably subdued’ since having been required at the turn of the year to sign renewed undertakings to remain apolitical._ [2](#f_576_2) _Toogood said that if political activity were resumed, the ‘transfer of offenders to other parts of the Territory would greatly assist in controlling the situation’. Ultimately, offenders could be warned that their certificates of residency could be withdrawn. Jockel responded that Hasluck ‘firmly supported this approach’._[3](#f_576_3)
 
-_In discussion of the circumstances on the border, Jockel again alluded to the necessity for a firm attitude, asking Toogood ‘whether Administration officers at border stations took a sufficiently tough line’. Indeed, Jockel’s comments were reflective of a general concern in the DEA to ensure that Territories maintained such a line. In preparation for a meeting of 17 June 1968, a Territories paper noted that External Affairs planned to ask if ‘policy should be changed—e.g. made even tougher’, and remarked that ‘From our and Admins. point of view this would be appropriate. But it is quite tough now’._4 _A DOET record of the meeting demonstrates that DEA continued to push hard:_
+ _In discussion of the circumstances on the border, Jockel again alluded to the necessity for a firm attitude, asking Toogood ‘whether Administration officers at border stations took a sufficiently tough line’. Indeed, Jockel’s comments were reflective of a general concern in the DEA to ensure that Territories maintained such a line. In preparation for a meeting of 17 June 1968, a Territories paper noted that External Affairs planned to ask if ‘policy should be changed—e.g. made even tougher’, and remarked that ‘From our and Admins. point of view this would be appropriate. But it is quite tough now’._[4](#f_576_4) _A DOET record of the meeting demonstrates that DEA continued to push hard:_
 
-> _Both Departments agreed that in view of the possibility that a greater influx of West Irianese may occur over the coming months (the U.N. Representative expected to arrive in West Irian in August to supervise the act of self determination) it was important to ensure that all border posts were adopting a uniform approach to border crossers and that the approach should be a firm one. (External Affairs would like to see a period of virtual non-admission) ... It was ... agreed that an officer from this Department should visit all Border posts in the next two-three weeks to discuss practices followed on the ground and ensure that Government policy is clearly understood._5
+>  _Both Departments agreed that in view of the possibility that a greater influx of West Irianese may occur over the coming months (the U.N. Representative expected to arrive in West Irian in August to supervise the act of self determination) it was important to ensure that all border posts were adopting a uniform approach to border crossers and that the approach should be a firm one. (External Affairs would like to see a period of virtual non-admission) ... It was ... agreed that an officer from this Department should visit all Border posts in the next two-three weeks to discuss practices followed on the ground and ensure that Government policy is clearly understood._[5](#f_576_5)
 
 * 1 Document 183. 
 * 2 See Documents 189 and 190. 

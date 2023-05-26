@@ -1,12 +1,18 @@
 ---
-title: "121 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 887
+doc_date: '1940-04-01'
+doc_num: 121
+doc_order: 121
+naa_refs:
+- naa_barcode: 215746
+  naa_control_symbol: A39
+  naa_series: A2908
+  reference: '[AA: AA1973/362, BOX 46, ITEM A39]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr S. M. Bruce,
+  High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-04-01
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 121 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr S. M. Bruce, High Commissioner in London
 
 Letter LONDON, 1 April 1940
 
@@ -18,7 +24,7 @@ The enclosed memorandum represents the result of these consultations. In a good 
 
 ANTHONY EDEN
 
-_
+ _
 
 1 Document 46.
 
@@ -66,4 +72,4 @@ There may be some increase in wheat but it is not estimated to be so large as th
 
 _
 
-_ [AA: AA1973/362, BOX 46, ITEM A39]_
+ _[AA: AA1973/362, BOX 46, ITEM A39]_

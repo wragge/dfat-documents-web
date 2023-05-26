@@ -1,12 +1,17 @@
 ---
-title: "33 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2680
+doc_date: '1944-01-26'
+doc_num: 33
+doc_order: 33
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, iii]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-26
+vol_title: 'Volume 7: 1944'
 ---
-
-# 33 Commonwealth Government to Cranborne
 
 Cablegram 23 CANBERRA, 26 January 1944
 
@@ -44,7 +49,7 @@ Talara oil is being Lend Leased but we are informed that Bahrein oil is not rega
 
 14\. Whilst recognising the general desirability of dealing expeditiously with this matter we must point out that it is not possible to deal with such important questions in the time limit laid down by you in your telegram.
 
-_
+ _
 
 1 Dispatched 21 January. On file AA: A989, 43-44/950/8/3/1, ii.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [AA:A571, L41/915A, iii]_
+ _[AA:A571, L41/915A, iii]_

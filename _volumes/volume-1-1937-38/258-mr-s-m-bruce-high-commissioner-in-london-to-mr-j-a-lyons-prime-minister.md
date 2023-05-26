@@ -1,12 +1,17 @@
 ---
-title: "258 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 257
+doc_date: '1938-09-15'
+doc_num: 258
+doc_order: 257
+naa_refs:
+- naa_barcode: 174711
+  naa_control_symbol: CZE 13 PART 1
+  naa_series: A981
+  reference: '[AA : A981, CZECHOSLOVAKIA 13]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-15
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 258 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram 154 LONDON, 15 September 1938, 1.38 p.m. [1]
 
@@ -20,7 +25,7 @@ In my view the solution is tending towards a plebiscite to be taken after a reas
 
 BRUCE
 
-_
+ _
 
 1 Although this cable as deciphered in Canberra was dated Is September 1938, the copy retained by Bruce (see AA : AA1970/556, item 6(2)) was dated 14 September. The word 'tonight' refers to 14 September. Other variations are noted in footnotes below.
 
@@ -34,4 +39,4 @@ _
 
 _
 
-_ [AA : A981, CZECHOSLOVAKIA 13]_
+ _[AA : A981, CZECHOSLOVAKIA 13]_

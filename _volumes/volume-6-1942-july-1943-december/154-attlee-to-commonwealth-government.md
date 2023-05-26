@@ -1,12 +1,17 @@
 ---
-title: "154 Attlee to Commonwealth Government"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2445
+doc_date: '1943-04-07'
+doc_num: 154
+doc_order: 154
+naa_refs:
+- naa_barcode: 185768
+  naa_control_symbol: 1943/735/832/1 PART 1
+  naa_series: A989
+  reference: '[AA:A989, 43/735/832/1]'
+title: Attlee to Commonwealth Government
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-04-07
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 154 Attlee to Commonwealth Government
 
 Circular cablegram D206 LONDON, 7 April 1943, 2.15 p.m.
 
@@ -28,10 +33,10 @@ Such a system should prove most economical owing to the advantages of rationaliz
 
 We have, without reaching any final conclusions, given some preliminary consideration to this point and, as indicated above, have communicated to Dominion High Commissioners in London the results of the work done on this by our advisers. But we think and trust you will agree that the best procedure will be to put forward as our proposal the system of complete Internationalisation and to invite those who reject that plan to propound their alternative plan for making adequate provision for the necessary development of air transport without imperilling security or provoking a serious clash of national interests.
 
-_
+ _
 
 1 Bruce had dispatched accounts of the preliminary meetings to Curtin, together with copies of the Finlay, Shelmerdine and Barlow reports on post-War civil aviation. See cablegrams 44A of 1 March and 67A of 31 March on file AA:M100, March 1943 and copies of the reports on file AA:A989, 43/735/833/1.
 
 _
 
-_ [AA:A989, 43/735/832/1]_
+ _[AA:A989, 43/735/832/1]_

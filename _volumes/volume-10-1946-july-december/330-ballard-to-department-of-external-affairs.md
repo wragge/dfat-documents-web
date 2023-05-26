@@ -1,12 +1,17 @@
 ---
-title: "330 Ballard to Department of External Affairs"
-volume: "Volume 10: 1946, July-December"
-doc_id: 4178
+doc_date: '1946-12-20'
+doc_num: 330
+doc_order: 330
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[AA:A1838/2, 403/3/1/1, iiiA]'
+title: Ballard to Department of External Affairs
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-12-20
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 330 Ballard to Department of External Affairs
 
 Cablegram 284 BATAVIA, 20 December 1946, 3.20 p.m.
 
@@ -20,7 +25,7 @@ The Dutch Government have not yet told him that they are ready to sign. He said 
 
 He said he was not worried about the strength of this, as the opposition were divided amongst themselves. He did say, however, that he was rather worried about the reactions to the Dutch military measures which have been provoked on occasions. Of course there are faults on both sides, but the fact is that the truce has been a plant of forced growth.
 
-_
+ _
 
 1 Document 279.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A1838/2, 403/3/1/1, iiiA]_
+ _[AA:A1838/2, 403/3/1/1, iiiA]_

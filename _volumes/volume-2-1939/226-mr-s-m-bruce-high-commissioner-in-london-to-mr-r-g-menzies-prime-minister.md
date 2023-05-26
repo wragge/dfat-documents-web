@@ -1,12 +1,17 @@
 ---
-title: "226 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 563
+doc_date: '1939-09-14'
+doc_num: 226
+doc_order: 226
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1608
+  reference: '[AA:A1608, 137/1/5]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-09-14
+vol_title: 'Volume 2: 1939'
 ---
-
-# 226 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 14 September 1939, 8.26 p.m.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA:A1608, 137/1/5]_
+ _[AA:A1608, 137/1/5]_

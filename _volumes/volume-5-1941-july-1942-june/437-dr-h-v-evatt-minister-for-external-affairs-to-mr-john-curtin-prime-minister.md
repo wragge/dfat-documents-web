@@ -1,14 +1,19 @@
 ---
-title: "437 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2191
+doc_date: '1942-03-23'
+doc_num: 437
+doc_order: 438
+naa_refs:
+- naa_barcode: 640633
+  naa_control_symbol: 474/6
+  naa_series: A5954
+  reference: '[AA:MP1217, BOX 474, CABLEGRAMS TO AND FROM DR EVATT]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-03-23
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 437 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
-
-## Cablegram EP1 WASHINGTON, 23 March 1942
+Cablegram EP1 WASHINGTON, 23 March 1942
 
 For Prime Minister only.
 
@@ -32,7 +37,7 @@ Best wishes.
 
 EVATT
 
-_
+ _
 
 1 On 24 March 1942 the Melbourne Sun News Pictorial, in an editorial on the selection of a successor to R. G. Casey as Minister to the United States, stated that 'there will belittle doubt in the minds of most Australians that the outstanding man for the position is Mr. R. G. Menzies'. Menzies, who had been Prime Minister 1939-41, was then United Australia Party M.H.R. for Kooyong and a member of the Advisory War Council.
 
@@ -52,4 +57,4 @@ _
 
 _
 
-_ [AA:MP1217, BOX 474, CABLEGRAMS TO AND FROM DR EVATT]_
+ _[AA:MP1217, BOX 474, CABLEGRAMS TO AND FROM DR EVATT]_

@@ -1,12 +1,17 @@
 ---
-title: "1 Evatt to Chifley"
-volume: "Volume 10: 1946, July-December"
-doc_id: 3849
+doc_date: '1946-07-01'
+doc_num: 1
+doc_order: 1
+naa_refs:
+- naa_barcode: 273925
+  naa_control_symbol: SPTS 1/5
+  naa_series: A6494
+  reference: '[AA:A6494 T1, SPTS/1/5]'
+title: Evatt to Chifley
+vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10
-doc_date: 1946-07-01
+vol_title: 'Volume 10: 1946, July-December'
 ---
-
-# 1 Evatt to Chifley
 
 Cablegram 887 WASHINGTON, 1 July 1946, 1.38 a.m.
 
@@ -48,7 +53,7 @@ Your telegram A71. [1]
 
 15\. Subject to your endorsement am hopeful, though not overconfident, of getting some approval in principle to the plan, leaving it to the Service authorities to proceed with all details by way of further conversations which necessarily would take a considerable time.
 
-_
+ _
 
 1 Volume IX, Document 332.
 
@@ -60,4 +65,4 @@ _
 
 _
 
-_ [AA:A6494 T1, SPTS/1/5]_
+ _[AA:A6494 T1, SPTS/1/5]_

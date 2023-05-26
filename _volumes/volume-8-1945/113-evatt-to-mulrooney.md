@@ -1,14 +1,20 @@
 ---
-title: "113 Evatt to Mulrooney"
-volume: "Volume 8: 1945"
-doc_id: 3144
+doc_date: '1945-06-15'
+doc_num: 113
+doc_order: 113
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, INWARDS FROM AUSTRALIAN DELEGATION SAN FRANCISCO
+    (AND LONDON), I.19632]'
+title: Evatt to Mulrooney
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-06-15
+vol_title: 'Volume 8: 1945'
 ---
 
-# 113 Evatt to Mulrooney
-
-## Cablegram SFC54 [SAN FRANCISCO], 15 June 1945, 2.40 a.m.
+Cablegram SFC54 [SAN FRANCISCO], 15 June 1945, 2.40 a.m.
 
 Many thanks for your telegram. [1] Please convey to the Prime Minister from [2] and myself deepest concern and give him our most affectionate greetings. Please tell him too that we both think that the lodge may be extremely uneven in temperature and even at times be cold with danger of a chill.
 
@@ -18,7 +24,7 @@ In his own interest I think he should return also. But you can take it as absolu
 
 Please discuss this with Chifley, Beasley and Makin. Many thanks for your thoughtful and regular messages.
 
-_ FRANCISCO (AND LONDON), I.19632]
+ _
 
 1 Presumably an unnumbered personal cablegram, dispatched 15 June, referring to family matters. In cablegram 109, dispatched 14 June, Beasley informed Evatt that Curtin's condition had deteriorated and suggested that he return as soon as possible. In AA : A3196, 1945, Folder, Outwards to Australian Delegation San Francisco (and London), O.15434, and O.15374, respectively.
 
@@ -26,4 +32,4 @@ _ FRANCISCO (AND LONDON), I.19632]
 
 _
 
-_ [AA : A3195, 1945, FOLDER, INWARDS FROM AUSTRALIAN DELEGATION SAN_
+ _[AA : A3195, 1945, FOLDER, INWARDS FROM AUSTRALIAN DELEGATION SAN FRANCISCO (AND LONDON), I.19632]_

@@ -1,12 +1,17 @@
 ---
-title: "67 Blamey to Curtin"
-volume: "Volume 8: 1945"
-doc_id: 3098
+doc_date: '1945-04-05'
+doc_num: 67
+doc_order: 67
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 570]'
+title: Blamey to Curtin
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-04-05
+vol_title: 'Volume 8: 1945'
 ---
-
-# 67 Blamey to Curtin
 
 Letter HEADQUARTERS, ALLIED LAND FORCES, SOUTH WEST PACIFIC AREA [BRISBANE], 5 April 1945 ALLIED LAND FORCES,
 
@@ -56,7 +61,7 @@ The operations in Bougainville and Aitape areas are progressing, and it is hoped
 
 T. A. BLAMEY
 
-_
+ _
 
 1 In AA : A5954, box 2313.
 
@@ -66,4 +71,4 @@ _
 
 _
 
-_ [AA : A5954, BOX 570]_
+ _[AA : A5954, BOX 570]_

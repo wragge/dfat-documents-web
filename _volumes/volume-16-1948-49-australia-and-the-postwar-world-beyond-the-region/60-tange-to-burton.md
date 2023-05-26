@@ -1,16 +1,21 @@
 ---
-title: "60 Tange to Burton"
-volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
-doc_id: 6775
+doc_date: '1948-11-09'
+doc_num: 60
+doc_order: 60
+naa_refs:
+- naa_barcode: 564469
+  naa_control_symbol: 191/2/2 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838, 191/2/2, I]'
+title: Tange to Burton
+vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16
-doc_date: 1948-11-09
+vol_title: 'Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region'
 ---
 
-# 60 Tange to Burton
+Minute, [CANBERRA], 9 November 1948
 
-## Minute, [CANBERRA], 9 November 1948
-
-ARAB RELIEF It seems to me that rejection of the Secretary-General's request for a trivial contribution of flour worth about �25,000 for emergency Arab relief is shortsighted.
+ARAB RELIEF It seems to me that rejection of the Secretary-General's request for a trivial contribution of flour worth about £25,000 for emergency Arab relief is shortsighted.
 
 In the light of the size of the problem and Australia's capacity to assist without sacrifice, it is unrealistic to permit Treasury considerations to dominate all others.
 
@@ -22,14 +27,14 @@ There is, moreover, a humanitarian aspect to the starvation of non-belligerent r
 
 Our delegation has made its own judgment of the situation and their argument in favour of agreement to the Secretary-General's request for a small contribution should, in my opinion, be accepted.
 
-The attached note sets out the position as I see it, and the course of action we should urge on the Treasury and Treasurer. There is every reason to expect that we shall get substantially what we asked for in earlier telegrams in the form of adequate contributions by major countries, and pressure upon others through adoption of a target scale of contributions when the Assembly finally adopts a resolution. �25,000 is not much to risk in anticipation of an Assembly resolution.
+The attached note sets out the position as I see it, and the course of action we should urge on the Treasury and Treasurer. There is every reason to expect that we shall get substantially what we asked for in earlier telegrams in the form of adequate contributions by major countries, and pressure upon others through adoption of a target scale of contributions when the Assembly finally adopts a resolution. £25,000 is not much to risk in anticipation of an Assembly resolution.
 
 I have telegraphed Paris to advise immediately what response other Governments gave to Bernadotte. Would it not be possible to hold up a flat rejection of the Secretary-General's request until we see whether the response by others will make a contribution more acceptable to the Prime Minister.
 
-_ [1] A reference to the resolution summarised in note 1 to Document 57.
+ _[1] A reference to the resolution summarised in note 1 to Document 57.
 
 [2] The Third Committee, in its draft of the above resolution, had voted authorising the Secretary-General to advance five million dollars from the Working Capital Fund of the United Nations to be used for the relief of Palestine refugees. The Secretary-General was also authorised to establish a Special Fund into which any nation could make voluntary contributions to reimburse the Capital Fund. (Cablegram Austdel 203, dispatched 11 November 1948.) [3] The United Nations Relief and Rehabilitation Administration.
 
 _
 
-_ [AA : A1838, 191/2/2, I]_
+ _[AA : A1838, 191/2/2, I]_

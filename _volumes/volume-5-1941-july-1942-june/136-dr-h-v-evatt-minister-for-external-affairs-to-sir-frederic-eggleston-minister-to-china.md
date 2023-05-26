@@ -1,12 +1,18 @@
 ---
-title: "136 Dr H. V. Evatt, Minister for External Affairs, to Sir Frederic Eggleston, Minister to China"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1890
+doc_date: '1941-11-29'
+doc_num: 136
+doc_order: 137
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Dr H. V. Evatt, Minister for External Affairs, to Sir Frederic Eggleston, Minister
+  to China
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-29
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 136 Dr H. V. Evatt, Minister for External Affairs, to Sir Frederic Eggleston, Minister to China
 
 Cablegram 25 [1] CANBERRA, 29 November 1941
 
@@ -24,7 +30,7 @@ I am sending last two cables of Casey. [4] Also simultaneous wires from here to 
 
 EVATT
 
-_
+ _
 
 1 Repeated to the Legation in Washington as no. 1024 and to the External Affairs Officer in London as no. 364.
 
@@ -40,4 +46,4 @@ See cablegram 26 on file AA : A981, Japan 178.
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

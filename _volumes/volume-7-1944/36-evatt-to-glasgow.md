@@ -1,12 +1,17 @@
 ---
-title: "36 Evatt to Glasgow"
-volume: "Volume 7: 1944"
-doc_id: 2683
+doc_date: '1944-02-01'
+doc_num: 36
+doc_order: 36
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 708]'
+title: Evatt to Glasgow
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-02-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 36 Evatt to Glasgow
 
 Cablegram 27 CANBERRA, 1 February 1944
 
@@ -66,7 +71,7 @@ MEMORANDUM Interpretation of Article 10 Canadian-Australian Mutual Aid Agreement
 
 7\. Furthermore, the Australian Government is of the opinion that it is reasonable to expect that all international agreements on economic collaboration should take into special account the industrial development, the dislocations and the accumulated needs resulting from the prolonged diversion from peace-time production, in countries which have long been engaged in a total war effort.
 
-_
+ _
 
 1 Document 9.
 
@@ -84,4 +89,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 708]_
+ _[AA:A5954, BOX 708]_

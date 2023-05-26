@@ -1,18 +1,23 @@
 ---
-title: "27 Note By Bailey On Cabinet Submission No. 71"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9536
+doc_date: '1966-03-11'
+doc_num: 27
+doc_order: 27
+naa_refs:
+- naa_barcode: 1340593
+  naa_control_symbol: C1724 PART 2
+  naa_series: A4940
+  reference: '[NAA: A4940, C 1724 part 2]'
+title: Note By Bailey On Cabinet Submission No. 71
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-03-11
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 27 Note By Bailey On Cabinet Submission No. 71
 
 Canberra, 11 March 1966
 
 Top Secret
 
-**Papua and New Guinea—ultimate status**
+ **Papua and New Guinea—ultimate status**
 
 The Minister for Territories is seeking the views of Cabinet on the long term intentions of the Australian Government in relation to the Constitutional status of the Territory, and particularly on the line which should be taken by Government representatives in discussions in Canberra with the Select Committee on Constitutional Development of the House of Assembly of the Territory.
 
@@ -24,11 +29,11 @@ The Minister for Territories is seeking the views of Cabinet on the long term in
 
 5\. In considering the nature of Australia’s future association with New Guinea, it has to be remembered that the world is changing fast, and particularly the area to our near north. Regionalism is becoming an increasing factor in international relations. Who knows whether, in perhaps 10–20 years we may not be looking to a regional association which might include possibly Fiji and other neighbouring islands and New Zealand? Public opinion in Australia at the moment is certainly very favourable to the Territory, and any firm posture in the Committee against ever considering the possibility of integration of the Territory would be likely to come as a jolt, both here and in the Territory.
 
-6\. The submission refers at some length to a paper endorsed by the Defence Committee on the defence considerations which are relevant in considering the future of Papua-New Guinea.3 The defence paper indicates that the closest association with the Territory will be in Australia’s best defence interests. But the submission notes that trade and other aspects are not so important. The really vital thing seems to be to preserve, as far as possible, friendly feelings in the Territory towards Australia. Without these, it is unlikely that even our defence interests in the Territory could be adequately preserved. The importance of goodwill in the Territory emphasises the need not to affront too heavily any aspirations towards integration which may currently be entertained by the people of the Territory. If there is a body of opinion which actively desires integration, this would seem to be another reason for not wishing at this stage to rule out integration as an available form of future association.
+6\. The submission refers at some length to a paper endorsed by the Defence Committee on the defence considerations which are relevant in considering the future of Papua-New Guinea.[3](#f3) The defence paper indicates that the closest association with the Territory will be in Australia’s best defence interests. But the submission notes that trade and other aspects are not so important. The really vital thing seems to be to preserve, as far as possible, friendly feelings in the Territory towards Australia. Without these, it is unlikely that even our defence interests in the Territory could be adequately preserved. The importance of goodwill in the Territory emphasises the need not to affront too heavily any aspirations towards integration which may currently be entertained by the people of the Territory. If there is a body of opinion which actively desires integration, this would seem to be another reason for not wishing at this stage to rule out integration as an available form of future association.
 
 7\. In paragraph 59 there is a suggestion that the Committee may not pursue the question of the range of possible special relationships with Australia. The paragraph continues with the suggestion that, whether or not the Committee pursues this line, ‘there appear to be advantages in the Government taking the opportunity to state a view’. For reasons suggested above, Ministers may want to look carefully before deciding voluntarily to disclose a relatively final position on such vital matters. There has been no opportunity for full consideration—let alone inter-departmental discussion—of the forward policy.
 
-8\. Some of the lines which it is suggested the expression of Government views should take (para. 61) seem questionable, and certainly need further study. Is it really only when the Territory achieves internal self-government that the views of the people about the nature of the association with Australia will be important (first asterisk)? One might reasonably hope that there would be clearer concepts emerging from public discussion in the Territory a good deal earlier than that. Why, in any case, should the Australian Government state firm positions ahead of the people of the Territory discovering their own real political aspirations? There is also a danger that paternalism will creep into the expression of Australian views—e.g. in the third asterisk, it is suggested that ‘Australia will go on helping in the Territory’, but it is then added that ‘the co-operation of the people is necessary’. Should it not be the other way round—that Australia is willing to co–operate with the people of the Territory? The final asterisk deals with migration: in the light of the Government’s recent decision,4 would it not be better at this stage to withhold any firm expression of views on the conditions likely to be applicable in some years’ time to the movement of Papuans and New Guineans to Australia?
+8\. Some of the lines which it is suggested the expression of Government views should take (para. 61) seem questionable, and certainly need further study. Is it really only when the Territory achieves internal self-government that the views of the people about the nature of the association with Australia will be important (first asterisk)? One might reasonably hope that there would be clearer concepts emerging from public discussion in the Territory a good deal earlier than that. Why, in any case, should the Australian Government state firm positions ahead of the people of the Territory discovering their own real political aspirations? There is also a danger that paternalism will creep into the expression of Australian views—e.g. in the third asterisk, it is suggested that ‘Australia will go on helping in the Territory’, but it is then added that ‘the co-operation of the people is necessary’. Should it not be the other way round—that Australia is willing to co–operate with the people of the Territory? The final asterisk deals with migration: in the light of the Government’s recent decision,[4](#f4) would it not be better at this stage to withhold any firm expression of views on the conditions likely to be applicable in some years’ time to the movement of Papuans and New Guineans to Australia?
 
 9\. All in all, the thinking in the previous paragraphs seems to boil down to the proposition that, if the Government genuinely wishes the Territory to find its own way to independence, with Australian help, the Australian Government itself should be most cautious about any close definition of its view of the nature of future associations with the Territory.
 
@@ -54,4 +59,4 @@ While Ministers will no doubt want to be as forthcoming as they can with the Sel
 
 3 Attachment to Document 25.
 
-4 In March 1966, the Australian Government decided that it would reduce from 15 to five years the time before which those with temporary Australian residency could apply for resident status. It was also decided that those who wanted to settle in Australia with wives and children would be measured according to suitability, qualifications and ability to integrate—and that they would be given five year temporary permits, under which their families could accompany them, as opposed to the previous 15 year waiting period (speech by Hubert Opperman (Minister for Immigration), 28 May 1966, in _Current Notes_, vol. 37, 1966, p. 267).
+4 In March 1966, the Australian Government decided that it would reduce from 15 to five years the time before which those with temporary Australian residency could apply for resident status. It was also decided that those who wanted to settle in Australia with wives and children would be measured according to suitability, qualifications and ability to integrate—and that they would be given five year temporary permits, under which their families could accompany them, as opposed to the previous 15 year waiting period (speech by Hubert Opperman (Minister for Immigration), 28 May 1966, in _Current Notes_ , vol. 37, 1966, p. 267).

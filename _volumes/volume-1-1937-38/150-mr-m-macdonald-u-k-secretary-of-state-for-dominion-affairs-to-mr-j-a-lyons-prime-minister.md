@@ -1,12 +1,18 @@
 ---
-title: "150 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 149
+doc_date: '1938-03-22'
+doc_num: 150
+doc_order: 149
+naa_refs:
+- naa_barcode: 176555
+  naa_control_symbol: GREA 8 PART 2
+  naa_series: A981
+  reference: '[AA : A981, GREAT BRITAIN 8B, ii]'
+title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A.
+  Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-22
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 150 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister
 
 Circular Cablegram B73 LONDON, 22 March 1938, 11.32 p.m.
 
@@ -40,7 +46,7 @@ We feel therefore that every possible step should be taken both by the French Go
 
 It is proposed to ask our Ambassador in Paris [5] to speak on the above lines to the French Government after meeting of Cabinet tomorrow at which precise terms of aide-memoire which he may leave with that Government as well as of statement for Parliament will be decided.
 
-_
+ _
 
 1 Neville Chamberlain.
 
@@ -52,4 +58,4 @@ _
 
 _
 
-_ [AA : A981, GREAT BRITAIN 8B, ii]_
+ _[AA : A981, GREAT BRITAIN 8B, ii]_

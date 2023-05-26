@@ -1,14 +1,28 @@
 ---
-title: "94 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr F. Strahan, Secretary of Prime Minister's Department"
-volume: "Volume 3: 1940, January-June"
-doc_id: 860
+doc_date: '1940-03-08'
+doc_num: 94
+doc_order: 94
+naa_refs:
+- naa_barcode: 172905
+  naa_control_symbol: AUS 90 PART 2
+  naa_series: A981
+  reference: '[AA: A981, AUSTRALIA 90B, ii]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[On 22 February 1940 Strahan forwarded to Hodgson papers indicating
+    that two Japanese planned to involve themselves in silver lead mining in Western
+    Australia (see file AA: A981, Australia 90B, ii). He said he had asked the Department
+    of the Interior whether Commonwealth action was contemplated and whether the Government
+    of Western Australia should be asked to act, and invited Hodgson''s comments.]'
+title: Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr F.
+  Strahan, Secretary of Prime Minister's Department
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-03-08
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 94 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr F. Strahan, Secretary of Prime Minister's Department
-
-## Memorandum CANBERRA, 8 March 1940
+Memorandum CANBERRA, 8 March 1940
 
 [On 22 February 1940 Strahan forwarded to Hodgson papers indicating that two Japanese planned to involve themselves in silver lead mining in Western Australia (see file AA: A981, Australia 90B, ii). He said he had asked the Department of the Interior whether Commonwealth action was contemplated and whether the Government of Western Australia should be asked to act, and invited Hodgson's comments.]
 
@@ -30,7 +44,7 @@ I suggest that the attention of the Prime Minister [3] be drawn to this case, fo
 
 [W. R. HODGSON]
 
-_ 1 Sir Henry Gullet.
+ _1 Sir Henry Gullet.
 
 2 J. D. Willcock.
 
@@ -40,4 +54,4 @@ _ 1 Sir Henry Gullet.
 
 _
 
-_ [AA: A981, AUSTRALIA 90B, ii]_
+ _[AA: A981, AUSTRALIA 90B, ii]_

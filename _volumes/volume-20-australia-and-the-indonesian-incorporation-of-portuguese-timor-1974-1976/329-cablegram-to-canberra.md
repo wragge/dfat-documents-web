@@ -1,12 +1,19 @@
 ---
-title: "329 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8167
+doc_date: '1975-11-06'
+doc_num: 329
+doc_order: 328
+naa_refs:
+- naa_barcode: 552304
+  naa_control_symbol: 49/2/1/1 PART 8
+  naa_series: A1838
+  reference: '[NAA: A1838, 49/2/111, viii]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-11-06
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 329 Cablegram to Canberra
 
 Lisbon, 6 November 1975,5.00 p.m.
 
@@ -26,14 +33,12 @@ I called on Melo Antunes this morning. I said that I had read the Rome communiqu
 
 
 
-_[matter omitted]_1
+ _[matter omitted]_[1](#f1)
 
   14. Antunes seems to have convinced himself that, as a result of the Rome talks, relations with Indonesia are now on a satisfactory footing. This is of course to be welcomed as far as it goes. But it seems that so far both sides have been content to agree on some general principles of decolonization. The real test will come when efforts are made to implement them on the ground. The fact that Antunes regards Australian help as indispensable is a reflection of his distrust of Indonesian intentions. Incidentally he did not refer to Portugal's rejection of the Indonesian proposal for a joint peace-keeping force to maintain peace and order.
 
 
 
-_[NAA: A1838, 49/2/111, viii)_
+ _[NAA: A1838, 49/2/111, viii]_
 
   * 1 Omitted paragraphs report Antunes' version of the Rome talks, including his understanding that Indonesia had agreed to withdraw its forces from the border areas.
-
-

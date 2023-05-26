@@ -1,12 +1,18 @@
 ---
-title: "126 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1880
+doc_date: '1941-11-24'
+doc_num: 126
+doc_order: 127
+naa_refs:
+- naa_barcode: 177609
+  naa_control_symbol: JAP 178 PART 1
+  naa_series: A981
+  reference: '[AA : A981, JAPAN 178]'
+title: Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister,
+  and to Dr H. V. Evatt, Minister for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-11-24
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 126 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs
 
 Cablegram 1021 WASHINGTON, 24 November 1941, 9.26-11.05 p.m. [1]
 
@@ -68,7 +74,7 @@ My personal view is that whereas above-quoted modus vivendi is rough and ready a
 
 I would appreciate your early advice.
 
-_
+ _
 
 1 This cablegram was dispatched in two parts.
 
@@ -84,4 +90,4 @@ _
 
 _
 
-_ [AA : A981, JAPAN 178]_
+ _[AA : A981, JAPAN 178]_

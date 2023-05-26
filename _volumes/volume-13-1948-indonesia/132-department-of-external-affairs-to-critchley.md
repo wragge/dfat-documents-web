@@ -1,14 +1,19 @@
 ---
-title: "132 Department of External Affairs to Critchley"
-volume: "Volume 13: 1948, Indonesia"
-doc_id: 5399
+doc_date: '1948-05-18'
+doc_num: 132
+doc_order: 132
+naa_refs:
+- naa_barcode: 550482
+  naa_control_symbol: 403/3/1/1 PART 16
+  naa_series: A1838
+  reference: '[AA:A1838, 403/3/1/, xvi]'
+title: Department of External Affairs to Critchley
+vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13
-doc_date: 1948-05-18
+vol_title: 'Volume 13: 1948, Indonesia'
 ---
 
-# 132 Department of External Affairs to Critchley
-
-## Cablegram 125 CANBERRA, 18 May 1948
+Cablegram 125 CANBERRA, 18 May 1948
 
 We have been considering your recent reports on political negotiations [1] and hope to comment on them shortly.
 
@@ -16,7 +21,7 @@ Meanwhile, we should like further report on present position as regards trade. W
 
 (a) What is extent of blockade, and how do Dutch seek to justify it? How does it affect shipment of native produce from Republican areas? (b) Does it limit fishing and other normal off-shore activities? (c) How far is it responsible for Republic's existing economic disabilities? (d) Has it been discussed in negotiations and what views have Republicans expressed? (e) Are Republicans still trying to develop their own ports through which to conduct foreign trade?
 
-_
+ _
 
 1 Documents 125, 128 and 130.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA:A1838, 403/3/1/, xvi]_
+ _[AA:A1838, 403/3/1/, xvi]_

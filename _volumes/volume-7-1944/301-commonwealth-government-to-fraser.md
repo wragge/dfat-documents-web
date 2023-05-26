@@ -1,12 +1,17 @@
 ---
-title: "301 Commonwealth Government to Fraser"
-volume: "Volume 7: 1944"
-doc_id: 2948
+doc_date: '1944-09-26'
+doc_num: 301
+doc_order: 301
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 43/735/832/1, ii]'
+title: Commonwealth Government to Fraser
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-26
+vol_title: 'Volume 7: 1944'
 ---
-
-# 301 Commonwealth Government to Fraser
 
 Cablegram 210 [1] (extracts) CANBERRA, 26 September 1944
 
@@ -40,7 +45,7 @@ Properly organised and conducted, Empire air transport services will, in time, e
 
 13\. We would be glad to have your views on this alternative programme and whether you would wish to discuss it in person with appropriate Minister and officials in the very near future. You will appreciate the growing urgency of the position.
 
-_
+ _
 
 1 Repeated to the U.K. Dominions Secretary as no. 249.
 
@@ -54,4 +59,4 @@ _
 
 _
 
-_ [AA:A989, 43/735/832/1, ii]_
+ _[AA:A989, 43/735/832/1, ii]_

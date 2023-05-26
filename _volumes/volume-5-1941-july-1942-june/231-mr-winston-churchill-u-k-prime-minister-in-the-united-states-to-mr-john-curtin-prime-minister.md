@@ -1,12 +1,18 @@
 ---
-title: "231 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1985
+doc_date: '1941-12-25'
+doc_num: 231
+doc_order: 232
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1.29719]'
+title: Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John
+  Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-25
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 231 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister
 
 Cablegram Winch 12 [WASHINGTON, 25 December 1941] [1]
 
@@ -34,7 +40,7 @@ Articles 2 and 3 of the Atlantic Charter clearly forbid any such acts on our par
 
 From my informal tentative soundings of the President, I am sure that his views would be as strong as mine.
 
-_
+ _
 
 1 This cablegram was dispatched to London on 25 December (see J.
 
@@ -60,4 +66,4 @@ Tedder.
 
 _
 
-_ [AA:A3195, 1941, 1.29719]_
+ _[AA:A3195, 1941, 1.29719]_

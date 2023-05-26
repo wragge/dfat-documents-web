@@ -1,11 +1,19 @@
 ---
-title: "34 Paper by Department of the Treasury"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8904
+doc_date: '1979-10-01'
+doc_num: 34
+doc_order: 34
+naa_refs:
+- naa_barcode: 1509857
+  naa_control_symbol: 370/1/19/18 ANNEX 5
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19/18, ANNEX 5]'
+title: Paper by Department of the Treasury
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 34 Paper by Department of the Treasury
 
 Canberra, October 1979
 
@@ -13,7 +21,7 @@ CONFIDENTIAL
 
 Closer Economic Integration between Australia and New Zealand Possible Impact on the Australian Economy
 
-_A. Introduction_
+ _A. Introduction_
 
 This paper attempts to provide a broad analysis of the possible impact on the Australian economy of closer economic co-operation with New Zealand. In particular it canvasses the possible impact on resource allocation, domestic economic activity and the external economic position.
 
@@ -33,11 +41,11 @@ Analysis of this type can only be indicative, giving a very general assessment o
 
 Economic links between Australia and New Zealand are already close. Approximately 75 per cent of trans-Tasman trade is covered by NAFTA while both labour and capital flows are subject to relatively few restrictions.
 
-Before proceeding with any analysis it is important to place the proposals for closer economic relations in perspective. New Zealand is a relatively minor trading partner for Australia, buying only about 5 per cent of our exports. This places it fifth behind Japan, US, the EEC and the ASEAN block in relative importance. Although New Zealand has managed to increase its share of Australia's imports from about 1.3 per cent in 1961-62 to 3.2 per cent in 1977-78, the growth in market penetration has slowed significantly in recent years and Australia still maintains a _sizable bilateral trade surplus_. Available statistics suggest that Australia runs a _small net bilateral surplus on invisibles1_ and a _bilateral deficit on capital account_ with New Zealand. None of these net flows however have any significant impact on Australia's _overall balance of payments_ position. In any case a significant change in the trade balance of one or both countries would need to be accompanied by appropriate policy adjustments (particularly in exchange rates).
+Before proceeding with any analysis it is important to place the proposals for closer economic relations in perspective. New Zealand is a relatively minor trading partner for Australia, buying only about 5 per cent of our exports. This places it fifth behind Japan, US, the EEC and the ASEAN block in relative importance. Although New Zealand has managed to increase its share of Australia's imports from about 1.3 per cent in 1961-62 to 3.2 per cent in 1977-78, the growth in market penetration has slowed significantly in recent years and Australia still maintains a _sizable bilateral trade surplus_. Available statistics suggest that Australia runs a _small net bilateral surplus on invisibles[1](#f1)_ and a _bilateral deficit on capital account_ with New Zealand. None of these net flows however have any significant impact on Australia's _overall balance of payments_ position. In any case a significant change in the trade balance of one or both countries would need to be accompanied by appropriate policy adjustments (particularly in exchange rates).
 
 The main significance from a longer viewpoint of any reduction in trade barriers for the respective economies will be the impact on the industrial structure and whether it contributes to a more efficient allocation of resources.
 
-_B. General analysis_
+ _B. General analysis_
 
 The gains to be had from closer economic co-operation of the type envisaged in the current exercise arise from the possible beneficial structural changes and the larger domestic market induced by the removal of trade barriers. Both static and dynamic gains are possible. The static gains are the net result of trade creation (a measure of the gains resulting from the replacement of a protected higher cost domestic product by a lower cost import from the partner country) and trade diversion (a measure of the losses resulting from the replacement of a lower cost source of supply in a third country to a higher cost source of supply in the partner country). The dynamic gains are those associated with a larger domestic market, for example, producers can move to more efficient levels of production thereby reaping economies of scale; the level of competition could be expected to increase (including the possible breaking down of national monopolies or the promotion of the aggregation of small inefficient producers); and, some stimulus to both domestic and foreign investment might be expected in response to new trading opportunities. A customs union may also have stronger bargaining power in international negotiations than its individual constituents.
 
@@ -61,7 +69,7 @@ In light of these considerations a few general observations can be made.
 
 
 
-_C. Economic adjustment_
+ _C. Economic adjustment_
 
 Economic growth is facilitated by countries developing and maintaining the economic flexibility needed to take up new opportunities and to phase down activity in those areas which become least efficient. One aspect of this process is the continual change in the areas of comparative advantage open to industries on international markets. Within a framework that allows the exchange rate to be set at an appropriate level given the overall balance of payments position, the competitiveness of some industries engaged in international trade can be expected to decline over time, while there will be increases in the competitiveness of other trading or non-trading industries. The desire to slow down the process of change in order to reduce the adjustment costs involved in the movements of labour and capital resources into new activities can impose substantial net costs on the community in terms of the opportunities for growth forgone. Failure to permit economic change can only diminish the future wealth of the community and its capacity to sustain high levels of employment in the longer run. A closer relationship with New Zealand should not be considered as an option that will obviate the need to adopt more broadly based trade liberalisation policies or domestic policy actions designed to improve economic flexibility and efficiency.
 
@@ -79,13 +87,13 @@ In view of the substantial long-term benefits to the Australian (and New Zealand
 
 Of the options for closer economic co-operation currently under consideration, the establishment of a full free trade area, with the removal of quantitative restrictions could be expected to encourage more widespread structural change than an expansion of NAFrA, as currently operated.
 
-In the case of a customs union, the initial Task Force report 2 on the possibilities of closer co-operation suggests that the industries most likely to require significant readjustment as a result of a general freeing of trade with New Zealand would be dairying (with the exception of fresh whole milk suppliers), certain horticultural industries and production of wool carpets. In the longer term it is possible that a number of labour intensive industries including textiles, clothing and footwear and printing could develop or expand in New Zealand if their lower labour costs (relative to Australia) are maintained. (Assuming differences in wage levels are not offset by higher productivity in Australian industry.)
+In the case of a customs union, the initial Task Force report [2](#f2) on the possibilities of closer co-operation suggests that the industries most likely to require significant readjustment as a result of a general freeing of trade with New Zealand would be dairying (with the exception of fresh whole milk suppliers), certain horticultural industries and production of wool carpets. In the longer term it is possible that a number of labour intensive industries including textiles, clothing and footwear and printing could develop or expand in New Zealand if their lower labour costs (relative to Australia) are maintained. (Assuming differences in wage levels are not offset by higher productivity in Australian industry.)
 
 These adjustments would be offset by growth in a wide range of Australian industries. The Task Force report identifies transport equipment, man-made fibre carpets, sugar, certain fresh and canned fruits and wine as areas which might benefit especially. However, the major benefits would be widespread across these and other industries, their users and suppliers. As is often the case with proposals for the reduction of trade barriers, the potential short-term 'losers' (the people in the industries adversely affected) may be more concentrated than the potential 'winners' (expanding industries and consumers in general). In the longer term both groups could benefit if the resources displaced moved into more productive uses.
 
-## [matter omitted]3
+## [matter omitted][3](#f3)
 
-_F. Economic Union or Common Market_
+ _F. Economic Union or Common Market_
 
 The more ambitious forms of economic integration-economic union and common market-clearly involve the consideration of a far broader range of issues and would presumably have a more wide ranging impact on the Australian economy. As noted at the beginning of this paper, any comments on the likely effect of these options can only be expressed in very broad terms.
 
@@ -95,7 +103,7 @@ To the extent that these further options did permit a more complete integration 
 
 As noted earlier there is nothing to suggest that Australia and New Zealand would share equally in any benefits generated by economic integration. If these more comprehensive forms of integration were ultimately adopted and if one country were to benefit disproportionately, pressure might be expected from the other for some form of income redistribution, perhaps among the lines of the EC's Regional Fund. A further consideration is that co-ordination of economic policies would impose restrictions on the flexibility of domestic economic policy makers. Any change in a common policy would need the approval of two governments. To take a very simple example, the establishment of a common external tariff reduces the ability of an individual country to use tariff adjustment as an economic policy measure.
 
-_G. Conclusions_
+ _G. Conclusions_
 
 While the impact on Australia of closer association with New Zealand would depend on the precise arrangements entered into, there are a number of general observations which can usefully be made.
 
@@ -114,10 +122,8 @@ Fourthly, whether the relative expansion and contraction of industries as a resu
 
 Fifthly, it is clear that some forms of closer association would have an overall adverse impact on Australia. For example, a customs union with a common external tariff above the current Australian level would encourage the expansion of industries which are inefficient by world standards, with clear adverse implications for Australia's economic structure and future growth potential.
 
-_[NAA: A1838, 37011/19/18, ANNEX 5]_
+ _[NAA: A1838, 37011/19/18, ANNEX 5]_
 
   * 1 i.e. items such as financial services and insurance. 
   * 2 Document 22.
   * 3 Two sections have been omitted: D. 'Domestic economic activity'; and 'E. External economic activity'.
-
-

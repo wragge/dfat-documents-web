@@ -1,12 +1,19 @@
 ---
-title: "177 Extracts from Minute from Anderson to Anthony"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9046
+doc_date: '1982-01-26'
+doc_num: 177
+doc_order: 177
+naa_refs:
+- naa_barcode: 11557133
+  naa_control_symbol: 1982/1381 PART 3
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 8211381, iii]'
+title: Extracts from Minute from Anderson to Anthony
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-01-26
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
-
-# 177 Extracts from Minute from Anderson to Anthony
 
 Canberra, 26 January 1982
 
@@ -38,7 +45,7 @@ We plan to meet with key industry representatives before that meeting takes plac
 
 Our reading is that the dairy farmers are still opposed to any imports of New Zealand butter and are considering campaigning against CER
 
-  * moreover, some industry representatives seem ready to argue their case against CER on the basis of their particular interpretation of selected extracts from the BAE study of comparative efficiency1 of the two industries (published late last year).
+  * moreover, some industry representatives seem ready to argue their case against CER on the basis of their particular interpretation of selected extracts from the BAE study of comparative efficiency[1](#f1) of the two industries (published late last year).
 
 
 
@@ -62,7 +69,7 @@ Issue now is for industries to come to a mutually satisfactory arrangement consi
 
 The Government has yet to consider in any detail what options it considers may be suitable and is looking to the industry for positive suggestions.
 
-_[matter omitted]_
+ _[matter omitted]_
 
 If the delegation seeks to draw on the BAE study to support its argument that NZ receives significantly greater support than the Australian industry you could say:
 
@@ -83,6 +90,6 @@ As a general observation, could remind ADFF executive that Australia has to be c
 
 Moreover it does harm to dairy industry's image here and overseas when industry itself promotes the idea that it is inefficient and uncompetitive.
 
-_[NAA: A1313/113, 8211381, iii]_
+ _[NAA: A1313/113, 8211381, iii]_
 
 1 Document 172.

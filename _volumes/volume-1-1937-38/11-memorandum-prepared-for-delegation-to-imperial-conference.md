@@ -1,14 +1,19 @@
 ---
-title: "11 Memorandum prepared for Delegation to Imperial Conference"
-volume: "Volume 1: 1937-38"
-doc_id: 11
+doc_date: '1937-03-06'
+doc_num: 11
+doc_order: 11
+naa_refs:
+- naa_barcode: 232383
+  naa_control_symbol: '12'
+  naa_series: A2938
+  reference: '[FA : A2938, REVIEW OF RELATIONS BETWEEN THE UNITED KINGDOM AND JAPAN]'
+title: Memorandum prepared for Delegation to Imperial Conference
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1937-03-06
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 11 Memorandum prepared for Delegation to Imperial Conference
-
-## Extract n.d. [c. 6 March 1937]
+Extract n.d. [c. 6 March 1937]
 
 REVIEW OF RELATIONS WITH PARTICULAR COUNTRIES HAVING SPECIAL SIGNIFICANCE VIS-A-VIS THE UNITED KINGDOM OR PARTICULAR DOMINIONS
 

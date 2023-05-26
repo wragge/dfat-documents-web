@@ -1,14 +1,19 @@
 ---
-title: "277 Brigden to Department of External Affairs"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3789
+doc_date: '1946-05-28'
+doc_num: 277
+doc_order: 277
+naa_refs:
+- naa_barcode: 195124
+  naa_control_symbol: ER47/6/1
+  naa_series: A1068
+  reference: '[AA:A1068, ER47/6/i]'
+title: Brigden to Department of External Affairs
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-05-28
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 277 Brigden to Department of External Affairs
-
-## Memorandum (extract) WASHINGTON, 28 May 1946
+Memorandum (extract) WASHINGTON, 28 May 1946
 
 THE INTERNATIONAL EMERGENCY FOOD COUNCIL
 
@@ -54,7 +59,7 @@ It will be much more cumbersome. But something still more difficult might have b
 
 J. B. BRIGDEN
 
-_
+ _
 
 1 See Document 267, notes 2 and 4.
 
@@ -62,4 +67,4 @@ _
 
 _
 
-_ [AA:A1068, ER47/6/i]_
+ _[AA:A1068, ER47/6/i]_

@@ -1,12 +1,17 @@
 ---
-title: "322 Addison to Commonwealth Government"
-volume: "Volume 8: 1945"
-doc_id: 3353
+doc_date: '1945-10-17'
+doc_num: 322
+doc_order: 322
+naa_refs:
+- naa_barcode: 140132
+  naa_control_symbol: 402/8/1/1/1 PART 1
+  naa_series: A1838
+  reference: '[AA : A1838/2, 402/8/1/1, i]'
+title: Addison to Commonwealth Government
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-10-17
+vol_title: 'Volume 8: 1945'
 ---
-
-# 322 Addison to Commonwealth Government
 
 Cablegram D1939 LONDON, 17 October 1945, 11.35 a.m.
 
@@ -40,7 +45,7 @@ Admiral Mountbatten recently discussed the situation in Java with General Christ
 
 8\. See my immediately following telegram. [6]
 
-_
+ _
 
 1 Document 306.
 
@@ -58,4 +63,4 @@ It also reported that the Netherlands Govt had authorised Dr. van Mook to hold t
 
 _
 
-_ [AA : A1838/2, 402/8/1/1, i]_
+ _[AA : A1838/2, 402/8/1/1, i]_

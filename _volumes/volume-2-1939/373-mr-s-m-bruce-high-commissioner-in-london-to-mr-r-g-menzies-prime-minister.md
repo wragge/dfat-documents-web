@@ -1,12 +1,17 @@
 ---
-title: "373 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 710
+doc_date: '1939-11-17'
+doc_num: 373
+doc_order: 373
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 35]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-17
+vol_title: 'Volume 2: 1939'
 ---
-
-# 373 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram unnumbered LONDON, 17 November 1939
 
@@ -26,7 +31,7 @@ For Army, Melbourne. General Squires [1] from Northcott. [2] The Minister telegr
 
 6\. C.I.G.S. is anxious to get early decision as shipping already taken up in anticipation of our requirements.
 
-_ 1 Lt Gen E.K. Squires, Chief of the General Staff.
+ _1 Lt Gen E.K. Squires, Chief of the General Staff.
 
 2 Maj Gen J. Northcutt, Deputy Chief of the General Staff, who was Casey's military adviser.
 
@@ -36,4 +41,4 @@ _ 1 Lt Gen E.K. Squires, Chief of the General Staff.
 
 _
 
-_ [AA: CP 290/6, ITEM 35]_
+ _[AA: CP 290/6, ITEM 35]_

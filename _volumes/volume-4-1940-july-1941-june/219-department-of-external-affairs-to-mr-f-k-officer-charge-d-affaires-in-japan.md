@@ -1,12 +1,17 @@
 ---
-title: "219 Department of External Affairs to Mr F. K. Officer, Charge d'Affaires in Japan"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1450
+doc_date: '1940-12-09'
+doc_num: 219
+doc_order: 219
+naa_refs:
+- naa_barcode: 176220
+  naa_control_symbol: FAR 20 PART 1
+  naa_series: A981
+  reference: '[AA:A981, FAR EAST 20B, i]'
+title: Department of External Affairs to Mr F. K. Officer, Charge d'Affaires in Japan
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-12-09
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 219 Department of External Affairs to Mr F. K. Officer, Charge d'Affaires in Japan
 
 Cablegram 2 9 December 1940,
 
@@ -22,7 +27,7 @@ Referring to embargo on scrap iron export, Consul-General emphasised that this c
 
 In course of reply to Consul-General, it was emphasised that these restrictions, though they may have affected Japan, were in no way intended to be discriminatory and were not part of a deliberate policy, as he suggested, of assistance directly to China against Japan. Consul-General, however, stated that Japanese Government was beginning to feel distinctly annoyed at accumulation of these restrictions. Japanese Government did not like to think that restrictions were part of an Empire and United States policy designed to throttle Japan economically. If this was so, he emphasised with great earnestness, Japan would like to be informed and would 'accept the challenge.' [2]
 
-_
+ _
 
 1 Masatoshi Akiyama.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A981, FAR EAST 20B, i]_
+ _[AA:A981, FAR EAST 20B, i]_

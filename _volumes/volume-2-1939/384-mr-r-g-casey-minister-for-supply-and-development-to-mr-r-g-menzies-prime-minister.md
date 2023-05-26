@@ -1,12 +1,18 @@
 ---
-title: "384 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 721
+doc_date: '1939-11-23'
+doc_num: 384
+doc_order: 384
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: CP290/6
+  reference: '[AA: CP 290/6, ITEM 35]'
+title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-23
+vol_title: 'Volume 2: 1939'
 ---
-
-# 384 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister
 
 Cablegram C38 LONDON, 23 November 1939, 11.55 p.m.
 
@@ -38,7 +44,7 @@ Weighing all the factors it appears to me that the wisest conclusion in our own 
 
 CASEY
 
-_
+ _
 
 1 Document 327.
 
@@ -56,4 +62,4 @@ _
 
 _
 
-_ [AA: CP 290/6, ITEM 35]_
+ _[AA: CP 290/6, ITEM 35]_

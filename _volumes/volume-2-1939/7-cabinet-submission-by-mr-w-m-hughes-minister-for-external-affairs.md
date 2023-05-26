@@ -1,14 +1,19 @@
 ---
-title: "7 Cabinet Submission by Mr W.M. Hughes, Minister for External Affairs"
-volume: "Volume 2: 1939"
-doc_id: 344
+doc_date: '1939-01-23'
+doc_num: 7
+doc_order: 7
+naa_refs:
+- naa_barcode: 1067058
+  naa_control_symbol: DIS 46
+  naa_series: A981
+  reference: '[AA: A981, DISARMAMENT 461]'
+title: Cabinet Submission by Mr W.M. Hughes, Minister for External Affairs
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-01-23
+vol_title: 'Volume 2: 1939'
 ---
 
-# 7 Cabinet Submission by Mr W.M. Hughes, Minister for External Affairs
-
-## Agenda 534 23 January 1939,
+Agenda 534 23 January 1939,
 
 [On 9 January 1939 F. Strahan, Secretary of the Prime Minister's Department, wrote to Lt Col W.R. Hodgson, Secretary of the Department of External Affairs, forwarding the request of the Prime Minister, J.A. Lyons, to 'let him have some notes' on the General Act. W.M. Hughes, Minister for External Affairs, thought that the question should go to Cabinet, and the following submission was prepared.]
 
@@ -98,7 +103,7 @@ As indicated, the signature to the Optional Clause and accession to the General 
 
 W.M. HUGHES
 
-_
+ _
 
 1 Documents on Australian Foreign Policy 1937-49, vol. 1, Document 337.
 
@@ -110,7 +115,7 @@ _
 
 _
 
-_
+ _
 
 [AA: A981, DISARMAMENT 461]
 

@@ -1,14 +1,20 @@
 ---
-title: "46 Mr S. M. Bruce, High Commissioner in London, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 3: 1940, January-June"
-doc_id: 812
+doc_date: '1940-02-06'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 215746
+  naa_control_symbol: A39
+  naa_series: A2908
+  reference: '[AA: AA1973/362, Box 46, ITEM A39]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr A. Eden, U.K. Secretary
+  of State for Dominion Affairs
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-06
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 46 Mr S. M. Bruce, High Commissioner in London, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs
-
-## Letter 6 February 1940,
+Letter 6 February 1940,
 
 The Commonwealth Government has summoned a meeting of the Agricultural Council for a date, which has not yet been fixed, during the present month. The Council is composed of the Commonwealth Minister for Commerce, the State Ministers of Agriculture, representatives of the Council for Scientific and Industrial Research, together with the responsible officials.
 
@@ -32,7 +38,7 @@ A clear indication of that policy will enable the Agricultural Council at its fo
 
 S. M. BRUCE
 
-_
+ _
 
 1 On 21 February 1940 Bruce informed the Prime Minister, R. G.
 
@@ -44,4 +50,4 @@ A1608, C59/1/1).
 
 _
 
-_ [AA: AA1973/362, Box 46, ITEM A39]_
+ _[AA: AA1973/362, Box 46, ITEM A39]_

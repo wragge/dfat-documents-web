@@ -1,12 +1,19 @@
 ---
-title: "530 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2284
+doc_date: '1942-06-25'
+doc_num: 530
+doc_order: 531
+naa_refs:
+- naa_barcode: 853951
+  naa_control_symbol: '138'
+  naa_series: AWM123
+  reference: '[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-S.W.P.A.
+    FILE NO. 2]'
+title: Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State
+  for Dominion Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-06-25
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 530 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 347 CANBERRA, 25 June 1942
 
@@ -28,7 +35,7 @@ I have received your cablegram of 24th June [1] through the High Commissioner of
 
 CURTIN
 
-_ S.W.P.A. FILE NO. 2]
+ _
 
 1 See cablegram 871 on file AA:M100, June 1942. It requested that forty-two Spitfire aircraft which left the United Kingdom for Australia on 20 June in convoy WS 20 should be offloaded at Freetown and flown to the Middle East. They would be replaced by Spitfires due to be dispatched in convoy WS 21 in July.
 
@@ -44,4 +51,4 @@ _ S.W.P.A. FILE NO. 2]
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-_
+ _[DEFENCE: SPECIAL COLLECTION II, BUNDLE 5, STRATEGICAL POLICY-S.W.P.A. FILE NO. 2]_

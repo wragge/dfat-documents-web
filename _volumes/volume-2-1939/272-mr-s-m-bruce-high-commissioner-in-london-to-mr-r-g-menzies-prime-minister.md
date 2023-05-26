@@ -1,14 +1,19 @@
 ---
-title: "272 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 609
+doc_date: '1939-10-09'
+doc_num: 272
+doc_order: 272
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-09
+vol_title: 'Volume 2: 1939'
 ---
 
-# 272 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
-
-## Cablegram 5.39 (extract) LONDON, 9 October 1939, 8.05 p.m.
+Cablegram 5.39 (extract) LONDON, 9 October 1939, 8.05 p.m.
 
 CLEAR THE LINE MOST IMMEDIATE
 
@@ -20,7 +25,7 @@ Not considered likely that consent to act could be obtained particularly from th
 
 BRUCE
 
-_
+ _
 
 1 Neville Chamberlain.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

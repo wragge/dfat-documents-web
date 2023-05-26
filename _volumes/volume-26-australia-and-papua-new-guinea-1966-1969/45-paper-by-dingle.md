@@ -1,21 +1,25 @@
 ---
-title: "45 Paper By Dingle"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9553
+doc_date: '1966-06-07'
+doc_num: 45
+doc_order: 45
+naa_refs:
+- naa_barcode: 1727608
+  naa_control_symbol: 689/1 PART 2
+  naa_series: A1838
+  reference: '[NAA: A1838, 689/1 part 2]'
+title: Paper By Dingle
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-06-07
-barcode: 1727608
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 45 Paper By Dingle
 
 Canberra, 7 June 1966
 
 Secret
 
-**Visit to the Territory of Papua and New Guinea 2nd—5th June 1966**
+ **Visit to the Territory of Papua and New Guinea 2nd—5th June 1966**
 
-The following is a brief report on my visit to Port Moresby last week for the monthly meeting of the Local Intelligence Committee. It has been prepared in haste in view of the current interest. It summarizes the main points which emerged from my discussions with a wide variety of people, including some indigenous leaders. My talks with them are covered in a separate memorandum.2
+The following is a brief report on my visit to Port Moresby last week for the monthly meeting of the Local Intelligence Committee. It has been prepared in haste in view of the current interest. It summarizes the main points which emerged from my discussions with a wide variety of people, including some indigenous leaders. My talks with them are covered in a separate memorandum.[2](#f2)
 
 2\. Since my previous visit in November 1965, industrial relations have deteriorated in Port Moresby, and from reports, also in other urban areas in the Territory ...
 
@@ -51,27 +55,27 @@ If such a deterioration could not be arrested an emergency situation ‘could ar
 
 16\. Also relevant in this report is the question of emergency legislation and powers. I understand draft emergency regulations, including plans for the establishment of an Auxiliary Police Force, {are} at present up before the Administrator, but that assent has been withheld to {them} going before the House of Assembly, for fear of heightening alarm amongst the European community and investors. Such a problem has not arisen in most former British colonies because Emergency Powers have normally been vested in the Governor as a matter of course.
 
-17\. As matters stand, therefore, there are no plans in existence for the protection of the European community, key {points} etc., in time of emergency. The European community in Port Moresby numbers some 7-8,000. Were soldiers to riot using weapons—and there is some chance they might and have Police support, it is doubtful if one company of ARA3 troops from Australia would be sufficient to maintain law and order. A battalion would probably be needed to be flown in. The Commissioner of Police4 {and} the Commander, IPIR5 consider they could control the situation for no more than twenty-four hours were the Army and Police to strike together.6
+17\. As matters stand, therefore, there are no plans in existence for the protection of the European community, key {points} etc., in time of emergency. The European community in Port Moresby numbers some 7-8,000. Were soldiers to riot using weapons—and there is some chance they might and have Police support, it is doubtful if one company of ARA[3](#f_176_3) troops from Australia would be sufficient to maintain law and order. A battalion would probably be needed to be flown in. The Commissioner of Police[4](#f_176_4) {and} the Commander, IPIR[5](#f_176_5) consider they could control the situation for no more than twenty-four hours were the Army and Police to strike together.[6](#f_176_6)
 
-[ [NAA: A1838, 689/1 part 2](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1727608) ]
+[NAA: A1838, 689/1 part 2]
 
-**Changes to PNG mining legislation**
+ **Changes to PNG mining legislation**
 
-_In mid-June, the House of Assembly passed amendments to the mining ordinances of Papua and New Guinea. 1 Among the changes were new prospecting authorities which increased the maximum area available for exploration projects from 1,000 to 10,000 square miles; compensation for occupation of land during prospecting was fixed at $1 per acre per annum; and recompense for damage to land was also legislated. Special mining leases of up to 25 square miles and for 42 years (renewable thereafter at periods of up to 21 years) were established to provide title to areas where large ore-bodies were involved and, again for large-scale undertakings, provision was made for agreements between the Government and mining companies, which in turn would require legislative ratification._
+ _In mid-June, the House of Assembly passed amendments to the mining ordinances of Papua and New Guinea.[1](#f_177_1) Among the changes were new prospecting authorities which increased the maximum area available for exploration projects from 1,000 to 10,000 square miles; compensation for occupation of land during prospecting was fixed at $1 per acre per annum; and recompense for damage to land was also legislated. Special mining leases of up to 25 square miles and for 42 years (renewable thereafter at periods of up to 21 years) were established to provide title to areas where large ore-bodies were involved and, again for large-scale undertakings, provision was made for agreements between the Government and mining companies, which in turn would require legislative ratification._
 
-_During debate, the MHAfor Bougainville, Paul Lapun, urged that_
+ _During debate, the MHAfor Bougainville, Paul Lapun, urged that_
 
-> _copper royalties ... be paid pack to the people of Bougainville. It must go straight back to them ... it will not be wise if the people in Kieta are dissatisfied and say that they are being exploiled. Troubles could arise.2_
+>  _copper royalties ... be paid pack to the people of Bougainville. It must go straight back to them ... it will not be wise if the people in Kieta are dissatisfied and say that they are being exploiled. Troubles could arise.[2](#f_177_2)_
 
-_Later in the day, Lapun proposed an amendment to the bill giving the ‘owner of the land’ 5% of the mine’s royalties.3 The Administration attacked the amendment. Henderson said that_
+ _Later in the day, Lapun proposed an amendment to the bill giving the ‘owner of the land’ 5% of the mine’s royalties.[3](#f_177_3) The Administration attacked the amendment. Henderson said that_
 
-> _At first the owners will want five per cent of the royalties and then they will demand all of them. Either the state owns the minerals, or the private individual. There can be no compromise ... We make provision in this bill to ensure justice is done to the individual—that he is paid rent or an occupation fee if he is deprived of the use of the surface of the land. We have done everything possible to protect his rights, but the minerals in this country belong to all the people. They do not belong, nor should they belong, to the owner of the land—to a person who has the good fortune to be sitting on top of a mineral4 _
+>  _At first the owners will want five per cent of the royalties and then they will demand all of them. Either the state owns the minerals, or the private individual. There can be no compromise ... We make provision in this bill to ensure justice is done to the individual—that he is paid rent or an occupation fee if he is deprived of the use of the surface of the land. We have done everything possible to protect his rights, but the minerals in this country belong to all the people. They do not belong, nor should they belong, to the owner of the land—to a person who has the good fortune to be sitting on top of a mineral[4](#f_177_4) _
 
 _The suggested amendment was defeated by 30 votes to 22._
 
-_Reflecting on the incident, the Local Intelligence Committee noted:_
+ _Reflecting on the incident, the Local Intelligence Committee noted:_
 
-> _in view of the anlipathy in the [Bougainville] area towards the operations of the Company, we believe that LAPUN will endeavour to re-introduce the ‘royalties’ amendment at later sittings of the House and may stand a good chance of gaining a majority vote. Should this eventuate, the Australian Government would be faced with the alternatives of either disallowing the amendment and thus alienating indigenous M’s.H.A., or agreeing to the payment of royalties, a decision which would constitute a reversal of policy. 5_
+>  _in view of the anlipathy in the [Bougainville] area towards the operations of the Company, we believe that LAPUN will endeavour to re-introduce the ‘royalties’ amendment at later sittings of the House and may stand a good chance of gaining a majority vote. Should this eventuate, the Australian Government would be faced with the alternatives of either disallowing the amendment and thus alienating indigenous M’s.H.A., or agreeing to the payment of royalties, a decision which would constitute a reversal of policy.[5](#f_177_5)_
 
 1  A. F. Dingle, Intelligence Co-ordination, DEA.
 
@@ -87,7 +91,7 @@ _Reflecting on the incident, the Local Intelligence Committee noted:_
 
 1  Information in this paragraph is from an anonymous and undated paper entitled ‘Mining Ordinances: Territory of Papua and New Guinea’, NAA: A452, 1966/5311, and memorandum, Administration (Cleland) to DOT, 6 March 1965, NAA: A452, 1963/2763.
 
-2  _House of Assembly debates_, 14 June 1966, NLA: Nq 328.952 PAP, p. 1487.
+2  _House of Assembly debates_ , 14 June 1966, NLA: Nq 328.952 PAP, p. 1487.
 
 3  See ibid., pp. 1502-4.
 

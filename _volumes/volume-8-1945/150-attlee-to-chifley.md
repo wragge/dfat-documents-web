@@ -1,16 +1,21 @@
 ---
-title: "150 Attlee to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3181
+doc_date: '1945-07-31'
+doc_num: 150
+doc_order: 150
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA : A5954, BOX 570]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-07-31
+vol_title: 'Volume 8: 1945'
 ---
-
-# 150 Attlee to Chifley
 
 Cablegram D1330 LONDON, 31 July 1945, 2.50 p.m.
 
-TOP SECRET &amp; PERSONAL
+TOP SECRET & PERSONAL
 
 1\. I send you herewith for your personal information a summary of the major operational decisions reached in Anglo-American military discussions at Berlin.
 
@@ -56,8 +61,8 @@ Planning Date for the End of Organised Resistance by Japan 12. Subject to period
 
 Cargo Shipping 13. Present estimates indicate the position to be sufficiently manageable to provide for the maximum effort in the prosecution of the war against Japan for the maintenance of the war-making capacity of the British Commonwealth of Nations and the Western Hemisphere insofar as it is connected with the prosecution of the war against Japan and for other essential programmes.
 
-_
+ _
 
 _
 
-_ [AA : A5954, BOX 570]_
+ _[AA : A5954, BOX 570]_

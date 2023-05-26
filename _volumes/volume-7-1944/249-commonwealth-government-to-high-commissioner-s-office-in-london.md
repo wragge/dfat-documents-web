@@ -1,12 +1,17 @@
 ---
-title: "249 Commonwealth Government to High Commissioner's Office in London"
-volume: "Volume 7: 1944"
-doc_id: 2896
+doc_date: '1944-08-16'
+doc_num: 249
+doc_order: 249
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, Box 444]'
+title: Commonwealth Government to High Commissioner's Office in London
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-16
+vol_title: 'Volume 7: 1944'
 ---
-
-# 249 Commonwealth Government to High Commissioner's Office in London
 
 Cablegram 8032 CANBERRA, 16 August 1944
 
@@ -18,7 +23,7 @@ Reference D.No. 1106 5th August. [1] Jewish refugees from Hungary.
 
 2\. In view of the fact that no transportation has so far become available for 300 refugee children from France whose admission to Australia has already been authorised, it seems doubtful whether any useful purpose would be served by authorising the admission of Hungarian children at present. We have informed Washington accordingly [3], and although the Dominions Office telegram under reference does not anticipate any action on our part it is suggested that you should acquaint them with our views on this question.
 
-_
+ _
 
 1 In AA:A3195, 1944, 1.28706/23.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A5954, Box 444]_
+ _[AA:A5954, Box 444]_

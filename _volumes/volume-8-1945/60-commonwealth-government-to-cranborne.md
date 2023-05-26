@@ -1,12 +1,17 @@
 ---
-title: "60 Commonwealth Government to Cranborne"
-volume: "Volume 8: 1945"
-doc_id: 3091
+doc_date: '1945-03-19'
+doc_num: 60
+doc_order: 60
+naa_refs:
+- naa_barcode: 187402
+  naa_control_symbol: E45/24/7
+  naa_series: A1066
+  reference: '[AA:A1066, E45/7]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-03-19
+vol_title: 'Volume 8: 1945'
 ---
-
-# 60 Commonwealth Government to Cranborne
 
 Cablegram 69 CANBERRA, 19 March 1945
 
@@ -20,7 +25,7 @@ We see no objection to proposal in paragraph 2 provided that Polish forces are c
 
 3\. We therefore suggest that if necessary the Poles be reassured by an undertaking on the lines of that given by Mr. Churchill in the House of Commons on 27th February when he offered 'the freedom and citizenship of the British Empire to all who fought if they desire it'. We might be prepared to allow a substantial number of Polish ex-servicemen to migrate to Australia after the war but as at present informed we think this could be arranged without a prior grant of British nationality. [2]
 
-_
+ _
 
 1 Document 50.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [AA:A1066, E45/7]_
+ _[AA:A1066, E45/7]_

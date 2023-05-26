@@ -1,12 +1,18 @@
 ---
-title: "108 Bruce to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2399
+doc_date: '1943-01-21'
+doc_num: 108
+doc_order: 108
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA:A3195, 1943, FOLDER, MOST SECRET INWARDS MASTER SHEETS, EXCLUDING
+    SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.3397/3383]'
+title: Bruce to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-01-21
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 108 Bruce to Curtin
 
 Cablegram 15[A] LONDON, 21 January 1943, 8.15 p.m.
 
@@ -36,7 +42,7 @@ The above I need hardly stress is for your personal information and merely to gi
 
 BRUCE
 
-_ 1 See cablegram 16A of 21 January on file AA:M100, January 1943.
+ _1 See cablegram 16A of 21 January on file AA:M100, January 1943.
 
 Bruce reported that Stalin was pressing Churchill to launch a direct frontal attack on Europe, although the Chiefs of Staff favoured a continued concentration on the Mediterranean campaign.
 
@@ -44,4 +50,4 @@ Bruce also told Curtin that: 'Although we have done everything we could here to 
 
 _
 
-_ [FA:A3195, 1943, FOLDER, MOST SECRET INWARDS MASTER SHEETS, EXCLUDING SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.3397/3383]_
+ _[FA:A3195, 1943, FOLDER, MOST SECRET INWARDS MASTER SHEETS, EXCLUDING SECRETARY OF STATE FOR DOMINION AFFAIRS, 1.3397/3383]_

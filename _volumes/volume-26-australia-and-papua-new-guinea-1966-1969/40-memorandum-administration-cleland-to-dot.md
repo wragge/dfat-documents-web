@@ -1,20 +1,25 @@
 ---
-title: "40 Memorandum, Administration (Cleland) To Dot"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9548
+doc_date: '1966-05-03'
+doc_num: 40
+doc_order: 40
+naa_refs:
+- naa_barcode: 3125701
+  naa_control_symbol: 1965/6640
+  naa_series: A452
+  reference: '[NAA: A452, 1965/6640]'
+title: Memorandum, Administration (Cleland) To Dot
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-05-03
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 40 Memorandum, Administration (Cleland) To Dot
 
 Port Moresby, 3 May 1966
 
 Secret
 
-**Monthly Intelligence Summary 3/66—student and public service discontent**
+ **Monthly Intelligence Summary 3/66—student and public service discontent**
 
-Reference your Secret memorandum of April 7th1 and my interim reply S.24-4 of April 15th, 1966.2 Comments have now been received from all Departments consulted. Copies of the comments submitted by the Public Service Commissioner3 the Commissioner of Police4 and the Acting Secretary for Labour5 are attached.6 These comments, together with those received from other Departments have been collated hereunder.
+Reference your Secret memorandum of April 7th[1](#f1) and my interim reply S.24-4 of April 15th, 1966.[2](#f2) Comments have now been received from all Departments consulted. Copies of the comments submitted by the Public Service Commissioner[3](#f3) the Commissioner of Police[4](#f4) and the Acting Secretary for Labour[5](#f5) are attached.[6](#f6) These comments, together with those received from other Departments have been collated hereunder.
 
 2\. The consensus of opinion of departmental heads who have been reviewing indigenous attitudes to local Public Service salaries and conditions of service is in general agreement with the Intelligence Summary assessment that the level of unrest is serious. The Departments of District Administration, Police, Labour, Information and Extension Services, Education, and the Principal of the Administrative College have expressed the view that further undue delay in arbitration proceedings and/or a determination which is unsatisfactory to local officers and students may well be followed by overt expressions of dissatisfaction involving incidents of public disorder, particularly in the urban areas. It is considered that the degree to which these threats to internal security may be averted or contained could largely depend on the extent to which the indigenous Police may be expected to remain reliable. It will be borne in mind that during recent months expressions of dissatisfaction by the Police Force with their conditions of service led to investigations by a specially established Committee whose findings and recommendations are currently being studied. It should be noted that the comments of the Public Service Commissioner are at variance with those expressed by the other Departments.
 
@@ -32,7 +37,7 @@ Reference your Secret memorandum of April 7th1 and my interim reply S.24-4 of Ap
 
 (f) Wide differentials between the ‘all–up’ pay of local and overseas officers for the same work and responsibility.
 
-(g) The pegging of ‘all-up’ pay of former Administration Servants in such a way that any advancement in position would not be accompanied by a commensurate rise in pay but would be absorbed by the ‘non–reduction allowance’.7
+(g) The pegging of ‘all-up’ pay of former Administration Servants in such a way that any advancement in position would not be accompanied by a commensurate rise in pay but would be absorbed by the ‘non–reduction allowance’.[7](#f7)
 
 (h) The removal of incentives to advancement and acceptance of higher responsibility by operation of the pegging of ‘all–up’ pay in respect of former Administration Servants.
 
@@ -42,7 +47,7 @@ Reference your Secret memorandum of April 7th1 and my interim reply S.24-4 of Ap
 
 (k) Misunderstanding and/or non-acceptance of the local wages, conditions and differentials.
 
-(l) Sensationalism of Press and A.B.C.8 reportage regarding student unrest and riots in other countries.
+(l) Sensationalism of Press and A.B.C.[8](#f8) reportage regarding student unrest and riots in other countries.
 
 (m) Success of localised Public Service and private enterprise strikes and stop work meetings which did not generally produce the disciplinary action expected or half-expected.
 
@@ -50,13 +55,13 @@ Reference your Secret memorandum of April 7th1 and my interim reply S.24-4 of Ap
 
 4\. The present situation is that many local public servants and students are dissatisfied with present pay rates and conditions of service, resentful of the Administration’s method of introducing the new scales, and not convinced by Territory economy arguments. At present they are not resigned to accept the wide differentials between pay and conditions of overseas and local officers. The industrial relations picture in urban areas is believed to be delicately balanced pending the outcome of arbitration proceedings. There are indications that some of the dissatisfaction has filtered down to rural areas. Private enterprise workers are believed to be in sympathy with Administration employees and may take their cues from the outcome of the arbitrary proceedings. It appears to be widely believed that the arbitration proceedings will result in 100% pay rises. Even should pay rises be granted, much or all of these may well be—at least in the case of many previous Administration Servants—absorbed by existing non–reduction allowances. If, as seems probable in many cases, the final result of arbitration is not to increase the amount received each pay day it is believed that the resulting disappointment will aggravate misunderstanding and mistrust of the Administration’s intentions.
 
-5\. Apart from a number of incidents at the Teachers’ College in 1965 the Public Service Commissioner has no knowledge of unrest amongst the younger indigenous public servants, on a serious scale, and suggests the need for firm and decisive action to bring the local officers and students concerned to a realization of their responsibilities. He considers that non-compliance should be countered by application of the disciplinary provisions of the Public Service Ordinance. He is in agreement with departmental heads that further publicity at this stage would not be of particular advantage, but recommends at a future appropriate time the application of propaganda by radio and press concurrently with the Administration’s case being placed before the Arbitrator9 ...
+5\. Apart from a number of incidents at the Teachers’ College in 1965 the Public Service Commissioner has no knowledge of unrest amongst the younger indigenous public servants, on a serious scale, and suggests the need for firm and decisive action to bring the local officers and students concerned to a realization of their responsibilities. He considers that non-compliance should be countered by application of the disciplinary provisions of the Public Service Ordinance. He is in agreement with departmental heads that further publicity at this stage would not be of particular advantage, but recommends at a future appropriate time the application of propaganda by radio and press concurrently with the Administration’s case being placed before the Arbitrator[9](#f9) ...
 
-6\. It is unfortunate that the present arbitral proceedings will be further delayed by the incapacitation of the Arbitrator10 at a time when the impatience of local officers is believed to be steadily mounting. The general inter-departmental view is that there is an urgent need for action which the local sector of the Public Service can see is directed to the alleviation of the basis of their complaints. Emphasis has been placed on the need for sympathetic understanding. It is believed that the application of disciplinary provisions of the Public Service Ordinance at this stage might well have undesirable industrial effects. The consensus of departmental viewpoints is opposed to attempting to single out at present any malcontent leaders who may emerge unless we are prepared to accept the possible consequences of overt industrial action. It should be noted that the Public Service Commissioner, in opposition to other departmental viewpoints, advocates strong disciplinary action as or when required.
+6\. It is unfortunate that the present arbitral proceedings will be further delayed by the incapacitation of the Arbitrator[10](#f10) at a time when the impatience of local officers is believed to be steadily mounting. The general inter-departmental view is that there is an urgent need for action which the local sector of the Public Service can see is directed to the alleviation of the basis of their complaints. Emphasis has been placed on the need for sympathetic understanding. It is believed that the application of disciplinary provisions of the Public Service Ordinance at this stage might well have undesirable industrial effects. The consensus of departmental viewpoints is opposed to attempting to single out at present any malcontent leaders who may emerge unless we are prepared to accept the possible consequences of overt industrial action. It should be noted that the Public Service Commissioner, in opposition to other departmental viewpoints, advocates strong disciplinary action as or when required.
 
 7\. The consensus of departmental opinions is that the present emotional climate leaves little scope for convincing the bulk of local officers of the justice of the Administration’s case and the integrity of the Government’s intentions. The general view is that further propaganda and promises at this stage would be futile and could be dangerous. Fears have been expressed by Departments that the current arbitral proceedings may not succeed in alleviating the present distrust and unrest. It is also believed that the consequences flowing from the Arbitrator’s decisions may largely determine the future political attitudes of the more advanced local officers.
 
-[NAA: A452, 1965/6640)
+[NAA: A452, 1965/6640]
 
 1 It referred to the MIS for March (Document 35) and noted that the assessment concerning unrest among students and members of the public service had been brought urgently to the attention of Barnes. The Minister had been informed that the Administrator’s views had been sought on the assessment and on proposals for action to counter student attitudes and activities. Warwick Smith continued: ‘It would be helpful to know whether any thought has been given to action to secure a better understanding of the wage situation and the need for wages to be limited, not only by student groups but by the community generally. In particular it is desired to make a comment to the Minister on any action by the Department of Information and Extension Services in this direction’ (NAA: A452, 1966/842).
 

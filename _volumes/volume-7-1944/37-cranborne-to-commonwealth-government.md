@@ -1,12 +1,17 @@
 ---
-title: "37 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2684
+doc_date: '1944-01-31'
+doc_num: 37
+doc_order: 37
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A571
+  reference: '[AA:A571, L41/915A, iii]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-31
+vol_title: 'Volume 7: 1944'
 ---
-
-# 37 Cranborne to Commonwealth Government
 
 Cablegram 33 LONDON, 31 January 1944, 6.36 p.m.
 
@@ -40,7 +45,7 @@ As regards (C) the position is that each item will be considered separately and 
 
 7\. We much regret shortness of time for this exchange of views but we had understood that full background was already available to you from Washington where our representatives in these negotiations have thoughout been in close touch with Dominion Missions. We are considering how machinery for co-ordination of views on these and kindred matters could be improved, bearing in mind that Washington must inevitably be the centre of discussions, and would welcome any suggestions from your standpoint.
 
-_
+ _
 
 1 See cablegrams 23 and 24 from the U.K. Dominions Secretary, dispatched 21 January. On file AA: A989, 43-44/950/8/3/1, ii.
 
@@ -52,4 +57,4 @@ A571, L41/915A, iii.
 
 _
 
-_ [AA:A571, L41/915A, iii]_
+ _[AA:A571, L41/915A, iii]_

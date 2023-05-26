@@ -1,14 +1,21 @@
 ---
-title: "101 Ministerial Submission to Fife from Evans"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 8971
+doc_date: '1980-08-29'
+doc_num: 101
+doc_order: 101
+naa_refs:
+- naa_barcode: 1509877
+  naa_control_symbol: 370/1/19/18 PART 18
+  naa_series: A1838
+  reference: '[NAA: A1838, 37011/19118, xviii]'
+title: Ministerial Submission to Fife from Evans
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1980-08-29
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 101 Ministerial Submission to Fife from Evans
-
-## 101 Ministerial Submission to Fife1 from Evans
+## 101 Ministerial Submission to Fife[1](#f1) from Evans
 
 Canberra, 29 August 1980
 
@@ -41,13 +48,11 @@ PURPOSE: To inform you of some recent developments in Australia - New Zealand re
 
   11. The ANU Conference sponsored by the ANZ Foundation was opened by Mr Anthony and Mr Talboys on 12 August. An audience ranging from 150 on the first day, to 70-80 on the second and third days, heard papers and took part in discussion on Energy, Agriculture and Forest Products, Sea Transport, Manufacturing and Industrial Adjustment, the Labour Market and Industrial Relations and the new Trans-Tasman Economic Partnership. A satisfactory range of competent speakers took part and a good press coverage was achieved. Sir Peter Derham chaired most of the proceedings on the opening day, and seemed satisfied with the way things went.
   12. A number of the officials involved in the study of 'closer economic relations' attended throughout, but the concurrent NAFfA talks prevented the Department of Trade and Resources from attending in strength. The fact that the NAFfA meeting was being held concurrently did however enable the Conference to gain some useful publicity and impetus from the attendance of Mr Anthony, Mr Talboys, Mr Adams-Schneider and Senator Chaney at functions on the first day.
-  13. The Conference provided a useful opportunity for some of the foremost partisans of closer trans-Tasman links to state their views. Sir Frank Holmes, Chairman of the New Zealand Economic Planning Council, and a long-standing advocate of closer Australia- New Zealand economic ties, took a prominent part in the discussions. His contribution, however, shared with many others the defecf that it was rather long on broad objectives and expressions of confidence, and rather short on suggestions for specific action or change. At its meeting in Melbourne on 20 August, the ANZ Foundation agreed that while the attendance had been somewhat disappointing, the Conference had met its objective of focussing public attention on the content of and prospects for the trans-Tasman economic relationship.2
+  13. The Conference provided a useful opportunity for some of the foremost partisans of closer trans-Tasman links to state their views. Sir Frank Holmes, Chairman of the New Zealand Economic Planning Council, and a long-standing advocate of closer Australia- New Zealand economic ties, took a prominent part in the discussions. His contribution, however, shared with many others the defecf that it was rather long on broad objectives and expressions of confidence, and rather short on suggestions for specific action or change. At its meeting in Melbourne on 20 August, the ANZ Foundation agreed that while the attendance had been somewhat disappointing, the Conference had met its objective of focussing public attention on the content of and prospects for the trans-Tasman economic relationship.[2](#f2)
 
 
 
-_[NAA: A1838, 37011/19118, xviii]_
+ _[NAA: A1838, 37011/19118, xviii]_
 
   * 1 Fife was Acting Minister for Foreign Affairs while Peacock was attending the United Nations General Assembly Special Session on Economic Development. 
-  * 2 Fife added the annotation 'Noted 2/ix/80' to the submission. 
-
-
+  * 2 Fife added the annotation 'Noted 2/ix/80' to the submission.

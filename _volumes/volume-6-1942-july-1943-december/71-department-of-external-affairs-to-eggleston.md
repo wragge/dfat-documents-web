@@ -1,12 +1,17 @@
 ---
-title: "71 Department of External Affairs to Eggleston"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2362
+doc_date: '1942-11-05'
+doc_num: 71
+doc_order: 71
+naa_refs:
+- naa_barcode: 173531
+  naa_control_symbol: CHIN 60 PART 2
+  naa_series: A981
+  reference: '[AA:A981, CHINA 60B, ii]'
+title: Department of External Affairs to Eggleston
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1942-11-05
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 71 Department of External Affairs to Eggleston
 
 Cablegram SC21 CANBERRA, 5 November 1942
 
@@ -28,7 +33,7 @@ Your S.132. Extraterritorial treaty. [1]
 
 7\. We are telegraphing London for full powers for you to be sent direct to Chungking. [5]
 
-_
+ _
 
 1 Dispatched 2 November. On file AA:A981, China 60B, ii.
 
@@ -40,4 +45,4 @@ _
 
 _
 
-_ [AA:A981, CHINA 60B, ii]_
+ _[AA:A981, CHINA 60B, ii]_

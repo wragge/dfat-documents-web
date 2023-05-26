@@ -1,12 +1,17 @@
 ---
-title: "102 Ballard to Department of External Affairs"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4286
+doc_date: '1947-06-28'
+doc_num: 102
+doc_order: 102
+naa_refs:
+- naa_barcode: 238298
+  naa_control_symbol: 7/1/6/1
+  naa_series: A4355
+  reference: '[AA:A4355/2, 7/1/6/i]'
+title: Ballard to Department of External Affairs
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-06-28
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 102 Ballard to Department of External Affairs
 
 Cablegram 201 BATAVIA, 28 June 1947
 
@@ -18,10 +23,10 @@ Palace opinion regards Indonesian reply as unsatisfactory.
 
 Understand matter has been referred to The Hague with a recommendation that strong action be taken forthwith.
 
-_
+ _
 
 1 Document 101.
 
 _
 
-_ [AA:A4355/2, 7/1/6/i]_
+ _[AA:A4355/2, 7/1/6/i]_

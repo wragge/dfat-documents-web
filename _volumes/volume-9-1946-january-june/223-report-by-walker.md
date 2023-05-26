@@ -1,12 +1,17 @@
 ---
-title: "223 Report by Walker"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3735
+doc_date: '1946-04-30'
+doc_num: 223
+doc_order: 223
+naa_refs:
+- naa_barcode: 3318627
+  naa_control_symbol: 1946/PARIS PART 2
+  naa_series: A4231
+  reference: '[AA:A4231/2, PARIS 1946, 46-68]'
+title: Report by Walker
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-30
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 223 Report by Walker
 
 Extracts PARIS, 30 April 1946
 
@@ -40,7 +45,7 @@ General Policy of Delegation 4. The whole subject is a very large one and discus
 
 E. RONALD WALKER Delegate
 
-_
+ _
 
 1 See Document 126.
 
@@ -58,4 +63,4 @@ Davies, lodged a statement giving their personal approval without committing the
 
 _
 
-_ [AA:A4231/2, PARIS 1946, 46-68]_
+ _[AA:A4231/2, PARIS 1946, 46-68]_

@@ -1,14 +1,20 @@
 ---
-title: "342 Mr M. Akiyama, Japanese Consul-General in Australia, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1108
+doc_date: '1940-06-05'
+doc_num: 342
+doc_order: 342
+naa_refs:
+- naa_barcode: 172905
+  naa_control_symbol: AUS 90 PART 2
+  naa_series: A981
+  reference: '[AA: A981, AUSTRALIA 90B, ii]'
+title: Mr M. Akiyama, Japanese Consul-General in Australia, to Mr R. G. Menzies, Prime
+  Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-05
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 342 Mr M. Akiyama, Japanese Consul-General in Australia, to Mr R. G. Menzies, Prime Minister
-
-## Letter SYDNEY, 5 June 1940
+Letter SYDNEY, 5 June 1940
 
 I desire to refer to your letter AH42/1 of January 25th, 1940, on the subject of the prohibition of the export of iron ore from Australia. [1]
 
@@ -20,7 +26,7 @@ I shall be much obliged if you will give this matter your consideration at the e
 
 M. AKIYAMA
 
-_
+ _
 
 1 Document 28.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA: A981, AUSTRALIA 90B, ii]_
+ _[AA: A981, AUSTRALIA 90B, ii]_

@@ -1,14 +1,21 @@
 ---
-title: "260 Memorandum from Williams to Thompson"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9129
+doc_date: '1982-12-06'
+doc_num: 260
+doc_order: 260
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: ''
+title: Memorandum from Williams to Thompson
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-12-06
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 260 Memorandum from Williams to Thompson
-
-## Wellington, 6 December 1982
+Wellington, 6 December 1982
 
 **ANZCER: Name of the New Agreement**
 
@@ -16,9 +23,9 @@ In his note of 2 December, the Minister of Trade and Industry expressed his rese
 
   2. For their part, the Australians have argued that the Agreement deals essentially with free trade across the Tasman and that this aspect should be flagged in the title. Their suggestion was 'Australia - New Zealand Closer Economic Relations Free Trade Agreement'. It is a matter of preference whether the formal title of the Agreement is cryptic or spelt out in full.
   3. Taking into account these considerations which narrow the range of words available for a name, you may like to draw the following possibilities to your Minister's attention:  
-_Name_| _Acronym_  
+ _Name_|  _Acronym_  
 ---|---  
-The Agreement between Australia and New Zealand on Closer Economic Relations and Trade| ANZCERT (or CER)  
+The Agreement between Australia and New Zealand on Closer Economic Relations and Trade|  ANZCERT (or CER)  
 Australia New Zealand Agreement on Closer Economic Relations and Trade| ANZCERT (or CER)  
 Australia New Zealand Agreement on Trade and Economic Relations| ANZATER  
 Australia New Zealand Agreement on Trade and Closer Economic Relations| CER  
@@ -27,4 +34,4 @@ Australia New Zealand Closer Economic Relations Agreement| ANZCER (or CER)
 
 
 
-_ [ABHS 950/Box 1228, 40/4/2 Part 5 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+ _[ABHS 950/Box 1228, 40/4/2 Part 5 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_

@@ -1,14 +1,19 @@
 ---
-title: "60 Makin to Evatt"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3572
+doc_date: '1946-01-30'
+doc_num: 60
+doc_order: 60
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1946, 1.2735]'
+title: Makin to Evatt
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-01-30
+vol_title: 'Volume 9: 1946, January-June'
 ---
 
-# 60 Makin to Evatt
-
-## Cablegram 691 LONDON, 30 January 1946, 5.20 p.m.
+Cablegram 691 LONDON, 30 January 1946, 5.20 p.m.
 
 MOST IMMEDIATE
 
@@ -32,10 +37,10 @@ This is particularly the case with Australia in view of the fact that, though el
 
 Unless I hear from you to the contrary I propose to instruct Bailey to accept Rule S as it stands. I fear that otherwise we shall lose caste with our strongest supporters.
 
-_
+ _
 
 1 Dispatched 28 January, it had instructed Bailey to oppose any reduction of the two-year term on the Security Council.
 
 _
 
-_ [AA:A3195, 1946, 1.2735]_
+ _[AA:A3195, 1946, 1.2735]_

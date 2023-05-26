@@ -1,13 +1,18 @@
 ---
-title: "457 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1688
+doc_date: '1941-05-14'
+doc_num: 457
+doc_order: 457
+naa_refs:
+- naa_barcode: 206161
+  naa_control_symbol: E41/1/3
+  naa_series: A1608
+  reference: '[AA: A1608, E41/1/3, i]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
+  Government
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-05-14
-barcode: 206161
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 457 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 343 LONDON, 14 May 1941, 4.15 p.m.
 
@@ -31,7 +36,7 @@ The War Office have already largely increased the Middle East quota from May pro
 
 It is not practicable to give exact dates by which existing deficiencies in any particular item of equipment will be fully met. We should however like to assure the Commonwealth Government that no effort will be spared to ensure that the needs of Australian units which have already performed such remarkable service in the Middle East will continue to be given every consideration by us and by the Commander in Chief
 
-_
+ _
 
 1 Document 432.
 
@@ -47,4 +52,4 @@ _
 
 _
 
-_ [ [AA: A1608, E41/1/3, i](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=206161) ]_
+ _[AA: A1608, E41/1/3, i]_

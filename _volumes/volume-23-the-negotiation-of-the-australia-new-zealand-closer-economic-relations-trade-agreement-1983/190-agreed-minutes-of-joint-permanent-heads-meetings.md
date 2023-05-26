@@ -1,14 +1,21 @@
 ---
-title: "190 Agreed Minutes of Joint Permanent Heads Meetings"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9059
+doc_date: '1982-04-22'
+doc_num: 190
+doc_order: 190
+naa_refs:
+- naa_barcode: 11558953
+  naa_control_symbol: 1982/2989 PART 9
+  naa_series: A1313
+  reference: '[NAA: A1313/113, 82/2989, ix]'
+title: Agreed Minutes of Joint Permanent Heads Meetings
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-04-22
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 190 Agreed Minutes of Joint Permanent Heads Meetings
-
-## [22 April 1982]1
+[22 April 1982]1
 
 ## Agreed Minutes of Meetings of Australian and New Zealand Permanent Heads
 
@@ -26,7 +33,7 @@ Permanent Heads noted that in New Zealand export incentives are operated on the 
 
 ### Forest Products
 
-The future of the NAFTA Arrangements covering forest products should be considered by Governments in the light of industry to industry discussions before the entry into force of CER. These arrangements deal with newsprint, packaging materials, pulp, tissues, certain other papers and the JCCFI2 Both Governments would be willing to maintain those arrangements which were considered still to be of value.
+The future of the NAFTA Arrangements covering forest products should be considered by Governments in the light of industry to industry discussions before the entry into force of CER. These arrangements deal with newsprint, packaging materials, pulp, tissues, certain other papers and the JCCFI[2](#f2) Both Governments would be willing to maintain those arrangements which were considered still to be of value.
 
 The two Governments would encourage the industries to pursue discussions aimed at co-operation and rationalisation in respect of the Australian and New Zealand markets and the development of trade across the Tasman and with third countries.
 
@@ -61,9 +68,7 @@ To enable trans-Tasman trade in synthetic carpet to be conducted, the normal are
 
 The bounty paid by the Australian Government on synthetic yam manufacture gives rise to a prospective intermediate goods problem. It is agreed that New Zealand is required to demonstrate that an intermediate goods problem exists of sufficient dimension to warrant remedial action. In terms of the agreed formula covering intermediate goods problems it is also agreed that if a significant problem exists, action will be taken to overcome New Zealand's disability. Such action could include the deletion of pile content from area content calculations or a reduced area content requirement.
 
-_[NAA: A1313/113, 82/2989, ix]_
+ _[NAA: A1313/113, 82/2989, ix]_
 
   * 1 The file copy was utilised at a later date for what appears to be an overview paper. It is marked 18/8/82.
   * 2 Not identified.
-
-

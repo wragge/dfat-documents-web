@@ -1,19 +1,23 @@
 ---
-title: "180 Letter, Hay To Warwick Smith"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9688
+doc_date: '1968-05-11'
+doc_num: 180
+doc_order: 180
+naa_refs:
+- naa_barcode: 31698760
+  naa_control_symbol: 1970/4521
+  naa_series: A452
+  reference: '[NAA: A452, 1970/4521]'
+title: Letter, Hay To Warwick Smith
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-05-11
-barcode: 31698760
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 180 Letter, Hay To Warwick Smith
 
 Canberra, 11 May 1968
 
-Further to my letter LH.l010 of 16th April1 and following discussions in Canberra earlier this week,2 I wish to make the following recommendations in respect to outstanding constitutional matters.
+Further to my letter LH.l010 of 16th April[1](#f1) and following discussions in Canberra earlier this week,[2](#f2) I wish to make the following recommendations in respect to outstanding constitutional matters.
 
-_Organisation of departmental responsibility in the House of Assembly_
+ _Organisation of departmental responsibility in the House of Assembly_
 
 On consideration I recommend that the following Departments be represented by Official Members:
 
@@ -53,7 +57,7 @@ I recommend that the following functions be allocated to Assistant Ministerial M
 > 
 > Local Government (Director, District Administration-Official Member)
 > 
-> Information &amp; Extension Services (Assistant Administrator or Official Member)
+> Information & Extension Services (Assistant Administrator or Official Member)
 > 
 > Police and Armed Services (Assistant Administrator or Official Member)
 > 
@@ -67,15 +71,15 @@ Provision has been made for functions of only eight Assistant Ministerial Member
 
 There are three suggestions which need further comment:
 
-> _Police and Armed Services_. I have previously mentioned the possibility that in some informal way there should be representation of the Armed Services in the House of Assembly. This has considerable symbolic advantages in demonstrating the answerability of the Armed Services to a civilian authority. To avoid any possibility of constitutional difficulty it may be preferable to phrase the title of the Assistant Ministerial Member as ‘Assistant Ministerial Member for Police, who will also answer questions in the House on matters relating to Armed Services.’
+>  _Police and Armed Services_. I have previously mentioned the possibility that in some informal way there should be representation of the Armed Services in the House of Assembly. This has considerable symbolic advantages in demonstrating the answerability of the Armed Services to a civilian authority. To avoid any possibility of constitutional difficulty it may be preferable to phrase the title of the Assistant Ministerial Member as ‘Assistant Ministerial Member for Police, who will also answer questions in the House on matters relating to Armed Services.’
 > 
-> _Rural Development_. This responsibility would cover a number of matters dealt with predominantly by the Agricultural Department. It would not be related solely to land settlement but would include generally the development of agriculture at village level, including nucleus estates, resettlement and village concentrations.
+>  _Rural Development_. This responsibility would cover a number of matters dealt with predominantly by the Agricultural Department. It would not be related solely to land settlement but would include generally the development of agriculture at village level, including nucleus estates, resettlement and village concentrations.
 > 
-> _Technical Education and Training_. It is felt that the allocation of this aspect of the Department’s functions to a separate Assistant Ministerial Member will point up its importance in the community.
+>  _Technical Education and Training_. It is felt that the allocation of this aspect of the Department’s functions to a separate Assistant Ministerial Member will point up its importance in the community.
 
-_Nomination of Official Members_
+ _Nomination of Official Members_
 
-As you know, my approach has been that Ministerial Members should take as much responsibility as possible for major Departments, and also that Departmental Heads should as far as possible concentrate on the running of their Departments. I also believe that no Ministerial Member should have his Departmental Head in the House also unless it is quite unavoidable. Given the need to have Treasury, Law, D.D.A. and Lands directly represented, I have sought four other Official Members who would be used for the most part for liaison duties with Members of the House. But I have also looked for a capacity to support the government in debate and in the general conduct of government business.3
+As you know, my approach has been that Ministerial Members should take as much responsibility as possible for major Departments, and also that Departmental Heads should as far as possible concentrate on the running of their Departments. I also believe that no Ministerial Member should have his Departmental Head in the House also unless it is quite unavoidable. Given the need to have Treasury, Law, D.D.A. and Lands directly represented, I have sought four other Official Members who would be used for the most part for liaison duties with Members of the House. But I have also looked for a capacity to support the government in debate and in the general conduct of government business.[3](#f3)
 
 On the basis of these considerations I now nominate the following to be Official Members of the House of Assembly:
 
@@ -95,7 +99,7 @@ The three District Commissioners in the above list are well qualified and have e
 
 The choice of Mr. Littler, an Inspector at Head Office of D.D.A., as the fourth Official Member, arises from the need to have a more effective liaison with Members of the House in between meetings. Mr. Littler’s duties will require him to travel frequently and he will therefore be able to contact Members in remote areas such as the Sepik and the Islands, which it is now difficult to do. Mr. Littler is or Deputy District Commissioner rank and has had service in the Highlands and Sepik Districts and in Papua. It is considered that changes in the four ‘non-departmental’ Official Members may be necessary from time to time and I would make this clear publicly in due course.
 
-_Administrator’s Executive Council_
+ _Administrator’s Executive Council_
 
 I nominate as Official Members:
 
@@ -106,9 +110,9 @@ Mr. T. W. Ellis, M.B.E., D.F.C.| Director, Department of District Administration
   
 As you know, I have previously pointed to the need for the Treasurer to be included as a normal matter in the Administrator’s Council. However, the services of the Treasurer are available to the Council at any time.
 
-I see advantage in announcing the Minister’s decisions on all these matters, except the allocation of responsibilities to Assistant Ministerial Members, as soon as possible, and certainly before the House sits. I make the exception in the case of Assistant Ministerial Members because there may be some need to make adjustments for the personalities eventually chosen. But I ask for advance notice of any announcement.4
+I see advantage in announcing the Minister’s decisions on all these matters, except the allocation of responsibilities to Assistant Ministerial Members, as soon as possible, and certainly before the House sits. I make the exception in the case of Assistant Ministerial Members because there may be some need to make adjustments for the personalities eventually chosen. But I ask for advance notice of any announcement.[4](#f4)
 
-[ [NAA: A452, 1970/4521](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=31698760) ]
+[NAA: A452, 1970/4521]
 
 1 Document 171.
 

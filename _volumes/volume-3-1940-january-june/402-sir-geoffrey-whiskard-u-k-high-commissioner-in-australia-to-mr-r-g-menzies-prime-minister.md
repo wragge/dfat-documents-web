@@ -1,12 +1,20 @@
 ---
-title: "402 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1168
+doc_date: '1940-06-18'
+doc_num: 402
+doc_order: 402
+naa_refs:
+- naa_barcode: 639788
+  naa_control_symbol: 580/8
+  naa_series: A5954
+  reference: '[DEFENCE: SPECIAL COLLECTION I, BOX 580, STRATEGICAL APPRECIATION IN
+    RELATION TO EMPIRE CO-OPERATION AND LOCAL DEFENCE. REVIEW OF THE INTERNATIONAL
+    AND MILITARY SITUATION CONSEQUENT UPON ITALY''S ENTRY INTO THE WAR]'
+title: Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-18
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 402 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr R. G. Menzies, Prime Minister
 
 Letter CANBERRA, 18 June 1940
 
@@ -18,10 +26,10 @@ My Government are, of course, most anxious to supply any information that can us
 
 GEOFFREY WHISKARD
 
-_
+ _
 
 1 Document 361.
 
 _
 
-_ [DEFENCE: SPECIAL COLLECTION I, BOX 580, STRATEGICAL APPRECIATION IN RELATION TO EMPIRE CO-OPERATION AND LOCAL DEFENCE. REVIEW OF THE INTERNATIONAL AND MILITARY SITUATION CONSEQUENT UPON ITALY'S ENTRY INTO THE WAR]_
+ _[DEFENCE: SPECIAL COLLECTION I, BOX 580, STRATEGICAL APPRECIATION IN RELATION TO EMPIRE CO-OPERATION AND LOCAL DEFENCE. REVIEW OF THE INTERNATIONAL AND MILITARY SITUATION CONSEQUENT UPON ITALY'S ENTRY INTO THE WAR]_

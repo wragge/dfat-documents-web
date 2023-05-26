@@ -1,12 +1,17 @@
 ---
-title: "116 Department of External Affairs to Eggleston"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2407
+doc_date: '1943-02-06'
+doc_num: 116
+doc_order: 116
+naa_refs:
+- naa_barcode: 184091
+  naa_control_symbol: 1943/305/2
+  naa_series: A989
+  reference: '[AA:A989, 43/305/2, i]'
+title: Department of External Affairs to Eggleston
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-02-06
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 116 Department of External Affairs to Eggleston
 
 Cablegram SC4 CANBERRA, 6 February 1943
 
@@ -22,16 +27,16 @@ Suggest therefore Preamble on following lines:
 
 Begins:
 
-His Majesty &amp;c. and the President &amp;c. desiring to settle certain matters relating to jurisdiction in China have decided to conclude a treaty for that purpose and to that end have appointed as their plenipotentiaries.
+His Majesty &c. and the President &c. desiring to settle certain matters relating to jurisdiction in China have decided to conclude a treaty for that purpose and to that end have appointed as their plenipotentiaries.
 
 Ends.
 
 Would you now proceed accordingly but telegraph final text before signature.
 
-_
+ _
 
 1 Document 114.
 
 _
 
-_ [AA:A989, 43/305/2, i]_
+ _[AA:A989, 43/305/2, i]_

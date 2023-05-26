@@ -1,35 +1,39 @@
 ---
-title: "198 Telex, Warwick Smith To Hay"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9706
+doc_date: '1968-06-06'
+doc_num: 198
+doc_order: 198
+naa_refs:
+- naa_barcode: 31698760
+  naa_control_symbol: 1970/4521
+  naa_series: A452
+  reference: '[NAA: A452, 1970/4521]'
+title: Telex, Warwick Smith To Hay
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1968-06-06
-barcode: 31698760
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 198 Telex, Warwick Smith To Hay
 
 Canberra, 6 June 1968
 
 4724\. Unclassified Priority
 
-Following is draft text of code of conduct which as l understand it in the light of comments passed to the department by the Administration ought to be acceptable to you with the possible exception of the preamble which is new. The point of the preamble is to get away from any suggestion that this code of conduct is a legal statement or is binding in precise terms. If the whole text is acceptable to you suggest you use it along with the text of the arrangements under section 251 and we will obtain final approval from the Minister within the next few days.
+Following is draft text of code of conduct which as l understand it in the light of comments passed to the department by the Administration ought to be acceptable to you with the possible exception of the preamble which is new. The point of the preamble is to get away from any suggestion that this code of conduct is a legal statement or is binding in precise terms. If the whole text is acceptable to you suggest you use it along with the text of the arrangements under section 25[1](#f1) and we will obtain final approval from the Minister within the next few days.
 
-If you have any points of difficulty appreciate immediate advice.2
+If you have any points of difficulty appreciate immediate advice.[2](#f2)
 
 Begins.
 
-**‘Papua and New Guinea—code of conduct for holder of ministerial office**
+ **‘Papua and New Guinea—code of conduct for holder of ministerial office**
 
 There are no precise or legally prescribed rules for the conduct of ministers or holders of ministerial office but over the centuries a generally accepted code of conduct has been evolved in the countries with a British parliamentary system of government. These notes are designed to assist holders of ministerial office understand the position. The Administrator may be consulted in any doubtful case.
 
-_Before he assumes_ office a holder of ministerial office should curtail for the period of his appointment his activities in outside interests that could conflict with his public responsibilities including private business and professional practices.
+ _Before he assumes_ office a holder of ministerial office should curtail for the period of his appointment his activities in outside interests that could conflict with his public responsibilities including private business and professional practices.
 
 Apart from honorary directorships and directorships connected with charitable organisations or with private companies not primarily engaged in trade but dealing wholly or mainly with family affairs or interests he should also resign any directorships he may hold.
 
 He should disclose in confidence to the Administrator any holdings he has of securities in companies having interests in the Territory whether or not such companies hold Government contracts at the time. He should avoid any situation in which conflict could occur between his private interests and his public duty eg by disposing of any such securities that might give rise to difficulty.
 
-_While in office_ he should not enter into transactions through which his private financial interest might come into conflict with his public duty or accept any favour from persons holding or seeking to obtain Government contracts.
+ _While in office_ he should not enter into transactions through which his private financial interest might come into conflict with his public duty or accept any favour from persons holding or seeking to obtain Government contracts.
 
 He should not under any circumstances use official information he has received by virtue of his office for his own private profit or for that of his friends, or put himself or allow himself to be put in a position to use his official influence in support of any scheme or in the furtherance of any contract in regard to which he has an undisclosed private interest.
 
@@ -37,9 +41,9 @@ No holder of ministerial office should speculate in securities regarding which t
 
 There should be no practice of journalism or communication with the press in other than an official capacity. This does not preclude writings of a literary, historical, scientific, philosophical or romantic nature.
 
-In addition to these requirements in relation to private affairs, there is an obligation on holders of ministerial office to avoid using or making public for political purposes information received by them in the course of their official duties.’3
+In addition to these requirements in relation to private affairs, there is an obligation on holders of ministerial office to avoid using or making public for political purposes information received by them in the course of their official duties.’[3](#f3)
 
-[ [NAA: A452, 1970/4521](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=31698760) ]
+[NAA: A452, 1970/4521]
 
 1 Document 197.
 

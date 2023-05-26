@@ -1,14 +1,17 @@
 ---
-title: "227 CABLEGRAM, EXTERNAL AFFAIRS TO HARRY"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10092
+doc_date: '1967-03-29'
+doc_num: 227
+doc_order: 227
+naa_refs:
+- naa_barcode: 584037
+  naa_control_symbol: 727/4/2 PART 6
+  naa_series: A1838
+  reference: '[NAA: A 1838, 727/4/2 PART 6]'
+title: CABLEGRAM, EXTERNAL AFFAIRS TO HARRY
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1967-03-29
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 227 CABLEGRAM, EXTERNAL AFFAIRS TO HARRY
-
-NAA: A 1838, 727/4/2 PART 6 
 
 Canberra, 29 March 1967
 
@@ -16,7 +19,7 @@ Canberra, 29 March 1967
 
 **Britain and the EEC**
 
-As you will appreciate from the length of time taken to reply, departments have given careful consideration to your Savingram 3, some aspects of which have given them concern. 1
+As you will appreciate from the length of time taken to reply, departments have given careful consideration to your Savingram 3, some aspects of which have given them concern. [1](#f1)
 
 Departments are aware that the ‘Wilson round’ has aroused great public interest in Britain and the Six and is a favourite topic for press, radio and television comment and speculation.
 
@@ -51,3 +54,5 @@ In brief, it is as follows:–
 > (D) Any conditions Britain might wish to attach to her application for entry can be determined only by the British Government. Australia does not distinguish between the issues involved for us in British entry as major or minor, all are important.
 
 1  Document 225. 
+
+[NAA: A 1838, 727/4/2 PART 6]

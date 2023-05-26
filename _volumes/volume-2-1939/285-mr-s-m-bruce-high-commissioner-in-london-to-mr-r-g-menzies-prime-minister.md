@@ -1,12 +1,17 @@
 ---
-title: "285 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 622
+doc_date: '1939-10-11'
+doc_num: 285
+doc_order: 285
+naa_refs:
+- naa_barcode: 182730
+  naa_control_symbol: WAR 45 PART 1
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, i]'
+title: Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-11
+vol_title: 'Volume 2: 1939'
 ---
-
-# 285 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister
 
 Cablegram 549 LONDON, 11 October 1939, 7.15 p.m.
 
@@ -18,7 +23,7 @@ Suggest that in view of importance of your cable would be desirable to circulate
 
 BRUCE
 
-_
+ _
 
 1 Document 283.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA: A981, WAR 45B, i]_
+ _[AA: A981, WAR 45B, i]_

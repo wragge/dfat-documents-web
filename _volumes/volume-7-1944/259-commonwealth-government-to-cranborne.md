@@ -1,12 +1,17 @@
 ---
-title: "259 Commonwealth Government to Cranborne"
-volume: "Volume 7: 1944"
-doc_id: 2906
+doc_date: '1944-08-26'
+doc_num: 259
+doc_order: 259
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, 44/735/832/12]'
+title: Commonwealth Government to Cranborne
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-08-26
+vol_title: 'Volume 7: 1944'
 ---
-
-# 259 Commonwealth Government to Cranborne
 
 Cablegram 207 CANBERRA, 26 August 1944
 
@@ -18,7 +23,7 @@ Your D1080 [1] and subsequent telegrams. [2]
 
 2\. United States Government by a Note [3] delivered to the Australian Minister at Washington has asked the Australian Government to furnish information concerning our tentative plans for International air routes. We propose to reply that we are not in a position to supply Australian plans and that we would prefer to have these discussed at the United Nations conference it is proposed to hold later this year. Before doing so we would appreciate your comments.
 
-_
+ _
 
 1 Document 240.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A989, 44/735/832/12]_
+ _[AA:A989, 44/735/832/12]_

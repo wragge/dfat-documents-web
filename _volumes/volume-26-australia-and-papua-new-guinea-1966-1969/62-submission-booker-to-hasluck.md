@@ -1,25 +1,29 @@
 ---
-title: "62 Submission, Booker To Hasluck"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9570
+doc_date: '1966-08-17'
+doc_num: 62
+doc_order: 62
+naa_refs:
+- naa_barcode: 546814
+  naa_control_symbol: 936/3/8/1 PART 1
+  naa_series: A1838
+  reference: '[NAA: A 1838, 936/3/8/1 part 1]'
+title: Submission, Booker To Hasluck
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1966-08-17
-barcode: 546814
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 62 Submission, Booker To Hasluck
 
 Canberra, 17 August 1966
 
 Confidential
 
-**Visits by Soviet representatives to Papua New Guinea**
+ **Visits by Soviet representatives to Papua New Guinea**
 
-On a record of conversation (copy attached at Annex 1)1 on this subject you commented:
+On a record of conversation (copy attached at Annex 1)[1](#f1) on this subject you commented:
 
 ‘The Secretary. Is it a fact that the Soviet Ambassador is not permitted to visit P.N.G.? I would have thought that we should encourage him to go there rather than keep him out. Please let me know what the position is.’
 
-_Background_
+ _Background_
 
 2\. It has been a long-established practice on the part of all Administering States to oppose the inclusion of a Soviet representative in any United Nations Visiting Mission to Trust Territories, and Australia has conformed with this.
 
@@ -27,7 +31,7 @@ _Background_
 
 4\. Though Soviet representatives in the Trusteeship Council have sought inclusion in Visiting Missions to Trust Territories, they have not so far been successful in achieving this.
 
-5\. In March, 1964, Mr Yuri Yasnev, Pravda correspondent to Australia was denied entry to Papua New Guinea. Prior to seeking entry he had written a highly distorted account of conditions there. A copy of one of his articles is attached at Annex 2.2
+5\. In March, 1964, Mr Yuri Yasnev, Pravda correspondent to Australia was denied entry to Papua New Guinea. Prior to seeking entry he had written a highly distorted account of conditions there. A copy of one of his articles is attached at Annex 2.[2](#f2)
 
 6\. As far as the records of the Department of Territories and of this Department show, no Soviet Ambassador, nor any member of the Embassy Staff, has sought permission to visit the Territory. This may be of course because they have assumed, in the light of their knowledge of the position in the Trusteeship Council, that they would be rebuffed.
 
@@ -43,8 +47,8 @@ _Background_
 
 9\. Submitted for _information._
 
-[ [NAA: A 1838, 936/3/8/1 part 1](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=546814) ]
+[NAA: A 1838, 936/3/8/1 part 1]
 
 1 29 July. In a discussion with Doig, Vladimir Beljaev, the First Secretary of the Soviet Embassy, said that Australia must have ‘something to hide’ in PNG because it would not permit a visit to the Territory by himself, his Ambassador [N.Y. Tarakanov], Soviet representatives in New York, or the Pravda correspondent (NAA: A1838, 936/3/8/ 1 part 1). 
 
-2 Not printed. 
+2 Not printed.

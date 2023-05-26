@@ -1,18 +1,29 @@
 ---
-title: "152 Letter from Willesee to Woolcott"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 7991
+doc_date: '1975-07-07'
+doc_num: 152
+doc_order: 152
+naa_refs:
+- naa_barcode: 1505699
+  naa_control_symbol: 3038/2/1 PART 6
+  naa_series: A1838
+  reference: '[See copy on file NAA: Al838, 3038/2/1, vi.]'
+- naa_barcode: 550924
+  naa_control_symbol: 3038/10/1/2 PART 1
+  naa_series: A1838
+  reference: '[NAA: Al838, 3038110/1/2, i]'
+title: Letter from Willesee to Woolcott
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-07-07
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 152 Letter from Willesee to Woolcott
 
 Canberra, 7 July 1975
 
 SECRET AUSTEO
 
-Thank you for your despatch No. 1/75 on the subject of Portuguese Timor.1 I was glad also to have your personal letter to me of 17 April.2
+Thank you for your despatch No. 1/75 on the subject of Portuguese Timor.[1](#f1) I was glad also to have your personal letter to me of 17 April.[2](#f2)
 
 The description in your despatch of Indonesian policy accords with the Department's own assessments. Despite the private and public assurances we have received, we recognize that the military option remains very much alive in Indonesian planning-although, like you, I should expect that any Indonesian military move would likely be coupled with an Indonesian-inspired local insurrection within Timor. Even so, it would be difficult for the Indonesians to mask their true intentions. Whatever the public reaction in other countries of the region may be-and we are inclined to agree with you that it would be muted-public reaction in Australia would be sharp, with pressure quickly developing for the Government to take its distance from the Indonesian Government and to review its policies towards Indonesia.
 
@@ -22,7 +33,7 @@ I acknowledge that much of what Indonesia is doing, or plans to do, falls within
 
 I recognise that all this constitutes an unwelcome complication in terms of our objective of maintaining a sound relationship with Indonesia. I recognise, too, that the trend of events seems inexorably to be leading to a period of difficulty in that relationship. But the 'realities' you speak of in the last sentence of your dispatch would also have to apply to the domestic situation here in Australia.
 
-I take the point, of course, that, whatever happens, Australia will still have to go on living with Indonesia. I agree that, whatever government might be in power in Indonesia and, indeed, whatever government might be in power in Australia, the price of a hostile Indonesia for Australia would be high. Accordingly, even if Indonesia were openly to move against Portuguese Timor, we would have to do our best to contain the damage to the long-term Australian-Indonesian relationship. But I would also have to say that I would not be wholly confident of success, although I am not sure I would myself go quite as far as Mr Barnard did in his letter to me on this matter of 11 February,3 a copy of which has been sent to the Embassy in Jakarta.
+I take the point, of course, that, whatever happens, Australia will still have to go on living with Indonesia. I agree that, whatever government might be in power in Indonesia and, indeed, whatever government might be in power in Australia, the price of a hostile Indonesia for Australia would be high. Accordingly, even if Indonesia were openly to move against Portuguese Timor, we would have to do our best to contain the damage to the long-term Australian-Indonesian relationship. But I would also have to say that I would not be wholly confident of success, although I am not sure I would myself go quite as far as Mr Barnard did in his letter to me on this matter of 11 February,[3](#f3) a copy of which has been sent to the Embassy in Jakarta.
 
 Personally, I still have some hopes that time will act as a soothing agent in the Timor problem. At present, the Indonesians appear unable to accept the thought of an independent Portuguese Timor. But most of their fears seem exaggerated, and even wholly unfounded. We should continue our efforts to persuade the Indonesians that an independent Timor, if that is what it is to be, need not be detrimental to their interests, and that, in any event, the risks they perceive would best be contained by a policy of good neighbourliness towards Portuguese Timor. It is perhaps fortunate that the Indonesians have their own reasons for currently favouring a protracted period for Portuguese disengagement from the territory. This may also provide time for Indonesia to adjust to and come to accept the notion of independence for Portuguese Timor.
 
@@ -38,13 +49,11 @@ I should add, however, that the potential problem with the Portuguese remains. I
 
 On the question of aid, I am keenly aware of the need to take account of Indonesia's sensitivities. Our aid program to Portuguese Timor will be modest, amounting to no more than $1 million for the coming financial year and perhaps building up to $2-$3 million later. As you know, the Prime Minister and I have re-affirmed the early decision not to re-establish the Australian Consulate in Dili at least for the time being.
 
-In general, I agree that we have to guard against over-involvement in Portuguese Timor. I recognise in this regard that there are domestic forces which we have to take into account and which will possibly further nudge us more deeply into the problems of the territory than our interests require. In considering the Government's position, the importance of the Australian long-term interest in maintaining a close, cooperative relationship with Indonesia is a foremost factor to be borne in mind. But any Indonesian action which appears to subve[r]t a process of self-determination will make it difficult to further pursue this aim in the short run.4
+In general, I agree that we have to guard against over-involvement in Portuguese Timor. I recognise in this regard that there are domestic forces which we have to take into account and which will possibly further nudge us more deeply into the problems of the territory than our interests require. In considering the Government's position, the importance of the Australian long-term interest in maintaining a close, cooperative relationship with Indonesia is a foremost factor to be borne in mind. But any Indonesian action which appears to subve[r]t a process of self-determination will make it difficult to further pursue this aim in the short run.[4](#f4)
 
-_[NAA: Al838, 3038110/1/2, i]_
+ _[NAA: Al838, 3038110/1/2, i]_
 
   * 1 Document 137. In submitting a draft of this letter to Willesee, Feakes noted that normal practice was for Heads of relevant Divisions to reply to dispatches from Heads of Mission, but in view of the importance of the content of Woolcott's dispatch, and because he had also written to Willesee on the subject, the Minister might wish to reply personally. 
   * 2  Document 127. 
   * 3 Document 81.
   * 4 The last sentence was added to the departmental draft by Willesee. [See copy on file NAA: Al838, 3038/2/1, vi.]
-
-

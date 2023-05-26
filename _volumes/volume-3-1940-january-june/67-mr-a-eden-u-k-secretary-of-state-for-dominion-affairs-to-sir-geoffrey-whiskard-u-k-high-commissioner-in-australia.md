@@ -1,12 +1,18 @@
 ---
-title: "67 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 3: 1940, January-June"
-doc_id: 833
+doc_date: '1940-02-17'
+doc_num: 67
+doc_order: 67
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: DO 35/1089]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard,
+  U.K. High Commissioner in Australia
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-02-17
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 67 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Cablegram 42 LONDON, 17 February 1940, 8 a.m.
 
@@ -22,7 +28,7 @@ We feel no doubt that once they are seized of these facts, the Commonwealth auth
 
 Australia has been allocated, in accordance with her requirements, three million lbs. (clean weight) of New Zealand crossbred, in addition to some fourteen million lbs. (clean weight) of Australian crossbred retained for domestic consumption.
 
-_
+ _
 
 1 Document 41.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [PRO: DO 35/1089]_
+ _[PRO: DO 35/1089]_

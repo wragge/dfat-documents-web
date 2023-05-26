@@ -1,12 +1,17 @@
 ---
-title: "64 Curtin to Churchill"
-volume: "Volume 7: 1944"
-doc_id: 2711
+doc_date: '1944-03-04'
+doc_num: 64
+doc_order: 64
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 576]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-04
+vol_title: 'Volume 7: 1944'
 ---
-
-# 64 Curtin to Churchill
 
 Cablegram 56 [1] CANBERRA, 4 March 1944
 
@@ -24,7 +29,7 @@ For the Prime Minister from the Prime Minister.
 
 CURTIN
 
-_
+ _
 
 1 Sent through the U.K. Dominions Secretary.
 
@@ -36,4 +41,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 576]_
+ _[AA:A5954, BOX 576]_

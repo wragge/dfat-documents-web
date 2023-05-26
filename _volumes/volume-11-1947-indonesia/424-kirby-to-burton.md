@@ -1,12 +1,17 @@
 ---
-title: "424 Kirby to Burton"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4608
+doc_date: '1947-11-19'
+doc_num: 424
+doc_order: 424
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1947, 1.22732]'
+title: Kirby to Burton
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-11-19
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
-
-# 424 Kirby to Burton
 
 Cablegram unnumbered BATAVIA, 19 November 1947, 11 p.m.
 
@@ -34,7 +39,7 @@ Personal regards.
 
 (Part 2 following as numbered telegram through Consulate-General.) [5]
 
-_
+ _
 
 1 Document 422.
 
@@ -48,4 +53,4 @@ _
 
 _
 
-_ [AA:A3195, 1947, 1.22732]_
+ _[AA:A3195, 1947, 1.22732]_

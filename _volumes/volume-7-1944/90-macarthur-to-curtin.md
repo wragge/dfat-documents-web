@@ -1,14 +1,19 @@
 ---
-title: "90 MacArthur to Curtin"
-volume: "Volume 7: 1944"
-doc_id: 2737
+doc_date: '1944-03-22'
+doc_num: 90
+doc_order: 90
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 5]'
+title: MacArthur to Curtin
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-22
+vol_title: 'Volume 7: 1944'
 ---
 
-# 90 MacArthur to Curtin
-
-## Letter GENERAL HEADQUARTERS SOUTHWEST PACIFIC AREA,
+Letter GENERAL HEADQUARTERS SOUTHWEST PACIFIC AREA,
 
 22 March 1944
 
@@ -18,10 +23,10 @@ The operational implications of Mr. Churchill's proposal contained in your lette
 
 DOUGLAS MACARTHUR
 
-_
+ _
 
 1 On file AA:A5954, box 560. The letter paraphrased Document 75 and indicated that Curtin had asked the Australian Chiefs of Staff to report on the administrative aspects of Churchill's proposals.
 
 _
 
-_ [AA:A5954, BOX 5]_
+ _[AA:A5954, BOX 5]_

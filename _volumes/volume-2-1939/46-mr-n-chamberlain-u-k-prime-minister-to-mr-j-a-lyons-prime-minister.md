@@ -1,12 +1,17 @@
 ---
-title: "46 Mr N. Chamberlain, U.K. Prime Minister, to Mr J.A. Lyons, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 383
+doc_date: '1939-03-20'
+doc_num: 46
+doc_order: 46
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: PREM 1/309]'
+title: Mr N. Chamberlain, U.K. Prime Minister, to Mr J.A. Lyons, Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-03-20
+vol_title: 'Volume 2: 1939'
 ---
-
-# 46 Mr N. Chamberlain, U.K. Prime Minister, to Mr J.A. Lyons, Prime Minister
 
 Cablegram unnumbered LONDON, 20 March 1939, 9 p.m.
 
@@ -22,7 +27,7 @@ It would, however, be our intention to achieve three main objects (i) the preven
 
 (iii) to prevent the fall of Singapore.
 
-_
+ _
 
 1 No record of these telephone conversations has been found.
 
@@ -30,4 +35,4 @@ _
 
 _
 
-_ [PRO: PREM 1/309]_
+ _[PRO: PREM 1/309]_

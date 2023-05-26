@@ -1,12 +1,18 @@
 ---
-title: "363 Embassy in Washington to Department of External Affairs"
-volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
-doc_id: 6139
+doc_date: '1949-09-09'
+doc_num: 363
+doc_order: 363
+naa_refs:
+- naa_barcode: 140167
+  naa_control_symbol: 451/3/1/2
+  naa_series: A1838
+  reference: '[AA:A1838, 451/3/1/21]'
+title: Embassy in Washington to Department of External Affairs
+vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
+  and the Pacific, 1948–1949'
 vol_id: 14
-doc_date: 1949-09-09
+vol_title: 'Volume 14: 1948-49, The Commonwealth, Asia and the Pacific'
 ---
-
-# 363 Embassy in Washington to Department of External Affairs
 
 Cablegram 835 WASHINGTON, 9 September 1949, 6.07 p.m.
 
@@ -20,8 +26,8 @@ Local currency was for purchase of rice and other commodities which were sent to
 
 2\. The Thai Ambassador requested that his representations be sympathetically considered by the Australian Government. The Ambassador took the opportunity of referring to Thailand's outstanding obligations to Australia.
 
-_
+ _
 
 _
 
-_ [AA:A1838, 451/3/1/21_
+ _[AA:A1838, 451/3/1/21]_

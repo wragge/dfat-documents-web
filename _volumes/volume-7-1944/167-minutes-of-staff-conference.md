@@ -1,12 +1,17 @@
 ---
-title: "167 Minutes of Staff Conference"
-volume: "Volume 7: 1944"
-doc_id: 2814
+doc_date: '1944-05-26'
+doc_num: 167
+doc_order: 167
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 5]'
+title: Minutes of Staff Conference
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-05-26
+vol_title: 'Volume 7: 1944'
 ---
-
-# 167 Minutes of Staff Conference
 
 Extract LONDON, 26 May 1944, 11.30 a.m.
 
@@ -54,7 +59,7 @@ IT WAS AGREED:-
 
 [matter omitted]
 
-_
+ _
 
 1 Presumably COS(44)442(0) dated 20 May. On file AA:A5954, box 5.
 
@@ -66,4 +71,4 @@ _
 
 _
 
-_ [AA:A5954, BOX 5]_
+ _[AA:A5954, BOX 5]_

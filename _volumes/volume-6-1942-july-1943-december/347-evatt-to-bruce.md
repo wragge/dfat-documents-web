@@ -1,12 +1,17 @@
 ---
-title: "347 Evatt to Bruce"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2638
+doc_date: '1943-12-09'
+doc_num: 347
+doc_order: 347
+naa_refs:
+- naa_barcode: 184631
+  naa_control_symbol: 1943/600/5/1/5
+  naa_series: A989
+  reference: '[AA:A989, 43-44/600/5/1/5]'
+title: Evatt to Bruce
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-12-09
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 347 Evatt to Bruce
 
 Cablegram N5 CANBERRA, 9 December 1943
 
@@ -22,7 +27,7 @@ Thus the proposal itself required our initial consent.
 
 Best regards.
 
-_
+ _
 
 1 Document 344.
 
@@ -32,4 +37,4 @@ H. van Oyen (see Document 330, note 1) it was essential that the Australian Prim
 
 _
 
-_ [AA:A989, 43-44/600/5/1/5]_
+ _[AA:A989, 43-44/600/5/1/5]_

@@ -1,16 +1,22 @@
 ---
-title: "221 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1975
+doc_date: '1941-12-24'
+doc_num: 221
+doc_order: 222
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT B]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-24
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 221 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 136 LONDON, 24 December 1941, 10.14 p.m.
 
-IMMEDIATE FOR THE PRIME MINISTER MOST SECRET &amp; PERSONAL
+IMMEDIATE FOR THE PRIME MINISTER MOST SECRET & PERSONAL
 
 D.O. telegram 872. [1] While the communication set out in this telegram is admittedly only comments by the Chiefs of Staff Committee sent to the Prime Minister [2] in Washington, by whom and where it could be argued the policy is to be determined and decisions taken, I feel that in the comments there is a lack of appreciation of the urgency of providing the immediate requirements set out in part 2 of the telegram from Singapore [3], particularly with regard to air reinforcements.
 
@@ -34,7 +40,7 @@ Insofar as you agree with the above views, I suggest the desirability of your co
 
 BRUCE
 
-_
+ _
 
 1 Dispatched 23 December. On file AA:A981, War 33, attachment B.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT B]_
+ _[AA:A981, WAR 33, ATTACHMENT B]_

@@ -1,16 +1,23 @@
 ---
-title: "191 Letter from Anthony to Francis"
-volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
-doc_id: 9060
+doc_date: '1982-05-24'
+doc_num: 191
+doc_order: 191
+naa_refs:
+- naa_barcode: 11546091
+  naa_control_symbol: 1984/2288 PART 1
+  naa_series: A1313
+  reference: '[NAA: A1313/116, 84/2288, i]'
+title: Letter from Anthony to Francis
+vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement, 1983'
 vol_id: 23
-doc_date: 1982-05-24
+vol_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
+  Relations Trade Agreement 1983'
 ---
 
-# 191 Letter from Anthony to Francis
+Canberra, 24 May 1982
 
-## Canberra, 24 May 1982
-
-I refer to your letter of 20 May 19821 informing me of the decision by the New Zealand Cabinet Economic Committee on proposals to be put to Australia in relation to key outstanding elements of the CER package.
+I refer to your letter of 20 May 1982[1](#f1) informing me of the decision by the New Zealand Cabinet Economic Committee on proposals to be put to Australia in relation to key outstanding elements of the CER package.
 
 At the outset I wish to stress that, as I pointed out to Prime Minister Muldoon in Wellington, my Cabinet colleagues had been very reluctant to accept 1987 as a terminal date for export incentives. Indeed, their view was that incentives should cease with the expiry of existing New Zealand legislation in 1985. They finally accepted 1987 only because that terminal date had previously been put forward by Australia in terms of harmonisation of incentives between the two countries.
 
@@ -26,8 +33,6 @@ I am sure you would share my concern that we should have come so close to achiev
 
 As to other elements of the package, and in the light of the recent Ministerial meeting in Wellington, I am pleased to have confirmation that New Zealand can agree to 30 June 1995 as the termination date for quantitative restrictions subject to Australian acceptance of the safeguards provisions negotiated by officials. I note the importance that New Zealand places on substantial progress on all aspects affecting the liberalisation of trade including State Government purchasing and harmonisation of standards is the context of the 1988 review
 
-_[NAA: A1313/116, 84/2288, i]_
+ _[NAA: A1313/116, 84/2288, i]_
 
   * 1 Document 243.
-
-

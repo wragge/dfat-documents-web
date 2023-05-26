@@ -1,14 +1,19 @@
 ---
-title: "248 Department of External Affairs to Embassy in Washington"
-volume: "Volume 11: 1947, Indonesia"
-doc_id: 4432
+doc_date: '1947-08-06'
+doc_num: 248
+doc_order: 248
+naa_refs:
+- naa_barcode: 235878
+  naa_control_symbol: '441'
+  naa_series: A3320
+  reference: '[AA:A33300/2, 441]'
+title: Department of External Affairs to Embassy in Washington
+vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11
-doc_date: 1947-08-06
+vol_title: 'Volume 11: 1947, Indonesia'
 ---
 
-# 248 Department of External Affairs to Embassy in Washington
-
-## Cablegram 945 CANBERRA, 6 August 1947, 12 noon
+Cablegram 945 CANBERRA, 6 August 1947, 12 noon
 
 MOST IMMEDIATE
 
@@ -20,7 +25,7 @@ Please discuss with Hodgson message just despatched to him. [2] Romulo is propos
 
 3\. The Prime Minister and the Minister for External Affairs confirm that we should make every endeavour to achieve American- Australian arbitration.
 
-_
+ _
 
 1 Document 243.
 
@@ -28,4 +33,4 @@ _
 
 _
 
-_ [AA:A33300/2, 441]_
+ _[AA:A33300/2, 441]_

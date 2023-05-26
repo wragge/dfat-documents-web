@@ -1,52 +1,57 @@
 ---
-title: "347 Memorandum, Administration (Hay) To Doet"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9856
+doc_date: '1969-12-13'
+doc_num: 347
+doc_order: 347
+naa_refs:
+- naa_barcode: 12071421
+  naa_control_symbol: 1968/3178 PART 1
+  naa_series: A452
+  reference: '[NAA: A452, 1968/3178]'
+title: Memorandum, Administration (Hay) To Doet
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1969-12-13
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 347 Memorandum, Administration (Hay) To Doet
 
 Port Moresby, 13 December 1969
 
 Confidential
 
-**Report of the seventh meeting of the House of Assembly1**
+ **Report of the seventh meeting of the House of Assembly[1](#f1)**
 
 Attached herewith is the report of the seventh meeting of the House of Assembly.’
 
-**Attachment**
+ **Attachment**
 
-[_matter omitted_]2
+[ _matter omitted_ ][2](#f2)
 
-_Debate on Bills_
+ _Debate on Bills_
 
-Most of the Bills were not controversial and attracted little debate. However, the Land (Underdeveloped Freehold) Bill 1969,3 was debated at some length, and this Bill seems to have re-activated considerable discussion both inside and outside the House, on the topic of expropriation. In the debate, Lussick proposed a fund to take over plantations upon independence, and a method of phasing in local management. Since the House adjourned, Voutas has also advocated a somewhat similar fund and a management training scheme. This legislation was, no doubt, partly responsible for prompting Lussick’s subsequent motion calling on the Australian Government to clarify its position on the status of expatriate property at independence.
+Most of the Bills were not controversial and attracted little debate. However, the Land (Underdeveloped Freehold) Bill 1969,[3](#f3) was debated at some length, and this Bill seems to have re-activated considerable discussion both inside and outside the House, on the topic of expropriation. In the debate, Lussick proposed a fund to take over plantations upon independence, and a method of phasing in local management. Since the House adjourned, Voutas has also advocated a somewhat similar fund and a management training scheme. This legislation was, no doubt, partly responsible for prompting Lussick’s subsequent motion calling on the Australian Government to clarify its position on the status of expatriate property at independence.
 
-The introduction of the P.N.G. Development Bank (Amendment) Bill 1969,4 was the occasion for an attack by several members of the alleged Government practice of introducing important legislation without notice in the dying stages of meetings. The Department of External Territories was blamed on this occasion, and the fact that the Secretary of the Department was in Port Moresby for a Development Bank meeting at the time, seemed to have added zest to the attack. Mr. Neville was the main speaker and he warned that the House would not pass legislation at such short notice in the future.
+The introduction of the P.N.G. Development Bank (Amendment) Bill 1969,[4](#f4) was the occasion for an attack by several members of the alleged Government practice of introducing important legislation without notice in the dying stages of meetings. The Department of External Territories was blamed on this occasion, and the fact that the Secretary of the Department was in Port Moresby for a Development Bank meeting at the time, seemed to have added zest to the attack. Mr. Neville was the main speaker and he warned that the House would not pass legislation at such short notice in the future.
 
-_Debate on motions_
+ _Debate on motions_
 
 The most important motions were:
 
-S. Rowton Simpson’s Report On Land5
+S. Rowton Simpson’s Report On Land[5](#f5)
 
 The debate following the tabling of this report and prior to the motion to take note of it, brought out the fact that most members were in general agreement with Mr. Simpson, and that reservations were held only on a number of relatively minor points e.g. that referring to auctioning of blocks. The report was welcomed by the House, and members will be looking for land policy changes resulting from the report’s recommendations.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-Weeden Report On Education6
+Weeden Report On Education[6](#f6)
 
-In debating the motion to take note of this report, all speakers spoke in favour of the Committee’s findings, with the exception of Wesani Iwoksim7 who felt that Mission teachers’ pay was a Mission responsibility. However, most speakers addressed themselves only to the question of equal pay for Mission teachers, and did not display an understanding of the many wide-ranging proposals in .the report.
+In debating the motion to take note of this report, all speakers spoke in favour of the Committee’s findings, with the exception of Wesani Iwoksim[7](#f7) who felt that Mission teachers’ pay was a Mission responsibility. However, most speakers addressed themselves only to the question of equal pay for Mission teachers, and did not display an understanding of the many wide-ranging proposals in .the report.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-Mr. Oala Rarua’s Motion On An Investigation Into A Possible National Pension Scheme8
+Mr. Oala Rarua’s Motion On An Investigation Into A Possible National Pension Scheme[8](#f8)
 
 All speakers supported this motion. One point made was that without adequate pension provisions, the dissatisfaction of many employees could easily be exploited by radicals looking for grievances as a means of increasing industrial unrest.
 
-Motion To Take Note Of White Paper On Urban Local Government9
+Motion To Take Note Of White Paper On Urban Local Government[9](#f9)
 
 This motion was debated on 12th, 20th and 21st November. During the debate on the motion that the House take note of the paper, Mr. Chatterton moved his amendment that the House ‘support the early introduction of urban local government but considers that the date of introduction in each urban centre should take into consideration the recommendation of the Consultative Committee, provided that the date is not later than 1st January, 1971’. The motion as amended was carried on 21st November.
 
@@ -60,9 +65,9 @@ For the most part, members did not show much interest in the debate, mainly beca
 
 The motion as amended was carried on the voices on Friday 21st November. At that stage members were more interested in hastening the adjournment until February, rather than continuing to debate a subject in which many members had little interest.
 
-Gazelle Commission Of Enquiry10
+Gazelle Commission Of Enquiry[10](#f10)
 
-Prior to delivering the prepared text on this topic, the Senior Official Member11 moved an amendment to the motion that the House take note of the paper by adding—‘and endorses the Administration’s proposals to support the lawful activities of the Council and to offer the opportunity for consultation with all interested groups in the Gazelle Peninsula.’
+Prior to delivering the prepared text on this topic, the Senior Official Member[11](#f11) moved an amendment to the motion that the House take note of the paper by adding—‘and endorses the Administration’s proposals to support the lawful activities of the Council and to offer the opportunity for consultation with all interested groups in the Gazelle Peninsula.’
 
 Voutas sounded out the Senior Official Member as to whether a further amendment to be moved by Lapun would be acceptable to the Administration. The amendment read —‘and further considers that if the interested groups show that they want a referendum on whether there should be a multi-racial council in the Gazelle Peninsula now, or whether such multi-racial council should be deferred until the people indicate at some future date that they desire it, such a referendum should be taken as soon as possible amongst the Tolai and non-Tolai natives of the area of the present Council, and strictly on the basis of a secret ballot and not otherwise.’
 
@@ -76,17 +81,17 @@ Most members supported the motion although Lapun and Lus were inclined to suppor
 
 The motion was carried without one dissentient voice.
 
-Mr. Lapun’s Motion On Direct Leasing Of Land12
+Mr. Lapun’s Motion On Direct Leasing Of Land[12](#f12)
 
 All speakers supported this motion, and there seemed to be agreement amongst members that some provision for direct leasing of land would be necessary to stimulate development, and to enable landholders to have some say in the type of development that occurs in their home areas. The hope that such a move would lead to partnerships between native landowners and expatriate entrepreneurs was also expressed. Some indigenous members stated that there was underlying resentment amongst people who had sold their land for what are now regarded as worthless trade goods, and they advocated leasing to enable owners to maintain a continuing interest in their land, and to ensure children were not deprived of their birthright.
 
-[_matter omitted_]
+[ _matter omitted_ ]
 
-_General Comments_
+ _General Comments_
 
 Pangu Pati
 
-With the addition of Mr. Langro to Pangu ranks, the Party now has the open support of nine members in the House. Pangu representatives were generally restrained in debate, and there were not the clashes that occurred in the last meeting, when Mr. Kiki’s statement on Ministerial Members was an issue.13
+With the addition of Mr. Langro to Pangu ranks, the Party now has the open support of nine members in the House. Pangu representatives were generally restrained in debate, and there were not the clashes that occurred in the last meeting, when Mr. Kiki’s statement on Ministerial Members was an issue.[13](#f13)
 
 The Speaker
 
@@ -112,7 +117,7 @@ The Ministerial and Assistant Ministerial Members continued to answer questions 
 
 Mr. Toliman performed well in a number of debates—particularly those concerning the Gazelle Inquiry, High School Boarding Fees, and the Weeden Report. He is an imposing figure and his addresses in pidgin are very effective.
 
-Mr. Oala Rarua indicated that he had some reservations regarding the efficacy of existing government policy, when speaking in the indigenous participation debate.14 He felt that the Development Bank and the Business Advisory Service were not achieving their aims, and that we needed to develop methods of operation better suited to the Territory. His speech did not offer much in the way of solutions to the question of increasing indigenous participation, but it highlighted the fact that a fair number of people are not satisfied with the rate of growth of indigenous participation, and they are looking to the Administration to find the answer.
+Mr. Oala Rarua indicated that he had some reservations regarding the efficacy of existing government policy, when speaking in the indigenous participation debate.[14](#f14) He felt that the Development Bank and the Business Advisory Service were not achieving their aims, and that we needed to develop methods of operation better suited to the Territory. His speech did not offer much in the way of solutions to the question of increasing indigenous participation, but it highlighted the fact that a fair number of people are not satisfied with the rate of growth of indigenous participation, and they are looking to the Administration to find the answer.
 
 Mr. Oala Rarua has shown other signs of dissatisfaction. Before the November meeting he expressed the view that important documents, such as the Weeden Report and Report of the Gazelle Commission, were not being referred to holders of Ministerial Office in sufficient time for them to study such reports and decide whether or not to support them.
 
@@ -136,17 +141,17 @@ Arek’s impartiality as Chairman of the Constitutional Committee was questioned
 
 2 Matter omitted is a list of bills passed and adjourned.
 
-3 The bill was described by Groves as one that ‘introduces no new principles or new policy. It is simply designed to make a number of minor drafting amendments and to tidy up the principal Ordinance’ (_House of Assembly debates_, 21 August 1969, NLA: Nq 328.952 PAP, p. 1484).
+3 The bill was described by Groves as one that ‘introduces no new principles or new policy. It is simply designed to make a number of minor drafting amendments and to tidy up the principal Ordinance’ ( _House of Assembly debates_ , 21 August 1969, NLA: Nq 328.952 PAP, p. 1484).
 
 4 The bill gave the Bank the power to ‘buy land and to sell it or to lease it to people who wish to develop the land’. Curtis said that ‘It is because of the need for development of available land in the Gazelle Peninsula ... that I will be asking the forbearance of the House in passing this Bill through all stages, without its having been circulated for the usual period beforehand’ (ibid., 20 November 1969, pp. 2127–8).
 
-5 In June 1969, the Administration had recruited British land tenure expert, Rowton Simpson, to produce a report on the Territory’s problems in this regard. The report was detailed and made numerous recommendations including that ‘a system of auction of building blocks be considered’ (see statement by Grove, _House of Assembly debates_, 26 August 1969, NLA: Nq 328.952 PAP, p. 1561–2).
+5 In June 1969, the Administration had recruited British land tenure expert, Rowton Simpson, to produce a report on the Territory’s problems in this regard. The report was detailed and made numerous recommendations including that ‘a system of auction of building blocks be considered’ (see statement by Grove, _House of Assembly debates_ , 26 August 1969, NLA: Nq 328.952 PAP, p. 1561–2).
 
-6 The report was produced by an advisory committee established by Barnes in February. It recommended various measures intended to create a more integrated education system in the Territory (see_ This week in the House_, no. 16, 21 November 1969, NAA: Al838, 936/4/11/1).
+6 The report was produced by an advisory committee established by Barnes in February. It recommended various measures intended to create a more integrated education system in the Territory (see _This week in the House_ , no. 16, 21 November 1969, NAA: Al838, 936/4/11/1).
 
 7 MHA, Upper Sepik open electorate.
 
-8 Oala-Rarua put that the House request the Administration to ‘examine the practicablity’ of such a scheme and table its findings in June 1970 (_House of Assembly debates_, 12 November 1969, NLA: Nq 328.952 PAP, p. 1919).
+8 Oala-Rarua put that the House request the Administration to ‘examine the practicablity’ of such a scheme and table its findings in June 1970 ( _House of Assembly debates_ , 12 November 1969, NLA: Nq 328.952 PAP, p. 1919).
 
 9 The paper was introduced by Seale and dealt with the introduction of urban local government (ibid., 5 September 1969, p. 1731 ).
 
@@ -154,8 +159,8 @@ Arek’s impartiality as Chairman of the Constitutional Committee was questioned
 
 11 L. W. Johnson.
 
-12 Lapun called for a report by the Administration into the pros and cons of direct leasing by holders of native land title and of limitations on the Administration’s acquisition of land for leasing (_This week in the House_, no. 16, p. 6).
+12 Lapun called for a report by the Administration into the pros and cons of direct leasing by holders of native land title and of limitations on the Administration’s acquisition of land for leasing ( _This week in the House_ , no. 16, p. 6).
 
 13 See footnote 5, Document 321.
 
-14 Following the request of the House in September 1968 for a report by the Administration on methods of increasing indigenous participation in economic development (see footnote 6, Document 228), Newman made a lengthy statement to the House on 27 June 1969 (_House of Assembly debates_, NLA: Nq 328.952 PAP, pp. 1413–16). Oala-Rarua’s response was, inter alia, that the ‘various organizations that are really trying their best to bring economic development ... may be failures—nevertheless they are trying’—yet he added that ‘It is all very well for us to put down on paper that we are trying to achieve maximum participation of indigenous people, but ... I fail to see how this can be done in the light of present developments ... Those who are in charge of implementing policy need to take heed of the advice of Papuans and New Guineans as to how this local participation should come about’ (ibid., 11 November 1969, p. 1897).
+14 Following the request of the House in September 1968 for a report by the Administration on methods of increasing indigenous participation in economic development (see footnote 6, Document 228), Newman made a lengthy statement to the House on 27 June 1969 ( _House of Assembly debates_ , NLA: Nq 328.952 PAP, pp. 1413–16). Oala-Rarua’s response was, inter alia, that the ‘various organizations that are really trying their best to bring economic development ... may be failures—nevertheless they are trying’—yet he added that ‘It is all very well for us to put down on paper that we are trying to achieve maximum participation of indigenous people, but ... I fail to see how this can be done in the light of present developments ... Those who are in charge of implementing policy need to take heed of the advice of Papuans and New Guineans as to how this local participation should come about’ (ibid., 11 November 1969, p. 1897).

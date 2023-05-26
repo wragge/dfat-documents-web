@@ -1,12 +1,19 @@
 ---
-title: "434 Cablegram to Canberra"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8272
+doc_date: '1976-03-19'
+doc_num: 434
+doc_order: 433
+naa_refs:
+- naa_barcode: 4151547
+  naa_control_symbol: 801/13/11/1 PART 21
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/11/1. xxi]'
+title: Cablegram to Canberra
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1976-03-19
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 434 Cablegram to Canberra
 
 Jakarta, 19 March 1976
 
@@ -14,7 +21,7 @@ O.JA5499 SECRET AUSTEO ROUTINE
 
 ## East Timor: Self-Determination and Integration
 
-Ref O.JA54151
+Ref O.JA5415[1](#f1)
 
 In explaining the proposed act of self-determination outlined to us by Moerdani and himself, Tjan said that, to enable East Timor to be adequately governed, it was necessary to provide a proper authority as soon as possible. Indonesia could not provide the assistance required by East Timor at present because it had no proper standing there.
 
@@ -33,10 +40,8 @@ In explaining the proposed act of self-determination outlined to us by Moerdani 
 
 
 
-_[matter omitted]_
+ _[matter omitted]_
 
-_[NAA: A10463, 801/13/11/1. xxi]_
+ _[NAA: A10463, 801/13/11/1. xxi]_
 
   * 1 Document 432.
-
-

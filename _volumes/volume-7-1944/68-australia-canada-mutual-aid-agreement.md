@@ -1,12 +1,17 @@
 ---
-title: "68 Australia-Canada Mutual Aid Agreement"
-volume: "Volume 7: 1944"
-doc_id: 2715
+doc_date: '1944-03-09'
+doc_num: 68
+doc_order: 68
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FA:AUSTRALIAN TREATY COLLECTION]'
+title: Australia-Canada Mutual Aid Agreement
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-03-09
+vol_title: 'Volume 7: 1944'
 ---
-
-# 68 Australia-Canada Mutual Aid Agreement
 
 OTTAWA, 9 March 1944
 
@@ -48,8 +53,8 @@ Dated at Ottawa, this ninth day of March, nineteen hundred and forty-four.
 
 Signed for and on behalf of the Government of the Commonwealth of Australia T. W. GLASGOW Signed for and on behalf of the Government of Canada W. L. MACKENZIE KING C. D. HOWE
 
-_
+ _
 
 _
 
-_ [FA:AUSTRALIAN TREATY COLLECTION]_
+ _[FA:AUSTRALIAN TREATY COLLECTION]_

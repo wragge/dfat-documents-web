@@ -1,12 +1,18 @@
 ---
-title: "41 Admiral Sir Roger Backhouse, U.K. First Sea Lord, to Admiral Sir Ragnar Colvin, First Naval Member, Naval Board"
-volume: "Volume 2: 1939"
-doc_id: 378
+doc_date: '1939-03-17'
+doc_num: 41
+doc_order: 41
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO: ADM 1/9831]'
+title: Admiral Sir Roger Backhouse, U.K. First Sea Lord, to Admiral Sir Ragnar Colvin,
+  First Naval Member, Naval Board
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-03-17
+vol_title: 'Volume 2: 1939'
 ---
-
-# 41 Admiral Sir Roger Backhouse, U.K. First Sea Lord, to Admiral Sir Ragnar Colvin, First Naval Member, Naval Board
 
 Cablegram unnumbered LONDON, 17 March 1939
 
@@ -16,10 +22,10 @@ Your 1700/14. [1] AU these matters are now being considered here but there has n
 
 I have repeatedly told you that 1939 is very difficult year for us, but that position will improve a great deal after 1940 with completion of new ships. I do not wish to commit Admiralty now to any of the proposals you make but if they are made officially to us by Australian Government they will be answered. It is a question not only of financial strain on Great Britain but also of productive capacity. I fully agree with you that ultimate security of our position in Far East depends primarily on Naval forces, but it is also obviously important that Australian military force should be adequate for self-defence against raids and also in general interests of Empire security. I trust there may be no hasty decisions taken at your end. We wish to do all we can to secure the position in the East. Remember too that Naval forces are essentially mobile.
 
-_
+ _
 
 1 Document 37
 
 _
 
-_ [PRO: ADM 1/9831]_
+ _[PRO: ADM 1/9831]_

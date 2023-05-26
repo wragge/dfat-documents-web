@@ -1,12 +1,18 @@
 ---
-title: "365 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2119
+doc_date: '1942-02-22'
+doc_num: 365
+doc_order: 366
+naa_refs:
+- naa_barcode: 232273
+  naa_control_symbol: '47'
+  naa_series: A2937
+  reference: '[AA:A2937, FAR EAST POSITION 1942]'
+title: Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin,
+  Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-22
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 365 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister
 
 Cablegram 1613 LONDON, 22 February 1942
 
@@ -22,7 +28,7 @@ MOST IMMEDIATE MOST SECRET HIMSELF ALONE
 
 PAGE
 
-_
+ _
 
 1 Document 362.
 
@@ -30,4 +36,4 @@ _
 
 _
 
-_ [AA:A2937, FAR EAST POSITION 1942]_
+ _[AA:A2937, FAR EAST POSITION 1942]_

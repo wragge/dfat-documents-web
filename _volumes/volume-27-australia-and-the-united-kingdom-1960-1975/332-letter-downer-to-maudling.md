@@ -1,18 +1,21 @@
 ---
-title: "332 LETTER, DOWNER TO MAUDLING"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10198
+doc_date: '1972-05-12'
+doc_num: 332
+doc_order: 332
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[UKNA: FCO 24/1313]'
+title: LETTER, DOWNER TO MAUDLING
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-05-12
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 332 LETTER, DOWNER TO MAUDLING
-
-UKNA: FCO 24/1313 
 
 Australian High Commission, London, 12 May 1972
 
-I am writing to you on the contentious subject of the_ administration of your Immigration Act in so far as it affects visiting Australians_. I have been asked to do this by the six Agents-General of the Australian States: The Hon. Sir Murray Porter of Victoria, Brigadier Sir John Pagan of New South Wales, The Hon. Stewart Bovell of Western Australia, Mr Royce Neville of Tasmania, R. C. Taylor of South Australia, and The Hon. P. Delamothe of Queensland.
+I am writing to you on the contentious subject of the _administration of your Immigration Act in so far as it affects visiting Australians_. I have been asked to do this by the six Agents-General of the Australian States: The Hon. Sir Murray Porter of Victoria, Brigadier Sir John Pagan of New South Wales, The Hon. Stewart Bovell of Western Australia, Mr Royce Neville of Tasmania, R. C. Taylor of South Australia, and The Hon. P. Delamothe of Queensland.
 
 Sir Murray Porter, Mr Bovell, and Dr Delamothe, are former State Liberal Ministers, with wide political experience; Sir John Pagan is a former President of the Australian Liberal Party, but has never been an MP; Mr Neville and Mr Taylor are business men.
 
@@ -22,9 +25,9 @@ The Agents-General aver that although there is a separate Commonwealth gate at H
 
 You may also recall the case of Sir John Pagan last November when some publicity in the National Press followed his refusal, on arriving at Heathrow, to walk through the aliens’ gate.
 
-Sir Murray Porter is not a complaining, or over-sensitive man. After all, he was for nearly 14 years a Minister in the Victorian Government, and has had a wide experience of practical politics. But he tells me that only recently, on arriving at Dover after a very short official trip to the Continent, an immigration officer examined his _Diplomatic Passport for about ten minutes, enquiring why it was not stamped when he left this country_, what was his business in England, and generally subjecting Sir Murray to the closest scrutiny. I hope you will agree that it is most improper to treat an accredited representative to Britain, holding a Diplomatic Passport, in such a way.
+Sir Murray Porter is not a complaining, or over-sensitive man. After all, he was for nearly 14 years a Minister in the Victorian Government, and has had a wide experience of practical politics. But he tells me that only recently, on arriving at Dover after a very short official trip to the Continent, an immigration officer examined his _Diplomatic Passport for about ten minutes, enquiring why it was not stamped when he left this country_ , what was his business in England, and generally subjecting Sir Murray to the closest scrutiny. I hope you will agree that it is most improper to treat an accredited representative to Britain, holding a Diplomatic Passport, in such a way.
 
-As a separate attachment, you will find three cases which I am told have occurred in the last few months. The first two are put forward by Sir Murray Porter; the last by Mr Bovell. 1
+As a separate attachment, you will find three cases which I am told have occurred in the last few months. The first two are put forward by Sir Murray Porter; the last by Mr Bovell. [1](#f1)
 
 For myself, what I find worrying is the attention that these, and similar incidents, are attracting in Australian newspapers. Questions have been asked in the Australian Parliament—and are still being asked. When I was in Australia last January and February on an official tour I found that there was a mounting impression that Australians were not welcomed in Britain with anything like the same friendliness as in previous years. Only last week I noticed a report in a leading Australian newspaper, The Melbourne Age, quoting the Lord Mayor of Melbourne as saying that the British now regard Australians as foreigners.
 
@@ -35,3 +38,5 @@ From my own administrative experience, as one who for nearly 6 years was Austral
 I hope that, despite the many pressing problems confronting you, you will be able to assist us on this really important matter.
 
 1  See UKNA: FCO 24/1313. 
+
+[UKNA: FCO 24/1313]

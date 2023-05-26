@@ -1,12 +1,17 @@
 ---
-title: "237 Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1991
+doc_date: '1941-12-29'
+doc_num: 237
+doc_order: 238
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA: A981, WAR 33, ATTACHMENT B]'
+title: Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-12-29
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 237 Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States
 
 Cablegram 166 [1] CANBERRA, 29 December 1941
 
@@ -98,7 +103,7 @@ CURTIN
 
 MESSAGE ENDS.
 
-_
+ _
 
 1 Repeated to the N.Z. Prime Minister as no. 559 and to the High Commissioner in the United Kingdom as no. 8276 for communication to the U.K. Dominions Office.
 
@@ -118,4 +123,4 @@ A3300, 101.
 
 _
 
-_ [AA: A981, WAR 33, ATTACHMENT B]_
+ _[AA: A981, WAR 33, ATTACHMENT B]_

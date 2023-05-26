@@ -1,12 +1,18 @@
 ---
-title: "353 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister"
-volume: "Volume 2: 1939"
-doc_id: 690
+doc_date: '1939-11-11'
+doc_num: 353
+doc_order: 353
+naa_refs:
+- naa_barcode: 182731
+  naa_control_symbol: WAR 45 PART 2
+  naa_series: A981
+  reference: '[AA: A981, WAR 45B, ii]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-11-11
+vol_title: 'Volume 2: 1939'
 ---
-
-# 353 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister
 
 Circular Cablegram D82 LONDON, 11 November 1939, 10.26 a.m.
 
@@ -30,10 +36,10 @@ War Cabinet have now considered further draft of His Majesty's reply to the Quee
 
 Message will be published at 12 noon G.M.T. Sunday 12th November.
 
-_
+ _
 
 1 Document 347.
 
 _
 
-_ [AA: A981, WAR 45B, ii]_
+ _[AA: A981, WAR 45B, ii]_

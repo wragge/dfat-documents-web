@@ -1,12 +1,17 @@
 ---
-title: "286 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government"
-volume: "Volume 2: 1939"
-doc_id: 623
+doc_date: '1939-10-11'
+doc_num: 286
+doc_order: 286
+naa_refs:
+- naa_barcode: 176558
+  naa_control_symbol: GREA 8 PART 5
+  naa_series: A981
+  reference: '[AA: A981, GREAT BRITAIN 8B, V]'
+title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
+vol_full_title: 'Volume 2: 1939'
 vol_id: 2
-doc_date: 1939-10-11
+vol_title: 'Volume 2: 1939'
 ---
-
-# 286 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government
 
 Cablegram 128 (extract) LONDON, 11 October 1939, 11.39 p.m.
 
@@ -16,7 +21,7 @@ We are most grateful for the valuable comments and suggestions contained in your
 
 Since the receipt of your telegram, the text has been further amended and will be considered finally at tomorrow morning's War Cabinet. This latest version incorporates some of the ideas and, in certain instances, the actual words used in the latter part of your telegram.
 
-_
+ _
 
 1 Document 283.
 
@@ -24,4 +29,4 @@ _
 
 _
 
-_ [AA: A981, GREAT BRITAIN 8B, V]_
+ _[AA: A981, GREAT BRITAIN 8B, V]_

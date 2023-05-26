@@ -1,14 +1,19 @@
 ---
-title: "6 Prime Minister's Department to High Commissioner's Office in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 772
+doc_date: '1940-01-08'
+doc_num: 6
+doc_order: 6
+naa_refs:
+- naa_barcode: 215746
+  naa_control_symbol: A39
+  naa_series: A2908
+  reference: '[AA: AA1973/362, BOX 46, ITEM A39]'
+title: Prime Minister's Department to High Commissioner's Office in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-01-08
+vol_title: 'Volume 3: 1940, January-June'
 ---
 
-# 6 Prime Minister's Department to High Commissioner's Office in London
-
-## Cablegram unnumbered 8 January 1940,
+Cablegram unnumbered 8 January 1940,
 
 Your telegram 20th December. [1] Production of Foodstuffs War Time 
 
@@ -38,9 +43,9 @@ stage) as to how we would safeguard the future should we expand
 
 production to meet war time requirements.
 
-_
+ _
 
-1 On file AA: A1608, A37/1/4, i. Bruce reported that he was 
+1 On file AA: A1608, A37/1/4, i. Bruce reported that he was
 
 alarmed at the lack of co-ordination between the U.K. departments 
 
@@ -76,7 +81,7 @@ at.
 
 _
 
-_
+ _
 
 [AA: AA1973/362, BOX 46, ITEM A39]
 

@@ -1,12 +1,18 @@
 ---
-title: "426 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1657
+doc_date: '1941-04-23'
+doc_num: 426
+doc_order: 426
+naa_refs:
+- naa_barcode: 177619
+  naa_control_symbol: JAP 185 PART 1
+  naa_series: A981
+  reference: '[AA: A981, JAPAN 185B, i]'
+title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
+  Whiskard, U.K. High Commissioner in Australia
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1941-04-23
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 426 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia
 
 Circular cablegram Z143 LONDON, 23 April 1941, 9.20 p.m.
 
@@ -26,7 +32,7 @@ This would be designed as a surprise attack in force on Malaya and without a pre
 
 4\. Whatever conclusion of Soviet Japanese pact may signify, we feel only safe course is to regard it as prelude to further southward move by Japan.
 
-_
+ _
 
 1 A. W. Fadden was Acting Prime Minister.
 
@@ -34,4 +40,4 @@ _
 
 _
 
-_ [AA: A981, JAPAN 185B, i]_
+ _[AA: A981, JAPAN 185B, i]_

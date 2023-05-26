@@ -1,12 +1,18 @@
 ---
-title: "293 Curtin to Churchill"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2584
+doc_date: '1943-10-08'
+doc_num: 293
+doc_order: 293
+naa_refs:
+- naa_barcode: 4224115
+  naa_control_symbol: 1943/56
+  naa_series: A3196
+  reference: '[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.27804-7,
+    0.27840-4]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-10-08
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 293 Curtin to Churchill
 
 Cablegram 267 [1] CANBERRA, 8 October 1943
 
@@ -142,7 +148,7 @@ PART 7-CONCLUSION
 
 CURTIN
 
-_ 1 Sent through the U.K. Dominions Office.
+ _1 Sent through the U.K. Dominions Office.
 
 2 See file AA:A2671, 311/1943.
 
@@ -158,4 +164,4 @@ _ 1 Sent through the U.K. Dominions Office.
 
 _
 
-_ [FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.27804-7, 0.27840-4]_
+ _[FA:A3196, 1943, FOLDER, OUTWARDS MOST SECRET MASTER SHEETS, 0.27804-7, 0.27840-4]_

@@ -1,12 +1,17 @@
 ---
-title: "165 Addison to Australian Government"
-volume: "Volume 9: 1946, January-June"
-doc_id: 3677
+doc_date: '1946-04-03'
+doc_num: 165
+doc_order: 165
+naa_refs:
+- naa_barcode: 194073
+  naa_control_symbol: UN46/IT/1/1
+  naa_series: A1067
+  reference: '[AA:A1067, UN46/1T/1/1]'
+title: Addison to Australian Government
+vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9
-doc_date: 1946-04-03
+vol_title: 'Volume 9: 1946, January-June'
 ---
-
-# 165 Addison to Australian Government
 
 Cablegram D310 LONDON, 3 April 1946, 4.26 p.m.
 
@@ -24,7 +29,7 @@ Assembly or elsewhere. This would enable each individual mandatory power to refe
 
 4\. For the present, in approaching the French and Belgian Governments, we are informing them that our general idea is that mandatory powers should inform the League Assembly of their intentions with regard to their mandated territories and that subsequently a resolution taking note of such statements might or might not be found desirable.
 
-_
+ _
 
 1 In cablegram 98, the N.Z. Govt supported the Australian proposal in paragraph 3 of Document 147 for a declaration, but did not support the suggestion in paragraph 4, arguing that a reference to 'other arrangements' would 'inevitably be construed as a subterfuge'.
 
@@ -32,4 +37,4 @@ _
 
 _
 
-_ [AA:A1067, UN46/1T/1/1]_
+ _[AA:A1067, UN46/1T/1/1]_

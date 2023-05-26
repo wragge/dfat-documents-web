@@ -1,14 +1,20 @@
 ---
-title: "78 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister Designate"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1832
+doc_date: '1941-10-04'
+doc_num: 78
+doc_order: 79
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA:A3195, 1941, 1-19889]'
+title: Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin,
+  Prime Minister Designate
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-10-04
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 78 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister Designate
-
-## Cablegram 5779 LONDON, 4 October 1941, 6.30 p.m.
+Cablegram 5779 LONDON, 4 October 1941, 6.30 p.m.
 
 Received 5 October 1941 I hesitate to worry you almost before you are in the saddle [1], but I feel that I should send you something of a background to the proposed agreement dealt with in Dominions Office telegrams 591 [2] and 592 [3], particularly as you will see from these telegrams that it is proposed to take action early next week.
 
@@ -44,7 +50,7 @@ In order to meet this wish of the President, and yet not to prejudge Imperial pr
 
 As you will have no opportunity of dealing with this matter before the United Kingdom Government has to make a further move with the U.S.A., I suggest you might telegraph in reply to Dominions Office cable 591 saying that you would have no objection to the redraft of Article VII, but that you consider it essential that there should be early consultation between the United Kingdom and Dominions Governments on all issues involved, particularly in view of the conversations contemplated by the final sentence of the redraft of Article VII. [8]
 
-_
+ _
 
 1 The decision of the two Independent members of the House of Representatives to transfer their support to the Australian Labor Party led to the defeat of A. W. Fadden's budget proposals on 3 October. Fadden resigned as Prime Minister the same day and Curtin was commissioned to form a new A.L.P. administration which took office on 7 October. Dr H. V. Evatt became Minister for External Affairs and Attorney-General.
 
@@ -64,4 +70,4 @@ _
 
 _
 
-_ [AA:A3195, 1941, 1-19889]_
+ _[AA:A3195, 1941, 1-19889]_

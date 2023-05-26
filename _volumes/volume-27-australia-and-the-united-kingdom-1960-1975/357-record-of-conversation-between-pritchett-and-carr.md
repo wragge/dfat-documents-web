@@ -1,14 +1,17 @@
 ---
-title: "357 RECORD OF CONVERSATION BETWEEN PRITCHETT AND CARR"
-volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
-doc_id: 10223
+doc_date: '1972-11-28'
+doc_num: 357
+doc_order: 357
+naa_refs:
+- naa_barcode: 552872
+  naa_control_symbol: 67/1/3 PART 6
+  naa_series: A1838
+  reference: '[NAA: A1838, 67/1/3 PART 6]'
+title: RECORD OF CONVERSATION BETWEEN PRITCHETT AND CARR
+vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27
-doc_date: 1972-11-28
+vol_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 ---
-
-# 357 RECORD OF CONVERSATION BETWEEN PRITCHETT AND CARR
-
-NAA: A1838, 67/1/3 PART 6
 
 London, 28 November 1972
 
@@ -22,7 +25,7 @@ I thanked Mr Carr for receiving me and explained that I had not called on any sp
 
 4\. Mr Carr interjected to say that most unfortunately he had not been able to secure the figures in time for last week’s debate, but he could now tell me that over 139,000 Australians had come to Britain as visitors in the first nine months of this year and only 79 had been given a permit for less than the normal initial period of 6 months. It was regrettable that anybody at all should be barred or restricted, but the record was not really unsatisfactory. It was good to see Australians visit in such large numbers: they were always welcome. Mr Carr agreed with my remark about adaptation to the Common Market. He recalled a conversation with a Sydney taxi driver in Sydney in 1961, who had expressed a surprisingly sophisticated attitude about Britain’s entry into the Common Market and the need for Australia to get out and make its own way. Mr Carr had the same impression of our attitude from other contacts with Australians and from personal correspondence from relatives in Melbourne. They had also written to him that, despite the fuss in London, the new immigration Rules had not excited significant hostile comment in Australia.
 
-5\. I then drew on Canberra’s cable No. 15135 1 to describe Australian reactions and gave Mr Carr a copy of the Prime Minister’s oral statement [...] I said that feelings about kith and kin, war–time association and closeness to Britain were undoubtedly an important aspect of our relations; however, any assertions that might come before him about ill-feeling in Australia because of the new immigration Rules needed to be seen in perspective and treated with some reserve. But I pointed out again that the Australian Government had yet to address itself to this question—and we had to wait to see what effect the public handling of it here might have on Australian opinion.
+5\. I then drew on Canberra’s cable No. 15135 [1](#f1) to describe Australian reactions and gave Mr Carr a copy of the Prime Minister’s oral statement [...] I said that feelings about kith and kin, war–time association and closeness to Britain were undoubtedly an important aspect of our relations; however, any assertions that might come before him about ill-feeling in Australia because of the new immigration Rules needed to be seen in perspective and treated with some reserve. But I pointed out again that the Australian Government had yet to address itself to this question—and we had to wait to see what effect the public handling of it here might have on Australian opinion.
 
 6\. I then said that it would be helpful if Mr Carr could tell me what he had in mind regarding the two proposals for Commonwealth consultations and ‘reciprocal’ immigration.
 
@@ -49,3 +52,5 @@ I thanked Mr Carr for receiving me and explained that I had not called on any sp
 17\. The meeting concluded with Mr Carr again expressing appreciation and satisfaction at our talk and urging me to follow up vigorously with his officers any complaints that might come to me.
 
 1  Document 355. 
+
+[NAA: A1838, 67/1/3 PART 6]

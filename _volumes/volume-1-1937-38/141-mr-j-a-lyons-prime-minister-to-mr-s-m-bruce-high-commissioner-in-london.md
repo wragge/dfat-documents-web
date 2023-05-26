@@ -1,14 +1,19 @@
 ---
-title: "141 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 1: 1937-38"
-doc_id: 140
+doc_date: '1938-03-17'
+doc_num: 141
+doc_order: 140
+naa_refs:
+- naa_barcode: 206662
+  naa_control_symbol: C47/1/4 PART 2
+  naa_series: A1608
+  reference: '[AA : A1068, C 47/1/4, ii]'
+title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-03-17
+vol_title: 'Volume 1: 1937-38'
 ---
 
-# 141 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
-
-## Cablegram unnumbered 17 March 1938 SECRET,
+Cablegram unnumbered 17 March 1938 SECRET,
 
 Government has received report from its Geological Adviser [1] to the effect that known deposits iron ore capable of being mined economically of considerably less magnitude than hitherto believed. Report quite serious. Adviser urges Government limit or prohibit export ore pending survey resources. Government has decided announce Saturday [2] embargo operate in 3 months exportation of iron ore.
 
@@ -18,7 +23,7 @@ Three Japanese experts at Yampi Sound and the Japanese Company have already incu
 
 LYONS
 
-_
+ _
 
 1 See Document 140, note 1.
 
@@ -26,4 +31,4 @@ _
 
 _
 
-_ [AA : A1068, C 47/1/4, ii]_
+ _[AA : A1068, C 47/1/4, ii]_

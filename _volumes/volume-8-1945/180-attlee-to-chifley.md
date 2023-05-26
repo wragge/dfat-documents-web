@@ -1,12 +1,18 @@
 ---
-title: "180 Attlee to Chifley"
-volume: "Volume 8: 1945"
-doc_id: 3211
+doc_date: '1945-08-11'
+doc_num: 180
+doc_order: 180
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE,
+    D1157-3/7/45 to D2033-2/11/45, 1.26007]'
+title: Attlee to Chifley
+vol_full_title: 'Volume 8: 1945'
 vol_id: 8
-doc_date: 1945-08-11
+vol_title: 'Volume 8: 1945'
 ---
-
-# 180 Attlee to Chifley
 
 Cablegram 288 LONDON, 11 August 1945, 11.35 p.m.
 
@@ -18,8 +24,8 @@ It will be left to the discretion of the Naval Commander as to whether he should
 
 It will, of course, be necessary for the Commander-in-Chief of the British Pacific Fleet to make all arrangements in concert with Gen. MacArthur and Admiral Nimitz.
 
-_ STATE, D1157-3/7/45 to D2033-2/11/45, 1.26007]
+ _
 
 _
 
-_ [AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF_
+ _[AA : A3195, 1945, FOLDER, TOP SECRET, INWARDS FROM SECRETARY OF STATE, D1157-3/7/45 to D2033-2/11/45, 1.26007]_

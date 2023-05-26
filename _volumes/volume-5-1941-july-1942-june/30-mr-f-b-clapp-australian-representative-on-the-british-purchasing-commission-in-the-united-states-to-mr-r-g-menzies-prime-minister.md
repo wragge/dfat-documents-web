@@ -1,14 +1,20 @@
 ---
-title: "30 Mr F. B. Clapp, Australian Representative on the British Purchasing Commission in the United States, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 1784
+doc_date: '1941-08-04'
+doc_num: 30
+doc_order: 31
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[AA : A3195, 1941, 1.14275]'
+title: Mr F. B. Clapp, Australian Representative on the British Purchasing Commission
+  in the United States, to Mr R. G. Menzies, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1941-08-04
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 30 Mr F. B. Clapp, Australian Representative on the British Purchasing Commission in the United States, to Mr R. G. Menzies, Prime Minister
-
-## Cablegram NY 2869 NEW YORK, 4 August 1941, 9.41 p.m.
+Cablegram NY 2869 NEW YORK, 4 August 1941, 9.41 p.m.
 
 For Mr. Menzies from Clapp.
 
@@ -30,7 +36,7 @@ Everything possible being done by this office to accelerate placement of orders 
 
 Please pass contents of this cable to Essington Lewis [6] who at the moment particularly concerned.
 
-_
+ _
 
 1 Words in square brackets have been corrected from the Washington copy on file AA : A3300, 103.
 
@@ -46,4 +52,4 @@ _
 
 _
 
-_ [AA : A3195, 1941, 1.14275]_
+ _[AA : A3195, 1941, 1.14275]_

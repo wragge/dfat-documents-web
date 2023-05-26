@@ -1,21 +1,25 @@
 ---
-title: "97 Letter, Group Of 13 To Guise"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9605
+doc_date: '1967-01-23'
+doc_num: 97
+doc_order: 97
+naa_refs:
+- naa_barcode: 4025542
+  naa_control_symbol: 1966/2760
+  naa_series: A452
+  reference: '[NAA: A452, 1966/2760]'
+title: Letter, Group Of 13 To Guise
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-01-23
-barcode: 4025542
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
 
-# 97 Letter, Group Of 13 To Guise
+Port Moresby, [23 January 1967][2](#f2)
 
-Port Moresby, [23 January 1967]2
-
-We are asking leave to make important additions and modifications to the original recommendations we submitted in August.3 Certain events and developments have brought about a change in our thinking. These alterations are more concerned with timing and speed than the actual subject matter. Our original submission holds good in content and purpose. WHAT should take place remains broadly the same. WHEN it should take place and HOW, or by what means, is what we want to add here.
+We are asking leave to make important additions and modifications to the original recommendations we submitted in August.[3](#f3) Certain events and developments have brought about a change in our thinking. These alterations are more concerned with timing and speed than the actual subject matter. Our original submission holds good in content and purpose. WHAT should take place remains broadly the same. WHEN it should take place and HOW, or by what means, is what we want to add here.
 
 These changes in our thinking have come about because of a realization that if this present system of colonial or territory government continues, with all its inevitable master–servant overtones, serious tensions will develop, in fact are already developing, that will result in a loss of confidence and a complete breakdown of relations not only between the races here but between the two countries. We now see that deterioration in race relations is taking place faster than we thought earlier. We earnestly desire that confidence be restored and that our progress toward self-government should take place in a spirit of mutual respect and goodwill.
 
-**Attachment**
+ **Attachment**
 
 SUMMARY OF SUPPLEMENTARY SUBMISSION TO SELECT COMMITTEE ON CONSTITUTIONAL AND POLITICAL DEVELOPMENT —JANUARY 1967
 
@@ -45,17 +49,17 @@ The eight Ministers will include and be led by a _Chief Minister_ who will be ap
 
 7\. _Eight ministerial portfolios_
 
-1\. The _Chief Minister_—who will head his own new Department.
+1\. The _Chief Minister_ —who will head his own new Department.
 
 2\. Minister for _Home Affairs_ (to replace Department of District Administration).
 
-3\. Minister for _Local Government_—(New Department).
+3\. Minister for _Local Government_ —(New Department).
 
 4\. Minister for _Lands, Surveys and Mines._
 
 5\. Minister for _Labour._
 
-6\. Minister for _Information and Culture_—(reorganized Department of Information and Extension Services).
+6\. Minister for _Information and Culture_ —(reorganized Department of Information and Extension Services).
 
 7\. Minister for _Local Finance_ or Assistant Treasurer.
 
@@ -116,7 +120,7 @@ The Deputy High Commissioner must be a Papuan or New Guinean, a public servant o
 
 21\. _External Affairs to deal with Papua New Guinea not External Territories_
 
-Under item 14 in the Explanations we give the reasons for this important change in relations between Australia and Papua New Guinea. In the future we will be separated from Australia and our relations then will, on the Australian side, be controlled by External Affairs. This should commence now. (See item 14 Detailed Explanation.)4
+Under item 14 in the Explanations we give the reasons for this important change in relations between Australia and Papua New Guinea. In the future we will be separated from Australia and our relations then will, on the Australian side, be controlled by External Affairs. This should commence now. (See item 14 Detailed Explanation.)[4](#f4)
 
 DETAILED EXPLANATION OF SUPPLEMENTARY SUBMISSION PLACED BEFORE THE  
 SELECT COMMITTEE ON CONSTITUTIONAL AND POLITICAL DEVELOPMENT
@@ -207,7 +211,7 @@ The 1968 Elections will show that we will have the men for Ministerial positions
 
 We already have amongst local officers the men for top positions in the Public Service but they are buried in second rate and subordinate positions.
 
-_In greater detail_
+ _In greater detail_
 
 (A) New Attitude On Indigenous Rule
 
@@ -229,13 +233,13 @@ We wish to clarify our position on the Under-Secretary system and give reasons w
 
 18\. _Federal Government years behind in implementing United Nations agreement and keeping up with world opinion_
 
-(i) We think it is appropriate and timely for you, the members of the Select Committee on Constitution, to remind the Federal Government that it is not we who are advanced or premature in our demands but the Australian Government that is behind the times. It is now recognized that the policies put into effect after the war by the late Mr. Eddie Ward5 and which were regarded by his opponents and many Australians at the time as ‘advanced’ were, in fact, ten years or more behind the times even then. Australian policies in Papua New Guinea have been slipping further and further back ever since.
+(i) We think it is appropriate and timely for you, the members of the Select Committee on Constitution, to remind the Federal Government that it is not we who are advanced or premature in our demands but the Australian Government that is behind the times. It is now recognized that the policies put into effect after the war by the late Mr. Eddie Ward[5](#f5) and which were regarded by his opponents and many Australians at the time as ‘advanced’ were, in fact, ten years or more behind the times even then. Australian policies in Papua New Guinea have been slipping further and further back ever since.
 
-(ii) Perhaps we should remind Federal Government of the Declaration on the Granting of independence to Colonial Countries and Peoples which was adopted by the General Assembly on December 14, 1960 and to which Australia was a party. The Declaration states that the subjection of peoples to alien subjugation, domination and exploitation constitutes a denial of fundamental human rights and is contrary to the Charter of the United Nations. It states emphatically that ‘immediate steps shall be taken in trust and _non-self-governing territories _... to transfer all powers to the peoples of those territories without any conditions or reservations, in accordance with their _freely expressed will and desire_...’6 That was six years ago. We submit that Federal Government as a signatory of that Declaration should begin to ratify those ‘immediate steps’ and implement the provisions of the Declaration. We consider the terms of this Supplement to our earlier submission very moderate compared with the ‘transfer of power’ provisions adopted by the General Assembly.
+(ii) Perhaps we should remind Federal Government of the Declaration on the Granting of independence to Colonial Countries and Peoples which was adopted by the General Assembly on December 14, 1960 and to which Australia was a party. The Declaration states that the subjection of peoples to alien subjugation, domination and exploitation constitutes a denial of fundamental human rights and is contrary to the Charter of the United Nations. It states emphatically that ‘immediate steps shall be taken in trust and _non-self-governing territories_... to transfer all powers to the peoples of those territories without any conditions or reservations, in accordance with their _freely expressed will and desire_...’[6](#f6) That was six years ago. We submit that Federal Government as a signatory of that Declaration should begin to ratify those ‘immediate steps’ and implement the provisions of the Declaration. We consider the terms of this Supplement to our earlier submission very moderate compared with the ‘transfer of power’ provisions adopted by the General Assembly.
 
 (iii) In the face of this, the recent changes in the Department of Territories indicates a hardening attitude on the part of Federal Government and highlights the concentration and centralising of greater powers in Canberra on matters affecting Papua New Guinea. The time has come to clarify the situation so that our people here as well as the people of Australia may become aware of Federal Government’s failure to prepare us for self-government and to fulfill its obligations as a member of the General Assembly of the United Nations.
 
-[ [NAA: A452, 1966/2760](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=4025542) ]
+[NAA: A452, 1966/2760]
 
 1  The group wrote to Guise in his capacity as Chairman of the Select Committee. According to the typewritten text, the group consisted of Albert Maori Kiki, Michael Somare, Oala Oala-Rarua (President, Workers’ Association, Port Moresby), Elliot Elijah (training officer, Department of Trade and Industry Co-operative Centre), Sinaka Goava (student, Administrative College), Kamona Walo (student, Administrative College), Joseph Kaal Nombri (student, Administrative College and President, Territory Students’ Federation), Ebia Olewale (education officer), Ilomo Batton (doctor stationed in Daru), Gerai Asiba (student patrol officer), Reuben Taureka (Acting Assistant Director, Medical Services) and Pen Anakapu (student, Administrative College) and Cecil Abel However, a copy of the submission in NAA: A452, 1966/2960 has an anonymous annotation claiming Goava, Batton and Asiba did not sign the document by the date of submission. In terms of leadership, Newby told Territories that ‘the prime mover of the group is Cecil Abel’ (minute, officer unidentified (Acting OIC, Information Section, DOT) to Warwick Smith, dated ‘3/67’, ibid.). 
 
@@ -247,4 +251,4 @@ We wish to clarify our position on the Under-Secretary system and give reasons w
 
 5  Minister for External Territories, 1943–9. 
 
-6  Ellipses in source document. 
+6  Ellipses in source document.

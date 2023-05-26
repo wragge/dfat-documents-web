@@ -1,12 +1,17 @@
 ---
-title: "325 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1091
+doc_date: '1940-06-01'
+doc_num: 325
+doc_order: 325
+naa_refs:
+- naa_barcode: 4212445
+  naa_control_symbol: 1940/11
+  naa_series: A3196
+  reference: '[FA: A3196, 0.3420]'
+title: Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-06-01
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 325 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 
 Cablegram unnumbered 1 June 1940,
 
@@ -24,7 +29,7 @@ I suggest further, that Mackenzie King [7], who is I understand on very close an
 
 You must not treat this cable as an indication that we have a defeatist point of view, quite the contrary, but we do feel that if action by America is to be sufficiently early to keep Italy out, to re-animate the French and to disturb the German civil population, the very strongest case based on America's fears about her own position should be developed in the shortest possible time.
 
-_
+ _
 
 1 Documents 308 and 309.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [FA: A3196, 0.3420]_
+ _[FA: A3196, 0.3420]_

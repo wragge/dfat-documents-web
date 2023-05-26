@@ -1,12 +1,19 @@
 ---
-title: "306 Submission to Willesee"
-volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
-doc_id: 8144
+doc_date: '1975-10-29'
+doc_num: 306
+doc_order: 305
+naa_refs:
+- naa_barcode: 1505915
+  naa_control_symbol: 3038/10/1/2 PART 3
+  naa_series: A1838
+  reference: '[NAA: Al838, 3038/10/112, iij]'
+title: Submission to Willesee
+vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
+  Timor, 1974–1976'
 vol_id: 20
-doc_date: 1975-10-29
+vol_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor,
+  1974-1976'
 ---
-
-# 306 Submission to Willesee
 
 Canberra, 29 October 1975
 
@@ -35,12 +42,12 @@ Australian assistance has far exceeded that provided by any other country. As fa
 
 ### Request for Assistance
 
-_[matter omitted]_1
+ _[matter omitted]_[1](#f1)
 
 ### Considerations
 
   6. This question of food aid to Portuguese Timor is fraught with political difficulties. In brief, if Australia were to provide food aid to Portuguese Timor, it would be difficult to avoid the impression that we were providing direct underpinning to the FRETILIN administration in Timor, with all that implies for our relationship with the Indonesians.
-  7. When this matter was last considered in detail (a copy of our earlier submission to the Acting Minister2 is attached) the Government was able to deflect pressure for a decision because of ICRC advice, conveyed to the Acting Minister by Mr Pasquier, that there was no food shortage in Portuguese Timor at that time. Pasquier felt that reports to the contrary were exaggerated, and based on an Australian regimen of food intake. Under normal consumption patterns, he felt that there would be sufficient food supplies to see the territory through until mid-November when the new rice harvest would be in.
+  7. When this matter was last considered in detail (a copy of our earlier submission to the Acting Minister[2](#f2) is attached) the Government was able to deflect pressure for a decision because of ICRC advice, conveyed to the Acting Minister by Mr Pasquier, that there was no food shortage in Portuguese Timor at that time. Pasquier felt that reports to the contrary were exaggerated, and based on an Australian regimen of food intake. Under normal consumption patterns, he felt that there would be sufficient food supplies to see the territory through until mid-November when the new rice harvest would be in.
   8. Although there was come confusion at the time, it seems that Pasquier's assessments were based in part on the assumption that the Timorese who had joined fighting units would soon return to their fields. In addition, he expected that a Portuguese ship with 500 tons of rice would be arriving in Dili before the end of November. That ship has not come and is unlikely to do so. Nor has the expected return to the fields taken place. Moreover, the latest advice we have from the ICRC (14 October) is that, contrary to earlier advice, they expect a food problem to emerge in two to three weeks, particularly in the coastal towns. Thus we are no longer in the position of being able to say publicly that the ICRC does not assess that there is a food shortage in Timor.
   9. Meanwhile, we must anticipate that domestic pressure to provide food to Timor will increase. Part of the ACFOA team has now returned from Dili and the Australian Red Cross request was channelled through ACFOA. We can expect recommendations strongly supporting FRETILIN and stressing the need for further assistance from the Government, including food aid, probably for much larger quantities than the Australian Red Cross has suggested.
 
@@ -55,21 +62,19 @@ _[matter omitted]_1
 
 
 
-_[matter omitted]_
+ _[matter omitted]_
 
 ### Reccomendations
 
-  17. There are no reasons rooted in our foreign policy interests which could lead the Department to recommend the provision of food aid to Portuguese Timor at the present juncture. The question is whether domestic requirements should override these foreign policy preferences. If you decide that they should, _we recommend_ that any further contribution to the ICRC be limited at this time to $A100,000 with $A50,000 of this amount being earmarked for the refugees in Indonesian Timor. Finally, we would propose that any public announcement of the contribution to the ICRC be expressed in cash terms. That the contribution in fact will be used to purchase food supplies should be seen to be the ICRC's own decision.3
+  17. There are no reasons rooted in our foreign policy interests which could lead the Department to recommend the provision of food aid to Portuguese Timor at the present juncture. The question is whether domestic requirements should override these foreign policy preferences. If you decide that they should, _we recommend_ that any further contribution to the ICRC be limited at this time to $A100,000 with $A50,000 of this amount being earmarked for the refugees in Indonesian Timor. Finally, we would propose that any public announcement of the contribution to the ICRC be expressed in cash terms. That the contribution in fact will be used to purchase food supplies should be seen to be the ICRC's own decision.[3](#f3)
   18. ADAA concurs with this submission.
 
 
 
-G.B.FEAKES - First Assistant Secretary - South-East Asia &amp; PNG Division
+G.B.FEAKES - First Assistant Secretary - South-East Asia & PNG Division
 
-_[NAA: Al838, 3038/10/112, iij]_
+ _[NAA: Al838, 3038/10/112, iij]_
 
   * 1 The Australian Red Cross had requested the Government to supply 100 tons of rice and 50 tons of flour; the ICRC had appealed for $US300 000 plus milk powder and baby food; UNICEF had also appealed for food, but had now shelved its program, of which Australia had been wary since it appeared to have been closely tied to support for Fretilin control. The new ICRC appeal was directed specifically at refugees in Indonesia: the submission suggested that it would be consistent with Australia's approach in its previous contribution to respond this time to relief needs within Portuguese Tin10r as well.
   * 2 See note 4 to Document 236.
   * 3 Willesee noted in the margin: '$150 000 for the ICRC to be used on both sides of the border-proportions at the discretion of ICRC'.
-
-

@@ -1,12 +1,18 @@
 ---
-title: "318 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister"
-volume: "Volume 3: 1940, January-June"
-doc_id: 1084
+doc_date: '1940-05-31'
+doc_num: 318
+doc_order: 318
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3195
+  reference: '[FA: A3195, 1.3734]'
+title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
+  Prime Minister
+vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3
-doc_date: 1940-05-31
+vol_title: 'Volume 3: 1940, January-June'
 ---
-
-# 318 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister
 
 Cablegram 173 LONDON, 31 May 1940, 1 a.m.
 
@@ -68,7 +74,7 @@ American bombers are only now coming into service with the French Air Force, and
 
 Stocks 1st May estimated at 2 3/4 million tons. If stocks were reduced to 1,000,000 tons, it is believed that internal distribution mechanism would break down, as happened in the last war. On this basis stocks would be sufficient to make good the deficiency for about one year. But it is thought that figures for consumption do not include sufficient margin for operational expenditure on the present scale. About 70 per cent of German synthetic oil production plant is situated in RUHR district and these installations have been included in the list of bombing targets. The area is, however, heavily defended and the possible scale of attack must be dictated by the air situation from day to day.
 
-_
+ _
 
 1 Document 273.
 
@@ -76,4 +82,4 @@ _
 
 _
 
-_ [FA: A3195, 1.3734]_
+ _[FA: A3195, 1.3734]_

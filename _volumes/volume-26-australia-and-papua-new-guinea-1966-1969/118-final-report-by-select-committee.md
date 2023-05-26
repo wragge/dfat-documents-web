@@ -1,35 +1,39 @@
 ---
-title: "118 Final Report By Select Committee"
-volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
-doc_id: 9626
+doc_date: '1967-06-06'
+doc_num: 118
+doc_order: 118
+naa_refs:
+- naa_barcode: 1865359
+  naa_control_symbol: '440'
+  naa_series: A5842
+  reference: '[NAA: A5842, 440]'
+title: Final Report By Select Committee
+vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26
-doc_date: 1967-06-06
-barcode: 1865359
+vol_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 ---
-
-# 118 Final Report By Select Committee
 
 Port Moresby, 6 June 1967
 
 Chapter I
 
-_Introduction_
+ _Introduction_
 
-1\. The Select Committee was appointed by resolution of the House of Assembly on 19th May 1965, ‘to consider ways and means of preparing and presenting, and to draft for the consideration of the House, a set of constitutional proposals to serve as a guide for future constitutional development in the Territory.2
+1\. The Select Committee was appointed by resolution of the House of Assembly on 19th May 1965, ‘to consider ways and means of preparing and presenting, and to draft for the consideration of the House, a set of constitutional proposals to serve as a guide for future constitutional development in the Territory.[2](#f2)
 
-2\. Two interim reports have been presented. The first, on the 26th November 1965, gave details of the Committee’s progress to that time, and of its future activities.3 The second, on the 30th August 1966, recommended changes in the composition of the House of Assembly to be elected in 1968.4 These recommendations were adopted by the House, and the necessary amendments to the Papua and New Guinea Act were subsequently made by the Commonwealth Parliament.
+2\. Two interim reports have been presented. The first, on the 26th November 1965, gave details of the Committee’s progress to that time, and of its future activities.[3](#f3) The second, on the 30th August 1966, recommended changes in the composition of the House of Assembly to be elected in 1968.[4](#f4) These recommendations were adopted by the House, and the necessary amendments to the Papua and New Guinea Act were subsequently made by the Commonwealth Parliament.
 
 3\. While the first part of the Committee’s work was related to the legislature, the second part referred to the executive arm of the government, and to what changes, if any, should be made to enable greater local participation in the government.
 
 4\. Your Committee believes that the pace of constitutional change should be dictated by the people of the Territory, and that no changes should be proposed without the people’s support. Accordingly, the Committee Recently visited all District headquarters and sought views on the next steps to be taken in the constitutional development of the Territory and whether members of the House should participate more fully in the executive government.
 
-5\. Many varying views were submitted: one large sector of the community was against any change and wanted the present position continued, at least until 1972. A small group put forward far reaching recommendations amounting to limited self government.5 The majority maintained an intermediate position. They desired a further step forward so that members of the House could participate more in the government.
+5\. Many varying views were submitted: one large sector of the community was against any change and wanted the present position continued, at least until 1972. A small group put forward far reaching recommendations amounting to limited self government.[5](#f5) The majority maintained an intermediate position. They desired a further step forward so that members of the House could participate more in the government.
 
 6\. In addition to obtaining an indication of the degree of constitutional advance desired by the majority of the people, many valuable ideas on how the elected members could participate more fully in the executive government were expressed, and these have assisted the Committee in reaching its conclusions. The Committee was pleased to receive many written submissions. These were all carefully considered, and were of considerable assistance.
 
 Chapter II
 
-_The Administrator’s Executive Council_
+ _The Administrator’s Executive Council_
 
 7\. The Committee appreciates that until the people of the Territory determine their own political and constitutional future, the duty and responsibility of administering the Territory rests with the Administrator acting on behalf of the Australian Government. Subject to this, the Administrator’s Executive Council should be the principal instrument of policy of the Executive Government of the Territory.
 
@@ -51,7 +55,7 @@ _The Administrator’s Executive Council_
 
 Chapter III
 
-_The Ministers_
+ _The Ministers_
 
 16\. The Under-Secretary system was instituted to give members of the House an opportunity to participate in the government, and to enable the Under-Secretaries to learn the work of government. The time has now come for elected members to take a more active part in the government, and it can be anticipated that there will be members in the next House of Assembly who will be capable of exercising more executive authority.
 
@@ -77,7 +81,7 @@ _The Ministers_
 
 Chapter IV
 
-_The Assistant Ministers_
+ _The Assistant Ministers_
 
 27\. In departments not represented by a Minister there should be an Assistant Minister appointed from the elected members to work with the Departmental Head. In this position the appointee would be able to undertake work of a ministerial nature within the department. Responsibility for the department would remain with the Departmental Head.
 
@@ -111,7 +115,7 @@ _The Assistant Ministers_
 
 Chapter V
 
-_Appointment of Ministers and Assistant Ministers_
+ _Appointment of Ministers and Assistant Ministers_
 
 33\. The Committee considers that the responsibility for nominating Ministers and Assistant Ministers should be shared by the House of Assembly and the Administrator.
 
@@ -125,7 +129,7 @@ _Appointment of Ministers and Assistant Ministers_
 
 Chapter VI
 
-_Budget proposals_
+ _Budget proposals_
 
 38\. In the Second Interim Report, it was stated ‘The Committee regards it as desirable that the elected members should, as far as practicable, assume some control over locally raised revenue’. (paragraph 48)
 
@@ -156,7 +160,7 @@ Achieving this could only be brought about by close co-operation and consultatio
 
 Chapter VII
 
-_Conclusion_
+ _Conclusion_
 
 51\. Your Committee has studied certain matters in the nature of existing rights and privileges and basic constitutional principles such as the protection of fundamental human rights and the rule of law. Principles such as these spelt out in a constitutional document are, in your Committee’s opinion, most desirable, and are referred to a succeeding constitutional committee.
 
@@ -168,7 +172,7 @@ _Conclusion_
 
 Chapter VIII
 
-_Recommendations_
+ _Recommendations_
 
 55\. Your Committee recommends:–
 
@@ -212,7 +216,7 @@ _Recommendations_
 
 (p) The appointment of a Budget Committee of five elected members of the House to provide an additional link between the House and the government in budgetary matters. Members could channel budget proposals through this Committee which would refer them to the Administrator’s Executive Council or the Minister or Assistant Minister representing the department concerned. Although this committee would have no executive authority it could, in appropriate circumstances, make recommendations. (paragraph 50)
 
-[ [NAA: A5842, 440](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=1865359) ]
+[NAA: A5842, 440]
 
 1 The report was signed by Guise in his capacity as chairman.
 

@@ -1,12 +1,17 @@
 ---
-title: "265 Curtin to Churchill"
-volume: "Volume 7: 1944"
-doc_id: 2912
+doc_date: '1944-09-01'
+doc_num: 265
+doc_order: 265
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A5954
+  reference: '[AA:A5954, BOX 560]'
+title: Curtin to Churchill
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-09-01
+vol_title: 'Volume 7: 1944'
 ---
-
-# 265 Curtin to Churchill
 
 Cablegram Johcu 82 CANBERRA, 1 September 1944
 
@@ -26,7 +31,7 @@ I thank you for your cablegram No. Winch 5 [1] and for the information which you
 
 CURTIN
 
-_
+ _
 
 1 Document 254.
 
@@ -48,4 +53,4 @@ Forces on Australia', submitted to Curtin on 23 August. On file AA:A5954, box 59
 
 _
 
-_ [AA:A5954, BOX 560]_
+ _[AA:A5954, BOX 560]_

@@ -1,12 +1,17 @@
 ---
-title: "7 Cranborne to Commonwealth Government"
-volume: "Volume 7: 1944"
-doc_id: 2654
+doc_date: '1944-01-07'
+doc_num: 7
+doc_order: 7
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A989
+  reference: '[AA:A989, E43-44/970/54]'
+title: Cranborne to Commonwealth Government
+vol_full_title: 'Volume 7: 1944'
 vol_id: 7
-doc_date: 1944-01-07
+vol_title: 'Volume 7: 1944'
 ---
-
-# 7 Cranborne to Commonwealth Government
 
 Cablegram 12 LONDON, 7 January 1944, 1.40 p.m.
 
@@ -46,7 +51,7 @@ conversations and will communicate further with you when we
 
 receive the United States Government's reply.
 
-_
+ _
 
 1 Document 1.
 
@@ -58,7 +63,7 @@ Documents 233-4.
 
 _
 
-_
+ _
 
 [AA:A989, E43-44/970/54]
 

@@ -1,14 +1,21 @@
 ---
-title: "339 Mr A. T. Stirling, External Affairs Officer in London, to Dr H. V. Evatt, Minister for External Affairs"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2093
+doc_date: '1942-02-17'
+doc_num: 339
+doc_order: 340
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL''S DEPT
+    FILE MI, MINISTERPERSONAL TELEGRAMS]'
+title: Mr A. T. Stirling, External Affairs Officer in London, to Dr H. V. Evatt, Minister
+  for External Affairs
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-02-17
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
 
-# 339 Mr A. T. Stirling, External Affairs Officer in London, to Dr H. V. Evatt, Minister for External Affairs
-
-## Cablegram unnumbered LONDON, 17 February 1942, 3.53 p.m.
+Cablegram unnumbered LONDON, 17 February 1942, 3.53 p.m.
 
 Personal for Minister for External Affairs to be decyphered by Tilley [1]:Your telegram 16th Feby [2], following from Sir Stafford Cripps [3] begins:-
 
@@ -24,7 +31,7 @@ You can rely on me to do my utmost to help in the direction that you wish.
 
 Judging by my overwhelming correspondence there is a strong feeling in the country that we must reorganize our Government.
 
-_ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
+ _
 
 1 Clerk, Communications and Records Section, External Affairs Dept.
 
@@ -36,4 +43,4 @@ _ DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]
 
 _
 
-_ [FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S_
+ _[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL'S DEPT FILE MI, MINISTERPERSONAL TELEGRAMS]_

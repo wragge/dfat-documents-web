@@ -1,12 +1,18 @@
 ---
-title: "266 Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies, of Conversation with Mr S. M. Bruce, High Commissioner in London"
-volume: "Volume 1: 1937-38"
-doc_id: 265
+doc_date: '1938-09-19'
+doc_num: 266
+doc_order: 265
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: ''
+  reference: '[PRO : DO 114/94]'
+title: Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies, of Conversation
+  with Mr S. M. Bruce, High Commissioner in London
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-19
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 266 Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies, of Conversation with Mr S. M. Bruce, High Commissioner in London
 
 LONDON, 19 September 1938
 
@@ -26,7 +32,7 @@ Mr Bruce agreed, and I have no doubt that he himself will make the suggestion to
 
 M. M[ACDONALD]
 
-_
+ _
 
 1 J. A. Lyons, Prime Minister.
 
@@ -40,4 +46,4 @@ _
 
 _
 
-_ [PRO : DO 114/94]_
+ _[PRO : DO 114/94]_

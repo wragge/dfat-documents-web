@@ -1,12 +1,17 @@
 ---
-title: "11 Cablegram From Spender to Menzies"
-volume: "Volume 21: The ANZUS Treaty"
-doc_id: 8362
+doc_date: '1950-07-21'
+doc_num: 11
+doc_order: 11
+naa_refs:
+- naa_barcode: 4185593
+  naa_control_symbol: '1'
+  naa_series: A11537
+  reference: '[NAA : A11537 [1]'
+title: Cablegram From Spender to Menzies
+vol_full_title: 'Volume 21: The ANZUS Treaty, 1951'
 vol_id: 21
-doc_date: 1950-07-21
+vol_title: 'Volume 21: The ANZUS Treaty'
 ---
-
-# 11 Cablegram From Spender to Menzies
 
 Cablegram, Canberra, 21 July 1950
 
@@ -22,10 +27,10 @@ Thank you for your telegram 3411.[1] While I fully appreciate the reasons for yo
 
 5\. You will no doubt realise that the Acting Prime Minister and others here are under constant pressure from the Press on the subject of Lie's request. It would assist us greatly by way of background to have the earliest possible indication of the result of the talks which were to take place in Washington commencing on 19th July - both the course they are taking and the final results.
 
-_ 1 19 July. Menzies had communicated to Spender his view that Australia should do nothing 'which might tend to narrow the field of discussion between the United Kingdom and United States' on the position in the Far East. Menzies had referred to Indian Prime Minister Jawaharlal Nehru's recent approach to the Soviet Union seeking to settle the conflict in Korea by co-operation between the People's Republic of China, the Soviet Union and the United States and by seating the People's Republic of China on the Security Council. Menzies had also mentioned differences between the United States and the United Kingdom over the future status of Formosa held by the Nationalist Chinese Government of Chiang Kai-shek and claimed by the People's Republic of China.
+ _1 19 July. Menzies had communicated to Spender his view that Australia should do nothing 'which might tend to narrow the field of discussion between the United Kingdom and United States' on the position in the Far East. Menzies had referred to Indian Prime Minister Jawaharlal Nehru's recent approach to the Soviet Union seeking to settle the conflict in Korea by co-operation between the People's Republic of China, the Soviet Union and the United States and by seating the People's Republic of China on the Security Council. Menzies had also mentioned differences between the United States and the United Kingdom over the future status of Formosa held by the Nationalist Chinese Government of Chiang Kai-shek and claimed by the People's Republic of China.
 
 2 Menzies had left Australia on 9 July in order to visit the United Kingdom and the United States. The principle purpose of his visits was to obtain for Australia a loan of US dollars to provide for Australia's development and defence needs.
 
 _
 
-_ [NAA : A11537 [1]]_
+ _[NAA : A11537 [1]]_

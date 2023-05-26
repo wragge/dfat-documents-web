@@ -1,12 +1,18 @@
 ---
-title: "494 Mr A. S. V. Smith, Secretary of the Department of Supply and Development, to Mr John Curtin, Prime Minister"
-volume: "Volume 5: 1941, July - 1942, June"
-doc_id: 2248
+doc_date: '1942-05-20'
+doc_num: 494
+doc_order: 495
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A981
+  reference: '[AA:A981, WAR 33, ATTACHMENT C]'
+title: Mr A. S. V. Smith, Secretary of the Department of Supply and Development, to
+  Mr John Curtin, Prime Minister
+vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
-doc_date: 1942-05-20
+vol_title: 'Volume 5: 1941, July - 1942, June'
 ---
-
-# 494 Mr A. S. V. Smith, Secretary of the Department of Supply and Development, to Mr John Curtin, Prime Minister
 
 Cablegram [ES] [1] 42 WASHINGTON, 20 May 1942, 9.59 p.m.
 
@@ -36,7 +42,7 @@ He was quite as emphatic as Marshall in respect of the importance of the Pacific
 
 In connection with the statement that the Japanese naval forces were still proceeding northwards away from Australia, the President stated this morning that a considerable force was now concentrated in the vicinity of Truk. Matter is referred to in more detail in my separate report regarding meeting Pacific War Council today. [9]
 
-_
+ _
 
 1 The original was incorrectly marked SE.
 
@@ -58,4 +64,4 @@ _
 
 _
 
-_ [AA:A981, WAR 33, ATTACHMENT C]_
+ _[AA:A981, WAR 33, ATTACHMENT C]_

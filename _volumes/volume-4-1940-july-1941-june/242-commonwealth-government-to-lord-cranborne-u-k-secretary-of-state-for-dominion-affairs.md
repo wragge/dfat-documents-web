@@ -1,12 +1,18 @@
 ---
-title: "242 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs"
-volume: "Volume 4: 1940, July - 1941, June"
-doc_id: 1473
+doc_date: '1940-12-30'
+doc_num: 242
+doc_order: 242
+naa_refs:
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A3196
+  reference: '[AA:A3196, 1940, 0.10553]'
+title: Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion
+  Affairs
+vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4
-doc_date: 1940-12-30
+vol_title: 'Volume 4: 1940, July - 1941, June'
 ---
-
-# 242 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs
 
 Cablegram 677 30 December 1940,
 
@@ -16,7 +22,7 @@ Your telegram 502. [1] Anglo-Italian Treaty. We appreciate your reasoning and in
 
 This treaty has received much publicity and many representations have been made to Commonwealth Government to secure abrogation. In circumstances we propose to issue a short statement to press stating that treaty is nullified by outbreak of war. [2]
 
-_
+ _
 
 1 Document 234.
 
@@ -24,4 +30,4 @@ _
 
 _
 
-_ [AA:A3196, 1940, 0.10553]_
+ _[AA:A3196, 1940, 0.10553]_

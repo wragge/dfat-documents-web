@@ -1,12 +1,17 @@
 ---
-title: "247 Attlee to Curtin"
-volume: "Volume 6: 1942, July - 1943, December"
-doc_id: 2538
+doc_date: '1943-07-19'
+doc_num: 247
+doc_order: 247
+naa_refs:
+- naa_barcode: 183350
+  naa_control_symbol: E1944/85/2/1
+  naa_series: A989
+  reference: '[AA:A989, E44/85/2/1]'
+title: Attlee to Curtin
+vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6
-doc_date: 1943-07-19
+vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
-
-# 247 Attlee to Curtin
 
 Circular cablegram D439 LONDON, 19 July 1943, 2.30 p.m.
 
@@ -30,10 +35,10 @@ Our efforts to damage the German war effort by promoting resistance and sabotage
 
 5\. A paper dealing with the matter in detail is being sent to you by mail. [1]
 
-_
+ _
 
 1 See circular dispatch D67 of 8 August on file AA:A1608, P41/1/3, i.
 
 _
 
-_ [AA:A989, E44/85/2/1]_
+ _[AA:A989, E44/85/2/1]_

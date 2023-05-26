@@ -1,12 +1,17 @@
 ---
-title: "267 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister"
-volume: "Volume 1: 1937-38"
-doc_id: 266
+doc_date: '1938-09-20'
+doc_num: 267
+doc_order: 266
+naa_refs:
+- naa_barcode: 174711
+  naa_control_symbol: CZE 13 PART 1
+  naa_series: A981
+  reference: '[AA : A981, CZECHOSLOVAKIA 13]'
+title: Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
+vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
-doc_date: 1938-09-20
+vol_title: 'Volume 1: 1937-38'
 ---
-
-# 267 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister
 
 Cablegram 160 LONDON, 20 September 1938
 
@@ -22,7 +27,7 @@ Pressing United Kingdom Government as to immediate consideration of course to be
 
 BRUCE
 
-_
+ _
 
 1 Not printed; see Document 265, note 2.
 
@@ -42,4 +47,4 @@ _
 
 _
 
-_ [AA : A981, CZECHOSLOVAKIA 13]_
+ _[AA : A981, CZECHOSLOVAKIA 13]_
