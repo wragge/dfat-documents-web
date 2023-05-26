@@ -26,4 +26,5 @@ end
 
 gem "jekyll-feed", "~> 0.6"
 gem "rake"
+gem "jgd"
 
