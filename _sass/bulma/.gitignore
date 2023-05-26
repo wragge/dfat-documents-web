@@ -15,3 +15,4 @@ _site
 dev
 node_modules
 test/output/
+.jekyll-cache
