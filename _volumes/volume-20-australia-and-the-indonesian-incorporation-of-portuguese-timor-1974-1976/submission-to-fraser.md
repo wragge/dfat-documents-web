@@ -3,10 +3,6 @@ doc_date: '1976-08-06'
 doc_num: 0
 doc_order: 510
 naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[On file NAA:A1838, 3038/10/1, Annex B.]'
 - naa_barcode: 4151543
   naa_control_symbol: 1976/55 PART 7
   naa_series: A1209

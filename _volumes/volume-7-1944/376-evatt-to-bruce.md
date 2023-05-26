@@ -2,11 +2,7 @@
 doc_date: '1944-12-16'
 doc_num: 376
 doc_order: 376
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU:EVATT PAPERS, CABLES-LONDON-1943-46]'
+naa_refs: []
 title: Evatt to Bruce
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

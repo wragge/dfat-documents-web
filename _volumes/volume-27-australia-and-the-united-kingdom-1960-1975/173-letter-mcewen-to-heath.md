@@ -2,11 +2,7 @@
 doc_date: '1962-03-23'
 doc_num: 173
 doc_order: 173
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 159/58]'
+naa_refs: []
 title: LETTER, MCEWEN TO HEATH
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

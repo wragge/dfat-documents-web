@@ -2,11 +2,7 @@
 doc_date: '1967-06-13'
 doc_num: 72
 doc_order: 72
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 46/56]'
+naa_refs: []
 title: RECORD OF MEETING BETWEEN WILSON AND HOLT
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

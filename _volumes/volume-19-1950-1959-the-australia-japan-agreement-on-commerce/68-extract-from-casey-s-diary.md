@@ -2,11 +2,7 @@
 doc_date: '1954-08-17'
 doc_num: 68
 doc_order: 68
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA : MS6150, VOLUME 17]'
+naa_refs: []
 title: Extract From Casey's Diary
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19

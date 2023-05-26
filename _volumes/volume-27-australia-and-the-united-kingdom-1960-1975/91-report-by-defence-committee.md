@@ -3,10 +3,6 @@ doc_date: '1968-01-24'
 doc_num: 91
 doc_order: 91
 naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[sic: insurance]'
 - naa_barcode: 1014673
   naa_control_symbol: VOLUME 1
   naa_series: A5867

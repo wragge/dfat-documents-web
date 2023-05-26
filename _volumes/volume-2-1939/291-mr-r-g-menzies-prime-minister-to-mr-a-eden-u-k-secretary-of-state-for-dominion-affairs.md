@@ -2,12 +2,7 @@
 doc_date: '1939-10-13'
 doc_num: 291
 doc_order: 291
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DEFENCE: SPECIAL COLLECTION 1, SR 1/1, BOX 384, DELEGATION TO LONDON
-    1939]'
+naa_refs: []
 title: Mr R.G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of State for
   Dominion Affairs
 vol_full_title: 'Volume 2: 1939'

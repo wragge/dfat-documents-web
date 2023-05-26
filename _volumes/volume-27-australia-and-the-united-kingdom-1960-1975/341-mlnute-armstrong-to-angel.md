@@ -2,11 +2,7 @@
 doc_date: '1972-11-16'
 doc_num: 341
 doc_order: 341
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/1315]'
+naa_refs: []
 title: MlNUTE, ARMSTRONG TO ANGEL
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

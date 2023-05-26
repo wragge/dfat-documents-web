@@ -2,11 +2,7 @@
 doc_date: '1949-08-03'
 doc_num: 236
 doc_order: 236
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Department of External Affairs to Australian Delegation, Economic and Social
   Council
 vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'

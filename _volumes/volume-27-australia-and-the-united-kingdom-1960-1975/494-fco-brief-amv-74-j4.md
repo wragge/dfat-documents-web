@@ -2,11 +2,7 @@
 doc_date: '1974-12-12'
 doc_num: 494
 doc_order: 494
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/1933]'
+naa_refs: []
 title: FCO BRIEF AMV(74)J4.
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

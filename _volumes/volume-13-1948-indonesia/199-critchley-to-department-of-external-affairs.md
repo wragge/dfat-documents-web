@@ -2,11 +2,7 @@
 doc_date: '1948-06-30'
 doc_num: 199
 doc_order: 199
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU:EVATT COLLECTION, CABLES-BATAVIA-1946-49]'
+naa_refs: []
 title: Critchley to Department of External Affairs
 vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13

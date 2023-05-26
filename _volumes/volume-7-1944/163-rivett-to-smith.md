@@ -2,11 +2,7 @@
 doc_date: '1944-05-23'
 doc_num: 163
 doc_order: 163
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 3]'
+naa_refs: []
 title: Rivett to Smith
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

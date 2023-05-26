@@ -2,11 +2,7 @@
 doc_date: '1938-09-15'
 doc_num: 256
 doc_order: 255
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO : DO 35/554]'
+naa_refs: []
 title: Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies, of Conversation
   with Mr S. M. Bruce, High Commissioner in London
 vol_full_title: 'Volume 1: 1937–1938'

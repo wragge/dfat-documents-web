@@ -2,12 +2,7 @@
 doc_date: '1942-03-17'
 doc_num: 415
 doc_order: 416
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, PAPERS ON 1942 OVERSEAS
-    MISSION, DR EVATTPERSONAL]'
+naa_refs: []
 title: Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the United States
 vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5

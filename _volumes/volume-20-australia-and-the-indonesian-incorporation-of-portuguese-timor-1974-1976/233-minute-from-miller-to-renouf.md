@@ -7,10 +7,6 @@ naa_refs:
   naa_control_symbol: 3038/10/1 PART 31
   naa_series: A1838
   reference: '[NAA: Al838, 3038/1011, xxxi]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[On file NAA: A7824, 113/9, i.]'
 title: Minute from Miller to Renouf
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

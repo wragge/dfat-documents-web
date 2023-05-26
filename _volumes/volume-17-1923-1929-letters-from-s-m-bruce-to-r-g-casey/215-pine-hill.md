@@ -2,11 +2,7 @@
 doc_date: '1929-11-18'
 doc_num: 215
 doc_order: 215
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Monday, 18th November 1929 215 'Pine Hill'
 vol_full_title: 'Volume 17: My Dear P.M. – R.G. Casey’s Letters to S.M. Bruce, 1924–1929'
 vol_id: 17

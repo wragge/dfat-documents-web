@@ -2,11 +2,7 @@
 doc_date: '1939-07-11'
 doc_num: 118
 doc_order: 118
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: CAB 21/893]'
+naa_refs: []
 title: Record of Meeting held at Dominions Office
 vol_full_title: 'Volume 2: 1939'
 vol_id: 2

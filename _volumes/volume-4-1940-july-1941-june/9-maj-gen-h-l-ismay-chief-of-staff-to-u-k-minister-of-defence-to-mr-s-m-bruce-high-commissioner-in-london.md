@@ -2,11 +2,7 @@
 doc_date: '1940-07-04'
 doc_num: 9
 doc_order: 9
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: CAB 21/893]'
+naa_refs: []
 title: Maj Gen H. L. Ismay, Chief of Staff to U.K. Minister of Defence, to Mr S. M.
   Bruce, High Commissioner in London
 vol_full_title: 'Volume 4: July 1940 – June 1941'

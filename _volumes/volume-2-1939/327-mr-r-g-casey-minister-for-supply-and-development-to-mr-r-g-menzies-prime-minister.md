@@ -2,12 +2,7 @@
 doc_date: '1939-11-05'
 doc_num: 327
 doc_order: 327
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DEFENCE: SPECIAL COLLECTION 1, SR I/I, BOX 384, STRATEGICAL APPRECIATION
-    BY U.K. CHIEFS OF STAFF]'
+naa_refs: []
 title: Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime
   Minister
 vol_full_title: 'Volume 2: 1939'

@@ -2,11 +2,7 @@
 doc_date: '1949-02-02'
 doc_num: 182
 doc_order: 182
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA : IN. MASTERSHEETS (TS) 1948-49]'
+naa_refs: []
 title: Beasley to Evatt
 vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
   Sovereignty, 1949'

@@ -2,11 +2,7 @@
 doc_date: '1981-09-15'
 doc_num: 227
 doc_order: 227
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Telegram from Ministry of Foreign Affairs to New Zealand High Commission in
   Canberra
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic

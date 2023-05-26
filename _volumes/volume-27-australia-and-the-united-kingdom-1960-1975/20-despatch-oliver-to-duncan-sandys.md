@@ -2,11 +2,7 @@
 doc_date: '1963-03-19'
 doc_num: 20
 doc_order: 20
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 164/39]'
+naa_refs: []
 title: DESPATCH, OLIVER TO DUNCAN SANDYS
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

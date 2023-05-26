@@ -2,11 +2,7 @@
 doc_date: '1973-05-08'
 doc_num: 462
 doc_order: 462
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 15/1299]'
+naa_refs: []
 title: RECORD BY HEATH OF A MEETING WITH WHITLAM ON 24 APRIL
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

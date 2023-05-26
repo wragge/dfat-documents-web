@@ -2,11 +2,7 @@
 doc_date: '1950-09-14'
 doc_num: 98
 doc_order: 98
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Notes on Conversation at the State Department
 vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
 vol_id: 24

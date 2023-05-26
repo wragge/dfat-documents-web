@@ -2,11 +2,7 @@
 doc_date: '1975-01-24'
 doc_num: 501
 doc_order: 501
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/2075]'
+naa_refs: []
 title: LETTER, DALES TO WRIGHT
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

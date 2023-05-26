@@ -2,11 +2,7 @@
 doc_date: '1964-11-25'
 doc_num: 227
 doc_order: 227
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Cablegram from Hasluck to Canberra
 vol_full_title: 'Volume 25: Australia and the Formation of Malaysia, 1961–1966'
 vol_id: 25

@@ -2,12 +2,7 @@
 doc_date: '1942-02-22'
 doc_num: 359
 doc_order: 360
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL''S DEPT
-    FILE MI, MINISTERPERSONAL TELEGRAMS]'
+naa_refs: []
 title: Dr H. V. Evatt, Minister for External Affairs, to Mr J. M. McMillan, Third
   Secretary of the Legation in Washington
 vol_full_title: 'Volume 5: July 1941 – June 1942'

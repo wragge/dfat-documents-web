@@ -2,11 +2,7 @@
 doc_date: '1947-10-16'
 doc_num: 560
 doc_order: 560
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, SOUTH PACIFIC COMMISSION]'
+naa_refs: []
 title: Evatt to Marshall
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'
 vol_id: 12

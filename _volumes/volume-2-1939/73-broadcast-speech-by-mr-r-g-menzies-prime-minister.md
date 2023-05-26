@@ -2,11 +2,7 @@
 doc_date: '1939-04-26'
 doc_num: 73
 doc_order: 73
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Broadcast Speech by Mr R.G. Menzies, Prime Minister
 vol_full_title: 'Volume 2: 1939'
 vol_id: 2

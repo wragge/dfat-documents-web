@@ -2,11 +2,7 @@
 doc_date: '1947-08-17'
 doc_num: 136
 doc_order: 136
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Australian Delegation, Geneva, to Cabinet Sub-Committee on Trade and Employment
   Conference
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'

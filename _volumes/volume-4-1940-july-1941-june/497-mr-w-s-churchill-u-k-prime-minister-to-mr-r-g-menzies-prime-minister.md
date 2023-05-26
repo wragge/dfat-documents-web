@@ -2,11 +2,7 @@
 doc_date: '1941-06-11'
 doc_num: 497
 doc_order: 497
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: DO 35/1009, ii]'
+naa_refs: []
 title: Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister
 vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4

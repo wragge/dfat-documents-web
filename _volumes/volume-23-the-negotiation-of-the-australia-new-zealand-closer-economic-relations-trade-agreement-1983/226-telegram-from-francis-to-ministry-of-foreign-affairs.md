@@ -2,11 +2,7 @@
 doc_date: '1981-08-06'
 doc_num: 226
 doc_order: 226
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Telegram from Francis to Ministry of Foreign Affairs
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

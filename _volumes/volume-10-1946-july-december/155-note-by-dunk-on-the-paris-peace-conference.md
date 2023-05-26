@@ -2,11 +2,7 @@
 doc_date: '1946-10-05'
 doc_num: 155
 doc_order: 155
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU:EVATT COLLECTION-WAR-PARIS PLACE CONFERENCE-1945-1946]'
+naa_refs: []
 title: Note by Dunk on the Paris Peace Conference
 vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10

@@ -2,11 +2,7 @@
 doc_date: '1971-10-13'
 doc_num: 271
 doc_order: 271
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DFAT: CHINA PAPERS]'
+naa_refs: []
 title: RECORD OF CONVERSATION BETWEEN WALLER AND KIBEL
 vol_full_title: 'Volume 22: Australia and Recognition of the People’s Republic of
   China, 1949–1972'

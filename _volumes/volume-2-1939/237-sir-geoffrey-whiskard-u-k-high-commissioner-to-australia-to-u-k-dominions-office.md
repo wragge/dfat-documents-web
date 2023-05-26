@@ -2,11 +2,7 @@
 doc_date: '1939-09-20'
 doc_num: 237
 doc_order: 237
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: CAB 21/874]'
+naa_refs: []
 title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
   Office
 vol_full_title: 'Volume 2: 1939'

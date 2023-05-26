@@ -2,11 +2,7 @@
 doc_date: '1973-06-12'
 doc_num: 466
 doc_order: 466
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 15/1301]'
+naa_refs: []
 title: FOREIGN AND COMMONWEALTH OFFICE RECORD OF MEETING WITH AUSTRALIAN STATE PREMIERS
   AND MINJSTERS
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'

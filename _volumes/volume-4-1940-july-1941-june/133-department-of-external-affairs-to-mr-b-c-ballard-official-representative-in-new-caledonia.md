@@ -7,12 +7,6 @@ naa_refs:
   naa_control_symbol: NEW C 1 PART 4
   naa_series: A981
   reference: '[AA:A981, NEW CALEDONIA 1, iv]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[This document has been corrected from a slightly revised version contained
-    in teleprinter message 1918 of 23 September on file AA:A981, New Caledonia 1,
-    iv.]'
 title: Department of External Affairs to Mr B. C. Ballard, Official Representative
   in New Caledonia
 vol_full_title: 'Volume 4: July 1940 – June 1941'

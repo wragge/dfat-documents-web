@@ -2,12 +2,7 @@
 doc_date: '1943-07-13'
 doc_num: 244
 doc_order: 244
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FRANKLIN D. ROOSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT''S SECRETARY''S
-    FILE, BOX 19, CONFIDENTIAL FILE LEND LEASE]'
+naa_refs: []
 title: Evatt to Roosevelt
 vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6

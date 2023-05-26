@@ -2,11 +2,7 @@
 doc_date: '1972-10-30'
 doc_num: 409
 doc_order: 409
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/1369]'
+naa_refs: []
 title: LETTER HEATH TO MCMAHON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

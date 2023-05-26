@@ -2,11 +2,7 @@
 doc_date: '1938-03-14'
 doc_num: 136
 doc_order: 135
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[ANL : PAGE 759]'
+naa_refs: []
 title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A.
   Lyons, Prime Minister
 vol_full_title: 'Volume 1: 1937–1938'

@@ -2,11 +2,7 @@
 doc_date: '1972-11-14'
 doc_num: 339
 doc_order: 339
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 68/442]'
+naa_refs: []
 title: MINUTE BY BOOKER
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

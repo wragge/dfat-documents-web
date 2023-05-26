@@ -2,11 +2,7 @@
 doc_date: '1981-03-30'
 doc_num: 165
 doc_order: 165
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: File Note by Price
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

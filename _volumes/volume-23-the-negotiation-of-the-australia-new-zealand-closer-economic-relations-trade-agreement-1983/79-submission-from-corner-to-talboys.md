@@ -2,11 +2,7 @@
 doc_date: '1980-01-18'
 doc_num: 79
 doc_order: 79
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Submission from Corner to Talboys
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

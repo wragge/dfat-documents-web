@@ -2,11 +2,7 @@
 doc_date: '1961-06-18'
 doc_num: 136
 doc_order: 136
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: CAB 134/1821]'
+naa_refs: []
 title: MINUTE, AD HOC CABINET MEETING
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

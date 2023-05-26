@@ -2,11 +2,7 @@
 doc_date: '1970-08-04'
 doc_num: 105
 doc_order: 105
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/654]'
+naa_refs: []
 title: DESPATCH, JOHNSTON TO DOUGLAS-HOME
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

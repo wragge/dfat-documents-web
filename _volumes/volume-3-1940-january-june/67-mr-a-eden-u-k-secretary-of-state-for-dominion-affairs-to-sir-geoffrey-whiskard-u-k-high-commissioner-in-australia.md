@@ -2,11 +2,7 @@
 doc_date: '1940-02-17'
 doc_num: 67
 doc_order: 67
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: DO 35/1089]'
+naa_refs: []
 title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard,
   U.K. High Commissioner in Australia
 vol_full_title: 'Volume 3: January–June 1940'

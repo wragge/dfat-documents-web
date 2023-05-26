@@ -7,10 +7,6 @@ naa_refs:
   naa_control_symbol: 801/13/11/1 PART 2
   naa_series: A10463
   reference: '[NAA: Al0463, 801/13/1111, ii]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[copy on file NAA: A1838, 49/21111, iv]'
 title: Minute from Arriens to Furlonger
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

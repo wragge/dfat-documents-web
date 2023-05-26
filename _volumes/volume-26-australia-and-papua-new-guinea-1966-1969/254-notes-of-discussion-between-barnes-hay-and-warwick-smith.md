@@ -7,14 +7,6 @@ naa_refs:
   naa_control_symbol: 1969/222
   naa_series: A452
   reference: '[NAA: A452, 1969/222]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[Journalist:]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[Barnes:]'
 title: Notes Of Discussion Between Barnes, Hay And Warwick Smith
 vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26

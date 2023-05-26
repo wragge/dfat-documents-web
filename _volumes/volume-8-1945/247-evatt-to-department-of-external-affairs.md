@@ -2,11 +2,7 @@
 doc_date: '1945-09-14'
 doc_num: 247
 doc_order: 247
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, EVATT-OVERSEAS TRIPS-1945-CABLES-LONDON]'
+naa_refs: []
 title: Evatt to Department of External Affairs
 vol_full_title: 'Volume 8: 1945'
 vol_id: 8

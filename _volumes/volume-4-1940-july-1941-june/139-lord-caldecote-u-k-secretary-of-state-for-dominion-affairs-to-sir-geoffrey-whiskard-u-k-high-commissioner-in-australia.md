@@ -7,16 +7,6 @@ naa_refs:
   naa_control_symbol: ''
   naa_series: A3195
   reference: '[AA:A3195, 1940, 1.8347]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[On 22 September the U.K. Govt informed the Commonwealth Govt that because
-    of the strategic importance of French West Africa and the desirability of establishing
-    General de Gaulle, leader of the Free French movement, in French territory, it
-    had decided to send a combined British and Free French force (including the cruiser
-    H.M.A.S. Australia) to capture Dakar. It was believed that the operation could
-    be carried out without a serious clash with the Vichy French forces then occupying
-    the base. See cablegram Z251 on file AA:A 1608, F41/1/7.]'
 title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey
   Whiskard, U.K. High Commissioner in Australia
 vol_full_title: 'Volume 4: July 1940 – June 1941'

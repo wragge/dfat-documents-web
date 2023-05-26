@@ -2,11 +2,7 @@
 doc_date: '1967-06-26'
 doc_num: 236
 doc_order: 236
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 20/50]'
+naa_refs: []
 title: TELEGRAM, CANBERRA TO COMMONWEALTH OFFICE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

@@ -2,11 +2,7 @@
 doc_date: '1971-04-22'
 doc_num: 277
 doc_order: 277
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 30/1055]'
+naa_refs: []
 title: CABLEGRAM, O’NEILL TO FOREIGN AND COMMONWEALTH OFFICE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

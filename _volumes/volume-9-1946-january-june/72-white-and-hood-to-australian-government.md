@@ -2,12 +2,7 @@
 doc_date: '1946-02-07'
 doc_num: 72
 doc_order: 72
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. REPORT NO.
-    2-10,1946]'
+naa_refs: []
 title: White and Hood to Australian Government
 vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9

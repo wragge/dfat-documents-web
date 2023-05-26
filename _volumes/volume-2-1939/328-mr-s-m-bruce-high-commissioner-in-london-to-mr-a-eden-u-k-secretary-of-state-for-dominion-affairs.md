@@ -2,11 +2,7 @@
 doc_date: '1939-11-06'
 doc_num: 328
 doc_order: 328
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: FO 372/3319]'
+naa_refs: []
 title: Mr S.M. Bruce, High Commissioner in London, to Mr A. Eden, U.K. Secretary of
   State for Dominion Affairs
 vol_full_title: 'Volume 2: 1939'

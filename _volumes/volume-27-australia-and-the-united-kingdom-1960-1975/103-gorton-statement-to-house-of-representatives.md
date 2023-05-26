@@ -2,11 +2,7 @@
 doc_date: '1969-02-25'
 doc_num: 103
 doc_order: 103
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 13/2494]'
+naa_refs: []
 title: GORTON, STATEMENT TO HOUSE OF REPRESENTATIVES
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

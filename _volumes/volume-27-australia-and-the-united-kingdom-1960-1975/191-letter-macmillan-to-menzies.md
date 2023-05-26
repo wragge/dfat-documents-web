@@ -2,11 +2,7 @@
 doc_date: '1962-07-20'
 doc_num: 191
 doc_order: 191
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 11/4017]'
+naa_refs: []
 title: LETTER, MACMILLAN TO MENZIES
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

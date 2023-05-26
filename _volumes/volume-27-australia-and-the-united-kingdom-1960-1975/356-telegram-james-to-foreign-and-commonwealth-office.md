@@ -2,11 +2,7 @@
 doc_date: '1972-11-27'
 doc_num: 356
 doc_order: 356
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FC0 24/1316]'
+naa_refs: []
 title: TELEGRAM, JAMES TO FOREIGN AND COMMONWEALTH OFFICE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

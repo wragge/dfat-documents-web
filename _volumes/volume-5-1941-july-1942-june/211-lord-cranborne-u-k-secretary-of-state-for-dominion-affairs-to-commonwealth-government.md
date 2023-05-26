@@ -2,11 +2,7 @@
 doc_date: '1941-12-21'
 doc_num: 211
 doc_order: 212
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO:FO 371/28059]'
+naa_refs: []
 title: Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth
   Government
 vol_full_title: 'Volume 5: July 1941 – June 1942'

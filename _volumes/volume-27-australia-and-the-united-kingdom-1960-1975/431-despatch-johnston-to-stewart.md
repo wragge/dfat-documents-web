@@ -2,11 +2,7 @@
 doc_date: '1970-05-13'
 doc_num: 431
 doc_order: 431
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/715]'
+naa_refs: []
 title: DESPATCH JOHNSTON TO STEWART
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

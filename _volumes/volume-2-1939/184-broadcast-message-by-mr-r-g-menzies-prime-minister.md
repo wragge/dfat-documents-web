@@ -2,11 +2,7 @@
 doc_date: '1939-09-02'
 doc_num: 184
 doc_order: 184
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Broadcast Message by Mr R.G. Menzies, Prime Minister
 vol_full_title: 'Volume 2: 1939'
 vol_id: 2

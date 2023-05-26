@@ -2,11 +2,7 @@
 doc_date: '1974-10-25'
 doc_num: 488
 doc_order: 488
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/1933]'
+naa_refs: []
 title: LETTER, CHARTERIS TO ACLAND
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

@@ -2,11 +2,7 @@
 doc_date: '1957-08-01'
 doc_num: 229
 doc_order: 229
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA : MENZIES PAPERS MS4936/21/439, FOLDER 16]'
+naa_refs: []
 title: Letter From Associated Chambers Of Manufactures To Menzies
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19

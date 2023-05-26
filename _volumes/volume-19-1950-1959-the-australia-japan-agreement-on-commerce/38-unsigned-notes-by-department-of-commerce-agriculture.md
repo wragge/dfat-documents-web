@@ -2,11 +2,7 @@
 doc_date: '1953-08-04'
 doc_num: 38
 doc_order: 38
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA : CRAWFORD PAPERS MS4514/6/18, GATT GENERAL]'
+naa_refs: []
 title: Unsigned Notes By Department Of Commerce & Agriculture
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19

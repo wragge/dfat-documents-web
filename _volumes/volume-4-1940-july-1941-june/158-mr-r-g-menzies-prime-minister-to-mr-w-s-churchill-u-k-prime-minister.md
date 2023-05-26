@@ -2,11 +2,7 @@
 doc_date: '1940-10-04'
 doc_num: 158
 doc_order: 158
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: DO 114/113]'
+naa_refs: []
 title: Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
 vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4

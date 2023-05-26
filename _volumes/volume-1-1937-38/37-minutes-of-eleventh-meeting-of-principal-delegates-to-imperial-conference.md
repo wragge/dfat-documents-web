@@ -2,11 +2,7 @@
 doc_date: '1937-06-02'
 doc_num: 37
 doc_order: 37
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+naa_refs: []
 title: Minutes of Eleventh Meeting of Principal Delegates to Imperial Conference
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1

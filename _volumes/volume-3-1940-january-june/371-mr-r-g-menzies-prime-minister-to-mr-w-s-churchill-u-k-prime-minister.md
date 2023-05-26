@@ -2,11 +2,7 @@
 doc_date: '1940-06-13'
 doc_num: 371
 doc_order: 371
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: DO 35/998]'
+naa_refs: []
 title: Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister
 vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3

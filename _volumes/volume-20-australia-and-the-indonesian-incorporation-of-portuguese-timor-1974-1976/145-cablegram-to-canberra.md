@@ -3,10 +3,6 @@ doc_date: '1975-06-13'
 doc_num: 145
 doc_order: 145
 naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UNGA: A/AC.l09/493, 26 June 1975.]'
 - naa_barcode: 4151601
   naa_control_symbol: 801/13/11/1 PART 9
   naa_series: A10463

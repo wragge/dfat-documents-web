@@ -2,11 +2,7 @@
 doc_date: '1961-07-11'
 doc_num: 150
 doc_order: 150
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 11/3558]'
+naa_refs: []
 title: COMMUNIQUE, MEETING BETWEEN SANDYS AND AUSTRALIAN CABINET
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

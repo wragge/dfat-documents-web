@@ -2,11 +2,7 @@
 doc_date: '1961-08-10'
 doc_num: 97
 doc_order: 97
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: CABLEGRAM TO WASHINGTON
 vol_full_title: 'Volume 22: Australia and Recognition of the People’s Republic of
   China, 1949–1972'

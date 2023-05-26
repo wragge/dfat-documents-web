@@ -2,11 +2,7 @@
 doc_date: '1940-10-17'
 doc_num: 176
 doc_order: 176
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:A671, 217/1940]'
+naa_refs: []
 title: War Cabinet Minute
 vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4

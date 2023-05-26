@@ -2,11 +2,7 @@
 doc_date: '1970-09-16'
 doc_num: 272
 doc_order: 272
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 30/804]'
+naa_refs: []
 title: RECORD OF CONVERSATION BETWEEN RIPPON AND ANTHONY
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

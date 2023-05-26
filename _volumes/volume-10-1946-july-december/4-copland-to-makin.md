@@ -2,11 +2,7 @@
 doc_date: '1946-07-01'
 doc_num: 4
 doc_order: 4
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (C)]'
+naa_refs: []
 title: Copland to Makin
 vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10

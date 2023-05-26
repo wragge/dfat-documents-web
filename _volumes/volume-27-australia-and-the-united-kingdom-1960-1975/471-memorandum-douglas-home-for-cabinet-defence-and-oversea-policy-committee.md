@@ -2,11 +2,7 @@
 doc_date: '1973-07-16'
 doc_num: 471
 doc_order: 471
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: CAB 148/131]'
+naa_refs: []
 title: MEMORANDUM DOUGLAS-HOME FOR CABINET DEFENCE AND OVERSEA POLICY COMMITTEE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

@@ -2,11 +2,7 @@
 doc_date: '1944-05-17'
 doc_num: 154
 doc_order: 154
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 3]'
+naa_refs: []
 title: Curtin to Forde
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

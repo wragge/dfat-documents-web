@@ -2,11 +2,7 @@
 doc_date: '1962-04-13'
 doc_num: 175
 doc_order: 175
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 159/58]'
+naa_refs: []
 title: RECORD OF MEETING BETWEEN MCEWEN, WESTERMAN, HEATH, SANDYS AND SOAMES
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

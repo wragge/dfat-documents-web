@@ -2,11 +2,7 @@
 doc_date: '1947-07-25'
 doc_num: 155
 doc_order: 155
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, CABLES-LONDON-1947-48]'
+naa_refs: []
 title: Australian Government to Addison [1]
 vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11

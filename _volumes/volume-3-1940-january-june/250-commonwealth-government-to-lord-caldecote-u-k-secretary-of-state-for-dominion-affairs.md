@@ -2,11 +2,7 @@
 doc_date: '1940-05-17'
 doc_num: 250
 doc_order: 250
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[ANL: MS 1538, SERIES 45, SUBSERIES 3]'
+naa_refs: []
 title: Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion
   Affairs
 vol_full_title: 'Volume 3: January–June 1940'

@@ -2,12 +2,7 @@
 doc_date: '1942-02-17'
 doc_num: 339
 doc_order: 340
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, ATTORNEY-GENERAL''S DEPT
-    FILE MI, MINISTERPERSONAL TELEGRAMS]'
+naa_refs: []
 title: Mr A. T. Stirling, External Affairs Officer in London, to Dr H. V. Evatt, Minister
   for External Affairs
 vol_full_title: 'Volume 5: July 1941 – June 1942'

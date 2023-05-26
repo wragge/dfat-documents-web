@@ -2,11 +2,7 @@
 doc_date: '1939-05-10'
 doc_num: 83
 doc_order: 83
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: DO 114/98]'
+naa_refs: []
 title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions
   Office
 vol_full_title: 'Volume 2: 1939'

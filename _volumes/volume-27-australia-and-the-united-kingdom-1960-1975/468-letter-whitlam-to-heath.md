@@ -2,11 +2,7 @@
 doc_date: '1973-06-20'
 doc_num: 468
 doc_order: 468
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 15/1300]'
+naa_refs: []
 title: LETTER WHITLAM TO HEATH
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

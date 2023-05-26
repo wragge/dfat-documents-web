@@ -2,22 +2,7 @@
 doc_date: '1980-12-15'
 doc_num: 137
 doc_order: 137
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[Footnote to original text reads: ''The CAl surveyed its members who
-    had subsidiaries operating in New Zealand. It discovered that, on average, the
-    cost to these companies of employing labour in comparable activities in New Zealand
-    was less than half (47%) the cost in Australia. This huge discrepancy was accounted
-    for by lower wage costs in New Zealand and much higher "on-costs" in Australia
-    (eg the generous holiday loadings).'']'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[Footnote to original text reads: These issues were discussed in some
-    detail in the 1979 NZIER study ''Administrative Options for Closer Economic Relations
-    between Australia and New Zealand''.]'
+naa_refs: []
 title: Submission from Norrish to Talboys
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

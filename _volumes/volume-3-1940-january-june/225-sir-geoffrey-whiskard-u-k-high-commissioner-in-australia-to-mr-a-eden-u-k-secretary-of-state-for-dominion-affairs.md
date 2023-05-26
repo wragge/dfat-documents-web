@@ -2,11 +2,7 @@
 doc_date: '1940-05-10'
 doc_num: 225
 doc_order: 225
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: CAB 21/873]'
+naa_refs: []
 title: Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr A. Eden,
   U.K. Secretary of State for Dominion Affairs
 vol_full_title: 'Volume 3: January–June 1940'

@@ -2,12 +2,7 @@
 doc_date: '1946-12-10'
 doc_num: 304
 doc_order: 304
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. MISC. FILES,
-    AMM24B]'
+naa_refs: []
 title: Department of External Affairs to Hood
 vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10

@@ -2,11 +2,7 @@
 doc_date: '1974-05-23'
 doc_num: 480
 doc_order: 480
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 57/599]'
+naa_refs: []
 title: NOTE FOR RECORD BY JAMES
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

@@ -2,11 +2,7 @@
 doc_date: '1947-03-31'
 doc_num: 152
 doc_order: 152
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA : AA1968/391/1, 96]'
+naa_refs: []
 title: Coombs to Chifley
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'
 vol_id: 12

@@ -2,11 +2,7 @@
 doc_date: '1972-02-29'
 doc_num: 331
 doc_order: 331
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA:FC0 24/1312]'
+naa_refs: []
 title: MINUTE, STORAR TO DOWNING
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

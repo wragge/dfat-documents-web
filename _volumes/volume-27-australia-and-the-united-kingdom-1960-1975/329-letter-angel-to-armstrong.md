@@ -2,11 +2,7 @@
 doc_date: '1971-02-18'
 doc_num: 329
 doc_order: 329
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 15/442]'
+naa_refs: []
 title: LETTER, ANGEL TO ARMSTRONG
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

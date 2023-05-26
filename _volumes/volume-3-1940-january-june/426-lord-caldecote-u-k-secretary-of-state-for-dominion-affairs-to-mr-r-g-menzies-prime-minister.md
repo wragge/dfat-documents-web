@@ -2,11 +2,7 @@
 doc_date: '1940-06-23'
 doc_num: 426
 doc_order: 426
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: FO 371/25218]'
+naa_refs: []
 title: Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies,
   Prime Minister
 vol_full_title: 'Volume 3: January–June 1940'

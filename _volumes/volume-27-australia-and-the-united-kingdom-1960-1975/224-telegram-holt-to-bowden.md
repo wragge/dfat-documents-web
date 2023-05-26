@@ -2,11 +2,7 @@
 doc_date: '1967-03-03'
 doc_num: 224
 doc_order: 224
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FO 24/5]'
+naa_refs: []
 title: TELEGRAM, HOLT TO BOWDEN
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

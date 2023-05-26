@@ -2,11 +2,7 @@
 doc_date: '1970-10-15'
 doc_num: 140
 doc_order: 140
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DFAT: WALLER PAPERS]'
+naa_refs: []
 title: LETTER FROM RENOUF TO WALLER
 vol_full_title: 'Volume 22: Australia and Recognition of the People’s Republic of
   China, 1949–1972'

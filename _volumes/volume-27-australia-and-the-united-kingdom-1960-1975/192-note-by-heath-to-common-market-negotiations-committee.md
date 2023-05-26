@@ -2,11 +2,7 @@
 doc_date: '1962-07-20'
 doc_num: 192
 doc_order: 192
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: CAB 134/1515]'
+naa_refs: []
 title: NOTE BY HEATH TO COMMON MARKET NEGOTIATIONS COMMITTEE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

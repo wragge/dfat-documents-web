@@ -2,11 +2,7 @@
 doc_date: '1978-04-01'
 doc_num: 12
 doc_order: 12
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Submission to Cabinet Economic Committee
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

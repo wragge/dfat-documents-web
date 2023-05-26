@@ -2,11 +2,7 @@
 doc_date: '1937-06-09'
 doc_num: 42
 doc_order: 42
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 198]'
+naa_refs: []
 title: Report by Chiefs of Staff Sub-committee of Committee of Imperial Defence on
   Questions raised by Australian Delegation to Imperial Conference
 vol_full_title: 'Volume 1: 1937–1938'

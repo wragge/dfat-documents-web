@@ -2,11 +2,7 @@
 doc_date: '1971-02-09'
 doc_num: 432
 doc_order: 432
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/1047]'
+naa_refs: []
 title: LETTER JOHNSTON TO TOMLINSON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

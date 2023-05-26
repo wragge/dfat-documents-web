@@ -2,12 +2,7 @@
 doc_date: '1945-10-26'
 doc_num: 345
 doc_order: 345
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, UNITED NATIONS-AUSTRALIAN LEGATION, WASHINGTON-CABLES-OCTOBER-NOVEMBER
-    1945]'
+naa_refs: []
 title: Hasluck to Evatt
 vol_full_title: 'Volume 8: 1945'
 vol_id: 8

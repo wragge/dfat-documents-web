@@ -2,11 +2,7 @@
 doc_date: '1949-02-28'
 doc_num: 68
 doc_order: 68
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, CABLES-NEW DELHI-1945-49]'
+naa_refs: []
 title: Evatt to Chifley
 vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
   and the Pacific, 1948–1949'

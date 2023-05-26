@@ -7,10 +7,6 @@ naa_refs:
   naa_control_symbol: '3'
   naa_series: A3300
   reference: '[AA:AA 1975/223, 1939, PAR EAST POLICY (U.S.) JAPAN AND CHINA [2]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO:PO 371/23461]'
 title: Mr S.M. Bruce, High Commissioner in London, to Mr R.A. Butler, U.K. Parliamentary
   Under-Secretary of State for Foreign Affairs
 vol_full_title: 'Volume 2: 1939'

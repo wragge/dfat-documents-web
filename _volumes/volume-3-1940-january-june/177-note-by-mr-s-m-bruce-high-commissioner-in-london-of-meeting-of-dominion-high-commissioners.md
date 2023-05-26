@@ -3,22 +3,6 @@ doc_date: '1940-04-26'
 doc_num: 177
 doc_order: 177
 naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[On 18 April Bruce reported the landing in Norway of substantial numbers
-    of Allied troops in an attempt to counter the German invasion (see cablegram 255
-    on file AA: A981, Europe 30, ii). It quickly became apparent that the Allies would
-    find it difficult to dislodge the Germans, but at meetings on 22 and 23 April
-    the Supreme War Council nevertheless decided that ''to deprive Germany of iron
-    ore supplied from Sweden should be a main objective of Allied policy, and having
-    regard to the effect which an Allied success in Scandinavia would have on world
-    opinion, the campaign in Norway should be prosecuted with the utmost vigour''.
-    (See cablegram Z60 from U.K. Dominions Secretary to U.K. High Commissioner in
-    Australia, 25 April 1940, on file AA: A1608, I41/1/2.) Narvik as the winter port
-    for the export of Swedish iron ore and Trondheim as the key to control of central
-    Norway and a base for future operations in southern Norway were seen as the two
-    areas the Allies needed to recapture.]'
 - naa_barcode: 242419
   naa_control_symbol: APRIL 1940
   naa_series: M100

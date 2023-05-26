@@ -2,11 +2,7 @@
 doc_date: '1970-09-10'
 doc_num: 269
 doc_order: 269
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 30/803]'
+naa_refs: []
 title: SPEECH BY RIPPON TO NATIONAL PRESS CLUB
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

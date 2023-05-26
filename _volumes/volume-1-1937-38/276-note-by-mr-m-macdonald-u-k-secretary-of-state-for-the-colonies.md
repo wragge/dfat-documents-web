@@ -2,11 +2,7 @@
 doc_date: '1938-09-25'
 doc_num: 276
 doc_order: 275
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO : PREM 1/242]'
+naa_refs: []
 title: Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1

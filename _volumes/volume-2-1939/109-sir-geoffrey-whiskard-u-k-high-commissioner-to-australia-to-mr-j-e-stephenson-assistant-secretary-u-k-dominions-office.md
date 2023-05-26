@@ -2,24 +2,7 @@
 doc_date: '1939-06-23'
 doc_num: 109
 doc_order: 109
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: FO 372/3319]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[On 6 June 1939, Stephenson wrote to Whiskard on the question of Menzies''s
-    view that if a Minister were accredited to Japan one should also be accredited
-    to China (Document 77). He said that the Foreign Office ''do not feel at all happy
-    at the possibility of separate Dominion representation in China in the peculiarly
-    difficult conditions which exist there'', and explained the Chinese attitude to
-    extraterritorial rights and their likely refusal to extend such rights to Australia.
-    Stephenson asked Whiskard to use his discretion in raising this question with
-    the Commonwealth Government, especially if there seemed to be any danger of a
-    precipitate decision or a premature announcement that a post would be established
-    in China. (See PRO: F0372/3319.)]'
+naa_refs: []
 title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr J.E. Stephenson,
   Assistant Secretary, U.K. Dominions Office
 vol_full_title: 'Volume 2: 1939'

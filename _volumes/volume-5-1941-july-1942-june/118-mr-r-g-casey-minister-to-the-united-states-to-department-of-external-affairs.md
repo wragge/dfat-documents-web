@@ -2,11 +2,7 @@
 doc_date: '1941-11-19'
 doc_num: 118
 doc_order: 119
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA : A3830, 1941, 3127 AND 3131]'
+naa_refs: []
 title: Mr R. G. Casey, Minister to the United States, to Department of External Affairs
 vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5

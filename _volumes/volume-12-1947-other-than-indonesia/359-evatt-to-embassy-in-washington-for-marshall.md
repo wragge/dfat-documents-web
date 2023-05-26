@@ -2,11 +2,7 @@
 doc_date: '1947-08-31'
 doc_num: 359
 doc_order: 359
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, EXTERNAL AFFAIRS ORIGINAL FILE(a)]'
+naa_refs: []
 title: Evatt to Embassy in Washington for Marshall
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'
 vol_id: 12

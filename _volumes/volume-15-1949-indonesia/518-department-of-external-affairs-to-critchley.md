@@ -2,11 +2,7 @@
 doc_date: '1949-10-24'
 doc_num: 518
 doc_order: 518
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA : OUTWARD ORIGINALS (TS) 1948-50]'
+naa_refs: []
 title: Department of External Affairs to Critchley
 vol_full_title: 'Volume 15: Australia & Indonesia’s Independence – The Transfer of
   Sovereignty, 1949'

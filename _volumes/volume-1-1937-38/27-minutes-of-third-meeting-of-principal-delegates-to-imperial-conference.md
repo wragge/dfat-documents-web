@@ -2,11 +2,7 @@
 doc_date: '1937-05-21'
 doc_num: 27
 doc_order: 27
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+naa_refs: []
 title: Minutes of Third Meeting of Principal Delegates to Imperial Conference
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1

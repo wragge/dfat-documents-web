@@ -2,11 +2,7 @@
 doc_date: '1968-05-16'
 doc_num: 256
 doc_order: 256
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: T 295/384]'
+naa_refs: []
 title: MINUTE, GOLDMAN TO HAY
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

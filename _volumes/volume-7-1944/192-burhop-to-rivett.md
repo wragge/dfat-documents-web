@@ -2,11 +2,7 @@
 doc_date: '1944-06-10'
 doc_num: 192
 doc_order: 192
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 5]'
+naa_refs: []
 title: Burhop to Rivett
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

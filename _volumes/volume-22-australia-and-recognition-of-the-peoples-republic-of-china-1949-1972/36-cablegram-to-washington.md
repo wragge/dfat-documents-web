@@ -2,11 +2,7 @@
 doc_date: '1953-02-10'
 doc_num: 36
 doc_order: 36
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NAA: AS461, 3/12, ii]'
+naa_refs: []
 title: CABLEGRAM TO WASHINGTON
 vol_full_title: 'Volume 22: Australia and Recognition of the People’s Republic of
   China, 1949–1972'

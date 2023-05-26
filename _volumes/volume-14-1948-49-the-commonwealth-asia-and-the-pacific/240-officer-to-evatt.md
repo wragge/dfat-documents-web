@@ -2,11 +2,7 @@
 doc_date: '1949-02-03'
 doc_num: 240
 doc_order: 240
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA: OUTWARD ORIGINAL (TS) 1948-50]'
+naa_refs: []
 title: Officer to Evatt
 vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
   and the Pacific, 1948–1949'

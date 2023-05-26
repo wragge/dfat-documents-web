@@ -2,11 +2,7 @@
 doc_date: '1957-06-18'
 doc_num: 213
 doc_order: 213
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DFAT : AUSTRALIAN TREATY COLLECTION]'
+naa_refs: []
 title: Confidential Exchange Of Letters Between Ushiba And Westerman
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19

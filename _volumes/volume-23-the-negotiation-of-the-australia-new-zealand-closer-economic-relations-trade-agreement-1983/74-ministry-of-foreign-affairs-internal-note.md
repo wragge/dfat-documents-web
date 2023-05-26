@@ -2,11 +2,7 @@
 doc_date: '1979-11-05'
 doc_num: 74
 doc_order: 74
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Ministry of Foreign Affairs Internal Note
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

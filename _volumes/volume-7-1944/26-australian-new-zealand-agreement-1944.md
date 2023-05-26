@@ -2,11 +2,7 @@
 doc_date: '1944-01-21'
 doc_num: 26
 doc_order: 26
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA:AUSTRALIAN TREATY COLLECTION]'
+naa_refs: []
 title: Australian - New Zealand Agreement 1944
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

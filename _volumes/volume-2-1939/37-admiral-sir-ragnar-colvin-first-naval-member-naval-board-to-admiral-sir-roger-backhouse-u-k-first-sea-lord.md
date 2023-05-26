@@ -2,11 +2,7 @@
 doc_date: '1939-03-14'
 doc_num: 37
 doc_order: 37
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO : ADM 1/9831]'
+naa_refs: []
 title: Admiral Sir Ragnar Colvin, First Naval Member, Naval Board, to Admiral Sir
   Roger Backhouse, U.K. First Sea Lord
 vol_full_title: 'Volume 2: 1939'

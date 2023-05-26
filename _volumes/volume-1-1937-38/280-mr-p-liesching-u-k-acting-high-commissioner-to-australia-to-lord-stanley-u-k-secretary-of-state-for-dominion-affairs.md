@@ -2,11 +2,7 @@
 doc_date: '1938-09-27'
 doc_num: 280
 doc_order: 279
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO : FO 371/21777]'
+naa_refs: []
 title: Mr P. Liesching, U.K, Acting High Commissioner to Australia, to Lord Stanley,
   U.K. Secretary of State for Dominion Affairs
 vol_full_title: 'Volume 1: 1937–1938'

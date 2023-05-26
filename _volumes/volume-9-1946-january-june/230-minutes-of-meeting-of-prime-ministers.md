@@ -2,11 +2,7 @@
 doc_date: '1946-05-03'
 doc_num: 230
 doc_order: 230
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO:CAB 133/86]'
+naa_refs: []
 title: Minutes of Meeting of Prime Ministers
 vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9

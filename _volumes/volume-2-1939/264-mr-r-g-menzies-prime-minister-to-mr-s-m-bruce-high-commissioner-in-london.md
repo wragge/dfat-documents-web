@@ -2,11 +2,7 @@
 doc_date: '1939-10-05'
 doc_num: 264
 doc_order: 264
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA: AP96]'
+naa_refs: []
 title: Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London
 vol_full_title: 'Volume 2: 1939'
 vol_id: 2

@@ -2,11 +2,7 @@
 doc_date: '1946-08-02'
 doc_num: 51
 doc_order: 51
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL VILE (b)]'
+naa_refs: []
 title: Hasluck to Evatt
 vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10

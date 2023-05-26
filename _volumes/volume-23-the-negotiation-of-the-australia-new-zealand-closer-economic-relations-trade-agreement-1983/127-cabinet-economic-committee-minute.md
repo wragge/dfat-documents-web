@@ -2,11 +2,7 @@
 doc_date: '1980-08-05'
 doc_num: 127
 doc_order: 127
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Cabinet Economic Committee Minute
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

@@ -2,11 +2,7 @@
 doc_date: '1962-01-25'
 doc_num: 11
 doc_order: 11
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DEFE 11/245]'
+naa_refs: []
 title: UK CHIEFS OF STAFF COMMITTEE MEMORANDUM
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

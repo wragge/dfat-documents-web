@@ -2,11 +2,7 @@
 doc_date: '1940-10-02'
 doc_num: 153
 doc_order: 153
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:A100, OCTOBER 1940]'
+naa_refs: []
 title: Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Mr
   W. S. Churchill, U.K. Prime Minister
 vol_full_title: 'Volume 4: July 1940 – June 1941'

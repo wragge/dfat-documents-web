@@ -2,11 +2,7 @@
 doc_date: '1949-03-10'
 doc_num: 367
 doc_order: 367
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA : INWARD MASTERSHEETS (TS) 1949-50]'
+naa_refs: []
 title: Makin to Chifley and Dedman
 vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16

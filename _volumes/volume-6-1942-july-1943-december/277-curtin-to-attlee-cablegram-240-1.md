@@ -2,12 +2,7 @@
 doc_date: '1943-09-14'
 doc_num: 277
 doc_order: 277
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PUBLIC ARCHIVES OF CANADA: MACKENZIE KING PAPERS, MG 26, J-1,VOLUME
-    339]'
+naa_refs: []
 title: Curtin to Attlee Cablegram 240 [1]
 vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6

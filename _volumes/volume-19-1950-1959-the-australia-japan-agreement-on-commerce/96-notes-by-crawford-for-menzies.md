@@ -2,12 +2,7 @@
 doc_date: '1955-02-06'
 doc_num: 96
 doc_order: 96
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA: CRAWFORD PAPERS, MS 4514/6/17,''GATT REVIEW 1954: CORRES./CABLES
-    TO MINISTERS'']'
+naa_refs: []
 title: Notes By Crawford For Menzies
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19

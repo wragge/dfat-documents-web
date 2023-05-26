@@ -2,11 +2,7 @@
 doc_date: '1939-06-24'
 doc_num: 111
 doc_order: 111
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: PREM 1/309]'
+naa_refs: []
 title: Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 vol_full_title: 'Volume 2: 1939'
 vol_id: 2

@@ -2,12 +2,7 @@
 doc_date: '1942-05-06'
 doc_num: 484
 doc_order: 485
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, CABLES TO AND FROM DR EVATT,
-    MARCH-MAY 1942]'
+naa_refs: []
 title: Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister
 vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5

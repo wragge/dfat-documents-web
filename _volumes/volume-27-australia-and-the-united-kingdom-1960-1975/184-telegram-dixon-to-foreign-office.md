@@ -2,11 +2,7 @@
 doc_date: '1962-06-14'
 doc_num: 184
 doc_order: 184
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 159/60]'
+naa_refs: []
 title: TELEGRAM, DIXON TO FOREIGN OFFICE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

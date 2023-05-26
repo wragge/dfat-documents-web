@@ -2,11 +2,7 @@
 doc_date: '1967-07-19'
 doc_num: 136
 doc_order: 136
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Cabinet Decision No. 417 (M)
 vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26

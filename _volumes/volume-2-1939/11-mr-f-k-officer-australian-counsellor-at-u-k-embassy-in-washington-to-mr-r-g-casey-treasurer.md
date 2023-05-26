@@ -7,13 +7,6 @@ naa_refs:
   naa_control_symbol: '1'
   naa_series: A3300
   reference: '[FA: AA1975/5, 1939, AUSTRALIA-REPRESENTATION (DIPL.) IN WASHINGTON]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[On 5 December 1938 Casey wrote a personal letter to Officer in which
-    he asked for Officer''s views on upgrading Australia''s representation in the
-    United States (ANL: Officer, MS 2629/1/631). The following extract is taken from
-    the reply.]'
 title: Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Mr
   R. G. Casey, Treasurer
 vol_full_title: 'Volume 2: 1939'

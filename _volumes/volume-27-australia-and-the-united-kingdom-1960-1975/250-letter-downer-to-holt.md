@@ -2,11 +2,7 @@
 doc_date: '1967-11-28'
 doc_num: 250
 doc_order: 250
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NAA:MI002, 290]'
+naa_refs: []
 title: LETTER, DOWNER TO HOLT
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

@@ -2,11 +2,7 @@
 doc_date: '1943-05-06'
 doc_num: 178
 doc_order: 178
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO:PREM 4/50/8]'
+naa_refs: []
 title: Evatt to Churchill
 vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6

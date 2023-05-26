@@ -2,11 +2,7 @@
 doc_date: '1966-07-01'
 doc_num: 218
 doc_order: 218
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: CAB 133/329]'
+naa_refs: []
 title: BRIEF BY COMMONWEALTH RELATIONS OFFICE ON HOLT VISIT TO LONDON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

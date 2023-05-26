@@ -2,11 +2,7 @@
 doc_date: '1937-06-08'
 doc_num: 38
 doc_order: 38
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+naa_refs: []
 title: Report for Imperial Conference of Technical Committee on Pacific Pact
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1

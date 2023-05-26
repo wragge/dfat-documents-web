@@ -2,11 +2,7 @@
 doc_date: 1972-11
 doc_num: 344
 doc_order: 344
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: No such series
-  naa_series: ''
-  reference: '[NAA: M1002, 284]'
+naa_refs: []
 title: TELEGRAM, SPOWERS TO THE QUEEN
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

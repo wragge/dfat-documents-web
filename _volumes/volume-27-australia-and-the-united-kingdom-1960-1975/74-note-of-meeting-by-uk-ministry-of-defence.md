@@ -2,11 +2,7 @@
 doc_date: '1967-06-14'
 doc_num: 74
 doc_order: 74
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 13/1323]'
+naa_refs: []
 title: NOTE OF MEETING BY UK MINISTRY OF DEFENCE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

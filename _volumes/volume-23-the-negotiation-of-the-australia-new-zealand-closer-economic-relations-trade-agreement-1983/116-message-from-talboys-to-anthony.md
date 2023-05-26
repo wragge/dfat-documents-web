@@ -2,11 +2,7 @@
 doc_date: '1980-04-02'
 doc_num: 116
 doc_order: 116
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Message from Talboys to Anthony
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

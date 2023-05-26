@@ -2,11 +2,7 @@
 doc_date: '1966-11-14'
 doc_num: 315
 doc_order: 315
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 175/163]'
+naa_refs: []
 title: DESPATCH, JOHNSTON TO COMMONWEALTH OFFICE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

@@ -2,11 +2,7 @@
 doc_date: '1974-12-10'
 doc_num: 492
 doc_order: 492
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 57/599]'
+naa_refs: []
 title: FCO BRlEF AMV(74)15
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

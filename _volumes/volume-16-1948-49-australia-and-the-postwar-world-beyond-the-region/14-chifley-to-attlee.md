@@ -2,11 +2,7 @@
 doc_date: '1948-01-10'
 doc_num: 14
 doc_order: 14
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO : FO371/68041]'
+naa_refs: []
 title: Chifley to Attlee
 vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16

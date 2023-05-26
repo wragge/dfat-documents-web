@@ -2,11 +2,7 @@
 doc_date: '1968-07-16'
 doc_num: 97
 doc_order: 97
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/104]'
+naa_refs: []
 title: DESPATCH, ROOKE TO THOMSON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

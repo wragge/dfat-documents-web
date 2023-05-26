@@ -2,11 +2,7 @@
 doc_date: '1957-03-13'
 doc_num: 193
 doc_order: 193
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA : CRAWFORD PAPERS MS 4514/9/33, JAPAN-AUST. TRADE TALKS, pt ii]'
+naa_refs: []
 title: Record Of Discussion Between Westerman And Burgess [1]
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19

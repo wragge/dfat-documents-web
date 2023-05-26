@@ -2,11 +2,7 @@
 doc_date: '1962-02-23'
 doc_num: 165
 doc_order: 165
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 159/56]'
+naa_refs: []
 title: TELEGRAM, HEATH TO FOREIGN OFFICE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

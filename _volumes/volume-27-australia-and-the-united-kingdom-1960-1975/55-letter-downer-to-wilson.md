@@ -2,11 +2,7 @@
 doc_date: '1966-02-25'
 doc_num: 55
 doc_order: 55
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 13/890]'
+naa_refs: []
 title: LETTER, DOWNER TO WILSON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

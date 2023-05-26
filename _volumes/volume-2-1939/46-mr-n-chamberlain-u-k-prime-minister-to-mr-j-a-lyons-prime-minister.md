@@ -2,11 +2,7 @@
 doc_date: '1939-03-20'
 doc_num: 46
 doc_order: 46
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: PREM 1/309]'
+naa_refs: []
 title: Mr N. Chamberlain, U.K. Prime Minister, to Mr J.A. Lyons, Prime Minister
 vol_full_title: 'Volume 2: 1939'
 vol_id: 2

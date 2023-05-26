@@ -2,11 +2,7 @@
 doc_date: '1941-05-01'
 doc_num: 441
 doc_order: 441
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA: A3830, 1941, 1063]'
+naa_refs: []
 title: Legation in Washington to Department of External Affairs
 vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4

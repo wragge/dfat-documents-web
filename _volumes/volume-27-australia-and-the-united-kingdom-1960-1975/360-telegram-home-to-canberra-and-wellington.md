@@ -2,11 +2,7 @@
 doc_date: '1972-12-15'
 doc_num: 360
 doc_order: 360
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FC0 24/1318]'
+naa_refs: []
 title: TELEGRAM, HOME TO CANBERRA AND WELLINGTON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

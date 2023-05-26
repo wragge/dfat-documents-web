@@ -2,11 +2,7 @@
 doc_date: '1946-07-05'
 doc_num: 10
 doc_order: 10
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU:EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE (a)]'
+naa_refs: []
 title: Evatt to Chifley
 vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10

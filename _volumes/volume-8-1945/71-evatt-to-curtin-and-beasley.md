@@ -2,11 +2,7 @@
 doc_date: '1945-04-13'
 doc_num: 71
 doc_order: 71
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, EVATT-OVERSEAS TRIPS-1945-CABLES-LONDON]'
+naa_refs: []
 title: Evatt to Curtin and Beasley
 vol_full_title: 'Volume 8: 1945'
 vol_id: 8

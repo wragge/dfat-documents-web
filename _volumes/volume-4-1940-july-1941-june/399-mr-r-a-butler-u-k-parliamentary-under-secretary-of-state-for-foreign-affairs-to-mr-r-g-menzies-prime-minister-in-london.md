@@ -2,11 +2,7 @@
 doc_date: '1941-04-11'
 doc_num: 399
 doc_order: 399
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: FO 371/27775]'
+naa_refs: []
 title: Mr R. A. Butler, U.K. Parliamentary Under-Secretary of State for Foreign Affairs,
   to Mr R. G. Menzies, Prime Minister (in London)
 vol_full_title: 'Volume 4: July 1940 – June 1941'

@@ -3,17 +3,6 @@ doc_date: '1939-08-16'
 doc_num: 132
 doc_order: 132
 naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[From the end of July 1939, Bruce and A.T. Stirling, External Affairs
-    Officer in London, sent to Australia reports suggesting increased German activity
-    in Danzig and on the Polish frontier, including considerable movements of German
-    troops. They reported also that Poland had reinforced her frontier, and that in
-    an atmosphere of incidents, reprisals and mutual recriminations, there was a general
-    fear that the deteriorating relationship between German and Polish leaders could
-    at any time precipitate open warfare. (See AA: A981, Germany 67, i and ibid.,
-    Germany 83B, iii.)]'
 - naa_barcode: 176503
   naa_control_symbol: GER 55
   naa_series: A981

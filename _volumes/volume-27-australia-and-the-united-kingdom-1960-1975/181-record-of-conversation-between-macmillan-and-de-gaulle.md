@@ -2,11 +2,7 @@
 doc_date: '1962-06-03'
 doc_num: 181
 doc_order: 181
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 11/4019]'
+naa_refs: []
 title: RECORD OF CONVERSATION BETWEEN MACMILLAN AND DE GAULLE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

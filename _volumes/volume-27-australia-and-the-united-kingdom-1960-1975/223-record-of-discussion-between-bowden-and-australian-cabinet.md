@@ -2,11 +2,7 @@
 doc_date: '1967-02-22'
 doc_num: 223
 doc_order: 223
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/5]'
+naa_refs: []
 title: RECORD OF DISCUSSION BETWEEN BOWDEN AND AUSTRALIAN CABINET
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

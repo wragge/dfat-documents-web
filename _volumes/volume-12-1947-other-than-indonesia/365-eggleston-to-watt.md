@@ -2,11 +2,7 @@
 doc_date: '1947-09-03'
 doc_num: 365
 doc_order: 365
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[EGGLESTON PAPERS, NLA : MS423/11/810-13]'
+naa_refs: []
 title: Eggleston to Watt
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'
 vol_id: 12

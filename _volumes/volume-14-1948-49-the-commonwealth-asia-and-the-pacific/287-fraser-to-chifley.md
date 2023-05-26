@@ -2,11 +2,7 @@
 doc_date: '1949-06-15'
 doc_num: 287
 doc_order: 287
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA:IN. MASTERSHEETS (TS) 1948-49]'
+naa_refs: []
 title: Fraser to Chifley
 vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
   and the Pacific, 1948–1949'

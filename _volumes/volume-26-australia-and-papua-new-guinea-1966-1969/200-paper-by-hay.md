@@ -7,10 +7,6 @@ naa_refs:
   naa_control_symbol: 1968/3178 PART 1
   naa_series: A452
   reference: '[NAA: A452, 1968/3178]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[see editorial note �Territories: changes to the department and portfolio�]'
 title: Paper By Hay
 vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26

@@ -2,11 +2,7 @@
 doc_date: '1966-04-20'
 doc_num: 38
 doc_order: 38
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA: MS 8254, box 8, folder 1]'
+naa_refs: []
 title: Notes Of Discussions Between Ministers, Officials And Select Committee
 vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26

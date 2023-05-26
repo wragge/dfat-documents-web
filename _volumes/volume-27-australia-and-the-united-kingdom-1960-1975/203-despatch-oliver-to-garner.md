@@ -2,11 +2,7 @@
 doc_date: '1962-08-24'
 doc_num: 203
 doc_order: 203
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 159/61]'
+naa_refs: []
 title: DESPATCH, OLIVER TO GARNER
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

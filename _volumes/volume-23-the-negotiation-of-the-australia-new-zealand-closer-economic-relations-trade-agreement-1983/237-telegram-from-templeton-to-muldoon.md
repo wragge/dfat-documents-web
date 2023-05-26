@@ -2,11 +2,7 @@
 doc_date: '1982-03-11'
 doc_num: 237
 doc_order: 237
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Telegram from Templeton to Muldoon
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

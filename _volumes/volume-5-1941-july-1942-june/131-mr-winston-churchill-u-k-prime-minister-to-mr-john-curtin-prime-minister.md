@@ -2,11 +2,7 @@
 doc_date: '1941-11-28'
 doc_num: 131
 doc_order: 132
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO : PREM 4 50/15]'
+naa_refs: []
 title: Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister
 vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5

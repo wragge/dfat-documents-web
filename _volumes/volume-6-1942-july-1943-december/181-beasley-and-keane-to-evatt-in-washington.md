@@ -2,12 +2,7 @@
 doc_date: '1943-05-07'
 doc_num: 181
 doc_order: 181
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA:T.S. CABLE STRONGROOM FOLDER ''PERSONAL OUT CABLES FILE SPARES DRAFTS
-    MASTER SHEETS (1943)'']'
+naa_refs: []
 title: Beasley and Keane to Evatt (in Washington)
 vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6

@@ -2,11 +2,7 @@
 doc_date: '1951-01-16'
 doc_num: 136
 doc_order: 136
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Cablegram from Government of Ceylon to Australian Government
 vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'
 vol_id: 24

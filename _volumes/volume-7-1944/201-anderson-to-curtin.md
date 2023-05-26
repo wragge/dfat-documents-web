@@ -2,11 +2,7 @@
 doc_date: '1944-06-21'
 doc_num: 201
 doc_order: 201
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 3]'
+naa_refs: []
 title: Anderson to Curtin
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

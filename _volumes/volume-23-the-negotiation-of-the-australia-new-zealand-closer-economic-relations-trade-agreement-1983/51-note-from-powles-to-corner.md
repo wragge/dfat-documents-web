@@ -2,11 +2,7 @@
 doc_date: '1979-10-30'
 doc_num: 51
 doc_order: 51
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Note from Powles to Corner
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

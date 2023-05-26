@@ -2,11 +2,7 @@
 doc_date: '1939-12-12'
 doc_num: 416
 doc_order: 416
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[ANL: OFFICER MS 2629/1/875-885]'
+naa_refs: []
 title: Mr S.M. Bruce, High Commissioner in London, to Mr F.K. Officer, Australian
   Counsellor at U.K. Embassy in Washington
 vol_full_title: 'Volume 2: 1939'

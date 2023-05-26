@@ -2,11 +2,7 @@
 doc_date: '1971-07-30'
 doc_num: 299
 doc_order: 299
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/1055]'
+naa_refs: []
 title: MEMORANDUM, STATHAM TO O'NEILL AND TICKELL
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

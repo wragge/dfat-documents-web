@@ -2,11 +2,7 @@
 doc_date: '1938-08-17'
 doc_num: 238
 doc_order: 237
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[ANL : PAGE 13]'
+naa_refs: []
 title: Cabinet Submission by Mr W. M. Hughes, Minister for External Affairs
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1

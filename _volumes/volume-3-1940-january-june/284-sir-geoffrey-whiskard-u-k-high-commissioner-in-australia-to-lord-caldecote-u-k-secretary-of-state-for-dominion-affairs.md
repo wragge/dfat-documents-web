@@ -2,11 +2,7 @@
 doc_date: '1940-05-27'
 doc_num: 284
 doc_order: 284
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: DO 35/1003, ii]'
+naa_refs: []
 title: Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Lord Caldecote,
   U.K. Secretary of State for Dominion Affairs
 vol_full_title: 'Volume 3: January–June 1940'

@@ -2,11 +2,7 @@
 doc_date: '1961-01-26'
 doc_num: 3
 doc_order: 3
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 164/39]'
+naa_refs: []
 title: COMMONWEALTH RELATIONS OFFICE DRAFT BRIEF FOR MOUNTBATTEN'S AUSTRALIA TOUR
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

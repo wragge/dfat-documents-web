@@ -2,11 +2,7 @@
 doc_date: '1937-06-15'
 doc_num: 46
 doc_order: 46
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA : IMP. CONF 1937, MEETINGS]'
+naa_refs: []
 title: Speech by Mr J. A. Lyons, Prime Minister, to Second Plenary Session of Imperial
   Conference
 vol_full_title: 'Volume 1: 1937–1938'

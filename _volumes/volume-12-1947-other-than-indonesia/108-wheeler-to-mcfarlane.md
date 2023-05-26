@@ -2,11 +2,7 @@
 doc_date: '1947-06-03'
 doc_num: 108
 doc_order: 108
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA: AA1968/391/1, 96]'
+naa_refs: []
 title: Wheeler to McFarlane
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'
 vol_id: 12

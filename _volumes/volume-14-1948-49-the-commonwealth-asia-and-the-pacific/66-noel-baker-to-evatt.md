@@ -2,11 +2,7 @@
 doc_date: '1948-11-26'
 doc_num: 66
 doc_order: 66
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-MISC. CORRESPONDENCE (B)]'
+naa_refs: []
 title: Noel-Baker to Evatt
 vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
   and the Pacific, 1948–1949'

@@ -2,11 +2,7 @@
 doc_date: '1944-10-28'
 doc_num: 330
 doc_order: 330
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[CSIRO ARCHIVES:SERIES 380, ITEM 5]'
+naa_refs: []
 title: Burhop to Rivett
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

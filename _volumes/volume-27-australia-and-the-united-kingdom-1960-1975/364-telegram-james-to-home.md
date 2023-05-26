@@ -2,11 +2,7 @@
 doc_date: '1972-12-19'
 doc_num: 364
 doc_order: 364
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/1318]'
+naa_refs: []
 title: TELEGRAM, JAMES TO HOME
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

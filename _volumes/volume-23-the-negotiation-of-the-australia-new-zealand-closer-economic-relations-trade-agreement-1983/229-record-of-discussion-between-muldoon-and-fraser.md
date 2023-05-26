@@ -2,11 +2,7 @@
 doc_date: '1981-09-29'
 doc_num: 229
 doc_order: 229
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Record of Discussion between Muldoon and Fraser
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

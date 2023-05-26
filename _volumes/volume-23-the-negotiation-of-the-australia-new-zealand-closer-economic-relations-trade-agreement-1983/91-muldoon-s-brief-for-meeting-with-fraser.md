@@ -2,11 +2,7 @@
 doc_date: '1980-03-14'
 doc_num: 91
 doc_order: 91
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Muldoon's Brief for Meeting with Fraser
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

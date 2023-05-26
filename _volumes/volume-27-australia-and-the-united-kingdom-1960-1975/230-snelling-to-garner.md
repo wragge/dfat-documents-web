@@ -2,11 +2,7 @@
 doc_date: '1967-06-05'
 doc_num: 230
 doc_order: 230
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 20/47]'
+naa_refs: []
 title: SNELLING TO GARNER
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

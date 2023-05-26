@@ -7,10 +7,6 @@ naa_refs:
   naa_control_symbol: '364'
   naa_series: A5842
   reference: '[NAA: A5842, 364]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[:]'
 title: Submission No. 364, McMahon To Cabinet
 vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26

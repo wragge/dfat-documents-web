@@ -2,11 +2,7 @@
 doc_date: '1974-12-19'
 doc_num: 496
 doc_order: 496
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 16/300]'
+naa_refs: []
 title: SPEECH BY WHITLAM IN LONDON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

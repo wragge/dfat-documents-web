@@ -2,11 +2,7 @@
 doc_date: '1944-09-27'
 doc_num: 303
 doc_order: 303
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA:MS423/10/1937-8]'
+naa_refs: []
 title: Eggleston to Evatt
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

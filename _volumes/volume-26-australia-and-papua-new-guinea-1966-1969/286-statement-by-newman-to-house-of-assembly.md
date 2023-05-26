@@ -2,11 +2,7 @@
 doc_date: '1969-06-16'
 doc_num: 286
 doc_order: 286
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Statement By Newman To House Of Assembly
 vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26

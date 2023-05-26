@@ -2,11 +2,7 @@
 doc_date: '1957-07-06'
 doc_num: 223
 doc_order: 223
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DFAT : AUSTRALIAN TREATY COLLECTION]'
+naa_refs: []
 title: 'Agreement On Commerce Between The Commonwealth Of Australia And Japan: Confidential
   Annexes'
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'

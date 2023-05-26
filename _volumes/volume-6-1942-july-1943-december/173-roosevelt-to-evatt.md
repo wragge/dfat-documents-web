@@ -2,12 +2,7 @@
 doc_date: '1943-05-05'
 doc_num: 173
 doc_order: 173
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FRANKLIN D. ROSSEVELT LIBRARY: ROOSEVELT PAPERS, PRESIDENT''S SECRETARY''S
-    FILE BOX 32 PSF AUSTRALIA]'
+naa_refs: []
 title: Roosevelt to Evatt
 vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6

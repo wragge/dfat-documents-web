@@ -2,11 +2,7 @@
 doc_date: '1968-02-22'
 doc_num: 254
 doc_order: 254
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: T 295/384]'
+naa_refs: []
 title: LETTER, JOHNSTON TO SNELLING
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

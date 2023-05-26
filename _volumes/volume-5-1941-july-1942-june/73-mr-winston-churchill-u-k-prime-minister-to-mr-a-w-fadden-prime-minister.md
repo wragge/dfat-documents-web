@@ -2,11 +2,7 @@
 doc_date: '1941-09-30'
 doc_num: 73
 doc_order: 74
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO:DO 35/1009, ii]'
+naa_refs: []
 title: Mr Winston Churchill, U.K. Prime Minister, to Mr A. W. Fadden, Prime Minister
 vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5

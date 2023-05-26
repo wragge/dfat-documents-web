@@ -2,11 +2,7 @@
 doc_date: '1967-07-13'
 doc_num: 133
 doc_order: 133
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Note By Deane On Cabinet Submission No. 320<sup>1</sup>
 vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26

@@ -2,11 +2,7 @@
 doc_date: '1939-09-11'
 doc_num: 219
 doc_order: 219
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO:FO 371/23562]'
+naa_refs: []
 title: Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr A. Eden,
   U.K. Secretary of State for Dominion Affairs
 vol_full_title: 'Volume 2: 1939'

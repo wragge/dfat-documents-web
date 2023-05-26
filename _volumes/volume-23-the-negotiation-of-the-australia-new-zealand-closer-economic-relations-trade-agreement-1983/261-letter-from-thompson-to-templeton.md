@@ -2,11 +2,7 @@
 doc_date: '1982-12-09'
 doc_num: 261
 doc_order: 261
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Letter from Thompson to Templeton
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

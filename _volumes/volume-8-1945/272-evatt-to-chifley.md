@@ -2,11 +2,7 @@
 doc_date: '1945-09-26'
 doc_num: 272
 doc_order: 272
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FSU : EVATT PAPERS, EVATT-OVERSEAS TRIPS-1945-CABLES-LONDON]'
+naa_refs: []
 title: Evatt to Chifley
 vol_full_title: 'Volume 8: 1945'
 vol_id: 8

@@ -2,11 +2,7 @@
 doc_date: '1971-08-02'
 doc_num: 228
 doc_order: 228
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: CABLEGRAM TO CANBERRA
 vol_full_title: 'Volume 22: Australia and Recognition of the People’s Republic of
   China, 1949–1972'

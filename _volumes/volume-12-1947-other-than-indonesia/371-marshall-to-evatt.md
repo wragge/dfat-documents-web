@@ -2,11 +2,7 @@
 doc_date: '1947-10-22'
 doc_num: 371
 doc_order: 371
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT PAPERS, WAR-JAPANESE PEACE SETTLEMENT(a)]'
+naa_refs: []
 title: Marshall to Evatt
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'
 vol_id: 12

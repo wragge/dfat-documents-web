@@ -2,11 +2,7 @@
 doc_date: '1967-08-24'
 doc_num: 423
 doc_order: 423
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 13/1320]'
+naa_refs: []
 title: LETTER HOLT TO WILSON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

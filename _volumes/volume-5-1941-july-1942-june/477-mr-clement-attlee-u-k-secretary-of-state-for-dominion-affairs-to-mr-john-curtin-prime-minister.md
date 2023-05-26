@@ -2,12 +2,7 @@
 doc_date: '1942-04-30'
 doc_num: 477
 doc_order: 478
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, CABLES TO AND FROM DR EVATT,
-    MARCH-MAY 1942]'
+naa_refs: []
 title: Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John
   Curtin, Prime Minister
 vol_full_title: 'Volume 5: July 1941 – June 1942'

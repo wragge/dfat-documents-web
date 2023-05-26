@@ -2,11 +2,7 @@
 doc_date: '1947-12-01'
 doc_num: 446
 doc_order: 446
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:AA1979/294/2, BOX 1]'
+naa_refs: []
 title: Kirby to Burton
 vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'
 vol_id: 11

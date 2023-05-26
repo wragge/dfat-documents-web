@@ -2,11 +2,7 @@
 doc_date: '1971-03-24'
 doc_num: 434
 doc_order: 434
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 57/231]'
+naa_refs: []
 title: TELEGRAM,DOUGLAS-HOME TO JOHNSTON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

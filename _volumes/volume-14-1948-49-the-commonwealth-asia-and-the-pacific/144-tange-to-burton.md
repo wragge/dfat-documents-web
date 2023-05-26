@@ -7,21 +7,6 @@ naa_refs:
   naa_control_symbol: 383/1/2/1 PART 4
   naa_series: A1838
   reference: '[AA:A1838/278, 383/1/2/1, iv]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[8. The conception I have is of an understanding which creates little
-    formal machinery: but which provides a mechanism (analogous to British Commonwealth
-    consultations) for periodical and ad hoc consultations on major political issues
-    and engender the habit of prior consultations on technical issues as they arise
-    in specific agencies. Such an arrangement would permit further New Delhi Conferences
-    without the excitement and misgivings which the press in Australia worked up over
-    the recent one, and would avoid unnecessary machinery.]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[it seems to me that the proposed Australian reply involves duplication
-    with:]'
 title: Tange to Burton
 vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
   and the Pacific, 1948–1949'

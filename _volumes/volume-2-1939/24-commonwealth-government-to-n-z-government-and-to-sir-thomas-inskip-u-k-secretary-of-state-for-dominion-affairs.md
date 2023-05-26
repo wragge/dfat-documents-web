@@ -2,11 +2,7 @@
 doc_date: '1939-02-15'
 doc_num: 24
 doc_order: 24
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DEFENCE: SPECIAL COLLECTION 1, SR 1/1, BOX 96]'
+naa_refs: []
 title: Commonwealth Government to N.Z. Government and to Sir Thomas Inskip, U.K. Secretary
   of State for Dominion Affairs
 vol_full_title: 'Volume 2: 1939'

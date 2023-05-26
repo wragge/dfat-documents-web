@@ -2,11 +2,7 @@
 doc_date: '1940-07-31'
 doc_num: 44
 doc_order: 44
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO:D035/1000]'
+naa_refs: []
 title: Note of Meeting between Lord Halifax, U.K. Secretary of State for Foreign Affairs,
   and the Dominion High Commissioners
 vol_full_title: 'Volume 4: July 1940 – June 1941'

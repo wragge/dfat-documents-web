@@ -2,11 +2,7 @@
 doc_date: '1948-06-19'
 doc_num: 161
 doc_order: 161
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-MISC. CORRESPONDENCE (C)]'
+naa_refs: []
 title: MacDonald to Evatt
 vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
   and the Pacific, 1948–1949'

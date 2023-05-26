@@ -2,11 +2,7 @@
 doc_date: '1949-02-04'
 doc_num: 241
 doc_order: 241
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA:OUTWARD ORIGINAL (TS) 1948-501]'
+naa_refs: []
 title: Officer to Department of External Affairs
 vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
   and the Pacific, 1948–1949'

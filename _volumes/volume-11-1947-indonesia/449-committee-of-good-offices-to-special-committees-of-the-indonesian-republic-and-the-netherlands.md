@@ -2,11 +2,7 @@
 doc_date: '1947-12-03'
 doc_num: 449
 doc_order: 449
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:AA1979/294/1, BOX 1]'
+naa_refs: []
 title: Committee of Good Offices to Special Committees of the Indonesian Republic
   and the Netherlands
 vol_full_title: 'Volume 11: Australia & Indonesia’s Independence, 1947'

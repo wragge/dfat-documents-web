@@ -2,11 +2,7 @@
 doc_date: '1938-09-30'
 doc_num: 295
 doc_order: 294
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO : DO 35/554]'
+naa_refs: []
 title: Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1

@@ -2,11 +2,7 @@
 doc_date: '1945-11-15'
 doc_num: 395
 doc_order: 395
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FSU: EVATT PAPERS, EVATT-OVERSEAS TRIPS-1945-CABLES-WASHINGTON]'
+naa_refs: []
 title: Evatt to Chifley
 vol_full_title: 'Volume 8: 1945'
 vol_id: 8

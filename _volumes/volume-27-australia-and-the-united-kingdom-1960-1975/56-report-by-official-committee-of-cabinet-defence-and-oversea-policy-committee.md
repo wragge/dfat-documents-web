@@ -2,11 +2,7 @@
 doc_date: '1966-05-10'
 doc_num: 56
 doc_order: 56
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: CAB 148/20]'
+naa_refs: []
 title: REPORT BY OFFICIAL COMMITTEE OF CABINET DEFENCE AND OVERSEA POLICY COMMITTEE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

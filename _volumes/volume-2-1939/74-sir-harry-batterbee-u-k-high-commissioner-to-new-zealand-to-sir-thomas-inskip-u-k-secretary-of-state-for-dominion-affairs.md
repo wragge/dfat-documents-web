@@ -2,24 +2,7 @@
 doc_date: '1939-04-26'
 doc_num: 74
 doc_order: 74
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[The Pacific Defence Conference was held in Wellington, New Zealand,
-    from 14 to 26 April 1939. The Australian delegation was led by Sir Ragnar Colvin
-    (Chief of the Naval Staff), who also represented the Royal Navy; other members
-    were Colonel V.A.H. Sturdee (Director of Staff Duties, Army Headquarters), Wing
-    Commander G. Jones (Director of Recruiting, R.A.A.F.) and Captain E.C. Johnston
-    (Controller-General of Civil Aviation). Colvin''s report on the Conference (on
-    file AA: MP1049/9, 1846/4/101) is mainly concerned with defence and civil aviation
-    matters beyond the scope of the present series and has not been published. The
-    Conference did, however, give some attention to matters of strategic importance
-    to Australia, as the following extract shows.]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: FO 371/22793]'
+naa_refs: []
 title: Sir Harry Batterbee, U.K. High Commissioner to New Zealand, to Sir Thomas Inskip,
   U.K. Secretary of State for Dominion Affairs
 vol_full_title: 'Volume 2: 1939'

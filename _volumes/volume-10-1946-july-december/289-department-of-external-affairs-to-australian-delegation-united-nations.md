@@ -2,11 +2,7 @@
 doc_date: '1946-12-08'
 doc_num: 289
 doc_order: 289
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU:EVATT COLLECTION, UNITED NATIONS-CABLES-NEW YORK-1946-48]'
+naa_refs: []
 title: Department of External Affairs to Australian Delegation, United Nations
 vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10

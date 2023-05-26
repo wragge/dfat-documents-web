@@ -2,11 +2,7 @@
 doc_date: '1962-03-13'
 doc_num: 167
 doc_order: 167
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 159/57]'
+naa_refs: []
 title: LETTER, WESTERMAN TO LINTOTT
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

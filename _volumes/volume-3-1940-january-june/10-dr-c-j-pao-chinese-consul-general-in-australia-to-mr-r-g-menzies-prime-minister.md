@@ -2,11 +2,7 @@
 doc_date: '1940-01-09'
 doc_num: 10
 doc_order: 10
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[ANL: MS 1009, 61/6]'
+naa_refs: []
 title: Dr C. J. Pao, Chinese Consul-General in Australia, to Mr R. G. Menzies, Prime
   Minister
 vol_full_title: 'Volume 3: January–June 1940'

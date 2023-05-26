@@ -2,11 +2,7 @@
 doc_date: '1941-12-19'
 doc_num: 207
 doc_order: 208
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:A3830, 1941, 3539]'
+naa_refs: []
 title: Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister
   for External Affairs
 vol_full_title: 'Volume 5: July 1941 – June 1942'

@@ -2,11 +2,7 @@
 doc_date: '1942-09-09'
 doc_num: 42
 doc_order: 42
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Bruce to Cripps
 vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6

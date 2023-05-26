@@ -2,11 +2,7 @@
 doc_date: '1937-05-19'
 doc_num: 26
 doc_order: 26
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA : IMP. CONF. 1937, MEETINGS]'
+naa_refs: []
 title: Minutes of First Meeting of Principal Delegates to Imperial Conference
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1

@@ -2,11 +2,7 @@
 doc_date: '1980-04-22'
 doc_num: 118
 doc_order: 118
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Letter from Bathgate to Scott and Members of the Interdepartmental Working
   Party
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic

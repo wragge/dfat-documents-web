@@ -2,11 +2,7 @@
 doc_date: '1966-11-22'
 doc_num: 320
 doc_order: 320
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 175/163]'
+naa_refs: []
 title: DESPATCH, JOHNSTON TO BOWDEN
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

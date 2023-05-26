@@ -2,12 +2,7 @@
 doc_date: '1956-12-05'
 doc_num: 178
 doc_order: 178
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA : CRAWFORD PAPERS MS4514/9/33, JAPAN-AUSTRALIA TRADE NEGOTIATIONS
-    1956/57, pt i]'
+naa_refs: []
 title: 'Australia-Japan Trade Negotiations: Informal Discussions'
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19

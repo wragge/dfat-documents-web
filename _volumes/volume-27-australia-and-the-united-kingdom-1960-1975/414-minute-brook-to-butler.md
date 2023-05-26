@@ -2,11 +2,7 @@
 doc_date: '1961-03-27'
 doc_num: 414
 doc_order: 414
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 11/3652]'
+naa_refs: []
 title: MINUTE BROOK TO BUTLER
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

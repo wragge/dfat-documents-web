@@ -2,11 +2,7 @@
 doc_date: '1962-01-25'
 doc_num: 12
 doc_order: 12
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DEFE 7/2148]'
+naa_refs: []
 title: MINUTE, MOUNTBATTEN TO WATKINSON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

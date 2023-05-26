@@ -2,11 +2,7 @@
 doc_date: '1980-12-02'
 doc_num: 134
 doc_order: 134
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Brief by Ministry of Foreign Affairs
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

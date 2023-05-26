@@ -2,11 +2,7 @@
 doc_date: '1937-04-28'
 doc_num: 20
 doc_order: 20
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 198]'
+naa_refs: []
 title: Summary of Papers and Questions on Defence submitted by Delegation to Imperial
   Conference
 vol_full_title: 'Volume 1: 1937–1938'

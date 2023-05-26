@@ -2,11 +2,7 @@
 doc_date: '1963-07-08'
 doc_num: 21
 doc_order: 21
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FO 371/173522, Z21/2]'
+naa_refs: []
 title: FOREIGN OFFICE MINUTES BY WATERFIELD, WARNER, CABLE AND PECK
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

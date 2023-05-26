@@ -2,11 +2,7 @@
 doc_date: '1947-02-14'
 doc_num: 250
 doc_order: 250
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, WAR-PARIS PEACE CONFERENCE-1945-1946]'
+naa_refs: []
 title: Beasley to Evatt
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'
 vol_id: 12

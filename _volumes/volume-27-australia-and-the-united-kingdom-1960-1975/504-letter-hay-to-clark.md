@@ -2,11 +2,7 @@
 doc_date: '1975-03-17'
 doc_num: 504
 doc_order: 504
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/2077]'
+naa_refs: []
 title: LETTER, HAY TO CLARK
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

@@ -2,11 +2,7 @@
 doc_date: '1979-05-10'
 doc_num: 16
 doc_order: 16
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Telegram from Ministry of Foreign Affairs to New Zealand Embassy in Manila
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

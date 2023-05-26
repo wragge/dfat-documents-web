@@ -2,11 +2,7 @@
 doc_date: '1972-11-22'
 doc_num: 346
 doc_order: 346
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NAA: M 1002, 284]'
+naa_refs: []
 title: LETTER, DOWNER TO AITKEN
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

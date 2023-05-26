@@ -2,11 +2,7 @@
 doc_date: '1937-06-09'
 doc_num: 43
 doc_order: 43
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 200]'
+naa_refs: []
 title: Notes on U.K. Chiefs of Staff Answers to Questions raised by Australian Delegation
   to Imperial Conference
 vol_full_title: 'Volume 1: 1937–1938'

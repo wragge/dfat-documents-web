@@ -2,11 +2,7 @@
 doc_date: '1941-03-27'
 doc_num: 368
 doc_order: 368
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:A3831, 1941, 493]'
+naa_refs: []
 title: Department of External Affairs to Mr R. G. Casey, Minister to the United States
 vol_full_title: 'Volume 4: July 1940 – June 1941'
 vol_id: 4

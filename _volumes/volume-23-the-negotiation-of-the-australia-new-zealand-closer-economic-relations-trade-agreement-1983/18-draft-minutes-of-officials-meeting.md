@@ -2,11 +2,7 @@
 doc_date: '1979-06-18'
 doc_num: 18
 doc_order: 18
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Draft Minutes of Officials' Meeting
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

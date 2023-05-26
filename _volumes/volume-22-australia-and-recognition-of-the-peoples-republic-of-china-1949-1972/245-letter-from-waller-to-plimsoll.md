@@ -2,11 +2,7 @@
 doc_date: '1971-08-24'
 doc_num: 245
 doc_order: 245
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DFAT: WALLER PAPERS]'
+naa_refs: []
 title: LETTER FROM WALLER TO PLIMSOLL
 vol_full_title: 'Volume 22: Australia and Recognition of the People’s Republic of
   China, 1949–1972'

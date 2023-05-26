@@ -2,11 +2,7 @@
 doc_date: '1966-12-07'
 doc_num: 321
 doc_order: 321
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 175/164]'
+naa_refs: []
 title: LETTER, KNOTT TO PRITCHARD
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

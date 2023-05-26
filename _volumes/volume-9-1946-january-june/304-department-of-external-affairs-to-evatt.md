@@ -2,11 +2,7 @@
 doc_date: '1946-06-12'
 doc_num: 304
 doc_order: 304
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(a)]'
+naa_refs: []
 title: Department of External Affairs to Evatt
 vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9

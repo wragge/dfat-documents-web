@@ -3,10 +3,6 @@ doc_date: '1969-05-12'
 doc_num: 269
 doc_order: 269
 naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[:]'
 - naa_barcode: 11340888
   naa_control_symbol: 1969/1135
   naa_series: A452

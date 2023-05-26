@@ -2,12 +2,7 @@
 doc_date: '1946-09-17'
 doc_num: 120
 doc_order: 120
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FA:AUSTRALIAN MILITARY MISSION TO CONTROL COUNCIL-BERLIN. MISC.FILES,
-    AMM 35A]'
+naa_refs: []
 title: Department of External Affairs to Posts
 vol_full_title: 'Volume 10: July–December 1946'
 vol_id: 10

@@ -2,11 +2,7 @@
 doc_date: '1953-02-05'
 doc_num: 19
 doc_order: 19
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA : CRAWFORD PAPERS MS4514/9/33, ECONOMIC POLICY-RELATIONS WITH JAPAN]'
+naa_refs: []
 title: Minute From Crawford To Mcewen
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19

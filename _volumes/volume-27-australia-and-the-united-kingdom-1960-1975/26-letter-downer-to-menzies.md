@@ -2,11 +2,7 @@
 doc_date: '1964-11-13'
 doc_num: 26
 doc_order: 26
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA: MS 4936/1, BOX 10 FOLDER 84]'
+naa_refs: []
 title: LETTER, DOWNER TO MENZIES
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

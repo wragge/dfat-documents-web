@@ -2,11 +2,7 @@
 doc_date: '1939-11-03'
 doc_num: 325
 doc_order: 325
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: FO 371/23572]'
+naa_refs: []
 title: Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr N. Chamberlain,
   U.K Prime Minister
 vol_full_title: 'Volume 2: 1939'

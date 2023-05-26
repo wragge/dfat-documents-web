@@ -2,11 +2,7 @@
 doc_date: '1938-12-06'
 doc_num: 328
 doc_order: 327
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA : AA1970/556, ITEM 6(1)]'
+naa_refs: []
 title: Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Lord
   Halifax, U.K. Secretary of State for Foreign Affairs, at the Foreign Office
 vol_full_title: 'Volume 1: 1937–1938'

@@ -2,11 +2,7 @@
 doc_date: '1937-06-21'
 doc_num: 47
 doc_order: 47
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[DEFENCE : SPECIAL COLLECTION 1, SR 2/2, BOX 197]'
+naa_refs: []
 title: Minutes of Meeting to discuss Defence Questions
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1

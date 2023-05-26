@@ -2,11 +2,7 @@
 doc_date: '1948-08-27'
 doc_num: 229
 doc_order: 229
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA: OFFICER PAPERS, MS2619/1/1100-1]'
+naa_refs: []
 title: Burton to Officer
 vol_full_title: 'Volume 13: Indonesia - The Renville Agreement, 1948'
 vol_id: 13

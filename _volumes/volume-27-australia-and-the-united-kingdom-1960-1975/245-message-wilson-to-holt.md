@@ -2,11 +2,7 @@
 doc_date: '1967-11-18'
 doc_num: 245
 doc_order: 245
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 126/29]'
+naa_refs: []
 title: MESSAGE, WILSON TO HOLT
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

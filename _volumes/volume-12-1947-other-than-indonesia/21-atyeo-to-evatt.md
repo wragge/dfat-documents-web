@@ -2,11 +2,7 @@
 doc_date: '1947-03-12'
 doc_num: 21
 doc_order: 21
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, UNITED NATIONS-BALKAN COMMISSION]'
+naa_refs: []
 title: Atyeo to Evatt
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'
 vol_id: 12

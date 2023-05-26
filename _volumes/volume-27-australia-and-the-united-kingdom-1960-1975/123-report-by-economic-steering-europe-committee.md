@@ -2,11 +2,7 @@
 doc_date: '1960-07-06'
 doc_num: 123
 doc_order: 123
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: CAB 129/102 PART 1]'
+naa_refs: []
 title: REPORT BY ECONOMIC STEERING (EUROPE) COMMITTEE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

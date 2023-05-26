@@ -2,11 +2,7 @@
 doc_date: '1970-07-08'
 doc_num: 264
 doc_order: 264
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 30/802]'
+naa_refs: []
 title: RECORD OF CONVERSATION BETWEEN MCEWEN, BARBER AND O’NEILL
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

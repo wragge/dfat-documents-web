@@ -2,11 +2,7 @@
 doc_date: '1967-08-27'
 doc_num: 424
 doc_order: 424
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: PREM 13/1320]'
+naa_refs: []
 title: TELEGRAM COMMONWEALTH OFFICE TO CANBERRA
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

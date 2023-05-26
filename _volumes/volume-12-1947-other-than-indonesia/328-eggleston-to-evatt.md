@@ -2,11 +2,7 @@
 doc_date: '1947-06-24'
 doc_num: 328
 doc_order: 328
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[EGGLESTON PAPERS, NLA : MS423/11/711-13]'
+naa_refs: []
 title: Eggleston to Evatt
 vol_full_title: 'Volume 12: Australia and the Postwar World, 1947'
 vol_id: 12

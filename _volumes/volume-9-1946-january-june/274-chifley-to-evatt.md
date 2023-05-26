@@ -2,11 +2,7 @@
 doc_date: '1946-05-28'
 doc_num: 274
 doc_order: 274
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU: EVATT COLLECTION, EXTERNAL AFFAIRS-ORIGINAL FILE(c)]'
+naa_refs: []
 title: Chifley to Evatt
 vol_full_title: 'Volume 9: January–June 1946'
 vol_id: 9

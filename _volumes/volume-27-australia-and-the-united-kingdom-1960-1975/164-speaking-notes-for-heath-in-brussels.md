@@ -2,11 +2,7 @@
 doc_date: '1962-02-22'
 doc_num: 164
 doc_order: 164
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: SPEAKING NOTES FOR HEATH IN BRUSSELS
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

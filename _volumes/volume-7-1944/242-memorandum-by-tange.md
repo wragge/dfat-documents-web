@@ -2,11 +2,7 @@
 doc_date: '1944-08-01'
 doc_num: 242
 doc_order: 242
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:CP10/1, BUNDLE 1, [13]'
+naa_refs: []
 title: Memorandum by Tange
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

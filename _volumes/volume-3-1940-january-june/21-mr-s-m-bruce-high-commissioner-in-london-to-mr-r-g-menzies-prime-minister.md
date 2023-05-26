@@ -2,11 +2,7 @@
 doc_date: '1940-01-16'
 doc_num: 21
 doc_order: 21
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister
 vol_full_title: 'Volume 3: January–June 1940'
 vol_id: 3

@@ -2,11 +2,7 @@
 doc_date: '1966-08-29'
 doc_num: 64
 doc_order: 64
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NAA: AS84 I, 419]'
+naa_refs: []
 title: Submission No. 421, Barnes To Cabinet
 vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26

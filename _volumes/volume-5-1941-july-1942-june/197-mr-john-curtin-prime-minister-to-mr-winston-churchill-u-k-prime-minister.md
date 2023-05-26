@@ -2,13 +2,7 @@
 doc_date: '1941-12-16'
 doc_num: 197
 doc_order: 198
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AUSTRALIAN WAR MEMORIAL: PAGE COLLECTION, BOX 118A, FILE 2, FAR EASTERN
-    SITUATION. ACTION SINCE OUTBREAK OF WAR WITH JAPAN 7 12.41 UP TO FALL OF SINGAPORE
-    15.2.42]'
+naa_refs: []
 title: Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister
 vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5

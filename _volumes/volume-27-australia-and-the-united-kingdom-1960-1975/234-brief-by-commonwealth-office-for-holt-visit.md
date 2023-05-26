@@ -2,11 +2,7 @@
 doc_date: '1967-06-12'
 doc_num: 234
 doc_order: 234
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: CAB 133/329]'
+naa_refs: []
 title: BRIEF BY COMMONWEALTH OFFICE FOR HOLT VISIT
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

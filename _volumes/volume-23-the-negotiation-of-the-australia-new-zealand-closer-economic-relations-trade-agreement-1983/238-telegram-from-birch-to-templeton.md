@@ -2,11 +2,7 @@
 doc_date: '1982-03-31'
 doc_num: 238
 doc_order: 238
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Telegram from Birch to Templeton
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

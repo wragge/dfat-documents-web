@@ -2,11 +2,7 @@
 doc_date: '1940-12-30'
 doc_num: 240
 doc_order: 240
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:A3831, 1940, 465]'
+naa_refs: []
 title: Sir Frederick Stewart, Minister for External Affairs, to Sir John Latham, Minister
   to Japan
 vol_full_title: 'Volume 4: July 1940 – June 1941'

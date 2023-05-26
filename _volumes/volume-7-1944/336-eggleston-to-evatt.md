@@ -2,11 +2,7 @@
 doc_date: '1944-11-06'
 doc_num: 336
 doc_order: 336
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU:EVATT PAPERS. ''EGGLESTON, F. W.'']'
+naa_refs: []
 title: Eggleston to Evatt
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

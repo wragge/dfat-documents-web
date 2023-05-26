@@ -2,11 +2,7 @@
 doc_date: '1974-12-02'
 doc_num: 490
 doc_order: 490
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FC0 24/1911]'
+naa_refs: []
 title: DESPATCH, JAMES TO CALLAGHAN
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

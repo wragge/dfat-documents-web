@@ -2,11 +2,7 @@
 doc_date: '1973-01-23'
 doc_num: 370
 doc_order: 370
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 50/484]'
+naa_refs: []
 title: CABINET MINUTE, 3RD CONCLUSIONS
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

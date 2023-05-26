@@ -2,11 +2,7 @@
 doc_date: '1945-10-26'
 doc_num: 344
 doc_order: 344
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA : A5471, A2]'
+naa_refs: []
 title: Evatt to Byrnes
 vol_full_title: 'Volume 8: 1945'
 vol_id: 8

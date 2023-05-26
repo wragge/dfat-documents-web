@@ -2,11 +2,7 @@
 doc_date: '1957-05-16'
 doc_num: 210
 doc_order: 210
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[NLA : MENZIES PAPERS MS4936/21/440, FOLDER 18]'
+naa_refs: []
 title: Minute From Durie To Brown
 vol_full_title: 'Volume 19: The Australia Japan Agreement on Commerce, 1950–1959'
 vol_id: 19

@@ -2,11 +2,7 @@
 doc_date: '1944-08-02'
 doc_num: 245
 doc_order: 245
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:MP288/1, ITEM 31, BUNDLE 13]'
+naa_refs: []
 title: Curtin to Drakeford
 vol_full_title: 'Volume 7: 1944'
 vol_id: 7

@@ -2,11 +2,7 @@
 doc_date: '1966-12-06'
 doc_num: 323
 doc_order: 323
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DO 1751164]'
+naa_refs: []
 title: MINUTE, STORAR TO HAMILTON
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

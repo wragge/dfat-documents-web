@@ -2,12 +2,7 @@
 doc_date: '1942-01-19'
 doc_num: 282
 doc_order: 283
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FLINDERS UNIVERSITY LIBRARY: EVATT PAPERS, EXTERNAL AFFAIRS DEPT FILE
-    S5, BOWDEN REPORTS]'
+naa_refs: []
 title: Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister
   for External Affairs
 vol_full_title: 'Volume 5: July 1941 – June 1942'

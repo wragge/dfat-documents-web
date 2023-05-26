@@ -2,11 +2,7 @@
 doc_date: '1980-03-17'
 doc_num: 92
 doc_order: 92
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Memorandum from Ministry of Foreign Affairs to Chairman, Officials' Economic
   Committee
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic

@@ -2,11 +2,7 @@
 doc_date: '1972-12-22'
 doc_num: 369
 doc_order: 369
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: FCO 24/1318]'
+naa_refs: []
 title: LETTER, CARR TO HOME
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

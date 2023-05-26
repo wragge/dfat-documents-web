@@ -2,12 +2,7 @@
 doc_date: '1940-09-21'
 doc_num: 130
 doc_order: 130
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:MP1049, SERIES 5, BOX 72, NEW CALEDONIA-ESTABLISHMENT OF FREE FRENCH
-    CONTROL 1940: SIGNALS ACNB-ADELAIDE]'
+naa_refs: []
 title: Captain H. A. Showers, Commanding Officer of H.M.A.S. Adelaide, to Commonwealth
   Naval Board
 vol_full_title: 'Volume 4: July 1940 – June 1941'

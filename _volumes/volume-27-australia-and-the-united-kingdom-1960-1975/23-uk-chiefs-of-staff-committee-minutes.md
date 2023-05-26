@@ -2,11 +2,7 @@
 doc_date: '1964-07-14'
 doc_num: 23
 doc_order: 23
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: DEFE 25/105]'
+naa_refs: []
 title: UK CHIEFS OF STAFF COMMITTEE MINUTES
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'
 vol_id: 27

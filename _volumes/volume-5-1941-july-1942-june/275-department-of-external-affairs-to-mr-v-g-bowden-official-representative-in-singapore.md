@@ -2,11 +2,7 @@
 doc_date: '1942-01-15'
 doc_num: 275
 doc_order: 276
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA:A3831, 1942, 190]'
+naa_refs: []
 title: Department of External Affairs to Mr V. G. Bowden, Official Representative
   in Singapore
 vol_full_title: 'Volume 5: July 1941 – June 1942'

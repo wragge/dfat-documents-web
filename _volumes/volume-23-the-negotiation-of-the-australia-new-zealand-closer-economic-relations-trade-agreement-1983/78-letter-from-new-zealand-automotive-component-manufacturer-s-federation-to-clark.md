@@ -2,11 +2,7 @@
 doc_date: '1979-12-11'
 doc_num: 78
 doc_order: 78
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Letter from New Zealand Automotive Component Manufacturer's Federation to Clark
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

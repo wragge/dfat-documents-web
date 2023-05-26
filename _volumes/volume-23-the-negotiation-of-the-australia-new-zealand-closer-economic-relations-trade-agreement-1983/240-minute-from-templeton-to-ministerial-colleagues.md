@@ -2,11 +2,7 @@
 doc_date: '1982-05-07'
 doc_num: 240
 doc_order: 240
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: ''
+naa_refs: []
 title: Minute from Templeton to Ministerial Colleagues
 vol_full_title: 'Volume 23: The Negotiation of the Australia New Zealand Closer Economic
   Relations Trade Agreement, 1983'

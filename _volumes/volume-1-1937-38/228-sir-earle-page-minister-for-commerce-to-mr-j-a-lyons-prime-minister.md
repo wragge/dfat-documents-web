@@ -2,11 +2,7 @@
 doc_date: '1938-07-07'
 doc_num: 228
 doc_order: 227
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[ANL : PAGE 742]'
+naa_refs: []
 title: Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1

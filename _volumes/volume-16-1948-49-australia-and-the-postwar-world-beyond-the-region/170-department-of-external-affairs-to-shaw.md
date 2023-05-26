@@ -2,11 +2,7 @@
 doc_date: '1949-07-19'
 doc_num: 170
 doc_order: 170
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[SFU : EVATT COLLECTION, CABLES - TOKYO - 1946-49]'
+naa_refs: []
 title: Department of External Affairs to Shaw
 vol_full_title: 'Volume 16: Australia and the Postwar World – Beyond the Region, 1948–1949'
 vol_id: 16

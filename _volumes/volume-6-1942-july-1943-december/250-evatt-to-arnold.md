@@ -2,11 +2,7 @@
 doc_date: '1943-07-25'
 doc_num: 250
 doc_order: 250
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FRANKLIN D. ROOSEVELT LIBRARY: HOPKINS PAPERS, BOX 173, 400.3295 AUSTRALIA]'
+naa_refs: []
 title: Evatt to Arnold
 vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6

@@ -2,11 +2,7 @@
 doc_date: '1962-09-04'
 doc_num: 205
 doc_order: 205
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[UKNA: CAB 133/262]'
+naa_refs: []
 title: MEMORANDUM, SANDYS TO THE MINISTERIAL COORDINATING COMMITTEE FOR THE 1962 COMMONWEALTH
   PRIME MINISTERS’ CONFERENCE
 vol_full_title: 'Volume 27: Australia and the United Kingdom, 1960–1975'

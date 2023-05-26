@@ -2,11 +2,7 @@
 doc_date: '1939-06-28'
 doc_num: 112
 doc_order: 112
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: CAB 21/893]'
+naa_refs: []
 title: Record of Meeting held in U.K. Prime Minister's Room at House of Commons
 vol_full_title: 'Volume 2: 1939'
 vol_id: 2

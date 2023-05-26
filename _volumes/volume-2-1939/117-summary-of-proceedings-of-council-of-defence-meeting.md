@@ -2,11 +2,7 @@
 doc_date: '1939-07-05'
 doc_num: 117
 doc_order: 117
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[AA: AA 1971/216, 5 JULY 1939]'
+naa_refs: []
 title: Summary of Proceedings of Council of Defence Meeting
 vol_full_title: 'Volume 2: 1939'
 vol_id: 2

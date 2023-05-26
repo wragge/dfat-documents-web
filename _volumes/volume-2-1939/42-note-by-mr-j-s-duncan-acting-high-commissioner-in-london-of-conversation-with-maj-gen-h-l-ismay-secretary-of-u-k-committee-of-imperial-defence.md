@@ -7,10 +7,6 @@ naa_refs:
   naa_control_symbol: 7/1
   naa_series: M104
   reference: '[AA: M104, ITEM 7(1)]'
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[PRO: CAB 21/893]'
 title: Note by Mr J.S. Duncan, Acting High Commissioner in London, of Conversation
   with Maj Gen H.L. Ismay, Secretary of U.K. Committee of Imperial Defence
 vol_full_title: 'Volume 2: 1939'

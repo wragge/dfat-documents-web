@@ -2,11 +2,7 @@
 doc_date: '1942-06-01'
 doc_num: 513
 doc_order: 514
-naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: ''
-  reference: '[FRANKLIN D. ROOSEVELT LIBRARY : P.S.F. SAFE FILE, BOX NO. 2. AUSTRALIA]'
+naa_refs: []
 title: U.S. Department of State to Mr Nelson Trusler Johnson, U.S. Minister to Australia
 vol_full_title: 'Volume 5: July 1941 – June 1942'
 vol_id: 5
