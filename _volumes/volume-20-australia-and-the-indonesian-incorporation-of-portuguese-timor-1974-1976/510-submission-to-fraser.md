@@ -7,7 +7,7 @@ naa_refs:
   naa_control_symbol: 1976/55 PART 7
   naa_series: A1209
   reference: '[NAA: A1209, 76/55, vii]'
-title: to Fraser
+title: Submission to Fraser
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20

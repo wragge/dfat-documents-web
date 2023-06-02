@@ -7,7 +7,7 @@ naa_refs:
   naa_control_symbol: 3038/10/1 PART 1
   naa_series: A1838
   reference: '[NAA: Al838, 3038/10/1, i]'
-title: from Blakeney to Tange
+title: Minute from Blakeney to Tange
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20

@@ -7,7 +7,7 @@ naa_refs:
   naa_control_symbol: 1976/55 PART 6
   naa_series: A1209
   reference: '[NAA: Al209, 76/55, vi]'
-title: to Jakarta
+title: Cablegram to Jakarta
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20

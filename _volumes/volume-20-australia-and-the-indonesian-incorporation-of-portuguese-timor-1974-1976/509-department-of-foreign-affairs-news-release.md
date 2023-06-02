@@ -11,7 +11,7 @@ naa_refs:
   naa_control_symbol: 1976/132 PART 1
   naa_series: A1209
   reference: '[On file NAA: Al209, 76/132, i.]'
-title: of Foreign Affairs News Release
+title: Department of Foreign Affairs News Release
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20

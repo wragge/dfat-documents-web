@@ -3,7 +3,7 @@ doc_date: '1976-10-10'
 doc_num: 0
 doc_order: 508
 naa_refs: []
-title: by Fraser
+title: Communique by Fraser
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20

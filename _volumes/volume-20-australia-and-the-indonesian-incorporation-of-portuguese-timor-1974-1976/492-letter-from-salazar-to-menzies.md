@@ -7,7 +7,7 @@ naa_refs:
   naa_control_symbol: 49/1/3 PART 5
   naa_series: A1838
   reference: '[NAA: Al838, 49/l/3, v]'
-title: from Salazar to Menzies
+title: Letter from Salazar to Menzies
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20

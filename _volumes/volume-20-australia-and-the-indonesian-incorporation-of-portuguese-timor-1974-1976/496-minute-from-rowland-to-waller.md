@@ -11,7 +11,7 @@ naa_refs:
   naa_control_symbol: 49/1/3 PART 5
   naa_series: A1838
   reference: '[NAA: A1838, 49/113, v.]'
-title: from Rowland to Waller
+title: Minute from Rowland to Waller
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20

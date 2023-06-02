@@ -11,7 +11,7 @@ naa_refs:
   naa_control_symbol: C3797
   naa_series: A4940
   reference: '[NAA: A4940/l, C3797.]'
-title: of Foreign Affairs and Defence Committee of Cabinet
+title: Minute of Foreign Affairs and Defence Committee of Cabinet
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20

@@ -7,7 +7,7 @@ naa_refs:
   naa_control_symbol: 202/1/1 ANNEX 3
   naa_series: A10005
   reference: '[NAA: A10005, TS202/1/l, ANNEX 4]'
-title: to Canberra, Lisbon, New York
+title: Cablegram to Canberra, Lisbon, New York
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20

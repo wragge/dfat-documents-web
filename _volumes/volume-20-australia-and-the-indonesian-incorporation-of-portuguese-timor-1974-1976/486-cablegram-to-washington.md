@@ -7,7 +7,7 @@ naa_refs:
   naa_control_symbol: 3038/10/1 PART 2
   naa_series: A1838
   reference: '[NAA: A1838, 3038/1011, ii]'
-title: to Washington
+title: Cablegram to Washington
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
 vol_id: 20
