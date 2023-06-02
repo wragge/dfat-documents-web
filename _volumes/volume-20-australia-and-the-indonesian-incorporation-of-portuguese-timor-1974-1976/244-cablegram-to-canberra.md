@@ -3,15 +3,15 @@ doc_date: '1975-09-29'
 doc_num: 244
 doc_order: 243
 naa_refs:
+- naa_barcode: 552304
+  naa_control_symbol: 49/2/1/1 PART 8
+  naa_series: A1838
+  reference: '[NAA: Al838, 4912/111, viii]'
 - naa_barcode: 550922
   naa_control_symbol: 3038/10/1 PART 30
   naa_series: A1838
   reference: '[Marginal notes to message CW652, 31 August, on file NAA:Al838, 3038/10/1,
     xxx.]'
-- naa_barcode: 552304
-  naa_control_symbol: 49/2/1/1 PART 8
-  naa_series: A1838
-  reference: '[NAA: Al838, 4912/111, viii]'
 title: Cablegram to Canberra
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

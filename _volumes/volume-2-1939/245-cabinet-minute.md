@@ -3,14 +3,14 @@ doc_date: '1939-09-26'
 doc_num: 245
 doc_order: 245
 naa_refs:
-- naa_barcode: 11279893
-  naa_control_symbol: 12/1939
-  naa_series: A2671
-  reference: '[AA:A2671,12/1939]'
 - naa_barcode: 11255689
   naa_control_symbol: VOLUME 2
   naa_series: A2697
   reference: '[AA:A2697, VOL. 2]'
+- naa_barcode: 11279893
+  naa_control_symbol: 12/1939
+  naa_series: A2671
+  reference: '[AA:A2671,12/1939]'
 title: Cabinet Minute
 vol_full_title: 'Volume 2: 1939'
 vol_id: 2

@@ -6,11 +6,11 @@ naa_refs:
 - naa_barcode: 584248
   naa_control_symbol: 3038/10/1 PART 2
   naa_series: A1838
-  reference: '[NAA: A1838, 3038/10/1, ii]'
+  reference: '[NAA: Al838, 3038/10/1, ii.]'
 - naa_barcode: 584248
   naa_control_symbol: 3038/10/1 PART 2
   naa_series: A1838
-  reference: '[NAA: Al838, 3038/10/1, ii.]'
+  reference: '[NAA: A1838, 3038/10/1, ii]'
 title: to Barwick
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

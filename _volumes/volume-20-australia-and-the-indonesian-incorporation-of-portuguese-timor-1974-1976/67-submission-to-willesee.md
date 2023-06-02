@@ -3,14 +3,14 @@ doc_date: '1974-12-13'
 doc_num: 67
 doc_order: 67
 naa_refs:
-- naa_barcode: 1505827
-  naa_control_symbol: 3038/10/1 PART 23
-  naa_series: A1838
-  reference: '[On file NAA: A1838, 3038/10/1, xxiii.]'
 - naa_barcode: 4151556
   naa_control_symbol: 801/13/11/1 PART 4
   naa_series: A10463
   reference: '[On file NAA: Al0463, 801113/11/1, iv.]'
+- naa_barcode: 1505827
+  naa_control_symbol: 3038/10/1 PART 23
+  naa_series: A1838
+  reference: '[On file NAA: A1838, 3038/10/1, xxiii.]'
 title: Submission to Willesee
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

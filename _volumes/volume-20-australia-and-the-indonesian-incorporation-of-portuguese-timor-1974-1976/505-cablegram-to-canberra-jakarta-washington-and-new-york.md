@@ -3,18 +3,18 @@ doc_date: '1977-05-23'
 doc_num: 0
 doc_order: 505
 naa_refs:
-- naa_barcode: 4151387
-  naa_control_symbol: 202/1/1 ANNEX 3
-  naa_series: A10005
-  reference: '[NAA: Al0005, TS202/1/l, ANNEX 3]'
-- naa_barcode: 1874208
-  naa_control_symbol: 49/2/1/1 PART 9
-  naa_series: A1838
-  reference: '[On file NAA: Al838, 49/21111, ix.]'
 - naa_barcode: 1874208
   naa_control_symbol: 49/2/1/1 PART 9
   naa_series: A1838
   reference: '[On file NAA: Al838, 49/2/111, ix.]'
+- naa_barcode: 1874208
+  naa_control_symbol: 49/2/1/1 PART 9
+  naa_series: A1838
+  reference: '[On file NAA: Al838, 49/21111, ix.]'
+- naa_barcode: 4151387
+  naa_control_symbol: 202/1/1 ANNEX 3
+  naa_series: A10005
+  reference: '[NAA: Al0005, TS202/1/l, ANNEX 3]'
 title: to Canberra, Jakarta, Washington and New York
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

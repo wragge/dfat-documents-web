@@ -3,14 +3,14 @@ doc_date: '1950-03-27'
 doc_num: 45
 doc_order: 45
 naa_refs:
-- naa_barcode: 238901
-  naa_control_symbol: 301/5 PART 1
-  naa_series: A5460
-  reference: '[NAA: A5460, 301/5]'
 - naa_barcode: 140070
   naa_control_symbol: 381/3/1/3 PART 1B
   naa_series: A1838
   reference: '[NAA: A1838, 381/3/1/3 part lb]'
+- naa_barcode: 238901
+  naa_control_symbol: 301/5 PART 1
+  naa_series: A5460
+  reference: '[NAA: A5460, 301/5]'
 title: Memorandum from Department of External Affairs for Australian Representatives
   in South East Asia
 vol_full_title: 'Volume 24: Australia and the Colombo Plan, 1949–1957'

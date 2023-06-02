@@ -3,14 +3,14 @@ doc_date: '1948-10-06'
 doc_num: 121
 doc_order: 121
 naa_refs:
-- naa_barcode: 409855
-  naa_control_symbol: DL47/5/6
-  naa_series: A1068
-  reference: '[AA:A1068/7, DL47/5/6]'
 - naa_barcode: 409842
   naa_control_symbol: DL47/5/1 PART 1
   naa_series: A1068
   reference: '[AA:A1068/7, DL47/5/1, i]'
+- naa_barcode: 409855
+  naa_control_symbol: DL47/5/6
+  naa_series: A1068
+  reference: '[AA:A1068/7, DL47/5/6]'
 title: Chifley [1] to Dedman
 vol_full_title: 'Volume 14: Australia and the Postwar World – The Commonwealth, Asia
   and the Pacific, 1948–1949'

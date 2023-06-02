@@ -3,14 +3,14 @@ doc_date: '1976-03-17'
 doc_num: 433
 doc_order: 432
 naa_refs:
-- naa_barcode: 4151547
-  naa_control_symbol: 801/13/11/1 PART 21
-  naa_series: A10463
-  reference: '[NAA: A10463, 801/13/11/1. xxi]'
 - naa_barcode: 4151608
   naa_control_symbol: 801/13/11/1 PART 19
   naa_series: A10463
   reference: '[On file NAA: A10463, 801/13/11/1, xix.]'
+- naa_barcode: 4151547
+  naa_control_symbol: 801/13/11/1 PART 21
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/11/1. xxi]'
 title: Record of Conversation Between Kadri and Joseph
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

@@ -3,14 +3,14 @@ doc_date: '1937-08-02'
 doc_num: 54
 doc_order: 54
 naa_refs:
-- naa_barcode: 232314
-  naa_control_symbol: '308'
-  naa_series: A2937
-  reference: '[FA : A2937, YAMPI SOUND]'
 - naa_barcode: 96360
   naa_control_symbol: E373/1/3
   naa_series: A461
   reference: '[AA : A461, E373/1/3]'
+- naa_barcode: 232314
+  naa_control_symbol: '308'
+  naa_series: A2937
+  reference: '[FA : A2937, YAMPI SOUND]'
 title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 vol_full_title: 'Volume 1: 1937–1938'
 vol_id: 1
