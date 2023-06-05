@@ -3,14 +3,14 @@ doc_date: '1942-11-22'
 doc_num: 78
 doc_order: 78
 naa_refs:
-- naa_barcode: 185586
-  naa_control_symbol: 1943/735/658
-  naa_series: A989
-  reference: '[AA:A989, 43/735/658]'
 - naa_barcode: 242450
   naa_control_symbol: NOVEMBER 1942
   naa_series: M100
   reference: '[AA:M100, NOVEMBER 1942]'
+- naa_barcode: 185586
+  naa_control_symbol: 1943/735/658
+  naa_series: A989
+  reference: '[AA:A989, 43/735/658]'
 title: Bruce to Curtin
 vol_full_title: 'Volume 6: July 1942 – December 1943'
 vol_id: 6

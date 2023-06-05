@@ -3,14 +3,14 @@ doc_date: '1973-05-30'
 doc_num: 0
 doc_order: 504
 naa_refs:
-- naa_barcode: 547387
-  naa_control_symbol: 3006/4/3 PART 4
-  naa_series: A1838
-  reference: '[NAA: A1838, 3006/4/3, iv]'
 - naa_barcode: 591527
   naa_control_symbol: 49/2/1/1 PART 2
   naa_series: A1838
   reference: '[On file NAA: A1838, 49/2/1/1, ii.]'
+- naa_barcode: 547387
+  naa_control_symbol: 3006/4/3 PART 4
+  naa_series: A1838
+  reference: '[NAA: A1838, 3006/4/3, iv]'
 title: Submission to Whitlam
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

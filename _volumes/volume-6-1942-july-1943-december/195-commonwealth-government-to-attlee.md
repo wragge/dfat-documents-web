@@ -1,5 +1,5 @@
 ---
-doc_date: '1913-05-15'
+doc_date: '1943-05-15'
 doc_num: 195
 doc_order: 195
 naa_refs:
@@ -13,7 +13,7 @@ vol_id: 6
 vol_title: 'Volume 6: 1942, July - 1943, December'
 ---
 
-Cablegram 119 CANBERRA, 15 May 1913
+Cablegram 119 CANBERRA, 15 May 1943
 
 SECRET IMMEDIATE
 

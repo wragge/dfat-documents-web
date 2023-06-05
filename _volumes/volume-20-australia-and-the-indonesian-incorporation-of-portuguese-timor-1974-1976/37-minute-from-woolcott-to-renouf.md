@@ -3,14 +3,14 @@ doc_date: '1974-09-24'
 doc_num: 37
 doc_order: 37
 naa_refs:
-- naa_barcode: 4151378
-  naa_control_symbol: 202/1/1 ANNEX 1A
-  naa_series: A10005
-  reference: '[On file NAA: A10005, TS202/1/1, Annex 1A.]'
 - naa_barcode: 4151641
   naa_control_symbol: '1'
   naa_series: A11443
   reference: '[NAA: A11443, [1]'
+- naa_barcode: 4151378
+  naa_control_symbol: 202/1/1 ANNEX 1A
+  naa_series: A10005
+  reference: '[On file NAA: A10005, TS202/1/1, Annex 1A.]'
 title: Minute from Woolcott to Renouf
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

@@ -6,11 +6,11 @@ naa_refs:
 - naa_barcode: 4151552
   naa_control_symbol: 801/13/11/1 PART 16
   naa_series: A10463
-  reference: '[On tile NAA: A10463, 80111311111, xvi.]'
+  reference: '[NAA: A10463, 801/13/11/1, xvi]'
 - naa_barcode: 4151552
   naa_control_symbol: 801/13/11/1 PART 16
   naa_series: A10463
-  reference: '[NAA: A10463, 801/13/11/1, xvi]'
+  reference: '[On tile NAA: A10463, 80111311111, xvi.]'
 title: Letter from Woolcott to Feakes
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

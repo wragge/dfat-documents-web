@@ -3,14 +3,14 @@ doc_date: '1938-05-18'
 doc_num: 203
 doc_order: 202
 naa_refs:
-- naa_barcode: 206663
-  naa_control_symbol: C47/1/4 PART 3
-  naa_series: A1608
-  reference: '[AA : A1608, C47/1/4, iii]'
 - naa_barcode: 172906
   naa_control_symbol: AUS 90 PART 1
   naa_series: A981
   reference: '[AA : A981, AUSTRALIA 90]'
+- naa_barcode: 206663
+  naa_control_symbol: C47/1/4 PART 3
+  naa_series: A1608
+  reference: '[AA : A1608, C47/1/4, iii]'
 title: Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General
   in Sydney
 vol_full_title: 'Volume 1: 1937–1938'

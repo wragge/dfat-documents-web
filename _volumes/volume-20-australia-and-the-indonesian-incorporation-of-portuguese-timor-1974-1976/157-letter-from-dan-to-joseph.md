@@ -3,14 +3,14 @@ doc_date: '1975-07-21'
 doc_num: 157
 doc_order: 157
 naa_refs:
-- naa_barcode: 4151602
-  naa_control_symbol: 801/13/11/1 PART 10
-  naa_series: A10463
-  reference: '[On file NAA: Al0463, 801113/ll/1, x.]'
 - naa_barcode: 547388
   naa_control_symbol: 3006/4/3 PART 5
   naa_series: A1838
   reference: '[NAA: A1838, 3006/4/3, v]'
+- naa_barcode: 4151602
+  naa_control_symbol: 801/13/11/1 PART 10
+  naa_series: A10463
+  reference: '[On file NAA: Al0463, 801113/ll/1, x.]'
 title: Letter from Dan to Joseph
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

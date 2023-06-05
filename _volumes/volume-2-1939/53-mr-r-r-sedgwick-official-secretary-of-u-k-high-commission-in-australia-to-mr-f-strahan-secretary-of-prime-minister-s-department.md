@@ -6,11 +6,11 @@ naa_refs:
 - naa_barcode: 181045
   naa_control_symbol: TIM P 22 PART 4
   naa_series: A981
-  reference: '[AA: A981, TIMOR (PORTUGUESE) 22, IV]'
+  reference: '[AA: A981, TIMOR (PORTUGUESE) 22, iv]'
 - naa_barcode: 181045
   naa_control_symbol: TIM P 22 PART 4
   naa_series: A981
-  reference: '[AA: A981, TIMOR (PORTUGUESE) 22, iv]'
+  reference: '[AA: A981, TIMOR (PORTUGUESE) 22, IV]'
 title: Mr R.R. Sedgwick, Official Secretary of U.K. High Commission in Australia,
   to Mr F. Strahan, Secretary of Prime Minister's Department
 vol_full_title: 'Volume 2: 1939'

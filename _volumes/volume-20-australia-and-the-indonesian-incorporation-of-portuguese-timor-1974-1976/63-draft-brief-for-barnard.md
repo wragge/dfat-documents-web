@@ -3,14 +3,14 @@ doc_date: 1974-12
 doc_num: 63
 doc_order: 63
 naa_refs:
-- naa_barcode: 11416335
-  naa_control_symbol: B1974/76
-  naa_series: A2539
-  reference: '[NAA: A1539, B74 76.]'
 - naa_barcode: 1757395
   naa_control_symbol: 696/5 PART 3
   naa_series: A1838
   reference: '[NAA: A1838, 696/5, iii]'
+- naa_barcode: 11416335
+  naa_control_symbol: B1974/76
+  naa_series: A2539
+  reference: '[NAA: A1539, B74 76.]'
 title: Draft Brief for Barnard
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

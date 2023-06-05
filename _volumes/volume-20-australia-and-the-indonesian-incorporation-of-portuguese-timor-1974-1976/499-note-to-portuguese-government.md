@@ -6,11 +6,11 @@ naa_refs:
 - naa_barcode: 584246
   naa_control_symbol: 3038/10/1 PART 1
   naa_series: A1838
-  reference: '[NAA: A1838, 3038/10/1, i]'
+  reference: '[NAA: A1838, 3038110/1, i.]'
 - naa_barcode: 584246
   naa_control_symbol: 3038/10/1 PART 1
   naa_series: A1838
-  reference: '[NAA: A1838, 3038110/1, i.]'
+  reference: '[NAA: A1838, 3038/10/1, i]'
 title: Note to Portuguese Government
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'
