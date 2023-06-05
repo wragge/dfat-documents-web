@@ -19,6 +19,7 @@
     <meta name="DCTERMS.date" content="{{ page.doc_date }}">
   </head>
   <body>
+  {% assign documents = site.volumes | where: 'vol_id', page.vol_id | sort: 'doc_order'  %}
   {% include _nav.html %}
   <section class="section">
     <div class="container">
@@ -45,6 +46,14 @@
                       <div class="content">
                           {{ content }}
                       </div>
+                        {% assign next_id = page.doc_order | plus: 1 %}
+                        {% assign next = documents | where: 'doc_order', next_id | first %}
+                        {% assign previous_id = page.doc_order | minus: 1 %}
+                        {% assign previous = documents | where: 'doc_order', previous_id | first %}
+                        <nav class="pagination" role="navigation" aria-label="pagination">
+                            <a {% if previous %} href="{{site.baseurl}}{{ previous.url }}"{% else %} is-disabled{% endif %} class="pagination-previous">Previous document</a>
+                            <a {% if next %}href="{{site.baseurl}}{{ next.url }}"{% else %} is-disabled{% endif %} class="pagination-next">Next document</a>
+                        </nav>
                   </div>
                   <div class="column sidebar">
                       <h6 class="title is-6">Date</h6>
