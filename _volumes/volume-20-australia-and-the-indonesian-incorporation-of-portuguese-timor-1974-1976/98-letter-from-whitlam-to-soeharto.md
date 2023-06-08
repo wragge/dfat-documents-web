@@ -3,15 +3,15 @@ doc_date: '1975-02-28'
 doc_num: 98
 doc_order: 98
 naa_refs:
-- naa_barcode: 4151599
-  naa_control_symbol: 801/13/11/1 PART 7
-  naa_series: A10463
-  reference: '[NAA: Al0463, 801/13/ll/1, vii]'
 - naa_barcode: 4151560
   naa_control_symbol: 3038/10/1/7 PART 1
   naa_series: A1838
   reference: '[Minute from Rowland to Whitlam, 27 February, on file NAA: Al838, 3038/10/1/7,
     i.]'
+- naa_barcode: 4151599
+  naa_control_symbol: 801/13/11/1 PART 7
+  naa_series: A10463
+  reference: '[NAA: Al0463, 801/13/ll/1, vii]'
 title: Letter from Whitlam to Soeharto
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

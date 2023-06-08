@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-07-18'
 doc_num: 230
-doc_order: 229
+doc_order: 230
 naa_refs:
 - naa_barcode: 181044
   naa_control_symbol: TIM P 22 PART 3

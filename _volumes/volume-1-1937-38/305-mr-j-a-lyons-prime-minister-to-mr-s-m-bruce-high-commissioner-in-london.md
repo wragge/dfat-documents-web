@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-10-25'
 doc_num: 305
-doc_order: 304
+doc_order: 305
 naa_refs: []
 title: Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London
 vol_full_title: 'Volume 1: 1937–1938'

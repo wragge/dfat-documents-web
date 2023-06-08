@@ -1,16 +1,12 @@
 ---
 doc_date: '1963-02-05'
-doc_num: 0
+doc_num: 484
 doc_order: 484
 naa_refs:
-- naa_barcode: 842531
-  naa_control_symbol: TS696/2/1
-  naa_series: A1838
-  reference: '[NAA: Al838, TS696/2/l.]'
-- naa_barcode: 1338483
-  naa_control_symbol: C3739
-  naa_series: A4940
-  reference: '[NAA: A4940, C3739]'
+- naa_barcode: 4151611
+  naa_control_symbol: 801/13/11/1 PART 24
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/11/1, xxiv]'
 title: Cabinet Minute
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-12-22'
 doc_num: 335
-doc_order: 334
+doc_order: 335
 naa_refs:
 - naa_barcode: 0
   naa_control_symbol: ''

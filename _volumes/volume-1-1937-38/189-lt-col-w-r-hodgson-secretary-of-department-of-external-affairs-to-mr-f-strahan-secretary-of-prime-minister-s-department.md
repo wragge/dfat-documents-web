@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-04-19'
 doc_num: 189
-doc_order: 188
+doc_order: 189
 naa_refs:
 - naa_barcode: 206889
   naa_control_symbol: C51/1/10

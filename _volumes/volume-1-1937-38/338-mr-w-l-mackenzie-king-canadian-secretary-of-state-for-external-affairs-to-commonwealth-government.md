@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-12-29'
 doc_num: 338
-doc_order: 337
+doc_order: 338
 naa_refs:
 - naa_barcode: 172554
   naa_control_symbol: ABY 20

@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-04-14'
 doc_num: 187
-doc_order: 186
+doc_order: 187
 naa_refs:
 - naa_barcode: 176491
   naa_control_symbol: GER 43 PART 2

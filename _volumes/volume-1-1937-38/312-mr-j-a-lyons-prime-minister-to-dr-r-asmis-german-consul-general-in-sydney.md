@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-10-29'
 doc_num: 312
-doc_order: 311
+doc_order: 312
 naa_refs:
 - naa_barcode: 176457
   naa_control_symbol: GER 22 PART 3

@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-08-20'
 doc_num: 174
-doc_order: 173
+doc_order: 174
 naa_refs:
 - naa_barcode: 1727142
   naa_control_symbol: 935/17/3 PART 16

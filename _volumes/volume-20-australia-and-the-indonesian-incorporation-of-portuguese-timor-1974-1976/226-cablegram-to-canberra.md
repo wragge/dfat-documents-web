@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-09-12'
 doc_num: 226
-doc_order: 225
+doc_order: 226
 naa_refs:
 - naa_barcode: 4151605
   naa_control_symbol: 801/13/11/1 PART 14

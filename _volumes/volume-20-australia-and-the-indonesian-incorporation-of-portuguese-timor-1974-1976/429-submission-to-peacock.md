@@ -1,16 +1,16 @@
 ---
 doc_date: '1976-02-24'
 doc_num: 429
-doc_order: 428
+doc_order: 429
 naa_refs:
-- naa_barcode: 1505848
-  naa_control_symbol: 3038/10/1 PART 44
-  naa_series: A1838
-  reference: '[On file NAA: A1838, 3038110/1, xliv.]'
 - naa_barcode: 1505916
   naa_control_symbol: 3038/10/1/2 PART 4
   naa_series: A1838
   reference: '[NAA: A1838, 3038/10/1/2, iv]'
+- naa_barcode: 1505848
+  naa_control_symbol: 3038/10/1 PART 44
+  naa_series: A1838
+  reference: '[On file NAA: A1838, 3038110/1, xliv.]'
 title: Submission to Peacock
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

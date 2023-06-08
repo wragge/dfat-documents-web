@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-11-07'
 doc_num: 316
-doc_order: 315
+doc_order: 316
 naa_refs:
 - naa_barcode: 206859
   naa_control_symbol: N51/1/6

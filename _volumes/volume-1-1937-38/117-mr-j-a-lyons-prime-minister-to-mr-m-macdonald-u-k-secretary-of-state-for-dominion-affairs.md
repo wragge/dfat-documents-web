@@ -1,7 +1,7 @@
 ---
 doc_date: '1937-12-30'
 doc_num: 117
-doc_order: 116
+doc_order: 117
 naa_refs:
 - naa_barcode: 179194
   naa_control_symbol: NETHE 52

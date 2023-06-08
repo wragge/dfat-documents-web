@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-11-01'
 doc_num: 334
-doc_order: 333
+doc_order: 334
 naa_refs:
 - naa_barcode: 176484
   naa_control_symbol: GER 39 PART 1

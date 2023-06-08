@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-11-19'
 doc_num: 342
-doc_order: 341
+doc_order: 342
 naa_refs:
 - naa_barcode: 1509230
   naa_control_symbol: 3034/10/6/9 PART 1

@@ -1,7 +1,7 @@
 ---
 doc_date: '1976-07-03'
 doc_num: 478
-doc_order: 477
+doc_order: 478
 naa_refs:
 - naa_barcode: 4185381
   naa_control_symbol: '23'

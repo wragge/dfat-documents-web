@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-12-10'
 doc_num: 370
-doc_order: 369
+doc_order: 370
 naa_refs:
 - naa_barcode: 1598810
   naa_control_symbol: 906/30/14/3 PART 2

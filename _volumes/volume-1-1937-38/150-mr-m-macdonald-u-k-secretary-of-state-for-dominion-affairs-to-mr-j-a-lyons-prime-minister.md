@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-03-22'
 doc_num: 150
-doc_order: 149
+doc_order: 150
 naa_refs:
 - naa_barcode: 176555
   naa_control_symbol: GREA 8 PART 2

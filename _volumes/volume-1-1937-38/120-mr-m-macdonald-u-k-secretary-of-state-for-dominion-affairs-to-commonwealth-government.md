@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-01-24'
 doc_num: 120
-doc_order: 119
+doc_order: 120
 naa_refs:
 - naa_barcode: 170175
   naa_control_symbol: 19/301/587

@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-11-06'
 doc_num: 329
-doc_order: 328
+doc_order: 329
 naa_refs:
 - naa_barcode: 552304
   naa_control_symbol: 49/2/1/1 PART 8

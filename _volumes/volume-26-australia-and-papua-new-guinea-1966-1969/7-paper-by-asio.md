@@ -3,14 +3,14 @@ doc_date: '1966-02-01'
 doc_num: 7
 doc_order: 7
 naa_refs:
-- naa_barcode: 1509639
-  naa_control_symbol: 3036/14/1/6 PART 3
-  naa_series: A1838
-  reference: '[On file NAA: A 1838, 3036/14/1/6 part 3]'
 - naa_barcode: 550890
   naa_control_symbol: 3036/14/1 PART 5
   naa_series: A1838
   reference: '[NAA: A1838, 3036/14/1 part 5]'
+- naa_barcode: 1509639
+  naa_control_symbol: 3036/14/1/6 PART 3
+  naa_series: A1838
+  reference: '[On file NAA: A 1838, 3036/14/1/6 part 3]'
 title: Paper By ASIO
 vol_full_title: 'Volume 26: Australia and Papua New Guinea, 1966–1969'
 vol_id: 26

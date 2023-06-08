@@ -1,7 +1,7 @@
 ---
 doc_date: '1937-10-16'
 doc_num: 79
-doc_order: 78
+doc_order: 79
 naa_refs:
 - naa_barcode: 173609
   naa_control_symbol: CHIN 114 PART 10

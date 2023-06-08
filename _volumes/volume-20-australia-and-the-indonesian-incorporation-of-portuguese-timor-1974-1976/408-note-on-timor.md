@@ -1,7 +1,7 @@
 ---
 doc_date: 1976-01
 doc_num: 408
-doc_order: 407
+doc_order: 408
 naa_refs:
 - naa_barcode: 11416334
   naa_control_symbol: B1974/70

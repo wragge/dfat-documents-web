@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-09-17'
 doc_num: 233
-doc_order: 232
+doc_order: 233
 naa_refs:
 - naa_barcode: 550923
   naa_control_symbol: 3038/10/1 PART 31

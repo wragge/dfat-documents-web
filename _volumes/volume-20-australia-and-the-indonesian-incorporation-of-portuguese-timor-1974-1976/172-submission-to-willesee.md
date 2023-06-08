@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-08-20'
 doc_num: 172
-doc_order: 171
+doc_order: 172
 naa_refs:
 - naa_barcode: 1505914
   naa_control_symbol: 3038/10/1/2 PART 2

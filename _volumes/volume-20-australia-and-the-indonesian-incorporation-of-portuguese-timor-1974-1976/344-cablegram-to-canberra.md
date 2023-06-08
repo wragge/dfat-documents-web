@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-11-25'
 doc_num: 344
-doc_order: 343
+doc_order: 344
 naa_refs:
 - naa_barcode: 5036190
   naa_control_symbol: '11'

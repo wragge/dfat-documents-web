@@ -1,16 +1,16 @@
 ---
 doc_date: '1976-06-10'
 doc_num: 467
-doc_order: 466
+doc_order: 467
 naa_refs:
-- naa_barcode: 4151603
-  naa_control_symbol: 801/13/11/1 PART 23
-  naa_series: A10463
-  reference: '[NAA: A10463, 801/13/11/1, xxiii]'
 - naa_barcode: 4151552
   naa_control_symbol: 801/13/11/1 PART 16
   naa_series: A10463
   reference: '[On file NAA: A10463, 801113/ll/1, xvi.]'
+- naa_barcode: 4151603
+  naa_control_symbol: 801/13/11/1 PART 23
+  naa_series: A10463
+  reference: '[NAA: A10463, 801/13/11/1, xxiii]'
 title: Record of Conversation Between Taylor and Tjan
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

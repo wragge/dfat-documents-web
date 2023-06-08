@@ -1,18 +1,18 @@
 ---
 doc_date: '1975-11-13'
 doc_num: 336
-doc_order: 335
+doc_order: 336
 naa_refs:
 - naa_barcode: 1505915
   naa_control_symbol: 3038/10/1/2 PART 3
   naa_series: A1838
   reference: '[NAA: A1838, 3038/10/1/2, ii and iii; A11443, [14]'
-- naa_barcode: 1505914
-  naa_control_symbol: 3038/10/1/2 PART 2
-  naa_series: A1838
-  reference: '[NAA: A1838, 3038/10/1/2, ii and iii; A11443, [14]'
 - naa_barcode: 4151650
   naa_control_symbol: '14'
+  naa_series: A1838
+  reference: '[NAA: A1838, 3038/10/1/2, ii and iii; A11443, [14]'
+- naa_barcode: 1505914
+  naa_control_symbol: 3038/10/1/2 PART 2
   naa_series: A1838
   reference: '[NAA: A1838, 3038/10/1/2, ii and iii; A11443, [14]'
 title: Submission to Peacock

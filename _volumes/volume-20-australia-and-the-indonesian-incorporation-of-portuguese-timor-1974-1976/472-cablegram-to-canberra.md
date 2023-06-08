@@ -1,7 +1,7 @@
 ---
 doc_date: '1976-06-23'
 doc_num: 472
-doc_order: 471
+doc_order: 472
 naa_refs:
 - naa_barcode: 4151387
   naa_control_symbol: 202/1/1 ANNEX 3

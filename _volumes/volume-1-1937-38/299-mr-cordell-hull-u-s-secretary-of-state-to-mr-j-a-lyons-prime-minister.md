@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-10-04'
 doc_num: 299
-doc_order: 298
+doc_order: 299
 naa_refs:
 - naa_barcode: 174719
   naa_control_symbol: CZE 18 PART 2

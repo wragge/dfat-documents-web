@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-09-02'
 doc_num: 246
-doc_order: 245
+doc_order: 246
 naa_refs: []
 title: Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley,
   U.K. Secretary of State for Dominion Affairs

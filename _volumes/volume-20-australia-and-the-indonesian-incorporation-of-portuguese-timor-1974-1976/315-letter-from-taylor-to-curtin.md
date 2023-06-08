@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-10-31'
 doc_num: 315
-doc_order: 314
+doc_order: 315
 naa_refs:
 - naa_barcode: 550931
   naa_control_symbol: 3038/10/12/4 PART 1

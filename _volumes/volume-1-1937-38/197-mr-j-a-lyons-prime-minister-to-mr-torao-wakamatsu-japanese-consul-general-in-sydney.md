@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-05-17'
 doc_num: 197
-doc_order: 196
+doc_order: 197
 naa_refs:
 - naa_barcode: 214766
   naa_control_symbol: '89'

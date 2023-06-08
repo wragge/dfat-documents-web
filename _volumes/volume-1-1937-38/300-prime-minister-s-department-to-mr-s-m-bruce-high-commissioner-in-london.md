@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-10-12'
 doc_num: 300
-doc_order: 299
+doc_order: 300
 naa_refs:
 - naa_barcode: 177772
   naa_control_symbol: LEAGUE 19TH ASS 1

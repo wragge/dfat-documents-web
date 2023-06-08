@@ -1,7 +1,7 @@
 ---
 doc_date: '1976-01-17'
 doc_num: 401
-doc_order: 400
+doc_order: 401
 naa_refs:
 - naa_barcode: 4151647
   naa_control_symbol: '10'

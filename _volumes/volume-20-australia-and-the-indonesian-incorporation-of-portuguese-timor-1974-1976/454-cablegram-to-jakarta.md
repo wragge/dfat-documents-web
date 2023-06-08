@@ -1,7 +1,7 @@
 ---
 doc_date: '1976-05-28'
 doc_num: 454
-doc_order: 453
+doc_order: 454
 naa_refs:
 - naa_barcode: 4151603
   naa_control_symbol: 801/13/11/1 PART 23

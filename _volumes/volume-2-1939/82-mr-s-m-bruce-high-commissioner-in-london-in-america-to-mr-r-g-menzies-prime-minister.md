@@ -3,10 +3,6 @@ doc_date: '1939-05-08'
 doc_num: 82
 doc_order: 82
 naa_refs:
-- naa_barcode: 206180
-  naa_control_symbol: A41/1/5 PART 1
-  naa_series: A1608
-  reference: '[AA:A1608, A41/1/5, i]'
 - naa_barcode: 242506
   naa_control_symbol: 7/4
   naa_series: M104
@@ -19,6 +15,10 @@ naa_refs:
   naa_control_symbol: ''
   naa_series: M104
   reference: '[AA:M104, ITEM 7(4)]'
+- naa_barcode: 206180
+  naa_control_symbol: A41/1/5 PART 1
+  naa_series: A1608
+  reference: '[AA:A1608, A41/1/5, i]'
 title: Mr S.M. Bruce, High Commissioner in London (in America), to Mr R.G. Menzies,
   Prime Minister
 vol_full_title: 'Volume 2: 1939'

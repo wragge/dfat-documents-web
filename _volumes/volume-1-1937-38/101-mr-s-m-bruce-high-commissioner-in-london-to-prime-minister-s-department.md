@@ -1,7 +1,7 @@
 ---
 doc_date: '1937-11-10'
 doc_num: 101
-doc_order: 100
+doc_order: 101
 naa_refs:
 - naa_barcode: 173613
   naa_control_symbol: CHIN 116

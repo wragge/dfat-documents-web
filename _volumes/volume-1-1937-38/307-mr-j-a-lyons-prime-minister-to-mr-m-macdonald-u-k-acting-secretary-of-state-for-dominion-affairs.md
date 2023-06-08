@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-10-26'
 doc_num: 307
-doc_order: 306
+doc_order: 307
 naa_refs:
 - naa_barcode: 177342
   naa_control_symbol: ITA 30 PART 2

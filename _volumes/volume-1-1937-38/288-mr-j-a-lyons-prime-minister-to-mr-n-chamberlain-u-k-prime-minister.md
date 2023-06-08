@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-09-28'
 doc_num: 288
-doc_order: 287
+doc_order: 288
 naa_refs:
 - naa_barcode: 98466
   naa_control_symbol: 1957/1067

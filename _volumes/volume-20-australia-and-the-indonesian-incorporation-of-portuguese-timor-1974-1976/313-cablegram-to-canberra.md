@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-10-31'
 doc_num: 313
-doc_order: 312
+doc_order: 313
 naa_refs:
 - naa_barcode: 4151606
   naa_control_symbol: 801/13/11/1 PART 15

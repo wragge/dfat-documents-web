@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-09-26'
 doc_num: 277
-doc_order: 276
+doc_order: 277
 naa_refs:
 - naa_barcode: 174703
   naa_control_symbol: CZE 6

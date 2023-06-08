@@ -1,7 +1,7 @@
 ---
 doc_date: '1976-02-10'
 doc_num: 422
-doc_order: 421
+doc_order: 422
 naa_refs:
 - naa_barcode: 4151546
   naa_control_symbol: 801/13/11/1 PART 20

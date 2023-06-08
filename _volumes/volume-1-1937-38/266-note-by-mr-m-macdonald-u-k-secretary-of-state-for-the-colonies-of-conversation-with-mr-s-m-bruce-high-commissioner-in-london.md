@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-09-19'
 doc_num: 266
-doc_order: 265
+doc_order: 266
 naa_refs: []
 title: Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies, of Conversation
   with Mr S. M. Bruce, High Commissioner in London

@@ -1,7 +1,7 @@
 ---
 doc_date: '1976-06-30'
 doc_num: 474
-doc_order: 473
+doc_order: 474
 naa_refs:
 - naa_barcode: 0
   naa_control_symbol: ''

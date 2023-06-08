@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-04-05'
 doc_num: 176
-doc_order: 175
+doc_order: 176
 naa_refs:
 - naa_barcode: 173201
   naa_control_symbol: AVI 101

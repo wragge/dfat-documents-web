@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-09-26'
 doc_num: 278
-doc_order: 277
+doc_order: 278
 naa_refs:
 - naa_barcode: 174711
   naa_control_symbol: CZE 13 PART 1

@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-08-03'
 doc_num: 236
-doc_order: 235
+doc_order: 236
 naa_refs:
 - naa_barcode: 176491
   naa_control_symbol: GER 43 PART 2

@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-04-28'
 doc_num: 193
-doc_order: 192
+doc_order: 193
 naa_refs:
 - naa_barcode: 173082
   naa_control_symbol: AUSTRIA 17 PART 2

@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-03-10'
 doc_num: 133
-doc_order: 132
+doc_order: 133
 naa_refs: []
 title: Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A.
   Lyons, Prime Minister

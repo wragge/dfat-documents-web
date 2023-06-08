@@ -3,14 +3,14 @@ doc_date: '1975-04-17'
 doc_num: 127
 doc_order: 127
 naa_refs:
-- naa_barcode: 1505914
-  naa_control_symbol: 3038/10/1/2 PART 2
-  naa_series: A1838
-  reference: '[NAA: Al838, 3038/10/1/2, ii]'
 - naa_barcode: 4151647
   naa_control_symbol: '10'
   naa_series: A11443
   reference: '[On file NAA: All443 [10]'
+- naa_barcode: 1505914
+  naa_control_symbol: 3038/10/1/2 PART 2
+  naa_series: A1838
+  reference: '[NAA: Al838, 3038/10/1/2, ii]'
 title: Letter from Woolcott to Willesee
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

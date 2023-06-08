@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-11-23'
 doc_num: 320
-doc_order: 319
+doc_order: 320
 naa_refs:
 - naa_barcode: 206666
   naa_control_symbol: C47/1/4 PART 6

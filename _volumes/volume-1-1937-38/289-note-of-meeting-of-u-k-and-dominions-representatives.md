@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-09-28'
 doc_num: 289
-doc_order: 288
+doc_order: 289
 naa_refs: []
 title: Note of Meeting of U.K. and Dominions Representatives
 vol_full_title: 'Volume 1: 1937–1938'

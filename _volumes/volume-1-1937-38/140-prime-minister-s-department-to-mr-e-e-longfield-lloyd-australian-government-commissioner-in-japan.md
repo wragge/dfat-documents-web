@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-03-17'
 doc_num: 140
-doc_order: 139
+doc_order: 140
 naa_refs:
 - naa_barcode: 206662
   naa_control_symbol: C47/1/4 PART 2

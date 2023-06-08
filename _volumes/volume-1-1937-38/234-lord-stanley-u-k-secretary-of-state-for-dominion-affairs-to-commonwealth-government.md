@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-07-29'
 doc_num: 234
-doc_order: 233
+doc_order: 234
 naa_refs:
 - naa_barcode: 232304
   naa_control_symbol: '146'

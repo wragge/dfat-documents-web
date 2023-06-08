@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-09-23'
 doc_num: 298
-doc_order: 297
+doc_order: 298
 naa_refs:
 - naa_barcode: 179611
   naa_control_symbol: PAC 1

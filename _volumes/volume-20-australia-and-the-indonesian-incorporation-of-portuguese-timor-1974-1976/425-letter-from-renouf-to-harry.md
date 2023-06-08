@@ -1,7 +1,7 @@
 ---
 doc_date: '1976-02-12'
 doc_num: 425
-doc_order: 424
+doc_order: 425
 naa_refs:
 - naa_barcode: 1505751
   naa_control_symbol: 3038/7/1 PART 10

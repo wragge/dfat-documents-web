@@ -3,10 +3,6 @@ doc_date: '1974-07-26'
 doc_num: 16
 doc_order: 16
 naa_refs:
-- naa_barcode: 550914
-  naa_control_symbol: 3038/10/1 PART 8
-  naa_series: A1838
-  reference: '[On file NAA: Al838, 303811011, viii.]'
 - naa_barcode: 4151641
   naa_control_symbol: '1'
   naa_series: A11443
@@ -15,6 +11,10 @@ naa_refs:
   naa_control_symbol: '1'
   naa_series: A11443
   reference: '[NAA: A11443, [1]'
+- naa_barcode: 550914
+  naa_control_symbol: 3038/10/1 PART 8
+  naa_series: A1838
+  reference: '[On file NAA: Al838, 303811011, viii.]'
 title: Letter from Feakes to Furlonger
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

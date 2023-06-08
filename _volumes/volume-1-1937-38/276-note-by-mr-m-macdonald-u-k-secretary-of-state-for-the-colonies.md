@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-09-25'
 doc_num: 276
-doc_order: 275
+doc_order: 276
 naa_refs: []
 title: Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies
 vol_full_title: 'Volume 1: 1937–1938'

@@ -7,12 +7,12 @@ naa_refs:
   naa_control_symbol: 3107/38/18/6 PART 2
   naa_series: A1838
   reference: '[NAA: A 1838, 3107/38118/6, ii]'
-- naa_barcode: 1510547
-  naa_control_symbol: 3107/38/18/6 PART 1
-  naa_series: A1838
-  reference: '[NAA: A3107/38/18/6, i]'
 - naa_barcode: 1510548
   naa_control_symbol: 3107/38/18/6 PART 2
+  naa_series: A1838
+  reference: '[NAA: A3107/38/18/6, i]'
+- naa_barcode: 1510547
+  naa_control_symbol: 3107/38/18/6 PART 1
   naa_series: A1838
   reference: '[NAA: A3107/38/18/6, i]'
 title: LETTER FROM ANDERSON TO RENOUF

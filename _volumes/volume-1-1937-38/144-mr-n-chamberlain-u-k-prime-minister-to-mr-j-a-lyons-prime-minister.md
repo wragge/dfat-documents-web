@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-03-18'
 doc_num: 144
-doc_order: 143
+doc_order: 144
 naa_refs:
 - naa_barcode: 206813
   naa_control_symbol: O51/1/1

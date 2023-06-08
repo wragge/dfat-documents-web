@@ -1,7 +1,7 @@
 ---
 doc_date: '1937-12-16'
 doc_num: 123
-doc_order: 122
+doc_order: 123
 naa_refs:
 - naa_barcode: 98468
   naa_control_symbol: 1957/1535

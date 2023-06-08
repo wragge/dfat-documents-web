@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-04-19'
 doc_num: 188
-doc_order: 187
+doc_order: 188
 naa_refs:
 - naa_barcode: 177341
   naa_control_symbol: ITA 30 PART 1

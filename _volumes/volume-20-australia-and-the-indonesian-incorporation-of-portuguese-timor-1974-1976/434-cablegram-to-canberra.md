@@ -1,7 +1,7 @@
 ---
 doc_date: '1976-03-19'
 doc_num: 434
-doc_order: 433
+doc_order: 434
 naa_refs:
 - naa_barcode: 4151547
   naa_control_symbol: 801/13/11/1 PART 21

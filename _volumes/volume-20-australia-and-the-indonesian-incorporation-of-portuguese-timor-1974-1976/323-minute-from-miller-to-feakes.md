@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-11-05'
 doc_num: 323
-doc_order: 322
+doc_order: 323
 naa_refs:
 - naa_barcode: 1505842
   naa_control_symbol: 3038/10/1 PART 38

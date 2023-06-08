@@ -3,14 +3,14 @@ doc_date: '1978-01-20'
 doc_num: 0
 doc_order: 509
 naa_refs:
-- naa_barcode: 0
-  naa_control_symbol: ''
-  naa_series: A1838
-  reference: '[NAA: Al838, 3038/10/1, ANNEX B]'
 - naa_barcode: 4151574
   naa_control_symbol: 1976/132 PART 1
   naa_series: A1209
   reference: '[On file NAA: Al209, 76/132, i.]'
+- naa_barcode: 0
+  naa_control_symbol: ''
+  naa_series: A1838
+  reference: '[NAA: Al838, 3038/10/1, ANNEX B]'
 title: Department of Foreign Affairs News Release
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

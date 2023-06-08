@@ -1,7 +1,7 @@
 ---
 doc_date: '1937-10-30'
 doc_num: 100
-doc_order: 99
+doc_order: 100
 naa_refs:
 - naa_barcode: 181043
   naa_control_symbol: TIM P 22 PART 2

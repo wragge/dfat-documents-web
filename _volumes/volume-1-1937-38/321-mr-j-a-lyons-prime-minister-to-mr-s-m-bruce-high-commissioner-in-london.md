@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-11-30'
 doc_num: 321
-doc_order: 320
+doc_order: 321
 naa_refs:
 - naa_barcode: 257368
   naa_control_symbol: BUNDLE 1/15

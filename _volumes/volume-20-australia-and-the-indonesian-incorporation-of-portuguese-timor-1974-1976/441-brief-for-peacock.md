@@ -1,7 +1,7 @@
 ---
 doc_date: 1976-04
 doc_num: 441
-doc_order: 440
+doc_order: 441
 naa_refs:
 - naa_barcode: 11416330
   naa_control_symbol: B1976/70

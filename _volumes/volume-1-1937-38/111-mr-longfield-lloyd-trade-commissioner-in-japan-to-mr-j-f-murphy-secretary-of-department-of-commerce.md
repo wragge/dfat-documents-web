@@ -1,7 +1,7 @@
 ---
 doc_date: '1937-10-06'
 doc_num: 111
-doc_order: 110
+doc_order: 111
 naa_refs:
 - naa_barcode: 172906
   naa_control_symbol: AUS 90 PART 1

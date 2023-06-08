@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-10-31'
 doc_num: 312
-doc_order: 311
+doc_order: 312
 naa_refs:
 - naa_barcode: 1757325
   naa_control_symbol: 696/2/2/1 PART 11

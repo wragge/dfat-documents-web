@@ -1,7 +1,7 @@
 ---
 doc_date: '1937-11-22'
 doc_num: 109
-doc_order: 108
+doc_order: 109
 naa_refs: []
 title: Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department
 vol_full_title: 'Volume 1: 1937–1938'

@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-10-29'
 doc_num: 306
-doc_order: 305
+doc_order: 306
 naa_refs:
 - naa_barcode: 1505915
   naa_control_symbol: 3038/10/1/2 PART 3

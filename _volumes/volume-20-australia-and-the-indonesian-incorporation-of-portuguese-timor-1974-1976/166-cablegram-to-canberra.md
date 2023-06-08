@@ -1,16 +1,16 @@
 ---
 doc_date: '1975-08-14'
 doc_num: 166
-doc_order: 165
+doc_order: 166
 naa_refs:
-- naa_barcode: 4151638
-  naa_control_symbol: 3038/13/2/1 PART 1
-  naa_series: A1838
-  reference: '[On file NAA: A1838, 3038/13/2/1, i.]'
 - naa_barcode: 4151551
   naa_control_symbol: 801/13/11/1 PART 11
   naa_series: A10463
   reference: '[NAA: A10463, 801/13/1111, xi]'
+- naa_barcode: 4151638
+  naa_control_symbol: 3038/13/2/1 PART 1
+  naa_series: A1838
+  reference: '[On file NAA: A1838, 3038/13/2/1, i.]'
 title: Cablegram to Canberra
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

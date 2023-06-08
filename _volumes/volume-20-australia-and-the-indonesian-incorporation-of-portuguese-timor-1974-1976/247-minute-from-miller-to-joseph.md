@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-10-01'
 doc_num: 247
-doc_order: 246
+doc_order: 247
 naa_refs:
 - naa_barcode: 1505837
   naa_control_symbol: 3038/10/1 PART 33

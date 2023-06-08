@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-06-24'
 doc_num: 222
-doc_order: 221
+doc_order: 222
 naa_refs:
 - naa_barcode: 232314
   naa_control_symbol: '308'

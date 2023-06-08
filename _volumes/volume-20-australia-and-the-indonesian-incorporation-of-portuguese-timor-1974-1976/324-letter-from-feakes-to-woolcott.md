@@ -1,7 +1,7 @@
 ---
 doc_date: '1975-11-05'
 doc_num: 324
-doc_order: 323
+doc_order: 324
 naa_refs:
 - naa_barcode: 4151647
   naa_control_symbol: '10'

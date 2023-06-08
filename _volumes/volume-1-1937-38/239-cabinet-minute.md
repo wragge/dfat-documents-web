@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-08-18'
 doc_num: 239
-doc_order: 238
+doc_order: 239
 naa_refs:
 - naa_barcode: 32329503
   naa_control_symbol: '409'

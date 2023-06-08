@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-12-05'
 doc_num: 325
-doc_order: 324
+doc_order: 325
 naa_refs:
 - naa_barcode: 172554
   naa_control_symbol: ABY 20

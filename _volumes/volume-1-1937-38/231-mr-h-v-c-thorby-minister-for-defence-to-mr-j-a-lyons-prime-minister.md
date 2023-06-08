@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-07-20'
 doc_num: 231
-doc_order: 230
+doc_order: 231
 naa_refs:
 - naa_barcode: 206889
   naa_control_symbol: C51/1/10

@@ -3,14 +3,14 @@ doc_date: '1974-12-10'
 doc_num: 65
 doc_order: 65
 naa_refs:
-- naa_barcode: 1505821
-  naa_control_symbol: 3038/10/1 PART 15
-  naa_series: A1838
-  reference: '[On file NAA:Al838, 3038/10/l, xv.]'
 - naa_barcode: 4151556
   naa_control_symbol: 801/13/11/1 PART 4
   naa_series: A10005
   reference: '[NAA: AI0463, 801/13/11/1, iv]'
+- naa_barcode: 1505821
+  naa_control_symbol: 3038/10/1 PART 15
+  naa_series: A1838
+  reference: '[On file NAA:Al838, 3038/10/l, xv.]'
 title: Letter from Willesee to Whitlam
 vol_full_title: 'Volume 20: Australia and the Indonesian Incorporation of Portuguese
   Timor, 1974–1976'

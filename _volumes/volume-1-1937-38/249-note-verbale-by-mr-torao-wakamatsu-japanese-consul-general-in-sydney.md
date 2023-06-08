@@ -1,7 +1,7 @@
 ---
 doc_date: '1938-09-08'
 doc_num: 249
-doc_order: 248
+doc_order: 249
 naa_refs:
 - naa_barcode: 172906
   naa_control_symbol: AUS 90 PART 1
